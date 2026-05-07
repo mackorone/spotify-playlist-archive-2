@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 181133,
       "name": "Baby, du er r\u00e5!",
       "url": "https://open.spotify.com/track/5pD6vZ2GG9ulDChjwwp8Hv"
@@ -19603,6 +19603,24 @@
     },
     {
       "album": {
+        "name": "RAMUELO",
+        "url": "https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186585,
+      "name": "HER ER DINE BLOMSTER",
+      "url": "https://open.spotify.com/track/1DawyVAe8ourM7NAIUxgEY"
+    },
+    {
+      "album": {
         "name": "Her vil e v\u00e6r",
         "url": "https://open.spotify.com/album/352wPRSxAb5NP0LUOQ1mYh"
       },
@@ -23260,7 +23278,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 203253,
       "name": "Idyll",
       "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
@@ -44203,6 +44221,24 @@
     },
     {
       "album": {
+        "name": "RAMUELO",
+        "url": "https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176718,
+      "name": "ST\u00d8GG",
+      "url": "https://open.spotify.com/track/0yAnbjMbKhgaE1xFbuYbUg"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -47139,6 +47175,24 @@
     },
     {
       "album": {
+        "name": "RAMUELO",
+        "url": "https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147018,
+      "name": "THEO",
+      "url": "https://open.spotify.com/track/2pAlnLGuxCfktbO0fW9Avs"
+    },
+    {
+      "album": {
         "name": "THEO",
         "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
       },
@@ -49910,10 +49964,28 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 139875,
       "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
       "url": "https://open.spotify.com/track/0gAJiu6fAe7j2PxYEz9f7a"
+    },
+    {
+      "album": {
+        "name": "RAMUELO",
+        "url": "https://open.spotify.com/album/22LvP1YFY3pOZuXWVwmndL"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139875,
+      "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
+      "url": "https://open.spotify.com/track/5TFucAmMIMW8x1JD6Fq780"
     },
     {
       "album": {

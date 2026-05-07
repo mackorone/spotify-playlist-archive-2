@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Blaqbonez
 
-746 songs - 1 day 11 hr 7 min
+747 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Cold Feet](https://open.spotify.com/track/4bX7mMAAnHCUPE9MXELTv8) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Cold Feet](https://open.spotify.com/album/66PmhCyBUndD6HmxKq7bDH) | 3:32 | 2023-03-25 | 2023-03-31 |
 | [Commander](https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Commander](https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3) | 2:38 | 2022-06-09 | 2023-11-17 |
 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 | 2024-09-27 |  |
+| [Confess](https://open.spotify.com/track/5RfHnSLM45UAyRW3ZVt2v5) | [Zyno TopBoy](https://open.spotify.com/artist/0Wid10rZ0QPQdFpmbldjNL) | [Confess](https://open.spotify.com/album/0t266vpZZqYvJEDdarAnD4) | 3:08 | 2026-05-01 |  |
 | [Confidence](https://open.spotify.com/track/0P6WPtjNyGtxJY3NmeGmQE) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Confidence](https://open.spotify.com/album/0eFZdUIA31PX05zz4d23T1) | 2:45 | 2024-12-06 | 2025-03-01 |
 | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 | 2025-02-21 | 2026-01-15 |
 | [Cool Off](https://open.spotify.com/track/1pg4J5FtqxxBQoPCcwEyQy) | [BM Casso](https://open.spotify.com/artist/2v4lbsIH2ZL1nYeYh4dowY), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [HitMan \(The EP\)](https://open.spotify.com/album/65BcJVA8SkPobP2pZFGF3C) | 2:48 | 2024-07-19 | 2024-07-27 |
@@ -669,7 +670,7 @@
 | [The Matter](https://open.spotify.com/track/5aa9lpv9FjrNBgbomqCH82) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [The Matter](https://open.spotify.com/album/167kMuV6WEgDCGvKZNJqTF) | 2:33 | 2025-04-18 | 2025-05-17 |
 | [The Shift \(feat\. Cruel Santino, Knucks & Jeriq\)](https://open.spotify.com/track/7pSD2G8uLfbnWpK7DEnr3E) | [Vivendii Sound](https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Shift \(feat\. Cruel Santino, Knucks & Jeriq\)](https://open.spotify.com/album/7kxwXRVkyYBzn3UgzmUdhP) | 3:00 | 2025-07-11 | 2025-08-30 |
 | [The UCHE’s Story \- Ep1](https://open.spotify.com/track/3R5oOpk6Jnjl23sum2l7rL) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [The UCHE’s Story](https://open.spotify.com/album/545ba0hFSxR2ccjKYz3IJf) | 2:15 | 2025-10-10 | 2025-10-17 |
-| [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-03-28 |  |
+| [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-03-28 | 2026-05-07 |
 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 | 2026-02-13 |  |
 | [This is Nigeria](https://open.spotify.com/track/1HmPO8ao2uu6opMJDW24DA) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [This Is Nigeria](https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu) | 3:28 | 2024-09-13 | 2024-09-20 |
 | [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 | 2026-01-23 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADrOPVmHGuURvysxh0JVKN3",
+  "snapshot_id": "afkzAAAAAACGjMk+U2FHCzcATrUjpewR",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 264133,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
+      "duration_ms": 229333,
+      "name": "Rulo",
+      "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Rulo",
-      "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
+      "duration_ms": 264133,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 206216,
+      "name": "Trance",
+      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 206216,
-      "name": "Trance",
-      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     }
   ],
   "unique_name": "This Is Salt Creek",

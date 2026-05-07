@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 483 likes - 108 songs - 6 hr 7 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 483 likes - 109 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 106 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 |
 | 107 | [¿Qué Sientes al Dar?](https://open.spotify.com/track/2WG4nnvnlqGog03RmcTywy) | [Javier Marval Ross](https://open.spotify.com/artist/72FYWQsfatZShho1er5m3t) | [¿Qué Sientes al Dar?](https://open.spotify.com/album/5ngarvdoBmBsQEUIk0yYes) | 3:41 |
 | 108 | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/track/0j3whSznT03ACSBL0XLvak) | [Planeta Luna](https://open.spotify.com/artist/5bZIFH7GHHt0BvGFhLgonS) | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/album/72QiHOhEGwuD4mX0SuraLH) | 2:44 |
+| 109 | [Written In The Starlight](https://open.spotify.com/track/3Ep7iNTQbnnCmkytwzDl2h) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Written In The Starlight](https://open.spotify.com/album/25rivZ9oVq31HBRNNLzraS) | 4:38 |
 
-Snapshot ID: `AAABqfoyr9ePVKkb2fAwtM68Qaa4Wdjk`
+Snapshot ID: `AAABqoLxDnHSeHFmxvg/IKiPUNJLMGfZ`

@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Bien Te Va",
+        "url": "https://open.spotify.com/album/5HmP591qMqeCO3nGINsOFx"
+      },
+      "artists": [
+        {
+          "name": "Nyquest",
+          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134760,
+      "name": "Bien Te Va",
+      "url": "https://open.spotify.com/track/0nBLZAAWxLXCt15rncjtoE"
+    },
+    {
+      "album": {
         "name": "Sobrepensar",
         "url": "https://open.spotify.com/album/79MhWLoHmjfJNeYGervTt5"
       },
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA"

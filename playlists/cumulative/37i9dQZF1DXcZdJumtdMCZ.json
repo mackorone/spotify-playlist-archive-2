@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Butter Bun",
+        "url": "https://open.spotify.com/album/4AFudZc17lUZObV61z6El9"
+      },
+      "artists": [
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139148,
+      "name": "Butter Bun",
+      "url": "https://open.spotify.com/track/64goXjCoIk1VFEWKDxz4cH"
+    },
+    {
+      "album": {
         "name": "Vaanam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3K2WMhR111JhiLj9VH36Q0"
       },
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 132000,
       "name": "Kaal Mela Kaal",
       "url": "https://open.spotify.com/track/6wharFlswx3cshruvWtbu1"

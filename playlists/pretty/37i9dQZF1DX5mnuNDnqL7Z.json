@@ -1,13 +1,29 @@
 {
   "description": "Who run the world? Cover: Claire Rosinkranz",
-  "num_followers": 52227,
+  "num_followers": 52232,
   "original_name": "Pop Girlies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALemZYTupTB6JHECo2ceCBvkDMvp",
+  "snapshot_id": "AAAAAD6uHAqwyMjUB+S1ml4+X6fzthxd",
   "tracks": [
+    {
+      "added_at": "2026-05-06 05:31:34",
+      "album": {
+        "name": "Right Back!",
+        "url": "https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "duration_ms": 198391,
+      "name": "Right Back!",
+      "url": "https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n"
+    },
     {
       "added_at": "2026-05-04 01:55:13",
       "album": {
@@ -1627,22 +1643,6 @@
       "duration_ms": 139017,
       "name": "I Got A Thing For Love",
       "url": "https://open.spotify.com/track/5UFjPmGDGlhBP6XHH5dMJn"
-    },
-    {
-      "added_at": "2026-05-04 01:55:13",
-      "album": {
-        "name": "Confessions: An Unexpected Turn of Events",
-        "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 173485,
-      "name": "Ends In Y",
-      "url": "https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg"
     }
   ],
   "unique_name": "Pop Girlies",

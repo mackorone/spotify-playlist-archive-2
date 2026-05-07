@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Canti
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,193 likes - 97 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,196 likes - 97 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 4 | [Siren Song](https://open.spotify.com/track/5yYHvzPuaSHrzP6TncTjjD) | [Dennis Linggar](https://open.spotify.com/artist/4Ht5zocCwfIenYeBolxXxt), [JPecs](https://open.spotify.com/artist/2RaLCgWRwHSBJySoMVZi1U) | [Siren Song](https://open.spotify.com/album/1BiUsd9jcyUGAPlJqyoPXZ) | 3:00 |
 | 5 | [fokusku kedelay](https://open.spotify.com/track/0I9XRB2ibh4uijHSk7IgyF) | [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws) | [fokusku kedelay](https://open.spotify.com/album/7qnncMLNhFafWkHUeewg1I) | 2:51 |
 | 6 | [Kubuka Pintu](https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kubuka Pintu](https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM) | 3:53 |
-| 7 | [GREEN](https://open.spotify.com/track/7f7anP2UCwgiJqvnBXcVFq) | [yuandirty](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ), [GAZM](https://open.spotify.com/artist/3wnEMTyjnqE2ay6ObaZVes) | [S 90 3](https://open.spotify.com/album/2XbedfHomAGEkFcbeeP6CL) | 2:48 |
+| 7 | [GREEN](https://open.spotify.com/track/7f7anP2UCwgiJqvnBXcVFq) | [yuan](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ), [GAZM](https://open.spotify.com/artist/3wnEMTyjnqE2ay6ObaZVes) | [S 90 3](https://open.spotify.com/album/2XbedfHomAGEkFcbeeP6CL) | 2:48 |
 | 8 | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/album/0neAOjh7pob5T9hroLg3Pz) | 3:18 |
 | 9 | [Cantikkuuuuu](https://open.spotify.com/track/0Opos1749YAMnjC2htWzYV) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Cantikkuuuuu](https://open.spotify.com/album/0a50H8wn696CVLTOVn4zLY) | 3:16 |
 | 10 | [Superstar Energy](https://open.spotify.com/track/2UYmdrge419TwaNMZbewoo) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Superstar](https://open.spotify.com/album/2XV8ANcTWdKw4KOU408W4L) | 2:50 |
 | 11 | [Savor](https://open.spotify.com/track/4FGGVyBrsWePOSTVL6K95M) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Shanne Dandan](https://open.spotify.com/artist/7EI84Mki1SMyB7NcBDPUCd), [Thinlamphone](https://open.spotify.com/artist/3mnChgaY71RHitaCCyogeM), [leonnutx](https://open.spotify.com/artist/6NH3eUPgorh9IMqALtDiRt) | [Savor](https://open.spotify.com/album/4MfDLcpgl4BEOsJaEoxwpt) | 2:56 |
 | 12 | [RATHER BE / IN HELL](https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [PISSED ME OFF / BORED ME TO DEATH](https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT) | 4:06 |
 | 13 | [Keliling](https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Keliling](https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx) | 2:59 |
-| 14 | [STAY/GO \(Do What You Want\)](https://open.spotify.com/track/4o1OYUJIRRWoe7qcAAaYv0) | [yuandirty](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ) | [STAY/GO \(Do What You Want\)](https://open.spotify.com/album/1xQ4cqjMBG5J1RcFLrl6Mi) | 2:33 |
+| 14 | [STAY/GO \(Do What You Want\)](https://open.spotify.com/track/4o1OYUJIRRWoe7qcAAaYv0) | [yuan](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ) | [STAY/GO \(Do What You Want\)](https://open.spotify.com/album/1xQ4cqjMBG5J1RcFLrl6Mi) | 2:33 |
 | 15 | [Siapa Kamu?](https://open.spotify.com/track/55KjeBjTgIEBHgtdJqWcTP) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Siapa Kamu?](https://open.spotify.com/album/1ubd8CFUMzsjwDsfQN3ylF) | 3:21 |
 | 16 | [Slow Ride](https://open.spotify.com/track/48RtOdZydalAcG5S8LkgiY) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Slow Ride](https://open.spotify.com/album/0TydQJLAnqnm5rJzGbp640) | 2:48 |
 | 17 | [Under the Silver Moon](https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Under the Silver Moon](https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT) | 3:27 |

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-347 songs - 20 hr 4 min
+349 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Ermine](https://open.spotify.com/track/2WRwIkKaa22ieYZVTLsV7H) | [Faye Ophelia](https://open.spotify.com/artist/6MNLBbT6ctnLmJLuypt7pz) | [Lunar Eclipse](https://open.spotify.com/album/6WBZOSeCrdUxT2zF3ljCuC) | 4:42 | 2026-01-15 | 2026-02-20 |
 | [Eyes Wide Shut](https://open.spotify.com/track/0NovACJ6dEiMAGkNswOFkm) | [Rainbow Conspiracy](https://open.spotify.com/artist/1vIoyFvg5aqVtR2to6HLIn), [Jay Embi](https://open.spotify.com/artist/2UEed5jP8AeBExfVyqcocT) | [Eyes Wide Shut](https://open.spotify.com/album/7DRwzzubjvtBcTmQkUsgti) | 3:56 | 2026-04-20 |  |
 | [Ezra](https://open.spotify.com/track/4gRv5ebgu2zLUFejwQA03F) | [junkyardroyalty](https://open.spotify.com/artist/2QN7pIeUZFmT2fMZRSlrQL) | [Ezra](https://open.spotify.com/album/4v1NROQ5h2ivSOTjRWFote) | 2:46 | 2026-02-23 | 2026-04-16 |
+| [fade away](https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fade away](https://open.spotify.com/album/0zETxreVMiB64USyET4cZI) | 2:31 | 2026-05-06 |  |
 | [Fairway](https://open.spotify.com/track/1AwmZwc3Wz0cKvhJZe9N0d) | [Ross Pond](https://open.spotify.com/artist/7EMyFndXI4hqep6zPbetVg) | [Fairway](https://open.spotify.com/album/1cdDTUPaINS3dIc06T4aFj) | 3:56 | 2026-01-06 | 2026-03-29 |
 | [Fake Happiness](https://open.spotify.com/track/6vAbICOt2jE3FsfRHmzWgD) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Fake Happiness](https://open.spotify.com/album/5oN9wBUQom6yKPGqHtExqd) | 3:35 | 2026-03-10 | 2026-04-16 |
 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 | 2025-10-30 | 2025-12-12 |
@@ -204,7 +205,7 @@
 | [Medicine](https://open.spotify.com/track/4IL6fBdGtJdTWHaBlq0ygR) | [Melissa Seals](https://open.spotify.com/artist/3yFgqYjP0ljLGdlm2Tel3t) | [Medicine](https://open.spotify.com/album/2FWui2L2Bz5jMhpYBFbVgp) | 2:50 | 2026-01-13 | 2026-02-20 |
 | [midnight](https://open.spotify.com/track/3Dj8351qYVaXJadChnfTFg) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [midnight](https://open.spotify.com/album/17Awl62nf01DXJzPKSb5UN) | 2:09 | 2025-11-07 | 2026-01-17 |
 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2025-12-30 | 2026-03-29 |
-| [Mole's Hotel](https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz) | [Public Delay](https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO), [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Mole's Hotel](https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP) | 2:32 | 2026-04-21 |  |
+| [Mole's Hotel](https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz) | [Public Delay](https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO), [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Mole's Hotel](https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP) | 2:32 | 2026-04-21 | 2026-05-07 |
 | [Moments](https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Moments EP](https://open.spotify.com/album/5hTPUaaoJX2PnTdTMZ0EVt) | 3:40 | 2026-05-05 |  |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-12-12 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-10-29 | 2025-12-12 |
@@ -237,6 +238,7 @@
 | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/track/2a5P1JUuU4eTizy9pgcYZ7) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Please Don't Go \(Because I Said No\)](https://open.spotify.com/album/0upU91StxEwO874hng87uN) | 2:52 | 2026-03-26 | 2026-04-21 |
 | [pleistras](https://open.spotify.com/track/1Mf23beWU7eorvugsrUrlX) | [jau aušta](https://open.spotify.com/artist/5jjLJkbhQh1zVWQeBy2U5q) | [pleistras](https://open.spotify.com/album/5lURCZT9YOyfo7fMHWJP1l) | 4:26 | 2026-04-20 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
+| [PRETTY GIRL DONT CRY \- Haunted Version](https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [PRETTY GIRL DONT CRY \(Haunted Version\)](https://open.spotify.com/album/5hGSXhqlqNrBsDHHODFkip) | 3:55 | 2026-05-06 |  |
 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 | 2026-02-02 | 2026-03-10 |
 | [Purple Apology](https://open.spotify.com/track/43uzmSmFrFWUoysDNeRfVo) | [SrJ Is DeD](https://open.spotify.com/artist/2B8qfVKrS25pCuOuXpLV1U) | [Flow.](https://open.spotify.com/album/2NnuwWtt2lutd9kxd7vetS) | 2:51 | 2026-03-31 | 2026-05-06 |
 | [Pushing Forty](https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Pushing Forty](https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm) | 3:08 | 2026-03-29 | 2026-04-30 |

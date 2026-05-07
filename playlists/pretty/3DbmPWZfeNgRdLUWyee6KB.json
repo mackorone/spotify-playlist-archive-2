@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1300,
+  "num_followers": 1301,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAATzKnHv2VJRfnb0jP88YLiGW+2Toko",
+  "snapshot_id": "AAATz5v7qLhzweXX7q1ThqubPWWfUNj9",
   "tracks": [
     {
       "added_at": "2026-04-17 16:05:40",
@@ -2251,6 +2251,58 @@
       "duration_ms": 196108,
       "name": "Sleep tight",
       "url": "https://open.spotify.com/track/0Lrr38F3fCSL0ERjoOrjBO"
+    },
+    {
+      "added_at": "2026-05-06 09:32:17",
+      "album": {
+        "name": "Why Don't You?",
+        "url": "https://open.spotify.com/album/0PhTPtXquw0iXDsTzL4aCD"
+      },
+      "artists": [
+        {
+          "name": "Donnie Dynamite",
+          "url": "https://open.spotify.com/artist/2jF2ZJPCeAL4UTrWa1Z78f"
+        },
+        {
+          "name": "FiVe (The Infinite)",
+          "url": "https://open.spotify.com/artist/2iI7c8fENFVoSANPTWVTup"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Why Don't You?",
+      "url": "https://open.spotify.com/track/3ZwziPw6tfa2uqVO3kb00x"
+    },
+    {
+      "added_at": "2026-05-06 09:32:26",
+      "album": {
+        "name": "Call Me Anytime",
+        "url": "https://open.spotify.com/album/3nKQvXcf2VZh9PCNuN1uAb"
+      },
+      "artists": [
+        {
+          "name": "Apryll Aileen",
+          "url": "https://open.spotify.com/artist/7HiM3bTnI54m340lbhpODC"
+        }
+      ],
+      "duration_ms": 235441,
+      "name": "Call Me Anytime",
+      "url": "https://open.spotify.com/track/3SQIF5HhACrt8EeUE3eE4G"
+    },
+    {
+      "added_at": "2026-05-06 09:32:59",
+      "album": {
+        "name": "Open Range_Master",
+        "url": "https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0443\u043b\u044c\u0436\u0435\u043d\u043a\u043e \u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+          "url": "https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen"
+        }
+      ],
+      "duration_ms": 131464,
+      "name": "Open Range_Master",
+      "url": "https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou"
     }
   ],
   "unique_name": "New Indie Music",

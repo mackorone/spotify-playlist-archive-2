@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 656999,
+  "num_followers": 657109,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAACh7h7Wn4lO13KfLzYRWG2s",
+  "snapshot_id": "afkzAAAAAADfVlAT0rbPF1PD247qudWH",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,25 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 151472,
-      "name": "Dry Deserts",
-      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
+      "duration_ms": 231241,
+      "name": "Slicked Back",
+      "url": "https://open.spotify.com/track/41v5ExDEEEvJsWAPo91aoj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 178151,
+      "name": "Fifth of May",
+      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
     },
     {
       "added_at": null,
@@ -492,15 +492,15 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 231241,
-      "name": "Slicked Back",
-      "url": "https://open.spotify.com/track/41v5ExDEEEvJsWAPo91aoj"
+      "duration_ms": 151472,
+      "name": "Dry Deserts",
+      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Day of My Life",
-        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 178151,
-      "name": "Fifth of May",
-      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
     },
     {
       "added_at": null,

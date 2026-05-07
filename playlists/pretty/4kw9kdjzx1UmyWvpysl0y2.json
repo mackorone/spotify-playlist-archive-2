@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123978,
+  "num_followers": 123975,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVXLBMG1vOL1NcFv5CL9vlS5tYtqYx",
+  "snapshot_id": "AAAVXZqPZAm8t6YPIDVMnPfagpOgduJt",
   "tracks": [
+    {
+      "added_at": "2026-05-06 17:19:31",
+      "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/2y7MbqBjmsAqoemC0cturf"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "duration_ms": 202628,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/771QbU9fDqOa91vIuj0Vvu"
+    },
     {
       "added_at": "2026-05-04 15:03:29",
       "album": {
@@ -866,6 +886,10 @@
         {
           "name": "WHIPPED CREAM",
           "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
         }
       ],
       "duration_ms": 148943,

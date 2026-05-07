@@ -4,7 +4,7 @@
 
 > you met me at a very indie twang time in my life...This Is Lorelei on the cover
 
-359 songs - 23 hr 6 min
+360 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Solar Pilgrim](https://open.spotify.com/track/2diIDjwlKc20RCAZbduELu) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/7dF7onqAzMMauRg11raQZh) | 5:20 | 2024-04-14 | 2026-02-07 |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2023-02-23 | 2023-12-09 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-02-23 | 2023-11-11 |
+| [Something To Be Said](https://open.spotify.com/track/1LMtDfQdigyLsyad8gWbBQ) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [STREETSWEEPER](https://open.spotify.com/album/2ncjH9rLhnNIwveao7jtpA) | 3:45 | 2026-05-06 |  |
 | [Somewhere In The Middle](https://open.spotify.com/track/2E4JCuZ0tMWeRTTSiaTvBT) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Somewhere In The Middle](https://open.spotify.com/album/73Rso0TopoEw4xGJppcHki) | 3:27 | 2023-06-28 | 2023-07-15 |
 | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/track/4s5xjrNtmAKKv1A66rfHVR) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/album/6WSRJN51d3S5OmWNi6Bv13) | 2:27 | 2025-09-05 | 2025-09-20 |
 | [Spirit Manger](https://open.spotify.com/track/6XMZCoxwWeNRC3bAtX699y) | [i26connector](https://open.spotify.com/artist/4O6RKDvxGhEChWGZOZSmmq) | [i26connector](https://open.spotify.com/album/0M5N9u8oX9pPq8oeVcwr9F) | 2:59 | 2026-03-27 |  |

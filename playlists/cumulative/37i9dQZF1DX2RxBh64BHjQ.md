@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1xkEwol8vsfO4m2WP8Dyk9">Trim</a>
 
-2,833 songs - 5 day 4 hr 43 min
+2,835 songs - 5 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 | 2024-10-04 | 2024-12-14 |
 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 | 2022-03-18 | 2022-04-29 |
 | [Eternals](https://open.spotify.com/track/1n5aEuSLaByu7aNpLAiWkI) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Eternals](https://open.spotify.com/album/4vU0Hm7nknq0zK0nPgGWi0) | 2:27 | 2023-05-05 | 2023-06-24 |
+| [Everglades](https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa) | [AZIEDOESNTEXIST](https://open.spotify.com/artist/13BgU01okousPOFvmiwecU) | [Everglades](https://open.spotify.com/album/6pErDmXR3rA9dkZr9Fwv0E) | 1:48 | 2026-05-06 |  |
 | [Everything Dead](https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Everything Dead](https://open.spotify.com/album/194pYj4CXWWsNUS8LMIWeO) | 3:23 | 2023-11-03 | 2024-02-17 |
 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 | 2024-05-17 | 2024-07-13 |
 | [everything new \(feat\. Gunna\)](https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DFTK](https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r) | 2:37 | 2022-02-04 | 2022-04-02 |
@@ -787,6 +788,7 @@
 | [Exposing Me \(with VonOff1700\)](https://open.spotify.com/track/2t0bB6Df3PVt8Ju31zLnjo) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Exposing Me \(with VonOff1700\)](https://open.spotify.com/album/5tQhgnmY58VqyoIlB5HHnU) | 2:29 | 2025-05-23 | 2025-05-31 |
 | [Express Myself](https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Express Myself](https://open.spotify.com/album/64JKDU3XXp4VbXSlhh6nHd) | 2:33 | 2023-11-17 | 2024-03-16 |
 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 | 2023-03-17 | 2023-05-27 |
+| [Eyesight](https://open.spotify.com/track/5YQ34RKhPrJzojv7LmbekW) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood \(BloodLuxe\)](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj) | 2:25 | 2026-05-06 |  |
 | [F\* TASTE](https://open.spotify.com/track/0eyFCLT8pkBjqxgkgypZGk) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [F\* TASTE](https://open.spotify.com/album/6DXn08iIwPybGOxdSMWx7L) | 2:00 | 2023-10-06 | 2023-11-18 |
 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 | 2024-07-12 | 2025-09-13 |
 | [F.M.C](https://open.spotify.com/track/4fXhuXCugkZHJik91VsjJi) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [F.M.C](https://open.spotify.com/album/0H05GqVNPsxQ6ZslcpuRPF) | 2:05 | 2025-05-16 | 2025-06-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416647,
+  "num_followers": 416654,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2fuTVa0NlCsdFwzZe9VmWe"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/29JA4nu6U5FLsMpbmvNjHx"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2fuTVa0NlCsdFwzZe9VmWe"
-      },
-      "artists": [
-        {
-          "name": "Gavin Moss",
-          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
-        },
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 131803,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/29JA4nu6U5FLsMpbmvNjHx"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -779,22 +779,22 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Zula",
-        "url": "https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         },
         {
-          "name": "Gavin Moss",
-          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 130819,
-      "name": "Zula",
-      "url": "https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -819,22 +819,22 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Zula",
+        "url": "https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
         },
         {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 130819,
+      "name": "Zula",
+      "url": "https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
+        "name": "Everything Will Be Alright",
+        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
       },
       "artists": [
         {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
+      "duration_ms": 205161,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -1331,22 +1347,6 @@
       "duration_ms": 174398,
       "name": "Old Friend (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
-        "name": "Everything Will Be Alright",
-        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
     },
     {
       "added_at": "2026-05-05 14:00:27",

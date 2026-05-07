@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Buju Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,600 likes - 109 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,622 likes - 109 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

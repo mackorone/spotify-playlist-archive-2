@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Anakin's Theme",
+      "url": "https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z"
+    },
+    {
+      "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
       },
@@ -614,7 +636,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 198026,
       "name": "Love Theme (From \"Cinema Paradiso\")",
       "url": "https://open.spotify.com/track/0Qo1kcncYrePDxWHxpz1IQ"
@@ -666,6 +688,28 @@
       "duration_ms": 228946,
       "name": "Main Theme (From \"Schindler's List\")",
       "url": "https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324226,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4"
     },
     {
       "album": {

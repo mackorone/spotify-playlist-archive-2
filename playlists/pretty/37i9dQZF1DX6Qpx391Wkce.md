@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,356 likes - 66 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,369 likes - 66 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 65 | [La Lune](https://open.spotify.com/track/0nPk9rvp09b479plsVgF82) | [Julian Jeweil](https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf) | [Rituel](https://open.spotify.com/album/2ZZ30t66ftZMpF0HxsJbnX) | 5:19 |
 | 66 | [I Wish I Had Met You Earlier \- Radio\-Edit](https://open.spotify.com/track/3OW1EDGYIQD4kDbS56UJOE) | [Juliane Wolf](https://open.spotify.com/artist/6ZW2TzV8Dke8s7I7CYCvhP) | [I Wish I Had Met You Earlier](https://open.spotify.com/album/5dCyiZHWandHEyktwPt0tv) | 4:04 |
 
-Snapshot ID: `AAAAABNAr+xYciWyCZwQUC24eOTLCDQC`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

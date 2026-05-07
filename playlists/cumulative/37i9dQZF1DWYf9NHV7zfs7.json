@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Cuando La Vida Duele",
+        "url": "https://open.spotify.com/album/7A1fQpCtnsJE3JfWpXSgEc"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218113,
+      "name": "Cuando La Vida Duele",
+      "url": "https://open.spotify.com/track/1KjozHIQpfOUVRHBYYKPe2"
+    },
+    {
+      "album": {
         "name": "cuddles at night",
         "url": "https://open.spotify.com/album/0mxdbvMz5zbpx4xpSigtcg"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 206520,
       "name": "Es ahora",
       "url": "https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 183422,
       "name": "Kapun",
       "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 199089,
       "name": "Manantial",
       "url": "https://open.spotify.com/track/07PxDNG4ROIJM7WYUntH24"
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 181654,
       "name": "Qu\u00e9 Bien Se Te Ve (En la Ventana) [feat. Alex Ubago]",
       "url": "https://open.spotify.com/track/5Lc6t78tSYI5tILlFyr3l0"
@@ -6964,7 +6982,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 174523,
       "name": "Todo De M\u00ed",
       "url": "https://open.spotify.com/track/18Sx1W4k6Bbie3twAt2azN"

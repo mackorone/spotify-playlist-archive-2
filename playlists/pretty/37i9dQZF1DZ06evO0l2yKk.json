@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 202066,
+  "num_followers": 202121,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAABBgDjc6VFOJEUmcjE5+tUx",
+  "snapshot_id": "afkzAAAAAADdnf493X9ioz6BE+PdgTJD",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+        "name": "Con Canciones Y Tequila",
+        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Fuego Contra Fuego",
-      "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
+      "duration_ms": 179786,
+      "name": "No Te Imaginas",
+      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Fuego Contra Fuego",
+      "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Corridos Bien Perrones",
         "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 193666,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Canciones Y Tequila",
-        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 179786,
-      "name": "No Te Imaginas",
-      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Y Es Que Te Quiero De Tal Forma",
-      "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Espejo De Cantina",
         "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 324240,
       "name": "Popurr\u00ed: Cardenaleando La Cumbia",
       "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Y Es Que Te Quiero De Tal Forma",
+      "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
     },
     {
       "added_at": null,

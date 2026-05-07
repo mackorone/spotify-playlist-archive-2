@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-415 songs - 1 day 0 hr 10 min
+416 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-06-16 | 2025-11-10 |
 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 | 2023-06-16 | 2025-11-10 |
 | [Beso de Novela](https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Beso de Novela](https://open.spotify.com/album/59fdDCsawh4fwKGTqfECbD) | 2:46 | 2025-11-09 | 2026-02-16 |
+| [Bien Te Va](https://open.spotify.com/track/0nBLZAAWxLXCt15rncjtoE) | [Nyquest](https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH) | [Bien Te Va](https://open.spotify.com/album/5HmP591qMqeCO3nGINsOFx) | 2:14 | 2025-11-09 |  |
 | [Bien Te Va \- Remix](https://open.spotify.com/track/1PeITRaQFJKNiktyS5Va5C) | [Nyquest](https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH), [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy), [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [Sobrepensar](https://open.spotify.com/album/79MhWLoHmjfJNeYGervTt5) | 2:38 | 2025-11-09 |  |
 | [Bienvenido Al Amor](https://open.spotify.com/track/37BWywucpTcrzdhcZwkKyG) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Para Sobrevivir](https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB) | 3:09 | 2025-06-17 | 2025-11-10 |
 | [BOBOMENSOTONTO](https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:01 | 2025-11-09 |  |
@@ -273,7 +274,7 @@
 | [Mustangson](https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Adiamantado](https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6) | 2:51 | 2025-11-09 |  |
 | [Necesito Decirte](https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Necesito Decirte](https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV) | 3:27 | 2023-11-08 | 2025-06-18 |
 | [NECIA](https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [NECIA](https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX) | 3:03 | 2025-11-09 |  |
-| [Nena Moxita](https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:37 | 2025-11-09 |  |
+| [Nena Moxita](https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:37 | 2025-11-09 | 2026-05-07 |
 | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/track/4h9tHQkrlXA3N1wvpqDXmR) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [IMA](https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV) | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/album/0bzo8Jsq6kthTs8V8bsqSS) | 4:22 | 2025-11-09 |  |
 | [Nitrocumbia](https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Nitrocumbia](https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3) | 3:03 | 2025-11-09 |  |
 | [No Ando En Disney](https://open.spotify.com/track/1ho6yeOO4f93vV56925sZW) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [No Ando En Disney](https://open.spotify.com/album/0d62zCTS47g0FWqg97wXUx) | 3:16 | 2025-11-09 |  |

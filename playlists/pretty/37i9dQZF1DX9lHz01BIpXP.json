@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3411,
+  "num_followers": 3412,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Die Lewe is 'n Lied",
         "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 239591,
       "name": "Die Lewe is 'n Lied",
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "When days are dark",
-        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 170657,
-      "name": "When days are dark",
-      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Grammadoelas",
-        "url": "https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5"
-      },
-      "artists": [
-        {
-          "name": "KRO-Barz",
-          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Grammadoelas",
-      "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Nikes & Jordans (Original)",
         "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 194037,
       "name": "Nikes & Jordans (Original)",
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Grammadoelas",
+        "url": "https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5"
+      },
+      "artists": [
+        {
+          "name": "KRO-Barz",
+          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Grammadoelas",
+      "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -963,22 +963,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5"
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
       },
       "artists": [
         {
-          "name": "Interlecc Za",
-          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
         },
         {
-          "name": "Profit CPT",
-          "url": "https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq"
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
         }
       ],
-      "duration_ms": 179043,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc"
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

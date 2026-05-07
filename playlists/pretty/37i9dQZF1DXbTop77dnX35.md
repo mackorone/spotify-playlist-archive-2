@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Asake, Shoday, Chris Brown, KiDi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,216 likes - 84 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,307 likes - 84 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 33 likes - 11 songs - 34 min 22 sec
+[royva06](https://open.spotify.com/user/royva06) - 34 likes - 11 songs - 34 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

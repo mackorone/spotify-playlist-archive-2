@@ -4037,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/4kTDwtKewv9sUA6pVGtklo"
+      },
+      "artists": [
+        {
+          "name": "Venture Still",
+          "url": "https://open.spotify.com/artist/0zsujzHYce9p5WcD5Dd3ze"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295481,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/1dTYUY7RhzrCIKr0Pw811r"
+    },
+    {
+      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
       },
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 227532,
       "name": "all up in my head",
       "url": "https://open.spotify.com/track/5SttUdcAZEdDbJRr4Sjyrl"
@@ -12122,7 +12140,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 133003,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/6NaySB0u3PydVHPGSHjuKI"
@@ -37223,6 +37241,24 @@
     },
     {
       "album": {
+        "name": "Gecko",
+        "url": "https://open.spotify.com/album/7BKmSfckJf7CUMvKHUVIwr"
+      },
+      "artists": [
+        {
+          "name": "Johnathon Vermaelen",
+          "url": "https://open.spotify.com/artist/3A9kV5j14TyTDtV8jaMZop"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219148,
+      "name": "Gecko",
+      "url": "https://open.spotify.com/track/1N2W6TkhTnL4zn3dT5zjgB"
+    },
+    {
+      "album": {
         "name": "Everything is Beautiful",
         "url": "https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv"
       },
@@ -37834,7 +37870,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 185739,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0QoSH4zxzONyytl4Ju1Tu7"
@@ -38880,6 +38916,24 @@
       "duration_ms": 229629,
       "name": "God is My Strength (Gabriella)",
       "url": "https://open.spotify.com/track/0n5xl1JZ7TEaCRJHu0wIO6"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/093HaDRe6KKIQJ6fomL6qu"
+      },
+      "artists": [
+        {
+          "name": "CAPRICE LE MARAIS",
+          "url": "https://open.spotify.com/artist/3jIBhE36DzBgYb0OY4ZwEC"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1mLtR4wo2bIgTEnP9OMffU"
     },
     {
       "album": {
@@ -41632,6 +41686,28 @@
       "duration_ms": 203096,
       "name": "Haunted By Your Eyes",
       "url": "https://open.spotify.com/track/3oJvK5MgZ7XaldnsXRv5a2"
+    },
+    {
+      "album": {
+        "name": "Havana Garden",
+        "url": "https://open.spotify.com/album/1Q0tHezHB8zZ031v6sfTEd"
+      },
+      "artists": [
+        {
+          "name": "Bird",
+          "url": "https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N"
+        },
+        {
+          "name": "Jane Ellen Bryant",
+          "url": "https://open.spotify.com/artist/0Lzcyqk8mIPURNWygVExKm"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Havana Garden",
+      "url": "https://open.spotify.com/track/2Jpt6x3uIYygD92BqGpISQ"
     },
     {
       "album": {
@@ -49544,7 +49620,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 202218,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/21LlQUp6O2cVKPyPkffoHx"
@@ -57856,7 +57932,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 320000,
       "name": "Lonely People - Special Version",
       "url": "https://open.spotify.com/track/4alOgWjArsVBrsx2GAP7hl"
@@ -59638,7 +59714,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 216009,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh"
@@ -67921,6 +67997,32 @@
     },
     {
       "album": {
+        "name": "Songs That Make Me Happy",
+        "url": "https://open.spotify.com/album/5sBaKe1AZe5WE8C8Mpx06f"
+      },
+      "artists": [
+        {
+          "name": "Maxim Swinton",
+          "url": "https://open.spotify.com/artist/68ub4huFqp82nCHT0rTT8W"
+        },
+        {
+          "name": "Dawn Elder",
+          "url": "https://open.spotify.com/artist/53BjifRIYv04PDpnk5XTwG"
+        },
+        {
+          "name": "Richie Cannata",
+          "url": "https://open.spotify.com/artist/2IX0ooten4oFwhyLws8rTa"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312906,
+      "name": "New York State of Mind",
+      "url": "https://open.spotify.com/track/7xhDLf9o0Exz3Ng7pyGccX"
+    },
+    {
+      "album": {
         "name": "Newman Beauty",
         "url": "https://open.spotify.com/album/0jFyBXQMBfLz5CtQbEAczj"
       },
@@ -69548,6 +69650,28 @@
       "duration_ms": 190985,
       "name": "Not A Problem",
       "url": "https://open.spotify.com/track/4PulwkFGTFU7NA7CBQ4MbP"
+    },
+    {
+      "album": {
+        "name": "Not Alike",
+        "url": "https://open.spotify.com/album/6zOwbK9qlERe66hLSXrPpT"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        },
+        {
+          "name": "JavyDade",
+          "url": "https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Not Alike",
+      "url": "https://open.spotify.com/track/4ratpxh4hq9YhZ77WIahcH"
     },
     {
       "album": {
@@ -71538,6 +71662,24 @@
       "duration_ms": 183783,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2vhT56kedOkeaWPFY68Fnu"
+    },
+    {
+      "album": {
+        "name": "Alone, But Not Lonely",
+        "url": "https://open.spotify.com/album/78x7jxr1MWPtU3I6wZRblB"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d8YA ",
+          "url": "https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154193,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0w62aQUbkL7SKDauJJpyDC"
     },
     {
       "album": {
@@ -80620,7 +80762,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 203682,
       "name": "Revueltos",
       "url": "https://open.spotify.com/track/7sZO4xNfdPz3fGVpPKxGVz"
@@ -86364,7 +86506,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 172153,
       "name": "Shut Up! - Remix",
       "url": "https://open.spotify.com/track/2qgRIUlMjPPs7ubALkAyJu"
@@ -87270,6 +87412,24 @@
       "duration_ms": 389585,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/3HdexgOhdU26awqXDEasKH"
+    },
+    {
+      "album": {
+        "name": "Love Possibilities",
+        "url": "https://open.spotify.com/album/78ZSNKmrUS8YsCuox8G1ZK"
+      },
+      "artists": [
+        {
+          "name": "Hank Stephens",
+          "url": "https://open.spotify.com/artist/1X4Fz7j3vNMp9Q1r9Iv6z1"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272533,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/75dYCmCtvErHNlypCkZevj"
     },
     {
       "album": {
@@ -93370,7 +93530,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 261752,
       "name": "Sunset On My Road - Mayhem Remix",
       "url": "https://open.spotify.com/track/20ZaptyXMheLiilhGgqATs"
@@ -94734,6 +94894,24 @@
       "duration_ms": 182400,
       "name": "Tainted Skies",
       "url": "https://open.spotify.com/track/0r0aeH7krnKE4NKMaY75mM"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/1jD04N9x7YfRBV1Is9QO4a"
+      },
+      "artists": [
+        {
+          "name": "Bubba Brothers",
+          "url": "https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320125,
+      "name": "Taj - Original Mix",
+      "url": "https://open.spotify.com/track/5tmJNRe4isnC0R6IDaRXWd"
     },
     {
       "album": {
@@ -96232,7 +96410,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 183652,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/1mqegPlhw9gfPScypu9R77"
@@ -98038,7 +98216,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 257702,
       "name": "The Other One",
       "url": "https://open.spotify.com/track/29iYFQW0uVTpWCVf3x7m2Y"
@@ -99262,6 +99440,24 @@
       "duration_ms": 195866,
       "name": "Things We Like",
       "url": "https://open.spotify.com/track/7bBYzIL0ellNkQAwGlSIlF"
+    },
+    {
+      "album": {
+        "name": "Things We Should Have Known",
+        "url": "https://open.spotify.com/album/6isPQ3bjZUlIeN3KbGFLEc"
+      },
+      "artists": [
+        {
+          "name": "Rick Lee Vinson Group",
+          "url": "https://open.spotify.com/artist/3ud8WUBCxWNSmXLqT1YJyq"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196851,
+      "name": "Things We Should Have Known",
+      "url": "https://open.spotify.com/track/0qBamTQMI0693ndb9oNrN1"
     },
     {
       "album": {
@@ -102646,7 +102842,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 141732,
       "name": "Tu FAVORiT@",
       "url": "https://open.spotify.com/track/34cIRHZdK6c0fUpjBFRSNT"
@@ -112098,7 +112294,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 202500,
       "name": "Yes Please",
       "url": "https://open.spotify.com/track/2MC6gPftwgnxTndiSiTymh"
@@ -113534,6 +113730,24 @@
       "duration_ms": 186400,
       "name": "Your LIfe",
       "url": "https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C"
+    },
+    {
+      "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/7vKL1msnEeaqrTC4LKlNrv"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rangel",
+          "url": "https://open.spotify.com/artist/49XJJ1A2LNBzKeMhAi6Lhk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139817,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/6gnlmZTSOUqzGCKE5IA7Vt"
     },
     {
       "album": {

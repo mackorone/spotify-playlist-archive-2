@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAABDpfTS0bM2/g+G9Ii/U4ns",
+  "snapshot_id": "afkzAAAAAAAdARN6RN+t56OpyoikLojg",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mardial & Friends",
-        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
       },
       "artists": [
-        {
-          "name": "Mardial",
-          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
-        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 185892,
-      "name": "Digital Love",
-      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+        "name": "Mardial & Friends",
+        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
       },
       "artists": [
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+      "duration_ms": 185892,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
     },
     {
       "added_at": null,
@@ -511,6 +511,30 @@
       "duration_ms": 200899,
       "name": "Indo ME",
       "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRONOIA 2.0",
+        "url": "https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt"
+      },
+      "artists": [
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Romantic Echoes",
+          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "JOYFUL INTERLUDE",
+      "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
     },
     {
       "added_at": null,
@@ -607,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRONOIA 2.0",
-        "url": "https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt"
-      },
-      "artists": [
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Romantic Echoes",
-          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "JOYFUL INTERLUDE",
-      "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHO DIS?",
         "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOOD GIRL",
+        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Touch Me",
         "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 281642,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD GIRL",
-        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "GOOD GIRL",
-      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MING LING (feat. Yung Raja)",
         "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 163780,
       "name": "MING LING (feat. Yung Raja)",
       "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Tinder",
         "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 254062,
       "name": "No Tinder",
       "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
     },
     {
       "added_at": null,

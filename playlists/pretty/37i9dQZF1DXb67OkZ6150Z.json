@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303827,
+  "num_followers": 303844,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 187121,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 199062,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Paul",
-        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 187121,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 151649,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Different Now",
         "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 265772,
       "name": "Different Now",
       "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 151649,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "All Flowers In Time Bend Towards The Sun",
-        "url": "https://open.spotify.com/album/3UP0SM64jqkfShy1BfaCOV"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 235704,
-      "name": "All Flowers In Time Bend Towards The Sun",
-      "url": "https://open.spotify.com/track/2ZN1QoGCnCoxWZWm4b0J2N"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "All Flowers In Time Bend Towards The Sun",
+        "url": "https://open.spotify.com/album/3UP0SM64jqkfShy1BfaCOV"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 235704,
+      "name": "All Flowers In Time Bend Towards The Sun",
+      "url": "https://open.spotify.com/track/2ZN1QoGCnCoxWZWm4b0J2N"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Just Be Simple / Leave The City",
         "url": "https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 236033,
       "name": "Just Be Simple",
       "url": "https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
+      },
+      "artists": [
+        {
+          "name": "Hearts Hearts",
+          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1175,22 +1191,6 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
-      },
-      "artists": [
-        {
-          "name": "Hearts Hearts",
-          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
         "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 133003,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 133003,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 182065,
       "name": "Need You Tonight - Spotify Singles",
       "url": "https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": "2026-03-06 05:00:19",

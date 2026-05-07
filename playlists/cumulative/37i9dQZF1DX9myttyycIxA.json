@@ -22909,6 +22909,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/7uwQKBi4LvJwNS8dlZHfbm"
+      },
+      "artists": [
+        {
+          "name": "First Day Back",
+          "url": "https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/1PgnRBRr2UFLOpfJIahVkA"
+    },
+    {
+      "album": {
         "name": "Pale Blue",
         "url": "https://open.spotify.com/album/21tRaGSWiv8i1d5PSQkBEr"
       },
@@ -27668,6 +27686,24 @@
       "duration_ms": 182011,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/7y1jOe5Nzc8BhgURPn80hw"
+    },
+    {
+      "album": {
+        "name": "Spacey",
+        "url": "https://open.spotify.com/album/364ms6awqRPNolPlw7Pf8p"
+      },
+      "artists": [
+        {
+          "name": "The Rose Hips",
+          "url": "https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189642,
+      "name": "Spacey",
+      "url": "https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO"
     },
     {
       "album": {

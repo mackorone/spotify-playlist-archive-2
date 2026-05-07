@@ -4,7 +4,7 @@
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: caracazador.
 
-8,460 songs - 17 day 23 hr 1 min
+8,461 songs - 17 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [A flor de piel](https://open.spotify.com/track/4FeOsxgtz50VtuiTYfBrGs) | [Los Acebos](https://open.spotify.com/artist/5XHVcSAgMdrDfxw4WwsZB0) | [A flor de piel](https://open.spotify.com/album/7LEdX82hPpchXkQAjIo31G) | 3:14 | 2025-01-21 | 2025-01-29 |
 | [A GALOPE](https://open.spotify.com/track/0OWb15kC6IxJunrQtM5qfK) | [Llum](https://open.spotify.com/artist/4tqn572Iok6jACDGb1APLk) | [A GALOPE](https://open.spotify.com/album/4OCrUgoDCyJ8lwMsXDXwbk) | 2:03 | 2024-04-16 | 2024-04-24 |
 | [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 | 2024-10-01 | 2025-01-09 |
+| [A Japón](https://open.spotify.com/track/2TG0Ih59AmeZ5fwzOnpOIR) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj), [airu](https://open.spotify.com/artist/47IHD6RxxZW56J4RazegM2) | [A Japón](https://open.spotify.com/album/0og031W0xirI4ZYcxyNhxx) | 2:42 | 2026-05-06 |  |
 | [A LA CARA](https://open.spotify.com/track/4CaZoK9wRw2QVesqyqrce9) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [A LA CARA](https://open.spotify.com/album/0kPnzWX7ikbnFpa9GUQdM3) | 2:30 | 2023-09-05 | 2023-09-20 |
 | [A la cara](https://open.spotify.com/track/4xum0gr4UVlfYQsP9gGroT) | [Mararia](https://open.spotify.com/artist/3ptwPWJo2y7ekhs4tNABKn) | [A la cara](https://open.spotify.com/album/3kUz68gtdKDCmcv6OBcIkX) | 2:05 | 2023-04-18 | 2023-04-26 |
 | [A la deriva](https://open.spotify.com/track/2vN9jLAF2t134AEazGeoCE) | [Gydeon](https://open.spotify.com/artist/3F6drberHqvDtUDkxxgxYq), [ProdbyKooly](https://open.spotify.com/artist/1hH75RGDuGrg3ihT9Yfrmp) | [Yo pisé una mandarina](https://open.spotify.com/album/04PR3d3HR5h9lggnRN2H5Q) | 2:38 | 2025-11-04 | 2025-11-12 |
@@ -2133,7 +2134,7 @@
 | [Dispara](https://open.spotify.com/track/61PtAVYgt0h4R4EwDvWncJ) | [Onintze](https://open.spotify.com/artist/1HGal2XmRml9bPowuhqKMl) | [Dispara](https://open.spotify.com/album/4NZvdb8KzDFyOE98nCpX8K) | 3:10 | 2022-09-27 | 2022-10-06 |
 | [Dispuesta al desastre](https://open.spotify.com/track/0PjImS8KVATdxJOf3vw8Rq) | [La Culpa](https://open.spotify.com/artist/677roxlr69mbWMLY6MMGnx) | [Cuando amanece](https://open.spotify.com/album/0tGFLxRcLM0lT9nKaGH0Jz) | 2:11 | 2023-05-02 | 2023-05-10 |
 | [Dispárame](https://open.spotify.com/track/6ZQj6pArYJ02wyqL5OWPd4) | [Mayormente Soleado](https://open.spotify.com/artist/2YBzZDsJtBX9E5sDW2S1rG), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Compramos Tu Coche](https://open.spotify.com/album/0xymmg8kTBJFxgKa7pNb79) | 2:54 | 2024-06-25 | 2024-07-10 |
-| [Distancia](https://open.spotify.com/track/3yumVIeMc2Ympl3rm6t47j) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Distancia](https://open.spotify.com/album/237Av6fyckbG11k9FBIc5q) | 5:14 | 2026-03-17 |  |
+| [Distancia](https://open.spotify.com/track/3yumVIeMc2Ympl3rm6t47j) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Distancia](https://open.spotify.com/album/237Av6fyckbG11k9FBIc5q) | 5:14 | 2026-03-17 | 2026-05-07 |
 | [DISTINTO](https://open.spotify.com/track/3GNGzLCFlW5GfqWOnBMolK) | [Berti Ramírez](https://open.spotify.com/artist/63JH9h5wGTw3SokwZ0ghmw) | [DISTINTO](https://open.spotify.com/album/2fZASjLYRBd8Occep9bg4e) | 1:21 | 2025-05-06 | 2025-05-14 |
 | [Distopia Domèstica](https://open.spotify.com/track/4eIhUINxK7v1rkya6esyhU) | [Mareta Bufona](https://open.spotify.com/artist/5ra24fdFLZoDjlJiebjJku) | [La Novetat](https://open.spotify.com/album/3kVZZlNxpO8FL1PHlV0vRT) | 2:58 | 2022-02-15 | 2022-03-03 |
 | [Dits](https://open.spotify.com/track/111w3UhfBeHJ7cDnZClLxM) | [segona regional](https://open.spotify.com/artist/6A82Oj2DUkNFDYYxltqsDt) | [Dits](https://open.spotify.com/album/1Kjsaqx4R43sMjTBVPLVQ2) | 3:20 | 2026-02-04 | 2026-03-11 |

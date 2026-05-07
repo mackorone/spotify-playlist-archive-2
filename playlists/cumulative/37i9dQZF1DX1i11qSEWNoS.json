@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100851,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
+    },
+    {
+      "album": {
         "name": "Blank Blank",
         "url": "https://open.spotify.com/album/3dTK7B1dxF2slGLPye5NN1"
       },
@@ -6252,7 +6270,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 122585,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
       "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"

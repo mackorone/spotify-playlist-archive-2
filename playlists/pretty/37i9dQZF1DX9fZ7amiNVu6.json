@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 553040,
+  "num_followers": 553101,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 341733,
-      "name": "Breezin'",
-      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 259733,
       "name": "Our Last Summer",
       "url": "https://open.spotify.com/track/6hHXft1nFyvfVv6UoRToPZ"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "Pipeline",
+        "url": "https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn"
+      },
+      "artists": [
+        {
+          "name": "The Chantays",
+          "url": "https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "The Graduate - Music From The Broadway Comedy",
         "url": "https://open.spotify.com/album/28oPljw32I8H4LWfdQ2z7z"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Pipeline",
-        "url": "https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn"
+        "name": "!Volare! The Very Best of the Gipsy Kings",
+        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
       },
       "artists": [
         {
-          "name": "The Chantays",
-          "url": "https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 139253,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf"
+      "duration_ms": 346760,
+      "name": "Hotel California (Spanish Mix)",
+      "url": "https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1583,22 +1599,6 @@
       "duration_ms": 163346,
       "name": "Up, Up and Away",
       "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "!Volare! The Very Best of the Gipsy Kings",
-        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 346760,
-      "name": "Hotel California (Spanish Mix)",
-      "url": "https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM"
     },
     {
       "added_at": "2024-07-14 16:19:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30222,
+  "num_followers": 30227,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAABkV3aDYKQGU0nNVedhKKQ4",
+  "snapshot_id": "afkzAAAAAAAokSus9BTGy87aGLdMPeK9",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 143423,
-      "name": "Richer Than Alla My Opps",
-      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pound Town (and Tay Keith)",
         "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 143423,
+      "name": "Richer Than Alla My Opps",
+      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "DJ Holiday",
-          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
-        }
-      ],
-      "duration_ms": 181117,
-      "name": "Her Her Her (feat. DJ Holiday)",
-      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MMM HMM (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 158137,
       "name": "MMM HMM (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "DJ Holiday",
+          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "Her Her Her (feat. DJ Holiday)",
+      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 125848,
-      "name": "Attached",
-      "url": "https://open.spotify.com/track/758T41yHLubNrZwDl3mBpc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Trust Em",
         "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 210102,
       "name": "Don't Trust Em",
       "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 125848,
+      "name": "Attached",
+      "url": "https://open.spotify.com/track/758T41yHLubNrZwDl3mBpc"
     },
     {
       "added_at": null,

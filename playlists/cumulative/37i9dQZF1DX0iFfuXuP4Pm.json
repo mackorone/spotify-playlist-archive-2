@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: IV OF SPADES",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Angela Ken",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 225360,
       "name": "Ang Pag-Ibig Kong Ito",
       "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
@@ -2577,6 +2577,32 @@
     },
     {
       "album": {
+        "name": "GILIW (feat. Al James, Kyla)",
+        "url": "https://open.spotify.com/album/3ELseqL4Ws30hN6gk3OFyd"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "GILIW (feat. Al James, Kyla)",
+      "url": "https://open.spotify.com/track/06VvXeS5F4B66Cwq7RvBtb"
+    },
+    {
+      "album": {
         "name": "Gitna",
         "url": "https://open.spotify.com/album/052lYoydf0M5IFm6I7dkn8"
       },
@@ -2628,7 +2654,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 225014,
       "name": "Guhit",
       "url": "https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5"
@@ -2984,6 +3010,24 @@
       "duration_ms": 246857,
       "name": "Himawari",
       "url": "https://open.spotify.com/track/3N34C1hW2ACkTGZ3HViieR"
+    },
+    {
+      "album": {
+        "name": "Hinga / Iisa",
+        "url": "https://open.spotify.com/album/1UuDSRE9d3rpDkSsCYFBvI"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242777,
+      "name": "Hinga",
+      "url": "https://open.spotify.com/track/3kyCL9iWjdYDhkEQboYeJN"
     },
     {
       "album": {
@@ -3622,6 +3666,24 @@
       "duration_ms": 276000,
       "name": "Isa Dalawa Tatlo",
       "url": "https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9"
+    },
+    {
+      "album": {
+        "name": "Sandali",
+        "url": "https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269568,
+      "name": "Isang Daan",
+      "url": "https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t"
     },
     {
       "album": {
@@ -4858,7 +4920,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 241684,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY"
@@ -8907,6 +8969,28 @@
     },
     {
       "album": {
+        "name": "Stronger Than Before",
+        "url": "https://open.spotify.com/album/6lthtEP5QO1stqXAFDRtqe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sanchez",
+          "url": "https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI"
+        },
+        {
+          "name": "Morissette",
+          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247269,
+      "name": "Stronger Than Before",
+      "url": "https://open.spotify.com/track/3E3MNqDZuF62vgjqrnbC4h"
+    },
+    {
+      "album": {
         "name": "SUBOMOTO (Hev Abi Remix)",
         "url": "https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl"
       },
@@ -9758,7 +9842,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 184320,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/1yiO7S3ipTzVOdEdG5j56k"

@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190914,
+  "num_followers": 190908,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Brick Houses",
-        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "22 Weeks",
-      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Leap Year",
         "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 345040,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "22 Weeks",
+      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Baby Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 185114,
-      "name": "Baby Blue - Acoustic",
-      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "What Takes You Back",
         "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 275166,
       "name": "What Takes You Back",
       "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
         "name": "Dragon's Eyes",
         "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
-      },
-      "artists": [
-        {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
-        }
-      ],
-      "duration_ms": 308293,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Queen-Size Life",
         "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 216690,
       "name": "Queen-Size Life",
       "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "duration_ms": 308293,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
+        "name": "the bed-ties",
+        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
+      },
+      "artists": [
+        {
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
         "name": "Sunflower Sunset",
         "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 221373,
       "name": "I do",
       "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
-        "name": "the bed-ties",
-        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
-      },
-      "artists": [
-        {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "A Passage Between",
-        "url": "https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL"
-      },
-      "artists": [
-        {
-          "name": "Melle Jutte",
-          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
-        }
-      ],
-      "duration_ms": 252705,
-      "name": "Realize (Essence)",
-      "url": "https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Kaleidoscope Eyes",
         "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "A Passage Between",
+        "url": "https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL"
+      },
+      "artists": [
+        {
+          "name": "Melle Jutte",
+          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "Realize (Essence)",
+      "url": "https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2"
     },
     {
       "added_at": "2026-04-23 22:03:08",

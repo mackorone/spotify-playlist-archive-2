@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "a helping hand",
+        "url": "https://open.spotify.com/album/5wwGLyU2CkVND4ZrkvoPl1"
+      },
+      "artists": [
+        {
+          "name": "COZE!NE",
+          "url": "https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144596,
+      "name": "a helping hand",
+      "url": "https://open.spotify.com/track/0DdjWSK9mYxd0OkMafssrD"
+    },
+    {
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/2ZmUAPFUssRDQirDWbpivk"
       },
@@ -1487,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "if june was a person",
+        "url": "https://open.spotify.com/album/6Nm96HpjoRZGJjpaimqfM4"
+      },
+      "artists": [
+        {
+          "name": "jj!s",
+          "url": "https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293343,
+      "name": "i don't want to waste your time",
+      "url": "https://open.spotify.com/track/0pzN3BuKIw2pXNQndYn4kN"
+    },
+    {
+      "album": {
         "name": "I DON\u00b4T WANNA WORK",
         "url": "https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3"
       },
@@ -1762,6 +1798,24 @@
       "duration_ms": 196772,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX"
+    },
+    {
+      "album": {
+        "name": "BROKEN SIGNALS",
+        "url": "https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB"
+      },
+      "artists": [
+        {
+          "name": "NikhiL Keolan Gounden",
+          "url": "https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186799,
+      "name": "keep your head up, bitch",
+      "url": "https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg"
     },
     {
       "album": {
@@ -2731,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do"
+      },
+      "artists": [
+        {
+          "name": "Mainframe Bird",
+          "url": "https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "RECONSIDER EVERYTHING",
+      "url": "https://open.spotify.com/track/3cRRXFl6HJYXZD2dRxqtQO"
+    },
+    {
+      "album": {
         "name": "Rediscover",
         "url": "https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan"
       },
@@ -2764,6 +2836,24 @@
       "duration_ms": 186545,
       "name": "relapse",
       "url": "https://open.spotify.com/track/3CvRv1klCmdwGoOTRyJawj"
+    },
+    {
+      "album": {
+        "name": "Robin",
+        "url": "https://open.spotify.com/album/2oQKKenWAS8mnkzgSElzpS"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187004,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/3DzLHaqInQ9Tw4DZHUUy4e"
     },
     {
       "album": {
@@ -3295,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "The Goonies Are Good Enough",
+        "url": "https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Curses",
+          "url": "https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153485,
+      "name": "The Goonies Are Good Enough",
+      "url": "https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG"
+    },
+    {
+      "album": {
         "name": "The Last Song Of The Moon",
         "url": "https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv"
       },
@@ -3490,6 +3598,28 @@
       "duration_ms": 186920,
       "name": "Tu veux du fric",
       "url": "https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H"
+    },
+    {
+      "album": {
+        "name": "VUELVE SOLA",
+        "url": "https://open.spotify.com/album/5Jc79SlcKcBxjnz1szJwLj"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama G",
+          "url": "https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY"
+        },
+        {
+          "name": "EL TIO ZETTA",
+          "url": "https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142893,
+      "name": "VUELVE SOLA",
+      "url": "https://open.spotify.com/track/3ZMYR804hQICmG5GcLBL8p"
     },
     {
       "album": {

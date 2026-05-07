@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits du moment en Algérie\. Cover: Abdou Gambetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,239 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,259 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 8 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 |
 | 9 | [Namchi Wngoul Ça va](https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Namchi Wngoul Ça va](https://open.spotify.com/album/5KKolIb9Iibkqn0TBtyyFk) | 4:32 |
 | 10 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 |
-| 11 | [Denia](https://open.spotify.com/track/1vqT1et6B9Cx8yaz56kcLp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Zumawoed](https://open.spotify.com/artist/42FWGlRoQ1dHP17if3aFu5) | [Denia](https://open.spotify.com/album/3mN2RgIcV7UfvcDrldsdNu) | 3:15 |
+| 11 | [Denia](https://open.spotify.com/track/1vqT1et6B9Cx8yaz56kcLp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Zuma Woed](https://open.spotify.com/artist/0mLwLbwWIYs2CJkdrQZ5IU) | [Denia](https://open.spotify.com/album/3mN2RgIcV7UfvcDrldsdNu) | 3:15 |
 | 12 | [SAYGA](https://open.spotify.com/track/0sph6B02DsRCAkKpMhOT3P) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [SAYGA](https://open.spotify.com/album/67OggBaHeH1P5kflZop6w6) | 3:05 |
 | 13 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 14 | [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 |

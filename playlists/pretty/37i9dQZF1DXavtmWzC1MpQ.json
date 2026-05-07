@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154842,
+  "num_followers": 154851,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Forest Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "duration_ms": 154552,
+      "name": "Moment Of Peace (Forest Birds)",
+      "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 184611,
       "name": "Tr\u00f3pico",
       "url": "https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Forest Bird Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
-      },
-      "artists": [
-        {
-          "name": "KEI NATURE",
-          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
-        }
-      ],
-      "duration_ms": 154552,
-      "name": "Moment Of Peace (Forest Birds)",
-      "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Country Birds",
-        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
+        "name": "Lastovo Island Summer Bird Song",
+        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
       },
       "artists": [
         {
-          "name": "Hinterl\u00e4nder",
-          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Pretty Birds",
-      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
+      "duration_ms": 195180,
+      "name": "Lastovo Island Summer Bird Song",
+      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     }
   ],
   "unique_name": "Sons da Natureza",

@@ -4,7 +4,7 @@
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="spotify:artist:3a1tBryiczPAZpgoZN9Rzg">Asake</a>
 
-5,995 songs - 12 day 16 hr 10 min
+5,996 songs - 12 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1635,6 +1635,7 @@
 | [even as if never//](https://open.spotify.com/track/2nNhgnteeWCDPYM4Q9RxHX) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [rebirth // renaissance](https://open.spotify.com/album/2HtSLBvwOWI6klIbdglALL) | 2:52 | 2025-05-30 | 2025-08-09 |
 | [Ever Since U Left Me \(I Went Deaf\)](https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Coke Wave 3.5: Narcos](https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE) | 2:16 | 2026-04-17 |  |
 | [EVER YOURS](https://open.spotify.com/track/4J06wQ1AJ2jhoo2cuaaVuV) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [EVER YOURS](https://open.spotify.com/album/4GmvX4wWN9dhowyLxof0Rz) | 3:14 | 2024-07-27 | 2024-08-03 |
+| [Everglades](https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa) | [AZIEDOESNTEXIST](https://open.spotify.com/artist/13BgU01okousPOFvmiwecU) | [Everglades](https://open.spotify.com/album/6pErDmXR3rA9dkZr9Fwv0E) | 1:48 | 2026-05-06 |  |
 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 | 2025-08-23 | 2025-09-27 |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-22 | 2022-06-08 |
 | [EVERY MAN FOR HIMSELF](https://open.spotify.com/track/6tKEneUBTaGvoHeSxpJltb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EVERY MAN FOR HIMSELF](https://open.spotify.com/album/70KXLvjv7CIssBvNh9AbTB) | 1:57 | 2024-03-01 | 2024-03-23 |

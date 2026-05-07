@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u633e\u9593\u7f8e\u5e06",
-  "num_followers": 49665,
+  "num_followers": 49674,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEPr8+E7mTTrx1PTMf+xBiKOP8w",
+  "snapshot_id": "AAAAAD0WBpWPC/QFHxdoWju3jYyVVMjT",
   "tracks": [
     {
       "added_at": "2026-04-28 15:00:54",
@@ -315,26 +315,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
       "artists": [
         {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        },
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP"
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -355,18 +347,26 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
         }
       ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+      "duration_ms": 134000,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
+        "name": "Answer to Remember II",
+        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
+      },
+      "artists": [
+        {
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        },
+        {
+          "name": "Jua",
+          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "KIMOCHIS",
+      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
         "name": "STEPS OF THE BLUE",
         "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
       },
@@ -783,42 +803,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Answer to Remember II",
-        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
-      },
-      "artists": [
-        {
-          "name": "Answer to Remember",
-          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
-        },
-        {
-          "name": "Jua",
-          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "KIMOCHIS",
-      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "10-6-12",
-        "url": "https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ"
-      },
-      "artists": [
-        {
-          "name": "Okazaki Brothers",
-          "url": "https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "10-6-12",
-      "url": "https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -851,6 +835,42 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
+        "name": "Singularity",
+        "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5ba4\u97ff",
+          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
+        },
+        {
+          "name": "\u4e95\u4e0a\u9298",
+          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
+        }
+      ],
+      "duration_ms": 690973,
+      "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
+      "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "10-6-12",
+        "url": "https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ"
+      },
+      "artists": [
+        {
+          "name": "Okazaki Brothers",
+          "url": "https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "10-6-12",
+      "url": "https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
         "name": "Europic (for S.W.)",
         "url": "https://open.spotify.com/album/0sbJM3bbDANHk0SmZ4lAo7"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Singularity",
-        "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5ba4\u97ff",
-          "url": "https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0"
-        },
-        {
-          "name": "\u4e95\u4e0a\u9298",
-          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
-        }
-      ],
-      "duration_ms": 690973,
-      "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
-      "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "SEIKO JAZZ 3",
         "url": "https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 337471,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Lithium",
+        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -959,22 +975,6 @@
       "duration_ms": 432493,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "\u3057\u3073\u3043\u3063\u30b9\u306d",
-        "url": "https://open.spotify.com/album/2F5waaCzcu5JFs6B8AhNVB"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "\u3057\u3073\u3043\u3063\u30b9\u306d",
-      "url": "https://open.spotify.com/track/3uhGVjFzxMwJRtHdHASKtb"
     }
   ],
   "unique_name": "Modern Jazz Japan",

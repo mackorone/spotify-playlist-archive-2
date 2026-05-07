@@ -4,7 +4,7 @@
 
 > Rareș in cover + tutto il meglio delle novità indie 🌿
 
-1,700 songs - 3 day 16 hr 44 min
+1,701 songs - 3 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1158,6 +1158,7 @@
 | [People of the Moon](https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:10 | 2026-04-30 |  |
 | [Per amore o per mancanza di idee migliori](https://open.spotify.com/track/7Jh3O1ciK4cUyM4c1YZab2) | [Boris Ćevapčići](https://open.spotify.com/artist/0hkEwSYOsXNDCFs7EjI3zW) | [Per amore o per mancanza di idee migliori](https://open.spotify.com/album/1Wcd95RMRMM4Nc4s26MTVI) | 2:33 | 2026-01-15 | 2026-02-06 |
 | [Per farti dormire](https://open.spotify.com/track/1mA9I0XgSDzX5jhzRhX5fE) | [Eyes Be Quiet](https://open.spotify.com/artist/7KjAF7hhf1REuPoNnJWYX2) | [Per farti dormire](https://open.spotify.com/album/1CqhutQu3MTethnEe0LRGK) | 4:03 | 2026-01-08 | 2026-02-06 |
+| [Per farti dormire](https://open.spotify.com/track/40mtKYB9hZ6VMZG98oE2e2) | [Eyes Be Quiet](https://open.spotify.com/artist/7KjAF7hhf1REuPoNnJWYX2) | [Una stanza vuota](https://open.spotify.com/album/3lRoUBvpQy08j8lzCFa9XS) | 4:03 | 2026-05-06 |  |
 | [Per le vie della città](https://open.spotify.com/track/38o6cByWLgLS3WeHdg5idc) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Per le vie della città](https://open.spotify.com/album/5gxv0uYf0h5NfVZ5fVHpZ3) | 3:14 | 2026-04-02 |  |
 | [Per non farti del male](https://open.spotify.com/track/0zCTUDeQ9PD6qU6tRtG5r1) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Per non farti del male](https://open.spotify.com/album/3sioYz6cPt26MmRBburV1r) | 3:39 | 2025-10-16 | 2025-11-12 |
 | [Per quando sei triste triste](https://open.spotify.com/track/6eDYz8amUDIybmC1F9TjVx) | [Il Solito Dandy](https://open.spotify.com/artist/4ZfQQC1zzgnrh46Jjz43KM) | [Per quando sei triste triste](https://open.spotify.com/album/6hlzt1Vq5o9t5PAZ8vKqS7) | 2:32 | 2026-02-05 | 2026-03-13 |

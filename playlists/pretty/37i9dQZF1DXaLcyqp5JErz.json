@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 658553,
+  "num_followers": 658643,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "No Infinito Deste Amor",
-        "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 580946,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "No Infinito Deste Amor",
+        "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 580946,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx"
     },
     {
       "added_at": "2025-10-17 18:07:08",

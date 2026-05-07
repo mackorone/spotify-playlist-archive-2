@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/345797">連動記事</a>をSPICEでチェック!
 
-14,563 songs - 38 day 14 hr 44 min
+14,565 songs - 38 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [2026/4/22 Kan Sanoのニューアルバムが到着！LANAの新曲、奇妙礼太郎のニューアルバムも！東京酒吐座（Tokyo Shoegazer）のニューアルバム、台湾のWendy Wanderと、JABBERLOOPによるコラボ曲もピックアップ！Lucky Kilimanjaroの熊木幸丸のインタビューも！](https://open.spotify.com/episode/5Mo986elFrtk6fad2hQfXW) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 28:59 | 2026-04-22 | 2026-04-29 |
 | [2026/4/29 Rol3ertが新曲をリリース！Mrs\. GREEN APPLEの大森元貴がソロ新曲をリリース！ Mall Boyz & Elle Teresaのコラボ曲、千葉雄喜 & BABYWOODROSEのコラボアルバム、菅原圭のニューアルバムもピックアップ！！](https://open.spotify.com/episode/0nUlcoiIiwk9h1bic7bn8O) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:13 | 2026-04-29 | 2026-05-06 |
 | [2026/4/8 Chevonがアルバムをリリース！！Kohjiyaのアルバムも！Original Loveと韓国のバンドCADEJOのコラボEP、崎山蒼志の新曲、Early NoiseアーティストLAUSBUBの新曲もピックアップ！！](https://open.spotify.com/episode/7m1EGrXPb572JYfJz9YemQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:31 | 2026-04-08 | 2026-04-15 |
+| [2026/5/6 宇多田ヒカルロングインタビュー配信！細野晴臣が参加した 矢野顕子の新曲やBE:FIRST、CORTISのニューリリースもピックアップ！](https://open.spotify.com/episode/0xuTXcwYHJToFwH5hSESBt) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 55:39 | 2026-05-06 |  |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-14 | 2026-04-22 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
@@ -9688,6 +9689,7 @@
 | [Yōga \(feat\. JUMADIBA\)](https://open.spotify.com/track/3PneWVEQWlVEiJiQdMARJp) | [Gen Yamada](https://open.spotify.com/artist/0ETX65lRq5cIZuymUEuULI), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Yōga](https://open.spotify.com/album/4O1GHs3LNzO2OTvYJ4fkqD) | 2:37 | 2026-04-21 | 2026-04-29 |
 | [Yα Boy!!](https://open.spotify.com/track/2KZeSOk8Cri20hcqnZLpjl) | [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Yα Boy!!](https://open.spotify.com/album/4RT9pfWS6VNkU6sVckHgT3) | 3:55 | 2026-02-24 | 2026-03-04 |
 | [Zan“讚”](https://open.spotify.com/track/7v0mO9hTJzhWMrYcMnZt03) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ), [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [Zan“讚”](https://open.spotify.com/album/0LDIKGg05W5vXotyHy6iiy) | 3:13 | 2024-12-25 | 2025-01-08 |
+| [ZAP](https://open.spotify.com/track/6PLgpJz0y2xY4Ooa9IhyUq) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter two](https://open.spotify.com/album/621IFsYDErBmezF4TWADae) | 2:28 | 2026-05-05 |  |
 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 | 2025-01-14 | 2025-01-22 |
 | [Zekkei feat\. KUDANZ](https://open.spotify.com/track/5X9mWSkYgO4izPk6XbEvwH) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [KUDANZ](https://open.spotify.com/artist/0qfhyrNwqfUzvhupRV1jus) | [Zekkei feat\. KUDANZ](https://open.spotify.com/album/4hkkc47u1hr0xxrCQ1uyCB) | 4:08 | 2025-04-15 | 2025-04-23 |
 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-14 | 2025-01-22 |

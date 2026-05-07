@@ -1,15 +1,15 @@
 {
   "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:47lrOrvCYsOUCEQQsj119K\">Yung Singh</a> on cover. Artwork by Thami Nabil.",
-  "num_followers": 193590,
+  "num_followers": 193611,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMRNZV9YvZKCZPpUQ9DoaZkboOQb",
+  "snapshot_id": "AAAAAFutafdj7M/LkMuqKW297wRvI2Pb",
   "tracks": [
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "NUG46",
         "url": "https://open.spotify.com/album/4eeq6cNsykHCaB5yNhsAVy"
@@ -25,7 +25,131 @@
       "url": "https://open.spotify.com/track/0ipdaEBRDxWIigU5PfSUlU"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "La malinconia del Grande Drago Tartaruga",
+        "url": "https://open.spotify.com/album/6rWGAPnNOjkmeCbOrFSU1v"
+      },
+      "artists": [
+        {
+          "name": "edeF.",
+          "url": "https://open.spotify.com/artist/4bpQS5gwQSmtlkliRWUmkD"
+        },
+        {
+          "name": "orlando",
+          "url": "https://open.spotify.com/artist/3FisNd41ZsAE86lxRhxWw4"
+        }
+      ],
+      "duration_ms": 237187,
+      "name": "Evergreen wardrobe",
+      "url": "https://open.spotify.com/track/4mHhbWJvEJdmd9LQfSNpOU"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "alas",
+        "url": "https://open.spotify.com/album/4zyQYTBiS6fvfKLY0OOM6p"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "alas",
+      "url": "https://open.spotify.com/track/7GBP8JHmXu06xzJzsWdn4D"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "Blue Kembang",
+        "url": "https://open.spotify.com/album/5Ns0tUWM7o7Jk1KJMNEJWo"
+      },
+      "artists": [
+        {
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
+        },
+        {
+          "name": "Tarawangsawelas",
+          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Blue Kembang",
+      "url": "https://open.spotify.com/track/5W5oIe46g49kfTEkxd8oPN"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "life of mu",
+        "url": "https://open.spotify.com/album/1b09PxhpiNit55Eb4Ut7bC"
+      },
+      "artists": [
+        {
+          "name": "mu tate",
+          "url": "https://open.spotify.com/artist/3vFTZMsaFnLOcqvjxCofTP"
+        }
+      ],
+      "duration_ms": 193871,
+      "name": "no answer greater than silence, no punishment greater than forgiveness",
+      "url": "https://open.spotify.com/track/1yFJ1xSM057m00HXDMHsJK"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/5rSVBpgPTxN5UjwVg2WX4S"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 439096,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/5n6ZUXNRoo6mRpkb1lsg0s"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "Brisk",
+        "url": "https://open.spotify.com/album/1fp5684DwL2ofzdYINbCjj"
+      },
+      "artists": [
+        {
+          "name": "Juli De\u00e1k",
+          "url": "https://open.spotify.com/artist/3L9bvkvZ6WpSLbs6t8q6Bj"
+        }
+      ],
+      "duration_ms": 245208,
+      "name": "Brisk",
+      "url": "https://open.spotify.com/track/4UK8zVdpjLjoZs71ekqczK"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "TME",
+        "url": "https://open.spotify.com/album/2jEGnR1OLmKc4KrLUMSLB9"
+      },
+      "artists": [
+        {
+          "name": "Gabber Eleganza",
+          "url": "https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd"
+        },
+        {
+          "name": "9DEN",
+          "url": "https://open.spotify.com/artist/2bp7nGLjkMwJfoL8mtKix9"
+        }
+      ],
+      "duration_ms": 307501,
+      "name": "TME",
+      "url": "https://open.spotify.com/track/31f6SuFKbcDk0aY1smhRLP"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Devil's Hour",
         "url": "https://open.spotify.com/album/1U4daTigP4MUgaRseu2nMg"
@@ -41,23 +165,7 @@
       "url": "https://open.spotify.com/track/6ETvI7qq9NXRLvAukPRMnn"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "GBTC",
-        "url": "https://open.spotify.com/album/22vX5Kxo15Iw2rGkTZMYq3"
-      },
-      "artists": [
-        {
-          "name": "KatzPascale",
-          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
-        }
-      ],
-      "duration_ms": 275217,
-      "name": "GBTC",
-      "url": "https://open.spotify.com/track/51IUGiz8ZOcujHlQuuTszO"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/4EwPuWswj0HHAouLO8zmiK"
@@ -73,7 +181,7 @@
       "url": "https://open.spotify.com/track/0Ejc6Fsce0cMfDevrqKLKg"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Sprawll",
         "url": "https://open.spotify.com/album/2tWTjkTZeqp86IZm50drOM"
@@ -89,7 +197,7 @@
       "url": "https://open.spotify.com/track/2BezKvkspHFoYgPw4CCMkz"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "CURSED FRAME",
         "url": "https://open.spotify.com/album/3EmtI0MboNQ8kY2SQ1aUEc"
@@ -105,7 +213,7 @@
       "url": "https://open.spotify.com/track/1H4gXQt5jHktMwJo59akVV"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "collaborate#1",
         "url": "https://open.spotify.com/album/1sc4G8tbbv16nOp3rLm3yf"
@@ -125,7 +233,7 @@
       "url": "https://open.spotify.com/track/2NkLjITt2hLYKsTBlsNRvX"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Nondi...",
         "url": "https://open.spotify.com/album/5gTVBk1Ny9S6Ki5cCkyOz2"
@@ -141,7 +249,7 @@
       "url": "https://open.spotify.com/track/20ZkWbb1rkdNG86ocXHIfI"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Prove d'esistenza/Il gesto",
         "url": "https://open.spotify.com/album/1Oml85X4GIo8WQNTbSNBXN"
@@ -157,7 +265,7 @@
       "url": "https://open.spotify.com/track/2pUSAvWIx9rW02g6FuR22o"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Naebula",
         "url": "https://open.spotify.com/album/4IKt9jfbLdpEFnN9Pnn8ri"
@@ -173,7 +281,7 @@
       "url": "https://open.spotify.com/track/30cMAIWhCQ6xH4oVDgJxbA"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Release the Horses",
         "url": "https://open.spotify.com/album/5kPzfDkpBzpr1HtuHH1gVC"
@@ -189,23 +297,7 @@
       "url": "https://open.spotify.com/track/2WMa5l5kLtQLod1ocxNEbH"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/5rSVBpgPTxN5UjwVg2WX4S"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 439096,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/5n6ZUXNRoo6mRpkb1lsg0s"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Camera Obscura",
         "url": "https://open.spotify.com/album/071b4K2GnPXsrrdmBvVbzf"
@@ -221,7 +313,7 @@
       "url": "https://open.spotify.com/track/0Vmoym2CBIOgh9cgTgwiz5"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Never Do It Right",
         "url": "https://open.spotify.com/album/0YKIrcu1jkPb9MUbObGtUb"
@@ -237,7 +329,7 @@
       "url": "https://open.spotify.com/track/0mV4QNbQb0t7rqKz35sOUa"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Time, Islands and Thresholds",
         "url": "https://open.spotify.com/album/0VIN9340qU1Is9xoRXwIQG"
@@ -253,7 +345,7 @@
       "url": "https://open.spotify.com/track/1Y0K7W5CYFTJKtKPA9dPFV"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "tide pool bath",
         "url": "https://open.spotify.com/album/5PAVbxYHq9iIX39iKW3MpM"
@@ -269,7 +361,7 @@
       "url": "https://open.spotify.com/track/00WzBoS7EAvWXUXezfnTqV"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "M\u20acmo",
         "url": "https://open.spotify.com/album/7zaqMeQxZfkv8kirRfr2Yy"
@@ -285,7 +377,23 @@
       "url": "https://open.spotify.com/track/1uVVzZh0Ks3ftrv9vGdgZU"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
+      "album": {
+        "name": "GBTC",
+        "url": "https://open.spotify.com/album/22vX5Kxo15Iw2rGkTZMYq3"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "duration_ms": 275217,
+      "name": "GBTC",
+      "url": "https://open.spotify.com/track/51IUGiz8ZOcujHlQuuTszO"
+    },
+    {
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Spectres",
         "url": "https://open.spotify.com/album/5tlhRi4B8fKgOW1aDqeZZB"
@@ -301,7 +409,7 @@
       "url": "https://open.spotify.com/track/5Kw14pZRJ6jsGtk8WRg0wZ"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Mutu Beton",
         "url": "https://open.spotify.com/album/0iRTF0tjmihntXOJHjta5h"
@@ -317,7 +425,7 @@
       "url": "https://open.spotify.com/track/2qf5UQ0HS0RNcwDsljnqRj"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Law Riderz",
         "url": "https://open.spotify.com/album/3cLBhe8bnGD225I5ZxPbyY"
@@ -333,7 +441,7 @@
       "url": "https://open.spotify.com/track/2Xl5fgDdL48D5SuhpzpPA7"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
         "url": "https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3"
@@ -349,7 +457,7 @@
       "url": "https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "SHANG FILM",
         "url": "https://open.spotify.com/album/2tQdQRuTjnMJwmIwlbqz70"
@@ -365,7 +473,7 @@
       "url": "https://open.spotify.com/track/5jIwbj2BunKwqgca2EUYji"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Terra",
         "url": "https://open.spotify.com/album/3qW1EhwK8CFXd4tiUMg7mk"
@@ -381,27 +489,7 @@
       "url": "https://open.spotify.com/track/6bOyGWxyLOO7DcaAXYF4wZ"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Duori",
-        "url": "https://open.spotify.com/album/0GdYr6ch8i3H9V4sKp4Es0"
-      },
-      "artists": [
-        {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        },
-        {
-          "name": "Tarawangsawelas",
-          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Duori",
-      "url": "https://open.spotify.com/track/23Q0919ERtsAmjJ2ZPM9nP"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "BIWM",
         "url": "https://open.spotify.com/album/7HGirV7wJ93mWgYkIkScqP"
@@ -417,35 +505,7 @@
       "url": "https://open.spotify.com/track/6zmBzFMP19mafCMH40Rcc3"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Candlelight",
-        "url": "https://open.spotify.com/album/6TV6kDLZ8FzbgHNqCQyI2m"
-      },
-      "artists": [
-        {
-          "name": "Max Winter",
-          "url": "https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A"
-        },
-        {
-          "name": "Asha Lorenz",
-          "url": "https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/44mRUBKLs6EOQ2CyN9Jfr7"
-        },
-        {
-          "name": "Will Lister",
-          "url": "https://open.spotify.com/artist/1odMNU4WdV8g46ku7SgfJz"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/6oHLiMAN1cp8nlTNTKx1aG"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Soak Me",
         "url": "https://open.spotify.com/album/0JMsB9NMau9LaW91LxKvif"
@@ -461,7 +521,7 @@
       "url": "https://open.spotify.com/track/1CbcRzLxAnjcaEexc9jbtH"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "WINDSTONE",
         "url": "https://open.spotify.com/album/0iJ5AKKdFdTb6p0Uj90hNb"
@@ -477,7 +537,7 @@
       "url": "https://open.spotify.com/track/2WZs5bJAbdXiAv8wKHmMfb"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Should Feel Bad",
         "url": "https://open.spotify.com/album/7hl6Usv0fcocfbi9Sh7VPl"
@@ -493,7 +553,7 @@
       "url": "https://open.spotify.com/track/3m3RfnYDaIlXlHPiWzVtje"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "a feeling",
         "url": "https://open.spotify.com/album/0lT0bmsvvpNkHvzfzJ8Ezd"
@@ -513,7 +573,7 @@
       "url": "https://open.spotify.com/track/0q4GQFQkzhkKUlzZZv0eNb"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore",
         "url": "https://open.spotify.com/album/2GlAK5ZGWlzIzvLv1XSIoZ"
@@ -545,7 +605,7 @@
       "url": "https://open.spotify.com/track/5qVqO95bAKrSAXr7syJDA5"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Music for Intersecting Planes",
         "url": "https://open.spotify.com/album/6hgGCTcKj9F9t7SYiRGmgs"
@@ -565,27 +625,23 @@
       "url": "https://open.spotify.com/track/0Qv4TU6l9PdPVjAGB04wDz"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
-        "name": "Blue Kembang",
-        "url": "https://open.spotify.com/album/5Ns0tUWM7o7Jk1KJMNEJWo"
+        "name": "Peacock dreams \u0623\u064e\u062d\u0652\u0644\u064e\u0627\u0645\u064f \u0627\u0644\u0637\u064e\u0651\u0627\u0648\u064f\u0648\u0633\u0650",
+        "url": "https://open.spotify.com/album/1W6eHL3uR3r7rZwTNVq81T"
       },
       "artists": [
         {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        },
-        {
-          "name": "Tarawangsawelas",
-          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
+          "name": "Abdullah Miniawy",
+          "url": "https://open.spotify.com/artist/4vtk0GdkL06BZlviVp2H7J"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Blue Kembang",
-      "url": "https://open.spotify.com/track/5W5oIe46g49kfTEkxd8oPN"
+      "duration_ms": 185003,
+      "name": "Kemet song",
+      "url": "https://open.spotify.com/track/1ufLRhpIuXkWybrPcwz63S"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Whip It / Head",
         "url": "https://open.spotify.com/album/7caOhG6r425PYKhQ52CY2I"
@@ -601,7 +657,7 @@
       "url": "https://open.spotify.com/track/7xDG1uJnrl4eDVx8QAU8j4"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Dying Is The Internet",
         "url": "https://open.spotify.com/album/2zyTrlBLi4WVh4tUZXKlIo"
@@ -621,7 +677,7 @@
       "url": "https://open.spotify.com/track/1W3ZDPkQuCHT22Yr3sXO1J"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "nothing's ever enough",
         "url": "https://open.spotify.com/album/0Gfx6x8T7g7MolfxEswtj3"
@@ -637,27 +693,7 @@
       "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Paper Masks",
-        "url": "https://open.spotify.com/album/5jc6r4gQEPMx9K9I6E7Hq8"
-      },
-      "artists": [
-        {
-          "name": "Phew",
-          "url": "https://open.spotify.com/artist/7mTJBVGJmkgbjwvbzc0Bqb"
-        },
-        {
-          "name": "Danielle De Picciotto",
-          "url": "https://open.spotify.com/artist/65K6P517Q4BXJxZtPPSxeM"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "The Cat",
-      "url": "https://open.spotify.com/track/6LAG9NnUFiH3YGmPLob5xD"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Eating The Other",
         "url": "https://open.spotify.com/album/1SWXgPN8VWX2krsNYsErMm"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/2ZU1XgkWZN7jkWuI3VPvZd"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/6EzdNzxJF57dlgFa4VSKaz"
@@ -693,23 +729,7 @@
       "url": "https://open.spotify.com/track/1i7cSJkuP2CdOAKgSvJOCH"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Pli\u00e9",
-        "url": "https://open.spotify.com/album/4gmpsOnSKBjikhEXiluCV7"
-      },
-      "artists": [
-        {
-          "name": "Evadney",
-          "url": "https://open.spotify.com/artist/7Kx543dKb9fKb5C2R2eYzd"
-        }
-      ],
-      "duration_ms": 221783,
-      "name": "Pli\u00e9",
-      "url": "https://open.spotify.com/track/5nX0dAdSQ679s5wrh2Bws8"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Ratios IV",
         "url": "https://open.spotify.com/album/5WEHqOF9EzG7w8EhFk3KER"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/0QRfXrPB0gbOOgeLmMCi1a"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/0PLgkwpOBriwfUzvXs7m2m"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/58aI1ZhTgyOh9pHU0Bgd8l"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "bring colour into my world",
         "url": "https://open.spotify.com/album/5q6yFSh2sITUn1KUfG2ARI"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/2yb38apuBUwNKwl66QvATH"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Sirenoscape",
         "url": "https://open.spotify.com/album/6twodPRISzXKRY2nNaD5Ar"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/6oKJaftgQzrF9egNqdgA9U"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Infant",
         "url": "https://open.spotify.com/album/3mvCjBirMEPmvKTOgU6b9P"
@@ -789,39 +809,7 @@
       "url": "https://open.spotify.com/track/6VWzDlMg5tMjR71m1Db5S8"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Whip It / Head",
-        "url": "https://open.spotify.com/album/7caOhG6r425PYKhQ52CY2I"
-      },
-      "artists": [
-        {
-          "name": "HATIHATI",
-          "url": "https://open.spotify.com/artist/0bQOyrAFK9wG5Ur2tpyxbj"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/28E8tUawneUzK42KSxkmLa"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
-      "album": {
-        "name": "Peacock dreams \u0623\u064e\u062d\u0652\u0644\u064e\u0627\u0645\u064f \u0627\u0644\u0637\u064e\u0651\u0627\u0648\u064f\u0648\u0633\u0650",
-        "url": "https://open.spotify.com/album/1W6eHL3uR3r7rZwTNVq81T"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Miniawy",
-          "url": "https://open.spotify.com/artist/4vtk0GdkL06BZlviVp2H7J"
-        }
-      ],
-      "duration_ms": 185003,
-      "name": "Kemet song",
-      "url": "https://open.spotify.com/track/1ufLRhpIuXkWybrPcwz63S"
-    },
-    {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "The Pavilion Of Dreams",
         "url": "https://open.spotify.com/album/2aIhtZBqWrGAamkL94mcCL"
@@ -841,7 +829,7 @@
       "url": "https://open.spotify.com/track/6kih4ZPZSHjUaPOs4XqGET"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Ball & Socket",
         "url": "https://open.spotify.com/album/56V4Rnl0S6nsAz1BSnUFPX"
@@ -857,7 +845,7 @@
       "url": "https://open.spotify.com/track/34cxDTrRVCc0Lrf0EKMYsK"
     },
     {
-      "added_at": "2026-05-05 01:03:34",
+      "added_at": "2026-05-06 08:12:06",
       "album": {
         "name": "Harm",
         "url": "https://open.spotify.com/album/3XcZDnmAQGwjCIE99fzu2h"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 717 songs - 1 day 22 hr 31 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 718 songs - 1 day 22 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -725,5 +725,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 715 | [Zion I](https://open.spotify.com/track/2noAezCPjG8U5W5hi1smLK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/06vHyS1KFTcMIyxKzuRAbK) | 3:30 |
 | 716 | [Backseat](https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0) | [Third Attempt](https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD) | [Backseat](https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G) | 3:42 |
 | 717 | [Intro: Girl Under The Grey Cloud.](https://open.spotify.com/track/4BQMnvSbKs5yVJHEkc7yUT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 1:13 |
+| 718 | [Fierce Resource Allocation](https://open.spotify.com/track/7iTYbcuDNMnhR0fstPHAp7) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [The Orlando Sentinel](https://open.spotify.com/album/3fN9ksNkNQcYcwXFuyVe6i) | 3:36 |
 
-Snapshot ID: `AAAJBxCOXdZkDS2AwXm9xXFYrcLbq+tw`
+Snapshot ID: `AAAJCUf1cjjqc69JDn+DzdgsJCptTfn3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Francesca Michielin in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,277 likes - 172 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,275 likes - 172 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 165 | [PENSO](https://open.spotify.com/track/0DiZWLr7Ho2DZjnMrQ8vPs) | [DOBRO](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [ECLISSI](https://open.spotify.com/album/6rNMDa7dkZJw3CYTZvPvo0) | 2:40 |
 | 166 | [26](https://open.spotify.com/track/6wq736cFWuCe25htCxodRj) | [Martina Di Nardo](https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx) | [26](https://open.spotify.com/album/3oFfTB0mo8CuDQfXIxdVg4) | 3:08 |
 | 167 | [Non cambi mai](https://open.spotify.com/track/2qZevmxysM1x9rtc4A7tEf) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4) | [Non cambi mai](https://open.spotify.com/album/4xA0IxPoTRpHarpiLOHoDV) | 3:09 |
-| 168 | [Lacrima Blu](https://open.spotify.com/track/5Zrs5OnH4s4jfpCsjTp1xT) | [FELLOW](https://open.spotify.com/artist/5A3O1rn0hAAXu3jrCTbkg5) | [Lacrima Blu](https://open.spotify.com/album/6rFaC3VmDt787PSl5rHU7N) | 3:04 |
+| 168 | [lacrima blu](https://open.spotify.com/track/5Zrs5OnH4s4jfpCsjTp1xT) | [FELLOW](https://open.spotify.com/artist/5A3O1rn0hAAXu3jrCTbkg5) | [lacrima blu](https://open.spotify.com/album/6rFaC3VmDt787PSl5rHU7N) | 3:04 |
 | 169 | [FUCK YOUR EGO](https://open.spotify.com/track/4DgEdFh9Qw0AVefCdB56h8) | [FENICE](https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D), [Milord](https://open.spotify.com/artist/5XOBciTUZqGxJ8AHNo80aE), [popmolly](https://open.spotify.com/artist/6JohJ96OQXdnIxpCuY9LqG) | [FUCK YOUR EGO](https://open.spotify.com/album/27upC75ohgplJvSHXoSJ8B) | 2:46 |
 | 170 | [OK Scusa Errore Mio](https://open.spotify.com/track/3ijkWq1YsQ3Amor35yHS47) | [edoEdo](https://open.spotify.com/artist/7y8r29XzidWpzDmSuhHZVP) | [OK Scusa Errore Mio](https://open.spotify.com/album/1MXXmolM5zHQu2VOzWSXup) | 2:39 |
 | 171 | [una cosa leggera](https://open.spotify.com/track/3jVAFCoDciG24tUa0b2zcN) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Atoker](https://open.spotify.com/artist/0gTzWbhRobuLLJnd3CsBwb), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [una cosa leggera](https://open.spotify.com/album/5XQ75pxbbAAHFJM1qSTzIc) | 2:00 |

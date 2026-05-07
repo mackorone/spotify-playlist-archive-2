@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308695,
+  "num_followers": 1308674,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAABCbbVL6BXg25meaan08JET",
+  "snapshot_id": "afkzAAAAAACrVeLe+1VU4bmhI7CbBKzT",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentimiento M\u00e1gico (feat. FLOUSES) [Remix]",
+        "url": "https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "FLOUSES",
+          "url": "https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm"
+        }
+      ],
+      "duration_ms": 291459,
+      "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
+      "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Protagonista",
         "url": "https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3"
       },
@@ -267,26 +299,6 @@
       "duration_ms": 159272,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
-        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258541,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
-      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": null,
@@ -323,34 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimiento M\u00e1gico (feat. FLOUSES) [Remix]",
-        "url": "https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X"
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
+        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
       },
       "artists": [
         {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "FLOUSES",
-          "url": "https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm"
         }
       ],
-      "duration_ms": 291459,
-      "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
-      "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
+      "duration_ms": 258541,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
+      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": null,
@@ -775,6 +775,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noche Complicada",
+        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Noche Complicada",
+      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A200 (Remix)",
         "url": "https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok"
       },
@@ -807,42 +843,6 @@
       "duration_ms": 319105,
       "name": "A200 - Remix",
       "url": "https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noche Complicada",
-        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
-      },
-      "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Noche Complicada",
-      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
     },
     {
       "added_at": null,

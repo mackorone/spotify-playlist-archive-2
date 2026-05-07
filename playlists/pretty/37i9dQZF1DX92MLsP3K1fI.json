@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
-  "num_followers": 94675,
+  "num_followers": 94688,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,18 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "el silencio",
-        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+        "name": "El Vuelo",
+        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 218217,
-      "name": "el silencio",
-      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
+      "duration_ms": 191892,
+      "name": "El Vuelo",
+      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -623,34 +619,38 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "El Vuelo",
-        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 191892,
-      "name": "El Vuelo",
-      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 165110,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "CORAZON PESAO",
         "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 142622,
       "name": "CORAZON PESAO",
       "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "Al Mismo Kbrn (De Siempre)",
         "url": "https://open.spotify.com/album/090ET0e1hTQLnCvnc5X9yN"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 201694,
       "name": "Al Mismo Kbrn (De Siempre)",
       "url": "https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
-        "name": "Par\u00eds (Junto a Ti)",
-        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Par\u00eds (Junto a Ti)",
-      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "added_at": "2026-04-10 16:15:50",

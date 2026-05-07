@@ -2,9 +2,9 @@
 
 ### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 一起來欣賞女性音樂人的精采表現！Cover: HUR+
+> 一起來欣賞女性音樂人的精采表現！Cover: 陳華 Hua Chen
 
-1,052 songs - 2 day 20 hr 59 min
+1,054 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Baby](https://open.spotify.com/track/6fbNHARAl9XCrq33sK1XnN) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Baby](https://open.spotify.com/album/6aFO53njZkmlOZNwXCQLjx) | 4:09 | 2023-06-06 | 2023-07-05 |
 | [Baby Blue](https://open.spotify.com/track/7nCHYzmZMV178mQBzdDCRD) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Baby Blue](https://open.spotify.com/album/5nroWaxABx7UtxMTEW8At6) | 2:29 | 2024-07-02 | 2025-02-05 |
 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 | 2026-01-06 |  |
-| [Back to Me](https://open.spotify.com/track/1asWHdX4xlMUzZUF4Z7r5z) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [Back to Me](https://open.spotify.com/album/4DiMMJ1mevviy1HqpdwCow) | 2:46 | 2026-01-06 |  |
+| [Back to Me](https://open.spotify.com/track/1asWHdX4xlMUzZUF4Z7r5z) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [Back to Me](https://open.spotify.com/album/4DiMMJ1mevviy1HqpdwCow) | 2:46 | 2026-01-06 | 2026-05-07 |
 | [BBG](https://open.spotify.com/track/1UOgqXukIUhnZ4XPXKSDsH) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [BBG](https://open.spotify.com/album/6VZgA9NqQW28U9x9c4ri7h) | 3:03 | 2025-07-01 | 2025-08-06 |
 | [Beyond Mediocrity](https://open.spotify.com/track/09WBa0t2no2UWt9XG3V5KU) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/6gV2UvsUCLzOSpDa3OlFUH) | 3:46 | 2022-08-02 | 2022-09-07 |
 | [Black Out](https://open.spotify.com/track/7pyQunCBNLEykFag9Nkud0) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Black Out](https://open.spotify.com/album/42QJ1OGLP0D2ODchfQcLnA) | 3:57 | 2024-12-04 | 2025-01-08 |
@@ -466,7 +466,7 @@
 | [宜自己](https://open.spotify.com/track/7Ht3yYZyGKWvwULddKinxM) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [宜自己](https://open.spotify.com/album/6FLrVMWypYKMfadA4cNRBW) | 3:45 | 2022-09-06 | 2022-10-05 |
 | [家家酒](https://open.spotify.com/track/6mO5fCJKvB9tr5RAFvBO7z) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [還是想念](https://open.spotify.com/album/4Bay19OUdTjD1eB7NOF4dP) | 4:33 | 2022-11-30 | 2023-01-04 |
 | [寂寞不痛](https://open.spotify.com/track/6QmFAdDfNVPiyfoMKctxnV) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [寂寞不痛](https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR) | 5:00 | 2023-10-03 | 2023-11-09 |
-| [寂寞守望者](https://open.spotify.com/track/3ZOQ1UCywGGqBRqJoIpdpj) | [the Huiting 陳惠婷](https://open.spotify.com/artist/5KSQNJyPSHZ0FS5Qc9qUVz) | [成人世界](https://open.spotify.com/album/4rPQ4GDLbVqElfLaLNQXCU) | 4:32 | 2026-01-06 |  |
+| [寂寞守望者](https://open.spotify.com/track/3ZOQ1UCywGGqBRqJoIpdpj) | [the Huiting 陳惠婷](https://open.spotify.com/artist/5KSQNJyPSHZ0FS5Qc9qUVz) | [成人世界](https://open.spotify.com/album/4rPQ4GDLbVqElfLaLNQXCU) | 4:32 | 2026-01-06 | 2026-05-07 |
 | [寂寞寂寞就好](https://open.spotify.com/track/4LhAUjPqfLpBVNYEdPd5Go) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/3LS8Yu3yTT5CnUvkTcISyC) | 4:35 | 2023-06-06 | 2023-09-06 |
 | [寂寞寂寞就好](https://open.spotify.com/track/73Za3Ote9y5Y02GGjvzvXt) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [To Hebe](https://open.spotify.com/album/5kQpJhfXQhkksNmzaXH1nR) | 4:35 | 2022-02-01 | 2024-12-05 |
 | [寂寞無害 \- 八大韓劇”拜託了媽媽”片頭曲](https://open.spotify.com/track/5hVaRXaXgpN9lNK61oyz2I) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [說 艾怡良](https://open.spotify.com/album/4mWCzSBfHnpKRU3vsqhEJc) | 4:24 | 2022-01-04 | 2024-04-03 |
@@ -762,6 +762,7 @@
 | [海是weather你 \- RE\-THINK環島淨灘主題曲](https://open.spotify.com/track/27sMdmP2UT9YuouWEE1AXT) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [林加安](https://open.spotify.com/artist/4XdTzldVEGnxAU4KwfSNrw) | [海是weather你 \(RE\-THINK環島淨灘主題曲\)](https://open.spotify.com/album/1X53bnTS4NBubf6O7fUq2H) | 2:49 | 2024-07-02 | 2024-08-07 |
 | [海的模樣](https://open.spotify.com/track/5iKKMU8H9UhD5s9IuhFkGm) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [海的模樣](https://open.spotify.com/album/0RYsFfUan31oGfQWsZsxAL) | 3:30 | 2026-01-06 |  |
 | [清醒夢](https://open.spotify.com/track/24NFRGYbm1MUUPDScdJ7SR) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Boomerang](https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR) | 4:26 | 2024-02-06 | 2025-05-07 |
+| [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:20 | 2026-05-06 |  |
 | [溫室狂花](https://open.spotify.com/track/00aJoSrsoDIzFznPDkBUFP) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:30 | 2023-04-04 | 2023-05-03 |
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-03-05 | 2024-04-03 |
 | [漢堡包](https://open.spotify.com/track/3hIzlOuqBKJnCINERJKiyY) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [漢堡包](https://open.spotify.com/album/0ileEFpKqNcdH0iAHeDESt) | 3:21 | 2022-02-01 | 2023-11-30 |
@@ -1021,6 +1022,7 @@
 | [關於我愛你](https://open.spotify.com/track/69bdhBcI3aTFA8KhooWBI3) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [城市](https://open.spotify.com/album/2X2WYTQl5BVInM0StQChCy) | 4:54 | 2022-05-31 | 2022-12-01 |
 | [陌生人](https://open.spotify.com/track/43AqmOR2CJ4nsXyzjvGRnJ) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [陌生人](https://open.spotify.com/album/0hUkRyQpFyL7bS9yLuvM4i) | 3:14 | 2025-04-01 | 2025-05-07 |
 | [降噪 \- 北流五週年音樂共創計畫](https://open.spotify.com/track/4BR4E1y7La8wxc034rdQn2) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf), [阿橘](https://open.spotify.com/artist/6kZYE9gWvwhbkjhcg8ZHqm) | [降噪 \(北流五週年音樂共創計畫\)](https://open.spotify.com/album/2pSyyMeE9Gj043CJXQEW5q) | 4:16 | 2025-07-01 | 2025-08-06 |
+| [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 | 2026-05-06 |  |
 | [陪著我的時候想著她](https://open.spotify.com/track/4noDB5yYhapKRpkuGCrUoh) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [陪著我的時候想著她](https://open.spotify.com/album/1M666ZY4UmP1QbD2ROpM9x) | 4:24 | 2024-04-02 | 2026-01-15 |
 | [陽光](https://open.spotify.com/track/4mJGxW5pj1YFwnooXVwTMI) | [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [陽光](https://open.spotify.com/album/2qBnr5O6XwBdYfjVVDI44C) | 4:35 | 2022-02-01 | 2022-03-08 |
 | [隠形的翅膀](https://open.spotify.com/track/6Tv5ukQ3xK8WHxJgWMM6vM) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [潘朵拉](https://open.spotify.com/album/5O07WcsezsPhSKWFxvEfgS) | 3:42 | 2022-08-02 | 2024-12-05 |

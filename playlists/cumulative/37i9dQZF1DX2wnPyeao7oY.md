@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: PINKNOISE
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: 5hy
 
-825 songs - 2 day 0 hr 36 min
+831 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A League of Their Own](https://open.spotify.com/track/1FDNd4ufOs34fvRVkNqIz0) | [SELF CHECKOUT](https://open.spotify.com/artist/5MowzXawPPjyDDZpswcbZj) | [A League of Their Own](https://open.spotify.com/album/3FUDl4SDj4EEAK6KDnquj7) | 3:18 | 2026-02-25 | 2026-03-12 |
 | [A New Frame](https://open.spotify.com/track/11zgyOre6x3bN3521UB5xc) | [Caution Thieves](https://open.spotify.com/artist/0IZfNjNXbYfr3r0l4keSff) | [The Astronomer](https://open.spotify.com/album/4ixEvAFNYPCgCslnD7GAyD) | 3:55 | 2025-11-05 | 2025-12-04 |
 | [A Place For Those Who Suffer, Alone](https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j) | [Survivalist](https://open.spotify.com/artist/4H5Sej01zQdVBms4iFMTmA) | [A Place For Those Who Suffer, Alone](https://open.spotify.com/album/4Sc7kfaImi7z8peeYXP0rd) | 3:45 | 2026-02-04 | 2026-04-16 |
+| [A Single Shade](https://open.spotify.com/track/3OMl7kRGQOB1eIwpwziLnp) | [OBEYER](https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q) | [Pallor](https://open.spotify.com/album/7vLbFZq9cnlvnNj84AxINP) | 4:13 | 2026-05-06 |  |
 | [A Slow Decay](https://open.spotify.com/track/5jwx9LcEGfFgm0LF7qICsx) | [Part Paladin](https://open.spotify.com/artist/26LmhFx3y46edGecAPNmgi) | [Temet Nosce](https://open.spotify.com/album/0mPloqkk5qtxF5aFsRk3Mj) | 4:32 | 2025-09-17 | 2025-10-16 |
 | [Abyssal Host](https://open.spotify.com/track/4Wv0PLJV52t7gJBymuWLIS) | [Glacial Tomb](https://open.spotify.com/artist/49q7wu3eIwZR1kjAHdCHOI) | [Abyssal Host](https://open.spotify.com/album/6BbB8W8nHIohh4Qk2uDu3e) | 4:18 | 2024-08-07 | 2024-10-10 |
 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 | 2024-08-07 | 2025-01-23 |
@@ -158,6 +159,7 @@
 | [CORRUPTED](https://open.spotify.com/track/7ApsHjRKVjJPdbFgZ5TEo1) | [Continents](https://open.spotify.com/artist/2uM9hyKJ0jEXV7LqYNe6QR), [Cherry of Defences](https://open.spotify.com/artist/3hiPYrYAFbnINBkyt5U7Mf) | [CORRUPTED](https://open.spotify.com/album/0Y9VfxBJWg2wWtYwxLVeQu) | 3:38 | 2025-03-19 | 2026-01-15 |
 | [Covert One](https://open.spotify.com/track/2VUzSTz4X7u60BCPMKqHBc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Covert One](https://open.spotify.com/album/5vfS6nAS1z0jg5YLnqiBRM) | 3:06 | 2025-08-13 | 2025-09-25 |
 | [Cowboys Of Doom](https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k), [Jay Smith](https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO) | [Cowboys Of Doom](https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB) | 4:59 | 2026-03-04 |  |
+| [Crave](https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx) | [Via Sky](https://open.spotify.com/artist/7BhceVGe9yQLMUuTKC21bo), [Kristyn Hope](https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU) | [Crave](https://open.spotify.com/album/1myxsESxSt1as0EXtCSBhN) | 3:49 | 2026-05-06 |  |
 | [Craven](https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Craven](https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd) | 3:43 | 2025-08-20 | 2025-10-02 |
 | [Crazy One](https://open.spotify.com/track/19nWPTuIPfi0Cel9Gg6oYx) | [Felix Weaver](https://open.spotify.com/artist/1onhmHB21funSEwlwO6B9J) | [Crazy One](https://open.spotify.com/album/1v3ucRyw7ngZ0axpBMq2nj) | 3:21 | 2024-10-25 | 2024-12-05 |
 | [creep.](https://open.spotify.com/track/5NOCTGgUKlYTlcSaDPdSa4) | [THROATCUT.](https://open.spotify.com/artist/47gBz1Pk9infYqGMRxj6f5) | [creep.](https://open.spotify.com/album/4U23GK6lMmB6hT5P6N0MYL) | 3:14 | 2025-01-15 | 2025-02-20 |
@@ -283,6 +285,7 @@
 | [flowers in february](https://open.spotify.com/track/6TNNIj1wUHf1Y6HBioNyjh) | [Houses We Die In](https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk) | [A Brief Glimpse of Solace](https://open.spotify.com/album/1hWehO8t95BzMKbgoFSsLu) | 3:54 | 2026-04-08 |  |
 | [Follow Me Into The Dark](https://open.spotify.com/track/3A2TdLfGegY7UAdvs4Eg9F) | [reverie](https://open.spotify.com/artist/5Iin90pYCmBEIPJpjRNBoU) | [I Killed The Old Me](https://open.spotify.com/album/4DBgXswhTkv4cfoWlz26LU) | 2:16 | 2026-01-14 | 2026-02-12 |
 | [Fool For You](https://open.spotify.com/track/2NI9zWzjX2gzKzlfflFWtL) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Fool For You](https://open.spotify.com/album/16DrDEkrAnMJX2O95PIHTQ) | 4:03 | 2025-08-27 | 2025-10-02 |
+| [forever mine](https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd) | [5hy](https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr) | [forever mine](https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX) | 2:46 | 2026-05-06 |  |
 | [Forget It](https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Forget It](https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8) | 3:46 | 2024-10-02 | 2024-12-05 |
 | [Forgetting Is a Kindness Too](https://open.spotify.com/track/4PWm1OFJ5jRIgnu9s4crOu) | [No Closure](https://open.spotify.com/artist/3PySwRk0wSsfgo6qKE0g06) | [Forgetting Is a Kindness Too](https://open.spotify.com/album/1DeGh0DFiwTlW76fBMz8dN) | 3:35 | 2025-11-05 | 2025-12-04 |
 | [Foster](https://open.spotify.com/track/0YTHNylQeRGsbjjqgXoCA5) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Ask Nothing](https://open.spotify.com/album/2jtgYiOhuFYGw5mFJ7oxPg) | 4:19 | 2025-12-03 | 2026-01-15 |
@@ -496,6 +499,7 @@
 | [My Teeth](https://open.spotify.com/track/3pXA6hIQPY6gGaifcxybJu) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [My Teeth](https://open.spotify.com/album/4XfLG95Mm6cb9JQr74NEQi) | 3:07 | 2025-03-19 | 2026-01-15 |
 | [MY.OWN.SKIN](https://open.spotify.com/track/68nFAFfIesp10mYjbalBad) | [InRetrospect](https://open.spotify.com/artist/7IRGSEZoEl2M7KljJVxJuT) | [MY.OWN.SKIN](https://open.spotify.com/album/3qLHWbi29wBOUOZRJJnPgI) | 3:26 | 2024-08-07 | 2024-09-12 |
 | [Nails](https://open.spotify.com/track/1Y2RaPgtRn6ySZbPjjkgIu) | [Vanna](https://open.spotify.com/artist/7cXUCar1BPOeMI2qza9oa1) | [Time is Violence](https://open.spotify.com/album/6yovfnZE3SJdSKsMsiqjAe) | 3:36 | 2025-09-24 | 2025-10-16 |
+| [Need This Patience](https://open.spotify.com/track/5KZ18JogdoOFJOjmAMIZQG) | [Gold Souls](https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k) | [Need This Patience](https://open.spotify.com/album/5IAQXJwSdWg4VraezrPLMi) | 2:47 | 2026-05-06 |  |
 | [Neighbors](https://open.spotify.com/track/09ni95bc8G2j4OOPopdyYl) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Neighbors](https://open.spotify.com/album/1frmqPMR3tVEO8qieXinbf) | 2:46 | 2025-09-03 | 2025-11-13 |
 | [Neon Demons](https://open.spotify.com/track/3p79nCk0tCuqft6sqDcHNK) | [Revoid](https://open.spotify.com/artist/4bFfNjcl5q8NMo2dbsje7o) | [Neon Demons](https://open.spotify.com/album/0MxCBNh31WMna6zaJNmtYs) | 3:39 | 2025-08-13 | 2025-08-23 |
 | [netherworld](https://open.spotify.com/track/2HchRw6wi5RNguRldARPgb) | [echochamber](https://open.spotify.com/artist/1t41S2a6wX3cDZLMCW73yR) | [netherworld](https://open.spotify.com/album/2Z3EJaTA7OErG22y9mnhdn) | 3:18 | 2025-10-15 | 2025-11-06 |
@@ -550,6 +554,7 @@
 | [Pale Shadow](https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Pale Shadow](https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac) | 3:25 | 2026-02-04 | 2026-04-23 |
 | [Paralyzed](https://open.spotify.com/track/3a2MQcU8Vn4O8yntS5THop) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw) | [Paralyzed](https://open.spotify.com/album/1wFW3Bvsj7mDuoewt2IJED) | 3:43 | 2026-01-14 | 2026-02-12 |
 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 | 2025-05-30 | 2026-01-15 |
+| [Passage](https://open.spotify.com/track/4ySxsCBR401FaCitQWlbEH) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [Passage](https://open.spotify.com/album/0SXsdfDq8bGMHfMHQYuVmz) | 3:46 | 2026-05-06 |  |
 | [Pastures](https://open.spotify.com/track/0HD2kWKZY5Ao4xv5AGGiRf) | [Bangladeafy](https://open.spotify.com/artist/5iE8aaGPwGBmP4RjGRNftQ) | [Vulture](https://open.spotify.com/album/2wu13uB5EHYk9hbB6dVKmF) | 2:01 | 2024-08-07 | 2024-08-29 |
 | [People Are Starting to Notice](https://open.spotify.com/track/6qF34cFuk88HkNpSsBIGds) | [Before I Turn](https://open.spotify.com/artist/6oAHBPNjkdXwcdt2AgJgan) | [Immoral and Malevolent Happenings](https://open.spotify.com/album/7iqE3gay9N857FMxpx5W5b) | 3:51 | 2026-02-11 | 2026-04-16 |
 | [Perfect Death](https://open.spotify.com/track/1g3xJT9dXXjNqz7iNM72Dc) | [Catsclaw](https://open.spotify.com/artist/7wOW98O5VLYYbJxntYe799) | [Perfect Death](https://open.spotify.com/album/5EYTidZKeuUSMo62Pmz8IQ) | 3:26 | 2025-09-24 | 2025-12-04 |
@@ -565,6 +570,7 @@
 | [POINT OF VIEW](https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [POINT OF VIEW](https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT) | 4:07 | 2025-09-24 | 2025-11-06 |
 | [poison](https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z) | [Houses We Die In](https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk) | [poison](https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8) | 4:05 | 2026-02-18 | 2026-04-09 |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-08-07 | 2024-10-10 |
+| [Portrait set on fire](https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Portrait set on fire](https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC) | 3:49 | 2026-05-06 |  |
 | [Possess You](https://open.spotify.com/track/47Lh9oxbakvH3JStNCJ8xD) | [Lead Horizon](https://open.spotify.com/artist/5iF3nNoHv3gEm9mobCwdxC), [Fatal\-M](https://open.spotify.com/artist/1Yr30AKwYMzOIy7fo6Eeur) | [Possess You](https://open.spotify.com/album/5kNa5sWacNzzlJVddL3Ht4) | 3:05 | 2025-11-26 | 2026-02-12 |
 | [Pray](https://open.spotify.com/track/51vgMochoqsIX5SZEhhXDi) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Pray](https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu) | 4:07 | 2024-10-25 | 2024-12-05 |
 | [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-04-23 | 2025-05-10 |

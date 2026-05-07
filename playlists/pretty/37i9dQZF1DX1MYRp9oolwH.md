@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Srinivasa Mangapuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,233 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,309 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Haiyayyo](https://open.spotify.com/track/26rXjKl1hgCwraoGx1Uklh) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Mr.X \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7wPMlX1FfWpAyJ44IP4WWm) | 4:26 |
 | 50 | [Emaindo](https://open.spotify.com/track/09bFApsztN37dcVl3aYxVC) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [BIKER](https://open.spotify.com/album/1orPs3If0nlStixmpnC8nE) | 2:42 |
 
-Snapshot ID: `AAAAAGE1BXQKyAY+g/GArL/tS5UpvIzg`
+Snapshot ID: `AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al`

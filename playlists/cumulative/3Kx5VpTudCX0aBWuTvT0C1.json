@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Mark My Words (Unplugged)",
+        "url": "https://open.spotify.com/album/0BtA0ZoxxmyteDig2q9jHe"
+      },
+      "artists": [
+        {
+          "name": "moberod",
+          "url": "https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266091,
+      "name": "Mark My Words (Unplugged)",
+      "url": "https://open.spotify.com/track/0Xb5yKmAHQYCRfCaOE6hcU"
+    },
+    {
+      "album": {
         "name": "Sinfon\u00eda Extraterrestre",
         "url": "https://open.spotify.com/album/6AkKS7fNterNtS13Fy62Ir"
       },

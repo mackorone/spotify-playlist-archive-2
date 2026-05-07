@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-70 songs - 4 hr 5 min
+71 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [So gewollt](https://open.spotify.com/track/0sYs8w2rUNaBunY8VG7JfO) | [ANTTI 5](https://open.spotify.com/artist/2ST2iSLE7lbXxWz97QXcUU) | [So gewollt](https://open.spotify.com/album/1wesdEBIJINBwRXia2EZA4) | 2:40 | 2025-01-07 |  |
 | [Something Blue](https://open.spotify.com/track/6IBvK2Xia5U5Wmg6jkI73G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Something Blue](https://open.spotify.com/album/226qtJTWbK1lfWh8aE82od) | 3:39 | 2025-10-20 |  |
 | [Spontaneous Proposal](https://open.spotify.com/track/562srU6TUkUmtKoErqvS2V) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Spontaneous Proposal](https://open.spotify.com/album/0eOIAqjggTOaAV4TpIFQhF) | 3:36 | 2025-09-13 |  |
+| [Stoicism](https://open.spotify.com/track/2ctjSYkpY02MNPb0hfwgZb) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Stoicism](https://open.spotify.com/album/3QRPjLlIkgeDzYRsXXuqDf) | 5:17 | 2026-05-06 |  |
 | [Stoned Summer](https://open.spotify.com/track/33do4mel6InOIdORZcZoa6) | [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [Stoned Summer](https://open.spotify.com/album/6IcsFuDZgf7ynUo3WMlAxM) | 3:08 | 2024-07-07 |  |
 | [Super Connected](https://open.spotify.com/track/05MSe9RwBssvXVvWG3FxqX) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Super Connected](https://open.spotify.com/album/41iO1f8hkoXkwIhcGWxOLM) | 4:38 | 2025-07-03 |  |
 | [Supermexican](https://open.spotify.com/track/6eTTdPN2G1BwLzZV68iAdc) | [Travelin' Man](https://open.spotify.com/artist/4A0E3SaSEKz7lgEVsxFNLK) | [Supermexican](https://open.spotify.com/album/4ncteuFvydkGgzDDpjubDr) | 3:21 | 2026-02-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4702,
+  "num_followers": 4703,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAAZ7LgUQo69Ev9fFtul4Orv",
+  "snapshot_id": "afkzAAAAAAAH3sIQQpNolMti6w+b8u2i",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 200871,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+      "duration_ms": 200871,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
     },
     {
       "added_at": null,

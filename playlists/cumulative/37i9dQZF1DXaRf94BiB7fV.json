@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Yugm",
+  "description": "The best new music by independent artists and labels in India. Cover - Chhavi Sodhani, Nayantara Bhatkal",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 394818,
       "name": "Aashiqana",
       "url": "https://open.spotify.com/track/7LiOJy6J3AtJjxwamxYGiQ"
@@ -1728,6 +1728,28 @@
       "duration_ms": 149055,
       "name": "Akela",
       "url": "https://open.spotify.com/track/0rPhYhj6Ai48pfs88MjFHB"
+    },
+    {
+      "album": {
+        "name": "Akeli",
+        "url": "https://open.spotify.com/album/1HaDnRkSFsNtmjjxgBHkPO"
+      },
+      "artists": [
+        {
+          "name": "Chhavi Sodhani",
+          "url": "https://open.spotify.com/artist/0fAAEVtf2NBPopVvfKNmkd"
+        },
+        {
+          "name": "Nayantara Bhatkal",
+          "url": "https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Akeli",
+      "url": "https://open.spotify.com/track/7aX7wqlnJRgWzUdhru6pe2"
     },
     {
       "album": {
@@ -2524,7 +2546,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 143793,
       "name": "Aur Kya",
       "url": "https://open.spotify.com/track/3Lfg1GsRT6on4Mp0re9uXW"
@@ -3471,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Barqat",
+        "url": "https://open.spotify.com/album/1hIIxQGqqIMsUB8WwAsBeo"
+      },
+      "artists": [
+        {
+          "name": "SATYAM",
+          "url": "https://open.spotify.com/artist/6PvBgeypg2EnriWdfWOH7b"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146755,
+      "name": "Barqat",
+      "url": "https://open.spotify.com/track/1fx9LoCoaGbmJmaeTX66Lw"
+    },
+    {
+      "album": {
         "name": "Barsa",
         "url": "https://open.spotify.com/album/6cB7uXUQROSTmEFZt9kudW"
       },
@@ -3580,6 +3620,24 @@
       "duration_ms": 179827,
       "name": "Bas Tera",
       "url": "https://open.spotify.com/track/7CSS0xHIkponmi2kJOr5qH"
+    },
+    {
+      "album": {
+        "name": "Bawarey",
+        "url": "https://open.spotify.com/album/7z0V9zGb1kChSeKrcRnK8a"
+      },
+      "artists": [
+        {
+          "name": "Amitabh Sen",
+          "url": "https://open.spotify.com/artist/33x5yF9xmVbC3K1kdXZ3FE"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244350,
+      "name": "Bawarey",
+      "url": "https://open.spotify.com/track/1UyflqWPfETX9VhO3ks6ES"
     },
     {
       "album": {
@@ -17588,7 +17646,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 369874,
       "name": "Khayaal Mein!",
       "url": "https://open.spotify.com/track/3ipbcu6MDLyrxsIbeLOxj9"
@@ -23280,7 +23338,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 225882,
       "name": "Mukhauta",
       "url": "https://open.spotify.com/track/7cIUP482RPPB1zWLaby3Mi"
@@ -29248,6 +29306,28 @@
       "duration_ms": 170256,
       "name": "Safar",
       "url": "https://open.spotify.com/track/4d3TElnih8QT0Y9E2dRAQW"
+    },
+    {
+      "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/0dW2gCXyYA8QB2SM5rQFUi"
+      },
+      "artists": [
+        {
+          "name": "Janki Maheshwar",
+          "url": "https://open.spotify.com/artist/7rlucARG4vewlHI4YByHRf"
+        },
+        {
+          "name": "Qafi",
+          "url": "https://open.spotify.com/artist/5RA9qdhkhABK617prbfyp5"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156574,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/2Iw26CRPGzt3lyWdkiZNIf"
     },
     {
       "album": {

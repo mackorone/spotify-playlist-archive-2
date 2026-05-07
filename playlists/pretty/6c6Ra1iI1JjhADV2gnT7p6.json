@@ -1,13 +1,29 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60052,
+  "num_followers": 60057,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA6lrNFkk+f76JmGmizrOUAogzFNbAC",
+  "snapshot_id": "AAA6nUvrY245a8++Cr626R64ugX22E+T",
   "tracks": [
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "Blu Tac Piano",
+        "url": "https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO"
+      },
+      "artists": [
+        {
+          "name": "Cusk",
+          "url": "https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Blu Tac Piano",
+      "url": "https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc"
+    },
     {
       "added_at": "2026-05-02 17:31:52",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 253203,
       "name": "\u30d1\u30e9\u30ec\u30ea\u30ba\u30e0 (Parallelisme)",
       "url": "https://open.spotify.com/track/5bdSOakMUzRtMwliWUbXm9"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "Blu Tac Piano",
-        "url": "https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO"
-      },
-      "artists": [
-        {
-          "name": "Cusk",
-          "url": "https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Blu Tac Piano",
-      "url": "https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc"
     },
     {
       "added_at": "2026-05-02 17:31:52",
@@ -3887,6 +3887,38 @@
     {
       "added_at": "2026-05-02 17:31:52",
       "album": {
+        "name": "Onto the Ground",
+        "url": "https://open.spotify.com/album/5MOioD69SPVbOCtHAhzHXc"
+      },
+      "artists": [
+        {
+          "name": "Adelyn Strei",
+          "url": "https://open.spotify.com/artist/5BuqUDWPCLseZe93CMD6VK"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Onto the Ground",
+      "url": "https://open.spotify.com/track/6GZq4JRxB03Zv629MuAKUw"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "afterthoughts",
+        "url": "https://open.spotify.com/album/5SN1Yb2NAvWWgBmvxxGGR5"
+      },
+      "artists": [
+        {
+          "name": "symmetrical dogs",
+          "url": "https://open.spotify.com/artist/6RplUraCnEUrpqz9nvGDXK"
+        }
+      ],
+      "duration_ms": 252715,
+      "name": "afterthoughts",
+      "url": "https://open.spotify.com/track/12HNRjbMaP2DLzXxLQ9JTu"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
         "name": "Stem",
         "url": "https://open.spotify.com/album/4krMvirEQo2XU1C2Si1uvP"
       },
@@ -3995,38 +4027,6 @@
       "duration_ms": 155480,
       "name": "It's Hard To Live (Without Your Love) [Bonus Track]",
       "url": "https://open.spotify.com/track/1m276PU0LLhPIizY0CpNAD"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "Onto the Ground",
-        "url": "https://open.spotify.com/album/5MOioD69SPVbOCtHAhzHXc"
-      },
-      "artists": [
-        {
-          "name": "Adelyn Strei",
-          "url": "https://open.spotify.com/artist/5BuqUDWPCLseZe93CMD6VK"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Onto the Ground",
-      "url": "https://open.spotify.com/track/6GZq4JRxB03Zv629MuAKUw"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "afterthoughts",
-        "url": "https://open.spotify.com/album/5SN1Yb2NAvWWgBmvxxGGR5"
-      },
-      "artists": [
-        {
-          "name": "symmetrical dogs",
-          "url": "https://open.spotify.com/artist/6RplUraCnEUrpqz9nvGDXK"
-        }
-      ],
-      "duration_ms": 252715,
-      "name": "afterthoughts",
-      "url": "https://open.spotify.com/track/12HNRjbMaP2DLzXxLQ9JTu"
     },
     {
       "added_at": "2026-05-02 17:31:52",
@@ -10895,22 +10895,6 @@
     {
       "added_at": "2026-05-02 17:31:52",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/5vs3Rkber4tDkYiBRrJ2Ks"
-      },
-      "artists": [
-        {
-          "name": "Sam Florian",
-          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/0QXGgPqYuONre4dq860mwz"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
         "name": "sweet dreams, see you tomorrow",
         "url": "https://open.spotify.com/album/70dHr0NR18d9wDcts9cCT7"
       },
@@ -10955,6 +10939,22 @@
       "duration_ms": 170516,
       "name": "Too Useful",
       "url": "https://open.spotify.com/track/6yC2rYaTLXawfIU6SHGwX3"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/5vs3Rkber4tDkYiBRrJ2Ks"
+      },
+      "artists": [
+        {
+          "name": "Sam Florian",
+          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/0QXGgPqYuONre4dq860mwz"
     },
     {
       "added_at": "2026-05-02 17:31:52",
@@ -11455,38 +11455,6 @@
     {
       "added_at": "2026-05-02 17:31:52",
       "album": {
-        "name": "there's an atm inside",
-        "url": "https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ"
-      },
-      "artists": [
-        {
-          "name": "ps goner",
-          "url": "https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp"
-        }
-      ],
-      "duration_ms": 265387,
-      "name": "broken dream",
-      "url": "https://open.spotify.com/track/3z2lxgazaDUONf4CISarud"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4ZqVcW4IYvt7aP1W2Wg4wp"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dollbaum",
-          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Coyote",
-      "url": "https://open.spotify.com/track/2JTksnpU56pS0yRtTKbBbc"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
         "name": "Phone Sex",
         "url": "https://open.spotify.com/album/5EBjLj2GpRXFErag2h2YSV"
       },
@@ -11631,6 +11599,38 @@
       "duration_ms": 193362,
       "name": "Body",
       "url": "https://open.spotify.com/track/2KuVCSzs8lM7FXhuNhxvrz"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "there's an atm inside",
+        "url": "https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ"
+      },
+      "artists": [
+        {
+          "name": "ps goner",
+          "url": "https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp"
+        }
+      ],
+      "duration_ms": 265387,
+      "name": "broken dream",
+      "url": "https://open.spotify.com/track/3z2lxgazaDUONf4CISarud"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4ZqVcW4IYvt7aP1W2Wg4wp"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/2JTksnpU56pS0yRtTKbBbc"
     },
     {
       "added_at": "2026-05-02 17:31:52",

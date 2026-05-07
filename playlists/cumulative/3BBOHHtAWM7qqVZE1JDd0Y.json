@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Woven EP",
+        "url": "https://open.spotify.com/album/6VyyjhS5G442emks8nir75"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/4O9lWwDnugWrEfQWgsreEh"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
       },
@@ -2536,6 +2554,28 @@
       "duration_ms": 181319,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
+      "album": {
+        "name": "Something Lost, Something Gained",
+        "url": "https://open.spotify.com/album/6stWt9lb69bp9kBaLKC3TH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        },
+        {
+          "name": "Dwara",
+          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263214,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5jjkXEpdxNlwolhrBhlifk"
     },
     {
       "album": {
@@ -2692,6 +2732,24 @@
       "duration_ms": 265285,
       "name": "Taos Hum",
       "url": "https://open.spotify.com/track/0xXUDgPG6ZxvhgNxQXHtdu"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/112J7VVgxQIAD3uQwmgWUI"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517258,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4x8mI1eF6GfHSXOqIMJ08T"
     },
     {
       "album": {

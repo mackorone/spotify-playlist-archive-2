@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 177936,
+  "num_followers": 177948,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Let Me Go, Lover!",
-      "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
         "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 141426,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Let Me Go, Lover!",
+      "url": "https://open.spotify.com/track/0Ribhkc0wstAoYkEY12BDq"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 118840,
+      "name": "It's Late - Remastered 2001",
+      "url": "https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Very Best Of",
         "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 185466,
       "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
       "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 118840,
-      "name": "It's Late - Remastered 2001",
-      "url": "https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Rock and Roll Waltz - Remastered",
-      "url": "https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 174693,
       "name": "Moonlight Gambler",
       "url": "https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "All the Greatest Hits Ever Made, Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Rock and Roll Waltz - Remastered",
+      "url": "https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Pure... '50s",
         "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 157586,
       "name": "High Noon (Do Not Forsake Me)",
       "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Original Hits - Country",
         "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 142426,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Climb Every Mountain",
-        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
-      },
-      "artists": [
-        {
-          "name": "Dickie Valentine",
-          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Finger of Suspicion",
-      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 160280,
       "name": "We Will Make Love",
       "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Climb Every Mountain",
+        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
+      },
+      "artists": [
+        {
+          "name": "Dickie Valentine",
+          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Finger of Suspicion",
+      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
     },
     {
       "added_at": "2023-10-17 16:18:55",

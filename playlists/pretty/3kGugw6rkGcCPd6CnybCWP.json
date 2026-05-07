@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOuR5yXa65k3MCejF3B9SLUAsDyaQk",
+  "snapshot_id": "AAAOvMJmN36fK5RAkCO1GO6IXpMg8pFo",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -961,26 +961,6 @@
       "url": "https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d"
     },
     {
-      "added_at": "2026-04-21 08:18:22",
-      "album": {
-        "name": "Mole's Hotel",
-        "url": "https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP"
-      },
-      "artists": [
-        {
-          "name": "Public Delay",
-          "url": "https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO"
-        },
-        {
-          "name": "Dizzy Panda",
-          "url": "https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mole's Hotel",
-      "url": "https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz"
-    },
-    {
       "added_at": "2026-04-21 08:18:43",
       "album": {
         "name": "The Daylight is Gone",
@@ -1435,6 +1415,38 @@
       "duration_ms": 186786,
       "name": "Only Good Things Will Come",
       "url": "https://open.spotify.com/track/263iWFX37tqJlEdhiANAZ6"
+    },
+    {
+      "added_at": "2026-05-06 11:42:13",
+      "album": {
+        "name": "PRETTY GIRL DONT CRY (Haunted Version)",
+        "url": "https://open.spotify.com/album/5hGSXhqlqNrBsDHHODFkip"
+      },
+      "artists": [
+        {
+          "name": "Megan Summersby",
+          "url": "https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF"
+        }
+      ],
+      "duration_ms": 235199,
+      "name": "PRETTY GIRL DONT CRY - Haunted Version",
+      "url": "https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr"
+    },
+    {
+      "added_at": "2026-05-06 11:42:58",
+      "album": {
+        "name": "fade away",
+        "url": "https://open.spotify.com/album/0zETxreVMiB64USyET4cZI"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "fade away",
+      "url": "https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,448 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,436 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 27 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
 | 28 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 |
 | 29 | [Veitsi](https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 |
-| 30 | [No Haav No Love](https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [No Haav No Love](https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF) | 3:17 |
-| 31 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
+| 30 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
+| 31 | [No Haav No Love](https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [No Haav No Love](https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF) | 3:17 |
 | 32 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
 | 33 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
 | 34 | [Sit Ku Mul On Muija](https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Sit Ku Mul On Muija](https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl) | 2:16 |
 | 35 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 36 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
+| 36 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 |
 | 37 | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6) | 3:07 |
 | 38 | [Turisti \(feat\. Turisti\)](https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Turisti \(feat\. Turisti\)](https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8) | 2:24 |
-| 39 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 |
+| 39 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 40 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |
 | 41 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
 | 42 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
-| 43 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |
-| 44 | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/track/5wa57ymHinnOMOUpjLUsWP) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/album/05BwBT7kYPLtqNUZ3cUjvD) | 2:02 |
+| 43 | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/track/5wa57ymHinnOMOUpjLUsWP) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/album/05BwBT7kYPLtqNUZ3cUjvD) | 2:02 |
+| 44 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |
 | 45 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
 | 46 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
 | 47 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |

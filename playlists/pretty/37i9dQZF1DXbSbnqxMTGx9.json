@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3207465,
+  "num_followers": 3207682,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Burnin' (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Song Book: Chapter a Day",
         "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
       },
@@ -1539,38 +1523,6 @@
       "duration_ms": 154333,
       "name": "Tenement Yard",
       "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Good Thing Going",
-        "url": "https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR"
-      },
-      "artists": [
-        {
-          "name": "Sugar Minott",
-          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Good Thing Going",
-      "url": "https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1591,22 +1543,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Super Reggae & Soul Hits",
-        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
-      },
-      "artists": [
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Young, Gifted & Black",
         "url": "https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG"
       },
@@ -1623,18 +1559,86 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+        "name": "Burnin' (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
       },
       "artists": [
         {
-          "name": "Dandy",
-          "url": "https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq"
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 154360,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D"
+      "duration_ms": 281026,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Beat Down Babylon",
+        "url": "https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9"
+      },
+      "artists": [
+        {
+          "name": "Junior Byles",
+          "url": "https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC"
+        }
+      ],
+      "duration_ms": 155490,
+      "name": "Beat Down Babylon",
+      "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Definitive Collection: You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Israelites",
+      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Treasure Isle Story",
+        "url": "https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        },
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "duration_ms": 121093,
+      "name": "Drive Her Home",
+      "url": "https://open.spotify.com/track/5Tx4LTzQIYIJFMdzONWjcJ"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
+      "url": "https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1"
     }
   ],
   "unique_name": "Reggae Classics",

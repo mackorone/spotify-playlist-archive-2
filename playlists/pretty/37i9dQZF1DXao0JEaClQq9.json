@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Not For Radio",
-  "num_followers": 1620336,
+  "num_followers": 1620261,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 169500,
       "name": "Omega (feat. Ralphie Choo)",
       "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 353732,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "Perverts",
         "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
       },
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 220316,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 193876,
-      "name": "MAGIC MAN",
-      "url": "https://open.spotify.com/track/0QIjmMTKNYs0XYYUSkORGb"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+      "duration_ms": 193876,
+      "name": "MAGIC MAN",
+      "url": "https://open.spotify.com/track/0QIjmMTKNYs0XYYUSkORGb"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1227,6 +1211,22 @@
       "duration_ms": 135667,
       "name": "obvious",
       "url": "https://open.spotify.com/track/7zyBL0LZndcnPXsbdhiqWp"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Guilty Conscience (Tame Impala Remix)",
-        "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Guilty Conscience - Tame Impala Remix",
-      "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -1303,6 +1283,22 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "choke enough",
+      "url": "https://open.spotify.com/track/3KVRU1oh4M4VtMRCNWBDVC"
     }
   ],
   "unique_name": "Ethereal",

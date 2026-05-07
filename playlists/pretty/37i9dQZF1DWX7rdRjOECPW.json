@@ -1,6 +1,6 @@
 {
   "description": "Sommer kann kommen \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1573799,
+  "num_followers": 1573746,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Summer Baby",
-        "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
-      },
-      "artists": [
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        },
-        {
-          "name": "The Underdog Project",
-          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
-        }
-      ],
-      "duration_ms": 143276,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Kumbaya",
         "url": "https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 182439,
       "name": "Kumbaya",
       "url": "https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Summer Baby",
+        "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
+        }
+      ],
+      "duration_ms": 143276,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
     },
     {
       "added_at": "2025-08-29 06:03:40",

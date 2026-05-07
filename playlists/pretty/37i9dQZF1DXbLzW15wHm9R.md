@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: The Devil Wears Prada 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,375 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,404 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 4 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
 | 5 | [Ride Like the Wind \(2019 Remaster\)](https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:30 |
 | 6 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
-| 7 | [In Every Lifetime \- From the Prime Original Series, Off Campus](https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [In Every Lifetime \(From the Prime Original Series, Off Campus\)](https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd) | 3:23 |
+| 7 | [In Every Lifetime](https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [In Every Lifetime \(From the Prime Original Series, Off Campus\)](https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd) | 3:23 |
 | 8 | [Inside Out](https://open.spotify.com/track/5kPp1bLqpCNDokPBDsDWhN) | [Jesse Rae](https://open.spotify.com/artist/1DLR1RvYD7P8zvyAo57ZHF) | [Jesse Rae The Best'o](https://open.spotify.com/album/71uqhIDyS0ipO6GrXufE7Z) | 3:58 |
 | 9 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
 | 10 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |

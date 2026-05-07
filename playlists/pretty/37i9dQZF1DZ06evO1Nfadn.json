@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 39550,
+  "num_followers": 39565,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAAH8unhyMK55/nAu0IPkjwQ",
+  "snapshot_id": "afkzAAAAAABdSvXaCg6wHkYTbjA8T7DQ",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 149902,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
     },
     {
       "added_at": null,

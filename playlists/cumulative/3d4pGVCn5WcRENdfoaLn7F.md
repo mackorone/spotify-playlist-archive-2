@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-338 songs - 20 hr 30 min
+340 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 |  |
 | [Back To The Void](https://open.spotify.com/track/7hKA7Lg3KfmdlFvq6wSLMF) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Back To The Void](https://open.spotify.com/album/4xctjWVrJGis1IAcP94Qjq) | 2:17 | 2025-11-11 | 2025-12-06 |
 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-03-27 |  |
+| [Baked Beans](https://open.spotify.com/track/5bf1ZEPjEAO0lQ9B7QNyA6) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2), [Joseph Lawless](https://open.spotify.com/artist/6ymg9JY69Tc8uCPAnj1iVP) | [Baked Beans](https://open.spotify.com/album/302TmhIOH0hL6B0TDoSuNC) | 2:17 | 2026-05-06 |  |
 | [Bar Talk](https://open.spotify.com/track/6cfLuWMV55gwD7TA19ifhM) | [UNCLE](https://open.spotify.com/artist/64kcwpH0XroEG2GQ4h6Zc9) | [Bar Talk](https://open.spotify.com/album/6Z6xRyyIedaVOs7HakvOaL) | 2:49 | 2026-05-06 |  |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-05 |
 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 | 2026-01-21 |
@@ -317,6 +318,7 @@
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 | 2025-12-28 |
 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-02-09 | 2026-03-05 |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2026-02-20 | 2026-03-27 |
+| [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 | 2026-05-06 |  |
 | [Watch The World Burn](https://open.spotify.com/track/5eh4inn2ixohkqccJPWgf2) | [Aiden Levit](https://open.spotify.com/artist/1aDMP3KJMjzvEU6oxq4ktJ) | [Watch The World Burn](https://open.spotify.com/album/17Ot21U5DpVxMZVQqPbcPl) | 3:48 | 2026-04-06 |  |
 | [We're Not Lovers](https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk) | [Ryan Butler](https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a) | [We're Not Lovers](https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz) | 2:47 | 2026-02-09 | 2026-03-05 |
 | [What To Become](https://open.spotify.com/track/368ymVq33003r6t4n9GbRD) | [Highroad No\. 28](https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ) | [The Will To Endure](https://open.spotify.com/album/7pUjpFncOv0tTDrAi34Bb3) | 3:24 | 2026-04-15 |  |

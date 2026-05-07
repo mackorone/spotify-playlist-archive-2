@@ -4,11 +4,11 @@
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-133 songs - 9 hr 19 min
+134 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 | 2023-11-10 |  |
+| [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 | 2023-11-10 | 2026-05-07 |
 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 | 2023-09-18 | 2023-11-11 |
 | [A Pior Música do Ano](https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [A Pior Música do Ano](https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV) | 3:39 | 2023-09-18 |  |
 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 | 2023-09-18 | 2026-01-25 |
@@ -66,6 +66,7 @@
 | [HAT TRICK](https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:18 | 2023-09-18 | 2025-11-28 |
 | [Hoje Não](https://open.spotify.com/track/2g4O6uYBRn8c6HbXc2yEd6) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:40 | 2023-09-18 | 2025-11-28 |
 | [Hoje Não](https://open.spotify.com/track/4miTQZo2ppOcbBc7B0P8fS) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 3:40 | 2025-11-28 |  |
+| [HOMO SACER](https://open.spotify.com/track/1KECJSyDhEtRCjyRerdOuv) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [TAMBORES, CAFEZAIS, FUZIS, GUARANAS E OUTRAS BRASILIDADES](https://open.spotify.com/album/00cEB8F0pxKdTz35WojR7A) | 3:48 | 2026-05-07 |  |
 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 | 2025-03-16 |  |
 | [JUNHO DE 94](https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:29 | 2023-09-18 | 2025-11-28 |
 | [JUNHO DE 94](https://open.spotify.com/track/56AJGc24Vrk3Zzcut70Sng) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 5:29 | 2025-11-28 |  |

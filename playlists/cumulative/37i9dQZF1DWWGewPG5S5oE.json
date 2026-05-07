@@ -4047,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "Lithium",
+        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
+    },
+    {
+      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/3ZFqID6ShRS5h1jp7pzaH1"
       },
@@ -9020,7 +9038,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 173000,
       "name": "\u3057\u3073\u3043\u3063\u30b9\u306d",
       "url": "https://open.spotify.com/track/3uhGVjFzxMwJRtHdHASKtb"

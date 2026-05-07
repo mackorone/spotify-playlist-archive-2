@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,839 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,989 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 83 | [hunter hayes](https://open.spotify.com/track/63LPhDKMBghDkyD5jI4oll) | [Cosette](https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf) | [hunter hayes](https://open.spotify.com/album/79saGpbE2WZcXajosJ8xKP) | 2:32 |
 | 84 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 |
 | 85 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 86 | [In Every Lifetime \- From the Prime Original Series, Off Campus](https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [In Every Lifetime \(From the Prime Original Series, Off Campus\)](https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd) | 3:23 |
+| 86 | [In Every Lifetime](https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [In Every Lifetime \(From the Prime Original Series, Off Campus\)](https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd) | 3:23 |
 | 87 | [Asleep Talking](https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Asleep Talking](https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3) | 2:36 |
 | 88 | [DOES GOD HOLD GRUDGES?](https://open.spotify.com/track/2aQWVAmzgGljv8a7PJteXC) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [DOES GOD HOLD GRUDGES?](https://open.spotify.com/album/1SONYFzZkgDYC0fNqmWoVY) | 2:43 |
 | 89 | [Daddy's Not The One](https://open.spotify.com/track/2uTyeCOuE93OINDp4Obpgs) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [Daddy's Not The One](https://open.spotify.com/album/4hLhPJ8VLX8BZDb7eu04ob) | 3:13 |

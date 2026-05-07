@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 243343,
+  "num_followers": 243354,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 299533,
       "name": "Change (In the House of Flies)",
       "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Nobody Is Not Loved",
-        "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Employment",
         "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+        "name": "Nobody Is Not Loved",
+        "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 222555,
-      "name": "But Not Kiss",
-      "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1259,6 +1243,22 @@
       "duration_ms": 183002,
       "name": "Happy Idiot",
       "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Cuntology 101",
+      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/10F2GXUHZjSzWpOcX0aoNR"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 313562,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2jtlU6H5C9WFB0x72f6YGo"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Who Let The Dogs Out",
-        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Cuntology 101",
-      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Chic Organization 1977-1979 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "Le Freak - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ClOMebBxeNTYCOfTH24YJ"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "shut the fuck up talking to me",
         "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 158466,
       "name": "fafo",
       "url": "https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The Chic Organization 1977-1979 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Le Freak - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ClOMebBxeNTYCOfTH24YJ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Hot Lemonade",
-        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
-      },
-      "artists": [
-        {
-          "name": "A Guy Called Gerald",
-          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Voodoo Ray",
-      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "In For The Kill",
         "url": "https://open.spotify.com/album/6LB0G71s0AubJUgXzCsKJt"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 305386,
       "name": "In For The Kill - Skream's Let's Get Ravey Remix",
       "url": "https://open.spotify.com/track/6RcByPoFlaUVAn2PnTxSVr"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Hot Lemonade",
+        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2723,38 +2723,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "NYP2",
-        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 427500,
-      "name": "NYP2",
-      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Peace Song",
-        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 190784,
-      "name": "Peace Song",
-      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "La Murga (Michael's Midnight Mix)",
         "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
@@ -2783,6 +2751,38 @@
       "duration_ms": 247071,
       "name": "I Want My Minutes Back",
       "url": "https://open.spotify.com/track/0R5DSabbpFQs0wPcOdVGAI"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "NYP2",
+        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 427500,
+      "name": "NYP2",
+      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "There\u2019s Nothing But Space, Man!",
-        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "SPACE MAN",
-      "url": "https://open.spotify.com/track/6HzwR0zqTzoyfADCR1rPX3"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
       },
@@ -2899,6 +2883,22 @@
       "duration_ms": 511031,
       "name": "Winona",
       "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "There\u2019s Nothing But Space, Man!",
+        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "SPACE MAN",
+      "url": "https://open.spotify.com/track/6HzwR0zqTzoyfADCR1rPX3"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "H.O.O.D 2025",
-        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        }
-      ],
-      "duration_ms": 172557,
-      "name": "H.O.O.D - 2025 Mix",
-      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "H.O.O.D 2025",
+        "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "duration_ms": 172557,
+      "name": "H.O.O.D - 2025 Mix",
+      "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3187,6 +3187,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "How To Steal The World",
+        "url": "https://open.spotify.com/album/4kGCKCIGbJvPP6TQT9XPqc"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Greatest Hits: Dance",
         "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
       },
@@ -3215,22 +3231,6 @@
       "duration_ms": 210200,
       "name": "Girl from Mars",
       "url": "https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "How To Steal The World",
-        "url": "https://open.spotify.com/album/4kGCKCIGbJvPP6TQT9XPqc"
-      },
-      "artists": [
-        {
-          "name": "Red Rum Club",
-          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3287,22 +3287,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -3319,18 +3303,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf"
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
       "artists": [
         {
-          "name": "Talisk",
-          "url": "https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 295174,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz"
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3351,6 +3335,22 @@
       "duration_ms": 578636,
       "name": "Forever Dolphin Love - Erol Alkan Rework",
       "url": "https://open.spotify.com/track/0oNJa6alhhG6rZPROQ3ZTZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf"
+      },
+      "artists": [
+        {
+          "name": "Talisk",
+          "url": "https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT"
+        }
+      ],
+      "duration_ms": 295174,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz"
     },
     {
       "added_at": "2025-06-27 23:00:28",

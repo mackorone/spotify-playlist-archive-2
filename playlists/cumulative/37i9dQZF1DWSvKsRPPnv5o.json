@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "ANYWAYS",
+        "url": "https://open.spotify.com/album/1Bn2OolaEDtneJwRe1bBad"
+      },
+      "artists": [
+        {
+          "name": "Ashbashtharapper",
+          "url": "https://open.spotify.com/artist/332RBLKTdiwOb1x0Pu18mv"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95033,
+      "name": "ANYWAYS",
+      "url": "https://open.spotify.com/track/6IO3kgd0S82B6yKyCGomRA"
+    },
+    {
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
       },
@@ -19674,7 +19692,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 505384,
       "name": "MOESHA CYPHER",
       "url": "https://open.spotify.com/track/1t1OeHayu3lRppO2kARAog"
@@ -24352,7 +24370,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 151989,
       "name": "Pop My Shit",
       "url": "https://open.spotify.com/track/0QbymLm4MoSx2SrTYM2b82"
@@ -33684,6 +33702,24 @@
       "duration_ms": 143246,
       "name": "Wigglin",
       "url": "https://open.spotify.com/track/6wsJneWdArI6crtiPYr8ZG"
+    },
+    {
+      "album": {
+        "name": "WINNER CIRCLE",
+        "url": "https://open.spotify.com/album/5XOIMuuXz3sFwK5aI2fgdW"
+      },
+      "artists": [
+        {
+          "name": "Shady Blu",
+          "url": "https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74783,
+      "name": "WINNER CIRCLE",
+      "url": "https://open.spotify.com/track/6a8fEhBzykQDCAkzopfjEH"
     },
     {
       "album": {

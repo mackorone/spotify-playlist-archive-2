@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Accessory",
-  "num_followers": 308961,
+  "num_followers": 308965,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANRpZ6Wj+V6dAlXX8y114jL98s9J",
+  "snapshot_id": "AAAAADni6N2IpDt4KSIgc9xxUJfgy7zm",
   "tracks": [
     {
       "added_at": "2026-04-20 16:41:22",
@@ -89,6 +89,38 @@
       "url": "https://open.spotify.com/track/2vmbWXnyrmCLI1usekZIEX"
     },
     {
+      "added_at": "2026-05-06 18:17:08",
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/7uwQKBi4LvJwNS8dlZHfbm"
+      },
+      "artists": [
+        {
+          "name": "First Day Back",
+          "url": "https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/1PgnRBRr2UFLOpfJIahVkA"
+    },
+    {
+      "added_at": "2026-05-01 04:08:15",
+      "album": {
+        "name": "July, December",
+        "url": "https://open.spotify.com/album/1HxFTOZEy9CQDFYgfpEm32"
+      },
+      "artists": [
+        {
+          "name": "Racecourse",
+          "url": "https://open.spotify.com/artist/3kqBqarOm3KKPkElP9yPAB"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Caledonia",
+      "url": "https://open.spotify.com/track/0mldwBdT46wITG9IeBvFR7"
+    },
+    {
       "added_at": "2026-05-01 04:08:15",
       "album": {
         "name": "love/guilt",
@@ -169,20 +201,20 @@
       "url": "https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo"
     },
     {
-      "added_at": "2026-05-01 04:08:15",
+      "added_at": "2026-05-06 18:17:08",
       "album": {
-        "name": "July, December",
-        "url": "https://open.spotify.com/album/1HxFTOZEy9CQDFYgfpEm32"
+        "name": "Spacey",
+        "url": "https://open.spotify.com/album/364ms6awqRPNolPlw7Pf8p"
       },
       "artists": [
         {
-          "name": "Racecourse",
-          "url": "https://open.spotify.com/artist/3kqBqarOm3KKPkElP9yPAB"
+          "name": "The Rose Hips",
+          "url": "https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Caledonia",
-      "url": "https://open.spotify.com/track/0mldwBdT46wITG9IeBvFR7"
+      "duration_ms": 189642,
+      "name": "Spacey",
+      "url": "https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO"
     },
     {
       "added_at": "2026-04-20 16:41:22",

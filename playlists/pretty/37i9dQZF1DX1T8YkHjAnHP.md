@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,505 likes - 72 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,511 likes - 72 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 60 | [Miriam](https://open.spotify.com/track/0m36mV53k634jIwoe8J4r4) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Miriam's Praise](https://open.spotify.com/album/3k8GojGBkgYNRTjJLFKC8p) | 2:56 |
 | 61 | [What You Need](https://open.spotify.com/track/28Z9yaU1yx2zgSATAC6R5Y) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [No More Faith](https://open.spotify.com/album/7pMefx5SJ9AlRNIgE5WCoK) | 6:17 |
 | 62 | [Do My Thing \- Ryan Elliott Remix](https://open.spotify.com/track/0XXHjrRYFjKWBhSZBXEpVb) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Ryan Elliott](https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk) | [Do My Thing \(Ryan Elliott Remix\)](https://open.spotify.com/album/5dsGW5uqjl1VmldYTXDz3o) | 6:17 |
-| 63 | [Pampero \- Radio Edit](https://open.spotify.com/track/6kT1CvtGJM9NHwS9vYvYJh) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Battle Of Pampero \(Radio Edit\)](https://open.spotify.com/album/7cEaOvaXNsWkeTl5n2RTpj) | 2:51 |
+| 63 | [Pampero \- Edit](https://open.spotify.com/track/6kT1CvtGJM9NHwS9vYvYJh) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Battle Of Pampero \(Edit\)](https://open.spotify.com/album/7cEaOvaXNsWkeTl5n2RTpj) | 2:51 |
 | 64 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
 | 65 | [Remember Me \- Franky Rizardo Remix](https://open.spotify.com/track/6ahUlke5XTcNsBeafd2Fih) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Remember Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/7Iee6IcRwerVNTOb8u9MqW) | 5:01 |
 | 66 | [Whistleman](https://open.spotify.com/track/2qSxBkq8YXiCLBnjgfAXWn) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/2flltU7kFakfNh6soN2NCa) | 7:59 |

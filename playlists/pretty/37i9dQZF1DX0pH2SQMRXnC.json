@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1538400,
+  "num_followers": 1538548,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+      },
+      "artists": [
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/0YjzlHiQcyr1XKDE9UAmoi"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 217161,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/4Klqg0c57uvGY24rlrEDi3"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
-      },
-      "artists": [
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Bleeding Heart",
-        "url": "https://open.spotify.com/album/7ybDvSebBHH2JODcuDYggv"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5Djn6mv9MgKV8prFEHD3Gw"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/7ybDvSebBHH2JODcuDYggv"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5Djn6mv9MgKV8prFEHD3Gw"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 202513,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Million Dreams",
         "url": "https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 187355,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 202513,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/1yaaaClVzduXM6tqbGJDTj"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
         "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 216000,
       "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
       "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "The Tunnel",
-        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        },
-        {
-          "name": "Jordan Jade",
-          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "The Tunnel",
-      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "LEFT - RIGHT",
         "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 97680,
       "name": "LEFT - RIGHT",
       "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "The Tunnel",
+        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "The Tunnel",
+      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2371,26 +2371,18 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Mona Lisa (All That She Wants)",
-        "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
       },
       "artists": [
         {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        },
-        {
-          "name": "Stephen Oaks",
-          "url": "https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 205028,
-      "name": "Mona Lisa (All That She Wants)",
-      "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
+      "duration_ms": 233806,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2411,22 +2403,6 @@
       "duration_ms": 170253,
       "name": "Nothing Ever Feels The Same",
       "url": "https://open.spotify.com/track/0YsHLOlwB1BcnMPmcXBDgF"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 233806,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2503,6 +2479,30 @@
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Mona Lisa (All That She Wants)",
+        "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Stephen Oaks",
+          "url": "https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 205028,
+      "name": "Mona Lisa (All That She Wants)",
+      "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "Journey Through Sound",
-        "url": "https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 222732,
-      "name": "Journey Through Sound",
-      "url": "https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "DOOMSDAY 4EVER",
         "url": "https://open.spotify.com/album/0ANjZsI5VG8bkQ3TazrcsC"
       },
@@ -2847,6 +2831,22 @@
       "duration_ms": 192000,
       "name": "DOOMSDAY 4EVER",
       "url": "https://open.spotify.com/track/2poNhB4WFLrgRwL5tNsDm4"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "Journey Through Sound",
+        "url": "https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 222732,
+      "name": "Journey Through Sound",
+      "url": "https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V"
     },
     {
       "added_at": "2026-04-24 14:01:46",
@@ -2871,26 +2871,6 @@
     {
       "added_at": "2026-04-24 14:01:46",
       "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 217303,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"
-    },
-    {
-      "added_at": "2026-04-24 14:01:46",
-      "album": {
         "name": "Broken Dreams",
         "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
@@ -2907,6 +2887,26 @@
       "duration_ms": 222631,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
+    },
+    {
+      "added_at": "2026-04-24 14:01:46",
+      "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "duration_ms": 217303,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"
     },
     {
       "added_at": "2026-04-24 14:01:46",

@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-910 songs - 1 day 13 hr 41 min
+911 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Pure Sky \(Piano\)](https://open.spotify.com/track/2POwmNePWWgbeyEFAp38pt) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:17 | 2023-10-29 | 2024-05-12 |
 | [Puzzles and pieces with you](https://open.spotify.com/track/3MsPhNHCg7HS54tmePOaDD) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Puzzles and pieces with you](https://open.spotify.com/album/20pZOdgyhj3zqRW1Ucuwny) | 2:39 | 2024-10-23 |  |
 | [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2023-10-29 | 2025-06-03 |
+| [Quiet Footsteps](https://open.spotify.com/track/7I5Gs1GWuHHPNBrNqbkkNF) | [Julian Lowen](https://open.spotify.com/artist/3eoHNWpI4Dc64j7pnrgwHI) | [Quiet Footsteps](https://open.spotify.com/album/0fPfbEPSLb4eIOSZIp2oLA) | 1:42 | 2026-05-06 |  |
 | [quiet glow](https://open.spotify.com/track/1Kdc5lwTIUlYRGm5j76EeR) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [quiet glow](https://open.spotify.com/album/6syPFFM8ixds490jS4oK3Q) | 1:29 | 2026-01-28 |  |
 | [quiet nights](https://open.spotify.com/track/6oEvvtPZU0G2vrR0urefuj) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [quiet nights](https://open.spotify.com/album/29M0mIYmNZk1oKzlZp6WN1) | 2:18 | 2025-01-17 |  |
 | [quiet rooms](https://open.spotify.com/track/53CJl5cRlXbTBOcuHeeI3a) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [quiet rooms](https://open.spotify.com/album/6tb9N9G1xLWAft6scXUYv5) | 1:32 | 2026-04-15 |  |

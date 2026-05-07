@@ -21617,6 +21617,24 @@
     },
     {
       "album": {
+        "name": "Una stanza vuota",
+        "url": "https://open.spotify.com/album/3lRoUBvpQy08j8lzCFa9XS"
+      },
+      "artists": [
+        {
+          "name": "Eyes Be Quiet",
+          "url": "https://open.spotify.com/artist/7KjAF7hhf1REuPoNnJWYX2"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243640,
+      "name": "Per farti dormire",
+      "url": "https://open.spotify.com/track/40mtKYB9hZ6VMZG98oE2e2"
+    },
+    {
+      "album": {
         "name": "Per le vie della citt\u00e0",
         "url": "https://open.spotify.com/album/5gxv0uYf0h5NfVZ5fVHpZ3"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Nu Genea, Lady Gaga, Ultimo, Madonna e Sabrina Carpenter, Nerissima Serpe e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,550 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,549 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

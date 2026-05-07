@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Aare Chanda",
+        "url": "https://open.spotify.com/album/1sojEoEKIMlprBLnxk9IHt"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "Aare Chanda",
+      "url": "https://open.spotify.com/track/5wlbsMxRYkOnT30lMf9bQQ"
+    },
+    {
+      "album": {
         "name": "Parvana",
         "url": "https://open.spotify.com/album/5haaCvmWOSBI362b3NRdZk"
       },
@@ -5952,6 +5974,48 @@
       "duration_ms": 173930,
       "name": "Humnava (From \"Mannu Kya Karegga\")",
       "url": "https://open.spotify.com/track/37iX7c62j1IHETlKaBxPYn"
+    },
+    {
+      "album": {
+        "name": "Humne Wahin Lagaya Dil (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/1rtU89SZooEd1wF5B3gqJg"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Krish Mondal",
+          "url": "https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt"
+        },
+        {
+          "name": "Kishore Mondal",
+          "url": "https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Ipsitaa",
+          "url": "https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159008,
+      "name": "Humne Wahin Lagaya Dil (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/1P6d1Lduqte7ciQHuxHlZ7"
     },
     {
       "album": {
@@ -11602,7 +11666,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 191023,
       "name": "Pariye Payan",
       "url": "https://open.spotify.com/track/68RyGtjDHqAPKgq3njtPSd"
@@ -13510,7 +13574,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 168083,
       "name": "Sajan Re",
       "url": "https://open.spotify.com/track/4IY2T284jwbMvcff8LhNXi"

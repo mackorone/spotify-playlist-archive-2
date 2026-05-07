@@ -1,6 +1,6 @@
 {
   "description": "Take your seats, the show is about to begin.",
-  "num_followers": 7029,
+  "num_followers": 7030,
   "original_name": "Broadway Overtures",
   "owner": {
     "name": "Spotify",
@@ -222,6 +222,14 @@
         {
           "name": "Orchestra",
           "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        {
+          "name": "Show Boat Orchestra",
+          "url": "https://open.spotify.com/artist/2n6kqnnOFv4QAM1oKcc7UY"
+        },
+        {
+          "name": "Edwin McArthur",
+          "url": "https://open.spotify.com/artist/1kQZLVBvTJMwsir8MWnt4h"
         }
       ],
       "duration_ms": 263600,

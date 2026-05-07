@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 435160,
+  "num_followers": 435196,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "Remember those quiet evenings",
-        "url": "https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blois",
-          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Remember those quiet evenings",
-      "url": "https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
         "name": "Regarde les flammes danser",
         "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 131960,
       "name": "Regarde les flammes danser",
       "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
+        "name": "Remember those quiet evenings",
+        "url": "https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Remember those quiet evenings",
+      "url": "https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "Br\u00fblante",
-        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
-      },
-      "artists": [
-        {
-          "name": "Lucien Valli\u00e8re",
-          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
-        }
-      ],
-      "duration_ms": 144434,
-      "name": "Br\u00fblante",
-      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
         "name": "Home Beyond The Stars",
         "url": "https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 141298,
       "name": "Home Beyond The Stars",
       "url": "https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
+        "name": "Br\u00fblante",
+        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
+      },
+      "artists": [
+        {
+          "name": "Lucien Valli\u00e8re",
+          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
+        }
+      ],
+      "duration_ms": 144434,
+      "name": "Br\u00fblante",
+      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
-      },
-      "artists": [
-        {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
         "name": "Amenable",
         "url": "https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 174471,
       "name": "Amenable",
       "url": "https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "It Rained Last Night",
-        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "It Rained Last Night",
-      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
         "name": "Little Boy",
         "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 122000,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
+        "name": "It Rained Last Night",
+        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "It Rained Last Night",
+      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
+        "name": "In Case",
+        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "duration_ms": 166817,
+      "name": "In Case",
+      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
         "name": "The Shortest Distance",
         "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "In Case",
-        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
-      },
-      "artists": [
-        {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
-        }
-      ],
-      "duration_ms": 166817,
-      "name": "In Case",
-      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
         "name": "The Only One",
         "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 176137,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
-        "name": "Noapte",
-        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
-      },
-      "artists": [
-        {
-          "name": "Alexandru Andrei Popescu",
-          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
-        }
-      ],
-      "duration_ms": 199522,
-      "name": "Noapte",
-      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
+        "name": "Into the Unknown",
+        "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 159739,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
       },
@@ -1467,18 +1467,34 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "Into the Unknown",
-        "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
       },
       "artists": [
         {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+          "name": "Jon Cossack",
+          "url": "https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6"
         }
       ],
-      "duration_ms": 159739,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
+      "duration_ms": 139952,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
+        "name": "Noapte",
+        "url": "https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4"
+      },
+      "artists": [
+        {
+          "name": "Alexandru Andrei Popescu",
+          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+        }
+      ],
+      "duration_ms": 199522,
+      "name": "Noapte",
+      "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1511,22 +1527,6 @@
       "duration_ms": 174905,
       "name": "Stigen",
       "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
-      },
-      "artists": [
-        {
-          "name": "Jon Cossack",
-          "url": "https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "Velvet Veil",
-        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 123479,
-      "name": "Velvet Veil",
-      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
         "name": "Quietude",
         "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 156405,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
+        "name": "Velvet Veil",
+        "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 123479,
+      "name": "Velvet Veil",
+      "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
+        "name": "D\u00e9lise",
+        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
+      },
+      "artists": [
+        {
+          "name": "Raffaello Sorrento",
+          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
+        }
+      ],
+      "duration_ms": 125968,
+      "name": "D\u00e9lise",
+      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 164588,
       "name": "Motian",
       "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
-        "name": "D\u00e9lise",
-        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
-      },
-      "artists": [
-        {
-          "name": "Raffaello Sorrento",
-          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
-        }
-      ],
-      "duration_ms": 125968,
-      "name": "D\u00e9lise",
-      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
-        "name": "Ruby Clouds",
-        "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
+        "name": "Marche Lente",
+        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
       },
       "artists": [
         {
-          "name": "Ey\u00f8ni",
-          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
         }
       ],
-      "duration_ms": 140808,
-      "name": "Ruby Clouds",
-      "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
+      "duration_ms": 131436,
+      "name": "Marche Lente",
+      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
     },
     {
       "added_at": "2026-04-24 04:03:48",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2026-04-24 04:03:48",
       "album": {
+        "name": "Ruby Clouds",
+        "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "Ruby Clouds",
+      "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
+    },
+    {
+      "added_at": "2026-04-24 04:03:48",
+      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 146073,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
-    },
-    {
-      "added_at": "2026-04-24 04:03:48",
-      "album": {
-        "name": "Marche Lente",
-        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 131436,
-      "name": "Marche Lente",
-      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
     },
     {
       "added_at": "2026-04-24 04:03:48",

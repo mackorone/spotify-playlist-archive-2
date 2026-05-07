@@ -1,13 +1,45 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Julia Campbell. Artwork by Paola Saliby",
-  "num_followers": 239506,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Akeira Jade. Artwork by Paola Saliby",
+  "num_followers": 239518,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABiX5pchENqy1UBcVDArF2K0KdTL",
+  "snapshot_id": "AAAAAHDmF6BXtiNkvgWW41CRraxHmS3P",
   "tracks": [
+    {
+      "added_at": "2026-05-06 15:27:46",
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz"
+      },
+      "artists": [
+        {
+          "name": "Akeira Jade",
+          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
+        }
+      ],
+      "duration_ms": 208460,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
+    },
+    {
+      "added_at": "2026-05-06 15:27:46",
+      "album": {
+        "name": "Half As Cool",
+        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
+      },
+      "artists": [
+        {
+          "name": "SUUS",
+          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
+        }
+      ],
+      "duration_ms": 163147,
+      "name": "Half As Cool",
+      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
+    },
     {
       "added_at": "2026-04-29 04:00:30",
       "album": {
@@ -23,6 +55,70 @@
       "duration_ms": 206470,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
+    },
+    {
+      "added_at": "2026-05-06 15:27:46",
+      "album": {
+        "name": "Good Pretender",
+        "url": "https://open.spotify.com/album/6qnzobG0laXkjqQagipjZ1"
+      },
+      "artists": [
+        {
+          "name": "Amalia Davinder",
+          "url": "https://open.spotify.com/artist/1UZdRl7AwDP3R7HLZhjam8"
+        }
+      ],
+      "duration_ms": 153878,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/01Ldw0vMTV9hLce0kw9qxI"
+    },
+    {
+      "added_at": "2026-05-06 15:27:46",
+      "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
+    },
+    {
+      "added_at": "2026-05-06 15:27:46",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/6aYLLOe1FGm9EYFhCSMunz"
+      },
+      "artists": [
+        {
+          "name": "PENNY",
+          "url": "https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq"
+        }
+      ],
+      "duration_ms": 180362,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
     },
     {
       "added_at": "2026-04-29 04:00:30",
@@ -41,6 +137,22 @@
       "url": "https://open.spotify.com/track/4GET941SSmrEcmArGbvxhI"
     },
     {
+      "added_at": "2026-05-06 15:27:46",
+      "album": {
+        "name": "shotgun",
+        "url": "https://open.spotify.com/album/4jZda0jAoglNpWlmLSgXvN"
+      },
+      "artists": [
+        {
+          "name": "MISSI",
+          "url": "https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "shotgun",
+      "url": "https://open.spotify.com/track/4xR7d9UnjwGR4v3EVvQPuZ"
+    },
+    {
       "added_at": "2026-04-29 04:00:30",
       "album": {
         "name": "Songs I Wrote Since She Left",
@@ -57,20 +169,20 @@
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
     },
     {
-      "added_at": "2026-04-29 04:00:30",
+      "added_at": "2026-05-06 15:27:46",
       "album": {
-        "name": "IS IT FUN OR IS IT OVER?",
-        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+        "name": "TIMESNEWROMAN",
+        "url": "https://open.spotify.com/album/4lKEiscDZnEjDAZUBNdNHk"
       },
       "artists": [
         {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+          "name": "Babe America",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
         }
       ],
-      "duration_ms": 154131,
-      "name": "Kiss Me Better",
-      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
+      "duration_ms": 158101,
+      "name": "TIMESNEWROMAN",
+      "url": "https://open.spotify.com/track/0bnSXl0lY92annYcbgo1T2"
     },
     {
       "added_at": "2026-04-29 04:00:30",
@@ -1095,118 +1207,6 @@
       "duration_ms": 261442,
       "name": "Physics",
       "url": "https://open.spotify.com/track/3ioLj3bm5B1N84ESeg31Q1"
-    },
-    {
-      "added_at": "2026-02-11 13:40:41",
-      "album": {
-        "name": "break your own heart",
-        "url": "https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED"
-      },
-      "artists": [
-        {
-          "name": "Harvey Brittain",
-          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
-        }
-      ],
-      "duration_ms": 194583,
-      "name": "break your own heart",
-      "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
-    },
-    {
-      "added_at": "2026-01-28 15:08:44",
-      "album": {
-        "name": "I Still Miss You",
-        "url": "https://open.spotify.com/album/2sfzVUbUanspYI3WKrnWAn"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nimmo",
-          "url": "https://open.spotify.com/artist/2U6enUXvLRB7L29djdKqJO"
-        }
-      ],
-      "duration_ms": 264025,
-      "name": "I Still Miss You",
-      "url": "https://open.spotify.com/track/6KXobSGgzFxjHrljTre5oe"
-    },
-    {
-      "added_at": "2026-01-28 15:08:44",
-      "album": {
-        "name": "What Kind of Man",
-        "url": "https://open.spotify.com/album/76GNBPdGwlWEZqpZwMO26W"
-      },
-      "artists": [
-        {
-          "name": "Ingrid",
-          "url": "https://open.spotify.com/artist/2hgF3e8mroWl4JbVP7zdjO"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "What Kind of Man",
-      "url": "https://open.spotify.com/track/0MID0fQyT7ExP2U0jXv3cO"
-    },
-    {
-      "added_at": "2026-01-28 15:08:44",
-      "album": {
-        "name": "Your Dog",
-        "url": "https://open.spotify.com/album/22vFekxUdyc0p7YZP9dPsh"
-      },
-      "artists": [
-        {
-          "name": "Joely June",
-          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
-        }
-      ],
-      "duration_ms": 223641,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/0cchMP4Dr7S64OLkvJXf7T"
-    },
-    {
-      "added_at": "2026-01-23 05:30:46",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4EybcryYJC2MmZ65yPGS2J"
-      },
-      "artists": [
-        {
-          "name": "Tallulah Argue",
-          "url": "https://open.spotify.com/artist/34L2mrqYyWifYUwyPMhCUd"
-        }
-      ],
-      "duration_ms": 209248,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-01-14 18:31:55",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/7yu5BR8fzZ7i0zsGxNxFhq"
-      },
-      "artists": [
-        {
-          "name": "sk\u00f8ien",
-          "url": "https://open.spotify.com/artist/0nLcBTkyWqwEsUJB2Xnw6y"
-        }
-      ],
-      "duration_ms": 149558,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/6yHRGd0A1mF3tys6GNTlnD"
     }
   ],
   "unique_name": "Fresh Finds Pop",

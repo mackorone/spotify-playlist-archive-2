@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 302494,
+  "num_followers": 302523,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADk29NTL+mFoIMbckMVoTg4",
+  "snapshot_id": "afkzAAAAAACv+s8Qqy+sfTthfokj/Etc",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Into the Fire - 1995 Remaster",
-      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+      "duration_ms": 245400,
+      "name": "The Gypsy - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 245400,
-      "name": "The Gypsy - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
+      "duration_ms": 209200,
+      "name": "Into the Fire - 1995 Remaster",
+      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple",
-        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 305773,
-      "name": "Lalena - 2000 Remaster",
-      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Book of Taliesyn",
         "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 391866,
       "name": "Anthem - 2000 Remaster",
       "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple",
+        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 305773,
+      "name": "Lalena - 2000 Remaster",
+      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
     },
     {
       "added_at": null,

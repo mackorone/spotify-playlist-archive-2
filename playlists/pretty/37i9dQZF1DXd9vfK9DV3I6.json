@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 380182,
+  "num_followers": 380230,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -903,26 +903,22 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
       "artists": [
         {
-          "name": "Monoir",
-          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
         },
         {
-          "name": "Loredvn",
-          "url": "https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY"
-        },
-        {
-          "name": "Geanina",
-          "url": "https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW"
+          "name": "Cem Y\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
         }
       ],
-      "duration_ms": 152555,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
+      "duration_ms": 184761,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -951,22 +947,26 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
       "artists": [
         {
-          "name": "Acid Arab",
-          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+          "name": "Monoir",
+          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
         },
         {
-          "name": "Cem Y\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
+          "name": "Loredvn",
+          "url": "https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY"
+        },
+        {
+          "name": "Geanina",
+          "url": "https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
+      "duration_ms": 152555,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "CASABLANCA",
-        "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "CASABLANCA",
-      "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
         "name": "Hajaruni (Suray Remix)",
         "url": "https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 331530,
       "name": "Hajaruni (Suray Remix)",
       "url": "https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 133142,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "Hold On To Me",
-        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
-      },
-      "artists": [
-        {
-          "name": "Gokhan Akkas",
-          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Hold On To Me",
-      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
         "name": "Seville",
         "url": "https://open.spotify.com/album/19Yo8qLHZMQWgOxdh57lwn"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 378000,
       "name": "Qalbi",
       "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
+      },
+      "artists": [
+        {
+          "name": "Gokhan Akkas",
+          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
     },
     {
       "added_at": "2026-02-27 16:18:00",

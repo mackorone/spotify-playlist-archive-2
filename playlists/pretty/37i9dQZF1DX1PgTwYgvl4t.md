@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Judikay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,710 likes - 100 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,796 likes - 100 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 4 | [EZE M \- Live](https://open.spotify.com/track/3pnKfTzbzBjza3yZFyLs3u) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [EZE M \(Live\)](https://open.spotify.com/album/21fU9Xc6X4nRd9zh3Lhr21) | 6:06 |
 | 5 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 6 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
-| 7 | [Chinecherem](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
+| 7 | [Chinecherem \(Live\)](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem \(Live\)](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
 | 8 | [You Covered Me](https://open.spotify.com/track/3TrFmztL0fT2RTaFIafew5) | [Mac Roc](https://open.spotify.com/artist/2PjoWoM7ATPPJ7xoUy5tyb), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Mac Roc Sessions \(Home Editions\)](https://open.spotify.com/album/6iqnXJiTu1w0DYBRbEQJKO) | 2:51 |
 | 9 | [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 |
 | 10 | [My God](https://open.spotify.com/track/0RVWYiqpXx4yl4piv0MPLM) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [My God](https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c) | 5:19 |

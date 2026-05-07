@@ -12603,6 +12603,24 @@
     },
     {
       "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3ggKdQGatbrPLhmOPxfX4W"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217524,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
+    },
+    {
+      "album": {
         "name": "CELERY",
         "url": "https://open.spotify.com/album/0m4i0JyF3W3Hz5H3huVHJH"
       },
@@ -15082,7 +15100,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 92109,
       "name": "COOOK PARDON",
       "url": "https://open.spotify.com/track/0P45YtqtAT6AkNDDX1lySE"
@@ -17628,7 +17646,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 159559,
       "name": "Dial",
       "url": "https://open.spotify.com/track/1cPNECEaVkXbEoxBJgtk2c"
@@ -20896,7 +20914,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -33718,6 +33736,24 @@
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
+    },
+    {
+      "album": {
+        "name": "I Still Always Love You",
+        "url": "https://open.spotify.com/album/7eqYXqkiGaecmleGVgXY3P"
+      },
+      "artists": [
+        {
+          "name": "Haley Madison",
+          "url": "https://open.spotify.com/artist/4g2Ykh5vlVZ1sNQgBIQF0U"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "I Still Always Love You",
+      "url": "https://open.spotify.com/track/4ikczZo1Ne8TOc4xGHxsll"
     },
     {
       "album": {
@@ -54198,7 +54234,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 200275,
       "name": "O JAK MI\u0141O",
       "url": "https://open.spotify.com/track/2Xt4PeBHH20FB2L6rOlyKd"
@@ -58064,7 +58100,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -78362,7 +78398,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
@@ -78398,7 +78434,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 195631,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
@@ -85638,7 +85674,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 178329,
       "name": "Zrkadla",
       "url": "https://open.spotify.com/track/1EeDMj1nmEedi2t70FPHhI"

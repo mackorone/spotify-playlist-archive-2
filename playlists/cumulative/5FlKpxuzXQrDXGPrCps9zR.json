@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "Crush (Girls Trip)",
+        "url": "https://open.spotify.com/album/4SFv3EvdXLT9lurh4tupyJ"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Crush - Girls Trip",
+      "url": "https://open.spotify.com/track/3s0VYrnOnSNURobwyQvVw3"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
       },

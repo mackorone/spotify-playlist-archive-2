@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,380 songs - 5 day 7 hr 41 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,381 songs - 5 day 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2388,5 +2388,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2378 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 |
 | 2379 | [Mira](https://open.spotify.com/track/4StszRDsbHSV4JogQ1MPFn) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [ANIMÁL](https://open.spotify.com/album/49V0qh51JtzuNQmI5Nl4FX) | 1:41 |
 | 2380 | [No Me Importa](https://open.spotify.com/track/0DYiFPr3MjEO8jbK23fbDS) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [No Me Importa](https://open.spotify.com/album/2zfzwlF5CDIYeAIBc4xpEm) | 2:13 |
+| 2381 | [P5HD\-165TEKmix2](https://open.spotify.com/track/04l5ESY5WYg7cbTkKZu39B) | [Binary Digit](https://open.spotify.com/artist/3de6mAIrsacJj1uU0zfTSs) | [Xrns Trax](https://open.spotify.com/album/7JiISakRuKHZndttfPU5ii) | 5:37 |
 
-Snapshot ID: `AAAFUjyidMxWhEBDmgYxQPGy8d+8/qi1`
+Snapshot ID: `AAAFU8xS8O8SVAFtJpOsjmGMaeRMSOjQ`

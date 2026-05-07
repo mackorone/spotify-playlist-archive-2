@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BH8DSWxh5I.md) - [plain]
 
 > Cozy up inside and do absolutely nothing\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,563 likes - 30 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,573 likes - 30 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 124277,
+  "num_followers": 124292,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAACt82Lgmc5j2L/OSROVXcgI",
+  "snapshot_id": "afkzAAAAAADFyBO0WZGW1UuIWzLJFriR",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Mala Copa",
+      "url": "https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 198520,
       "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
       "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Mala Copa",
-      "url": "https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm"
     },
     {
       "added_at": null,

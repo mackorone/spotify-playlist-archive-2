@@ -1,6 +1,6 @@
 {
   "description": "Inspired by the islands and into the mainstream. Cover: Tyla, Zara Larsson",
-  "num_followers": 646176,
+  "num_followers": 646180,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2026-04-23 15:37:46",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+        "name": "438",
+        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
       },
       "artists": [
         {
           "name": "Masicka",
           "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+      "duration_ms": 183092,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
     },
     {
       "added_at": "2026-04-23 15:37:46",
@@ -659,22 +663,18 @@
     {
       "added_at": "2026-04-23 15:37:46",
       "album": {
-        "name": "438",
-        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
       },
       "artists": [
         {
           "name": "Masicka",
           "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 183092,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2026-04-23 15:37:46",

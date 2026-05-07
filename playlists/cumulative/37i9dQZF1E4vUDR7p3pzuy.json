@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Queenadreena, Evil Level Live, SCHANZ and more",
+  "description": "With Evil Level Live, Queenadreena, 7 Seconds Later and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -754,7 +754,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5hoIcBep3hJYXPJDKcrQSL"
@@ -1004,6 +1004,24 @@
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
+    },
+    {
+      "album": {
+        "name": "Betrayal",
+        "url": "https://open.spotify.com/album/0r4TVCoTuUjX2ZhQrdrgof"
+      },
+      "artists": [
+        {
+          "name": "Venin Carmin",
+          "url": "https://open.spotify.com/artist/6x7qL4Agz9KFNzN7RcsxqP"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/27FJd6D0pP2X2Iu2Fx6kjk"
     },
     {
       "album": {
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 156980,
       "name": "Calling the Rain",
       "url": "https://open.spotify.com/track/2zixwyPGq4YuqVUuPbWEa8"
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -5026,7 +5044,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 199037,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/3jb4kOqfzz1lE0ImqsPcmi"
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -6422,7 +6440,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 194500,
       "name": "Looks like work",
       "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
@@ -6620,7 +6638,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 239434,
       "name": "Marine Garden",
       "url": "https://open.spotify.com/track/58bx5ECssJHy4FrMIem6O4"
@@ -6735,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/6QzgAqxBTJbCI9mJ8p898D"
+      },
+      "artists": [
+        {
+          "name": "Hurtsfall",
+          "url": "https://open.spotify.com/artist/6Ch2oY1Pde5JPXULkJsfKu"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205995,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/6badLKUEBXzianEPXWXxSs"
+    },
+    {
+      "album": {
         "name": "Men Putting Words in the Mouths of Gods (Judas and the Pilot Remix)",
         "url": "https://open.spotify.com/album/2DLxnzMFqSUZCG8TCevIOr"
       },
@@ -6822,7 +6858,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 224000,
       "name": "Mess",
       "url": "https://open.spotify.com/track/43ShbaOkJ6OrATJcqHe0Dp"
@@ -7746,7 +7782,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 305393,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2rEjcfaK9qYB2JLgbTB31Y"
@@ -8147,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "The Old Arcade",
+        "url": "https://open.spotify.com/album/7qZtWubZBON3gomvtgsNeV"
+      },
+      "artists": [
+        {
+          "name": "Auger",
+          "url": "https://open.spotify.com/artist/48QP1FCIq76VufzDPShGi5"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224396,
+      "name": "Pretty When You Cry",
+      "url": "https://open.spotify.com/track/5E8ycUXvH9SRjUFvln1Xly"
+    },
+    {
+      "album": {
         "name": "Pin Ups",
         "url": "https://open.spotify.com/album/4itr4L9MsKJLGO7a8LI6d4"
       },
@@ -8382,7 +8436,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 305377,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/13DL1Ol2XMrgOFU4EU0z9s"
@@ -8422,7 +8476,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 256777,
       "name": "Red and Gold",
       "url": "https://open.spotify.com/track/0FDQYEOZpOerg4dFVgjvP9"
@@ -8552,7 +8606,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -8830,7 +8884,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -9766,7 +9820,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -10206,7 +10260,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 274011,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5Td8iwHrWmEkVKCuHiKLqV"
@@ -10290,7 +10344,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 162692,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7MKiPnh557rhQK9FTJAGBr"
@@ -10308,7 +10362,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 219017,
       "name": "Take My All",
       "url": "https://open.spotify.com/track/1WvhiSKCEuLe0yoi5rGEUZ"
@@ -10944,7 +10998,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
@@ -11784,7 +11838,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 220081,
       "name": "Two People Running in the Rain",
       "url": "https://open.spotify.com/track/1UmiXfiSbQW6w8q0fbl3ps"
@@ -12728,7 +12782,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 220000,
       "name": "Windchill",
       "url": "https://open.spotify.com/track/6AIbO826s3IY5biapY1RvY"

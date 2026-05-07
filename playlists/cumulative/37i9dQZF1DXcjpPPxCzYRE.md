@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-522 songs - 1 day 5 hr 36 min
+523 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2024-04-11 | 2025-09-19 |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-11-11 | 2024-04-19 |
 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 | 2022-11-11 |  |
-| [BK4DA2624804](https://open.spotify.com/track/5A2XuhLbc1ND9ZGKWu3ECz) | [RUVENRUVEN](https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [BK4DA2624804](https://open.spotify.com/album/2cJB0LqOGLsb4A2WfduBsX) | 3:39 | 2026-04-30 |  |
+| [BK4DA2624804](https://open.spotify.com/track/5A2XuhLbc1ND9ZGKWu3ECz) | [RUVENRUVEN](https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [BK4DA2624804](https://open.spotify.com/album/2cJB0LqOGLsb4A2WfduBsX) | 3:39 | 2026-04-30 | 2026-05-07 |
 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 | 2022-11-11 | 2024-03-23 |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-13 |  |
 | [BLU](https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [BLU](https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5) | 2:28 | 2024-05-02 | 2024-06-07 |
@@ -149,6 +149,7 @@
 | [El Vacío](https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn) | [Adam Guerrero](https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn) | [El Vacío](https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux) | 2:34 | 2026-02-19 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-10-01 | 2024-12-24 |
 | [em plou a dins](https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [em plou a dins](https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0) | 2:56 | 2025-09-18 | 2026-05-01 |
+| [En el Puerto](https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ) | [Adam Guerrero](https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn) | [En el Puerto](https://open.spotify.com/album/0mbFMcXCLyJNieSTaT2sM4) | 2:36 | 2026-04-30 |  |
 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 | 2022-11-11 | 2024-04-19 |
 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-11-11 | 2024-04-19 |
 | [Entre quererte y no sé](https://open.spotify.com/track/15t5U7fSsetlfBP3tUaNBc) | [1DJ SYNC](https://open.spotify.com/artist/0gWhiwKNoy8CuOkqDkpdt7) | [Entre quererte y no sé](https://open.spotify.com/album/4bQMzJOFuy5CYeYov5jaji) | 3:49 | 2026-01-16 | 2026-03-07 |

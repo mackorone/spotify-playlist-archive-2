@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,948 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,942 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No te preocupes por mí](https://open.spotify.com/track/1E3DXXzD4jFpd03DS25av8) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [No te preocupes por mí](https://open.spotify.com/album/2qMQjgzT40VJEjhcLZ1VV9) | 4:02 |
-| 2 | [7 VIDAS](https://open.spotify.com/track/05SMZYHVJ00uC5z2rR1x4y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:24 |
-| 3 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
-| 4 | [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 |
-| 5 | [Punto final](https://open.spotify.com/track/2MuIMeW9TGpplCIFiYuuEC) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Clásicos y primicias en concierto](https://open.spotify.com/album/2NscDiL6QA7BvFYBE02B51) | 3:41 |
-| 6 | [No será tan fácil](https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No será tan fácil](https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd) | 2:55 |
-| 7 | [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \- en vivo](https://open.spotify.com/track/7AE9JOamNaZySdhVR17STR) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Camino a un Sueño 2025 \(En Vivo\)](https://open.spotify.com/album/2aauaeBkAWYx4ghDcjND3k) | 6:36 |
+| 1 | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi) | 6:55 |
+| 2 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
+| 3 | [No te preocupes por mí](https://open.spotify.com/track/1E3DXXzD4jFpd03DS25av8) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [No te preocupes por mí](https://open.spotify.com/album/2qMQjgzT40VJEjhcLZ1VV9) | 4:02 |
+| 4 | [7 VIDAS](https://open.spotify.com/track/05SMZYHVJ00uC5z2rR1x4y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:24 |
+| 5 | [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 |
+| 6 | [Punto final](https://open.spotify.com/track/2MuIMeW9TGpplCIFiYuuEC) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Clásicos y primicias en concierto](https://open.spotify.com/album/2NscDiL6QA7BvFYBE02B51) | 3:41 |
+| 7 | [No será tan fácil](https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No será tan fácil](https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd) | 2:55 |
 | 8 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 9 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 10 | [Mucho Pa Ti](https://open.spotify.com/track/1MbDm22W7TbwPNythT3LI9) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Mucho Pa Ti](https://open.spotify.com/album/06gniuNPI4KOdff4tBOcgF) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 49 | [Escándalo](https://open.spotify.com/track/5LYoS1KD4ce78Y1PvP7tIL) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Algo Que Darte](https://open.spotify.com/album/5ZWgfUlndLtxaQTnyWqZMZ) | 2:31 |
 | 50 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 |
 
-Snapshot ID: `AAAAAJLaQ3K0stz0pHjIomrv+rvLXn7l`
+Snapshot ID: `AAAAAAtCDSaUZ1N5Du+ePZQIwTXyCeMc`

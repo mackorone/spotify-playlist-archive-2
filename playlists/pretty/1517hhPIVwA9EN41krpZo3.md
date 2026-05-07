@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 
 > Check out the top streamed indie tracks of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,314 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,313 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 | 11 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
 | 12 | [Stars](https://open.spotify.com/track/3cV7urlavfJPXy4GXs7iTJ) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Stars](https://open.spotify.com/album/3WEJC9bZbWxCE4em6tpCtX) | 3:53 |
 | 13 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
-| 14 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/4OIC40XKlNmY1AKu1l5EPZ) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 |
+| 14 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 |
 | 15 | [Open Arms](https://open.spotify.com/track/5jQQDwJosT89Wy5vOLCafm) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc), [Demo Taped](https://open.spotify.com/artist/5JMtXD9vPBIygW4cTcQ8x9) | [Open Arms](https://open.spotify.com/album/2cpR8rul7YOEmrkGSxzMp1) | 3:48 |
 | 16 | [Our Own House](https://open.spotify.com/track/5ufmXqULgMsDIDSkSaXw1E) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/09bl34G5cWe3hlKND6PNt2) | 3:52 |
 | 17 | [Hold Me Down](https://open.spotify.com/track/68J311jvo7JD5vldwzvMg3) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Far Shore](https://open.spotify.com/album/1Ax4vtguR5jbyuBdohcJVZ) | 4:29 |

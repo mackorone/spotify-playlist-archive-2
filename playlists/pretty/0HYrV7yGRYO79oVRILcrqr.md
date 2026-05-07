@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,807 likes - 115 songs - 7 hr 29 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,809 likes - 118 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 113 | [Gods of Karma](https://open.spotify.com/track/6xYVg6FqtKUuRO7BFUfmUQ) | [Nathan J Lark](https://open.spotify.com/artist/5gTZaw7bOLKdFyGQsjHMcG) | [Gods of Karma](https://open.spotify.com/album/5UF7fKwX15lsBuzRF1h4hb) | 5:29 |
 | 114 | [Lo Que Pudo Ser](https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Lo Que Pudo Ser](https://open.spotify.com/album/7JlXBgjl3Jrz2T6D8oevHP) | 3:50 |
 | 115 | [Lullaby](https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV) | [Svetlana Bakushina](https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL), [Carlos Rufo Martins](https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ) | [Lullaby](https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb) | 3:37 |
+| 116 | [Effatà](https://open.spotify.com/track/2RXiEuxgDn4OdQjWKBvFO5) | [Eluana Lateana](https://open.spotify.com/artist/55wsfjOEy5MhUC0Tm7I3wV), [Marcello Favoino](https://open.spotify.com/artist/6gUroXfm6h2jAaeh7xqwwU) | [Effatà](https://open.spotify.com/album/3n69EjkZZVaC1pkrjrkcMW) | 4:39 |
+| 117 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 |
+| 118 | [Silver stream](https://open.spotify.com/track/02G5hYmq30lppq3ApFFVyQ) | [Latencia 0](https://open.spotify.com/artist/6HS2Rmxcd00zEKWt6AIn43) | [Silver stream](https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ) | 3:01 |
 
-Snapshot ID: `AAALR1jYgpfsQ9LhgS9xP9oqjCFEtxvi`
+Snapshot ID: `AAALSisbd/sptlc9NUwZ/qDKD2j+QmSe`

@@ -26631,6 +26631,24 @@
     },
     {
       "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/0iz4kDt7fNxsyt0KRwpOb7"
+      },
+      "artists": [
+        {
+          "name": "Lara Taylor",
+          "url": "https://open.spotify.com/artist/138Upp7TCwBT2txbgqJfZl"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174062,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/1crQtCXGOPk8Tnlf03ZqBx"
+    },
+    {
+      "album": {
         "name": "metanoia",
         "url": "https://open.spotify.com/album/1WIZwtNdQlaxgFfcWWpnO1"
       },
@@ -31620,6 +31638,24 @@
       "duration_ms": 131410,
       "name": "NOTI",
       "url": "https://open.spotify.com/track/0wuKPgsPdMuyV1j2LqfAeS"
+    },
+    {
+      "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Novia Robot",
+      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
     },
     {
       "album": {

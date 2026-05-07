@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de mayo 2026. Cover: Alvaro Diaz & LATIN MAFIA",
-  "num_followers": 1557470,
+  "num_followers": 1557432,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,18 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
-        "name": "PONGO",
-        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 189197,
-      "name": "PONGO",
-      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
+      "duration_ms": 199480,
+      "name": "EL BAIFO",
+      "url": "https://open.spotify.com/track/3e9zgP2N318DmC6qP7kdNj"
     },
     {
       "added_at": "2026-05-04 20:59:10",
@@ -127,18 +119,26 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
-        "name": "EL BAIFO",
-        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+        "name": "PONGO",
+        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 199480,
-      "name": "EL BAIFO",
-      "url": "https://open.spotify.com/track/3e9zgP2N318DmC6qP7kdNj"
+      "duration_ms": 189197,
+      "name": "PONGO",
+      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
       "added_at": "2026-05-04 20:59:10",
@@ -191,26 +191,6 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 153566,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
-    },
-    {
-      "added_at": "2026-05-04 20:59:10",
-      "album": {
         "name": "Te Entiendo (Remix)",
         "url": "https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 335104,
       "name": "Te Entiendo - Remix",
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
+    },
+    {
+      "added_at": "2026-05-04 20:59:10",
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153566,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
     },
     {
       "added_at": "2026-05-04 20:59:10",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 194839,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts"
+    },
+    {
+      "added_at": "2026-05-04 20:59:10",
+      "album": {
         "name": "SI LAS PAREDES HABLARAN",
         "url": "https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7"
       },
@@ -343,22 +363,42 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk"
+        "name": "AFTERAFTER",
+        "url": "https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 194839,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts"
+      "duration_ms": 162415,
+      "name": "EA EA EA",
+      "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
+    },
+    {
+      "added_at": "2026-05-04 20:59:10",
+      "album": {
+        "name": "QHP PI\u00d1ATA",
+        "url": "https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "QHP PI\u00d1ATA",
+      "url": "https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG"
     },
     {
       "added_at": "2026-05-04 20:59:10",
@@ -403,46 +443,6 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
-        "name": "QHP PI\u00d1ATA",
-        "url": "https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "QHP PI\u00d1ATA",
-      "url": "https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG"
-    },
-    {
-      "added_at": "2026-05-04 20:59:10",
-      "album": {
-        "name": "AFTERAFTER",
-        "url": "https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 162415,
-      "name": "EA EA EA",
-      "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
-    },
-    {
-      "added_at": "2026-05-04 20:59:10",
-      "album": {
         "name": "DFWE",
         "url": "https://open.spotify.com/album/1m8EV0hEQGQvgtmVylnsdT"
       },
@@ -459,6 +459,38 @@
       "duration_ms": 183187,
       "name": "DFWE",
       "url": "https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs"
+    },
+    {
+      "added_at": "2026-05-04 20:59:10",
+      "album": {
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
+    },
+    {
+      "added_at": "2026-05-04 20:59:10",
+      "album": {
+        "name": "Ruca",
+        "url": "https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 181451,
+      "name": "Ruca",
+      "url": "https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd"
     },
     {
       "added_at": "2026-05-04 20:59:10",
@@ -499,38 +531,6 @@
       "duration_ms": 151967,
       "name": "CANAIMA",
       "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
-    },
-    {
-      "added_at": "2026-05-04 20:59:10",
-      "album": {
-        "name": "Ruca",
-        "url": "https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 181451,
-      "name": "Ruca",
-      "url": "https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd"
-    },
-    {
-      "added_at": "2026-05-04 20:59:10",
-      "album": {
-        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 140461,
-      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-04 20:59:10",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-05-04 20:59:10",
       "album": {
+        "name": "ENCONTREMOS UNA MANERA",
+        "url": "https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 134446,
+      "name": "ENCONTREMOS UNA MANERA",
+      "url": "https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb"
+    },
+    {
+      "added_at": "2026-05-04 20:59:10",
+      "album": {
         "name": "el silencio",
         "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
-    },
-    {
-      "added_at": "2026-05-04 20:59:10",
-      "album": {
-        "name": "ENCONTREMOS UNA MANERA",
-        "url": "https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 134446,
-      "name": "ENCONTREMOS UNA MANERA",
-      "url": "https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb"
     },
     {
       "added_at": "2026-05-04 20:59:10",

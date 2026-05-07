@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kacey Musgraves
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,182 likes - 80 songs - 4 hr 19 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,181 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 79 | [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 |
 | 80 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
 
-Snapshot ID: `AAAmyxKMEmSXM6uPVJp4FdZqCCLYIwZ1`
+Snapshot ID: `AAAmzI8TlJy/6jzhOUnr/DFnPcDarEZ+`

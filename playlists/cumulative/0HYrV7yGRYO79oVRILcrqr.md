@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-476 songs - 1 day 5 hr 44 min
+479 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Echoes of Forever](https://open.spotify.com/track/5R8ZWNR0hltUBTVwMIIS9P) | [Uby](https://open.spotify.com/artist/10LBfcS3SRojvj2bYyXUf9) | [Echoes of Forever](https://open.spotify.com/album/7b2lYFFbdywzGzNbtPeHL4) | 5:00 | 2025-10-02 | 2025-12-17 |
 | [Echos in Reverse](https://open.spotify.com/track/4X7u2YyQAddBuysCljzlTv) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Echos in Reverse](https://open.spotify.com/album/6R3iwi2gajC46Jy1ZcQAgQ) | 4:02 | 2025-10-06 | 2025-11-28 |
 | [Ecstasy](https://open.spotify.com/track/3MeFzHAPF4iRxQqReIgXHV) | [never mind the world](https://open.spotify.com/artist/33GYHfjMu2Coh9fFUaLooN) | [Ecstasy](https://open.spotify.com/album/0HkjLJ5pWZg2qIbHPTpR4C) | 3:20 | 2025-12-06 | 2026-04-21 |
+| [Effatà](https://open.spotify.com/track/2RXiEuxgDn4OdQjWKBvFO5) | [Eluana Lateana](https://open.spotify.com/artist/55wsfjOEy5MhUC0Tm7I3wV), [Marcello Favoino](https://open.spotify.com/artist/6gUroXfm6h2jAaeh7xqwwU) | [Effatà](https://open.spotify.com/album/3n69EjkZZVaC1pkrjrkcMW) | 4:39 | 2026-05-06 |  |
 | [Efimero Amor](https://open.spotify.com/track/6Ms8BHznJ328BEW4hGPEo1) | [Kort Funes](https://open.spotify.com/artist/5C5AL8ee4M0UzxPxjK1oLQ) | [Efimero Amor](https://open.spotify.com/album/1CGTRd3Gm6f8d5tQTqcvtR) | 4:44 | 2026-04-23 |  |
 | [EL CONGELADOR](https://open.spotify.com/track/1Lnuym6raYt4j61Lqlb6qE) | [VicenticoMusic](https://open.spotify.com/artist/3ejOmbwBSMeVpvtt29yr3K) | [EL CONGELADOR](https://open.spotify.com/album/1sq0bzeQMr8etlaCrXa8pQ) | 3:56 | 2026-02-03 | 2026-03-18 |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-17 |
@@ -306,6 +307,7 @@
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2026-01-02 | 2026-03-18 |
 | [On The Run](https://open.spotify.com/track/4cJBm3gR4bWpiZ53MAlujN) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [On The Run](https://open.spotify.com/album/0VpAI7tHFk5mbDcfxHtfaB) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 | 2025-11-28 |
+| [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-05-06 |  |
 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 | 2026-02-05 | 2026-03-18 |
 | [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 | 2026-02-25 | 2026-03-18 |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
@@ -374,6 +376,7 @@
 | [She's Not There \- Mono Remastered](https://open.spotify.com/track/5BATmTqGopeifUzHN2bE0f) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here \(Mono Remastered\)](https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v) | 2:25 | 2026-04-27 |  |
 | [She's the girl](https://open.spotify.com/track/45N1BAybnbjmr7GqLsWpGB) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Tell me what it's for](https://open.spotify.com/album/3rbYCgf76Hv8h5GqckdG7U) | 3:38 | 2025-12-16 | 2026-04-21 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2025-12-04 | 2025-12-17 |
+| [Silver stream](https://open.spotify.com/track/02G5hYmq30lppq3ApFFVyQ) | [Latencia 0](https://open.spotify.com/artist/6HS2Rmxcd00zEKWt6AIn43) | [Silver stream](https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ) | 3:01 | 2026-05-06 |  |
 | [Silver Sun](https://open.spotify.com/track/1SRg1WTKk2Uq8tw0MmgDi2) | [Fish Pond Ponies](https://open.spotify.com/artist/6JDLBZ98LILGDamFL9XE9H) | [Silver Sun](https://open.spotify.com/album/5I4IV0TfzKqZ8TH4BrNAJk) | 2:18 | 2026-04-02 | 2026-04-21 |
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-01-02 | 2026-03-18 |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-19 | 2025-12-17 |

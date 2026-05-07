@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,458 songs - 3 day 9 hr 28 min
+1,459 songs - 3 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Biting Nails](https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Biting Nails](https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi) | 1:56 | 2025-12-16 | 2026-01-06 |
 | [Bla Buzz](https://open.spotify.com/track/1i9KWSfyRSOxta4m0WoJDJ) | [Bila](https://open.spotify.com/artist/31FYxGnmvt2EHv72cUIxHn) | [Beżżalart](https://open.spotify.com/album/5OxyTjodJeEWF6c74VJcVe) | 1:47 | 2025-12-17 | 2026-01-06 |
 | [Black](https://open.spotify.com/track/0ul44PajiEmkNrTe8iOCMH) | [Adam Alford](https://open.spotify.com/artist/5NOQhV94Dia7LiieRRWWuV) | [Desert nights](https://open.spotify.com/album/2457jyGvDUxCAlRihGaxFQ) | 2:52 | 2025-12-04 | 2025-12-24 |
-| [BLACK JESUS](https://open.spotify.com/track/6asKYlvUv5vCASA76O7qrI) | [Matty J\. Ruys](https://open.spotify.com/artist/1sFQmEAQurCDEHqKV6aSnK) | [BLACK JESUS](https://open.spotify.com/album/0n3qYZ3A1D0VxrjHWWr2JK) | 3:59 | 2026-04-07 |  |
+| [BLACK JESUS](https://open.spotify.com/track/6asKYlvUv5vCASA76O7qrI) | [Matty J\. Ruys](https://open.spotify.com/artist/1sFQmEAQurCDEHqKV6aSnK) | [BLACK JESUS](https://open.spotify.com/album/0n3qYZ3A1D0VxrjHWWr2JK) | 3:59 | 2026-04-07 | 2026-05-07 |
 | [Black Magick Rock 'N' Roll](https://open.spotify.com/track/7bjGoS9ibje6H3bFYgw5PU) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW), [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [Black Magick Rock 'N' Roll](https://open.spotify.com/album/4mGgayITPhDcxmNIzdY6q6) | 3:40 | 2026-03-23 | 2026-04-17 |
 | [Black Metals](https://open.spotify.com/track/6ktE7NTD3AKdRfyEodn1E1) | [Ancient Channels](https://open.spotify.com/artist/6DHMNW35JxsmNvNSakbVDX) | [Black Metals](https://open.spotify.com/album/518G9ogXv88wn4CgMOGmZ4) | 3:36 | 2026-04-20 |  |
 | [Black Mirror](https://open.spotify.com/track/4njalCW10Ivz86pGQtrgvx) | [Red East Head](https://open.spotify.com/artist/4CQZJMWFuSY3hlgMIgKk6y) | [BURN RESET FORGET](https://open.spotify.com/album/22z9zdytK0OT6zwuryKVu3) | 3:47 | 2026-04-11 |  |
@@ -628,7 +628,7 @@
 | [In the Sky \- Alternative Version](https://open.spotify.com/track/3soq0AmD76sidxqaFgJVHk) | [Tektula](https://open.spotify.com/artist/5xYYP8RoqR5BMVeKeBphRL), [Eric Castiglia](https://open.spotify.com/artist/6vGC6bQvCeRHHXp9JB4JRj) | [The Burnout](https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM) | 3:03 | 2026-01-08 | 2026-02-09 |
 | [In The Year 2525 \(ghosts in chains\)](https://open.spotify.com/track/4aYcjqNEdC6CAwtFz4k7HN) | [Thee Wrecking Crew](https://open.spotify.com/artist/0RltW94tVg6OztzLsGu51w) | [In The Year 2525 \(ghosts in chains\)](https://open.spotify.com/album/0Uopy1Q0QcBFLGF40wZJNu) | 3:29 | 2026-02-26 | 2026-03-17 |
 | [In This State](https://open.spotify.com/track/67TBz4hsUn1BaPGzvUxkBT) | [You Citizen](https://open.spotify.com/artist/4HWNin3OTnIx7rQ7fmECOT) | [In This State](https://open.spotify.com/album/0ZArbJfI296gekF5UFFRQJ) | 3:09 | 2026-02-23 | 2026-03-27 |
-| [Inherit](https://open.spotify.com/track/5iZG3WeokJZRVN8TerrB9o) | [Sawtega](https://open.spotify.com/artist/2mg21MnmX8XLnHJYQV8hbU) | [Inherit](https://open.spotify.com/album/6HK0iU1KaC5HJlAfbc1CE8) | 3:20 | 2026-04-07 |  |
+| [Inherit](https://open.spotify.com/track/5iZG3WeokJZRVN8TerrB9o) | [Sawtega](https://open.spotify.com/artist/2mg21MnmX8XLnHJYQV8hbU) | [Inherit](https://open.spotify.com/album/6HK0iU1KaC5HJlAfbc1CE8) | 3:20 | 2026-04-07 | 2026-05-07 |
 | [InMyPocket](https://open.spotify.com/track/53MV9GVk3mwPEER5k9a6uS) | [kiftoh](https://open.spotify.com/artist/4vU0G9EFI6KcI3wlswQZux) | [InMyPocket](https://open.spotify.com/album/5UD14tyo9S72nM4t1hJl0F) | 2:38 | 2026-04-05 | 2026-04-24 |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 | 2025-12-10 |
 | [INSANE](https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b) | [Mercedes & Marxx](https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8) | [INSANE](https://open.spotify.com/album/6t6r2yWgSCNsZQh3dtIUoJ) | 1:23 | 2026-03-03 | 2026-04-04 |
@@ -1030,6 +1030,7 @@
 | [Safe](https://open.spotify.com/track/3wbOkE8aQSGTCDpDFCJruX) | [Covent](https://open.spotify.com/artist/17Tpltw1i2Te1Ay4lLH45X) | [Safe In Your Arms](https://open.spotify.com/album/6r7TAVCjDL6E864G4aInrB) | 3:23 | 2025-12-23 | 2026-01-24 |
 | [Saint in the Streets](https://open.spotify.com/track/4oT7egJjgFEfvGFF5Yx7wm) | [Great Demise](https://open.spotify.com/artist/3yjlMw2jwFKkhBLiaJ89pz) | [Saint in the Streets / Demoted](https://open.spotify.com/album/5GLNZoNlJijfwqsHmeFyjZ) | 2:24 | 2026-04-08 |  |
 | [Saints Kiss](https://open.spotify.com/track/3rBfqEyvLEthsS26sGHpbO) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Bruxism](https://open.spotify.com/album/2lvi2hoZk7WDIfgTXRE7l8) | 3:22 | 2026-04-03 | 2026-05-05 |
+| [Same Face](https://open.spotify.com/track/12yvoqDM0AlUmdR0HY9QCp) | [Worseforwear](https://open.spotify.com/artist/3xhHX8IAu1JFlGaOrRllxc) | [Same Face](https://open.spotify.com/album/2YCbPvG6jjyuzYTfIxjg82) | 3:34 | 2026-05-06 |  |
 | [Sangrienta Obsesión](https://open.spotify.com/track/1eI4Zzwphb4paj0NnyyBry) | [The Saint Daniel Project](https://open.spotify.com/artist/3KfVAnSb4K79mP9lRZ5cJ0) | [Todo Otra Vez](https://open.spotify.com/album/3RiEzVKmXEkurp8uKLc6YP) | 2:40 | 2025-12-22 | 2026-01-15 |
 | [Sanitizer](https://open.spotify.com/track/743uUS4NbticsU6hSJ4mZg) | [Culture Clash](https://open.spotify.com/artist/7HDKN2ajqIHP5xy5FRLn2P) | [Sanitizer](https://open.spotify.com/album/16I9FERSkmn6hfysozJWKK) | 3:11 | 2026-01-21 | 2026-02-22 |
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-11 | 2026-01-06 |
@@ -1084,7 +1085,7 @@
 | [Shorelines Redux](https://open.spotify.com/track/5ogWzJe5L67sSdszTFmtmZ) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Shorelines Redux](https://open.spotify.com/album/5HrSAFznBTcpTixGO55d8i) | 3:20 | 2026-04-20 |  |
 | [Shortchanged Even Shorter](https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Shortchanged Even Shorter](https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE) | 3:03 | 2025-12-01 | 2025-12-24 |
 | [Shout it Out](https://open.spotify.com/track/6dO45ThPk5v39uNBkYDpwH) | [Cherokee Death Cats](https://open.spotify.com/artist/6bNsVEFV741xId1pufFwZv) | [Non Stop Fever](https://open.spotify.com/album/47kVxZySdExNYj6dZ0M7W1) | 2:52 | 2026-02-24 | 2026-03-28 |
-| [Shrine 2026](https://open.spotify.com/track/11ipToPPa63Bhny2MXULu0) | [The Dambuilders](https://open.spotify.com/artist/3b5zJp91jHNhz6AByOoURk) | [Shrine 2026](https://open.spotify.com/album/0bUQLKM01iS03NJwSbJpPp) | 2:57 | 2026-04-05 |  |
+| [Shrine 2026](https://open.spotify.com/track/11ipToPPa63Bhny2MXULu0) | [The Dambuilders](https://open.spotify.com/artist/3b5zJp91jHNhz6AByOoURk) | [Shrine 2026](https://open.spotify.com/album/0bUQLKM01iS03NJwSbJpPp) | 2:57 | 2026-04-05 | 2026-05-07 |
 | [Shrouded in the starless furnace.](https://open.spotify.com/track/6ct6bOZokMCqR4YB9KmO8n) | [rA.I.ce](https://open.spotify.com/artist/1VOknpElf219bUdh8eiCah) | [Shrouded in the starless furnace.](https://open.spotify.com/album/4DHzStJOWF8w7WeQ7hE41v) | 5:05 | 2025-12-19 | 2026-01-15 |
 | [Shutters + Stutters](https://open.spotify.com/track/3dJDRmonHnUfgdrjYKhFIs) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:20 | 2025-10-31 | 2025-12-10 |
 | [SICK SICK SICK](https://open.spotify.com/track/1NmlhOSOGH9S3Pd39smbqp) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [GLITCH BITCH](https://open.spotify.com/album/6IcihV7b8bv1SAas3hAYPt) | 2:30 | 2026-01-20 | 2026-02-12 |

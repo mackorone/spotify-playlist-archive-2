@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Martin.
 
-327 songs - 16 hr 3 min
+328 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Himno de la Dictadura Travesti](https://open.spotify.com/track/22ihKXRm9Pdks2zMCDA1vJ) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Himno de la Dictadura Travesti](https://open.spotify.com/album/78RzWv26gU19MnwYLBfJ4U) | 1:49 | 2025-07-01 | 2025-08-06 |
 | [Honey](https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Honey](https://open.spotify.com/album/1dqDOYhWvz8npwRAV6nXIR) | 2:18 | 2026-04-07 | 2026-05-06 |
 | [Hoy follo](https://open.spotify.com/track/1mdQtAT8qcenePC9IKX0b1) | [Les Blondes](https://open.spotify.com/artist/2Fu0QjMrPQsxxbWaoGYbG9) | [Hoy follo](https://open.spotify.com/album/1elYBXzJRKaAiZnhro0fqw) | 3:05 | 2025-03-04 | 2025-04-02 |
+| [Hoy ya no](https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Hoy ya no](https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA) | 2:40 | 2026-05-06 |  |
 | [Humedad Valenciana](https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [Humedad Valenciana](https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC) | 2:58 | 2024-10-01 | 2025-04-02 |
 | [Humo](https://open.spotify.com/track/7p4TTBX66klgjdNGVmOmHL) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm) | [Humo](https://open.spotify.com/album/6ZnLrxm3sFTpSEEQ09Dtrx) | 2:52 | 2025-08-05 | 2025-09-03 |
 | [ibuprofeno](https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ibuprofeno](https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl) | 2:48 | 2025-04-01 | 2025-12-22 |
@@ -278,7 +279,7 @@
 | [Santuario](https://open.spotify.com/track/416afSQD3NDwt1ffNuq5IY) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Santuario](https://open.spotify.com/album/2kP3unBy9C84B506t97yAe) | 3:11 | 2025-03-04 | 2025-04-07 |
 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 | 2025-12-02 |  |
 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 | 2025-07-01 |  |
-| [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 | 2025-08-05 |  |
+| [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 | 2025-08-05 | 2026-05-07 |
 | [Sex Tape](https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Sex Tape](https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t) | 1:58 | 2024-06-05 | 2024-07-04 |
 | [Sexting](https://open.spotify.com/track/4wqbCjNjzs0bJAWogrkfLZ) | [Fimosix](https://open.spotify.com/artist/2PfB8mF3lBnEECfyXgHUgI) | [Sexting](https://open.spotify.com/album/20VPRNHwsq7p9GUZiPSHoy) | 4:32 | 2025-04-01 | 2025-07-02 |
 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 | 2024-06-05 | 2024-11-06 |

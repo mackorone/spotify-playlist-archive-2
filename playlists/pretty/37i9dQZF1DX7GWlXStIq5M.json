@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mari Froes",
-  "num_followers": 362084,
+  "num_followers": 362047,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,30 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "Do Que \u00e9 Feito o Amor?",
+      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
         "name": "Fim Do Mundo",
         "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
       },
@@ -291,30 +315,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "Do Que \u00e9 Feito o Amor?",
-      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "Pedacin de Mim",
         "url": "https://open.spotify.com/album/2eGN7en1PVMGZ9j0JUWCCp"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "antes que voc\u00ea v\u00e1",
-        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 160284,
-      "name": "antes que voc\u00ea v\u00e1",
-      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo",
         "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 211658,
       "name": "Quem \u00c9 Ju\u00e3o",
       "url": "https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "antes que voc\u00ea v\u00e1",
+        "url": "https://open.spotify.com/album/6mDrodmxlJCr9iAFnEnDxD"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 160284,
+      "name": "antes que voc\u00ea v\u00e1",
+      "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Descomplica",
-        "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        },
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Descomplica",
-      "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "ESTA\u00c7\u00c3O DO PRAZER",
         "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 171967,
       "name": "ESTA\u00c7\u00c3O DO PRAZER",
       "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "Descomplica",
+        "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Descomplica",
+      "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Balelo",
-        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 170234,
-      "name": "Balelo",
-      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "Balelo",
+        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 170234,
+      "name": "Balelo",
+      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "Desassossego",
         "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
       "artists": [
         {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -751,6 +747,26 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -783,22 +799,6 @@
       "duration_ms": 143018,
       "name": "vou dar",
       "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
+        "name": "TANTAS FORMAS DE DIZER ADEUS",
+        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 160741,
+      "name": "Coincidentemente (Tirando Certas Coisas)",
+      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
         "name": "No Mar",
         "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 171194,
       "name": "No Mar",
       "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
-        "name": "TANTAS FORMAS DE DIZER ADEUS",
-        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 160741,
-      "name": "Coincidentemente (Tirando Certas Coisas)",
-      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
+        "name": "Ressaca da Saudade",
+        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
+      },
+      "artists": [
+        {
+          "name": "Aram\u00e0",
+          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
+        },
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 172395,
+      "name": "Ressaca da Saudade",
+      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
         "name": "Eu \u00c5doro",
         "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 194407,
       "name": "Sem foto, sem v\u00eddeo",
       "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
-        "name": "Ressaca da Saudade",
-        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
-      },
-      "artists": [
-        {
-          "name": "Aram\u00e0",
-          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
-        },
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 172395,
-      "name": "Ressaca da Saudade",
-      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
     },
     {
       "added_at": "2026-05-01 03:01:19",

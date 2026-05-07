@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Isaiah Rashad, DaBaby, Vince Staples and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,940 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,971 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 40 | [HANGMAN](https://open.spotify.com/track/00qZKQpR4J8inSq0iw86J0) | [Lord Sko](https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [HANGMAN](https://open.spotify.com/album/6NuFemmBjU74LuzzYb3OaI) | 3:11 |
 | 41 | [Searching Through Phones](https://open.spotify.com/track/3C3znRI0cPE9h6uaUtpkIQ) | [Lil Noonie](https://open.spotify.com/artist/5k4L34gsiyB0HgS4yPso2h) | [Searching Through Phones](https://open.spotify.com/album/4hfL7wyF9jhySZZLYIfbSA) | 2:40 |
 | 42 | [Kick It With Me](https://open.spotify.com/track/5XTYTjW8xh05Nd4vsMGFGK) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Kick It With Me](https://open.spotify.com/album/5s3AscisAPZSH1eMyorCDe) | 2:33 |
-| 43 | [TBE \(The Best Ever\)](https://open.spotify.com/track/64miCNDf3jhKTRg9kno30e) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [DJ Pharris](https://open.spotify.com/artist/3HGmrfO5u74WgnYN3wmfdQ) | [TBE \(The Best Ever\)](https://open.spotify.com/album/51mdGINK2d4AgvMjSspDvK) | 3:59 |
+| 43 | [T.B.E\. \(The Best Ever\)](https://open.spotify.com/track/64miCNDf3jhKTRg9kno30e) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [DJ Pharris](https://open.spotify.com/artist/3HGmrfO5u74WgnYN3wmfdQ) | [T.B.E\. \(The Best Ever\)](https://open.spotify.com/album/51mdGINK2d4AgvMjSspDvK) | 3:59 |
 | 44 | [Geek Squad](https://open.spotify.com/track/4UQEWvWCRIC0UoNZlWCFM1) | [ShittyBoyz](https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [StanWill](https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX), [Trdee](https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi) | [Geek Squad](https://open.spotify.com/album/62uwUYVKAOlfa7dnjahIen) | 3:05 |
 | 45 | [TimeZone \(feat\. Baby Rich\)](https://open.spotify.com/track/3OxFyIjpinRIrmtaIVdweR) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Rich](https://open.spotify.com/artist/4jJXnnMCODl8ds7bgmHgUP) | [Sorry, I'm Not Sorry](https://open.spotify.com/album/5gBIzcHGHP03AJFI1G4Hq0) | 2:21 |
 | 46 | [Young Nigga Balling \- Remix](https://open.spotify.com/track/09NhvZ060sWLwf4vuDIap5) | [Trappa](https://open.spotify.com/artist/3ViiSWygMYHBmMQC9YZ19P), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Young Nigga Balling \(Remix\)](https://open.spotify.com/album/16DGHFV6ih6Gj9RISyEqIU) | 2:34 |

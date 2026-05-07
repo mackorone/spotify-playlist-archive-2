@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1082972,
+  "num_followers": 1082885,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Orange Tree",
         "url": "https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 192106,
       "name": "Orange Tree",
       "url": "https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Jealous Sun",
-      "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 231200,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Jealous Sun",
+      "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
     },
     {
       "added_at": "2024-08-23 14:59:54",

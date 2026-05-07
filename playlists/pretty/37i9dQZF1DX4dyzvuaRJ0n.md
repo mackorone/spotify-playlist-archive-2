@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Dom Dolla & Tiga
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,584,043 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,583,500 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 9 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 |
 | 10 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
 | 11 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
-| 12 | [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 |
+| 12 | [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 |
 | 13 | [Eyes Cut Deeper \(feat\. Inéz\)](https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Eyes Cut Deeper \(feat\. Inéz\)](https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn) | 3:12 |
 | 14 | [Dreams](https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [The Dreams Strange and Eternal](https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM) | 3:53 |
 | 15 | [World Is Mine](https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [World Is Mine](https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ) | 4:46 |

@@ -4,7 +4,7 @@
 
 > Who run the world? Cover: Claire Rosinkranz
 
-177 songs - 9 hr 23 min
+178 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Drum Machine](https://open.spotify.com/track/1nKvzyWhcP4KYAXeOMrul5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:16 | 2026-05-04 |  |
 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 | 2026-03-16 |  |
 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 | 2026-03-16 |  |
-| [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 | 2026-03-16 |  |
+| [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 | 2026-03-16 | 2026-05-07 |
 | [Euphoria](https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Euphoria](https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW) | 3:32 | 2026-03-23 | 2026-04-21 |
 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 | 2026-05-04 |  |
 | [Fall with Me](https://open.spotify.com/track/2vylf7rmqNdkIQkwTeAjnc) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Fall with Me](https://open.spotify.com/album/1odX9n5o8CmZyuG1pANrHv) | 2:35 | 2026-05-04 |  |
@@ -134,6 +134,7 @@
 | [Realistic Love Song](https://open.spotify.com/track/2Pfqi4iNsLsiwmPiRliNqw) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Realistic Love Song](https://open.spotify.com/album/78Frme5doJkbw3cOwc5n2I) | 3:20 | 2026-03-16 | 2026-04-21 |
 | [Ribcage](https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Ribcage](https://open.spotify.com/album/50FnWAYiSqpqwXkE7aQEDt) | 3:00 | 2026-05-04 |  |
 | [Ride](https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ride](https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3) | 4:39 | 2026-03-16 | 2026-04-21 |
+| [Right Back!](https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Right Back!](https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW) | 3:18 | 2026-05-06 |  |
 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-20 |  |
 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 | 2026-04-27 |  |
 | [Running To Pain](https://open.spotify.com/track/3TcuyO1stSlzxMQRb14M16) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Running To Pain](https://open.spotify.com/album/5r7zsPBzwvUbgIh2WLOkUD) | 4:06 | 2026-03-23 | 2026-04-21 |

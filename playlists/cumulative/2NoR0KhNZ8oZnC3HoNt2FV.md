@@ -4,7 +4,7 @@
 
 > 
 
-1,280 songs - 2 day 23 hr 5 min
+1,281 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Don’t Blink Or Stare \(feat\. Bloodhound Lil Jeff & CEO Trayle\)](https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj) | 1:41 | 2025-02-26 |  |
 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 | 2025-02-26 |  |
 | [Down](https://open.spotify.com/track/7K5RRMqYyFJsAEplmYLSBE) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Down](https://open.spotify.com/album/2hnJIZC616Hzbp3d053wPC) | 2:09 | 2024-02-16 |  |
+| [Down South \(feat\. Key Glock\)](https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Down South](https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO) | 2:19 | 2026-05-06 |  |
 | [Down2Earth](https://open.spotify.com/track/4YnB78MlBtr8YE0BANApq2) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:02 | 2025-05-08 | 2025-06-04 |
 | [DR BIRDS](https://open.spotify.com/track/77EseIwL4dnUACjF3YmDWz) | [Griselda](https://open.spotify.com/artist/0wXQORjv4ChlykdyzWUJ4X) | [WWCD](https://open.spotify.com/album/13PxecK9Bart7ir6STafXP) | 4:25 | 2023-11-30 | 2024-08-08 |
 | [Dramatic Girl \(feat\. Che Ecru\)](https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:19 | 2026-02-20 | 2026-03-10 |

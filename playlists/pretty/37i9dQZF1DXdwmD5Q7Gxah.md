@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > love spells ✨ <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,642 likes - 145 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,611 likes - 145 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

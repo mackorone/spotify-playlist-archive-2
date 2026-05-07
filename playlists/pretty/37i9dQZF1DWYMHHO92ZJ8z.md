@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,055 likes - 58 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,099 likes - 58 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 57 | [JEJE](https://open.spotify.com/track/5tqVTItXbPPRSra7Mw9zzy) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY) | [JEJE](https://open.spotify.com/album/4yGqbe1fHlz4jd7ekUeWsY) | 3:30 |
 | 58 | [Kanga Mutu \- El Clàsico Remix](https://open.spotify.com/track/50BZnlirZvVb6hY3TsxNbS) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Spilulu](https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j), [H\-Baraka](https://open.spotify.com/artist/5OOwEOkcOiknAGuGl7AE4g), [El Clàsico](https://open.spotify.com/artist/1n1M1BJqnzbEICpJ5Lapir) | [Kanga Mutu \(El Clàsico Remix\)](https://open.spotify.com/album/5rzjeBgTR4fBebI2SclaXC) | 6:28 |
 
-Snapshot ID: `AAAAANgme8lXRfFJR8kwsC+1iL8BppfI`
+Snapshot ID: `AAAAAAInyRQq1OuUvPC0Z4qp8n9mfO1U`

@@ -5228,7 +5228,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 88346,
       "name": "Bad Actors",
       "url": "https://open.spotify.com/track/1oOUhect64PiuYFboTjbnq"
@@ -26565,6 +26565,28 @@
     },
     {
       "album": {
+        "name": "From Takoma With Love",
+        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190473,
+      "name": "Good Habits",
+      "url": "https://open.spotify.com/track/42JgIrDqDHnNhXhQvcrAlD"
+    },
+    {
+      "album": {
         "name": "Good Morning Mother",
         "url": "https://open.spotify.com/album/4CdnSzBX40hWLn1z9p4wNK"
       },
@@ -27368,7 +27390,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 123587,
       "name": "Hard To See",
       "url": "https://open.spotify.com/track/4AfRbl9eWlwZFcsOCW1Cnf"
@@ -28328,6 +28350,24 @@
       "duration_ms": 210716,
       "name": "Hella Good (Metal Version)",
       "url": "https://open.spotify.com/track/4M3nv7F7mMsde0lzb46UTI"
+    },
+    {
+      "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5G1Or1rygMxQXSo81VKm3R"
     },
     {
       "album": {
@@ -51478,7 +51518,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 1166904,
       "name": "Prison from Einstein on the Beach (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/0pgA6dDBQWT4CeTsve9wyD"
@@ -51694,7 +51734,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 886034,
       "name": "Protest from Satyagraha (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/1fKeRYlYHNpqanDN86hdd2"

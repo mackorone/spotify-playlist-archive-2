@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Still That Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,952 likes - 80 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,985 likes - 80 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,752 likes - 200 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,761 likes - 200 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 199 | [Summer Sun](https://open.spotify.com/track/1w9KiGT5lNocTP1FOnrDhh) | [Rayo del Sol](https://open.spotify.com/artist/5tiQHiU8wfer1sBZAR0sPe) | [Summer Sun](https://open.spotify.com/album/7yWBMm9RjFRzHFTFxYm2yS) | 2:03 |
 | 200 | [Sandals](https://open.spotify.com/track/6cs3lWD0D07ygi180eRrot) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Sandals](https://open.spotify.com/album/0oM5mEZjMJOCNLPsLqTvTa) | 2:43 |
 
-Snapshot ID: `AAAAAMQxmP80J4YfJMXWBW83exffSfPL`
+Snapshot ID: `AAAAANi3Wkjc6xwV7U1aeGkOlVRNO9dd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 156 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 156 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 105 | [Give Me Your Love](https://open.spotify.com/track/205RswZPFn2MlNlYckzz5I) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/1Z9ifQTeBQYgLadR5f1Llw) | 3:21 |
 | 106 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 |
 | 107 | [Stronger](https://open.spotify.com/track/6SEewo2CNMGzl2BoD19RA6) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 3:09 |
-| 108 | [Do Not Disturb](https://open.spotify.com/track/4UCTlHt2pZxZ2l500bOQKn) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Do Not Disturb](https://open.spotify.com/album/6pP96QZ9sIST5vC8OoijqV) | 2:47 |
-| 109 | [Body Talk](https://open.spotify.com/track/2ejzE6eD1mP1JFk4qrBxbc) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk](https://open.spotify.com/album/2Xy0XjWMA3XQH3Wuh3dJ9y) | 2:46 |
+| 108 | [Body Talk](https://open.spotify.com/track/2ejzE6eD1mP1JFk4qrBxbc) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk](https://open.spotify.com/album/2Xy0XjWMA3XQH3Wuh3dJ9y) | 2:46 |
+| 109 | [Do Not Disturb](https://open.spotify.com/track/4UCTlHt2pZxZ2l500bOQKn) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Do Not Disturb](https://open.spotify.com/album/6pP96QZ9sIST5vC8OoijqV) | 2:47 |
 | 110 | [Jedes Mal](https://open.spotify.com/track/1RGO7qy0nZgDy5ylWfqoql) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:36 |
 | 111 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 |
 | 112 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 155 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 156 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcQtvAAAAADfMejxOUOd5okvd3Ou9k7f`
+Snapshot ID: `AcQzXAAAAADd4ogR8R2RUJB/gRtlGeYk`

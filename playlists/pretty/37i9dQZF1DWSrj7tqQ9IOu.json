@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402190,
+  "num_followers": 402173,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Avril 2026",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "PELELE",
+        "url": "https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "duration_ms": 127998,
+      "name": "PELELE",
+      "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 267693,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "PELELE",
-        "url": "https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C"
-      },
-      "artists": [
-        {
-          "name": "WIXO & LA2S",
-          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
-        }
-      ],
-      "duration_ms": 127998,
-      "name": "PELELE",
-      "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
         "name": "Rien \u00e0 f\u00eater",
         "url": "https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i"
       },
@@ -383,18 +399,22 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Boys In Blue",
-        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+        "name": "SITUATION CHEAP",
+        "url": "https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        },
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
         }
       ],
-      "duration_ms": 153045,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+      "duration_ms": 165563,
+      "name": "SITUATION CHEAP",
+      "url": "https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -415,26 +435,6 @@
       "duration_ms": 173133,
       "name": "Coquelicot",
       "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
-        "name": "SITUATION CHEAP",
-        "url": "https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm"
-      },
-      "artists": [
-        {
-          "name": "BB NOYAA",
-          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
-        },
-        {
-          "name": "Ino Casablanca",
-          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
-        }
-      ],
-      "duration_ms": 165563,
-      "name": "SITUATION CHEAP",
-      "url": "https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Second Hand",
-        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 204311,
-      "name": "Second Hand",
-      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "Le besoin",
         "url": "https://open.spotify.com/album/4BosQLexIQPtg8TPG4ioEA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 185150,
       "name": "Le besoin",
       "url": "https://open.spotify.com/track/5VYUkw26Zrwj2FC458bQe0"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Second Hand",
+        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 204311,
+      "name": "Second Hand",
+      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
     },
     {
       "added_at": "2026-04-30 22:03:34",

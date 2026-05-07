@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-772 songs - 2 day 18 hr 35 min
+773 songs - 2 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 | 2023-11-24 | 2023-12-06 |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 | 2025-06-20 |
 | [Apala Medley](https://open.spotify.com/track/2yAnrqd6q7P8GFV89PRH5b) | [Bisi Davids](https://open.spotify.com/artist/5VKhbjC1Y2GcmYPybOOZyv) | [Apala Medley](https://open.spotify.com/album/6iWHRCBAoqjEi7CpnwPlvA) | 9:03 | 2025-12-19 | 2026-02-02 |
+| [Are You Ready?](https://open.spotify.com/track/2sSnrrIN2DIUJv24bz0hlj) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [Are You Ready?](https://open.spotify.com/album/6MnbJtW31m6jmW0UUkObeU) | 4:18 | 2026-04-24 |  |
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 | 2025-06-27 |
 | [Arise \(Over the Nations\) \- Live](https://open.spotify.com/track/5rlI8fiWdU4LQER9uzOHY7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Arise \(Over the Nations\) \[Live\]](https://open.spotify.com/album/0vOm5gVUrLOJH8sbNzORgc) | 6:50 | 2026-03-20 |  |
 | [As we look](https://open.spotify.com/track/3g2GzaINUedLa9alWfMT2M) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [As we look](https://open.spotify.com/album/0dGMDH7mo6O8isPMiMrmzU) | 7:46 | 2026-01-09 | 2026-03-11 |
@@ -552,7 +553,7 @@
 | [Ope Ye Jesu](https://open.spotify.com/track/2fptgsFqUc5XQ0LDEtWN0t) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oluwa Ni: The Spontaneous Worship](https://open.spotify.com/album/2tUJuV7qWcURWHBjhEKegt) | 6:28 | 2024-01-12 | 2024-03-20 |
 | [ORUN SI \(OPEN HEAVENS\)](https://open.spotify.com/track/20H0O1lG1btliyXHzvHXcW) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [ORUN SI \(OPEN HEAVENS\)](https://open.spotify.com/album/6Ln9d1zapgFKYd2tVa1jWb) | 12:12 | 2025-08-22 | 2025-10-03 |
 | [Ose](https://open.spotify.com/track/7p0N4UVPcNdM3EPywHdsAY) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Ose](https://open.spotify.com/album/2fb5AKqwQdf2El0kycyPig) | 3:29 | 2024-08-30 | 2024-10-10 |
-| [Oshimiriatata](https://open.spotify.com/track/3d9kRH83SVWiCr0aQEgUGf) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [Sound of Many Waters](https://open.spotify.com/album/30GBt9ojOzWlkNOG9PGDXd) | 11:02 | 2026-01-30 |  |
+| [Oshimiriatata](https://open.spotify.com/track/3d9kRH83SVWiCr0aQEgUGf) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [Sound of Many Waters](https://open.spotify.com/album/30GBt9ojOzWlkNOG9PGDXd) | 11:02 | 2026-01-30 | 2026-05-07 |
 | [Osuba \- Remix](https://open.spotify.com/track/3X6x1sYQIiUCUwzY3u94qI) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Osuba \(Remix\)](https://open.spotify.com/album/55HkimoZNtqiYb81B2XFIS) | 5:23 | 2024-08-09 | 2025-06-20 |
 | [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-09-06 | 2024-09-27 |
 | [Out of the Dark](https://open.spotify.com/track/4QHOdD18WUeDghfjFkUz8V) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Out of the Dark](https://open.spotify.com/album/6nt2E6pcXUr5B9SOsjFWIB) | 4:39 | 2026-01-09 | 2026-02-12 |

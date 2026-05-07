@@ -1,12 +1,12 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 528993,
+  "num_followers": 528972,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIfIrRxfadSNnfXDVW9UFceK40GU",
+  "snapshot_id": "AAAAAG0mDr5RnP0NdplH9EjWR/DgXDeM",
   "tracks": [
     {
       "added_at": "2026-04-27 05:54:23",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "A Tribute to First Love",
-        "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "A Tribute To First Love",
-      "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
         "name": "tender (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 158840,
       "name": "Elevator Lover",
       "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
+        "name": "A Tribute to First Love",
+        "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "A Tribute To First Love",
+      "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Memories of Furniture",
-        "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
-      },
-      "artists": [
-        {
-          "name": "Daisuke Miyatani",
-          "url": "https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ"
-        },
-        {
-          "name": "paniyolo",
-          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Memories of Furniture",
-      "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 126750,
       "name": "Yugure",
       "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
+        "name": "Memories of Furniture",
+        "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
+      },
+      "artists": [
+        {
+          "name": "Daisuke Miyatani",
+          "url": "https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ"
+        },
+        {
+          "name": "paniyolo",
+          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Memories of Furniture",
+      "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
+        "name": "Overcast",
+        "url": "https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "duration_ms": 136534,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
         "name": "Flow Motion",
         "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
-        "name": "Overcast",
-        "url": "https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 136534,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
         "name": "Scintillate",
         "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 173367,
       "name": "Scintillate",
       "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
+        "name": "Peach Fizz",
+        "url": "https://open.spotify.com/album/4jQWHVwLAdYE9kUib4sThc"
+      },
+      "artists": [
+        {
+          "name": "ILYOCS",
+          "url": "https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Peach Fizz",
+      "url": "https://open.spotify.com/track/4KCqWbH9Oa8Rj5z0CBTaYM"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 187378,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
-        "name": "Peach Fizz",
-        "url": "https://open.spotify.com/album/4jQWHVwLAdYE9kUib4sThc"
-      },
-      "artists": [
-        {
-          "name": "ILYOCS",
-          "url": "https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Peach Fizz",
-      "url": "https://open.spotify.com/track/4KCqWbH9Oa8Rj5z0CBTaYM"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Dawn Breaks",
-        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 118750,
-      "name": "Dawn Breaks",
-      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
         "name": "Another Moment",
         "url": "https://open.spotify.com/album/4G5Va0UINm6wkRsUJgLLxL"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Night Walker",
-        "url": "https://open.spotify.com/album/2H8WZVplobgteQtt8s9lps"
+        "name": "Dawn Breaks",
+        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
       },
       "artists": [
         {
-          "name": "Grey October Sound",
-          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
-        },
-        {
-          "name": "Route 9",
-          "url": "https://open.spotify.com/artist/4d9PrgcVGVJMnizyI7KRrr"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 104639,
-      "name": "Night Walker",
-      "url": "https://open.spotify.com/track/096AxQyQpnjOlg7e2Sk46o"
+      "duration_ms": 118750,
+      "name": "Dawn Breaks",
+      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1187,6 +1167,26 @@
       "duration_ms": 178536,
       "name": "Entering the Golden Gai",
       "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
+        "name": "Night Walker",
+        "url": "https://open.spotify.com/album/2H8WZVplobgteQtt8s9lps"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "Route 9",
+          "url": "https://open.spotify.com/artist/4d9PrgcVGVJMnizyI7KRrr"
+        }
+      ],
+      "duration_ms": 104639,
+      "name": "Night Walker",
+      "url": "https://open.spotify.com/track/096AxQyQpnjOlg7e2Sk46o"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
+        "name": "Points of light",
+        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Points of light",
+      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
         "name": "Yoake",
         "url": "https://open.spotify.com/album/2wjpLzZQ4tRLhHHcX1Nwuc"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Points of light",
-        "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Points of light",
-      "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
         "name": "Resynthesis (Yellow)",
         "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
       },
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Train Smoke",
-        "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
+        "name": "Morning Breakfast Vol.1",
+        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
       },
       "artists": [
         {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
         }
       ],
-      "duration_ms": 136059,
-      "name": "Train Smoke",
-      "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
+      "duration_ms": 228030,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Morning Breakfast Vol.1",
-        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
+        "name": "Train Smoke",
+        "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
       },
       "artists": [
         {
-          "name": "Morning Breakfast",
-          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
-        },
-        {
-          "name": "Gold Digga",
-          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
         }
       ],
-      "duration_ms": 228030,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
+      "duration_ms": 136059,
+      "name": "Train Smoke",
+      "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
         "name": "Barefoot",
         "url": "https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj"
       },
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "The Black Cat",
-        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
       "artists": [
         {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
         }
       ],
-      "duration_ms": 112421,
-      "name": "The Black Cat",
-      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "chill oil",
-        "url": "https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6"
+        "name": "The Black Cat",
+        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "Jr.TEA",
-          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
         }
       ],
-      "duration_ms": 155454,
-      "name": "chill oil",
-      "url": "https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR"
+      "duration_ms": 112421,
+      "name": "The Black Cat",
+      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1559,6 +1559,26 @@
       "duration_ms": 135000,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
+        "name": "chill oil",
+        "url": "https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "Jr.TEA",
+          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "chill oil",
+      "url": "https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1599,22 +1619,18 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Light Breeze EP",
-        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
       },
       "artists": [
         {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1631,22 +1647,6 @@
       "duration_ms": 45690,
       "name": "Beat Diary 917",
       "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
-        "name": "Awesome City",
-        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
-      },
-      "artists": [
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Awesome City",
-      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
+        "name": "Mount Fuji",
+        "url": "https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kanzas-City",
+          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Mount Fuji",
+      "url": "https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
         "name": "Expanse",
         "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
       },
@@ -1695,6 +1715,22 @@
       "duration_ms": 182093,
       "name": "Expanse",
       "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
+    },
+    {
+      "added_at": "2026-04-27 05:54:23",
+      "album": {
+        "name": "\u85e4\u6ca2 2021",
+        "url": "https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV"
+      },
+      "artists": [
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "\u30aa\u30c0\u30a4\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E"
     },
     {
       "added_at": "2026-04-27 05:54:23",
@@ -1735,42 +1771,6 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "\u85e4\u6ca2 2021",
-        "url": "https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV"
-      },
-      "artists": [
-        {
-          "name": "Dengaryu",
-          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "\u30aa\u30c0\u30a4\u30b8\u30f3",
-      "url": "https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
-        "name": "Mount Fuji",
-        "url": "https://open.spotify.com/album/0kmNeXn4fh3A3ouDjbUtxY"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        },
-        {
-          "name": "Kanzas-City",
-          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Mount Fuji",
-      "url": "https://open.spotify.com/track/40Kp4LnywFA2CrWy2Xt3K2"
-    },
-    {
-      "added_at": "2026-04-27 05:54:23",
-      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
@@ -1803,22 +1803,22 @@
     {
       "added_at": "2026-04-27 05:54:23",
       "album": {
-        "name": "Warp Haze",
-        "url": "https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef"
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
       },
       "artists": [
         {
-          "name": "Ill Sugi",
-          "url": "https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c"
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
         },
         {
-          "name": "BudaMunk",
-          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
+          "name": "AYG",
+          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
         }
       ],
-      "duration_ms": 127854,
-      "name": "Pretty Shadows",
-      "url": "https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW"
+      "duration_ms": 160500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
     },
     {
       "added_at": "2026-04-27 05:54:23",

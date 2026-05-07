@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring Aki Oke. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring From Dave. Curated by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 108945,
       "name": "BD Baile",
       "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
@@ -10328,7 +10328,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
@@ -16931,6 +16931,24 @@
     },
     {
       "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6X67XDQZ73sIVdZqXu84Jq"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168784,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/3tkNHEBilPeEv7n9nEN8Fc"
+    },
+    {
+      "album": {
         "name": "Drippin",
         "url": "https://open.spotify.com/album/5K0Oku4z41RcdUTselYQIl"
       },
@@ -22398,6 +22416,24 @@
       "duration_ms": 207766,
       "name": "Friends",
       "url": "https://open.spotify.com/track/796EZkBHSWQBMvcTTm72GL"
+    },
+    {
+      "album": {
+        "name": "turbine / frog",
+        "url": "https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz"
+      },
+      "artists": [
+        {
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154167,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
     },
     {
       "album": {
@@ -31137,6 +31173,24 @@
     },
     {
       "album": {
+        "name": "It's All About The Music",
+        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157058,
+      "name": "It's All About The Music",
+      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
+    },
+    {
+      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/7gyQR9uvmABzrXLULQWSH0"
       },
@@ -31838,7 +31892,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 150857,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
@@ -36240,7 +36294,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 218940,
       "name": "Made Me",
       "url": "https://open.spotify.com/track/3N8CZd85wtAaTnhnYtj1kx"
@@ -43775,6 +43829,24 @@
     },
     {
       "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/18oSGmGT7pEorfE60MAy0C"
+      },
+      "artists": [
+        {
+          "name": "Mason Cooper",
+          "url": "https://open.spotify.com/artist/5QQLWtM5l0Qd9A9jwL4jvl"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/4A7TaqIvzVk5PAuBG5gH9A"
+    },
+    {
+      "album": {
         "name": "Out Cold!",
         "url": "https://open.spotify.com/album/6jdrdawyUSmMGMSMyLVQsa"
       },
@@ -46865,6 +46937,24 @@
     },
     {
       "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/2gd4uwQqAh8ptmGo8sVK5p"
+      },
+      "artists": [
+        {
+          "name": "RDL.wav",
+          "url": "https://open.spotify.com/artist/1t0p4O6zk4K1YFqlblfWiC"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377000,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/4d0EQg1pramdmWPKcIaGWh"
+    },
+    {
+      "album": {
         "name": "WORK!",
         "url": "https://open.spotify.com/album/0h1Zxsb0Hoh5CjRERF4HUM"
       },
@@ -49352,6 +49442,24 @@
       "duration_ms": 204379,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/22upypnJH4Qj7Ggz9Mz31U"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/7hLMEAepxj1rQdyVb68QGz"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186617,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3flcGGIKUaK1M2ps72ykcl"
     },
     {
       "album": {
@@ -55364,7 +55472,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 166993,
       "name": "Tacat\u00e1",
       "url": "https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly"
@@ -60984,7 +61092,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 227527,
       "name": "Universe",
       "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"

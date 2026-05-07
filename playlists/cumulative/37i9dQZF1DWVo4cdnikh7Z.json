@@ -3665,6 +3665,32 @@
     },
     {
       "album": {
+        "name": "Amma Amma Dhaan (From \"Nooru Sami\")",
+        "url": "https://open.spotify.com/album/4tcaL5S5zTzXfkNgfSeYkL"
+      },
+      "artists": [
+        {
+          "name": "Balaji Sriram",
+          "url": "https://open.spotify.com/artist/6JIQcVN9fMsUg1rLcrNUYt"
+        },
+        {
+          "name": "Sreekanth Hariharan",
+          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237882,
+      "name": "Amma Amma Dhaan - From \"Nooru Sami\"",
+      "url": "https://open.spotify.com/track/2EvEcvLgZ7Wi3w1msoIY2Y"
+    },
+    {
+      "album": {
         "name": "Kombuseevi",
         "url": "https://open.spotify.com/album/4qjkdfjxpnMnTIhjdmDYwp"
       },
@@ -53442,7 +53468,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 221098,
       "name": "Unnai Ninaithu",
       "url": "https://open.spotify.com/track/1m4eyEhA1nU2g1ylSlAvfe"

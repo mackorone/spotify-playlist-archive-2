@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132702,
+  "num_followers": 132695,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-04-30 21:00:27",
       "album": {
-        "name": "Perhonen",
-        "url": "https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 218965,
-      "name": "Perhonen",
-      "url": "https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz"
-    },
-    {
-      "added_at": "2026-04-30 21:00:27",
-      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 184000,
       "name": "Everest",
       "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
+    },
+    {
+      "added_at": "2026-04-30 21:00:27",
+      "album": {
+        "name": "Perhonen",
+        "url": "https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Perhonen",
+      "url": "https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz"
     },
     {
       "added_at": "2026-04-30 21:00:27",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-04-30 21:00:27",
       "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
+    },
+    {
+      "added_at": "2026-04-30 21:00:27",
+      "album": {
         "name": "No Haav No Love",
         "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 209941,
       "name": "Ulkopuolinen (feat. ibe)",
       "url": "https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96"
-    },
-    {
-      "added_at": "2026-04-30 21:00:27",
-      "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-04-30 21:00:27",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-30 21:00:27",
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-04-30 21:00:27",
-      "album": {
         "name": "Jokaisen hymyn takana",
         "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188893,
       "name": "Jokaisen hymyn takana",
       "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
+    },
+    {
+      "added_at": "2026-04-30 21:00:27",
+      "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
     },
     {
       "added_at": "2026-04-30 21:00:27",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-04-30 21:00:27",
       "album": {
-        "name": "Tulihevonen",
-        "url": "https://open.spotify.com/album/0KjxJ16ydhZ9gFl1umT1QE"
-      },
-      "artists": [
-        {
-          "name": "Juha Tapio",
-          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
-        },
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Puoliksi sun (feat. VIIVI)",
-      "url": "https://open.spotify.com/track/7MjsUe5VJfa42zqEZ0DE3J"
-    },
-    {
-      "added_at": "2026-04-30 21:00:27",
-      "album": {
         "name": "Entiseen el\u00e4m\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 198409,
       "name": "Solmui",
       "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
+    },
+    {
+      "added_at": "2026-04-30 21:00:27",
+      "album": {
+        "name": "Tulihevonen",
+        "url": "https://open.spotify.com/album/0KjxJ16ydhZ9gFl1umT1QE"
+      },
+      "artists": [
+        {
+          "name": "Juha Tapio",
+          "url": "https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM"
+        },
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Puoliksi sun (feat. VIIVI)",
+      "url": "https://open.spotify.com/track/7MjsUe5VJfa42zqEZ0DE3J"
     },
     {
       "added_at": "2026-04-30 21:00:27",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-04-30 21:00:27",
       "album": {
+        "name": "Hullu nainen",
+        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Hullu nainen",
+      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-04-30 21:00:27",
+      "album": {
         "name": "Mun mestoi",
         "url": "https://open.spotify.com/album/2D3SYswLZHpgTDq7qaZCWQ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 171124,
       "name": "Mun mestoi",
       "url": "https://open.spotify.com/track/3lIX8HJBQv8uc5F7QUeCPo"
-    },
-    {
-      "added_at": "2026-04-30 21:00:27",
-      "album": {
-        "name": "Hullu nainen",
-        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Hullu nainen",
-      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
     },
     {
       "added_at": "2026-04-30 21:00:27",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-04-30 21:00:27",
       "album": {
-        "name": "Oots\u00e4 n\u00e4hny mua?",
-        "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
-      },
-      "artists": [
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        }
-      ],
-      "duration_ms": 165085,
-      "name": "Kauniita lupauksii",
-      "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
-    },
-    {
-      "added_at": "2026-04-30 21:00:27",
-      "album": {
         "name": "Teatterii",
         "url": "https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 159255,
       "name": "Teatterii",
       "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
+    },
+    {
+      "added_at": "2026-04-30 21:00:27",
+      "album": {
+        "name": "Oots\u00e4 n\u00e4hny mua?",
+        "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
+      },
+      "artists": [
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        }
+      ],
+      "duration_ms": 165085,
+      "name": "Kauniita lupauksii",
+      "url": "https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP"
     },
     {
       "added_at": "2026-04-30 21:00:27",

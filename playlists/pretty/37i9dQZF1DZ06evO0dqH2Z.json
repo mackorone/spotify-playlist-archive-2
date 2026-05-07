@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4683,
+  "num_followers": 4684,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADs9rYIz7NGty/JI8vpxfXX",
+  "snapshot_id": "afkzAAAAAABDaajb8gJRr35FOWYgpRT0",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
       "duration_ms": 153589,
       "name": "Commit",
       "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 102186,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

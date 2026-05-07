@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 119172,
       "name": "#i\u015fbirli\u011fi",
       "url": "https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 197242,
       "name": "9mm",
       "url": "https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh"
@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Karizma",
+        "url": "https://open.spotify.com/album/7yPWyBHh1bPfwtiNKTa9FG"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231866,
+      "name": "Ad\u0131 \u0130ntikamd\u0131",
+      "url": "https://open.spotify.com/track/1grkLF2HjCaj3ML8eQqd5G"
+    },
+    {
+      "album": {
         "name": "Ad\u0131 Yok",
         "url": "https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI"
       },
@@ -942,6 +960,24 @@
       "duration_ms": 312267,
       "name": "Ad\u0131m\u0131 Kalbine Yaz",
       "url": "https://open.spotify.com/track/4gXX2ayvtMf4Tc5DCSHFTH"
+    },
+    {
+      "album": {
+        "name": "Afedersin",
+        "url": "https://open.spotify.com/album/21w61liVLiVknFGkg4c2E7"
+      },
+      "artists": [
+        {
+          "name": "Lark2020",
+          "url": "https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160327,
+      "name": "Afedersin",
+      "url": "https://open.spotify.com/track/2kKMrqXZCGXjvHTi3GmhWn"
     },
     {
       "album": {
@@ -5856,7 +5892,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 268515,
       "name": "Bu A\u015fk Fazla Sana",
       "url": "https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA"
@@ -19050,7 +19086,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 152207,
       "name": "Me\u011ferse",
       "url": "https://open.spotify.com/track/5YWSiU0ouDolW864L6HDJh"
@@ -21238,7 +21274,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 132468,
       "name": "PARE PARE",
       "url": "https://open.spotify.com/track/4vCsCrXmOdfyfdDUq550KY"
@@ -23684,7 +23720,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 224107,
       "name": "Sende Kalm\u0131\u015f",
       "url": "https://open.spotify.com/track/28xHWi9g6Rt4C0eGaf6Wvu"
@@ -24860,7 +24896,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 116250,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/3931TjhYLiINn49kKUvT1F"
@@ -27308,7 +27344,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 195800,
       "name": "Yanar\u0131m",
       "url": "https://open.spotify.com/track/69dbmLAqR6BTHOvMpZ7XK3"

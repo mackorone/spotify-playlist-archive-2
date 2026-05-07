@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 219200,
       "name": "BK4DA2624804",
       "url": "https://open.spotify.com/track/5A2XuhLbc1ND9ZGKWu3ECz"
@@ -2736,6 +2736,24 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
+    },
+    {
+      "album": {
+        "name": "En el Puerto",
+        "url": "https://open.spotify.com/album/0mbFMcXCLyJNieSTaT2sM4"
+      },
+      "artists": [
+        {
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156297,
+      "name": "En el Puerto",
+      "url": "https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ"
     },
     {
       "album": {

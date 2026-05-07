@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Angine de Poitrine
 
-2,018 songs - 4 day 21 hr 21 min
+2,020 songs - 4 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-23 | 2023-03-31 |
 | [Black Tuesday](https://open.spotify.com/track/5VBp2Lwui2pQ09NoEpQQf2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Black Tuesday](https://open.spotify.com/album/1ldgcoD5YK1PIfZ3lUaHHe) | 1:32 | 2023-11-30 | 2023-12-08 |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 | 2025-04-12 |
-| [Blackout](https://open.spotify.com/track/37aKSDoS7Sk2E7t158x9Ru) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Blackout](https://open.spotify.com/album/0deZxYvag6SVVVHYTIcRyN) | 2:41 | 2026-03-12 |  |
+| [Blackout](https://open.spotify.com/track/37aKSDoS7Sk2E7t158x9Ru) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Blackout](https://open.spotify.com/album/0deZxYvag6SVVVHYTIcRyN) | 2:41 | 2026-03-12 | 2026-05-07 |
 | [Blame](https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Blame](https://open.spotify.com/album/0JV96dnVLdhJB91ciuoeVg) | 3:37 | 2023-10-12 | 2023-10-20 |
 | [blame \(feat\. Valley\)](https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Maine \(deluxe\)](https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q) | 3:10 | 2024-01-11 | 2024-01-26 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-09-21 | 2023-12-22 |
@@ -869,6 +869,7 @@
 | [I'm The Man](https://open.spotify.com/track/1PAg9GImCAvBOEDfwJ5q6S) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [I'm The Man](https://open.spotify.com/album/2X5cSIk8D9n7iwKcRVQ61e) | 4:01 | 2023-07-06 | 2023-07-14 |
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-10-31 | 2024-12-11 |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-20 | 2024-08-21 |
+| [Icarus](https://open.spotify.com/track/3WKgc30jlMOs6iJB7rOPpZ) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Icarus](https://open.spotify.com/album/3QjSKOqpzIVjUbBNYLiwde) | 3:27 | 2026-04-30 |  |
 | [IDGAF](https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [IDGAF](https://open.spotify.com/album/78BenUPiBj9XK93B1PO7pt) | 2:22 | 2023-11-23 | 2023-12-01 |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-06 | 2025-04-04 |
 | [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 | 2026-01-15 | 2026-02-13 |
@@ -1340,6 +1341,7 @@
 | [Phenomenon](https://open.spotify.com/track/2ZN4AFKNAVMF9uZvoNqT5P) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Phenomenon](https://open.spotify.com/album/7uNEKwmGQxFGs64koK0Ogj) | 4:50 | 2024-12-12 | 2024-12-20 |
 | [Photographs \- Bonus Track Dive](https://open.spotify.com/track/5QxxeK7ktsZ1xQImL91moM) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Photographs \(Bonus Track Dive\)](https://open.spotify.com/album/23lrMiB6nwTczpEoyLTXO1) | 3:28 | 2023-12-21 | 2024-01-05 |
 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 | 2024-01-04 | 2024-01-12 |
+| [Picking Dragons' Pockets](https://open.spotify.com/track/2k1VofAVg8rdoXSG7p0oWW) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Picking Dragons' Pockets](https://open.spotify.com/album/1EEP38WU5pdKHHIBjFwQwe) | 4:36 | 2026-04-30 |  |
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2023-07-06 | 2023-07-21 |
 | [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 | 2025-05-01 | 2025-05-20 |
 | [Pink Flags](https://open.spotify.com/track/1wT3E655qZhcvrgx0MyXex) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Apxllo](https://open.spotify.com/album/0BAVls39bqAOUKu905F02T) | 3:40 | 2026-01-15 | 2026-03-06 |
@@ -1994,7 +1996,7 @@
 | [Zero Sum](https://open.spotify.com/track/6bjpmghStgfcmTsqsG6Yb6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Foreign Spies / Zero Sum](https://open.spotify.com/album/61qHOXEBFrlwPIWts51B4p) | 2:47 | 2024-08-29 | 2024-10-19 |
 | [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 | 2023-10-26 | 2023-11-03 |
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-29 | 2026-03-13 |
-| [Zombie](https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Zombie](https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8) | 3:59 | 2026-01-15 |  |
+| [Zombie](https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Zombie](https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8) | 3:59 | 2026-01-15 | 2026-05-07 |
 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 | 2025-05-16 | 2025-11-01 |
 | [Zombie Nation \- feat\. Suggs](https://open.spotify.com/track/6BMTBxXUtNLUe97uTtRi1n) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC) | [Zombie Nation \(feat\. Suggs\)](https://open.spotify.com/album/1z7swbmeQe8bYqQPm8Uycv) | 3:16 | 2024-02-29 | 2024-04-05 |
 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 | 2024-05-16 | 2024-05-24 |

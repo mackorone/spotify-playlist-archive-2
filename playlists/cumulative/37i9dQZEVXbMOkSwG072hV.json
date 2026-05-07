@@ -29555,6 +29555,24 @@
     },
     {
       "album": {
+        "name": "Eu t\u00f4 tentando o meu melhor",
+        "url": "https://open.spotify.com/album/0zbxJ6UYtM3w74fp45pbk7"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Eu t\u00f4 tentando o meu melhor",
+      "url": "https://open.spotify.com/track/5wO2tEb5IxP9eJQPLElNSo"
+    },
+    {
+      "album": {
         "name": "Eu Vou Bater Tambor",
         "url": "https://open.spotify.com/album/65jm5rQ8LqqMKYnGb0bMD0"
       },
@@ -38470,7 +38488,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 303528,
       "name": "I Feel So Free",
       "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
@@ -51116,7 +51134,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 190000,
       "name": "MEU MELHOR",
       "url": "https://open.spotify.com/track/1gefJCgNAxwALrruvBZIEG"
@@ -60518,7 +60536,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 221720,
       "name": "O peso do Silencio",
       "url": "https://open.spotify.com/track/76mQzP8vH5vRPcvIXPRXmD"
@@ -78229,7 +78247,7 @@
     },
     {
       "album": {
-        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
       "artists": [
@@ -78244,9 +78262,9 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 214945,
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
     {
@@ -95694,7 +95712,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 125004,
       "name": "Yuzak \u00e9 Muito Sagaz",
       "url": "https://open.spotify.com/track/2AylrT7tcYdqnsmOAdmWJN"

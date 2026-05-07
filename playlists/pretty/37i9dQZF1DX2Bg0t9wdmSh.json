@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 16557,
+  "num_followers": 16560,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -119,34 +119,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        },
-        {
-          "name": "Loon",
-          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
-        },
-        {
-          "name": "Mario Winans",
-          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
-      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Back In Blood (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5"
       },
@@ -179,6 +151,34 @@
       "duration_ms": 155168,
       "name": "Said Sum",
       "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "Mario Winans",
+          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
+        }
+      ],
+      "duration_ms": 285586,
+      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
+      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Raydiation",
+        "url": "https://open.spotify.com/album/6N5YwyGWm8gWuBCecfnEps"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        }
+      ],
+      "duration_ms": 337640,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/5qrzhg9Fmu8Amg2uMhHfe5"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "You\u2019re Mines Still (feat. Drake)",
         "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 226220,
       "name": "You\u2019re Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Raydiation",
-        "url": "https://open.spotify.com/album/6N5YwyGWm8gWuBCecfnEps"
-      },
-      "artists": [
-        {
-          "name": "Ray J",
-          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
-        }
-      ],
-      "duration_ms": 337640,
-      "name": "One Wish",
-      "url": "https://open.spotify.com/track/5qrzhg9Fmu8Amg2uMhHfe5"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

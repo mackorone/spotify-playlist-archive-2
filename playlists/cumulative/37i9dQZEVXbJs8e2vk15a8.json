@@ -6808,7 +6808,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 181424,
       "name": "Ay Ay Ay",
       "url": "https://open.spotify.com/track/5XI7KiPx9gsgG0QkWlwUfz"
@@ -8912,7 +8912,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -26124,7 +26124,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 391268,
       "name": "Fabienk",
       "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
@@ -34131,6 +34131,24 @@
     },
     {
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -34966,7 +34984,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -45350,6 +45368,24 @@
       "duration_ms": 138204,
       "name": "medellin",
       "url": "https://open.spotify.com/track/2u1OHEo8MZgKRNgdLJHORo"
+    },
+    {
+      "album": {
+        "name": "Medellin",
+        "url": "https://open.spotify.com/album/1CuycyavIkdpL0dMqIiX9X"
+      },
+      "artists": [
+        {
+          "name": "Luxxie",
+          "url": "https://open.spotify.com/artist/1msu0bt4ZQsKy7VMS7mX7q"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138274,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/1pjkaReoHh5bS9AwwFHYbW"
     },
     {
       "album": {

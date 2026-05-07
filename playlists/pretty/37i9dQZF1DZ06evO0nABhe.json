@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 12017,
+  "num_followers": 12021,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADUfsrZmoAwtXxzh5cNAxcC",
+  "snapshot_id": "afkzAAAAAABF9GfwmBka22kU7Vm8Qhxc",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 193571,
-      "name": "3 am",
-      "url": "https://open.spotify.com/track/53QgcXBbWGgLIo1JQyphKV"
+      "duration_ms": 207625,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
+      "duration_ms": 193571,
+      "name": "3 am",
+      "url": "https://open.spotify.com/track/53QgcXBbWGgLIo1JQyphKV"
     },
     {
       "added_at": null,

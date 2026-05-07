@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2026 (previous playlists archived on my profile)",
-  "num_followers": 24309,
+  "num_followers": 24317,
   "original_name": "life is sweet",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOSs3CgkiXr01ldk8oTx+8SebRZZOA",
+  "snapshot_id": "AAAOTrN1xv/YSQ/PwnYiMJXx43iZguJ4",
   "tracks": [
     {
       "added_at": "2026-05-05 17:12:50",
@@ -231,6 +231,54 @@
       "duration_ms": 250533,
       "name": "Supermarket Blues",
       "url": "https://open.spotify.com/track/0ShILYEuj2JA4Zx31gAhd0"
+    },
+    {
+      "added_at": "2026-05-06 18:37:50",
+      "album": {
+        "name": "Impasse (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K"
+      },
+      "artists": [
+        {
+          "name": "Richard Buckner",
+          "url": "https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Born Into Giving It Up,",
+      "url": "https://open.spotify.com/track/4HN4AxTzZNlUQlTwyVZp3c"
+    },
+    {
+      "added_at": "2026-05-06 19:56:48",
+      "album": {
+        "name": "Impasse (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K"
+      },
+      "artists": [
+        {
+          "name": "Richard Buckner",
+          "url": "https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "Hoping Wishers Never Lose,",
+      "url": "https://open.spotify.com/track/5l7ohQ54kKEOWP8l4wDL1V"
+    },
+    {
+      "added_at": "2026-05-06 18:45:12",
+      "album": {
+        "name": "Impasse (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K"
+      },
+      "artists": [
+        {
+          "name": "Richard Buckner",
+          "url": "https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "(Loaded @ the Wrong Door,",
+      "url": "https://open.spotify.com/track/0xhY3TJLJTTJX9zoaV88rh"
     }
   ],
   "unique_name": "life is sweet",

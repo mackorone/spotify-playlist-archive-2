@@ -1,6 +1,6 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 27905,
+  "num_followers": 27950,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-04-27 05:50:22",
       "album": {
-        "name": "Chess Flow",
-        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
+        "name": "Consider The Flowers",
+        "url": "https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy"
       },
       "artists": [
         {
-          "name": "Slowmo Friends",
-          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+          "name": "Iam6teen",
+          "url": "https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3"
         }
       ],
-      "duration_ms": 140651,
-      "name": "Chess Flow",
-      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
+      "duration_ms": 144516,
+      "name": "June",
+      "url": "https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62"
     },
     {
       "added_at": "2026-04-27 05:50:22",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-04-27 05:50:22",
       "album": {
-        "name": "Consider The Flowers",
-        "url": "https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy"
+        "name": "Chess Flow",
+        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
       },
       "artists": [
         {
-          "name": "Iam6teen",
-          "url": "https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3"
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
         }
       ],
-      "duration_ms": 144516,
-      "name": "June",
-      "url": "https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62"
+      "duration_ms": 140651,
+      "name": "Chess Flow",
+      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
     },
     {
       "added_at": "2026-04-27 05:50:22",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-04-27 05:50:22",
       "album": {
-        "name": "Recollection (Cosmicosmo Remix)",
-        "url": "https://open.spotify.com/album/0FzYNZlsKsBiWjWF6HnCrD"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        },
-        {
-          "name": "Cosmicosmo",
-          "url": "https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v"
-        }
-      ],
-      "duration_ms": 165568,
-      "name": "Recollection (Cosmicosmo Remix)",
-      "url": "https://open.spotify.com/track/2lK6kQsVSnZGACRr8ZJ1MK"
-    },
-    {
-      "added_at": "2026-04-27 05:50:22",
-      "album": {
         "name": "\u8ff7\u3044\u306e\u68ee",
         "url": "https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 326000,
       "name": "\u8ff7\u3044\u306e\u68ee",
       "url": "https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn"
+    },
+    {
+      "added_at": "2026-04-27 05:50:22",
+      "album": {
+        "name": "Recollection (Cosmicosmo Remix)",
+        "url": "https://open.spotify.com/album/0FzYNZlsKsBiWjWF6HnCrD"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Cosmicosmo",
+          "url": "https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v"
+        }
+      ],
+      "duration_ms": 165568,
+      "name": "Recollection (Cosmicosmo Remix)",
+      "url": "https://open.spotify.com/track/2lK6kQsVSnZGACRr8ZJ1MK"
     }
   ],
   "unique_name": "Fujiyama Beats",

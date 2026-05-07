@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADcR4xES9K5ayK8UJ2t8G1k",
+  "snapshot_id": "afkzAAAAAAAJi7qqGqOyZ4Ij1tPaBEde",
   "tracks": [
     {
       "added_at": null,
@@ -584,8 +584,8 @@
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
           "name": "John Rutter",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
-      "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
+      "duration_ms": 228000,
+      "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/04i7RcVg5iYUvLqwl9Ochx"
     },
     {
       "added_at": null,
@@ -680,8 +680,8 @@
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
           "name": "John Rutter",
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
-      "url": "https://open.spotify.com/track/04i7RcVg5iYUvLqwl9Ochx"
+      "duration_ms": 253920,
+      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
+        "name": "O Praise the Lord of Heaven",
+        "url": "https://open.spotify.com/album/38RUFzsBXmE6PtkEm1hS3Q"
       },
       "artists": [
         {
@@ -816,17 +816,17 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
         },
         {
-          "name": "Sinfonia Cymru",
-          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Suite Lyrique: 3. Aria",
-      "url": "https://open.spotify.com/track/3KRDwlKG15vjkDk7sah5HX"
+      "duration_ms": 186373,
+      "name": "The Peace of God",
+      "url": "https://open.spotify.com/track/18anoHiEknIEcN7KYydspy"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Praise the Lord of Heaven",
-        "url": "https://open.spotify.com/album/38RUFzsBXmE6PtkEm1hS3Q"
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
       },
       "artists": [
         {
@@ -900,17 +900,17 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
         },
         {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+          "name": "Sinfonia Cymru",
+          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
         }
       ],
-      "duration_ms": 186373,
-      "name": "The Peace of God",
-      "url": "https://open.spotify.com/track/18anoHiEknIEcN7KYydspy"
+      "duration_ms": 197080,
+      "name": "Suite Lyrique: 3. Aria",
+      "url": "https://open.spotify.com/track/3KRDwlKG15vjkDk7sah5HX"
     },
     {
       "added_at": null,
@@ -1095,30 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sacred Flame",
-        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "Crux fidelis",
-      "url": "https://open.spotify.com/track/2CnQOlh3axc0kAjsE5YHbS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lighten Our Darkness: Music for the Close of Day",
         "url": "https://open.spotify.com/album/6dALfMS0ArNVfD18UeE6Cq"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 151280,
       "name": "Te lucis ante terminum",
       "url": "https://open.spotify.com/track/4AHGCDPvKwId8TTjOZluZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "Crux fidelis",
+      "url": "https://open.spotify.com/track/2CnQOlh3axc0kAjsE5YHbS"
     },
     {
       "added_at": null,
@@ -1227,6 +1227,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+      },
+      "artists": [
+        {
+          "name": "Hans Leo Hassler",
+          "url": "https://open.spotify.com/artist/1MY3DApYz8LBPtlHbFF8YG"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "duration_ms": 140346,
+      "name": "Dixit Maria ad angelum",
+      "url": "https://open.spotify.com/track/0gi1O7vXaFgsvye644ewTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "John Rutter: Visions & Requiem",
         "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
       },
@@ -1251,30 +1275,6 @@
       "duration_ms": 310800,
       "name": "Requiem: VI. The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sacred Flame",
-        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
-      },
-      "artists": [
-        {
-          "name": "Hans Leo Hassler",
-          "url": "https://open.spotify.com/artist/1MY3DApYz8LBPtlHbFF8YG"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "duration_ms": 140346,
-      "name": "Dixit Maria ad angelum",
-      "url": "https://open.spotify.com/track/0gi1O7vXaFgsvye644ewTZ"
     }
   ],
   "unique_name": "This Is John Rutter",

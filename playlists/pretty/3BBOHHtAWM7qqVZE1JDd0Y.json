@@ -6,8 +6,60 @@
     "name": "kidnapkid",
     "url": "https://open.spotify.com/user/kidnapkid"
   },
-  "snapshot_id": "AAADLikHTVmtTR+yvZ4fc7f+bkAzAZEf",
+  "snapshot_id": "AAADNFEEMT3vSGfbIfZVYS05VnYuZ+Ap",
   "tracks": [
+    {
+      "added_at": "2026-05-06 08:38:14",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/112J7VVgxQIAD3uQwmgWUI"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 517258,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4x8mI1eF6GfHSXOqIMJ08T"
+    },
+    {
+      "added_at": "2026-05-06 08:38:55",
+      "album": {
+        "name": "Woven EP",
+        "url": "https://open.spotify.com/album/6VyyjhS5G442emks8nir75"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/4O9lWwDnugWrEfQWgsreEh"
+    },
+    {
+      "added_at": "2026-05-06 08:39:41",
+      "album": {
+        "name": "Something Lost, Something Gained",
+        "url": "https://open.spotify.com/album/6stWt9lb69bp9kBaLKC3TH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        },
+        {
+          "name": "Dwara",
+          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
+        }
+      ],
+      "duration_ms": 263214,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5jjkXEpdxNlwolhrBhlifk"
+    },
     {
       "added_at": "2024-04-12 10:47:48",
       "album": {

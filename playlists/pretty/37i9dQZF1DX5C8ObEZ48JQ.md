@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH?si=8Tf9hIrBSW\-FrG6f9oxfYA">Hoodboyz</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,688 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,691 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [FOMO](https://open.spotify.com/track/377eS1e6iGiDVqOXQbYVXN) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [FOMO](https://open.spotify.com/album/0v3H537LWodCKDdkFqBpek) | 2:57 |
 | 50 | [Sneaky Link](https://open.spotify.com/track/3YDt11AUb5rwwbrLcygGag) | [Brokuod](https://open.spotify.com/artist/6uYPGiuDI0H0SFB9FbJxHk) | [Sneaky Link](https://open.spotify.com/album/5cXKp2GlZYjrB1uzeU1JYA) | 3:00 |
 
-Snapshot ID: `AAAAAHmBn1524/Pse4Sc7qpcMDUKLDY0`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

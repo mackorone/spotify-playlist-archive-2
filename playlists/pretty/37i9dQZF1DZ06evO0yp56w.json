@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 834832,
+  "num_followers": 834886,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAACnuaUd5ZmbdmUVb34Wr4c5",
+  "snapshot_id": "afkzAAAAAAAcoqYdNs0/gtYdp5K4foxO",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 302505,
-      "name": "Butterflies & Hurricanes",
-      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
+      "duration_ms": 363266,
+      "name": "New Born",
+      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 363266,
-      "name": "New Born",
-      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
@@ -404,9 +388,25 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 295767,
-      "name": "Sing for Absolution",
-      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
+      "duration_ms": 302505,
+      "name": "Butterflies & Hurricanes",
+      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 251146,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
@@ -468,9 +452,25 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 38469,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
+      "duration_ms": 295767,
+      "name": "Sing for Absolution",
+      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 380760,
+      "name": "Space Dementia",
+      "url": "https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 380760,
-      "name": "Space Dementia",
-      "url": "https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7"
+      "duration_ms": 38469,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
     },
     {
       "added_at": null,

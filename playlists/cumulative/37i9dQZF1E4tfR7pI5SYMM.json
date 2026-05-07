@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, SCHANZ, Haneke Twins and more",
+  "description": "With SCHANZ, Haneke Twins, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -818,6 +818,24 @@
       "duration_ms": 213333,
       "name": "Blood - Radio Edit",
       "url": "https://open.spotify.com/track/2NTHjHIodalPbclcnN3uUi"
+    },
+    {
+      "album": {
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/1e93Bb4AxWx8Q60NiHQuWg"
+      },
+      "artists": [
+        {
+          "name": "Our Visit To The Moon",
+          "url": "https://open.spotify.com/artist/2NLJfhaEroXEPhuAIImKqM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/26lytjjBeBbODGdTNIK17q"
     },
     {
       "album": {
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 353686,
       "name": "Close Is Just Another Word for Nothing",
       "url": "https://open.spotify.com/track/0nqIdGCOuf09bI5OII97cE"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 243416,
       "name": "Cooperate",
       "url": "https://open.spotify.com/track/4reqRFMJOZ6RufNUzRPh22"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 230624,
       "name": "Es Mi Calma",
       "url": "https://open.spotify.com/track/6EN6e88k9JTTyshxyLZkRJ"
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 277200,
       "name": "Fight (Neo Tokio Chronicles Main Theme)",
       "url": "https://open.spotify.com/track/4LGDFArm0bZRDgNrQJRenX"
@@ -3496,6 +3514,24 @@
       "duration_ms": 244544,
       "name": "Gervi\u0173 gedulo giesm\u0117s",
       "url": "https://open.spotify.com/track/6uwjMIMIBwSqF07mhaYu3l"
+    },
+    {
+      "album": {
+        "name": "GT the EP",
+        "url": "https://open.spotify.com/album/1Akb0gurKeG5mwgUFrXuYE"
+      },
+      "artists": [
+        {
+          "name": "Pinned Comment",
+          "url": "https://open.spotify.com/artist/7qGO6E5AG3eiCwdeop9VpV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Gin N Tonic",
+      "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
     },
     {
       "album": {
@@ -4156,7 +4192,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 336125,
       "name": "I Rot",
       "url": "https://open.spotify.com/track/45ZUN6y6Xd6RXDovAnSTvG"
@@ -5242,7 +5278,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 357118,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/7h4Oi7QL4NSyD35ziTMcdD"
@@ -5523,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/6QzgAqxBTJbCI9mJ8p898D"
+      },
+      "artists": [
+        {
+          "name": "Hurtsfall",
+          "url": "https://open.spotify.com/artist/6Ch2oY1Pde5JPXULkJsfKu"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205995,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/6badLKUEBXzianEPXWXxSs"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7CjRGMD9sI1OQNJt4iVXTK"
       },
@@ -5596,7 +5650,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 228705,
       "name": "Midnight Static",
       "url": "https://open.spotify.com/track/3MSIhIH9UdowEDIqM5YiO8"
@@ -5766,7 +5820,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -5946,7 +6000,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 180250,
       "name": "Murci\u00e9lagos",
       "url": "https://open.spotify.com/track/7iHa188lPGmeEjffPgjUAR"
@@ -6076,7 +6130,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -6184,7 +6238,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -7202,7 +7256,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -7960,7 +8014,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -8446,7 +8500,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -8760,7 +8814,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 230823,
       "name": "Symphony In Minor",
       "url": "https://open.spotify.com/track/4HLGfdfrRgB4YntkFv4Cw0"
@@ -9674,7 +9728,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -10080,7 +10134,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 243972,
       "name": "Traitor",
       "url": "https://open.spotify.com/track/3cJOKprFvZUYXjJ4no3eoN"
@@ -11528,7 +11582,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 264578,
       "name": "\u043e \u043f\u043b\u043e\u0445\u043e\u043c",
       "url": "https://open.spotify.com/track/7arRjgmHGrJ65sYwzvbk96"

@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2026 des Francos de Montréal.
 
-656 songs - 1 day 12 hr 41 min
+657 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Penelope](https://open.spotify.com/track/1mAZTJqs348uZYYfmAmbyv) | [Blondes Naturelles](https://open.spotify.com/artist/10yfd9E6pNEIpYouUSS0vD) | [Penelope](https://open.spotify.com/album/5JEWDUwn6YWx2F54qGgwt5) | 2:59 | 2024-04-23 | 2025-04-30 |
 | [Penses\-tu rester encore?](https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm) | 2:58 | 2023-05-25 | 2024-04-04 |
 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 | 2022-05-25 | 2023-04-13 |
+| [Perdu d'avance](https://open.spotify.com/track/1nIFrtw6AHGSoVIdMABPYt) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl), [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Je ne t'aime plus](https://open.spotify.com/album/6yKbg6bRr8Aj3m4GzQwAhp) | 3:20 | 2026-05-06 |  |
 | [Petite fleur](https://open.spotify.com/track/2ofpkaYjXD16Lvyteh3QjW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 2:43 | 2024-04-23 | 2025-04-30 |
 | [Phantom](https://open.spotify.com/track/1CbMUAeDRWYCWZ7zbwPzvo) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Renaissance \(Act\. I\)](https://open.spotify.com/album/7hanmQmjHeM2wHiHODJwUT) | 2:48 | 2025-04-29 | 2026-04-29 |
 | [Piekuakami](https://open.spotify.com/track/2GDME8jsAE1dfxttXDHwgr) | [Soleil Launière](https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1) | [Taueu](https://open.spotify.com/album/4Nd9DJ1apGJMyAd3ItSRFf) | 3:46 | 2026-04-28 |  |

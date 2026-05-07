@@ -3655,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "Angels Above Me (Party Remix)",
+        "url": "https://open.spotify.com/album/7nB9Uajph26w2lEs6MXZPB"
+      },
+      "artists": [
+        {
+          "name": "Exclusive",
+          "url": "https://open.spotify.com/artist/2tRLnWdQO4Ytrh2KBzumHj"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316786,
+      "name": "Angels Above Me - Party Remix",
+      "url": "https://open.spotify.com/track/6ryn9HvMRHrsGKfujZqkDR"
+    },
+    {
+      "album": {
         "name": "Angels Above Me - Party Remix",
         "url": "https://open.spotify.com/album/5ORINSRHVTA3nMW2IodKUI"
       },
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 316720,
       "name": "Angels Above Me - Party Remix",
       "url": "https://open.spotify.com/track/2fWM5jtyb5SYYihnNVdInO"
@@ -5538,7 +5556,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -10492,7 +10510,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 136866,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/71JZWi2dka67SLVJE11R1u"
@@ -11334,7 +11352,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 180725,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
@@ -11352,7 +11370,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 129692,
       "name": "Choose me",
       "url": "https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6"
@@ -18121,6 +18139,24 @@
     },
     {
       "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/2aR8CBHDKTRZ82u74jbO4F"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/117e6ebJhoucK8Cz6wO2cD"
+    },
+    {
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -21264,10 +21300,28 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
       "album": {
@@ -29718,7 +29772,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 157316,
       "name": "KGB",
       "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
@@ -32322,7 +32376,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
@@ -39764,7 +39818,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 171428,
       "name": "No Fear Of Tomorrow",
       "url": "https://open.spotify.com/track/3Df0O9NrG9oE5BGLwQdhJe"
@@ -42004,6 +42058,32 @@
       "duration_ms": 216778,
       "name": "Papi",
       "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "album": {
+        "name": "Papi hat viel Geld",
+        "url": "https://open.spotify.com/album/4st2vuIo1Ukg6LJWht0zq8"
+      },
+      "artists": [
+        {
+          "name": "Blondee",
+          "url": "https://open.spotify.com/artist/6ymkSFIoNAvBkgokkzbUtC"
+        },
+        {
+          "name": "AlphaBeat",
+          "url": "https://open.spotify.com/artist/04o0rPPYzJOXWvOb2Z41Y9"
+        },
+        {
+          "name": "Bade154",
+          "url": "https://open.spotify.com/artist/1bIWj8oPgbgVULKwSrAa7Z"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175475,
+      "name": "Papi hat viel Geld",
+      "url": "https://open.spotify.com/track/67zWryVSV97U0lfKDr4PIB"
     },
     {
       "album": {
@@ -56784,7 +56864,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
@@ -56802,7 +56882,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 195631,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
@@ -57440,6 +57520,24 @@
       "duration_ms": 174861,
       "name": "Vielleicht Vielleicht Hardtekk - Slowed",
       "url": "https://open.spotify.com/track/6xzUYHBmga331ajTfZYhoo"
+    },
+    {
+      "album": {
+        "name": "VIKING VIBES",
+        "url": "https://open.spotify.com/album/1i3KXprQKqt2kt1dt7dGMl"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193199,
+      "name": "VIKING VIBES",
+      "url": "https://open.spotify.com/track/1WIFTtCl5UavOK32SNIU72"
     },
     {
       "album": {

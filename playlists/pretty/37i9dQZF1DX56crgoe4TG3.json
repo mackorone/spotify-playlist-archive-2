@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285324,
+  "num_followers": 285327,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
+        "name": "Red On Blonde",
+        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
       },
       "artists": [
         {
-          "name": "Micah Wagner",
-          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
+      "duration_ms": 242760,
+      "name": "Senor (Tales Of Yankee Power)",
+      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Red On Blonde",
-        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
       },
       "artists": [
         {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Senor (Tales Of Yankee Power)",
-      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Pickin' on the 90s",
         "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 198460,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+      },
+      "artists": [
+        {
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+        }
+      ],
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 333000,
       "name": "Pursuit of Happiness",
       "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Guess I'm Doing Fine",
-        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 280441,
-      "name": "Guess I'm Doing Fine",
-      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 243789,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 280441,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
     },
     {
       "added_at": "2026-02-04 05:00:53",

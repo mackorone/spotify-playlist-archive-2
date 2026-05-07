@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143621,
+  "num_followers": 143616,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "R\u00e9gate",
-        "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
+        "name": "Eldorado (Acoustique)",
+        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
       },
       "artists": [
         {
-          "name": "Mathieu David Gagnon",
-          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
         },
         {
-          "name": "Flore Laurentienne",
-          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
         }
       ],
-      "duration_ms": 284415,
-      "name": "R\u00e9gate",
-      "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
+      "duration_ms": 197749,
+      "name": "Eldorado - Acoustique",
+      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "R\u00e9gate",
+        "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
+      },
+      "artists": [
+        {
+          "name": "Mathieu David Gagnon",
+          "url": "https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR"
+        },
+        {
+          "name": "Flore Laurentienne",
+          "url": "https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv"
+        }
+      ],
+      "duration_ms": 284415,
+      "name": "R\u00e9gate",
+      "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Eldorado (Acoustique)",
-        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
-      },
-      "artists": [
-        {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        },
-        {
-          "name": "Katrine Sansregret",
-          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Eldorado - Acoustique",
-      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Les joailliers (piano, voix)",
         "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 170950,
       "name": "Le monarque des Indes",
       "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 232319,
-      "name": "Que ta lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1307,58 +1307,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "River Run (with Lila Dupont)",
-        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        },
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 205959,
-      "name": "River Run (with Lila Dupont)",
-      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Quel tourment !",
         "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
       },
@@ -1379,6 +1327,58 @@
       "duration_ms": 202821,
       "name": "Quel tourment !",
       "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "La lumi\u00e8re",
+        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 240485,
+      "name": "La lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "Cloudless Sky Of None",
+        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
+      },
+      "artists": [
+        {
+          "name": "Korovo",
+          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
+        }
+      ],
+      "duration_ms": 206574,
+      "name": "Cloudless Sky Of None",
+      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Those Years When Everything Changed",
         "url": "https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Cloudless Sky Of None",
-        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "Korovo",
-          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 206574,
-      "name": "Cloudless Sky Of None",
-      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1495,22 +1511,6 @@
       "duration_ms": 223663,
       "name": "Bras solaires",
       "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Crooked Lines",
-        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
-      },
-      "artists": [
-        {
-          "name": "Gaspard Eden",
-          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "A Brand New Color",
-      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Crooked Lines",
+        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Eden",
+          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "A Brand New Color",
+      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
-        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "S'il te pla\u00eet, fais-moi danser",
-      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "M\u00e8res",
         "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
+        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "S'il te pla\u00eet, fais-moi danser",
+      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
     },
     {
       "added_at": "2026-05-01 04:04:35",

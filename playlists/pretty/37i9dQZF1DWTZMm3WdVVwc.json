@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27393,
+  "num_followers": 27388,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "WINTER WITHOUT YOU",
-        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "WINTER WITHOUT YOU",
-      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "Tree",
@@ -395,6 +379,22 @@
       "duration_ms": 298040,
       "name": "\u708e\u3068\u68ee\u306e\u30ab\u30fc\u30cb\u30d0\u30eb",
       "url": "https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "bestie",
-        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 259903,
-      "name": "bestie",
-      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "come again",
@@ -919,6 +903,22 @@
       "duration_ms": 354433,
       "name": "come again",
       "url": "https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "bestie",
+        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 259903,
+      "name": "bestie",
+      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 255603,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u96ea\u306e\u83ef",
@@ -1135,6 +1119,22 @@
       "duration_ms": 341933,
       "name": "\u96ea\u306e\u83ef",
       "url": "https://open.spotify.com/track/0SI0Te2JQTMe05NEmNbje6"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
     },
     {
       "added_at": "2025-12-11 02:28:39",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/20taJ46r9l2wf3czHTgzLD"
     },
     {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm"
+      },
+      "artists": [
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "\u3075\u308c\u3042\u3046\u3060\u3051\u3067 \u301cAlways with you\u301c",
+      "url": "https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu"
+    },
+    {
       "added_at": "2025-12-24 00:34:11",
       "album": {
         "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm"
+        "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
       },
       "artists": [
         {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
         }
       ],
-      "duration_ms": 246840,
-      "name": "\u3075\u308c\u3042\u3046\u3060\u3051\u3067 \u301cAlways with you\u301c",
-      "url": "https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu"
+      "duration_ms": 241626,
+      "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
+      "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
       "added_at": "2025-12-16 15:00:32",
@@ -1531,22 +1547,6 @@
       "duration_ms": 274733,
       "name": "Winterboy",
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
-      },
-      "artists": [
-        {
-          "name": "Ikuko Harada",
-          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
-      "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
       "added_at": "2025-10-24 07:45:46",

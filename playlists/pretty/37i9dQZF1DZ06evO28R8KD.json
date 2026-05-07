@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAACBAVgFd2HhcmrY562YR1oA",
+  "snapshot_id": "afkzAAAAAADaPdfDrDvxVorJdfFltZMr",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 441533,
-      "name": "Synth 1",
-      "url": "https://open.spotify.com/track/3UEvagUTpKhD1BSSNHWkj9"
+      "duration_ms": 183346,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Tokyo 1",
-      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 183346,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
+      "duration_ms": 441533,
+      "name": "Synth 1",
+      "url": "https://open.spotify.com/track/3UEvagUTpKhD1BSSNHWkj9"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+      "duration_ms": 282000,
+      "name": "Tokyo 1",
+      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
     },
     {
       "added_at": null,

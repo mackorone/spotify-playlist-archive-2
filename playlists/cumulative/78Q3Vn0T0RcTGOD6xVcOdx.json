@@ -5233,6 +5233,24 @@
     },
     {
       "album": {
+        "name": "Written In The Starlight",
+        "url": "https://open.spotify.com/album/25rivZ9oVq31HBRNNLzraS"
+      },
+      "artists": [
+        {
+          "name": "ELYRIA",
+          "url": "https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278304,
+      "name": "Written In The Starlight",
+      "url": "https://open.spotify.com/track/3Ep7iNTQbnnCmkytwzDl2h"
+    },
+    {
+      "album": {
         "name": "Un poquito de Rock",
         "url": "https://open.spotify.com/album/1zIinmF7ye2fCTGs3l33Fo"
       },

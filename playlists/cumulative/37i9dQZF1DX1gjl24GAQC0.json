@@ -6516,7 +6516,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
@@ -14602,6 +14602,24 @@
       "duration_ms": 183293,
       "name": "We Go Up",
       "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
+    },
+    {
+      "album": {
+        "name": "WE WANNA GO (Original Soundtrack from WANNA ONE GO : Back to Base)",
+        "url": "https://open.spotify.com/album/0prJyGW02smdoNIKjA3xst"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "WE WANNA GO",
+      "url": "https://open.spotify.com/track/2babSeg3ovLuH45EEfqjI0"
     },
     {
       "album": {

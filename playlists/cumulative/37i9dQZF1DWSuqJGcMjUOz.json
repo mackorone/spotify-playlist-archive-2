@@ -9263,6 +9263,28 @@
     },
     {
       "album": {
+        "name": "Je ne t'aime plus",
+        "url": "https://open.spotify.com/album/6yKbg6bRr8Aj3m4GzQwAhp"
+      },
+      "artists": [
+        {
+          "name": "Junes",
+          "url": "https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl"
+        },
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200188,
+      "name": "Perdu d'avance",
+      "url": "https://open.spotify.com/track/1nIFrtw6AHGSoVIdMABPYt"
+    },
+    {
+      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
       },

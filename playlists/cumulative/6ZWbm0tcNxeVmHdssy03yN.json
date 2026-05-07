@@ -97967,6 +97967,28 @@
     },
     {
       "album": {
+        "name": "T.B.E. (The Best Ever)",
+        "url": "https://open.spotify.com/album/51mdGINK2d4AgvMjSspDvK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        },
+        {
+          "name": "DJ Pharris",
+          "url": "https://open.spotify.com/artist/3HGmrfO5u74WgnYN3wmfdQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239709,
+      "name": "T.B.E. (The Best Ever)",
+      "url": "https://open.spotify.com/track/64miCNDf3jhKTRg9kno30e"
+    },
+    {
+      "album": {
         "name": "tagu-taguan",
         "url": "https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x"
       },
@@ -98934,28 +98956,6 @@
       "duration_ms": 174925,
       "name": "Tayganomics",
       "url": "https://open.spotify.com/track/0epwxAEazbRPgH8oEpmaY3"
-    },
-    {
-      "album": {
-        "name": "TBE (The Best Ever)",
-        "url": "https://open.spotify.com/album/51mdGINK2d4AgvMjSspDvK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Bennett",
-          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
-        },
-        {
-          "name": "DJ Pharris",
-          "url": "https://open.spotify.com/artist/3HGmrfO5u74WgnYN3wmfdQ"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239709,
-      "name": "TBE (The Best Ever)",
-      "url": "https://open.spotify.com/track/64miCNDf3jhKTRg9kno30e"
     },
     {
       "album": {

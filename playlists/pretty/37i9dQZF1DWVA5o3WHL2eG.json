@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 48660,
+  "num_followers": 48935,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Miu Miu",
+        "url": "https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI"
+      },
+      "artists": [
+        {
+          "name": "AYCA",
+          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
+        }
+      ],
+      "duration_ms": 144546,
+      "name": "Miu Miu",
+      "url": "https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "HMDL",
         "url": "https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 144857,
       "name": "watch me",
       "url": "https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Miu Miu",
-        "url": "https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI"
-      },
-      "artists": [
-        {
-          "name": "AYCA",
-          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
-        }
-      ],
-      "duration_ms": 144546,
-      "name": "Miu Miu",
-      "url": "https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob"
-      },
-      "artists": [
-        {
-          "name": "Anna Reusch",
-          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "wenn du mich brauchst",
         "url": "https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob"
+      },
+      "artists": [
+        {
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "DEIN IDEAL",
         "url": "https://open.spotify.com/album/1hpxH9KEQYZaJx2Ot1iIjl"
       },
@@ -411,54 +411,6 @@
       "duration_ms": 118588,
       "name": "DEIN IDEAL",
       "url": "https://open.spotify.com/track/7xkNzxRpI90qjqFk77Zxx3"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Cowboy Mouth",
-        "url": "https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 209868,
-      "name": "Cowboy Mouth",
-      "url": "https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "EVERMIND",
-        "url": "https://open.spotify.com/album/0SghnQMcfzIWHReazVlTHT"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 147077,
-      "name": "Evermind Loner",
-      "url": "https://open.spotify.com/track/5GmfTLclKGNeZld0jaXNdh"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -479,6 +431,54 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "EVERMIND",
+        "url": "https://open.spotify.com/album/0SghnQMcfzIWHReazVlTHT"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 147077,
+      "name": "Evermind Loner",
+      "url": "https://open.spotify.com/track/5GmfTLclKGNeZld0jaXNdh"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "Cowboy Mouth",
+        "url": "https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 209868,
+      "name": "Cowboy Mouth",
+      "url": "https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "GEIL",
         "url": "https://open.spotify.com/album/48uGv2kWy9qhW3XAK22YFX"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 133814,
       "name": "GEIL",
       "url": "https://open.spotify.com/track/1nXPLmT3IeLvvMP96aLfJT"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "ARBAYT",
+        "url": "https://open.spotify.com/album/0ZeN8VhIW5kzodEzXisUAr"
+      },
+      "artists": [
+        {
+          "name": "Ebow",
+          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ARBAYT",
+      "url": "https://open.spotify.com/track/0roqmhAUbYD2OpX413OXN1"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -547,22 +563,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "ARBAYT",
-        "url": "https://open.spotify.com/album/0ZeN8VhIW5kzodEzXisUAr"
-      },
-      "artists": [
-        {
-          "name": "Ebow",
-          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ARBAYT",
-      "url": "https://open.spotify.com/track/0roqmhAUbYD2OpX413OXN1"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "SLAYBAE",
         "url": "https://open.spotify.com/album/08e6NGFmeuJKSqH3iMvunX"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "SOMEBODY WHO LOVES",
-        "url": "https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "ONE HEART",
-      "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 188560,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "SOMEBODY WHO LOVES",
+        "url": "https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "ONE HEART",
+      "url": "https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Also lass' ich es los",
+        "url": "https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP"
+      },
+      "artists": [
+        {
+          "name": "LILITH",
+          "url": "https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Also lass' ich es los",
+      "url": "https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "Femi(ni)cide",
         "url": "https://open.spotify.com/album/5FWZXDqvAQWzqIFY2xdQEc"
       },
@@ -659,6 +675,26 @@
       "duration_ms": 131384,
       "name": "Femi(ni)cide",
       "url": "https://open.spotify.com/track/70vKUWKhTH8l4rKyIN6kPA"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "Puta Madre",
+        "url": "https://open.spotify.com/album/1dIlVK2tTazG8gK6yggPSe"
+      },
+      "artists": [
+        {
+          "name": "sarah4k",
+          "url": "https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 120751,
+      "name": "Puta Madre",
+      "url": "https://open.spotify.com/track/6WaZdIWUE5L44Bk8p6ZdsF"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -691,42 +727,6 @@
       "duration_ms": 312727,
       "name": "Heartbroken",
       "url": "https://open.spotify.com/track/0WCWtP6EOpc9vjlJ6TCUq3"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Also lass' ich es los",
-        "url": "https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP"
-      },
-      "artists": [
-        {
-          "name": "LILITH",
-          "url": "https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Also lass' ich es los",
-      "url": "https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Puta Madre",
-        "url": "https://open.spotify.com/album/1dIlVK2tTazG8gK6yggPSe"
-      },
-      "artists": [
-        {
-          "name": "sarah4k",
-          "url": "https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 120751,
-      "name": "Puta Madre",
-      "url": "https://open.spotify.com/track/6WaZdIWUE5L44Bk8p6ZdsF"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Aisle 5 / Sandcastles",
-        "url": "https://open.spotify.com/album/5bDKvcGb6660veclIzG3aO"
-      },
-      "artists": [
-        {
-          "name": "Amilli",
-          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
-        }
-      ],
-      "duration_ms": 201039,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/3MA57OW9he0nct4IEFZmNT"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "Gehaltsvorstellung",
         "url": "https://open.spotify.com/album/5uxYiyVezVSwTuQBFJu33L"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "Christin Nichols",
-        "url": "https://open.spotify.com/album/07QmIL5D54fsjdN6KZ7tk7"
+        "name": "Aisle 5 / Sandcastles",
+        "url": "https://open.spotify.com/album/5bDKvcGb6660veclIzG3aO"
       },
       "artists": [
         {
-          "name": "Christin Nichols",
-          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
         }
       ],
-      "duration_ms": 259507,
-      "name": "Chelsea Boots",
-      "url": "https://open.spotify.com/track/07knU7vfi676BflQegJShP"
+      "duration_ms": 201039,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/3MA57OW9he0nct4IEFZmNT"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -843,6 +827,22 @@
       "duration_ms": 157232,
       "name": "Bl\u00f6dsinn",
       "url": "https://open.spotify.com/track/28Aroo8HPBCSTv4L6jQFtf"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "Christin Nichols",
+        "url": "https://open.spotify.com/album/07QmIL5D54fsjdN6KZ7tk7"
+      },
+      "artists": [
+        {
+          "name": "Christin Nichols",
+          "url": "https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0"
+        }
+      ],
+      "duration_ms": 259507,
+      "name": "Chelsea Boots",
+      "url": "https://open.spotify.com/track/07knU7vfi676BflQegJShP"
     },
     {
       "added_at": "2026-05-05 22:00:31",

@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-282 songs - 16 hr 8 min
+283 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2025-01-24 |  |
 | [Wings](https://open.spotify.com/track/3UJti8nyt8MTFH9xQ7OqkK) | [RoberWiz](https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ) | [Cosmic](https://open.spotify.com/album/4aI1xc6774wGCMx53RDuN8) | 2:28 | 2025-10-01 | 2026-04-06 |
 | [With You](https://open.spotify.com/track/4SzqXQLMKXrfLkVW9YuL5P) | [December Fades](https://open.spotify.com/artist/2HDGyFz7k2ZtvHMeWOlsdi) | [With You](https://open.spotify.com/album/0Syki6PjgkzdJwwwAHHEXs) | 3:16 | 2025-01-26 |  |
+| [Written In The Starlight](https://open.spotify.com/track/3Ep7iNTQbnnCmkytwzDl2h) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Written In The Starlight](https://open.spotify.com/album/25rivZ9oVq31HBRNNLzraS) | 4:38 | 2026-05-06 |  |
 | [Ya me conocen todos los gatos](https://open.spotify.com/track/2fbe1PmUkOpT4LJPXsOduX) | [El Trastero](https://open.spotify.com/artist/3Uny2BsFQbuW1o5mZPQbCx) | [Un poquito de Rock](https://open.spotify.com/album/1zIinmF7ye2fCTGs3l33Fo) | 3:00 | 2025-03-18 | 2026-04-06 |
 | [You're Better Than Yesterday](https://open.spotify.com/track/5q3P9CaSNIYaPJOGWGJjne) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [You're Better Than Yesterday](https://open.spotify.com/album/04ETpY7jVyjCm2jQrPSOQ6) | 3:18 | 2025-01-28 |  |
 | [Your Lies \. \- Live](https://open.spotify.com/track/222uqyOezu3Ymv36FmLQSA) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 5:07 | 2025-10-24 | 2026-04-06 |

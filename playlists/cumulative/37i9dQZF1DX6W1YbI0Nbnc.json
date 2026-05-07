@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume! \u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: Jaime Cheung \u5f35\u5929\u7a4e)",
+  "description": "Listen to women at full volume! \u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: sica )",
   "name": "EQUAL Hong Kong",
   "tracks": [
     {
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 292775,
       "name": "\u4f60\u6240\u61c9\u6709\u7684\u52c7\u6c23\uff08\u96fb\u5f71\u300a\u91d1\u7ae5\u300b\u4e3b\u984c\u66f2\uff09",
       "url": "https://open.spotify.com/track/6WqQiebXV9eYs0HiR1MqZ6"
@@ -5851,6 +5851,24 @@
     },
     {
       "album": {
+        "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
+        "url": "https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199338,
+      "name": "\u6df1\u5bb5\u4fbf\u5229\u611b",
+      "url": "https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf"
+    },
+    {
+      "album": {
         "name": "\u701f\u7051",
         "url": "https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv"
       },
@@ -6060,7 +6078,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 156463,
       "name": "\u73a9\u5473\u65e5\u5e38",
       "url": "https://open.spotify.com/track/2cuJunMtW2mupS4JDmgu8W"
@@ -6946,6 +6964,24 @@
       "duration_ms": 252677,
       "name": "\u9435\u6a39",
       "url": "https://open.spotify.com/track/0Z8hG73RgpWQPNVwUZ4PEE"
+    },
+    {
+      "album": {
+        "name": "\u958b\u5fc3\u679c",
+        "url": "https://open.spotify.com/album/7bBr9JCG44j7UXzicHUrnT"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "\u958b\u5fc3\u679c",
+      "url": "https://open.spotify.com/track/3KNaTGL2CrSk5W5L0bEQLw"
     },
     {
       "album": {

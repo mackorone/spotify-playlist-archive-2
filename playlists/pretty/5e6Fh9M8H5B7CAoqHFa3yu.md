@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 316 likes - 2,262 songs - 5 day 13 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 315 likes - 2,262 songs - 5 day 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1979,7 +1979,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1969 | [For Myself](https://open.spotify.com/track/6jTOCU5N4kHi4VGq2I9NHV) | [NOAH](https://open.spotify.com/artist/6cndR2a5aoWwRv3Zdw3BNk) | [For Myself](https://open.spotify.com/album/69hsNWKUUm0za0ID3WpBCN) | 4:30 |
 | 1970 | [Lazy Horizon \- Original Version](https://open.spotify.com/track/0zO4JbFcUsi1GhKSUt22BP) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Lazy Horizon \(Original Version\)](https://open.spotify.com/album/283SVcDeLYWgp0qH4o8Yrm) | 2:47 |
 | 1971 | [why don't u love me](https://open.spotify.com/track/4YLDHOCEVqtGsJhf25jEOL) | [abbot crow](https://open.spotify.com/artist/0ITPPVFvxeAQ3WLvqiIzxW) | [why don't u love me](https://open.spotify.com/album/4OL9Ur3teyOIXGqMmtBvdF) | 1:37 |
-| 1972 | [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:49 |
+| 1972 | [NIGHT SPIRAL](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [NIGHT SPIRAL](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:50 |
 | 1973 | [My last song for you](https://open.spotify.com/track/4bpODX6WMCmdohiQNUYxfd) | [RAWRITO](https://open.spotify.com/artist/69kJaVwMWBJF2ncss4pvqV) | [My last song for you](https://open.spotify.com/album/4ZoXUCQKkfr5jmC1MrDy4A) | 3:01 |
 | 1974 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 |
 | 1975 | [Push On](https://open.spotify.com/track/0BrO6JpVQjbVe1foPTZoIO) | [12 Tribes Of Mars](https://open.spotify.com/artist/6DCPOFQmbWMu64jaWWEX87) | [Push On](https://open.spotify.com/album/1n0zoAysgW94AmxkNgm9FG) | 5:22 |
@@ -2143,7 +2143,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2133 | [Lágrimas de Chuva](https://open.spotify.com/track/3bSWkB3k3KOOs0Ysz16Ptu) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Lágrimas de Chuva](https://open.spotify.com/album/3pEtVDAPRsBmaCITgCfok2) | 3:34 |
 | 2134 | [Despedida](https://open.spotify.com/track/7rriesN8nZhU9kMQ2fQ3Os) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Despedida](https://open.spotify.com/album/5TSyEf8knXO3LWYNmHLOYJ) | 2:58 |
 | 2135 | [Listen](https://open.spotify.com/track/77kzqKHULo3dpcAWyOLwOy) | [Elevator Operator](https://open.spotify.com/artist/146hY314HEGttVHczyZf8T) | [Future Self](https://open.spotify.com/album/3gN3dfsigjmVngomnGnXLO) | 3:25 |
-| 2136 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:07 |
+| 2136 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:08 |
 | 2137 | [Crown \(Misled Convoy's Shadows of Humanity Remix\)](https://open.spotify.com/track/7IH90Vxc2w4J9uGMVnwm9n) | [Italiks](https://open.spotify.com/artist/3XYboWxy55uHJ7oUQjwWJl), [Deep Fried Dub](https://open.spotify.com/artist/6ZMosuCoP5uGcPubpW9kQX), [Misled Convoy](https://open.spotify.com/artist/7MBKunpbP0Iz8b9Wx1SSVu) | [Translations IV](https://open.spotify.com/album/1xRVYWKUqSsbiDXGUZmIOu) | 6:18 |
 | 2138 | [Odyssey](https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE) | [ARBN](https://open.spotify.com/artist/1nVYJWThC8pLbjdniuPSfE) | [Odyssey](https://open.spotify.com/album/3zeVxRjNVV2l4cUMgTMNfy) | 3:02 |
 | 2139 | [The Only One](https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT) | [Alex Gabriel](https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH) | [In the Mood](https://open.spotify.com/album/7roJ1tKgqS4cd7YrEewO0b) | 3:34 |

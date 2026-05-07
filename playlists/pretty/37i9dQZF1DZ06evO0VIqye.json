@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAC4i7fhVg/1OAFqTM061xqn",
+  "snapshot_id": "afkzAAAAAACl4GtHtGt3uG9t5vWm5/JC",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
       },
       "artists": [
         {
@@ -520,25 +536,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/05ok9A1VF7Nk2v0UW98QcN"
+      "duration_ms": 188053,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
+      "duration_ms": 207320,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/05ok9A1VF7Nk2v0UW98QcN"
     },
     {
       "added_at": null,

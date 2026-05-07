@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,633,930 likes - 100 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,636,651 likes - 100 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 33 | [MONTAGEM BUDA \- Slowed + Reverb](https://open.spotify.com/track/5Ls7xSu1mqG13LRrXBHD8q) | [DYGO](https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7) | [MONTAGEM BUDA](https://open.spotify.com/album/5VmGJK8WmpR0R6Lnirtj4I) | 1:36 |
 | 34 | [MONTAGEM UNKNOWN \- Slowed](https://open.spotify.com/track/62n9gOtXkZZM4ielTvJI00) | [AKXNESHIVA](https://open.spotify.com/artist/3LXZBeAgQEX0BdDq8g9CXD), [Avenxir](https://open.spotify.com/artist/4Q2hJ2sAi0Tw1G5Gxv668a), [HamiBeats](https://open.spotify.com/artist/2nv6vP5WuDHsI4PxXhM5Wi) | [MONTAGEM UNKNOWN](https://open.spotify.com/album/0jz8txoELkgDDlJ2NWZEsZ) | 1:20 |
 | 35 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 |
-| 36 | [Nervy Funk \- Ultra Slowed](https://open.spotify.com/track/2cbxj8sawxD8tIz4IARGWA) | [DJ KVNXD](https://open.spotify.com/artist/3vQ1gsZp0nDDTqzTYo4qih), [Dj Zidzz](https://open.spotify.com/artist/5Sx8Q1pGJcAK3UGHZ2qq2N), [BRTS7](https://open.spotify.com/artist/04H6h6RYseXvpjRTmc3lTw) | [Nervy Funk](https://open.spotify.com/album/0Y4lL1j9XikSvmkV3EBhaX) | 1:42 |
+| 36 | [Nervy Funk \- Ultra Slowed](https://open.spotify.com/track/2cbxj8sawxD8tIz4IARGWA) | [DJ KVNXD](https://open.spotify.com/artist/3vQ1gsZp0nDDTqzTYo4qih), [Dj Zidzz](https://open.spotify.com/artist/5Sx8Q1pGJcAK3UGHZ2qq2N), [BRTS7](https://open.spotify.com/artist/04H6h6RYseXvpjRTmc3lTw), [DJ ALGUS ZL](https://open.spotify.com/artist/18iXllw5RiVqGnMBl2Eny2) | [Nervy Funk](https://open.spotify.com/album/0Y4lL1j9XikSvmkV3EBhaX) | 1:42 |
 | 37 | [Not My Problem Funk](https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q) | [DJZRX](https://open.spotify.com/artist/5XwtmTsYaeISuSubhSceo2) | [Not My Problem Funk](https://open.spotify.com/album/1CrfoyAt2lhtZYI2STakvP) | 1:28 |
 | 38 | [SPACE! \- Super Slowed](https://open.spotify.com/track/38dHd7r4mSSVhRvVulD1na) | [NAOMI](https://open.spotify.com/artist/5AviPhK4XqgGjtTa0m9aQc), [DRAWMEDEATH](https://open.spotify.com/artist/2UKmwMB2wMQMvQcduijrQi) | [SPACE!](https://open.spotify.com/album/6tf2ziKDZQJinItJi99wBW) | 1:49 |
 | 39 | [DOORS LIGHT FUNK \- SLOWED](https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [DOORS LIGHT FUNK](https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV) | 1:43 |

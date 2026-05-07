@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Stoicism",
+        "url": "https://open.spotify.com/album/3QRPjLlIkgeDzYRsXXuqDf"
+      },
+      "artists": [
+        {
+          "name": "The Mantra Discord",
+          "url": "https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317653,
+      "name": "Stoicism",
+      "url": "https://open.spotify.com/track/2ctjSYkpY02MNPb0hfwgZb"
+    },
+    {
+      "album": {
         "name": "Stoned Summer",
         "url": "https://open.spotify.com/album/6IcsFuDZgf7ynUo3WMlAxM"
       },

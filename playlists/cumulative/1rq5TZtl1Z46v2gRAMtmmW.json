@@ -6713,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "Now You Know",
+        "url": "https://open.spotify.com/album/5ZPb6pvREyBC5kowqU8Yi0"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186550,
+      "name": "Now You Know",
+      "url": "https://open.spotify.com/track/29fZXIGMJHLlCnFZTRLj0o"
+    },
+    {
+      "album": {
         "name": "Vast Oceans, Empty Skies",
         "url": "https://open.spotify.com/album/5vBh6dcOCsHMs3o7NvbGMI"
       },

@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Asake
 
-470 songs - 21 hr 30 min
+471 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 | 2025-04-11 | 2026-01-15 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 | 2024-07-10 |
+| [Dejavu](https://open.spotify.com/track/5tyPv5ahgOfuXdH5vLaTQg) | [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [HOLD SOMETHING](https://open.spotify.com/album/1CtWOlo0iZ2J9j6UQxVGeG) | 2:55 | 2026-05-01 |  |
 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 | 2023-11-23 |
 | [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 | 2024-04-19 |
 | [Desire](https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ) | [Badsome](https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT) | [Desire](https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ) | 2:27 | 2024-05-03 | 2024-06-10 |
@@ -421,7 +422,7 @@
 | [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 | 2025-06-20 | 2025-08-29 |
 | [Taka Oshi](https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 2:13 | 2023-03-10 | 2023-03-18 |
 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 | 2024-06-07 | 2024-06-21 |
-| [TE WO II](https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [TE WO II](https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93) | 2:21 | 2026-04-03 |  |
+| [TE WO II](https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [TE WO II](https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93) | 2:21 | 2026-04-03 | 2026-05-07 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2024-10-13 |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 | 2024-12-02 |
 | [Therapist](https://open.spotify.com/track/0EHJsg3FsmyksqKx3TOWoI) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Therapist](https://open.spotify.com/album/2dzJKHfizbfzvq6be269eK) | 2:32 | 2024-06-07 | 2024-06-21 |

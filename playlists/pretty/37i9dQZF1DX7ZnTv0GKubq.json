@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373764,
+  "num_followers": 373754,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
+      },
+      "artists": [
+        {
+          "name": "Abnormal Sleepz",
+          "url": "https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i"
+        },
+        {
+          "name": "Ruby Wood",
+          "url": "https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/0IcpxPeI2monP9K7BlSZZo"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 198859,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7DAIOlnvT079AH0WxHnzoI"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
-      },
-      "artists": [
-        {
-          "name": "Abnormal Sleepz",
-          "url": "https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i"
-        },
-        {
-          "name": "Ruby Wood",
-          "url": "https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
     },
     {
       "added_at": "2026-04-09 11:21:32",

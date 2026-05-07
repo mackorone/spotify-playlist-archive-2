@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 64254,
+  "num_followers": 64270,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAAI3zc6MpaUqgxjQddfaYBv",
+  "snapshot_id": "afkzAAAAAACPP2qD2A/vUvLhgI/+IWqS",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breathe On It",
+        "url": "https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 206691,
+      "name": "How Great",
+      "url": "https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 382684,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathe On It",
-        "url": "https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 206691,
-      "name": "How Great",
-      "url": "https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG"
     }
   ],
   "unique_name": "This Is Phil Wickham",

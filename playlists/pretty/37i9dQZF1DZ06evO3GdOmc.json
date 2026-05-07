@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 46192,
+  "num_followers": 46198,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAA2BEbe29lBe9rCldV1elkz",
+  "snapshot_id": "afkzAAAAAAAZExW9bmdxYGtDgykEOJAx",
   "tracks": [
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 313320,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd"
+      "duration_ms": 203720,
+      "name": "What If I Gave Everything",
+      "url": "https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 203720,
-      "name": "What If I Gave Everything",
-      "url": "https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE"
+      "duration_ms": 313320,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd"
     },
     {
       "added_at": null,

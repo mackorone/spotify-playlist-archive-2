@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 247520,
+  "num_followers": 247522,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
         "name": "Una Guitarra Para Gardel",
         "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 224746,
       "name": "Mariposita - En Vivo",
       "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Piazzolla & Amelita Baltar",
-        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Las Ciudades",
-      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Piazzolla & Amelita Baltar",
+        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Las Ciudades",
+      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "Bien de Arriba",
         "url": "https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 339213,
       "name": "Loca bohemia",
       "url": "https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        }
+      ],
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
       "artists": [
         {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
         }
       ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
+      "duration_ms": 158487,
+      "name": "Desencuentro",
+      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
     }
   ],
   "unique_name": "Tangos y Milongas",

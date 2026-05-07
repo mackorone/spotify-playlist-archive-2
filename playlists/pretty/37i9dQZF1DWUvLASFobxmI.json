@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Aldo Trujillo en portada.",
-  "num_followers": 529723,
+  "num_followers": 529743,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
+        "name": "Se Muri\u00f3 De Amor",
+        "url": "https://open.spotify.com/album/2gi2cskfEKHfBfMcVtNRgX"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5s7yT8TOeW3F2hskLFpUON"
+    },
+    {
+      "added_at": "2026-05-02 16:17:30",
+      "album": {
         "name": "CU\u00c1L ESTR\u00c9S?",
         "url": "https://open.spotify.com/album/1JyDswH3YwjDLELfi2QoUu"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
-        "name": "Se Muri\u00f3 De Amor",
-        "url": "https://open.spotify.com/album/2gi2cskfEKHfBfMcVtNRgX"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5s7yT8TOeW3F2hskLFpUON"
-    },
-    {
-      "added_at": "2026-05-02 16:17:30",
-      "album": {
         "name": "Manzo",
         "url": "https://open.spotify.com/album/2h1hndSFNo3yRcyMSPsICH"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
-        "name": "Evolucionando",
-        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 167552,
-      "name": "Evolucionando",
-      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
-    },
-    {
-      "added_at": "2026-05-02 16:17:30",
-      "album": {
         "name": "EN HOT",
         "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 140945,
       "name": "EN HOT",
       "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
+    },
+    {
+      "added_at": "2026-05-02 16:17:30",
+      "album": {
+        "name": "Evolucionando",
+        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 167552,
+      "name": "Evolucionando",
+      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
     },
     {
       "added_at": "2026-05-02 16:17:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 183051,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
-    },
-    {
-      "added_at": "2026-05-02 16:17:30",
-      "album": {
         "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173621,
       "name": "Eres - En Vivo",
       "url": "https://open.spotify.com/track/4TYp9OgXHDdF75R8Ratby1"
+    },
+    {
+      "added_at": "2026-05-02 16:17:30",
+      "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
     },
     {
       "added_at": "2026-05-02 16:17:30",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-05-02 16:17:30",
-      "album": {
         "name": "LA TERAPIA",
         "url": "https://open.spotify.com/album/2c8qPwvwRibrjo8liDQwXa"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 179795,
       "name": "LA TERAPIA",
       "url": "https://open.spotify.com/track/4SdIsClHCr55yGO6v7sJyy"
+    },
+    {
+      "added_at": "2026-05-02 16:17:30",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-05-02 16:17:30",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7okUbJoivGrlyb1O3A6Uvu"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 156576,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
-    },
-    {
-      "added_at": "2026-05-02 16:17:30",
-      "album": {
         "name": "Las Tres Vueltas",
         "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 140832,
       "name": "Las Tres Vueltas",
       "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
+    },
+    {
+      "added_at": "2026-05-02 16:17:30",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7okUbJoivGrlyb1O3A6Uvu"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 156576,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
     },
     {
       "added_at": "2026-05-02 16:17:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-05-02 16:17:30",
       "album": {
+        "name": "Como Te Amo Yo",
+        "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Como Te Amo Yo",
+      "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
+    },
+    {
+      "added_at": "2026-05-02 16:17:30",
+      "album": {
         "name": "Borracho y Loco",
         "url": "https://open.spotify.com/album/2eIenGkP3a7WijVIOf5GVO"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 226346,
       "name": "Te Amar\u00e9 M\u00e1s",
       "url": "https://open.spotify.com/track/3u1UKlvuMdCr5TexrT6RTH"
-    },
-    {
-      "added_at": "2026-05-02 16:17:30",
-      "album": {
-        "name": "Como Te Amo Yo",
-        "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Chavalos",
-          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Como Te Amo Yo",
-      "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
     },
     {
       "added_at": "2026-05-02 16:17:30",

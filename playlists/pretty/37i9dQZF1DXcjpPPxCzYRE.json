@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 441076,
+  "num_followers": 441129,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,22 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+      "duration_ms": 220253,
+      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -551,22 +555,18 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "In The Lonely Hour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 220253,
-      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "brb",
-        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "brb",
-      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 225920,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "Leaveyourlove (with MARO)",
-        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 214446,
-      "name": "Leaveyourlove (with MARO)",
-      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "Collar",
         "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 212486,
       "name": "La desped\u00eda",
       "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/0ZD649L9iJC2K7ta70vxNc"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/1SP4AUMwLa5TSH4C754DOH"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
         "name": "Algo Fugaz",
         "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 137101,
       "name": "Algo Fugaz",
       "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "El final",
-        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
       },
       "artists": [
         {
-          "name": "Verde Prato",
-          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
         }
       ],
-      "duration_ms": 198995,
-      "name": "La ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+        "name": "El final",
+        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
       },
       "artists": [
         {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+          "name": "Verde Prato",
+          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
         }
       ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+      "duration_ms": 198995,
+      "name": "La ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
-      },
-      "artists": [
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
+      },
+      "artists": [
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -2123,22 +2123,18 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "BK4DA2624804",
-        "url": "https://open.spotify.com/album/2cJB0LqOGLsb4A2WfduBsX"
+        "name": "En el Puerto",
+        "url": "https://open.spotify.com/album/0mbFMcXCLyJNieSTaT2sM4"
       },
       "artists": [
         {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
         }
       ],
-      "duration_ms": 219200,
-      "name": "BK4DA2624804",
-      "url": "https://open.spotify.com/track/5A2XuhLbc1ND9ZGKWu3ECz"
+      "duration_ms": 156297,
+      "name": "En el Puerto",
+      "url": "https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ"
     }
   ],
   "unique_name": "Relax en casa",

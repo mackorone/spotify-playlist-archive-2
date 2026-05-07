@@ -4,7 +4,7 @@
 
 > 
 
-198 songs - 10 hr 19 min
+205 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3:33](https://open.spotify.com/track/4xNJwjT3OKzE7E5IB1rZw9) | [Jey Master](https://open.spotify.com/artist/3JXF0zmgQriGDuch8M800V) | [3:33](https://open.spotify.com/album/2uqbgfJVIuMKLq7ie558kC) | 3:33 | 2025-08-26 |  |
 | [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 | 2025-12-11 |  |
 | [512](https://open.spotify.com/track/2CdquEDCaFau9PMHF8eFcW) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [512](https://open.spotify.com/album/7ij81xOTfo61L1FuYwKwTH) | 2:42 | 2025-09-09 |  |
+| [a helping hand](https://open.spotify.com/track/0DdjWSK9mYxd0OkMafssrD) | [COZE!NE](https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq) | [a helping hand](https://open.spotify.com/album/5wwGLyU2CkVND4ZrkvoPl1) | 2:24 | 2026-05-06 |  |
 | [After Party](https://open.spotify.com/track/1ZscMbcOPmJZOa8o6C40oE) | [Megan Dalby](https://open.spotify.com/artist/20fkOG8MVEODAofTMn3Xjj) | [After Party](https://open.spotify.com/album/2ZmUAPFUssRDQirDWbpivk) | 4:10 | 2026-03-13 |  |
 | [All My Fault](https://open.spotify.com/track/0QUWUwCvf7cHIS5FaiuRRG) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [All My Fault](https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw) | 3:05 | 2026-01-22 |  |
 | [All Of My Love](https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc) | [Shelton](https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB) | [All Of My Love](https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV) | 2:54 | 2026-01-09 |  |
@@ -85,6 +86,7 @@
 | [HYPER OTTER \- 222% Hydration](https://open.spotify.com/track/1NlHdX7ILmSic0TJxkCCv7) | [Eqlixir](https://open.spotify.com/artist/1aIQXugv2VozVzzVWbz7H5) | [hyper otter water](https://open.spotify.com/album/2jMVefOONMLVq22a2zN6X5) | 1:06 | 2025-12-11 |  |
 | [I Don't Give a Fuck Anymore](https://open.spotify.com/track/0X6ISOtlMhQR7ttKJJfwey) | [Jerome Jerome! Stevenson](https://open.spotify.com/artist/1YS6beQi0cakwprURnYjJk) | [All of Me](https://open.spotify.com/album/6AZmLDoxmEoK3mzrwAhY6a) | 2:51 | 2025-03-12 |  |
 | [I Don't Know](https://open.spotify.com/track/1Nj7VD921R98sjuMK3jMWM) | [Zerener](https://open.spotify.com/artist/2NPVYQkv6uPyD6QsFlbZH5) | [I Don't Know](https://open.spotify.com/album/4JwIlUXBAfiajBuobasvFl) | 3:42 | 2025-04-07 |  |
+| [i don't want to waste your time](https://open.spotify.com/track/0pzN3BuKIw2pXNQndYn4kN) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [if june was a person](https://open.spotify.com/album/6Nm96HpjoRZGJjpaimqfM4) | 4:53 | 2026-05-06 |  |
 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 | 2025-10-30 |  |
 | [I Hope](https://open.spotify.com/track/3dI1YkpKCJMj2tlZFWPxXE) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Hope](https://open.spotify.com/album/3gVWMKoHvzr5UjyH59oB6A) | 3:20 | 2025-08-07 |  |
 | [I Kill Spiders](https://open.spotify.com/track/2jrMjstPcrgWx9ZUIV8qmW) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I Kill Spiders](https://open.spotify.com/album/3rwRrvZIMD9kyc5y1qUbP8) | 3:41 | 2025-09-29 |  |
@@ -100,6 +102,7 @@
 | [Jazz Soul \- \(Freestyle\)](https://open.spotify.com/track/2SGF1liiKRxgtJM12X2XfU) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [Jazz Soul](https://open.spotify.com/album/3pdWZJ8FhYGdasB8Qon7l5) | 3:32 | 2026-04-02 |  |
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
+| [keep your head up, bitch](https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [BROKEN SIGNALS](https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB) | 3:06 | 2026-05-06 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
 | [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 | 2026-04-11 |  |
 | [La Corista](https://open.spotify.com/track/3nEddgET3KJeYUoT9nx9Kq) | [Gharet & Lkenn](https://open.spotify.com/artist/39m8tomZHufG8tNNPc96jq) | [La Corista](https://open.spotify.com/album/3CCtu0y4QxmoTFvP4RjgGa) | 3:25 | 2025-04-10 |  |
@@ -151,8 +154,10 @@
 | [Quien Te Azota?](https://open.spotify.com/track/1PvuFHjDJii2tFTeqP4yVq) | [FARDY](https://open.spotify.com/artist/46YEtFyBgkWpFLkEE5C4Hc), [Adal Palacios](https://open.spotify.com/artist/1ybBqXrXyErUMB9DchGSjc), [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL) | [PERREKE MEXA](https://open.spotify.com/album/6DvAY3z2vHQQLi7dPaW5HP) | 2:23 | 2026-04-02 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-06 |  |
+| [RECONSIDER EVERYTHING](https://open.spotify.com/track/3cRRXFl6HJYXZD2dRxqtQO) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:50 | 2026-05-06 |  |
 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 | 2026-02-17 |  |
 | [relapse](https://open.spotify.com/track/3CvRv1klCmdwGoOTRyJawj) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [relapse](https://open.spotify.com/album/0Yl4XnXHS0trdkI8rvFqyS) | 3:06 | 2025-03-26 |  |
+| [Replica](https://open.spotify.com/track/3DzLHaqInQ9Tw4DZHUUy4e) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Robin](https://open.spotify.com/album/2oQKKenWAS8mnkzgSElzpS) | 3:07 | 2026-05-06 |  |
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
@@ -181,6 +186,7 @@
 | [talk](https://open.spotify.com/track/1d9xyrASfsD0edthqvHbpL) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [talk](https://open.spotify.com/album/6gVHNh3J56BQdaqO5cSCKF) | 3:36 | 2026-04-02 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
+| [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 | 2026-05-06 |  |
 | [The Last Song Of The Moon](https://open.spotify.com/track/0GZBewpkqjQHewlpGod48N) | [Le Monk](https://open.spotify.com/artist/2BX1nNrrRMfJCYvs3RwDX3) | [The Last Song Of The Moon](https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv) | 3:06 | 2026-02-11 |  |
 | [the mall closed down](https://open.spotify.com/track/1y6T0l16UIX6R4YmRNWziA) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [the mall closed down](https://open.spotify.com/album/4DoBmOddEZzeypxWIrUdAZ) | 5:37 | 2025-05-07 |  |
 | [The Vastness of Consciousness \- 432hz Version](https://open.spotify.com/track/5wt45JmYqJ3NdYhzj1Bf2A) | [Violare Fobia](https://open.spotify.com/artist/0oZKREVpE7cVrBeliDpnWN) | [The Vastness of Consciousness \(432hz Version\)](https://open.spotify.com/album/6sxLNMlL8Cf7ibdTfdFCK7) | 3:13 | 2025-12-23 |  |
@@ -192,6 +198,7 @@
 | [Tu Boca](https://open.spotify.com/track/3po03pa6i2K3a6kzLw02Xk) | [Kris Ferrer](https://open.spotify.com/artist/0yIDYHbJhDpDXiGTHCLXh7) | [Tu Boca](https://open.spotify.com/album/298jSFyPbaASkohAaHEc5J) | 3:43 | 2025-04-06 |  |
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
+| [VUELVE SOLA](https://open.spotify.com/track/3ZMYR804hQICmG5GcLBL8p) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [VUELVE SOLA](https://open.spotify.com/album/5Jc79SlcKcBxjnz1szJwLj) | 2:22 | 2026-05-06 |  |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 | 2026-03-27 |  |
 | [Waiting for the Day After](https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN) | [Hollowave](https://open.spotify.com/artist/3pOKXtt845AaIJxzoUY918) | [Pigheaded](https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD) | 5:24 | 2025-10-30 |  |

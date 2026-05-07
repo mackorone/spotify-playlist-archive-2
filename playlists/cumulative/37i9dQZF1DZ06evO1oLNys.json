@@ -566,7 +566,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 223842,
       "name": "First Picture of the Weather Pattern",
       "url": "https://open.spotify.com/track/0TPFUD1Ruw34xxNyU5ilP5"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "Home, Los Angeles",
       "url": "https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 60000,
       "name": "Penny Whistle Seller, Guangzhou",
       "url": "https://open.spotify.com/track/1eqmkXVJNeb14gp3pcW9GG"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 271202,
       "name": "Right Before Dinner",
       "url": "https://open.spotify.com/track/1xtDTPyST8yKRnA7bQHLFm"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 172779,
       "name": "Scrimble-Scramble",
       "url": "https://open.spotify.com/track/1fac4qYqKoPCVWFW1lAsAa"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 54888,
       "name": "Tea at Dawn",
       "url": "https://open.spotify.com/track/0mo7FxYAf19enHBdvmF0hd"
@@ -1406,6 +1406,28 @@
       "duration_ms": 281911,
       "name": "Tennis Court Light, Snow",
       "url": "https://open.spotify.com/track/7ggIC0pfqHen3QI2qRF2O9"
+    },
+    {
+      "album": {
+        "name": "October Music, Vol. 3: 7 Compositions for Duet",
+        "url": "https://open.spotify.com/album/3afOQr5tyfxVjpNEXqw6pu"
+      },
+      "artists": [
+        {
+          "name": "Tim Daisy",
+          "url": "https://open.spotify.com/artist/0hmvGmvv9StXZliTdkJSxr"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407106,
+      "name": "The Echo Song",
+      "url": "https://open.spotify.com/track/1ZWqVlneguZKtPK5Qvasbx"
     },
     {
       "album": {
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 366057,
       "name": "Too Small to be a Plain",
       "url": "https://open.spotify.com/track/7oiybnPVkbQGJLiUunjmOY"

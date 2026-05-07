@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 103456,
+  "num_followers": 103476,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
-        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
-      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 352599,
       "name": "We All Move Together - Album Mix",
       "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
+        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
+      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Tronic D",
-        "url": "https://open.spotify.com/album/5cPdg1ikgGzGbaqYU5MFBe"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 467520,
-      "name": "A Cocktail or Two",
-      "url": "https://open.spotify.com/track/5A5Y2BrzLzZ5NIZp4nze0z"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -655,18 +639,34 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Toxin 12 EP",
-        "url": "https://open.spotify.com/album/5ICOF0NF0GCiYiHt1CwTVA"
+        "name": "Tronic D",
+        "url": "https://open.spotify.com/album/5cPdg1ikgGzGbaqYU5MFBe"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         }
       ],
-      "duration_ms": 337573,
-      "name": "H-Formula",
-      "url": "https://open.spotify.com/track/64WEVaevCr6q4JR0pRsQC4"
+      "duration_ms": 467520,
+      "name": "A Cocktail or Two",
+      "url": "https://open.spotify.com/track/5A5Y2BrzLzZ5NIZp4nze0z"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Faith, Hope & Clarity",
+        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
+      },
+      "artists": [
+        {
+          "name": "The Reese Project",
+          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "The Color of Love - Reese Deep Mix",
+      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Faith, Hope & Clarity",
-        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
+        "name": "Toxin 12 EP",
+        "url": "https://open.spotify.com/album/5ICOF0NF0GCiYiHt1CwTVA"
       },
       "artists": [
         {
-          "name": "The Reese Project",
-          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 346413,
-      "name": "The Color of Love - Reese Deep Mix",
-      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
+      "duration_ms": 337573,
+      "name": "H-Formula",
+      "url": "https://open.spotify.com/track/64WEVaevCr6q4JR0pRsQC4"
     },
     {
       "added_at": "2025-08-29 04:00:36",

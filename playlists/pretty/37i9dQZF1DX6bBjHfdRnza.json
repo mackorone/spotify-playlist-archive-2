@@ -1,13 +1,145 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Aki Oke. Curated by human Spotify editors. \n",
-  "num_followers": 212679,
+  "description": "The best new dance tracks from independent artists & labels. Featuring From Dave. Curated by human Spotify editors. \n",
+  "num_followers": 212717,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADj/RIGW/oYVAP4wdUl+ZrKi1qTY",
+  "snapshot_id": "AAAAAD4fcsnh8iqcHAaAOsvLi39MinZn",
   "tracks": [
+    {
+      "added_at": "2026-05-06 19:01:48",
+      "album": {
+        "name": "It's All About The Music",
+        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "It's All About The Music",
+      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
+    },
+    {
+      "added_at": "2026-05-06 19:01:48",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/7hLMEAepxj1rQdyVb68QGz"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3flcGGIKUaK1M2ps72ykcl"
+    },
+    {
+      "added_at": "2026-04-15 17:24:57",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-05-01 04:01:49",
+      "album": {
+        "name": "Clubwalker",
+        "url": "https://open.spotify.com/album/3vibw24wR1lZkcoQdonEnJ"
+      },
+      "artists": [
+        {
+          "name": "Jay Crusoe",
+          "url": "https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7"
+        },
+        {
+          "name": "G00DELL",
+          "url": "https://open.spotify.com/artist/0z0QA07woqL0O2n4HKwiP6"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "Clubwalker",
+      "url": "https://open.spotify.com/track/6NjcmK0kTqYqPuGHywAR5T"
+    },
+    {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/7wjC3W81oIT2A6xqQ0t7NY"
+      },
+      "artists": [
+        {
+          "name": "MLE",
+          "url": "https://open.spotify.com/artist/4kwSji6cyVJyawitcYNC4S"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
+    },
+    {
+      "added_at": "2026-04-03 04:02:29",
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+    },
+    {
+      "added_at": "2026-05-06 19:01:48",
+      "album": {
+        "name": "turbine / frog",
+        "url": "https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz"
+      },
+      "artists": [
+        {
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
+        }
+      ],
+      "duration_ms": 154167,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
+    },
+    {
+      "added_at": "2026-05-06 19:01:48",
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6X67XDQZ73sIVdZqXu84Jq"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "duration_ms": 168784,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/3tkNHEBilPeEv7n9nEN8Fc"
+    },
     {
       "added_at": "2026-04-24 04:02:15",
       "album": {
@@ -41,22 +173,6 @@
       "url": "https://open.spotify.com/track/24BqX41wztlosanKgkKvDX"
     },
     {
-      "added_at": "2026-04-30 03:41:26",
-      "album": {
-        "name": "Fanga",
-        "url": "https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq"
-      },
-      "artists": [
-        {
-          "name": "Narasimha",
-          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
-        }
-      ],
-      "duration_ms": 209769,
-      "name": "Fanga",
-      "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
-    },
-    {
       "added_at": "2026-03-18 17:43:09",
       "album": {
         "name": "GTFU",
@@ -73,36 +189,36 @@
       "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
     },
     {
-      "added_at": "2026-04-03 04:02:29",
+      "added_at": "2026-05-06 19:01:48",
       "album": {
-        "name": "TU",
-        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/2gd4uwQqAh8ptmGo8sVK5p"
       },
       "artists": [
         {
-          "name": "fromclay",
-          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+          "name": "RDL.wav",
+          "url": "https://open.spotify.com/artist/1t0p4O6zk4K1YFqlblfWiC"
         }
       ],
-      "duration_ms": 160000,
-      "name": "TU",
-      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+      "duration_ms": 377000,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/4d0EQg1pramdmWPKcIaGWh"
     },
     {
       "added_at": "2026-04-30 03:41:26",
       "album": {
-        "name": "don't call",
-        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+        "name": "Fanga",
+        "url": "https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq"
       },
       "artists": [
         {
-          "name": "bufr.",
-          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
+          "name": "Narasimha",
+          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
         }
       ],
-      "duration_ms": 110139,
-      "name": "don't call",
-      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
+      "duration_ms": 209769,
+      "name": "Fanga",
+      "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
     },
     {
       "added_at": "2026-05-01 04:01:49",
@@ -137,6 +253,22 @@
       "url": "https://open.spotify.com/track/4ELNuqfVRxKLwSl8dKLn4P"
     },
     {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "don't call",
+        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+      },
+      "artists": [
+        {
+          "name": "bufr.",
+          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
+        }
+      ],
+      "duration_ms": 110139,
+      "name": "don't call",
+      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
+    },
+    {
       "added_at": "2026-04-10 04:02:22",
       "album": {
         "name": "Snakebite Boogie EP",
@@ -153,40 +285,20 @@
       "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
     },
     {
-      "added_at": "2026-05-01 04:01:49",
+      "added_at": "2026-05-06 19:01:48",
       "album": {
-        "name": "Clubwalker",
-        "url": "https://open.spotify.com/album/3vibw24wR1lZkcoQdonEnJ"
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/18oSGmGT7pEorfE60MAy0C"
       },
       "artists": [
         {
-          "name": "Jay Crusoe",
-          "url": "https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7"
-        },
-        {
-          "name": "G00DELL",
-          "url": "https://open.spotify.com/artist/0z0QA07woqL0O2n4HKwiP6"
+          "name": "Mason Cooper",
+          "url": "https://open.spotify.com/artist/5QQLWtM5l0Qd9A9jwL4jvl"
         }
       ],
-      "duration_ms": 187669,
-      "name": "Clubwalker",
-      "url": "https://open.spotify.com/track/6NjcmK0kTqYqPuGHywAR5T"
-    },
-    {
-      "added_at": "2026-04-15 17:24:57",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+      "duration_ms": 209323,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/4A7TaqIvzVk5PAuBG5gH9A"
     },
     {
       "added_at": "2026-04-30 03:41:26",
@@ -281,22 +393,6 @@
       "url": "https://open.spotify.com/track/5B0XGW3FOwqAPiXMWBOiYC"
     },
     {
-      "added_at": "2026-04-30 03:41:26",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/7wjC3W81oIT2A6xqQ0t7NY"
-      },
-      "artists": [
-        {
-          "name": "MLE",
-          "url": "https://open.spotify.com/artist/4kwSji6cyVJyawitcYNC4S"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
-    },
-    {
       "added_at": "2026-04-24 04:02:15",
       "album": {
         "name": "mind be so numb",
@@ -379,22 +475,6 @@
       "duration_ms": 223384,
       "name": "Insane",
       "url": "https://open.spotify.com/track/44UvUDywsREUPPGuJF0z73"
-    },
-    {
-      "added_at": "2026-04-01 16:59:55",
-      "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
-      },
-      "artists": [
-        {
-          "name": "Ontonic",
-          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
     },
     {
       "added_at": "2026-04-22 17:32:04",
@@ -629,22 +709,6 @@
       "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
     },
     {
-      "added_at": "2026-04-01 16:59:55",
-      "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
-      },
-      "artists": [
-        {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
-    },
-    {
       "added_at": "2026-04-03 15:07:52",
       "album": {
         "name": "In The Air",
@@ -711,22 +775,6 @@
       "duration_ms": 185742,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns"
-    },
-    {
-      "added_at": "2026-04-08 18:52:53",
-      "album": {
-        "name": "Made Me",
-        "url": "https://open.spotify.com/album/6SKEiX25clMT3ooDbUA7Gd"
-      },
-      "artists": [
-        {
-          "name": "Flaurese",
-          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
-        }
-      ],
-      "duration_ms": 218940,
-      "name": "Made Me",
-      "url": "https://open.spotify.com/track/3N8CZd85wtAaTnhnYtj1kx"
     },
     {
       "added_at": "2026-04-01 16:59:55",
@@ -863,22 +911,6 @@
       "duration_ms": 142529,
       "name": "Fast Money",
       "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
-    },
-    {
-      "added_at": "2026-03-06 05:00:15",
-      "album": {
-        "name": "BD Baile",
-        "url": "https://open.spotify.com/album/1tny2XRdbAvZhMegJoilEy"
-      },
-      "artists": [
-        {
-          "name": "Mezraa",
-          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
-        }
-      ],
-      "duration_ms": 108945,
-      "name": "BD Baile",
-      "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1071,38 +1103,6 @@
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Tacat\u00e1",
-        "url": "https://open.spotify.com/album/0XIunmUmCiWnHYWpDaXNFt"
-      },
-      "artists": [
-        {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
-        }
-      ],
-      "duration_ms": 166993,
-      "name": "Tacat\u00e1",
-      "url": "https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Certi EP",
-        "url": "https://open.spotify.com/album/0a7m6ALRJD2CLCwQZpqNLf"
-      },
-      "artists": [
-        {
-          "name": "Troxy",
-          "url": "https://open.spotify.com/artist/4FvNii3PAzHhNCbizclTjS"
-        }
-      ],
-      "duration_ms": 402879,
-      "name": "Certi",
-      "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
     }
   ],
   "unique_name": "Fresh Finds Dance",

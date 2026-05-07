@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-371 songs - 18 hr 20 min
+372 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Live In The Moment](https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Live In The Moment](https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn) | 3:00 | 2022-09-15 | 2023-06-29 |
 | [Living At The Sea](https://open.spotify.com/track/5LI1FAgKgyU8vmziFY9XhX) | [Made Of Marble](https://open.spotify.com/artist/3nkiEsorNbO1gdtibcPUdW), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Living At The Sea](https://open.spotify.com/album/04IUqDkRPLFBpE9vKqOzxE) | 2:32 | 2025-12-04 |  |
 | [Locked In Paradise](https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U) | [KNJA](https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6) | [Locked In Paradise](https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd) | 2:33 | 2026-01-08 |  |
+| [Loneliness](https://open.spotify.com/track/3PJbCJqnh9ShH17iE8k8lJ) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [Loneliness](https://open.spotify.com/album/65SfjWg7fnUSzwGN9MuJd9) | 2:09 | 2026-04-23 |  |
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-06-29 | 2024-03-21 |
 | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou) | 2:04 | 2024-09-10 |  |
 | [Lost In The Sky](https://open.spotify.com/track/3tFNn8hGcISeYWLORFqncX) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g) | 2:40 | 2023-06-08 | 2024-11-22 |
@@ -346,7 +347,7 @@
 | [Under The Same Sun](https://open.spotify.com/track/6jaHe3gyK9hS6DYpmvVlam) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Under The Same Sun](https://open.spotify.com/album/309NyVvA8HXRov57v0PMaP) | 2:37 | 2025-06-20 |  |
 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 | 2025-03-13 |  |
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 | 2024-12-13 |
-| [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 | 2025-05-15 |  |
+| [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 | 2025-05-15 | 2026-05-07 |
 | [Valente](https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Kick Up The Dust EP](https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl) | 5:19 | 2023-11-30 | 2024-01-04 |
 | [Vibration](https://open.spotify.com/track/2XDcMSaXSlXKtQLF5E45N1) | [Armando Martinez](https://open.spotify.com/artist/5qjYRdvFJgnx6zGjOsBst3) | [Vibration](https://open.spotify.com/album/3GDTnkcgIrBOA1HZvdqb6Y) | 4:01 | 2025-09-25 | 2025-10-05 |
 | [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:07 | 2024-10-11 |  |

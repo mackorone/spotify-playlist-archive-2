@@ -1,12 +1,12 @@
 {
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 212398,
+  "num_followers": 212407,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAD5Zq5FLrrwh5TCIvTldqxk",
+  "snapshot_id": "afkzAAAAAAD4Ky6k38iQLeCazAJDWNQ7",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "March Or Die",
-        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+        "name": "Rock N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 255800,
-      "name": "I Ain't No Nice Guy",
-      "url": "https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs"
+      "duration_ms": 274440,
+      "name": "Eat the Rich",
+      "url": "https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 274440,
-      "name": "Eat the Rich",
-      "url": "https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V"
+      "duration_ms": 255800,
+      "name": "I Ain't No Nice Guy",
+      "url": "https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs"
     },
     {
       "added_at": null,

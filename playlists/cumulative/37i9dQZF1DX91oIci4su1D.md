@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,273 songs - 3 day 4 hr 8 min
+1,274 songs - 3 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [EVERLASTING](https://open.spotify.com/track/2bmCrJFHvpdfa0ydtP8zwq) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [EVERLASTING](https://open.spotify.com/album/6M9XCnuEHSh7aWdLrufkqo) | 4:08 | 2023-05-26 | 2024-05-18 |
 | [Every Other Way \- Adam Ellis Remix](https://open.spotify.com/track/4WNJB0p490ZNs3EO5IcFZA) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Adam Ellis](https://open.spotify.com/artist/5tGHR2wsaFZhRzRPRZDFds) | [Every Other Way \(Adam Ellis Remix\)](https://open.spotify.com/album/5udCLW82EKRHiUtpcmHLn3) | 4:26 | 2023-03-03 | 2024-02-17 |
 | [Every Second \- York Remix](https://open.spotify.com/track/53uE0XVCkd6lWIeDOVsYju) | [Ladybyrd](https://open.spotify.com/artist/478VYsGZy4p6EUSnijTzEv), [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Every Second \(York Remix\)](https://open.spotify.com/album/3Nz1Cin3q5PjbGbs2n3sba) | 3:52 | 2023-04-29 | 2023-05-20 |
+| [Everything Else Could Wait](https://open.spotify.com/track/311mDBEIB4IvTcUXKeUOVT) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Everything Else Could Wait](https://open.spotify.com/album/4ZfQAvaurXtnLDajcazRHE) | 4:11 | 2026-05-01 |  |
 | [Everything I Wanted](https://open.spotify.com/track/1wZbHTKhnHGuxAen2xwRpn) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Everything I Wanted](https://open.spotify.com/album/25awL6MI8fVp448RcXVLYn) | 2:35 | 2025-08-22 | 2025-09-20 |
 | [Everything Is Beautiful](https://open.spotify.com/track/0JrDbDm9aGvmXfBg6bFpMo) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Everything Is Beautiful](https://open.spotify.com/album/5BEY5GlvojPv8J29H6NoTs) | 5:06 | 2023-11-10 | 2023-12-09 |
 | [Everything You Want](https://open.spotify.com/track/321om129e8ZgtovAqLQ2Rj) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Sherano](https://open.spotify.com/artist/2Dxe0mR6EMgSc7f72pqKq6) | [Everything You Want](https://open.spotify.com/album/7bw4uqzPhT5aHRY8E5g6zc) | 3:14 | 2023-04-07 | 2024-02-17 |
@@ -727,7 +728,7 @@
 | [Monolith](https://open.spotify.com/track/2Bam0TVEexdTbaC2s8V3xY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Monolith](https://open.spotify.com/album/3Hzdf64veh0KPRE0GbVx0Q) | 3:10 | 2025-07-18 |  |
 | [Monster](https://open.spotify.com/track/6poMNI3eKjniGiH7RShxWq) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Monster](https://open.spotify.com/album/7LsPk60OJGYoq8mKWgMAxp) | 3:01 | 2025-03-07 | 2025-09-27 |
 | [Moon and Sun](https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Moon and Sun](https://open.spotify.com/album/2CbRBnlyKcMrB3OF2e0wPN) | 3:06 | 2022-04-01 | 2022-07-22 |
-| [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 |  |
+| [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 | 2026-05-07 |
 | [Moonlight](https://open.spotify.com/track/7CWuyO1HFwgnZaT7BComle) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Woody van Eyden](https://open.spotify.com/artist/4G2mPOOfWyqNO338GJTOK5), [Marjan](https://open.spotify.com/artist/17DO1swIZ3m8qI98bvy67u) | [Moonlight](https://open.spotify.com/album/2lwGuPYpWt2eBOOW1GZowT) | 3:11 | 2024-02-16 | 2024-08-31 |
 | [Moonlight Shadow](https://open.spotify.com/track/4dEDU82H7VFaflZnCYEUiY) | [SCHALA](https://open.spotify.com/artist/0jk7HHrwqq0Y3Djioelf3m) | [Moonlight Shadow](https://open.spotify.com/album/0cTvAnxPfKcxe6dwxWYdKe) | 3:38 | 2023-04-07 | 2023-07-22 |
 | [Moonshade](https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Moonshade](https://open.spotify.com/album/0AB7gk8gDvtXH5i43s4k6G) | 3:17 | 2022-03-04 | 2022-07-07 |

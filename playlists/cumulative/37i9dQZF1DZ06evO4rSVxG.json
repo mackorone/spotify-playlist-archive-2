@@ -868,6 +868,28 @@
       "duration_ms": 335666,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU"
+    },
+    {
+      "album": {
+        "name": "Zebra Dans",
+        "url": "https://open.spotify.com/album/0HvueNunot3yY4htnPg4SC"
+      },
+      "artists": [
+        {
+          "name": "Kut Klose",
+          "url": "https://open.spotify.com/artist/3g0RlUGYDE7rdAJSnLkNOv"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76810,
+      "name": "Zebra Dans",
+      "url": "https://open.spotify.com/track/4txhR01UkLGUO9jHE759yn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rSVxG"

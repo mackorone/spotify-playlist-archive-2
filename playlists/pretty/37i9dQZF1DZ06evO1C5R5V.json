@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 37749,
+  "num_followers": 37757,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAAQJYk7bR/jNQ1g5L1D9mh6",
+  "snapshot_id": "afkzAAAAAAA/gpgqxrfK5pMYrJZcahsS",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 172106,
-      "name": "Tiempo de Lluvia",
-      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
+      "duration_ms": 42678,
+      "name": "Purgante - Reprise",
+      "url": "https://open.spotify.com/track/2Uly9utUf2DhbA9zTZJIMq"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
       "duration_ms": 249568,
       "name": "Injerto",
       "url": "https://open.spotify.com/track/073KZTEjnCU8ur8LAjG5r0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Sin Visa, Vol. 5",
-        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Sin Visa, Vol. 5",
+        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capella, Vol. 2",
         "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
       },
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 42678,
-      "name": "Purgante - Reprise",
-      "url": "https://open.spotify.com/track/2Uly9utUf2DhbA9zTZJIMq"
+      "duration_ms": 172106,
+      "name": "Tiempo de Lluvia",
+      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
     },
     {
       "added_at": null,
@@ -711,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos de Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 192214,
-      "name": "Tuve un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 267059,
-      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
         "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
       },
@@ -779,6 +747,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 192214,
+      "name": "Tuve un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 267059,
+      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00fastico en Vivo",
         "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
       },
@@ -811,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "El Adi\u00f3s de un Alcoh\u00f3lico",
+        "url": "https://open.spotify.com/album/7F4pEFfyzTJmTbJeWmykce"
       },
       "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 223468,
-      "name": "Tu Te las Tomaste S\u00f3lo",
-      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
+      "duration_ms": 306770,
+      "name": "El Adi\u00f3s de un Alcoh\u00f3lico",
+      "url": "https://open.spotify.com/track/2XETm8E7PrIuiOOhGNcjIZ"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

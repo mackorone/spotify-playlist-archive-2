@@ -32699,6 +32699,24 @@
     },
     {
       "album": {
+        "name": "Everglades",
+        "url": "https://open.spotify.com/album/6pErDmXR3rA9dkZr9Fwv0E"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108505,
+      "name": "Everglades",
+      "url": "https://open.spotify.com/track/02FkZqM5go6FyrOS85qzAa"
+    },
+    {
+      "album": {
         "name": "Everlasting Taker",
         "url": "https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6"
       },

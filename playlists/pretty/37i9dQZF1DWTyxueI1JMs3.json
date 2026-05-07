@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40711,
+  "num_followers": 40713,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,26 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! Blooming WINTER EP",
-        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
+        "name": "A3! EVER LASTING LP",
+        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
       },
       "artists": [
         {
-          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
-          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
+          "name": "\u6591\u9ce9\u4e09\u89d2(CV:\u5ee3\u702c\u5927\u4ecb)",
+          "url": "https://open.spotify.com/artist/7qJ9f6SgueSyyqwEwOV07R"
+        },
+        {
+          "name": "\u6728\u6d25\u6d69\u6210&\u590f\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/2oIQmIT1xgvrHg04SXvY9k"
+        },
+        {
+          "name": "\u5175\u982d\u4e5d\u9580(CV:\u7560\u4e2d\u7950)",
+          "url": "https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013"
         }
       ],
-      "duration_ms": 187933,
-      "name": "\u5947\u5929\u70c8\u30dd\u30a8\u30de\u30fc",
-      "url": "https://open.spotify.com/track/5SFOKF3wUueRK6CL4V9LcH"
+      "duration_ms": 249666,
+      "name": "Shake the Shape",
+      "url": "https://open.spotify.com/track/50fZIBCc63mXIdW9gBYrn9"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -459,26 +467,18 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! EVER LASTING LP",
-        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
+        "name": "A3! Blooming WINTER EP",
+        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
       },
       "artists": [
         {
-          "name": "\u6591\u9ce9\u4e09\u89d2(CV:\u5ee3\u702c\u5927\u4ecb)",
-          "url": "https://open.spotify.com/artist/7qJ9f6SgueSyyqwEwOV07R"
-        },
-        {
-          "name": "\u6728\u6d25\u6d69\u6210&\u590f\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/2oIQmIT1xgvrHg04SXvY9k"
-        },
-        {
-          "name": "\u5175\u982d\u4e5d\u9580(CV:\u7560\u4e2d\u7950)",
-          "url": "https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013"
+          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
+          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
         }
       ],
-      "duration_ms": 249666,
-      "name": "Shake the Shape",
-      "url": "https://open.spotify.com/track/50fZIBCc63mXIdW9gBYrn9"
+      "duration_ms": 187933,
+      "name": "\u5947\u5929\u70c8\u30dd\u30a8\u30de\u30fc",
+      "url": "https://open.spotify.com/track/5SFOKF3wUueRK6CL4V9LcH"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! SUNNY WINTER EP",
-        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
-      },
-      "artists": [
-        {
-          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30af\u3068\u767d\u6708",
-      "url": "https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! BRIGHT SPRING EP",
         "url": "https://open.spotify.com/album/6WPHNqMJ57B8mRtieGbGwm"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 234066,
       "name": "\u306f\u3058\u307e\u308a\u306f\u30ab\u30eb\u30c6\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0PE5JrAnm0ZKglOAPXJVqx"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! SUNNY WINTER EP",
+        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+      },
+      "artists": [
+        {
+          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30af\u3068\u767d\u6708",
+      "url": "https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2"
     },
     {
       "added_at": "2025-04-22 19:04:27",

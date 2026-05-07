@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: BABYMONSTER
 
-1,724 songs - 3 day 18 hr 57 min
+1,725 songs - 3 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1663,6 +1663,7 @@
 | [YoYo \- Japanese Version](https://open.spotify.com/track/6fJJO72ssk4vPYfd3HgNUm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [YoYo \- Japanese Version](https://open.spotify.com/album/3WBQEcnXgPO4umufifObm2) | 3:29 | 2024-08-15 | 2024-09-25 |
 | [Yum](https://open.spotify.com/track/6KsXEZEbBcH16U31sIyofB) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Yum](https://open.spotify.com/album/7JWr8SHqwgzuDuIlg3VtV8) | 2:29 | 2025-04-08 | 2025-04-30 |
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 | 2022-04-08 |
+| [ZAP](https://open.spotify.com/track/6PLgpJz0y2xY4Ooa9IhyUq) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter two](https://open.spotify.com/album/621IFsYDErBmezF4TWADae) | 2:28 | 2026-05-05 |  |
 | [ZEALOUS \- JP Ver.](https://open.spotify.com/track/7mZ2c8C9kg2MzsxV64xd3G) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [TARGET](https://open.spotify.com/album/6CeEjwllE1tVXMKCmeejDz) | 3:55 | 2023-02-21 | 2023-03-22 |
 | [ZERO](https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 2nd Single Album \[Villain : ZERO\]](https://open.spotify.com/album/0hqxfMNfdoP3b4vQY0nUNq) | 3:38 | 2022-06-14 | 2022-08-04 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-03 | 2023-08-11 |

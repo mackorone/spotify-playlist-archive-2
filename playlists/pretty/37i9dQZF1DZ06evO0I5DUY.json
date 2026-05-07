@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 240273,
+  "num_followers": 240303,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADUc6bnntdyH0hb0Oq5PkQs",
+  "snapshot_id": "afkzAAAAAABzzKi/2tey0y8b1gc1cpYU",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rondas Norte\u00f1as",
-        "url": "https://open.spotify.com/album/4i6mDtb1PJbrAYNWCHG2zL"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 190705,
-      "name": "El Hijo del Palenque",
-      "url": "https://open.spotify.com/track/3h242j8N8kczxVip8BiMB1"
+      "duration_ms": 172746,
+      "name": "Cosas del Ayer",
+      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Rondas Norte\u00f1as",
+        "url": "https://open.spotify.com/album/4i6mDtb1PJbrAYNWCHG2zL"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 172746,
-      "name": "Cosas del Ayer",
-      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
+      "duration_ms": 190705,
+      "name": "El Hijo del Palenque",
+      "url": "https://open.spotify.com/track/3h242j8N8kczxVip8BiMB1"
     },
     {
       "added_at": null,

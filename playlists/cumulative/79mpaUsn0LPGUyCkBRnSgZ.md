@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,127 songs - 3 day 0 hr 59 min
+1,128 songs - 3 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-02-07 | 2024-04-05 |
 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 | 2026-01-01 |  |
+| [Fierce Resource Allocation](https://open.spotify.com/track/7iTYbcuDNMnhR0fstPHAp7) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [The Orlando Sentinel](https://open.spotify.com/album/3fN9ksNkNQcYcwXFuyVe6i) | 3:36 | 2026-05-06 |  |
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 | 2025-11-17 | 2026-03-20 |
 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 | 2024-05-27 |  |

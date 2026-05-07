@@ -4,10 +4,11 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-998 songs - 2 day 12 hr 33 min
+1,001 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Loaded @ the Wrong Door,](https://open.spotify.com/track/0xhY3TJLJTTJX9zoaV88rh) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:30 | 2026-05-06 |  |
 | [\(Not\) a Penny in My Pocket \- Demo Version](https://open.spotify.com/track/4svDzNF6PuBs2ojcE8sS1f) | [Jimmy Campbell](https://open.spotify.com/artist/1lvD6UZjY7oyb02YqG1eNC) | [Troubadour \(Lost Recordings 1965\-1991\)](https://open.spotify.com/album/1DkMIFEEetXsDc4Ao0X1Fc) | 2:34 | 2024-05-16 | 2024-07-12 |
 | [\(Where Is The\) Sunshine \- Pt\. II](https://open.spotify.com/track/7Bf6KQF7Q0XWUQQ96UYVOK) | [Kalima](https://open.spotify.com/artist/4VQTPWMyCUIvu941rs2Srs) | [\(Where Is The\) Sunshine](https://open.spotify.com/album/6wxxcaRmLRD1rS9E4LE4Ib) | 3:37 | 2025-04-29 | 2025-07-04 |
 | [100 years of Bill & Lil](https://open.spotify.com/track/14S4p6XIlsHNJdiz8Ptws7) | [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Hamstrings & Hurricanes](https://open.spotify.com/album/1tXqXb6NGntGK4OfOc6j5o) | 3:35 | 2025-11-01 | 2026-01-15 |
@@ -124,6 +125,7 @@
 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 | 2025-08-18 | 2025-09-11 |
 | [Bonbon sucre](https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:44 | 2025-06-12 | 2025-07-04 |
 | [Bonfire](https://open.spotify.com/track/4lGcSqPwW2wQXxVIy3y7c1) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Fear Of Fours](https://open.spotify.com/album/7tFRNYutf1ADebzALVBBt8) | 4:23 | 2026-02-22 | 2026-03-13 |
+| [Born Into Giving It Up,](https://open.spotify.com/track/4HN4AxTzZNlUQlTwyVZp3c) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:00 | 2026-05-06 |  |
 | [Born On The Cusp](https://open.spotify.com/track/3Tc2Q1KlWcgSd4Fm4T41i8) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Set Free](https://open.spotify.com/album/20A3l4TcQUxmiISp0txH8y) | 3:28 | 2026-02-01 | 2026-03-13 |
 | [Bouge\-toi](https://open.spotify.com/track/52E5gMJk3PTV9ycMjJWmei) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:09 | 2025-04-02 | 2025-05-09 |
 | [boy meets girl](https://open.spotify.com/track/109x8MvebgkNncoE1bk3mU) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Contato](https://open.spotify.com/album/2XUCKM3IH9nvHr1VRBgLbe) | 3:29 | 2025-09-10 | 2025-11-15 |
@@ -366,6 +368,7 @@
 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 | 2024-07-29 | 2024-09-08 |
 | [Homme \(萌夢\)](https://open.spotify.com/track/7JV4O8Lh5zb62U4lyll4Ew) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 16:49 | 2024-12-02 | 2025-01-12 |
 | [Hope](https://open.spotify.com/track/1roduXdAiUduitAeMDKx7D) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [EXHALO](https://open.spotify.com/album/62BuJJXQKkvbPi1gnpOQI5) | 3:49 | 2024-12-09 | 2025-01-12 |
+| [Hoping Wishers Never Lose,](https://open.spotify.com/track/5l7ohQ54kKEOWP8l4wDL1V) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 2:56 | 2026-05-06 |  |
 | [Horse County](https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:31 | 2025-11-16 | 2026-01-15 |
 | [HOV](https://open.spotify.com/track/62ik7tuPPdoFrDMkpBC7yt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 3:48 | 2024-09-20 | 2024-11-14 |
 | [How](https://open.spotify.com/track/7iq5isJ5Y9ya3QTqPV4G6A) | [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Ducks](https://open.spotify.com/album/7uwe7Gx9cmqQbOfAN8BeTz) | 1:57 | 2024-03-09 | 2024-05-16 |

@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 66108,
+  "num_followers": 66113,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -855,42 +855,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Ark De Triomf",
-        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Ik Heb Je",
-      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Du Zoon",
-        "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
-      },
-      "artists": [
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        }
-      ],
-      "duration_ms": 290906,
-      "name": "Wakker In Du Cel",
-      "url": "https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Documents (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
       },
@@ -903,42 +867,6 @@
       "duration_ms": 254640,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
-      },
-      "artists": [
-        {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "Zwarte Koffie",
-      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        },
-        {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Wind Waait",
-      "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -963,6 +891,58 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Du Zoon",
+        "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
+      },
+      "artists": [
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "duration_ms": 290906,
+      "name": "Wakker In Du Cel",
+      "url": "https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        },
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Wind Waait",
+      "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Zwarte Koffie",
+      "url": "https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Klokkenluiders Van Amsterdam",
         "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 388840,
       "name": "Klokkenluiders",
       "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "De Ark De Triomf",
+        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Ik Heb Je",
+      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
     },
     {
       "added_at": "2024-09-09 11:56:35",

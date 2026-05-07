@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,183 songs - 2 day 11 hr 3 min
+1,184 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,7 +1001,7 @@
 | [Tequila](https://open.spotify.com/track/3OONvR6HW8rdXNDGYO81Ru) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH2](https://open.spotify.com/album/3qAA1ejpFJwfbSEyXzBikF) | 2:28 | 2024-07-18 | 2024-08-23 |
 | [Terapia](https://open.spotify.com/track/0dnLTX7Dz7iFRRR6DkLAjp) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [BLOCKFEST PACK](https://open.spotify.com/album/7pNPSHlTSF8JN4hNwXjOVt) | 3:36 | 2025-08-07 | 2025-09-19 |
 | [Terapiaa](https://open.spotify.com/track/4fQEoBhm2FlRVRRhhzCBMg) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Terapiaa](https://open.spotify.com/album/2oNqdpIWcoit3LsYhXszDP) | 2:51 | 2025-06-02 | 2025-08-29 |
-| [Terälehti](https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Terälehti](https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr) | 2:28 | 2026-04-02 |  |
+| [Terälehti](https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Terälehti](https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr) | 2:28 | 2026-04-02 | 2026-05-07 |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-04-25 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-03-06 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-02-06 | 2025-04-04 |
@@ -1093,6 +1093,7 @@
 | [Valtakunnallinen](https://open.spotify.com/track/46Up6QBRplYT8BTX25jusP) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Valtakunnallinen](https://open.spotify.com/album/11zYJJk0J1xsegVGMvppI2) | 2:25 | 2025-05-08 | 2025-05-30 |
 | [Vamonos](https://open.spotify.com/track/4VlnaCqpQCs6HNLhIbzKzj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vamonos](https://open.spotify.com/album/6BmzHQGLwR7SANGEbYPWen) | 2:20 | 2025-05-01 | 2025-06-13 |
 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 | 2025-03-27 | 2025-06-13 |
+| [Vanhoja muistellaan](https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Vanhoja muistellaan](https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza) | 2:48 | 2026-04-30 |  |
 | [Vanilj \- Remix](https://open.spotify.com/track/07xksEq7diDcVRd1MfXucZ) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Vanilj \(Remix\)](https://open.spotify.com/album/4mjr0e368diVypsHITzvul) | 2:07 | 2025-01-23 | 2025-02-27 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 | 2025-03-08 |
 | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/track/1rn1Ln1GWJnmxn7oYyKQes) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/album/0IlkosgcmMdnAupG47k0mo) | 2:57 | 2025-10-30 | 2025-11-21 |

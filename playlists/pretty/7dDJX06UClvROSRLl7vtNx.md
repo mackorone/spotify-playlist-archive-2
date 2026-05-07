@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 106,746 likes - 225 songs - 9 hr 41 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 106,807 likes - 225 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 144 | [I Can't Step Back](https://open.spotify.com/track/2fFyXyJy9Zs1CnK4fRQ5Pq) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [I Can't Step Back](https://open.spotify.com/album/2IVIXKxzCoq5tviXrD4Do2) | 2:02 |
 | 145 | [You'll Stay](https://open.spotify.com/track/4zsoGq0jlYwgphTSiNiEZ6) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [You'll Stay](https://open.spotify.com/album/3DeTUOcnCPixWoSVVar5pk) | 2:08 |
 | 146 | [Living The Dream \(Æj Remix\)](https://open.spotify.com/track/6A1Z14aXp0Z6CGhHpCMDvI) | [Saco](https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7), [Zaza](https://open.spotify.com/artist/7y9DU2Qlt1U5s1bcOtLXCp), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [Living The Dream \(Æj Remix\)](https://open.spotify.com/album/3hvpvpsrybNEdKEm845PHs) | 2:38 |
-| 147 | [American Girls](https://open.spotify.com/track/4y1qev4GVoplYv7ArLPJVc) | [Lène](https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [American Girls](https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH) | 2:31 |
+| 147 | [American Girls](https://open.spotify.com/track/4y1qev4GVoplYv7ArLPJVc) | [Léne](https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [American Girls](https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH) | 2:31 |
 | 148 | [In A Minute](https://open.spotify.com/track/5XfaH8WtWxsFCaJLPjTSKC) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [In A Minute](https://open.spotify.com/album/1BUGkvWwe2IDLKbXXzGCiU) | 2:51 |
 | 149 | [I've Found You](https://open.spotify.com/track/4Jd89RSDzTitWjuyE5Ly6v) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [I've Found You](https://open.spotify.com/album/01kkBa2dtL55reco39983Q) | 1:58 |
 | 150 | [Colours](https://open.spotify.com/track/3q2zWRbuRQfvWst5geq7DB) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Colours](https://open.spotify.com/album/3Rgcj7SOsdSUSSR7iX98PU) | 3:25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24184,
+  "num_followers": 24187,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAACpnCw0qjlCpLd9bSRv8P8K",
+  "snapshot_id": "afkzAAAAAAA5jAFOfqYw9OwxITg6j5CU",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
       "artists": [
         {
@@ -504,13 +504,13 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 122346,
-      "name": "Show My Side (feat. Amaarae)",
-      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
+      "duration_ms": 238515,
+      "name": "nothing spoil",
+      "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
       "artists": [
         {
@@ -540,13 +540,13 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 238515,
-      "name": "nothing spoil",
-      "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
+      "duration_ms": 122346,
+      "name": "Show My Side (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
     },
     {
       "added_at": null,

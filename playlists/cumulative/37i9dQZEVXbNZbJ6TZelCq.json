@@ -3681,6 +3681,28 @@
     },
     {
       "album": {
+        "name": "A\u0219a \u0219i a\u0219a",
+        "url": "https://open.spotify.com/album/33kZQwUdXcxEEpfHRZJRHt"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "A\u0219a \u0219i a\u0219a",
+      "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
+    },
+    {
+      "album": {
         "name": "Capitanu'",
         "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
       },
@@ -9904,7 +9926,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 224040,
       "name": "Continui sa te iubesc (Live)",
       "url": "https://open.spotify.com/track/0cQpOtDDxm0RQIDNtfixp9"
@@ -21230,7 +21252,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 215406,
       "name": "Ia-Ma-N Brate Viata Mea",
       "url": "https://open.spotify.com/track/50uGTcLtiBufWxONgDYM2X"
@@ -22530,6 +22552,24 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Jamaica (Live)",
+        "url": "https://open.spotify.com/album/6gSSvRu4B3ZFo9bv26ATn7"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Jamaica - Live",
+      "url": "https://open.spotify.com/track/4IbwrJnzm9udi46ear9lTC"
     },
     {
       "album": {
@@ -45874,7 +45914,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 145184,
       "name": "Tu blondina,eu brunet",
       "url": "https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH"
@@ -46866,7 +46906,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 173679,
       "name": "Vara-i vara",
       "url": "https://open.spotify.com/track/77IZ7M02qCR7D6PDITwHi5"

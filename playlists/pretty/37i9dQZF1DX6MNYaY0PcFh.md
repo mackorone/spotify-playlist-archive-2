@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Eliza Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,895 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,905 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [Supa Smoov \- Bumpa's Xtra Smoov Mix](https://open.spotify.com/track/3qcZkQELHhpYTMYWPM1BT7) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Supa Smoov \(Bumpa's Xtra Smoov Mix\)](https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf) | 2:43 |
 | 57 | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF) | 3:37 |
 | 58 | [Picking Up The Pace](https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Picking Up The Pace](https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547) | 2:58 |
-| 59 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
-| 60 | [Good Life](https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI) | 2:47 |
+| 59 | [Good Life](https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI) | 2:47 |
+| 60 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
 | 61 | [2 Spirits](https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [2 Spirits](https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi) | 2:27 |
 | 62 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 63 | [Melon](https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Melon](https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3) | 3:27 |

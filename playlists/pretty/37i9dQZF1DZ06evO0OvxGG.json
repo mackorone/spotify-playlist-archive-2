@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9303,
+  "num_followers": 9304,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAABvxd6WRtGKchIZtwSu22I2",
+  "snapshot_id": "afkzAAAAAABA3Yf7EfQGfQkv3VzGokv4",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Preta.Foda.Quente",
         "url": "https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ"
       },
@@ -403,30 +427,6 @@
       "duration_ms": 181951,
       "name": "Preta.Foda.Quente",
       "url": "https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "added_at": null,
@@ -606,35 +606,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Dr. Ace",
-          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
         }
       ],
-      "duration_ms": 140108,
-      "name": "Eu Gosto",
-      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Novinho",
-      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
+      "duration_ms": 137142,
+      "name": "Vai, Slip",
+      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
     },
     {
       "added_at": null,
@@ -667,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Novinho",
+      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Card",
         "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
       },
@@ -694,11 +690,15 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Dr. Ace",
+          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Vai, Slip",
-      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
+      "duration_ms": 140108,
+      "name": "Eu Gosto",
+      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
     },
     {
       "added_at": null,
@@ -823,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
-        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
+        "name": "TODO MUNDO SABE",
+        "url": "https://open.spotify.com/album/1gvwcjVtaCb7r0HHRh6xcA"
       },
       "artists": [
         {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+          "name": "Sayle",
+          "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 141742,
-      "name": "HISTERIA",
-      "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
+      "duration_ms": 140798,
+      "name": "TODO MUNDO SABE",
+      "url": "https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO MUNDO SABE",
-        "url": "https://open.spotify.com/album/1gvwcjVtaCb7r0HHRh6xcA"
+        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
+        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
       },
       "artists": [
         {
-          "name": "Sayle",
-          "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 140798,
-      "name": "TODO MUNDO SABE",
-      "url": "https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD"
+      "duration_ms": 141742,
+      "name": "HISTERIA",
+      "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
     },
     {
       "added_at": null,

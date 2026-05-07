@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Madonna & Sabrina Carpenter, Zara Larsson og m\u00f6rgum fleiri!",
-  "num_followers": 9628,
+  "num_followers": 9630,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
         "name": "MANSORY",
         "url": "https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 226480,
       "name": "MANSORY",
       "url": "https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 119965,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f"
       },
@@ -523,6 +503,26 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 119965,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
         "name": "i'm not joking",
         "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 234605,
       "name": "i'm not joking",
       "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
-        "name": ">>>hands on me<<<",
-        "url": "https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": ">>>hands on me<<<",
-      "url": "https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -571,18 +555,34 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
+        "name": ">>>hands on me<<<",
+        "url": "https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 162379,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
+      "duration_ms": 137560,
+      "name": ">>>hands on me<<<",
+      "url": "https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 196227,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 196227,
-      "name": "Should've Known Better",
-      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
+      "duration_ms": 162379,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -639,18 +639,22 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "Toy With Me (Deluxe)",
-        "url": "https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ"
+        "name": "I Bring My Gun To The Function (with Boys Noize)",
+        "url": "https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 147541,
-      "name": "Just Wanna Cry",
-      "url": "https://open.spotify.com/track/4sVjCdImoRX1JR9VnmVgE0"
+      "duration_ms": 190291,
+      "name": "I Bring My Gun To The Function (with Boys Noize)",
+      "url": "https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -671,22 +675,18 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "I Bring My Gun To The Function (with Boys Noize)",
-        "url": "https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA"
+        "name": "Toy With Me (Deluxe)",
+        "url": "https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 190291,
-      "name": "I Bring My Gun To The Function (with Boys Noize)",
-      "url": "https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG"
+      "duration_ms": 147541,
+      "name": "Just Wanna Cry",
+      "url": "https://open.spotify.com/track/4sVjCdImoRX1JR9VnmVgE0"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/45Hlf7xHpN8Xn9Ei161RdY"
-      },
-      "artists": [
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 304489,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/48ybY55YzGBPU23zPCnttA"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
         "name": "Sex, Drugs & Money",
         "url": "https://open.spotify.com/album/39IC1OBhLfOZFtA3lK3bAM"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 159571,
       "name": "Sex, Drugs & Money",
       "url": "https://open.spotify.com/track/4YWgQPzbKUNnl0cT657SqU"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/45Hlf7xHpN8Xn9Ei161RdY"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 304489,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/48ybY55YzGBPU23zPCnttA"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
+        "name": "Miss Congeniality",
+        "url": "https://open.spotify.com/album/6nxPuN7A0UsGIpPcUpVrIU"
+      },
+      "artists": [
+        {
+          "name": "Esther",
+          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Miss Congeniality",
+      "url": "https://open.spotify.com/track/7DENQnNlSFhL4YicOetm5m"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
         "name": "Golden Chain",
         "url": "https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 133571,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/0TDWLRlQZolhApIkNePfNp"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
-        "name": "Miss Congeniality",
-        "url": "https://open.spotify.com/album/6nxPuN7A0UsGIpPcUpVrIU"
-      },
-      "artists": [
-        {
-          "name": "Esther",
-          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Miss Congeniality",
-      "url": "https://open.spotify.com/track/7DENQnNlSFhL4YicOetm5m"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "Toke",
-        "url": "https://open.spotify.com/album/2YFKRAL5aepKRTiG9Qb39v"
-      },
-      "artists": [
-        {
-          "name": "Joalin",
-          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
-        }
-      ],
-      "duration_ms": 94800,
-      "name": "Toke",
-      "url": "https://open.spotify.com/track/0bqgtZ5RmjPLxZ3C03ckL3"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
         "name": "LAY LOW",
         "url": "https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 152260,
       "name": "LAY LOW",
       "url": "https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
+        "name": "Toke",
+        "url": "https://open.spotify.com/album/2YFKRAL5aepKRTiG9Qb39v"
+      },
+      "artists": [
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "duration_ms": 94800,
+      "name": "Toke",
+      "url": "https://open.spotify.com/track/0bqgtZ5RmjPLxZ3C03ckL3"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
+        "name": "Disco Stoppin",
+        "url": "https://open.spotify.com/album/0QctAdoxpr43bQZr6NWCaS"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Bon Voyage",
+          "url": "https://open.spotify.com/artist/7AuxdjSOJuzph0G8epRsqT"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Disco Stoppin",
+      "url": "https://open.spotify.com/track/4vJwhxwqTMqcIOtGfG8Wod"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
         "name": "Skabt Af Pres",
         "url": "https://open.spotify.com/album/7nA98gIKgpHZCzBhBR8ckG"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 265718,
       "name": "Vision",
       "url": "https://open.spotify.com/track/2r4MGEfEC3F3XdCTvhplXq"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
-        "name": "Disco Stoppin",
-        "url": "https://open.spotify.com/album/0QctAdoxpr43bQZr6NWCaS"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Bon Voyage",
-          "url": "https://open.spotify.com/artist/7AuxdjSOJuzph0G8epRsqT"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Disco Stoppin",
-      "url": "https://open.spotify.com/track/4vJwhxwqTMqcIOtGfG8Wod"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/247RTQ6zr1gzZdWgxhu67D"
+      },
+      "artists": [
+        {
+          "name": "Moll\u00fd",
+          "url": "https://open.spotify.com/artist/140BL4TUquU2SJmEEST3fw"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/2v6LycQIDcAnWI41msk7MI"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
         "name": "Where I Go, I Think",
         "url": "https://open.spotify.com/album/2wgywXX2GCrbl9IKwvST98"
       },
@@ -1303,6 +1319,22 @@
       "duration_ms": 142416,
       "name": "Sunday Service",
       "url": "https://open.spotify.com/track/3Qxk5yq7tN8rgPXehm6ZiU"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
+        "name": "Airdry",
+        "url": "https://open.spotify.com/album/25L6eAG0ZozqZhk4Jc2ckb"
+      },
+      "artists": [
+        {
+          "name": "Marianna Winter",
+          "url": "https://open.spotify.com/artist/0qtf9D4skNWANNYANrecmY"
+        }
+      ],
+      "duration_ms": 203261,
+      "name": "Airdry",
+      "url": "https://open.spotify.com/track/08UlrSGhdYWLg82nAV1gYI"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -1327,22 +1359,6 @@
       "duration_ms": 264303,
       "name": "Ensom",
       "url": "https://open.spotify.com/track/6Vwu8cL5hM1BdoUyDPlPgc"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/247RTQ6zr1gzZdWgxhu67D"
-      },
-      "artists": [
-        {
-          "name": "Moll\u00fd",
-          "url": "https://open.spotify.com/artist/140BL4TUquU2SJmEEST3fw"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/2v6LycQIDcAnWI41msk7MI"
     },
     {
       "added_at": "2026-05-01 00:00:19",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "Airdry",
-        "url": "https://open.spotify.com/album/25L6eAG0ZozqZhk4Jc2ckb"
-      },
-      "artists": [
-        {
-          "name": "Marianna Winter",
-          "url": "https://open.spotify.com/artist/0qtf9D4skNWANNYANrecmY"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Airdry",
-      "url": "https://open.spotify.com/track/08UlrSGhdYWLg82nAV1gYI"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/7AvCjkNsW0w1oaj7MblGjj"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-01 00:00:19",
       "album": {
-        "name": "The World Is A Fine Place",
-        "url": "https://open.spotify.com/album/2MBpAJcOnA7gSqReIBVbS0"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1r\u00f0ur Johannesen",
-          "url": "https://open.spotify.com/artist/1ykx76vUoDz2JKmGOS4DhD"
-        }
-      ],
-      "duration_ms": 251876,
-      "name": "The World Is A Fine Place",
-      "url": "https://open.spotify.com/track/151a1ZldhYb6AUwLxP3d8g"
-    },
-    {
-      "added_at": "2026-05-01 00:00:19",
-      "album": {
         "name": "K.O",
         "url": "https://open.spotify.com/album/3pxJUIaXiFdAX6CYCS40GN"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 161076,
       "name": "K.O",
       "url": "https://open.spotify.com/track/32mIGkVEQptZc2C9vQ4fEt"
+    },
+    {
+      "added_at": "2026-05-01 00:00:19",
+      "album": {
+        "name": "The World Is A Fine Place",
+        "url": "https://open.spotify.com/album/2MBpAJcOnA7gSqReIBVbS0"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1r\u00f0ur Johannesen",
+          "url": "https://open.spotify.com/artist/1ykx76vUoDz2JKmGOS4DhD"
+        }
+      ],
+      "duration_ms": 251876,
+      "name": "The World Is A Fine Place",
+      "url": "https://open.spotify.com/track/151a1ZldhYb6AUwLxP3d8g"
     }
   ],
   "unique_name": "New Music Friday Iceland",

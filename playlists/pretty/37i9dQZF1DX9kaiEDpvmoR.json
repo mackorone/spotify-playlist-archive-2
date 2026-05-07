@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93882,
+  "num_followers": 93879,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 198796,
-      "name": "Sagolik",
-      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "One on One",
         "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 221623,
       "name": "One on One",
       "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 198796,
+      "name": "Sagolik",
+      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -607,18 +607,22 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "G\u00f6teborg",
-        "url": "https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK"
+        "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
+        "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
       },
       "artists": [
+        {
+          "name": "Anastas\u00eda",
+          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
+        },
         {
           "name": "Valter Nilsson",
           "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
         }
       ],
-      "duration_ms": 228561,
-      "name": "G\u00f6teborg",
-      "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
+      "duration_ms": 197454,
+      "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
+      "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -635,6 +639,22 @@
       "duration_ms": 190881,
       "name": "Ton\u00e5rsland",
       "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "G\u00f6teborg",
+        "url": "https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "duration_ms": 228561,
+      "name": "G\u00f6teborg",
+      "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -671,26 +691,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
-        "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
-      },
-      "artists": [
-        {
-          "name": "Anastas\u00eda",
-          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
-        },
-        {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
-        }
-      ],
-      "duration_ms": 197454,
-      "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
-      "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "M\u00e4nniskobarn",
         "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "Det blir b\u00e4ttre",
         "url": "https://open.spotify.com/album/1eodPSarhvGseJM3jvOdvM"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191253,
       "name": "Det blir b\u00e4ttre",
       "url": "https://open.spotify.com/track/59awxTVwVwz3yY7Oo4syqV"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "EXISTENS",
-        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "EXISTENS",
-      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "Bara trummor kvar",
         "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 218622,
       "name": "Bara trummor kvar",
       "url": "https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "Just to Make You Laugh",
-        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
+        "name": "Praying for a Miracle",
+        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
       },
       "artists": [
         {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+          "name": "Erik Gr\u00f6nwall",
+          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
         }
       ],
-      "duration_ms": 188488,
-      "name": "Just to Make You Laugh",
-      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
+      "duration_ms": 226675,
+      "name": "Praying for a Miracle",
+      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -895,6 +895,38 @@
       "duration_ms": 184145,
       "name": "Dansa",
       "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "Just to Make You Laugh",
+        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 188488,
+      "name": "Just to Make You Laugh",
+      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "Last To Know",
+        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Last To Know",
+      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -931,22 +963,6 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
-        "name": "Last To Know",
-        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Last To Know",
-      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -1003,34 +1019,18 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "Praying for a Miracle",
-        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
+        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
+        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
       },
       "artists": [
         {
-          "name": "Erik Gr\u00f6nwall",
-          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
         }
       ],
-      "duration_ms": 226675,
-      "name": "Praying for a Miracle",
-      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+      "duration_ms": 264146,
+      "name": "Det b\u00e4sta av allt - Live",
+      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -1047,6 +1047,22 @@
       "duration_ms": 252629,
       "name": "Margaretas s\u00e5ng",
       "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
+        "name": "Older (From the TV series \u201dTystnaden\u201d)",
+        "url": "https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 214712,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
         "name": "Show Me Your Heart",
         "url": "https://open.spotify.com/album/1i9Gi892Z4rD4GCKr0Dadp"
       },
@@ -1111,38 +1143,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
-        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Det b\u00e4sta av allt - Live",
-      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
-        "name": "Older (From the TV series \u201dTystnaden\u201d)",
-        "url": "https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 214712,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "Forevers",
         "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "Mother's Love Conquers All",
         "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 317160,
       "name": "Mother's Love Conquers All",
       "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
     },
     {
       "added_at": "2026-05-04 07:30:54",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-05-04 07:30:54",
       "album": {
-        "name": "Vinterdvala",
-        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 209118,
-      "name": "Vinterdvala",
-      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
-    },
-    {
-      "added_at": "2026-05-04 07:30:54",
-      "album": {
         "name": "Skebokvarnsv. 209 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 213115,
       "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
       "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+    },
+    {
+      "added_at": "2026-05-04 07:30:54",
+      "album": {
+        "name": "Vinterdvala",
+        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 209118,
+      "name": "Vinterdvala",
+      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
     },
     {
       "added_at": "2026-05-04 07:30:54",

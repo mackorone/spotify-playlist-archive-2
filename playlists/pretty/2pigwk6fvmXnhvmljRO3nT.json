@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALu7lRXlcaWP+caHBapw/Vwl4ma/BX",
+  "snapshot_id": "AAALvg0pAecM/Z5O6CIRR6LegYQf3G5T",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -55607,22 +55607,6 @@
       "duration_ms": 206710,
       "name": "Piero laughs at us",
       "url": "https://open.spotify.com/track/0fGbon58TJAGc3wNRkAUKV"
-    },
-    {
-      "added_at": "2025-01-03 01:26:05",
-      "album": {
-        "name": "Live Toy",
-        "url": "https://open.spotify.com/album/0E1XFkQDSqBzFxsBX1uy23"
-      },
-      "artists": [
-        {
-          "name": "Kim Yeon Woo",
-          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "\uc5ec\uc804\ud788 \uc544\ub984\ub2e4\uc6b4\uc9c0",
-      "url": "https://open.spotify.com/track/73e8u4XEcipWIgtHTtPnIN"
     },
     {
       "added_at": "2025-01-03 01:26:05",
@@ -144005,30 +143989,6 @@
       "url": "https://open.spotify.com/track/2JfyjfqbQrTXMzH8n0fOht"
     },
     {
-      "added_at": "2026-01-16 22:19:07",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "THE END (feat. will.i.am & Jessica Pratt)",
-      "url": "https://open.spotify.com/track/22FKiBdLUCRHlZJthzTlAy"
-    },
-    {
       "added_at": "2026-01-16 22:21:29",
       "album": {
         "name": "Don't Be Dumb",
@@ -150031,6 +149991,22 @@
       "duration_ms": 239146,
       "name": "Circle of Life",
       "url": "https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"
+    },
+    {
+      "added_at": "2026-05-06 05:29:27",
+      "album": {
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 215364,
+      "name": "Topanga",
+      "url": "https://open.spotify.com/track/1Am3fwJi1NF1sD2McZfVWi"
     }
   ],
   "unique_name": "Purge",

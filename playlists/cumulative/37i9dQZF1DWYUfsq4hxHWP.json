@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Colin Lynch, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Tyce Delk, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -3909,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Back to the Future",
+        "url": "https://open.spotify.com/album/4bvwdvivxGmvqneT2v0AUh"
+      },
+      "artists": [
+        {
+          "name": "Madison Spratley",
+          "url": "https://open.spotify.com/artist/3rpZQJIz1OJsy9gBjSNS6M"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171794,
+      "name": "Back to the Future",
+      "url": "https://open.spotify.com/track/6OuyJRM2poAVS32Cn4FOkP"
+    },
+    {
+      "album": {
         "name": "Back To Where You Came From",
         "url": "https://open.spotify.com/album/2V8wIHZJavwj7zDkuTQ7uR"
       },
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 233122,
       "name": "Blues At My Funeral",
       "url": "https://open.spotify.com/track/52dwm4IBErZyShQ2CCU6yK"
@@ -8300,6 +8318,28 @@
       "duration_ms": 219473,
       "name": "Builder",
       "url": "https://open.spotify.com/track/5oY2V3HKrD4KIxajI29D2H"
+    },
+    {
+      "album": {
+        "name": "Bummin' Cigarettes",
+        "url": "https://open.spotify.com/album/43qyQfT9xxycH4ORTGs7cl"
+      },
+      "artists": [
+        {
+          "name": "Julie Eddy",
+          "url": "https://open.spotify.com/artist/3x7zsjJ0ooO3n1XVOVn1KQ"
+        },
+        {
+          "name": "Jake Matthew",
+          "url": "https://open.spotify.com/artist/0ZlqMVSnozDiZwPleXidbN"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241621,
+      "name": "Bummin' Cigarettes",
+      "url": "https://open.spotify.com/track/4Chv9Erduh7pqHfWXQYgGT"
     },
     {
       "album": {
@@ -17631,6 +17671,24 @@
     },
     {
       "album": {
+        "name": "EXPERT",
+        "url": "https://open.spotify.com/album/2fR99xJEOGDzG9dmgrfwf5"
+      },
+      "artists": [
+        {
+          "name": "McCall Chapin",
+          "url": "https://open.spotify.com/artist/1p1vSCajXqjtztjnfu3xuB"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "EXPERT",
+      "url": "https://open.spotify.com/track/2iXgWUsYNlpciHSNGJYwIU"
+    },
+    {
+      "album": {
         "name": "Eye To Eye",
         "url": "https://open.spotify.com/album/6tSnjiHIGZQd8Rf9P411aR"
       },
@@ -18472,7 +18530,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 180961,
       "name": "Felicity - Demo",
       "url": "https://open.spotify.com/track/7oe7qqbXpFbwPcmDtiRGBF"
@@ -19315,6 +19373,24 @@
     },
     {
       "album": {
+        "name": "Fool That Fell In Love",
+        "url": "https://open.spotify.com/album/0FwBJqic5tsb7hQ6EuoA4b"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211409,
+      "name": "Fool That Fell In Love",
+      "url": "https://open.spotify.com/track/4FTZ2RfFTyFRZc6UH2gnJn"
+    },
+    {
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/2MTbZGbI0AJkD6OdPfkxii"
       },
@@ -19932,7 +20008,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 210133,
       "name": "Get Around Boy",
       "url": "https://open.spotify.com/track/2b81IgbUNdvxjBCgf9xhAX"
@@ -24038,7 +24114,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 201754,
       "name": "Heart Like Yours",
       "url": "https://open.spotify.com/track/4cKqMrAV31REYiiVA9FoU2"
@@ -29223,6 +29299,24 @@
     },
     {
       "album": {
+        "name": "If Hell Were A Bar",
+        "url": "https://open.spotify.com/album/79tOtIOeU33PXLkps86Kdq"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174474,
+      "name": "If Hell Were A Bar",
+      "url": "https://open.spotify.com/track/44kxmvqyN0TFpFbzoWBTfo"
+    },
+    {
+      "album": {
         "name": "if his boots could talk",
         "url": "https://open.spotify.com/album/1kDdZcN8eRYEBCqmSzeQlN"
       },
@@ -29742,7 +29836,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 190973,
       "name": "If You Don't",
       "url": "https://open.spotify.com/track/3rxFynWKCfbbhQRuk7AawU"
@@ -38157,6 +38251,24 @@
     },
     {
       "album": {
+        "name": "Mind If I Smoke",
+        "url": "https://open.spotify.com/album/0f9JR7qeS3xeXmiWoTYRS4"
+      },
+      "artists": [
+        {
+          "name": "Tyce Delk",
+          "url": "https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225294,
+      "name": "Mind If I Smoke",
+      "url": "https://open.spotify.com/track/25ptpOTfjUD1WKE59hmIRR"
+    },
+    {
+      "album": {
         "name": "Mindset",
         "url": "https://open.spotify.com/album/4PiKjOlklrPSCVTFkdTlCo"
       },
@@ -40207,6 +40319,24 @@
     },
     {
       "album": {
+        "name": "GENERATIONAL HEARTBREAK",
+        "url": "https://open.spotify.com/album/6mXAGVVTEadr8FvwakztXx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Anne",
+          "url": "https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239281,
+      "name": "nevermind",
+      "url": "https://open.spotify.com/track/71Z7PeeB1YEv4KOKyZbEIJ"
+    },
+    {
+      "album": {
         "name": "New Bartender",
         "url": "https://open.spotify.com/album/4JADj9bTfiWWUjzgL3EFll"
       },
@@ -40676,7 +40806,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 146119,
       "name": "No Telling Now",
       "url": "https://open.spotify.com/track/6lvOEHrb0I52MAkU3FOvMY"
@@ -43480,7 +43610,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 200361,
       "name": "paloma",
       "url": "https://open.spotify.com/track/1jf0kGhPYaOmsDzCm0lDI4"
@@ -55389,6 +55519,24 @@
     },
     {
       "album": {
+        "name": "Texas Soul",
+        "url": "https://open.spotify.com/album/3lORSQI9L3TGloKBPceTrK"
+      },
+      "artists": [
+        {
+          "name": "Micah Edwards",
+          "url": "https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240372,
+      "name": "Texas Soul",
+      "url": "https://open.spotify.com/track/1vnEsJieBgwyNuAnuiGQe7"
+    },
+    {
+      "album": {
         "name": "Thank God",
         "url": "https://open.spotify.com/album/5S3jGVIWqCTYi02fgtWYbh"
       },
@@ -59336,6 +59484,28 @@
       "duration_ms": 182506,
       "name": "Turn on Your Light",
       "url": "https://open.spotify.com/track/2Sd5Jh6zENrY4SLx2ZMdkv"
+    },
+    {
+      "album": {
+        "name": "Turn This Love Around",
+        "url": "https://open.spotify.com/album/3OIPwE5oo0uhIAVyk4ShQX"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173488,
+      "name": "Turn This Love Around",
+      "url": "https://open.spotify.com/track/4js6PdeNm5ZfPAaNZQyoKc"
     },
     {
       "album": {

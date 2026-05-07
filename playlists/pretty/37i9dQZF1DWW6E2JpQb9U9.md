@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,998 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,013 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 28 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 |
 | 29 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
 | 30 | [Toro y Pampa \- En Vivo](https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 3:48 |
-| 31 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
-| 32 | [Roxana Porcellana \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Roxana Porcellana \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i) | 4:05 |
+| 31 | [Roxana Porcellana \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Roxana Porcellana \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i) | 4:05 |
+| 32 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
 | 33 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 |
 | 34 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
 | 35 | [Pacífico](https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ritual Piojoso \(En Vivo en River Plate\)](https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6) | 4:44 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 95 | [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 |
 | 96 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
 | 97 | [Niño Abuelo \- Vivo en Obras 20/12/2024](https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Niño Abuelo \(Vivo en Obras 20/12/2024\)](https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC) | 4:40 |
-| 98 | [Fanky \(En Vivo\)](https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Fanky \(En Vivo\)](https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6) | 5:03 |
-| 99 | [Sheriff \- En Vivo en Baradero Diciembre 2024](https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Sheriff \(En Vivo en Baradero Diciembre 2024\)](https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0) | 5:47 |
-| 100 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
+| 98 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
+| 99 | [Fanky \(En Vivo\)](https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Fanky \(En Vivo\)](https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6) | 5:03 |
+| 100 | [Sheriff \- En Vivo en Baradero Diciembre 2024](https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Sheriff \(En Vivo en Baradero Diciembre 2024\)](https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0) | 5:47 |
 
 Snapshot ID: `AAAAAD688/8Z7PeR3UMFTTNR6TKN9TVm`

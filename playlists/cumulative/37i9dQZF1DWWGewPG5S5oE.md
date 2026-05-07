@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 挾間美帆
 
-513 songs - 1 day 17 hr 49 min
+514 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Light](https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2), [Yu\-ri Tanaka](https://open.spotify.com/artist/4ncMVbzL2pGrGtcejiUk0r) | [Light](https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj) | 3:58 | 2023-05-30 | 2023-09-13 |
 | [Lightning Moment](https://open.spotify.com/track/6AtMvCi9dlzW6baOkLtBn2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [RESONANCE](https://open.spotify.com/album/2ArHDGgrMbxIsxsRTacsLt) | 4:22 | 2025-12-16 | 2026-04-01 |
 | [Like Rain](https://open.spotify.com/track/5i95eg5XIxQM1fFBzISwhu) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Like Rain](https://open.spotify.com/album/0Kmzi8pYNvZmSCftjyJ6t6) | 3:55 | 2025-12-09 | 2025-12-17 |
+| [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-04-28 |  |
 | [Long Way](https://open.spotify.com/track/1pj3uHbRdGqR74BinsUQtb) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Yusuke Sase](https://open.spotify.com/artist/2IIu2bokBK7Ypa8ayaT7a7), [Tomoaki Baba](https://open.spotify.com/artist/33cOkvm7eN6eLevzqCuBTZ), [Shota Watanabe](https://open.spotify.com/artist/51aJHn1DtpKe23KBp5igP0), [Keisuke Furuki](https://open.spotify.com/artist/0j1X1NUzqVm0iHZkeXXrx9) | [Long Way](https://open.spotify.com/album/3ZFqID6ShRS5h1jp7pzaH1) | 5:20 | 2023-05-30 | 2023-07-26 |
 | [Long Way](https://open.spotify.com/track/5L1NeeITlI2bHP5Z9E8mJQ) | [木村紘](https://open.spotify.com/artist/7kpUeYy4uViw2WqItHP1mk), [Yusuke Sase](https://open.spotify.com/artist/2IIu2bokBK7Ypa8ayaT7a7), [Tomoaki Baba](https://open.spotify.com/artist/33cOkvm7eN6eLevzqCuBTZ), [Shota Watanabe](https://open.spotify.com/artist/51aJHn1DtpKe23KBp5igP0), [Keisuke Furuki](https://open.spotify.com/artist/0j1X1NUzqVm0iHZkeXXrx9) | [Long Way](https://open.spotify.com/album/04jOhXDYymWNGvo8Vp9bUn) | 5:20 | 2023-05-30 | 2023-06-01 |
 | [Longseller Tornado](https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Longseller Tornado](https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI) | 4:53 | 2023-03-21 | 2023-06-28 |
@@ -456,7 +457,7 @@
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 | 2024-11-13 |
 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 | 2024-05-28 | 2024-12-18 |
-| [しびぃっスね](https://open.spotify.com/track/3uhGVjFzxMwJRtHdHASKtb) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [しびぃっスね](https://open.spotify.com/album/2F5waaCzcu5JFs6B8AhNVB) | 2:53 | 2026-03-03 |  |
+| [しびぃっスね](https://open.spotify.com/track/3uhGVjFzxMwJRtHdHASKtb) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [しびぃっスね](https://open.spotify.com/album/2F5waaCzcu5JFs6B8AhNVB) | 2:53 | 2026-03-03 | 2026-05-07 |
 | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 | 2023-05-16 | 2025-09-25 |
 | [ほとり](https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ほとり](https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj) | 5:09 | 2022-09-06 | 2022-11-20 |
 | [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 | 2022-09-06 | 2022-09-21 |

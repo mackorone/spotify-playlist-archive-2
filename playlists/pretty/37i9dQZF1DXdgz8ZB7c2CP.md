@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🧑‍🩰 featuring jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,560 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,551 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 66 | [NOLIGHT](https://open.spotify.com/track/62nf1ZWpTaNxeIFUsAIHTP) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Heybela](https://open.spotify.com/artist/4RYz77kqy96jQVDSB6QUIc) | [NOLIGHT](https://open.spotify.com/album/2zFKg0yCDYF9kCm5VYuyD7) | 3:16 |
 | 67 | [youshouldknow \(feat\. Casey Cook\)](https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [type:era](https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz) | 2:52 |
 | 68 | [Innuendo \(I Get U\)](https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:28 |
-| 69 | [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 |
+| 69 | [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 |
 | 70 | [I WANNA GO BACK](https://open.spotify.com/track/7Bt0qvHolOalk1PPy4LH88) | [PAYSO](https://open.spotify.com/artist/07XGuNc9jEnro3dhQ9CcoM) | [I WANNA GO BACK](https://open.spotify.com/album/7tbfrbloledJgjKCd7ulFI) | 2:32 |
 | 71 | [I Need The](https://open.spotify.com/track/6nQs7YFkvBIR3OpnAXDfLL) | [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [I Need The](https://open.spotify.com/album/4eNcrj00dgzuo9Od6CbO2F) | 3:44 |
 | 72 | [Ima go down](https://open.spotify.com/track/541YFrrcNpsGHVreeXla9V) | [Fifi](https://open.spotify.com/artist/0G31cfQ16TnAGyi5AZG5qT) | [Ima go down](https://open.spotify.com/album/6gYE1c7bHBjlWIKmvBCVo5) | 2:45 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 79 | [Close To Me](https://open.spotify.com/track/0qEqzaHSaDrcnsbRvfWZRK) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [Close To Me](https://open.spotify.com/album/2i3TlcXUjW45JNMDDuS9T6) | 3:26 |
 | 80 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
 | 81 | [DECISION](https://open.spotify.com/track/0xcVvOOLPgx7kbrLdGOZuL) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [Limmz](https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf) | [DECISION](https://open.spotify.com/album/3lZxQ5d18JTOV3mTuEWgqj) | 3:39 |
-| 82 | [Falling](https://open.spotify.com/track/0cDbpjLwt0dGmFC2BtWYjY) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [fkblnde](https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl) | [Falling](https://open.spotify.com/album/6rnazuj6iTntlzDSYFthQS) | 3:12 |
+| 82 | [Falling](https://open.spotify.com/track/0cDbpjLwt0dGmFC2BtWYjY) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [fkblnde](https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl) | [Falling](https://open.spotify.com/album/6rnazuj6iTntlzDSYFthQS) | 3:10 |
 | 83 | [From Now](https://open.spotify.com/track/0DM3lSIBNK4ydX6jId7XbC) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [From Now](https://open.spotify.com/album/7yp2yyMXwUVCl2933mHBRp) | 2:52 |
 | 84 | [dance 4 infinity](https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [333 dance songs](https://open.spotify.com/album/5i08Xlvbxhlbq3M4NLEV0l) | 2:35 |
 | 85 | [SAY SOMETHING](https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAY SOMETHING](https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr) | 2:51 |

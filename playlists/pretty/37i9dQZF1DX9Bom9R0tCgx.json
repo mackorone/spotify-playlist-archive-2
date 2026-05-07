@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 454639,
+  "num_followers": 454660,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Satisfaction (Hardwell & Maddix Remix)",
         "url": "https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 204436,
       "name": "Satisfaction - Hardwell & Maddix Remix",
       "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Greg Taro",
-          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Greg Taro",
+          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Konye",
+        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 164754,
+      "name": "Konye",
+      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Konye",
-        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 164754,
-      "name": "Konye",
-      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 165049,
       "name": "MIRAGE",
       "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Day 'N' Nite",
         "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 133000,
       "name": "Day 'N' Nite",
       "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Boom Boom Boom",
         "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
       },
@@ -1863,18 +1879,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+        "name": "HARD POP VOL. 2",
+        "url": "https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP"
       },
       "artists": [
         {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
+      "duration_ms": 339310,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1891,22 +1907,6 @@
       "duration_ms": 124867,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "HARD POP VOL. 2",
-        "url": "https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 339310,
-      "name": "Nero",
-      "url": "https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1939,30 +1939,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hey Ya",
-        "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        }
-      ],
-      "duration_ms": 134749,
-      "name": "Hey Ya",
-      "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "My Mama Dropped LSD in the 90's",
         "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
@@ -1983,6 +1959,30 @@
       "duration_ms": 176875,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Hey Ya",
+        "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "duration_ms": 134749,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
     },
     {
       "added_at": "2025-06-26 22:00:24",

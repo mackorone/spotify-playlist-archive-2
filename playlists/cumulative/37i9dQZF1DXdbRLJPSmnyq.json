@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Creepy Nuts",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: [Alexandros]",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -770,6 +770,24 @@
       "duration_ms": 234323,
       "name": "Cinderella Boy",
       "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
+    },
+    {
+      "album": {
+        "name": "CLASSIC",
+        "url": "https://open.spotify.com/album/2ggGckx5SDKJhSjUAO5S4T"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198879,
+      "name": "CLASSIC",
+      "url": "https://open.spotify.com/track/2N2XEwITqsohA2mP6DtjCy"
     },
     {
       "album": {
@@ -1566,6 +1584,24 @@
       "duration_ms": 161632,
       "name": "Hai Yorokonde",
       "url": "https://open.spotify.com/track/6woV8uWxn7rcLZxJKYruS1"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/4LwP7u8UtMIJalMgZtu5EP"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3aCu4VabG9Bynysh1jx3EK"
     },
     {
       "album": {
@@ -5601,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30c7\u30a2\u304c\u6ea2\u308c\u3066\u7720\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/1dBWNF06b7lnCF1M2SLTTZ"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262997,
+      "name": "\u30a4\u30c7\u30a2\u304c\u6ea2\u308c\u3066\u7720\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/4nsrIXDihSYr8eb56j015A"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30ce\u30bb\u30f3\u30c8\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/1kWmrfi2SEltqcsJ200N44"
       },
@@ -6874,6 +6928,24 @@
       "duration_ms": 226177,
       "name": "\u5065\u5fd8\u8005\u305f\u3061",
       "url": "https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2"
+    },
+    {
+      "album": {
+        "name": "\u50ac\u3057",
+        "url": "https://open.spotify.com/album/0IBbhw8p807tbWtSNHWopH"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u68ee\u5143\u8cb4",
+          "url": "https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184997,
+      "name": "\u50ac\u3057",
+      "url": "https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn"
     },
     {
       "album": {

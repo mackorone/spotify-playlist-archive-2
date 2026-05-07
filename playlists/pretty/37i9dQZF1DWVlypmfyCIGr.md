@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ラナメリサ
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,982 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,981 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BAD愛](https://open.spotify.com/track/3ggfoPTjvVXWSbv53xuSbg) | [ラナメリサ](https://open.spotify.com/artist/66s7k9B5y2jEhcc5Myw2k2) | [BAD愛](https://open.spotify.com/album/49IzkjtNAThaPFS1nUMLwX) | 3:31 |
+| 1 | [BAD愛](https://open.spotify.com/track/3ggfoPTjvVXWSbv53xuSbg) | [ラナメリサ](https://open.spotify.com/artist/5I6MN9n98hRbpin517rVAZ) | [BAD愛](https://open.spotify.com/album/49IzkjtNAThaPFS1nUMLwX) | 3:31 |
 | 2 | [オノマトペ](https://open.spotify.com/track/0QupGE0x3c7bL9W7RflnDl) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [オノマトペ](https://open.spotify.com/album/30rfJUNrdFmBc294qmnTQa) | 2:37 |
 | 3 | [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 |
 | 4 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |

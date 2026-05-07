@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: HUR+",
+  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: \u9673\u83ef Hua Chen",
   "name": "EQUAL Taiwan",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 166601,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/1asWHdX4xlMUzZUF4Z7r5z"
@@ -8712,7 +8712,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 272759,
       "name": "\u5bc2\u5bde\u5b88\u671b\u8005",
       "url": "https://open.spotify.com/track/3ZOQ1UCywGGqBRqJoIpdpj"
@@ -14229,6 +14229,24 @@
     },
     {
       "album": {
+        "name": "\u6e1b\u50b7",
+        "url": "https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200909,
+      "name": "\u6e1b\u50b7",
+      "url": "https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f"
       },
@@ -19012,6 +19030,24 @@
       "duration_ms": 256551,
       "name": "\u964d\u566a - \u5317\u6d41\u4e94\u9031\u5e74\u97f3\u6a02\u5171\u5275\u8a08\u756b",
       "url": "https://open.spotify.com/track/4BR4E1y7La8wxc034rdQn2"
+    },
+    {
+      "album": {
+        "name": "\u966a\u4f60\u5230\u9019",
+        "url": "https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "\u966a\u4f60\u5230\u9019",
+      "url": "https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt"
     },
     {
       "album": {

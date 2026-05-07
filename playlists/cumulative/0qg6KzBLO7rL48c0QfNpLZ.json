@@ -1168,7 +1168,7 @@
       },
       "artists": [
         {
-          "name": "L\u00e8ne",
+          "name": "L\u00e9ne",
           "url": "https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h"
         },
         {
@@ -12330,7 +12330,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 157860,
       "name": "Hold You Close",
       "url": "https://open.spotify.com/track/77PdeNPpdJgGQXQLUnZVJf"
@@ -25125,6 +25125,28 @@
     },
     {
       "album": {
+        "name": "Stand Still",
+        "url": "https://open.spotify.com/album/6uF7FCoFbz27YVvxDMflPh"
+      },
+      "artists": [
+        {
+          "name": "hexale",
+          "url": "https://open.spotify.com/artist/02tDzKNttstBAPyXigCVg8"
+        },
+        {
+          "name": "Finley Br\u00fcckner",
+          "url": "https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/4Yeupn9fCWPeGQLzZe9oMx"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/58MWnZnOaHJIdpfc30XGYb"
       },
@@ -25308,6 +25330,28 @@
       "duration_ms": 133500,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI"
+    },
+    {
+      "album": {
+        "name": "Stay A While",
+        "url": "https://open.spotify.com/album/1uZNprIKs1GFWeugMLfCOy"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Stay A While",
+      "url": "https://open.spotify.com/track/097uFR1rOtkgo00jlK2KD4"
     },
     {
       "album": {

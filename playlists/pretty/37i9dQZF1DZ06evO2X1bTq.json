@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1265383,
+  "num_followers": 1265414,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADdTVOldhxJLIj390w4wSdx",
+  "snapshot_id": "afkzAAAAAAD7mCSJJRjLwpa0NE6D7r7A",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 368306,
-      "name": "Easter Parade",
-      "url": "https://open.spotify.com/track/2o0wVUgsiIhd3NJG1r5r3V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 254200,
       "name": "XXX. FEAT. U2.",
       "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 368306,
+      "name": "Easter Parade",
+      "url": "https://open.spotify.com/track/2o0wVUgsiIhd3NJG1r5r3V"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 243899,
-      "name": "One Life At A Time",
-      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 325014,
-      "name": "The Tears Of Things",
-      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
+      "duration_ms": 243899,
+      "name": "One Life At A Time",
+      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
     },
     {
       "added_at": null,
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
+      "duration_ms": 325014,
+      "name": "The Tears Of Things",
+      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
     },
     {
       "added_at": null,
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 276800,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 408586,
       "name": "COEXIST (I Will Bless The Lord At All Times?)",
       "url": "https://open.spotify.com/track/5eynsXQG21BvozmHZ7XvB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Line On The Horizon",
-        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 324013,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 292866,
       "name": "Red Hill Mining Town - Remastered 2007",
       "url": "https://open.spotify.com/track/4gE5Z3sOcWYyR0SezjvAj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 324013,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
     }
   ],
   "unique_name": "This Is U2",

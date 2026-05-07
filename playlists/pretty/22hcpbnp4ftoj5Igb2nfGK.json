@@ -6,7 +6,7 @@
     "name": "NtotheBEAN",
     "url": "https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p"
   },
-  "snapshot_id": "AAAGQmtsHj84AVnl1PuCQLu3mQBsvdWe",
+  "snapshot_id": "AAAGR3yrXn9AXqPhfmSsszTAGZ+HjyZ8",
   "tracks": [
     {
       "added_at": "2023-10-05 17:02:13",
@@ -2183,6 +2183,90 @@
       "duration_ms": 118425,
       "name": "No Security",
       "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG"
+    },
+    {
+      "added_at": "2026-05-06 05:11:29",
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 234215,
+      "name": "3005",
+      "url": "https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M"
+    },
+    {
+      "added_at": "2026-05-06 05:11:35",
+      "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
+    },
+    {
+      "added_at": "2026-05-06 05:17:14",
+      "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+    },
+    {
+      "added_at": "2026-05-06 05:19:22",
+      "album": {
+        "name": "Malcolm Todd",
+        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
+    },
+    {
+      "added_at": "2026-05-06 05:28:58",
+      "album": {
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Better in the Dark",
+      "url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf"
     }
   ],
   "unique_name": "Mystery brew \ud83e\uddd9\u200d\u2640\ufe0f",

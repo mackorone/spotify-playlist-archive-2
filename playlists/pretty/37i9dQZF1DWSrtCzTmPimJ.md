@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,341 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,467 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 108 | [Binaural Alpha Sinus 120Hz \- 127Hz](https://open.spotify.com/track/7hZ4eFcmRflUR91crFQrxK) | [Restovi](https://open.spotify.com/artist/7HtgTmI7yVTGoTsDqWVh5A) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:22 |
 | 109 | [The Ancient \(12 Hz Alpha Binaural Beat\)](https://open.spotify.com/track/51V46YJCKoz4cB3mZeXVZt) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 |
 | 110 | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/track/6gOn4ExjL2VUxAHaxKuO5t) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/album/1ZGwHz7AO9PkL6muWfhvSL) | 4:07 |
-| 111 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |
+| 111 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0aCtkobwvfX2RcSQxh4gam) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |
 | 112 | [Translucent \- Alpha Sinus 71,7 Hz \- 73,8 Hz](https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:58 |
 | 113 | [Focused Mind \- Alpha 154Hz \- 161Hz](https://open.spotify.com/track/0yYhK3Sq3aBcaLrKID4Gxu) | [Light Vibrations](https://open.spotify.com/artist/411cGiDGPZJtZBe1EOBUUf) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:45 |
 | 114 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 |

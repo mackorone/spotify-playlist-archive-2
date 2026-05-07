@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADMo/sF0sBUO++LsVCLitH7",
+  "snapshot_id": "afkzAAAAAAClyUMW3Ap57gLahxuuOw8U",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "~~~",
-        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Immortality",
-      "url": "https://open.spotify.com/track/7umwXBtyRHfXl0UnhsWKRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poem 1",
         "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 202068,
       "name": "X",
       "url": "https://open.spotify.com/track/6CBsIBdi6MWzDkif2RjK45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "~~~",
+        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Immortality",
+      "url": "https://open.spotify.com/track/7umwXBtyRHfXl0UnhsWKRZ"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "~~~",
-        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 143146,
-      "name": "I'm Every Sparkly Woman",
-      "url": "https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poem 1",
         "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
       },
@@ -131,38 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untitled II",
-        "url": "https://open.spotify.com/album/6ZUGwc1dAb5rWYZuXenOIk"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 384750,
-      "name": "Untitled II",
-      "url": "https://open.spotify.com/track/2IJtB1A5xzjaWKB2fbuIuf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -172,25 +124,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 336666,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Wishful (draft)",
-      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
+      "duration_ms": 143146,
+      "name": "I'm Every Sparkly Woman",
+      "url": "https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43"
     },
     {
       "added_at": null,
@@ -228,25 +164,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 410000,
-      "name": "A Study in Vastness",
-      "url": "https://open.spotify.com/track/2efXjd2d8PRQPFkoiPwwyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "~~~",
-        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "It's a Rainy Day on the Cosmic Shore",
-      "url": "https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL"
+      "duration_ms": 304144,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
     },
     {
       "added_at": null,
@@ -260,9 +180,25 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 289030,
-      "name": "Berceuse in A-flat Minor, Op. 45",
-      "url": "https://open.spotify.com/track/6kasXvgsJSdRYoA2iBrhyq"
+      "duration_ms": 126000,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "~~~",
+        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv"
     },
     {
       "added_at": null,
@@ -300,25 +236,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 364000,
-      "name": "Take the Thorn, Leave the Rose",
-      "url": "https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "~~~",
-        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 260620,
-      "name": "Slowness",
-      "url": "https://open.spotify.com/track/7qqxrcreNiB1sL91OrvVol"
+      "duration_ms": 410000,
+      "name": "A Study in Vastness",
+      "url": "https://open.spotify.com/track/2efXjd2d8PRQPFkoiPwwyS"
     },
     {
       "added_at": null,
@@ -332,9 +252,25 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 126000,
-      "name": "The Age of Innocence",
-      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
+      "duration_ms": 189000,
+      "name": "Wishful (draft)",
+      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "~~~",
+        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "It's a Rainy Day on the Cosmic Shore",
+      "url": "https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL"
     },
     {
       "added_at": null,
@@ -372,25 +308,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 477692,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "~~~",
-        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "In a Small Valley",
-      "url": "https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg"
+      "duration_ms": 364000,
+      "name": "Take the Thorn, Leave the Rose",
+      "url": "https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ"
     },
     {
       "added_at": null,
@@ -404,9 +324,25 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 261500,
-      "name": "One Shall Sleep",
-      "url": "https://open.spotify.com/track/1XhROhffxz05Zecw04Deov"
+      "duration_ms": 289030,
+      "name": "Berceuse in A-flat Minor, Op. 45",
+      "url": "https://open.spotify.com/track/6kasXvgsJSdRYoA2iBrhyq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "~~~",
+        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Slowness",
+      "url": "https://open.spotify.com/track/7qqxrcreNiB1sL91OrvVol"
     },
     {
       "added_at": null,
@@ -431,6 +367,78 @@
       "duration_ms": 182240,
       "name": "The Veil I",
       "url": "https://open.spotify.com/track/38to0a1eQ09ObTJ6sy4Uj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 477692,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "One Shall Sleep",
+      "url": "https://open.spotify.com/track/1XhROhffxz05Zecw04Deov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "~~~",
+        "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "In a Small Valley",
+      "url": "https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natural Wonder Beauty Concept",
+        "url": "https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX"
+      },
+      "artists": [
+        {
+          "name": "Natural Wonder Beauty Concept",
+          "url": "https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        },
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "World Freehand Circle Drawing",
+      "url": "https://open.spotify.com/track/3NtOY5iEWTgTwt1zBTrFPq"
     },
     {
       "added_at": null,
@@ -467,30 +475,6 @@
       "duration_ms": 530697,
       "name": "Consolaci\u00f3n",
       "url": "https://open.spotify.com/track/62r4Voa3btkLgyWDbE2nlX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural Wonder Beauty Concept",
-        "url": "https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX"
-      },
-      "artists": [
-        {
-          "name": "Natural Wonder Beauty Concept",
-          "url": "https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        },
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "World Freehand Circle Drawing",
-      "url": "https://open.spotify.com/track/3NtOY5iEWTgTwt1zBTrFPq"
     },
     {
       "added_at": null,

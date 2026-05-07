@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui sent le sapin pis la joie!",
-  "num_followers": 63473,
+  "num_followers": 63466,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio"
-      },
-      "artists": [
-        {
-          "name": "B\u00fcndock",
-          "url": "https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD"
-        }
-      ],
-      "duration_ms": 136533,
-      "name": "Fa La La",
-      "url": "https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl, C'est L'amour",
         "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 176106,
       "name": "Le P\u00e8re No\u00ebl C't'un Qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/7adJp4379R1irkezIA3zjd"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcndock",
+          "url": "https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD"
+        }
+      ],
+      "duration_ms": 136533,
+      "name": "Fa La La",
+      "url": "https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Chic de ville (avec \"Pour le r\u00e9veillon\")",
-        "url": "https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Pour le r\u00e9veillon",
-      "url": "https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Qu\u00e9bec love : La collection",
         "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 182026,
       "name": "No\u00ebl au camp",
       "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Chic de ville (avec \"Pour le r\u00e9veillon\")",
+        "url": "https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Pour le r\u00e9veillon",
+      "url": "https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
+        "name": "No\u00ebl Des Anges",
+        "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "\u00c7a Berger",
+      "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
         "name": "No\u00ebl tout blanc (D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime)",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "No\u00ebl Des Anges",
-        "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jalbert",
-          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "\u00c7a Berger",
-      "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Jeanick Fournier (Deluxe)",
-        "url": "https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn"
-      },
-      "artists": [
-        {
-          "name": "Jeanick Fournier",
-          "url": "https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Song For A Winter\u2019s Night",
-      "url": "https://open.spotify.com/track/41MtmS1pfdstaHpcufTaqO"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Sainte Nuit",
         "url": "https://open.spotify.com/album/2vTgx0uKwHO6ZRKwcq4nle"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 325908,
       "name": "Sainte Nuit",
       "url": "https://open.spotify.com/track/4gAgVk0X8m3t5NDJc3GYCB"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Jeanick Fournier (Deluxe)",
+        "url": "https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn"
+      },
+      "artists": [
+        {
+          "name": "Jeanick Fournier",
+          "url": "https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Song For A Winter\u2019s Night",
+      "url": "https://open.spotify.com/track/41MtmS1pfdstaHpcufTaqO"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
-        }
-      ],
-      "duration_ms": 131133,
-      "name": "C\u2019est l\u2019hiver",
-      "url": "https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl ne veut rien dire sans toi",
         "url": "https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 203692,
       "name": "No\u00ebl ne veut rien dire sans toi",
       "url": "https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 131133,
+      "name": "C\u2019est l\u2019hiver",
+      "url": "https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "\u00c0 soir c'est No\u00ebl",
-        "url": "https://open.spotify.com/album/14PccyfM5layefTF0yAB1z"
-      },
-      "artists": [
-        {
-          "name": "Marc Picard",
-          "url": "https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou"
-        }
-      ],
-      "duration_ms": 143408,
-      "name": "\u00c0 soir c'est No\u00ebl",
-      "url": "https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "On est l\u00e0 pour f\u00eater!",
         "url": "https://open.spotify.com/album/3g7H9oRYvQFRXSTXPMtJe8"
       },
@@ -1395,34 +1379,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
-        "url": "https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE"
+        "name": "\u00c0 soir c'est No\u00ebl",
+        "url": "https://open.spotify.com/album/14PccyfM5layefTF0yAB1z"
       },
       "artists": [
         {
-          "name": "Fallenium",
-          "url": "https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd"
+          "name": "Marc Picard",
+          "url": "https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou"
         }
       ],
-      "duration_ms": 224959,
-      "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
-      "url": "https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "Au Royaume du Bonhomme Hiver",
-        "url": "https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 151594,
-      "name": "Au Royaume du Bonhomme Hiver",
-      "url": "https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9"
+      "duration_ms": 143408,
+      "name": "\u00c0 soir c'est No\u00ebl",
+      "url": "https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1447,18 +1415,34 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl, c\u2019est l\u2019amour",
-        "url": "https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte"
+        "name": "Au Royaume du Bonhomme Hiver",
+        "url": "https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85"
       },
       "artists": [
         {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 215333,
-      "name": "No\u00ebl, c\u2019est l\u2019amour",
-      "url": "https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd"
+      "duration_ms": 151594,
+      "name": "Au Royaume du Bonhomme Hiver",
+      "url": "https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
+        "url": "https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE"
+      },
+      "artists": [
+        {
+          "name": "Fallenium",
+          "url": "https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd"
+        }
+      ],
+      "duration_ms": 224959,
+      "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
+      "url": "https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
+        "name": "No\u00ebl, c\u2019est l\u2019amour",
+        "url": "https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "No\u00ebl, c\u2019est l\u2019amour",
+      "url": "https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
         "name": "No\u00ebl \u00e0 Paris",
         "url": "https://open.spotify.com/album/7IoUwAOf2KPnmBN6LVDhyv"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 148561,
       "name": "No\u00ebl \u00e0 Paris",
       "url": "https://open.spotify.com/track/1nYc3paA3jh6o0aWM9H0n7"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "\u00c0 la fin d\u00e9cembre",
-        "url": "https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3"
-      },
-      "artists": [
-        {
-          "name": "Lydia&Sebastien",
-          "url": "https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse"
-        }
-      ],
-      "duration_ms": 189916,
-      "name": "\u00c0 la fin d\u00e9cembre",
-      "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1539,6 +1523,22 @@
       "duration_ms": 209812,
       "name": "Vive le vent - Vivre",
       "url": "https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "\u00c0 la fin d\u00e9cembre",
+        "url": "https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3"
+      },
+      "artists": [
+        {
+          "name": "Lydia&Sebastien",
+          "url": "https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse"
+        }
+      ],
+      "duration_ms": 189916,
+      "name": "\u00c0 la fin d\u00e9cembre",
+      "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl (Remasteris\u00e9, 2022)",
-        "url": "https://open.spotify.com/album/1uhdbnXxKpvWUZWcJySBd5"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Gagnon",
-          "url": "https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "O Little Town of Bethlehem - Remasteris\u00e9, 2022",
-      "url": "https://open.spotify.com/track/5yzJiA5KMrtb6i6zaem073"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Ensemble",
         "url": "https://open.spotify.com/album/7ilSvtaSNT9aHwjRB2Hn8g"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 169495,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/7o4QAEXawrmfMvWnk2nvvg"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "No\u00ebl (Remasteris\u00e9, 2022)",
+        "url": "https://open.spotify.com/album/1uhdbnXxKpvWUZWcJySBd5"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gagnon",
+          "url": "https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "O Little Town of Bethlehem - Remasteris\u00e9, 2022",
+      "url": "https://open.spotify.com/track/5yzJiA5KMrtb6i6zaem073"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl nouvelet",
-        "url": "https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk"
-      },
-      "artists": [
-        {
-          "name": "Belle Grand Fille",
-          "url": "https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2"
-        }
-      ],
-      "duration_ms": 207791,
-      "name": "\u00c7\u00e0, bergers",
-      "url": "https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl blanc",
         "url": "https://open.spotify.com/album/6K2IN7O6z7dfMcStV9PvMM"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 158631,
       "name": "No\u00ebl blanc",
       "url": "https://open.spotify.com/track/6bgz0wcaqLcpBh99aZlF46"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "No\u00ebl nouvelet",
+        "url": "https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk"
+      },
+      "artists": [
+        {
+          "name": "Belle Grand Fille",
+          "url": "https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2"
+        }
+      ],
+      "duration_ms": 207791,
+      "name": "\u00c7\u00e0, bergers",
+      "url": "https://open.spotify.com/track/2cJmSlGHVISkpBueEf36F6"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Winnie Nwagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,178 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,196 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 33 | [Nkwatako \(Touch Me\)](https://open.spotify.com/track/6noDaGsPHFVaorhbg6U3nJ) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp), [Dan Sax](https://open.spotify.com/artist/4WP9mEKWly3DKkzDKgtpnc), [Dj FKR](https://open.spotify.com/artist/21qVTlbc1Kj6FtE8cTrEbF) | [Nkwatako \(Touch Me\)](https://open.spotify.com/album/64XZmD37ghkqatARVd2oTY) | 2:49 |
 | 34 | [Pen](https://open.spotify.com/track/5bHuCAQi4ppdq2RvTqK6GD) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko) | [Pen](https://open.spotify.com/album/70N3nyBt05B0eDKVPgG32G) | 2:56 |
 | 35 | [Kiyamba Nze](https://open.spotify.com/track/4cjOihQfvoYISv7usG7dMR) | [Dokta Brain](https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY) | [Kiyamba Nze & Empeta](https://open.spotify.com/album/6dV7uxni6lA7iGG80xfM0n) | 2:55 |
-| 36 | [Abaana Bawoo](https://open.spotify.com/track/3AIPw8MnqrBZ4vSxhug2CC) | [Roffe Wander](https://open.spotify.com/artist/3d4OHRvD1gahCN8o3n9UZo), [OmaNi ReigN](https://open.spotify.com/artist/4asjN0yrL59sabVQEnKLYV), [Mr\. Original](https://open.spotify.com/artist/1zlCgR8luBS6AbZ6XGdPQl), [Kvan](https://open.spotify.com/artist/6ucO2ifB9FOmWbh1dmF36e), [Slumboy Zacky](https://open.spotify.com/artist/5dRtCzStDAciY4TlvaflMS), [Lyrical Philosofa](https://open.spotify.com/artist/6V7upyHQjwFMhaDhAMrgHU) | [Abaana Bawoo](https://open.spotify.com/album/70opGkpYRKCLyunLAJEe80) | 4:07 |
+| 36 | [Abaana Bawoo](https://open.spotify.com/track/3AIPw8MnqrBZ4vSxhug2CC) | [Roffe Wander](https://open.spotify.com/artist/3d4OHRvD1gahCN8o3n9UZo), [Mr\. Original](https://open.spotify.com/artist/1zlCgR8luBS6AbZ6XGdPQl), [Kvan](https://open.spotify.com/artist/6ucO2ifB9FOmWbh1dmF36e), [Slumboy Zacky](https://open.spotify.com/artist/5dRtCzStDAciY4TlvaflMS), [Lyrical Philosofa](https://open.spotify.com/artist/6V7upyHQjwFMhaDhAMrgHU), [OmaNi ReigN](https://open.spotify.com/artist/4asjN0yrL59sabVQEnKLYV) | [Abaana Bawoo](https://open.spotify.com/album/70opGkpYRKCLyunLAJEe80) | 4:07 |
 | 37 | [Pressure](https://open.spotify.com/track/0jsy7wWM2eNwHZidVOaThC) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Cali P](https://open.spotify.com/artist/3ecsQBXTAjmQyO3Nqq0KZV) | [Pressure](https://open.spotify.com/album/6HWwAJR5Ucarqb8D2gmPOI) | 2:24 |
 | 38 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 39 | [Cherie](https://open.spotify.com/track/3Pitcv0by6ZQNUIUjz477f) | [Gloria Bugie](https://open.spotify.com/artist/73fzrko85oNtIAE0jTTnuY) | [Cherie](https://open.spotify.com/album/5evkQhgfPzCNKzHkTVd3ul) | 3:57 |

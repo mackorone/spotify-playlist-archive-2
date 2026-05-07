@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,092 songs - 2 day 8 hr 31 min
+1,093 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,6 +952,7 @@
 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 | 2023-10-13 | 2024-04-20 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-30 | 2026-02-14 |
 | [Stay](https://open.spotify.com/track/1nZmAL8g00JnkTyKDkdwSy) | [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay](https://open.spotify.com/album/7BZkRaAID4BE5UYine6H5W) | 3:14 | 2025-07-11 | 2025-08-24 |
+| [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-05-06 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-08 | 2023-12-31 |
 | [STREET PLANT](https://open.spotify.com/track/6kH5188yKMm8ymTG6zdwiq) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En attendant En Croix](https://open.spotify.com/album/5ydmahT8HXbCXBN20OtPOo) | 2:56 | 2026-03-27 | 2026-04-29 |
 | [Sucré Salé](https://open.spotify.com/track/7Ms9RTHY835cvJUgS0uqMp) | [Logobi GT](https://open.spotify.com/artist/5biR6qJnO0BP9sfwqZWfCP) | [Sucré Salé \- Single](https://open.spotify.com/album/5Ywx5loWggddircEjOM8SP) | 4:05 | 2025-09-19 | 2026-01-31 |
@@ -1032,7 +1033,7 @@
 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 | 2023-06-30 | 2023-08-12 |
 | [TÈLMAN DOU](https://open.spotify.com/track/1Z8PLY1YfTgBQwmr0ObgZn) | [Misié Sadik](https://open.spotify.com/artist/2BfjmShvoGPl4migLIun7a), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [KOÉRANS](https://open.spotify.com/album/1GiMIoNYZ9QtxulhmSACuZ) | 3:09 | 2025-10-24 | 2025-12-20 |
 | [Umbrella](https://open.spotify.com/track/3q6qoXgAl5dap8qRD6XSIl) | [DJ Erise](https://open.spotify.com/artist/5un78gf3HzGs8Kgeoflgna), [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Umbrella](https://open.spotify.com/album/7yAhtDoqbWMkpu7LwUiNMj) | 2:07 | 2026-02-06 | 2026-03-28 |
-| [Un Cachito de Luz \- Versión Deluxe](https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Inkebrantable \(Versión Deluxe\)](https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR) | 2:46 | 2026-02-27 |  |
+| [Un Cachito de Luz \- Versión Deluxe](https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Inkebrantable \(Versión Deluxe\)](https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR) | 2:46 | 2026-02-27 | 2026-05-07 |
 | [Un monde à l'autre](https://open.spotify.com/track/0DAhk47iSMkfPKm5MDW17x) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Un monde à l'autre](https://open.spotify.com/album/4RbDvMMrFoliCy4mUSUNf1) | 2:35 | 2025-09-26 | 2026-01-31 |
 | [Un Petit](https://open.spotify.com/track/768cduZH8Vv4lYnM4lkEt9) | [B.O Wunna](https://open.spotify.com/artist/2WfCynvKp4DlJVsZ2E4yNg) | [Un Petit](https://open.spotify.com/album/2x7WvHHWdN2S9wUPu0t3lg) | 3:20 | 2024-06-21 | 2024-10-12 |
 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 | 2025-05-29 | 2025-10-11 |

@@ -4,7 +4,7 @@
 
 > und macht laune
 
-371 songs - 17 hr 4 min
+372 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-07-21 |  |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-03-06 |  |
 | [Bis die Sonne wieder scheint](https://open.spotify.com/track/2kjUpIF7kBG11YUd4Zn97J) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Kayne & Kinkel](https://open.spotify.com/artist/58PCOxmGpo9AlI9EVYq4XD) | [Bis die Sonne wieder scheint](https://open.spotify.com/album/5HvYnoXwoQIbg4m5ixXM0I) | 2:21 | 2026-04-09 | 2026-05-01 |
+| [Blah Blah Blah](https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1) | [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [Blah Blah Blah](https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU) | 1:40 | 2026-05-06 |  |
 | [Blank Blank](https://open.spotify.com/track/7uZJbr3quBNxvroKi13jrJ) | [Kai Baum](https://open.spotify.com/artist/5kp4UMsrN5oZxPnsef59iQ), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [Blank Blank](https://open.spotify.com/album/3dTK7B1dxF2slGLPye5NN1) | 2:02 | 2026-04-09 | 2026-05-01 |
 | [Blind vor Liebe](https://open.spotify.com/track/7aRf9f0EGLHvrFRoPGsGxV) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Vivi Minu](https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH) | [Blind vor Liebe](https://open.spotify.com/album/66r9ZQtjWbTeKQCwLBK7Tk) | 2:33 | 2026-02-18 | 2026-03-20 |
 | [BLING BLING](https://open.spotify.com/track/5QfjKQjACPTsHUFryqh1Fu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [BLING BLING](https://open.spotify.com/album/1VU8Yqh6lv2GDJcFxLptn8) | 2:27 | 2025-07-24 | 2025-10-10 |
@@ -292,7 +293,7 @@
 | [Sangria](https://open.spotify.com/track/3TYj2ld7j4q4fq7zSMHjqe) | [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Climax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JAhLYEWnwTheAh0aIcYd2) | 5:43 | 2023-12-28 | 2024-01-02 |
 | [Saphir](https://open.spotify.com/track/306T8vusV4CHXBkCHpme1f) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Saphir](https://open.spotify.com/album/12jeg9Iro0sfeIPi7hkl83) | 2:32 | 2024-09-16 | 2024-12-20 |
 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-28 | 2024-06-26 |
-| [Sarà Perché Ti Amo \- Stereoact Remix](https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk) | [DJ Redblack](https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Sarà Perché Ti Amo \(Stereoact Remix\)](https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX) | 2:02 | 2025-10-09 |  |
+| [Sarà Perché Ti Amo \- Stereoact Remix](https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk) | [DJ Redblack](https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Sarà Perché Ti Amo \(Stereoact Remix\)](https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX) | 2:02 | 2025-10-09 | 2026-05-07 |
 | [Say It Right](https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Say It Right](https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH) | 2:45 | 2023-09-15 | 2024-04-19 |
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2025-04-10 |  |
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-25 | 2023-10-18 |

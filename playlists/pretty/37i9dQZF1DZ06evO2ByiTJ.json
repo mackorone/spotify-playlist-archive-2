@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAA73lWgX7Pj+Ywd/h1FAoV6",
+  "snapshot_id": "afkzAAAAAABNG7A96TPaL6UDsQvi1/4i",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "Lindo Presente",
-      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agrade\u00e7o ao Senhor",
         "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 199273,
       "name": "Agrade\u00e7o ao Senhor",
       "url": "https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "Lindo Presente",
+      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mergulhar",
+        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Mergulhar",
+      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumpra o Seu Chamado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
@@ -419,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mergulhar",
-        "url": "https://open.spotify.com/album/1P27DbafnUApFpSxWQtVC3"
+        "name": "Deus te Viu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
       },
       "artists": [
         {
@@ -428,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 276173,
-      "name": "Mergulhar",
-      "url": "https://open.spotify.com/track/2WNSHXcUSTJcPADuEGnfta"
+      "duration_ms": 230156,
+      "name": "Deus te Viu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
     },
     {
       "added_at": null,
@@ -455,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus te Viu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
+        "name": "Rever\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7Gl3WqPY0xOY4s9i9zFuGg"
       },
       "artists": [
         {
@@ -464,9 +480,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 230156,
-      "name": "Deus te Viu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
+      "duration_ms": 294120,
+      "name": "Rever\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5GuTSu2iZKu0Vb6EBPRQGE"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rever\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7Gl3WqPY0xOY4s9i9zFuGg"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Rever\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5GuTSu2iZKu0Vb6EBPRQGE"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Nuvem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "A Nuvem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 258670,
       "name": "O Reino (Ao Vivo)",
       "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Nuvem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "A Nuvem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Linda Flor",
+        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 215899,
+      "name": "Linda Flor",
+      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Filho Volta (Ao Vivo)",
         "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
@@ -903,30 +919,6 @@
       "duration_ms": 260062,
       "name": "Filho Volta (Ao Vivo)",
       "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Firme nas Promessas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos Falsetti",
-          "url": "https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "D\u00e9bora Cristina",
-          "url": "https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Firme nas Promessas",
-      "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
     }
   ],
   "unique_name": "This Is Elaine Martins",

@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\. Foto: Chambao.
 
-2,641 songs - 5 day 12 hr 18 min
+2,643 songs - 5 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1417,6 +1417,7 @@
 | [MERCROMINA](https://open.spotify.com/track/1nM9LLe3NgJfvWXJ13kAiS) | [Lu Demie](https://open.spotify.com/artist/0UngCHHTGXq1hWlQCuqDmb) | [MERCROMINA](https://open.spotify.com/album/3s2SVFrdZ3856GKLN45jOA) | 3:01 | 2023-05-02 | 2023-06-07 |
 | [MERICHANE](https://open.spotify.com/track/3o3YFP1o1SEb4Rh5jNkVT4) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 4:18 | 2022-08-03 | 2024-01-10 |
 | [MERICHANE \(REPUTA\)](https://open.spotify.com/track/1msyIarJ64H3Jrtro7Nq0R) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu), [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [REPUTA](https://open.spotify.com/album/3ylfyVZUW1IMLTns9TMbXm) | 3:05 | 2026-03-19 | 2026-04-08 |
+| [Metal](https://open.spotify.com/track/1crQtCXGOPk8Tnlf03ZqBx) | [Lara Taylor](https://open.spotify.com/artist/138Upp7TCwBT2txbgqJfZl) | [Metal](https://open.spotify.com/album/0iz4kDt7fNxsyt0KRwpOb7) | 2:54 | 2026-05-06 |  |
 | [metanoia](https://open.spotify.com/track/0SSEhPd9UlfIa2BOxCyUey) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [metanoia](https://open.spotify.com/album/1WIZwtNdQlaxgFfcWWpnO1) | 2:44 | 2023-07-04 | 2023-08-02 |
 | [Metro Ibiza](https://open.spotify.com/track/4lQCIurepFWnH8pE7sqnP1) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Metro Ibiza](https://open.spotify.com/album/4mA0FC8jHRKSedKt4oTDyI) | 2:14 | 2022-03-07 | 2022-04-07 |
 | [METÁLICA](https://open.spotify.com/track/7kcYzcqJddmGW2UxSgKnFa) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [METÁLICA](https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W) | 2:06 | 2024-11-05 | 2024-12-05 |
@@ -1685,6 +1686,7 @@
 | [NOSOTROS](https://open.spotify.com/track/5O933BO3kE47zDW4pKKICn) | [María Sánchez](https://open.spotify.com/artist/2cHCcij1RZIHBuVjubs4va) | [NOSOTROS](https://open.spotify.com/album/2rRcdSENetSra5Rb2DfWZ8) | 2:24 | 2024-08-06 | 2024-09-04 |
 | [Nosotros](https://open.spotify.com/track/1yeRSd0UBU8TE0QzOklAwv) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Nosotros](https://open.spotify.com/album/2UT7tAsxbBpFGK4UfmFHR8) | 2:42 | 2024-10-01 | 2024-11-06 |
 | [NOTI](https://open.spotify.com/track/0wuKPgsPdMuyV1j2LqfAeS) | [LaBlackie](https://open.spotify.com/artist/7Mnggi1j35OsqH4Gkf3AZG) | [NOTI](https://open.spotify.com/album/5IJDlUlWvzelI0wzI4pHm4) | 2:11 | 2024-07-02 | 2024-08-07 |
+| [Novia Robot](https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 3:12 | 2026-05-06 |  |
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-02-01 | 2023-03-01 |
 | [Nuages \(Aquí Nadie Escucha\)](https://open.spotify.com/track/3HL6fKC8i2B7wqcABSGbBv) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [En Otra Ciudad](https://open.spotify.com/album/5hZqNgOtcqOXHyb0apOwdD) | 1:57 | 2024-04-30 | 2024-06-06 |
 | [Nubes](https://open.spotify.com/track/5d23x0pZ0o05uKApKnROfx) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Posdata](https://open.spotify.com/album/0FTzrSaros4xp07Ey6Rqy7) | 3:35 | 2023-02-01 | 2023-03-01 |

@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Coraz\u00f3n Serrano, Maria Becerra",
-  "num_followers": 131448,
+  "num_followers": 131465,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-01 04:59:31",
       "album": {
-        "name": "Cumbia",
-        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
-      },
-      "artists": [
-        {
-          "name": "Bareto",
-          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
-        }
-      ],
-      "duration_ms": 300930,
-      "name": "Mujer Hilandera",
-      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
-    },
-    {
-      "added_at": "2026-05-01 04:59:31",
-      "album": {
         "name": "El Baile de la Serpiente",
         "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 209293,
       "name": "Juraste Querrerme",
       "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
+    },
+    {
+      "added_at": "2026-05-01 04:59:31",
+      "album": {
+        "name": "Cumbia",
+        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
+      },
+      "artists": [
+        {
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+        }
+      ],
+      "duration_ms": 300930,
+      "name": "Mujer Hilandera",
+      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
     },
     {
       "added_at": "2026-05-01 04:59:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-01 04:59:31",
       "album": {
-        "name": "Cerveza",
-        "url": "https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez"
-      },
-      "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 189730,
-      "name": "Cerveza",
-      "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
-    },
-    {
-      "added_at": "2026-05-01 04:59:31",
-      "album": {
         "name": "Sonido 2000 de Tarapoto",
         "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195696,
       "name": "Mi Cari\u00f1ito",
       "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+    },
+    {
+      "added_at": "2026-05-01 04:59:31",
+      "album": {
+        "name": "Cerveza",
+        "url": "https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        }
+      ],
+      "duration_ms": 189730,
+      "name": "Cerveza",
+      "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
     },
     {
       "added_at": "2026-05-01 04:59:31",

@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "alas",
+        "url": "https://open.spotify.com/album/4zyQYTBiS6fvfKLY0OOM6p"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "alas",
+      "url": "https://open.spotify.com/track/7GBP8JHmXu06xzJzsWdn4D"
+    },
+    {
+      "album": {
         "name": "Axexan, espreitan",
         "url": "https://open.spotify.com/album/7ESdKLT2LfrMzBF5tUzzbK"
       },
@@ -5737,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "Brisk",
+        "url": "https://open.spotify.com/album/1fp5684DwL2ofzdYINbCjj"
+      },
+      "artists": [
+        {
+          "name": "Juli De\u00e1k",
+          "url": "https://open.spotify.com/artist/3L9bvkvZ6WpSLbs6t8q6Bj"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245208,
+      "name": "Brisk",
+      "url": "https://open.spotify.com/track/4UK8zVdpjLjoZs71ekqczK"
+    },
+    {
+      "album": {
         "name": "A Matinee",
         "url": "https://open.spotify.com/album/6YdP6jq3BIa0hz1bhtJazy"
       },
@@ -6392,7 +6428,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 198666,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/6oHLiMAN1cp8nlTNTKx1aG"
@@ -10230,7 +10266,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 298000,
       "name": "Duori",
       "url": "https://open.spotify.com/track/23Q0919ERtsAmjJ2ZPM9nP"
@@ -11598,6 +11634,28 @@
       "duration_ms": 396071,
       "name": "EVER",
       "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
+    },
+    {
+      "album": {
+        "name": "La malinconia del Grande Drago Tartaruga",
+        "url": "https://open.spotify.com/album/6rWGAPnNOjkmeCbOrFSU1v"
+      },
+      "artists": [
+        {
+          "name": "edeF.",
+          "url": "https://open.spotify.com/artist/4bpQS5gwQSmtlkliRWUmkD"
+        },
+        {
+          "name": "orlando",
+          "url": "https://open.spotify.com/artist/3FisNd41ZsAE86lxRhxWw4"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237187,
+      "name": "Evergreen wardrobe",
+      "url": "https://open.spotify.com/track/4mHhbWJvEJdmd9LQfSNpOU"
     },
     {
       "album": {
@@ -24433,6 +24491,24 @@
     },
     {
       "album": {
+        "name": "life of mu",
+        "url": "https://open.spotify.com/album/1b09PxhpiNit55Eb4Ut7bC"
+      },
+      "artists": [
+        {
+          "name": "mu tate",
+          "url": "https://open.spotify.com/artist/3vFTZMsaFnLOcqvjxCofTP"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193871,
+      "name": "no answer greater than silence, no punishment greater than forgiveness",
+      "url": "https://open.spotify.com/track/1yFJ1xSM057m00HXDMHsJK"
+    },
+    {
+      "album": {
         "name": "No couchette Part 1",
         "url": "https://open.spotify.com/album/3u5i37eKleelAkBOIHFErB"
       },
@@ -27018,7 +27094,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 221783,
       "name": "Pli\u00e9",
       "url": "https://open.spotify.com/track/5nX0dAdSQ679s5wrh2Bws8"
@@ -34486,7 +34562,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 284000,
       "name": "The Cat",
       "url": "https://open.spotify.com/track/6LAG9NnUFiH3YGmPLob5xD"
@@ -36252,6 +36328,28 @@
       "duration_ms": 391899,
       "name": "Tloque Nahuaque",
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
+    },
+    {
+      "album": {
+        "name": "TME",
+        "url": "https://open.spotify.com/album/2jEGnR1OLmKc4KrLUMSLB9"
+      },
+      "artists": [
+        {
+          "name": "Gabber Eleganza",
+          "url": "https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd"
+        },
+        {
+          "name": "9DEN",
+          "url": "https://open.spotify.com/artist/2bp7nGLjkMwJfoL8mtKix9"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307501,
+      "name": "TME",
+      "url": "https://open.spotify.com/track/31f6SuFKbcDk0aY1smhRLP"
     },
     {
       "album": {
@@ -39876,7 +39974,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 173217,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/28E8tUawneUzK42KSxkmLa"

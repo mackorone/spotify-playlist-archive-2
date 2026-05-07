@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "Baked Beans",
+        "url": "https://open.spotify.com/album/302TmhIOH0hL6B0TDoSuNC"
+      },
+      "artists": [
+        {
+          "name": "Zerchronika",
+          "url": "https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2"
+        },
+        {
+          "name": "Joseph Lawless",
+          "url": "https://open.spotify.com/artist/6ymg9JY69Tc8uCPAnj1iVP"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137941,
+      "name": "Baked Beans",
+      "url": "https://open.spotify.com/track/5bf1ZEPjEAO0lQ9B7QNyA6"
+    },
+    {
+      "album": {
         "name": "Bar Talk",
         "url": "https://open.spotify.com/album/6Z6xRyyIedaVOs7HakvOaL"
       },
@@ -5644,6 +5666,24 @@
       "duration_ms": 312000,
       "name": "Warrior Chords\"",
       "url": "https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF"
+    },
+    {
+      "album": {
+        "name": "The End Of Times",
+        "url": "https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY"
+      },
+      "artists": [
+        {
+          "name": "Darkness Is My Canvas",
+          "url": "https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190185,
+      "name": "Wash",
+      "url": "https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,869 likes - 115 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,973 likes - 115 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 19 | [Escape](https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Escape](https://open.spotify.com/album/0YVAn2TP4lUzjFhq6Z89nD) | 2:41 |
 | 20 | [Re\-Bokk Robot \- Wodda Remix Radio Edit](https://open.spotify.com/track/4wFdh0z4bYVCvNOORGDBuB) | [POSH! The Prince](https://open.spotify.com/artist/4rNGolATKxQcFM59djG041), [Wodda](https://open.spotify.com/artist/5zHkCDcsGZjznWnqsgTMRg) | [Re\-Bokk Robot \(Wodda Remix\)](https://open.spotify.com/album/0Ht0tRiDl58wa0PDaA5bYV) | 3:30 |
 | 21 | [Be Rich](https://open.spotify.com/track/0ab30Uj0bWUhmYONhH46yc) | [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [Be Rich](https://open.spotify.com/album/6Ob7BSoTIgY3z81Hk9ubM4) | 2:44 |
-| 22 | [On The Run \- Radio edit](https://open.spotify.com/track/3n3MqZnAcYWjBxxunIZeva) | [Dale Hart](https://open.spotify.com/artist/2ABOKbFpFXhDQlerFjPSlu) | [On The Run](https://open.spotify.com/album/3Q96H4Wl71kCx05aJQC9SU) | 3:10 |
+| 22 | [On The Run \- Radio Edit](https://open.spotify.com/track/3n3MqZnAcYWjBxxunIZeva) | [Dale Hart](https://open.spotify.com/artist/2ABOKbFpFXhDQlerFjPSlu) | [On The Run](https://open.spotify.com/album/3Q96H4Wl71kCx05aJQC9SU) | 3:10 |
 | 23 | [Passion](https://open.spotify.com/track/1OlS7vWAKZEeoNgIp3JvE2) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Passion](https://open.spotify.com/album/7nm9bUB5s2ulUDgcnbvH0U) | 3:07 |
 | 24 | [Strong Rhyme](https://open.spotify.com/track/7zQw0isILUc2PAWMRRa82W) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Strong Rhyme](https://open.spotify.com/album/4CEMzSVtDWRa0pIls00LoZ) | 3:27 |
 | 25 | [Elevator](https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Elevator](https://open.spotify.com/album/46mVoYZJz2b6DoQtTRyb5K) | 2:08 |

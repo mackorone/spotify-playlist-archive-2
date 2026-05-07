@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,223 songs - 2 day 20 hr 4 min
+1,224 songs - 2 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,7 +1005,7 @@
 | [still? \- BKAYE Remix](https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [still? \(BKAYE Remix\)](https://open.spotify.com/album/1VtTUZn5x5iVubXCNZOgeB) | 2:53 | 2024-04-02 | 2024-06-20 |
 | [Stop Drop Roll](https://open.spotify.com/track/6g7z70RaH57ZUbYz32ITKy) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [USB.1](https://open.spotify.com/album/1qGC1Yd4FSwUsLjSf1PjUy) | 3:17 | 2025-07-02 | 2025-09-24 |
 | [Stranger](https://open.spotify.com/track/390IAPX580IGV2Rx8dx8ot) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk), [Arnie Way](https://open.spotify.com/artist/5cHBng7fvXk2Ea8UcyR5ct) | [Stranger](https://open.spotify.com/album/5tU26oyOJsrG1TfSN4mCrM) | 2:33 | 2025-06-10 | 2025-09-06 |
-| [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 | 2026-02-19 |  |
+| [stranger](https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [stranger](https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S) | 2:28 | 2026-02-19 |  |
 | [Strangers](https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Strangers](https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY) | 3:39 | 2023-05-25 | 2023-08-20 |
 | [Street Level](https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Street Level / Listen Up](https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy) | 2:59 | 2025-06-02 | 2025-08-28 |
 | [Street Talk](https://open.spotify.com/track/4l9hQWK345xfGixJQ3xvez) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Street Talk](https://open.spotify.com/album/3aYg85BYxXNANnn6KLMNeF) | 2:40 | 2024-07-24 | 2024-10-16 |
@@ -1092,6 +1092,7 @@
 | [Through The Inversion](https://open.spotify.com/track/1m60Iz2EWGJduymkmM33d0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Through The Inversion](https://open.spotify.com/album/58KZYuS7Afr2W7Rxj2cJm4) | 3:22 | 2024-09-03 | 2024-11-26 |
 | [THUNDER](https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI) | [TESSERACTS](https://open.spotify.com/artist/2Oc62iD4J8F2YH34NoSALk), [CODE BREAKERZ](https://open.spotify.com/artist/4WFW8Zsgxhx6xpt4xKcS9H) | [THUNDER](https://open.spotify.com/album/0hBJbFpgm8u34sSABARGkN) | 4:03 | 2026-03-18 |  |
 | [Tidal Wave](https://open.spotify.com/track/1omHvO3u6OmOUp7arSDuF2) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Tidal Wave](https://open.spotify.com/album/31e7BFs4JJJtYsSc20tGnr) | 3:55 | 2024-10-28 | 2025-02-07 |
+| [Tightrope](https://open.spotify.com/track/771QbU9fDqOa91vIuj0Vvu) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Tightrope](https://open.spotify.com/album/2y7MbqBjmsAqoemC0cturf) | 3:22 | 2026-05-06 |  |
 | [Time](https://open.spotify.com/track/2G0nmOKGQds2EJjjIsu91J) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Time](https://open.spotify.com/album/4GK69DAIe79SoNuOkSCElS) | 2:28 | 2024-06-17 | 2024-09-10 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |
 | [Time Machine](https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3) | [Time Machine](https://open.spotify.com/album/21t6qH7SVwrYoubXmxhyE2) | 2:17 | 2026-02-27 |  |

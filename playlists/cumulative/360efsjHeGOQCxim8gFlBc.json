@@ -11715,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Quiet Footsteps",
+        "url": "https://open.spotify.com/album/0fPfbEPSLb4eIOSZIp2oLA"
+      },
+      "artists": [
+        {
+          "name": "Julian Lowen",
+          "url": "https://open.spotify.com/artist/3eoHNWpI4Dc64j7pnrgwHI"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102631,
+      "name": "Quiet Footsteps",
+      "url": "https://open.spotify.com/track/7I5Gs1GWuHHPNBrNqbkkNF"
+    },
+    {
+      "album": {
         "name": "quiet glow",
         "url": "https://open.spotify.com/album/6syPFFM8ixds490jS4oK3Q"
       },

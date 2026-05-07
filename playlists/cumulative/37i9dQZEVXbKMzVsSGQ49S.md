@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-3,318 songs - 7 day 7 hr 39 min
+3,319 songs - 7 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1199,6 +1199,7 @@
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-04-28 | 2023-01-03 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-16 | 2023-04-20 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 | 2023-03-04 |
+| [Heaven 2](https://open.spotify.com/track/201PXbKqGXzDbfVcwDZUGD) | [Ruebi](https://open.spotify.com/artist/0M7Fjef4dLBwOI6Akb8kh9) | [Heaven 2](https://open.spotify.com/album/0ITe1sIMWViIzLbKS2THf5) | 2:49 | 2026-05-06 |  |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-16 |
 | [Heaven's light](https://open.spotify.com/track/3CErMY8LM5OWwOZ3nS7S97) | [Ficas](https://open.spotify.com/artist/5Dw1krn4PDvw9E3ioWyOiz) | [Heaven's light](https://open.spotify.com/album/7LobEfJAqN5SNhKZp8tKtR) | 3:14 | 2025-06-18 | 2025-06-20 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-09-28 |
@@ -1863,7 +1864,7 @@
 | [Motley Crew](https://open.spotify.com/track/6YbO6gcCaBl4i78Z7enmA2) | [Khaleel Mandel](https://open.spotify.com/artist/2NSERO3kgZui6BAIiMKaQV) | [Khaleel](https://open.spotify.com/album/7aXY6CCrJ5RsNw10TlBvfK) | 3:52 | 2024-11-11 | 2024-11-13 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-08-01 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-22 | 2022-03-18 |
-| [Move Faster](https://open.spotify.com/track/2P9bsl1PU6WpmtAsx1H1Z3) | [Smatt kinzy](https://open.spotify.com/artist/1ANMybStZEhkOfC4HFbWv1), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Nevrr49](https://open.spotify.com/artist/36h0zByMWDwoORD0klYp3S) | [Move Faster](https://open.spotify.com/album/0ECVknAmNmplhHkefbe81I) | 5:56 | 2026-05-03 |  |
+| [Move Faster](https://open.spotify.com/track/2P9bsl1PU6WpmtAsx1H1Z3) | [Smatt kinzy](https://open.spotify.com/artist/1ANMybStZEhkOfC4HFbWv1), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Nevrr49](https://open.spotify.com/artist/36h0zByMWDwoORD0klYp3S) | [Move Faster](https://open.spotify.com/album/0ECVknAmNmplhHkefbe81I) | 5:56 | 2026-05-03 | 2026-05-07 |
 | [Move On](https://open.spotify.com/track/6InuzAjrU4VqGAasClZxaT) | [Crazy Fox](https://open.spotify.com/artist/5aZUxFfVC5qxIWbFsCBcBE) | [Move On](https://open.spotify.com/album/4OUSTp8g6cqfeHY2p6LN2s) | 2:29 | 2023-11-16 | 2023-11-21 |
 | [Movie Scene](https://open.spotify.com/track/0KCgII1GEAVY3RbXYDOL5z) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [Bíómynd](https://open.spotify.com/album/2nqpHpzvIeOgOc4ZfYs6Li) | 2:40 | 2024-03-03 | 2024-03-05 |
 | [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-23 | 2025-08-25 |
@@ -2292,7 +2293,7 @@
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-20 | 2021-10-22 |
 | [Rolls or Doesn't Roll](https://open.spotify.com/track/4rRHzQThzKXDVeu8r5nNO1) | [Rubby](https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT) | [Party Phonk](https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck) | 1:23 | 2024-05-20 | 2024-06-03 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-19 | 2025-09-24 |
-| [Ruglaður](https://open.spotify.com/track/03ElPJAlCqiLT3pkDkbeRU) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Ruglaður](https://open.spotify.com/album/2tTrQoPKkHtF3Lrvlozors) | 2:21 | 2026-05-05 |  |
+| [Ruglaður](https://open.spotify.com/track/03ElPJAlCqiLT3pkDkbeRU) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Ruglaður](https://open.spotify.com/album/2tTrQoPKkHtF3Lrvlozors) | 2:21 | 2026-05-05 | 2026-05-07 |
 | [Ruin The Friendship](https://open.spotify.com/track/1ZbSww1TszeuJOtsdMZQv1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:40 | 2025-10-08 | 2025-10-10 |
 | [Ruin The Friendship](https://open.spotify.com/track/34xxPZWbEyg5iDKEBqdsBZ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:40 | 2025-10-09 | 2025-10-11 |
 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-04 | 2025-10-09 |
@@ -2317,7 +2318,7 @@
 | [Rólegur kúreki](https://open.spotify.com/track/5QHbOR2rTPwWq1R4MKNYUe) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/64w8wLYEFB8OXPkyI56wFf) | 3:48 | 2021-07-16 | 2022-05-31 |
 | [Rólegur Kúreki](https://open.spotify.com/track/5qI0p2E7BxBxYRJknYr6Gg) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Kveðja, Bríet](https://open.spotify.com/album/3LSoEqFvR1Z4ichisNDAJT) | 3:48 | 2021-03-27\* | 2021-07-16 |
 | [Rómeó og Júlía](https://open.spotify.com/track/0IdsoEg5mjXNqlrskkzWjl) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Kona](https://open.spotify.com/album/14PrNW59W0BVw2lIvePo5B) | 4:57 | 2021-03-27\* | 2022-05-04 |
-| [Rómeó og Júlía](https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Kona](https://open.spotify.com/album/4FyzzmUFi1NWMBuwUSmLru) | 4:57 | 2022-07-14 | 2026-05-06 |
+| [Rómeó og Júlía](https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Kona](https://open.spotify.com/album/4FyzzmUFi1NWMBuwUSmLru) | 4:57 | 2022-07-14 |  |
 | [Rómeó og Júlía](https://open.spotify.com/track/4mhxzwOdKdyM0HOeCutQWe) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Kona \(Sérútgáfa\)](https://open.spotify.com/album/4VysESVTX0JMAF5BHhGLgc) | 4:58 | 2022-06-05 | 2022-07-15 |
 | [Rósin](https://open.spotify.com/track/6pl6s8A3YRX3CKSEFGbKbM) | [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5) | [Tíu íslensk sönglög](https://open.spotify.com/album/6HTSPl3aLjmfBZPhcpIMKb) | 2:56 | 2022-09-17 | 2022-10-12 |
 | [RÓSUM](https://open.spotify.com/track/2xG7pXTBGsh1U3XX4tdpkZ) | [Kristjan Saenz](https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Tónhylur Akademía](https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu) | [KAPITAL](https://open.spotify.com/album/3IjIgOi1J5699O5Diz4AkJ) | 2:34 | 2025-01-11 | 2025-01-17 |

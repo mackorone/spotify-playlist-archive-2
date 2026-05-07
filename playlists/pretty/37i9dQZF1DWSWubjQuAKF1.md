@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: BSK
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,764 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,761 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 28 | [Siódma Sosna](https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [Siódma Sosna](https://open.spotify.com/album/3yFJzPRH0w3EEhb0zxJa63) | 2:44 |
 | 29 | [Odkochaj](https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Odkochaj](https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO) | 2:43 |
 | 30 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 |
-| 31 | [W snach](https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Pytania](https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5) | 3:23 |
-| 32 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 |
+| 31 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 |
+| 32 | [W snach](https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Pytania](https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5) | 3:23 |
 | 33 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
-| 34 | [Lustro](https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Słoneczna strona ulicy](https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y) | 3:19 |
-| 35 | [Zakręty](https://open.spotify.com/track/0nQmwxn6lcTxehbPJELmHT) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Zakręty](https://open.spotify.com/album/483zNSprSHlPgrz7PNsxD9) | 3:26 |
+| 34 | [Zakręty](https://open.spotify.com/track/0nQmwxn6lcTxehbPJELmHT) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Zakręty](https://open.spotify.com/album/483zNSprSHlPgrz7PNsxD9) | 3:26 |
+| 35 | [Lustro](https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Słoneczna strona ulicy](https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y) | 3:19 |
 | 36 | [cisza nocna](https://open.spotify.com/track/6c6lldByHVVBfqha25sOor) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [cisza nocna](https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr) | 3:02 |
 | 37 | [To nie koniec](https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [To nie koniec](https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG) | 2:52 |
 | 38 | [have fun bby \- sped up](https://open.spotify.com/track/2e1FsxhYudUC8Z5bPPmCUk) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [have fun bby](https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6) | 2:31 |
-| 39 | [Co by było gdyby](https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae) | [16m2](https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz) | 3:25 |
-| 40 | [Egipt](https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Egipt](https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6) | 2:39 |
-| 41 | [Room Of Lies](https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o) | [emi](https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85) | [Room Of Lies](https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7) | 2:50 |
-| 42 | [Chciałbym być kotem](https://open.spotify.com/track/235BIVbYtJp4090aHD60VR) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Chciałbym być kotem](https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB) | 3:09 |
-| 43 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
+| 39 | [Egipt](https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Egipt](https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6) | 2:39 |
+| 40 | [Co by było gdyby](https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae) | [16m2](https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz) | 3:25 |
+| 41 | [Z cukrem mylę lód](https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Eksperyment](https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO) | 3:22 |
+| 42 | [Room Of Lies](https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o) | [emi](https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85) | [Room Of Lies](https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7) | 2:50 |
+| 43 | [Chciałbym być kotem](https://open.spotify.com/track/235BIVbYtJp4090aHD60VR) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Chciałbym być kotem](https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB) | 3:09 |
 | 44 | [Gdzie ten mąż?](https://open.spotify.com/track/395u35244oqIxioRGgBFiQ) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Gdzie ten mąż?](https://open.spotify.com/album/70oAPbmDRlDpTkD8pcaEVC) | 2:23 |
-| 45 | [Z cukrem mylę lód](https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Eksperyment](https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO) | 3:22 |
-| 46 | [Kto to?](https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kto to?](https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF) | 2:17 |
+| 45 | [Kto to?](https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kto to?](https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF) | 2:17 |
+| 46 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
 | 47 | [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Michał Rajca](https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 |
-| 48 | [Haj](https://open.spotify.com/track/7Bz45WFQCVlSs72wP9HpRz) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Haj](https://open.spotify.com/album/4rsF9yduhombRynfWOpOFV) | 3:30 |
-| 49 | [Kupiłam bilet](https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Kupiłam bilet](https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh) | 3:12 |
+| 48 | [Kupiłam bilet](https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Kupiłam bilet](https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh) | 3:12 |
+| 49 | [Haj](https://open.spotify.com/track/7Bz45WFQCVlSs72wP9HpRz) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Haj](https://open.spotify.com/album/4rsF9yduhombRynfWOpOFV) | 3:30 |
 | 50 | [Chciałabym Ci powiedzieć](https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt) | [Julia Wasielewska](https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I) | [Chciałabym Ci powiedzieć](https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg) | 2:36 |
 | 51 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
 | 52 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 59 | [bez zmian](https://open.spotify.com/track/0VPho47aCdrkXNydaikOiR) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [bez zmian](https://open.spotify.com/album/3BB8xTFXqLagfzuj5hV7GB) | 2:56 |
 | 60 | [Wspaniały to był rok](https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wspaniały to był rok](https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4) | 2:52 |
 | 61 | [ŻURAWIE](https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ŻURAWIE](https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t) | 2:25 |
-| 62 | [Jeans](https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Jeans](https://open.spotify.com/album/3oxAD1pjomOuHWlDlZkk1R) | 2:35 |
-| 63 | [gdybyś istniał](https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we) | [Leo!](https://open.spotify.com/artist/0TZCx2GaYxn8AZLSy7ZEod) | [gdybyś istniał](https://open.spotify.com/album/3Plp1qsoHqe9mOk40JjY0E) | 2:55 |
-| 64 | [chce Twoje zarazki](https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [chce Twoje zarazki](https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1) | 2:48 |
+| 62 | [gdybyś istniał](https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we) | [Leo!](https://open.spotify.com/artist/0TZCx2GaYxn8AZLSy7ZEod) | [gdybyś istniał](https://open.spotify.com/album/3Plp1qsoHqe9mOk40JjY0E) | 2:55 |
+| 63 | [chce Twoje zarazki](https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [chce Twoje zarazki](https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1) | 2:48 |
+| 64 | [Jeans](https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Jeans](https://open.spotify.com/album/3oxAD1pjomOuHWlDlZkk1R) | 2:35 |
 | 65 | [CO TOBIE ZROBIĘ](https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [CO TOBIE ZROBIĘ](https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL) | 3:40 |
 
 Snapshot ID: `AAAAADxF87jubl7CEbk6mGCEa0/1VFCE`

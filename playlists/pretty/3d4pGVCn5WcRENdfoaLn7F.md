@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 653 likes - 107 songs - 6 hr 12 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 653 likes - 109 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 105 | [To The Moon](https://open.spotify.com/track/6DVsYLEObwwI5j8TMbMecX) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [To The Moon](https://open.spotify.com/album/2ElBuY7uYQpk55T1GHgZz5) | 3:44 |
 | 106 | [Bar Talk](https://open.spotify.com/track/6cfLuWMV55gwD7TA19ifhM) | [UNCLE](https://open.spotify.com/artist/64kcwpH0XroEG2GQ4h6Zc9) | [Bar Talk](https://open.spotify.com/album/6Z6xRyyIedaVOs7HakvOaL) | 2:49 |
 | 107 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 |
+| 108 | [Baked Beans](https://open.spotify.com/track/5bf1ZEPjEAO0lQ9B7QNyA6) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2), [Joseph Lawless](https://open.spotify.com/artist/6ymg9JY69Tc8uCPAnj1iVP) | [Baked Beans](https://open.spotify.com/album/302TmhIOH0hL6B0TDoSuNC) | 2:17 |
+| 109 | [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 |
 
-Snapshot ID: `AAADZhv1IMOnKJGlKpC16YdxuQY4ASYk`
+Snapshot ID: `AAADaC2aEzR3fB8cZlO/ZDEQ7p10tjUC`

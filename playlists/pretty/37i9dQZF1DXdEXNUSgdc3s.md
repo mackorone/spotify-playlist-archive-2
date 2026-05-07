@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,378 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,408 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 27 | [Caeulum Alpha 92Hz \- 100Hz](https://open.spotify.com/track/58hhvVq3ouqe8rURCv66c0) | [Inner Versum](https://open.spotify.com/artist/1DDrPd2XA55nmMZ04syZvY) | [Caeulum Alpha 92Hz \- 100Hz](https://open.spotify.com/album/61fEtFEq96EyZgi9lnS9IW) | 2:32 |
 | 28 | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/track/7510hFPI8vVEJhyp5gNHPk) | [Sun Pixel](https://open.spotify.com/artist/1pHiSwRuACzlyf5hP6P011) | [Maravilloso \- Alpha 71Hz \- 78Hz](https://open.spotify.com/album/77SOSiQ8GtREeX4NXLLJpC) | 4:10 |
 | 29 | [Alpha Sinus Waves 84\-92 Hz](https://open.spotify.com/track/5F8l1xTGaGvLVzz8BTkBN3) | [Rio Delacruz](https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52) | [Alpha Sinus Waves 84\-92 Hz](https://open.spotify.com/album/4oERjy6CpIs7kdcVwiP2Tt) | 2:36 |
-| 30 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |
+| 30 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0aCtkobwvfX2RcSQxh4gam) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 |
 | 31 | [Hopeful \- Alpha Sinus 64 \- 65,3 hz](https://open.spotify.com/track/57QUXv3pUENQAK1zXb2BKK) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Alpha Sinus](https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9) | 3:30 |
 | 32 | [Miracle Sky \(Alpha 58.1 Hz \- 70.3 Hz\)](https://open.spotify.com/track/2fKEmLQx6YYL3AlVwl8434) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Miracle Sky](https://open.spotify.com/album/2cXXAAzd7fwpxO1czxwpoq) | 2:40 |
 | 33 | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/track/0Z5OXX6LKeN85fm3MyMJiS) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Alpha Sinus \- The Shrine \- 146 Hz \-153 Hz](https://open.spotify.com/album/4bsjDI58pp3cRNTpdzjBtH) | 2:20 |

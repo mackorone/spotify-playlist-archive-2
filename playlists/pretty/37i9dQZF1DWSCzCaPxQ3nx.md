@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain]
 
 > Les incontournables du Raï.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,714 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,776 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

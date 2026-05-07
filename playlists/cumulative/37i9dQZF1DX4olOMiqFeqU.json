@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Ang Pag-Ibig Kong Ito",
+        "url": "https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Ang Pag-Ibig Kong Ito",
+      "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
+    },
+    {
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -1769,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        },
+        {
+          "name": "Sol",
+          "url": "https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241684,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY"
+    },
+    {
+      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -1892,7 +1932,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 217197,
       "name": "Maybe The Night",
       "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
@@ -2278,7 +2318,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 291506,
       "name": "Nobela",
       "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"

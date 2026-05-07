@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-99 songs - 4 hr 37 min
+106 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,13 @@
 | [Born Fire](https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:16 | 2025-03-14 |  |
 | [Burn the Bridge](https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:34 | 2023-05-01 |  |
 | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [KIM CHAEWON](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 | 2025-09-23 |  |
+| [CELEBRATION](https://open.spotify.com/track/2b4yDTIGz1O2Rr0bXtkeEC) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION \(Remixes\)](https://open.spotify.com/album/2jujmpcT8jcjKiyQzLfh2l) | 2:33 | 2026-05-06 |  |
+| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-06 |  |
+| [CELEBRATION \(Instrumental\)](https://open.spotify.com/track/35hnV92UigWkSi8NBpn68i) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION \(Remixes\)](https://open.spotify.com/album/2jujmpcT8jcjKiyQzLfh2l) | 2:33 | 2026-05-06 |  |
+| [CELEBRATION \(Karaoke ver.\)](https://open.spotify.com/track/6HrW8aEIJdc1wdkHUmsQV8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION \(Remixes\)](https://open.spotify.com/album/2jujmpcT8jcjKiyQzLfh2l) | 2:32 | 2026-05-06 |  |
+| [CELEBRATION \(Sara Landry Remix\)](https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CELEBRATION \(Sara Landry Remix\)](https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq) | 4:21 | 2026-05-06 |  |
+| [CELEBRATION \(Slowed + Reverb ver.\)](https://open.spotify.com/track/4OA7lZTBZqx0SMMJOR9z7l) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION \(Remixes\)](https://open.spotify.com/album/2jujmpcT8jcjKiyQzLfh2l) | 3:49 | 2026-05-06 |  |
+| [CELEBRATION \(Sped Up ver.\)](https://open.spotify.com/track/3NchX9y7glmv6ilE37RJik) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION \(Remixes\)](https://open.spotify.com/album/2jujmpcT8jcjKiyQzLfh2l) | 1:54 | 2026-05-06 |  |
 | [Chasing Lightning](https://open.spotify.com/track/5hfKDfqthxHt6xsgCjimuO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 3:25 | 2024-09-04 |  |
 | [Choices](https://open.spotify.com/track/4Uho9zRGoO1aLspbIQ8y7A) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i) | 3:20 | 2024-03-29 |  |
 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-05-01 | 2024-04-19 |

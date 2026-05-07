@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 873546,
+  "num_followers": 873667,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Homo Sapiens / Take the Money (Octopus Version)",
-        "url": "https://open.spotify.com/album/2WBMWVmk0SLTOxxh4shseS"
-      },
-      "artists": [
-        {
-          "name": "L'Eclair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
-        },
-        {
-          "name": "The Mauskovic Dance Band",
-          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
-        }
-      ],
-      "duration_ms": 293999,
-      "name": "Homo Sapiens",
-      "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
         "name": "Suco de Sol",
         "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 228000,
       "name": "Suco de Sol",
       "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Homo Sapiens / Take the Money (Octopus Version)",
+        "url": "https://open.spotify.com/album/2WBMWVmk0SLTOxxh4shseS"
+      },
+      "artists": [
+        {
+          "name": "L'Eclair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        },
+        {
+          "name": "The Mauskovic Dance Band",
+          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+        }
+      ],
+      "duration_ms": 293999,
+      "name": "Homo Sapiens",
+      "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Of The Earth",
-        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Step Lightly",
-      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
         "name": "Como Fuego",
         "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
       },
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
-      },
-      "artists": [
-        {
-          "name": "Abel Lima",
-          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Corre Riba, Corre Baixo",
-      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Space Echo (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+      },
+      "artists": [
+        {
+          "name": "Abel Lima",
+          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Corre Riba, Corre Baixo",
+      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Of The Earth",
+        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Step Lightly",
+      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
+        "name": "Koin\u00e8",
+        "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
         "name": "Weirdo",
         "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
-        "name": "Koin\u00e8",
-        "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Mario",
-      "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Nadoman",
-        "url": "https://open.spotify.com/album/6ApJ0P7eQdth3uJK2erXJB"
-      },
-      "artists": [
-        {
-          "name": "Basajan",
-          "url": "https://open.spotify.com/artist/6wQTlnlFSVvQjVrMjri1Bb"
-        }
-      ],
-      "duration_ms": 254062,
-      "name": "Nadoman",
-      "url": "https://open.spotify.com/track/2knt63jdoXdMm4uu9tmNOi"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
         "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
         "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 357480,
       "name": "Yabaal",
       "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Nadoman",
+        "url": "https://open.spotify.com/album/6ApJ0P7eQdth3uJK2erXJB"
+      },
+      "artists": [
+        {
+          "name": "Basajan",
+          "url": "https://open.spotify.com/artist/6wQTlnlFSVvQjVrMjri1Bb"
+        }
+      ],
+      "duration_ms": 254062,
+      "name": "Nadoman",
+      "url": "https://open.spotify.com/track/2knt63jdoXdMm4uu9tmNOi"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -1975,18 +1975,42 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Soul Speech",
+          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 150803,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2011,26 +2035,18 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Soul Speech",
-          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 150803,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2063,22 +2079,6 @@
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Music Save Me (One More Time)",
-        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 256490,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -2187,18 +2171,18 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+        "name": "Music Save Me (One More Time)",
+        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
       },
       "artists": [
         {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
         }
       ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+      "duration_ms": 256490,
+      "name": "How It Goes",
+      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2215,6 +2199,22 @@
       "duration_ms": 309857,
       "name": "It's Starting",
       "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Mam Yinne Wa",
-        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Alogte Oho & His Sounds of Joy",
-          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
-        }
-      ],
-      "duration_ms": 235250,
-      "name": "Mam Yinne Wa",
-      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+        "name": "Mam Yinne Wa",
+        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "Alogte Oho & His Sounds of Joy",
+          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
         }
       ],
-      "duration_ms": 208444,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+      "duration_ms": 235250,
+      "name": "Mam Yinne Wa",
+      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2331,6 +2315,22 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
         "name": "Waiting For The Punchline (Swallertrip)",
         "url": "https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp"
       },
@@ -2343,22 +2343,6 @@
       "duration_ms": 203688,
       "name": "Waiting For The Punchline (Swallertrip)",
       "url": "https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
-        "name": "R\u00fczgar",
-        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 357558,
-      "name": "R\u00fczgar",
-      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2383,22 +2367,18 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Thonga Lami (Gaudi Remix)",
-        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
+        "name": "R\u00fczgar",
+        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
       },
       "artists": [
         {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 351124,
-      "name": "Thonga Lami - Gaudi Remix",
-      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
+      "duration_ms": 357558,
+      "name": "R\u00fczgar",
+      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2435,6 +2415,26 @@
       "duration_ms": 326986,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
+        "name": "Thonga Lami (Gaudi Remix)",
+        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 351124,
+      "name": "Thonga Lami - Gaudi Remix",
+      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2491,6 +2491,22 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
+        "name": "KB's Mixtape No. 2",
+        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
+      },
+      "artists": [
+        {
+          "name": "Karate Boogaloo",
+          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
+    },
+    {
+      "added_at": "2026-04-30 22:04:54",
+      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 461120,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
-    },
-    {
-      "added_at": "2026-04-30 22:04:54",
-      "album": {
-        "name": "KB's Mixtape No. 2",
-        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
-      },
-      "artists": [
-        {
-          "name": "Karate Boogaloo",
-          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
     },
     {
       "added_at": "2026-04-30 22:04:54",
@@ -2611,18 +2611,22 @@
     {
       "added_at": "2026-04-30 22:04:54",
       "album": {
-        "name": "Hang on to Your Kool",
-        "url": "https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb"
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
       "artists": [
         {
-          "name": "Wrong Way Up",
-          "url": "https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
         }
       ],
-      "duration_ms": 223598,
-      "name": "Hang on to Your Kool",
-      "url": "https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ"
+      "duration_ms": 304334,
+      "name": "Water of Life",
+      "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
     }
   ],
   "unique_name": "Global Groove",

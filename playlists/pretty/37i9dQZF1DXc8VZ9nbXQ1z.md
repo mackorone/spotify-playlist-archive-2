@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,887 likes - 30 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,980 likes - 30 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 21 | [Calling Mine](https://open.spotify.com/track/1JRFvEe3KLaMBs2CheFmCT) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Calling Mine](https://open.spotify.com/album/6mwo5rEHvWhuZi3tRQvhNi) | 5:08 |
 | 22 | [Can't Slow Down](https://open.spotify.com/track/5kU0vd9onuQvaYKOBpgDX5) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY) | [Can't Slow Down](https://open.spotify.com/album/5WWwx9ofZYK1NwagUTcXFG) | 3:10 |
 | 23 | [Coffee](https://open.spotify.com/track/5UzHzwat1mg3u2XQDDBvuE) | [Phila De Giant](https://open.spotify.com/artist/4z7iA319JsMu7Y2szwqaZr), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC), [Deniz Reno](https://open.spotify.com/artist/0E4YnH9Xnp22bxdrk9TmLD) | [So Real](https://open.spotify.com/album/2rJAnHVaoYdRRMca2fv0uV) | 3:31 |
-| 24 | [Elders Calling \- Radio Edit](https://open.spotify.com/track/794JWL5giwIpLuIPARuQwH) | [VERTIC](https://open.spotify.com/artist/348Zrg8a6wlfe3uljmetjg) | [Elders Calling \(Radio Edit\)](https://open.spotify.com/album/7yzlOS6g8KBuPfrv38f6WW) | 3:00 |
+| 24 | [Elders Calling \- Edit](https://open.spotify.com/track/794JWL5giwIpLuIPARuQwH) | [VERTIC](https://open.spotify.com/artist/348Zrg8a6wlfe3uljmetjg) | [Elders Calling \(Edit\)](https://open.spotify.com/album/7yzlOS6g8KBuPfrv38f6WW) | 3:00 |
 | 25 | [Rise](https://open.spotify.com/track/6q3n1AlWzu5sPSnIP1MKHf) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [NXN](https://open.spotify.com/artist/2M8Q8xegVXURdubHF63h6H) | [Rise](https://open.spotify.com/album/4QMIppk9naUARDoTKV0tIQ) | 4:34 |
 | 26 | [The Underground](https://open.spotify.com/track/4lbrsNo6WpZ5vpX77mLjJ3) | [Kadosh](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [à Dieu](https://open.spotify.com/artist/5Tsvs9KMEQ5CTezmYP3EFM), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [The Underground](https://open.spotify.com/album/4ijtWbbT2cVr0ZbLSwFM0A) | 3:41 |
 | 27 | [The Sound \- Urmet K Remix](https://open.spotify.com/track/2y7b6fUq9nWozu181ZRrqT) | [NenaHalena](https://open.spotify.com/artist/23iRCK9958IO0IMtIvAAJq), [Camilo Franco](https://open.spotify.com/artist/1e2xjSptHigXmSL7fuBBTL), [Talia Gal](https://open.spotify.com/artist/0HIhQR3ZbNz69H7QustNgy), [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb) | [The Sound \(Urmet K Remix\)](https://open.spotify.com/album/3ndBka3weFzz459XqSiITL) | 6:24 |

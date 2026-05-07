@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 31965,
+  "num_followers": 31986,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "THE VANDALIST",
-        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 136537,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Pul6SaLL8e0sQhJDBVOr1"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 198000,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "THE VANDALIST",
+        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 136537,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Pul6SaLL8e0sQhJDBVOr1"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Touchin\u2019 (The Pack)",
-        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 193797,
-      "name": "Touchin\u2019",
-      "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Every Second Counts",
         "url": "https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 170213,
       "name": "Our Time Now",
       "url": "https://open.spotify.com/track/3CE3PYF64qJBjq54Uf9ZiW"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Touchin\u2019 (The Pack)",
+        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 193797,
+      "name": "Touchin\u2019",
+      "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i"
       },
       "artists": [
         {
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5"
+      "duration_ms": 273013,
+      "name": "We Don't Know",
+      "url": "https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK"
     }
   ],
   "unique_name": "The Sims Official Playlist",

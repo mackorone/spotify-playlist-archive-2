@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Corazón Serrano.
 
-699 songs - 1 day 14 hr 10 min
+700 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-03 | 2026-03-20 |
 | [mimos](https://open.spotify.com/track/7IfodLxOCtLaeW8AS1SJ4r) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:06 | 2026-04-08 |  |
 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-01 | 2023-04-06 |
-| [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \- en vivo](https://open.spotify.com/track/7AE9JOamNaZySdhVR17STR) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Camino a un Sueño 2025 \(En Vivo\)](https://open.spotify.com/album/2aauaeBkAWYx4ghDcjND3k) | 6:36 | 2026-04-08 |  |
+| [Mix Poco Yo: Sé Que Te Amo / Tu Traición / Otra Ocupa Mi Lugar / Te He Prometido \- en vivo](https://open.spotify.com/track/7AE9JOamNaZySdhVR17STR) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Camino a un Sueño 2025 \(En Vivo\)](https://open.spotify.com/album/2aauaeBkAWYx4ghDcjND3k) | 6:36 | 2026-04-08 | 2026-05-07 |
 | [Modo Avión](https://open.spotify.com/track/6pH8GcHpA5GETCVHsrPitk) | [Shaira](https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso) | [Florecer](https://open.spotify.com/album/49XfluuOcJpZUTJJnqinZe) | 3:08 | 2024-12-06 | 2025-03-06 |
 | [Montego Bay](https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 3:09 | 2025-08-07 | 2025-11-06 |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-01-05 | 2022-03-05 |
@@ -521,6 +521,7 @@
 | [Pikito](https://open.spotify.com/track/3aMYvhmBYhBw5nDxY7PZpc) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Pikito](https://open.spotify.com/album/4B3JLflLxaqQ68mzpLrL5I) | 2:31 | 2025-11-05 | 2026-03-20 |
 | [Pimienta](https://open.spotify.com/track/1SyVu9E0u0FfGpuzNHtQ9a) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Pimienta](https://open.spotify.com/album/01ZZUMyrr1tCKd07boAatk) | 3:12 | 2024-04-03 | 2024-05-02 |
 | [Planeando el Tiempo](https://open.spotify.com/track/4MgmkN3AjyFveP2MAv85YP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Rey](https://open.spotify.com/album/6eeDOjcpZfTh9mASZnsft5) | 2:35 | 2025-11-05 | 2026-03-20 |
+| [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi) | 6:55 | 2026-05-06 |  |
 | [Poesía Venenosa](https://open.spotify.com/track/5Msd2zYVGg8NSJp9CgOqye) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Poesía Venenosa](https://open.spotify.com/album/2dFZScZdcuQkBEXHnQXq4A) | 3:05 | 2024-06-05 | 2024-07-04 |
 | [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 | 2022-03-04 | 2022-05-07 |
 | [Pretender \(Carta No\. 5\)](https://open.spotify.com/track/3ekSP3ityIWAUXaEDOX63y) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Pretender \(Carta No\. 5\)](https://open.spotify.com/album/7JdmOw84KFC5cqCcU6INIr) | 2:23 | 2023-11-21 | 2025-03-06 |

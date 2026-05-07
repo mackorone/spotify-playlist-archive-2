@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAADyBqraqYSHj8UCU1FW8xqD",
+  "snapshot_id": "afkzAAAAAADbMjfoUfISK4gtKHLPrVdt",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
+        "name": "You Make Bad Things Not Suck <3",
+        "url": "https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
+      "duration_ms": 153616,
+      "name": "You Make Bad Things Not Suck <3",
+      "url": "https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178743,
-      "name": "blasphemy!",
-      "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Bad Things Not Suck <3",
-        "url": "https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13"
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 153616,
-      "name": "You Make Bad Things Not Suck <3",
-      "url": "https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO"
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E"
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
+      "duration_ms": 185738,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw"
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
       },
       "artists": [
         {
@@ -424,25 +424,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 185738,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
     }
   ],
   "unique_name": "This Is Meg Smith",

@@ -4,10 +4,11 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-376 songs - 1 day 1 hr 25 min
+377 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10.000 Flores](https://open.spotify.com/track/543rnl651yHWLNP41A5D1t) | [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [10.000 Flores](https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV) | 4:23 | 2026-04-24 |  |
 | [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 | 2024-06-18 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-05-22 |  |
 | [2005](https://open.spotify.com/track/5B7WC3RAeh3aEjnZ2qc2JF) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2005](https://open.spotify.com/album/4xhy1R0xkrbmbiE24QH1V0) | 3:19 | 2026-01-29 |  |
@@ -255,7 +256,7 @@
 | [Overdose](https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Overdose](https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT) | 2:51 | 2026-04-03 |  |
 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 | 2024-08-03 |
 | [People Stomping](https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [People Stomping](https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy) | 3:20 | 2025-08-08 | 2026-04-04 |
-| [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 |  |
+| [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 | 2026-05-07 |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |
 | [Play With Me](https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Play With Me](https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98) | 2:13 | 2025-11-21 | 2026-02-05 |

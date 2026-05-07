@@ -1,13 +1,45 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
-  "num_followers": 255975,
+  "num_followers": 256003,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOVrWlCdsXYdN+Tbx9uAlnL/QCIL",
+  "snapshot_id": "AAAAAEimV+rYVgSS6k7vP4bEBTgLgjLT",
   "tracks": [
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "You Never Did Anything Wrong",
+        "url": "https://open.spotify.com/album/1xSwpgGTUS2mPqUeJm4H7L"
+      },
+      "artists": [
+        {
+          "name": "mer marcum",
+          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
+        }
+      ],
+      "duration_ms": 267854,
+      "name": "You Never Did Anything Wrong",
+      "url": "https://open.spotify.com/track/4i48XJB5LK9FWvubslk3Ko"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0qZvRbw7bR8fAI1xCwhaPH"
+      },
+      "artists": [
+        {
+          "name": "Evil Adeline",
+          "url": "https://open.spotify.com/artist/1ECkxQh8rsOcuOChE5Flzi"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3DTwjK0pAoNX26FEGuZwO8"
+    },
     {
       "added_at": "2026-04-22 16:16:37",
       "album": {
@@ -25,6 +57,86 @@
       "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
     },
     {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "my heart was good (you never knew)",
+        "url": "https://open.spotify.com/album/5i3RwhZsSWtyM6Ppp9JrLO"
+      },
+      "artists": [
+        {
+          "name": "shinyhunt",
+          "url": "https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63"
+        }
+      ],
+      "duration_ms": 201272,
+      "name": "my heart was good (you never knew)",
+      "url": "https://open.spotify.com/track/182pZBYrPgjBRVHSzSyWsw"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "Lighter in the Morning (2/2)",
+        "url": "https://open.spotify.com/album/66R6xgqXKrIN5xNma8dG6a"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        }
+      ],
+      "duration_ms": 179788,
+      "name": "22 & Climbing",
+      "url": "https://open.spotify.com/track/7KBLQuzWxiMWnBZvrRmuay"
+    },
+    {
+      "added_at": "2026-04-29 18:35:08",
+      "album": {
+        "name": "Blue Angel Sparkling Silver 2",
+        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "duration_ms": 186446,
+      "name": "You Say I Love You",
+      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
+    },
+    {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "Above n Beyond (Weather Man)",
+        "url": "https://open.spotify.com/album/6XQq8NaETTv1V0qbwIP7Yv"
+      },
+      "artists": [
+        {
+          "name": "mykel",
+          "url": "https://open.spotify.com/artist/0dVSaGML9lVavgOvyV1PVD"
+        }
+      ],
+      "duration_ms": 111784,
+      "name": "Above n Beyond (Weather Man)",
+      "url": "https://open.spotify.com/track/1JPLwvtprzZh3J7FFmzBfS"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "Can You Hear Me?",
+        "url": "https://open.spotify.com/album/3Q0jVeca9RPoodNn4j6rgU"
+      },
+      "artists": [
+        {
+          "name": "Pilar Victoria",
+          "url": "https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke"
+        }
+      ],
+      "duration_ms": 242841,
+      "name": "Can You Hear Me?",
+      "url": "https://open.spotify.com/track/2BujIp2h0XoMjeqNL59m0z"
+    },
+    {
       "added_at": "2026-04-29 18:30:29",
       "album": {
         "name": "I Love You",
@@ -39,6 +151,54 @@
       "duration_ms": 170330,
       "name": "Place Like Home",
       "url": "https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 175597,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "Blu Tac Piano",
+        "url": "https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO"
+      },
+      "artists": [
+        {
+          "name": "Cusk",
+          "url": "https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Blu Tac Piano",
+      "url": "https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc"
+    },
+    {
+      "added_at": "2026-05-06 17:59:13",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/3MHGBNMXy8FfQZMHUnqsze"
+      },
+      "artists": [
+        {
+          "name": "aaron's book club",
+          "url": "https://open.spotify.com/artist/6vzSrIg2hK1qTPUGrGCLqq"
+        }
+      ],
+      "duration_ms": 240654,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE"
     },
     {
       "added_at": "2026-04-22 16:16:37",
@@ -75,54 +235,6 @@
       "duration_ms": 354461,
       "name": "Barrons Hotel (I, To, Thee.)",
       "url": "https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k"
-    },
-    {
-      "added_at": "2026-04-29 18:35:08",
-      "album": {
-        "name": "Blue Angel Sparkling Silver 2",
-        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "You Say I Love You",
-      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "Above n Beyond (Weather Man)",
-        "url": "https://open.spotify.com/album/6XQq8NaETTv1V0qbwIP7Yv"
-      },
-      "artists": [
-        {
-          "name": "mykel",
-          "url": "https://open.spotify.com/artist/0dVSaGML9lVavgOvyV1PVD"
-        }
-      ],
-      "duration_ms": 111784,
-      "name": "Above n Beyond (Weather Man)",
-      "url": "https://open.spotify.com/track/1JPLwvtprzZh3J7FFmzBfS"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Crybaby",
-        "url": "https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 175597,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
     },
     {
       "added_at": "2026-04-29 18:30:29",
@@ -705,22 +817,6 @@
       "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
     },
     {
-      "added_at": "2026-04-01 16:00:37",
-      "album": {
-        "name": "Brink",
-        "url": "https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/2oOEbRXZ4HIS4KC7iu1D5d"
-    },
-    {
       "added_at": "2026-03-25 16:00:36",
       "album": {
         "name": "To Be Fine",
@@ -1013,22 +1109,6 @@
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
     },
     {
-      "added_at": "2026-03-11 17:52:17",
-      "album": {
-        "name": "limerence",
-        "url": "https://open.spotify.com/album/1oQXqFpDbAaoGWbFJbRdAs"
-      },
-      "artists": [
-        {
-          "name": "jite",
-          "url": "https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "limerence",
-      "url": "https://open.spotify.com/track/4Jc44NE8nRCBLlfqDdPm4z"
-    },
-    {
       "added_at": "2026-03-04 17:27:54",
       "album": {
         "name": "July, December",
@@ -1043,54 +1123,6 @@
       "duration_ms": 167500,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/0mldwBdT46wITG9IeBvFR7"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/3cvQq0LcPp6emlLotrZK1b"
-      },
-      "artists": [
-        {
-          "name": "Caroline Culver",
-          "url": "https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0"
-        }
-      ],
-      "duration_ms": 134831,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/6oCu3T8RPpNQFFhupbU9UE"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/2MfVIr5Dmm8ItKtFLXh7Li"
-      },
-      "artists": [
-        {
-          "name": "Ingrid",
-          "url": "https://open.spotify.com/artist/2hgF3e8mroWl4JbVP7zdjO"
-        }
-      ],
-      "duration_ms": 215407,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/2dJtc47ndRI9l7v581krkc"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "KHAZNA",
-        "url": "https://open.spotify.com/album/1e6TOfQPLEkZG03XHkY3s3"
-      },
-      "artists": [
-        {
-          "name": "Kiss Facility",
-          "url": "https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5"
-        }
-      ],
-      "duration_ms": 247737,
-      "name": "Magenta",
-      "url": "https://open.spotify.com/track/1MlnXJRr2MBFRKVWecKR87"
     },
     {
       "added_at": "2026-02-18 17:00:06",
@@ -1143,38 +1175,6 @@
       "duration_ms": 222682,
       "name": "Reno Moon",
       "url": "https://open.spotify.com/track/0iObTWrYhEn0adDWiFOvKE"
-    },
-    {
-      "added_at": "2026-02-25 17:24:17",
-      "album": {
-        "name": "stay away!",
-        "url": "https://open.spotify.com/album/5cUSYU0Mbdy851bfYy7JxK"
-      },
-      "artists": [
-        {
-          "name": "mer marcum",
-          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
-        }
-      ],
-      "duration_ms": 187147,
-      "name": "stay away!",
-      "url": "https://open.spotify.com/track/5OONkJcLpP4DdClqSzU1Hd"
-    },
-    {
-      "added_at": "2026-02-25 17:24:17",
-      "album": {
-        "name": "Unknowable Distance",
-        "url": "https://open.spotify.com/album/1NETwIAguQbNiUgx0wQA2i"
-      },
-      "artists": [
-        {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Unknowable Distance",
-      "url": "https://open.spotify.com/track/3z2vWPVU6JXduMHg2k0aiO"
     },
     {
       "added_at": "2026-02-11 17:00:28",

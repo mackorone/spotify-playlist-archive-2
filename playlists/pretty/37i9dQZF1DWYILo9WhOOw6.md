@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,488 likes - 148 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,904 likes - 148 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 106 | [Sunrays \- Delta 94Hz \- 96Hz](https://open.spotify.com/track/1CesGp7vyNjZ4ybuaBlveg) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:45 |
 | 107 | [Delta Binaural Sinus 90 Hz \- 91 Hz](https://open.spotify.com/track/5h7shlrQDPiG6hU4ZwcENM) | [brozains](https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA) | [Delta Binaural Sinus 90 Hz \- 91 Hz](https://open.spotify.com/album/4tyxvnBqk6ZYry5XCeQt3g) | 3:09 |
 | 108 | [Delta Scribe](https://open.spotify.com/track/5neKlqSv2txl3ai2OTWJfl) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Delta Scribe \(model 2.58\)](https://open.spotify.com/album/0rrkOPWPNrvM79MPzSuJSw) | 2:58 |
-| 109 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 |
+| 109 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0aCtkobwvfX2RcSQxh4gam) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 |
 | 110 | [Abyssal Hibernation \(Delta Drone L144Hz R147Hz\)](https://open.spotify.com/track/7jhb9dcIOBSghyCuhHGfV1) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 3:12 |
 | 111 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
 | 112 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/0FflPWbB901dNyJ5vLQMGs) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 |

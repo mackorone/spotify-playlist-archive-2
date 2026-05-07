@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,309 likes - 14 songs - 52 min 33 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 24,317 likes - 17 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,5 +22,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 12 | [Berimbau \- Mono Mix](https://open.spotify.com/track/63lSIKcyb8NrfInifgs7GO) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Together Again](https://open.spotify.com/album/3fIh2xLdOkIHfj6BKs7TRo) | 2:53 |
 | 13 | [The Lord Is Back](https://open.spotify.com/track/1IVk1KRG3y16Hc45e5tATU) | [Eugene McDaniels](https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN) | [Headless Heroes of the Apocalypse](https://open.spotify.com/album/3d6r8XuRKejXiqXisnMNoi) | 3:22 |
 | 14 | [Supermarket Blues](https://open.spotify.com/track/0ShILYEuj2JA4Zx31gAhd0) | [Eugene McDaniels](https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN) | [Headless Heroes of the Apocalypse](https://open.spotify.com/album/3d6r8XuRKejXiqXisnMNoi) | 4:10 |
+| 15 | [Born Into Giving It Up,](https://open.spotify.com/track/4HN4AxTzZNlUQlTwyVZp3c) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:00 |
+| 16 | [Hoping Wishers Never Lose,](https://open.spotify.com/track/5l7ohQ54kKEOWP8l4wDL1V) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 2:56 |
+| 17 | [\(Loaded @ the Wrong Door,](https://open.spotify.com/track/0xhY3TJLJTTJX9zoaV88rh) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:30 |
 
-Snapshot ID: `AAAOSs3CgkiXr01ldk8oTx+8SebRZZOA`
+Snapshot ID: `AAAOTrN1xv/YSQ/PwnYiMJXx43iZguJ4`

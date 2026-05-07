@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111539,
+  "num_followers": 111543,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "Deeper Than Love",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "CYK BADDIE",
         "url": "https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 134579,
       "name": "CYK BADDIE",
       "url": "https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Deeper Than Love",
-      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "Do Not Disturb (DND)",
+        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Do Not Disturb (DND)",
+      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/5fuqTYBeqn9qfQvOcIzO7h"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 187500,
       "name": "Only Water - Feat. Lady Donli",
       "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Do Not Disturb (DND)",
-        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Do Not Disturb (DND)",
-      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "No Crumbs",
         "url": "https://open.spotify.com/album/2g6BzKvlN2Dze9LC9ccAyE"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "Modern Fantasy",
         "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
       },
@@ -603,38 +603,6 @@
       "duration_ms": 212903,
       "name": "Modern man",
       "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Whine Am",
-        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Whine Am",
-      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Many Men",
-        "url": "https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "Many Men",
-      "url": "https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -663,6 +631,38 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "Many Men",
+        "url": "https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
         "url": "https://open.spotify.com/album/6BqgPqXsxOlo3xoNLNKrUQ"
       },
@@ -687,6 +687,34 @@
       "duration_ms": 128399,
       "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
       "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Follow Follow (feat. Deela & Paxslim)",
+        "url": "https://open.spotify.com/album/3PjgNY7sOacUiwYQhEabxB"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        },
+        {
+          "name": "Paxslim",
+          "url": "https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Follow Follow (feat. Deela & Paxslim)",
+      "url": "https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -751,34 +779,6 @@
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Follow Follow (feat. Deela & Paxslim)",
-        "url": "https://open.spotify.com/album/3PjgNY7sOacUiwYQhEabxB"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        },
-        {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        },
-        {
-          "name": "Paxslim",
-          "url": "https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Follow Follow (feat. Deela & Paxslim)",
-      "url": "https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "MOSQUITOES",
-        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
-      },
-      "artists": [
-        {
-          "name": "Amanya",
-          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
-        }
-      ],
-      "duration_ms": 107368,
-      "name": "MOSQUITOES",
-      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "Clear Mind",
         "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 160000,
       "name": "Clear Mind",
       "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "MOSQUITOES",
+        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
+      },
+      "artists": [
+        {
+          "name": "Amanya",
+          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
+        }
+      ],
+      "duration_ms": 107368,
+      "name": "MOSQUITOES",
+      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "SAME TIME",
         "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 116869,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
+      },
+      "artists": [
+        {
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
+        }
+      ],
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1167,6 +1167,30 @@
       "duration_ms": 148137,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Formula & Vim/Strangers in Accra",
+        "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
+        },
+        {
+          "name": "Papa Atey",
+          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
+        }
+      ],
+      "duration_ms": 312819,
+      "name": "Formula & Vim/Strangers in Accra",
+      "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1239,30 +1263,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "Formula & Vim/Strangers in Accra",
-        "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        },
-        {
-          "name": "KwesiSoul",
-          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
-        },
-        {
-          "name": "Papa Atey",
-          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
-        }
-      ],
-      "duration_ms": 312819,
-      "name": "Formula & Vim/Strangers in Accra",
-      "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "Phenomenal",
-        "url": "https://open.spotify.com/album/7rtv4wefCWvlG3Xa3KcaRb"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Phenomenal",
-      "url": "https://open.spotify.com/track/4k0UPBR76jiRbErJ7ZHbnB"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "LAGOS",
         "url": "https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180000,
       "name": "LAGOS",
       "url": "https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Phenomenal",
+        "url": "https://open.spotify.com/album/7rtv4wefCWvlG3Xa3KcaRb"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Phenomenal",
+      "url": "https://open.spotify.com/track/4k0UPBR76jiRbErJ7ZHbnB"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "Supreme Dee",
-        "url": "https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze"
-      },
-      "artists": [
-        {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        }
-      ],
-      "duration_ms": 128494,
-      "name": "Supreme Dee",
-      "url": "https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "infrunayou",
         "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 144000,
       "name": "infrunayou",
       "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Supreme Dee",
+        "url": "https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        }
+      ],
+      "duration_ms": 128494,
+      "name": "Supreme Dee",
+      "url": "https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P"
     },
     {
       "added_at": "2026-05-01 00:01:40",

@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 495046,
+  "num_followers": 495070,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
-        "name": "Schaukelpferd",
-        "url": "https://open.spotify.com/album/0W9x3dzwrx05nF5aqAzq4k"
-      },
-      "artists": [
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        },
-        {
-          "name": "Der Partycrasher",
-          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Schaukelpferd",
-      "url": "https://open.spotify.com/track/7psH4sJy3YeNzTNnbQthjX"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
         "name": "Party an der Playa",
         "url": "https://open.spotify.com/album/6aViVujDMvECQnaLcr9mmo"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 149154,
       "name": "Party an der Playa",
       "url": "https://open.spotify.com/track/1HGKb7j5qq1ybstSB2LZo0"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "Schaukelpferd",
+        "url": "https://open.spotify.com/album/0W9x3dzwrx05nF5aqAzq4k"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Schaukelpferd",
+      "url": "https://open.spotify.com/track/7psH4sJy3YeNzTNnbQthjX"
     },
     {
       "added_at": "2026-04-30 22:00:38",
@@ -731,42 +731,6 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
-        "name": "Mama Laudaaa",
-        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
-      },
-      "artists": [
-        {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa",
-      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
         "name": "So Bist Du",
         "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
@@ -787,18 +751,38 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
-        "name": "Bonnie und Clyde",
-        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
         }
       ],
-      "duration_ms": 200046,
-      "name": "Bonnie und Clyde",
-      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
     },
     {
       "added_at": "2026-04-30 22:00:38",
@@ -815,6 +799,22 @@
       "duration_ms": 244640,
       "name": "Griechischer Wein",
       "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "Bonnie und Clyde",
+        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 200046,
+      "name": "Bonnie und Clyde",
+      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
     },
     {
       "added_at": "2026-04-30 22:00:38",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
-      },
-      "artists": [
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -1199,6 +1199,66 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "WOW!",
+        "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
     },
     {
       "added_at": "2026-04-30 22:00:38",
@@ -1231,66 +1291,6 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
-        "name": "WOW!",
-        "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "WOW!",
-      "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 185437,
       "name": "Layla",
       "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2026-04-30 22:00:38",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2026-04-30 22:00:38",
       "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
         "name": "Mozart (Ciao Niveau)",
         "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 172637,
       "name": "Mozart (Ciao Niveau)",
       "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2026-04-30 22:00:38",
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2026-04-30 22:00:38",
@@ -1407,22 +1423,6 @@
       "duration_ms": 184558,
       "name": "Malle Modus",
       "url": "https://open.spotify.com/track/1UlxNsiK2DJJLZ2qsY6hR4"
-    },
-    {
-      "added_at": "2026-04-30 22:00:38",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2026-04-30 22:00:38",

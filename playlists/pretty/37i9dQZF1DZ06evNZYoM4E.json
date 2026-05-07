@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108448,
+  "num_followers": 108452,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAAD4G5O7UWWCMD1UkWpy6wDd",
+  "snapshot_id": "afkzAAAAAAAxm+28AmFKF9QRK1vSqucP",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "De Vlieger",
-      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/0icN1DUr8DrI9W58Sc3DyH"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/4pPsZePbOzRPERqPYupISb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "De Vlieger",
+      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
     },
     {
       "added_at": null,

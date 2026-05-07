@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-132 songs - 7 hr 40 min
+133 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Mainline](https://open.spotify.com/track/0CAkW9JOscGbMBpbPshIuc) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 3:18 | 2025-11-01 | 2025-12-09 |
 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-10 |  |
 | [Maldito](https://open.spotify.com/track/18CjsJXuIs1w0UDOtfjqf8) | [La Caída de Girona](https://open.spotify.com/artist/51IqZcdRlw7EPxqavIYoMB) | [Fracasos](https://open.spotify.com/album/2o6E8Qg3KGW0Dw9HS1dGDX) | 3:20 | 2025-11-10 | 2026-03-15 |
+| [Mark My Words \(Unplugged\)](https://open.spotify.com/track/0Xb5yKmAHQYCRfCaOE6hcU) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Mark My Words \(Unplugged\)](https://open.spotify.com/album/0BtA0ZoxxmyteDig2q9jHe) | 4:26 | 2026-05-06 |  |
 | [Me Voy al Infierno](https://open.spotify.com/track/41lTbEJJp9ZfDi8HaQFBW8) | [Abducidos Oficial](https://open.spotify.com/artist/5G0WVcAbaKtpwRfMnEvPVl) | [Sinfonía Extraterrestre](https://open.spotify.com/album/6AkKS7fNterNtS13Fy62Ir) | 2:45 | 2025-11-03 | 2025-12-09 |
 | [Mil historias](https://open.spotify.com/track/4zrvkZ2lWDtkE2eptSMTNa) | [Carmen Medina](https://open.spotify.com/artist/6ZLUv9UIr1MenBK4LPGIee) | [Mil historias](https://open.spotify.com/album/77n6l3YxN57Dj9LfNuxfAU) | 2:55 | 2025-10-27 | 2025-12-09 |
 | [Monday](https://open.spotify.com/track/5ziIMaFf792wZZq6KEy9JL) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Monday](https://open.spotify.com/album/6SOqP4LGqlTb6wrmQf3b1r) | 4:35 | 2026-04-27 |  |

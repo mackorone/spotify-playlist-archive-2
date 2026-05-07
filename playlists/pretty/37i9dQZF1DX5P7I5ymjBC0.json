@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 84595,
+  "num_followers": 84610,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-05 09:16:15",
       "album": {
+        "name": "Vari",
+        "url": "https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI"
+      },
+      "artists": [
+        {
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+        }
+      ],
+      "duration_ms": 224225,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp"
+    },
+    {
+      "added_at": "2026-05-05 09:16:15",
+      "album": {
         "name": "Only Love is Real",
         "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 346000,
       "name": "Merging Parallels- Tribute to Dear Zakir Ji",
       "url": "https://open.spotify.com/track/1xZa28cOrAorS3RKt6xfBU"
-    },
-    {
-      "added_at": "2026-05-05 09:16:15",
-      "album": {
-        "name": "Vari",
-        "url": "https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI"
-      },
-      "artists": [
-        {
-          "name": "Varijashree Venugopal",
-          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
-        }
-      ],
-      "duration_ms": 224225,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp"
     },
     {
       "added_at": "2026-05-05 09:16:15",

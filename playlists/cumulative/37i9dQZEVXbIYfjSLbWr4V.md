@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-985 songs - 1 day 20 hr 21 min
+986 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [BBTEAM FREESTYLE](https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [BBTEAM FREESTYLE](https://open.spotify.com/album/6OJUjEBjQD84QWU5jKhAu6) | 2:55 | 2024-02-17 | 2024-02-24 |
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-18 |  |
+| [bedroom](https://open.spotify.com/track/4E04D7zOlWSicxvwg85Rbc) | [KUDOKUSHI](https://open.spotify.com/artist/5ZqVuddwpPFnq0GHGYVDzM) | [CRY OF FEAR](https://open.spotify.com/album/1KQZraye4S3UXhL3HbF7aJ) | 1:52 | 2026-05-06 |  |
 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 | 2024-10-22 | 2025-02-11 |
 | [Berliner](https://open.spotify.com/track/1neyIeyeaqJGLVdQa1lHUG) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 1:50 | 2025-04-26 | 2025-04-28 |
 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-22 | 2025-07-24 |
@@ -794,7 +795,7 @@
 | [Планы на завтра](https://open.spotify.com/track/0O4kb1JsWID2qx6r2iiBfP) | [TIGO](https://open.spotify.com/artist/2cwPCcxidKbrm6ImMtStMq), [Migrant](https://open.spotify.com/artist/35YM79EM2BbfGC7ZYhz8Ly) | [Планы на завтра](https://open.spotify.com/album/3pxtE8YOtxtpqS8984YwWW) | 2:25 | 2025-01-09 | 2025-01-20 |
 | [Плачут Небеса](https://open.spotify.com/track/6euqOfQXC3YdneT6bGTyI6) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Доминик Джокер](https://open.spotify.com/artist/5YF9ggs1BDRHNx7OiLCvxe) | [Плачут Небеса](https://open.spotify.com/album/2d5EJLlYd2KLRhijE8gaZk) | 2:47 | 2024-01-30 | 2024-02-04 |
 | [Плохая Сука](https://open.spotify.com/track/7GQY5kKP1uZGWSvZ5tOxsN) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [Плохая Сука](https://open.spotify.com/album/2sSIkoQkYLtmMZYxrUGPRe) | 2:08 | 2025-03-31 | 2025-09-29 |
-| [ПОВОД](https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ALISHER](https://open.spotify.com/album/4Y8nQDihhjaKefzE3rmoAM) | 2:33 | 2025-02-16 | 2026-05-06 |
+| [ПОВОД](https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ALISHER](https://open.spotify.com/album/4Y8nQDihhjaKefzE3rmoAM) | 2:33 | 2025-02-16 |  |
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 | 2024-07-21 |
 | [ПОДРУГА ПОДРУГ](https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [SLIME](https://open.spotify.com/album/0eyy6mYeDddAxpPFOzVtuJ) | 2:44 | 2025-02-21 | 2025-02-23 |
 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 | 2024-01-29 | 2025-06-17 |
@@ -809,7 +810,7 @@
 | [последнее лето](https://open.spotify.com/track/0M6DVxO3zzYsAx1PJoG7jO) | [kin](https://open.spotify.com/artist/3gWzZ1G1YylaEyFIwbQMtw) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/1LKztSqCqjJeO7aDFIkhPJ) | 2:17 | 2024-05-10 | 2024-05-13 |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2024-01-29 | 2024-11-20 |
 | [Последнее свидание](https://open.spotify.com/track/6OlP8aLDdhWQI9TFmOwgdY) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 3:01 | 2024-04-06 | 2024-04-11 |
-| [Последняя Любовь](https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Последняя Любовь](https://open.spotify.com/album/59CC4ZIo1kH4AG9WsXLoJY) | 2:42 | 2024-03-09 |  |
+| [Последняя Любовь](https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Последняя Любовь](https://open.spotify.com/album/59CC4ZIo1kH4AG9WsXLoJY) | 2:42 | 2024-03-09 | 2026-05-07 |
 | [Привет](https://open.spotify.com/track/74N7iPcquSM7xqpv8hNhQt) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Привет](https://open.spotify.com/album/5hqvnihLTRsDWPLAsxpA4y) | 2:53 | 2025-02-08 | 2025-02-10 |
 | [Приключения](https://open.spotify.com/track/0itjGdq4A6pwefixCKwskb) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Национальность: нет](https://open.spotify.com/album/10KNSXnmEZW8eYfaLx2W1z) | 7:37 | 2025-12-18 | 2025-12-20 |
 | [Прокля Табыла](https://open.spotify.com/track/5Y2IOGdZcAIbEaetP8TeNy) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [RATT\#WHORE](https://open.spotify.com/album/7olRBxE5mxa6h0XHF3057r) | 2:21 | 2024-10-12 | 2024-10-31 |
@@ -838,7 +839,7 @@
 | [Ретро рейв](https://open.spotify.com/track/4mkVmNuxBgyiRFUy0gbvyv) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [Ретро рейв](https://open.spotify.com/album/5NCSzz46rNMMHBoSR4cPyC) | 1:55 | 2024-12-19 | 2024-12-21 |
 | [Ринопластика \- Surgery](https://open.spotify.com/track/6dXPD2BzUrKjceT1c3eOtK) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm), [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Heavy Metal 2](https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2) | 1:55 | 2024-09-14 | 2024-10-29 |
 | [Родная Душа](https://open.spotify.com/track/27brLLDChFOPcgWFsA0UON) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [10:13](https://open.spotify.com/album/03imWZkKnDD7RwAq1pwoUh) | 2:04 | 2025-04-27 | 2025-04-29 |
-| [Родной город](https://open.spotify.com/track/45x4xzIwyNd4GBjP1YRmZj) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Костёр](https://open.spotify.com/album/5MCoFOjHrgQjDSiH177JqI) | 3:30 | 2026-01-16 |  |
+| [Родной город](https://open.spotify.com/track/45x4xzIwyNd4GBjP1YRmZj) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Костёр](https://open.spotify.com/album/5MCoFOjHrgQjDSiH177JqI) | 3:30 | 2026-01-16 | 2026-05-07 |
 | [Рок Стар Sh](https://open.spotify.com/track/3JLMjbL3TiiZc9JHuI6wvA) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [10:13](https://open.spotify.com/album/03imWZkKnDD7RwAq1pwoUh) | 2:16 | 2025-04-27 | 2025-04-29 |
 | [РОЛЬФ](https://open.spotify.com/track/5l2JLwEUJl6Q8P8VOEaD1P) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [РОЛЬФ](https://open.spotify.com/album/2uKRbCDOe6bXTECximAd50) | 1:44 | 2025-10-11 | 2025-10-13 |
 | [Ростов](https://open.spotify.com/track/4kUGfBkeyPurQ6MFd9APrF) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [02.06.2022](https://open.spotify.com/album/72P14RZxxfjm5uw31qoTmg) | 1:51 | 2025-02-15 | 2025-02-17 |

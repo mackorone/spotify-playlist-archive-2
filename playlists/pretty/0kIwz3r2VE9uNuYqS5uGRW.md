@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 203 songs - 10 hr 36 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 212 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,5 +211,14 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 201 | [KILLER](https://open.spotify.com/track/4EzcHscbLds0XLxTxlzdYG) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA) | [KILLER](https://open.spotify.com/album/7zN3fyHeb5UujbCsNSJWM2) | 2:49 |
 | 202 | [Shadow On That Wall](https://open.spotify.com/track/26Hnnzyv8G31g3pLs8YZ2X) | [Skyyy](https://open.spotify.com/artist/4EmOC9W13wmWQyJTYyqyXo) | [Shadow On That Wall](https://open.spotify.com/album/4nssfVrog8nSlQYmJbw3pI) | 4:49 |
 | 203 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 |
+| 204 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 |
+| 205 | [VUELVE SOLA](https://open.spotify.com/track/3ZMYR804hQICmG5GcLBL8p) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [VUELVE SOLA](https://open.spotify.com/album/5Jc79SlcKcBxjnz1szJwLj) | 2:22 |
+| 206 | [a helping hand](https://open.spotify.com/track/0DdjWSK9mYxd0OkMafssrD) | [COZE!NE](https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq) | [a helping hand](https://open.spotify.com/album/5wwGLyU2CkVND4ZrkvoPl1) | 2:24 |
+| 207 | [RECONSIDER EVERYTHING](https://open.spotify.com/track/3cRRXFl6HJYXZD2dRxqtQO) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:50 |
+| 208 | [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 |
+| 209 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 |
+| 210 | [i don't want to waste your time](https://open.spotify.com/track/0pzN3BuKIw2pXNQndYn4kN) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [if june was a person](https://open.spotify.com/album/6Nm96HpjoRZGJjpaimqfM4) | 4:53 |
+| 211 | [Replica](https://open.spotify.com/track/3DzLHaqInQ9Tw4DZHUUy4e) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Robin](https://open.spotify.com/album/2oQKKenWAS8mnkzgSElzpS) | 3:07 |
+| 212 | [keep your head up, bitch](https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [BROKEN SIGNALS](https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB) | 3:06 |
 
-Snapshot ID: `AAAV0X7kkVDshrD8MpFdHP0P++TDhZaR`
+Snapshot ID: `AAAV2iyQJvj/O5Rfycjn0bqsfA3E2UX1`

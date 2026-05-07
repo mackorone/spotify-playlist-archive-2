@@ -4,7 +4,7 @@
 
 > Music I've been enjoying lately  \- <a href="https://www.instagram.com/kidnapmusic/">Instagram</a>
 
-178 songs - 15 hr 18 min
+181 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Sea Breeze](https://open.spotify.com/track/08ReIMgSa0axzw5dJdVMGe) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sea Breeze](https://open.spotify.com/album/0K96UlkLaSRQjTnx1dLPEC) | 4:19 | 2019-09-06 | 2023-03-18 |
 | [Second Life](https://open.spotify.com/track/3xkXTiPUuVaF8Acd0zL63Y) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Chemicals](https://open.spotify.com/album/3REMHwS1A3SyMaxjxcCWU9) | 4:32 | 2018-06-18 | 2023-03-18 |
 | [Serenade \- Radio Edit](https://open.spotify.com/track/3WrUwFdVmsQGJ15ytGFNw8) | [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [Serenade](https://open.spotify.com/album/22fyTTuxua996UoZk41lft) | 5:03 | 2019-09-06 | 2023-03-18 |
+| [Sewn](https://open.spotify.com/track/4O9lWwDnugWrEfQWgsreEh) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Woven EP](https://open.spotify.com/album/6VyyjhS5G442emks8nir75) | 3:32 | 2026-05-06 |  |
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2020-10-07 |  |
 | [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 | 2024-04-12 |  |
 | [Sirocco \- Jonathan Kaspar Remix](https://open.spotify.com/track/2ZKzCBGSs5RQI7ANjDyWc9) | [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf), [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Sirocco](https://open.spotify.com/album/4hEKc6wJewLpEV8ohXd2Vm) | 8:50 | 2019-08-02 | 2023-03-18 |
@@ -141,6 +142,7 @@
 | [Slow Fade](https://open.spotify.com/track/2AfaQgYVIQaI4DrwlEs9Yl) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Song for Alpha](https://open.spotify.com/album/1usi8KcQFed0xSqBasYcyx) | 5:32 | 2018-06-18 | 2023-03-18 |
 | [So Cold](https://open.spotify.com/track/1kcuUkrNHTcnbfEaQdZ9w6) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [Psychic Hotline](https://open.spotify.com/album/3qWsUNjAxYiRFBnSJLSkuq) | 3:18 | 2018-07-27 | 2023-03-18 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2023-03-17 | 2024-04-13 |
+| [Starling](https://open.spotify.com/track/5jjkXEpdxNlwolhrBhlifk) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [Something Lost, Something Gained](https://open.spotify.com/album/6stWt9lb69bp9kBaLKC3TH) | 4:23 | 2026-05-06 |  |
 | [Start Again](https://open.spotify.com/track/73jH2B3dY3nmdH6xDlBWgF) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Start Again](https://open.spotify.com/album/6dZWgDzuL9z9Qbh5CFMJLR) | 3:58 | 2019-08-02 | 2023-03-18 |
 | [Start Again \- Kidnap Dub](https://open.spotify.com/track/1LZsWTjcyvWZPrvGwUsAJl) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Grow](https://open.spotify.com/album/2SDHfha3SMTWjBeOVE9YCh) | 5:58 | 2019-10-07 | 2023-03-18 |
 | [Start Again \- Model Man Remix](https://open.spotify.com/track/0COFuFi3jP8zkllMTD3V9i) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Start Again \(Model Man Remix\)](https://open.spotify.com/album/0fejEvsAY8IdWNDysBlxm2) | 4:39 | 2023-03-17 |  |
@@ -149,6 +151,7 @@
 | [Syren](https://open.spotify.com/track/2FhN6qG1w42NAibaHFcjw5) | [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7) | [Syren](https://open.spotify.com/album/5fCc9QqaXecBV61RtMr76v) | 8:16 | 2019-06-11 | 2023-03-18 |
 | [Talk To Me You'll Understand](https://open.spotify.com/track/7vt3bmjV7nBiXFSORkjeFO) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/0PS8yuHp9CAqDguXPKSJAg) | 6:57 | 2018-06-18 | 2023-03-18 |
 | [Taos Hum](https://open.spotify.com/track/0xXUDgPG6ZxvhgNxQXHtdu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Taos Hum](https://open.spotify.com/album/3aI8JNCPIel0nxjt1WvXSG) | 4:25 | 2019-09-06 | 2023-03-18 |
+| [Tears](https://open.spotify.com/track/4x8mI1eF6GfHSXOqIMJ08T) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Tears](https://open.spotify.com/album/112J7VVgxQIAD3uQwmgWUI) | 8:37 | 2026-05-06 |  |
 | [Tell Me](https://open.spotify.com/track/6KRJ31DjXrW9A0xHXXoOP9) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [The Look EP](https://open.spotify.com/album/3LJkNaNg7YNds3tgYWgDbJ) | 4:08 | 2018-06-18 | 2023-03-18 |
 | [Tempest](https://open.spotify.com/track/1f0GmVPhCatOYVnc5BXZXy) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Grow](https://open.spotify.com/album/2SDHfha3SMTWjBeOVE9YCh) | 5:17 | 2019-10-07 | 2023-03-18 |
 | [Terrace](https://open.spotify.com/track/6o9U4dOPtLFGvZDy88UcNj) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Terrace / Garden](https://open.spotify.com/album/3qDq2NV1WUFxEv6nLaTcmi) | 7:30 | 2019-12-13 | 2023-03-18 |

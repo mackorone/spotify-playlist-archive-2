@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Jaime Cheung 張天穎\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: sica \)
 
-395 songs - 1 day 0 hr 36 min
+397 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [作賤](https://open.spotify.com/track/55jgSPkET7IS8KORroxhXy) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [作賤](https://open.spotify.com/album/2SBJ4J3u7IWe308Ah4KVVi) | 3:22 | 2026-01-07 |  |
 | [你在我不遠處](https://open.spotify.com/track/4Ly4kSvsSLR2oThi5DGJaW) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你在我不遠處](https://open.spotify.com/album/3yKf5hHj8NGN54Buiv5mNv) | 3:01 | 2025-03-04 | 2026-01-15 |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2022-01-04 | 2022-03-08 |
-| [你所應有的勇氣（電影《金童》主題曲）](https://open.spotify.com/track/6WqQiebXV9eYs0HiR1MqZ6) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [你所應有的勇氣（電影《金童》主題曲）](https://open.spotify.com/album/1QV5mmD1IQTUxSB6Y9TMXi) | 4:52 | 2026-01-07 |  |
+| [你所應有的勇氣（電影《金童》主題曲）](https://open.spotify.com/track/6WqQiebXV9eYs0HiR1MqZ6) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [你所應有的勇氣（電影《金童》主題曲）](https://open.spotify.com/album/1QV5mmD1IQTUxSB6Y9TMXi) | 4:52 | 2026-01-07 | 2026-05-07 |
 | [你是你本身的傳奇](https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [404 Not Found](https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy) | 3:48 | 2022-05-03 | 2022-12-01 |
 | [你的損失](https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你的損失](https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis) | 3:58 | 2026-01-06 |  |
 | [你离开之后](https://open.spotify.com/track/33nUhjkJRfXrdH2c9ih7EX) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [你离开之后](https://open.spotify.com/album/1pegTruxApdcl6n3c8HO5M) | 3:50 | 2026-02-27 |  |
@@ -329,6 +329,7 @@
 | [浪漫石](https://open.spotify.com/track/0gqKyKO16PM30es201xAsZ) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [浪漫石](https://open.spotify.com/album/4rKZxp7IMi7HPOdWCM9OXV) | 3:12 | 2022-03-07 | 2022-05-04 |
 | [浸浴](https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:00 | 2021-12-07 | 2023-11-30 |
 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 | 2022-01-04 | 2022-03-08 |
+| [深宵便利愛](https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [深宵便利愛](https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ) | 3:19 | 2026-05-06 |  |
 | [瀟灑](https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [瀟灑](https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv) | 3:44 | 2023-10-03 | 2026-01-15 |
 | [火和火柴](https://open.spotify.com/track/4JAXqGkTX0fZIauYfVb3Qo) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [火和火柴](https://open.spotify.com/album/4o8kczHjG9MDcBwhRp18Jy) | 3:44 | 2022-01-04 | 2022-03-08 |
 | [無名故事](https://open.spotify.com/track/63R20l947cq2dn2opzQ06D) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [無名故事](https://open.spotify.com/album/2WInCniECtqSXUn6eNlWzu) | 4:04 | 2022-03-07 | 2022-04-06 |
@@ -340,7 +341,7 @@
 | [焰](https://open.spotify.com/track/4nKDougYpys5mubDgbO5rb) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [焰](https://open.spotify.com/album/6j6Q2Chk9OvMHOcsCtmiKt) | 3:55 | 2022-08-02 | 2022-11-02 |
 | [煙花紀](https://open.spotify.com/track/7y0if6xLlBD2SjLliFnRai) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [煙花紀](https://open.spotify.com/album/2RELGUewvDpIt0Cf1Xpfq4) | 4:43 | 2022-11-30 | 2023-11-30 |
 | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv) | 3:11 | 2022-03-07 | 2025-03-05 |
-| [玩味日常](https://open.spotify.com/track/2cuJunMtW2mupS4JDmgu8W) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [玩味日常](https://open.spotify.com/album/6rYSHswhUBVhZvgTWGs7dM) | 2:36 | 2026-01-07 |  |
+| [玩味日常](https://open.spotify.com/track/2cuJunMtW2mupS4JDmgu8W) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [玩味日常](https://open.spotify.com/album/6rYSHswhUBVhZvgTWGs7dM) | 2:36 | 2026-01-07 | 2026-05-07 |
 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 | 2022-01-04 | 2026-01-15 |
 | [理性與任性之間](https://open.spotify.com/track/6MQUW2zTODCTtiIGoMKDXt) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 5:07 | 2024-12-04 | 2025-01-08 |
 | [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:50 | 2025-10-02 | 2026-01-15 |
@@ -390,6 +391,7 @@
 | [金都 \(電影《金都》主題曲\)](https://open.spotify.com/track/3jikCOpCiriDCyw0GtbaTB) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [金都 \(電影《金都》主題曲\)](https://open.spotify.com/album/5you9i9MbrtExL1tTg6MyA) | 3:40 | 2021-12-07 | 2022-01-05 |
 | [鋼鐵是怎樣煉成的](https://open.spotify.com/track/3BMu1nILItX08rd1PnR5aj) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [無名, 詩](https://open.spotify.com/album/50Dnh9LfTgfCdh1AU8ltpn) | 5:03 | 2021-12-07 | 2022-01-05 |
 | [鐵樹](https://open.spotify.com/track/0Z8hG73RgpWQPNVwUZ4PEE) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [鐵樹](https://open.spotify.com/album/2p42OI546sS20ZabQhBCvu) | 4:12 | 2022-01-04 | 2022-12-01 |
+| [開心果](https://open.spotify.com/track/3KNaTGL2CrSk5W5L0bEQLw) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [開心果](https://open.spotify.com/album/7bBr9JCG44j7UXzicHUrnT) | 3:38 | 2026-05-06 |  |
 | [限量版](https://open.spotify.com/track/3sq56ILg4hSfVoz1Ypkaqy) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [限量版](https://open.spotify.com/album/0VgmIDyEqPnJGcCHLrdShB) | 4:12 | 2026-01-06 |  |
 | [離不開](https://open.spotify.com/track/0wqkdSzqQZDUJXOB6Etp7l) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [離不開](https://open.spotify.com/album/5axFyXeQt3bZCaelmy2N94) | 5:15 | 2022-01-04 | 2022-03-08 |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2021-12-07 | 2026-04-08 |

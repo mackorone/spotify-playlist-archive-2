@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,020 songs - 2 day 11 hr 45 min
+1,023 songs - 2 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [BUSY](https://open.spotify.com/track/5bjd9IPzs7avJgswVKZtQC) | [Nancy Dunkle](https://open.spotify.com/artist/0SE0lZgXJ2XCdvO77Zv2Kl) | [BUSY](https://open.spotify.com/album/5s8s7OnvvEm4u5d6mHug1W) | 3:19 | 2026-03-02 | 2026-03-25 |
 | [Buttana di to ma \(Remix\)](https://open.spotify.com/track/2MEm5sbIhzWmLfhpoHvbvP) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO), [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:55 | 2023-04-27 | 2025-11-29 |
 | [Caballito de arena](https://open.spotify.com/track/4MbmHQqmrbA3jyaUGDiHyw) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Caballito de arena](https://open.spotify.com/album/3YMi7sNqtCHUBY1hk5l0Zm) | 2:59 | 2025-11-14 | 2025-12-21 |
+| [Call Me Anytime](https://open.spotify.com/track/3SQIF5HhACrt8EeUE3eE4G) | [Apryll Aileen](https://open.spotify.com/artist/7HiM3bTnI54m340lbhpODC) | [Call Me Anytime](https://open.spotify.com/album/3nKQvXcf2VZh9PCNuN1uAb) | 3:55 | 2026-05-06 |  |
 | [Call Out](https://open.spotify.com/track/7Lsb1QA4VjOFo0zla7PX3K) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Call Out](https://open.spotify.com/album/6YFMBhR7A3WMVREp2ATCdv) | 3:45 | 2026-01-06 | 2026-02-03 |
 | [Camminando con Astor](https://open.spotify.com/track/2GZdQm0vyiIGW5DQgyrQHH) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 4:03 | 2024-09-19 | 2025-12-21 |
 | [Campo Libre \(Acústico\)](https://open.spotify.com/track/3uC17YEAFcSGRxl5MFLyZ9) | [Campo Libre](https://open.spotify.com/artist/2RGPouVkgRJHJl3Y0EnCIL), [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [Campo Libre](https://open.spotify.com/album/3Jfq4WislpKzf1TgbN5m8s) | 2:33 | 2025-12-17 | 2026-01-15 |
@@ -638,6 +639,7 @@
 | [On My Way](https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L) | [OVRTME](https://open.spotify.com/artist/0yqsiKLq7oRCKSDBPk6Rm4) | [On My Way](https://open.spotify.com/album/4Fl8nGmtLOZjiObvfLoL9q) | 3:05 | 2026-01-31 | 2026-02-28 |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 | 2026-04-22 |
+| [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-06 |  |
 | [Open Road](https://open.spotify.com/track/4qmM0P0zPzuk02vS0zwzVL) | [Melaku](https://open.spotify.com/artist/0pg8optqAPmdNYyiksFIJs) | [Open Road](https://open.spotify.com/album/2NaqfH12sP2B48uo1GyOUT) | 3:05 | 2026-03-10 | 2026-04-12 |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2026-01-30 | 2026-02-28 |
 | [Oublier](https://open.spotify.com/track/28Bf8mE8vljd4yiyObmc6o) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Oublier](https://open.spotify.com/album/4sWS2GpOMkXIYFNxVaBwen) | 3:44 | 2026-04-14 |  |
@@ -986,6 +988,7 @@
 | [White Lion Phone Call](https://open.spotify.com/track/5dR2BQ8mpRFfxYJ0Rr1Sf5) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 2:42 | 2026-02-23 | 2026-04-12 |
 | [Who Knows](https://open.spotify.com/track/7gBAeTkW4h4bInsEpxl6ei) | [Blurry Girl](https://open.spotify.com/artist/3p2ZVRrTcNT0UB5BwItngj) | [Who Knows](https://open.spotify.com/album/25tMxOvOdorwd9OgWhSrkS) | 3:07 | 2026-03-16 | 2026-04-12 |
 | [Who Knows \- Remix](https://open.spotify.com/track/4YLuehHCimOg0RD2U825Dp) | [Xandre Augs](https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn) | [a u g y](https://open.spotify.com/album/0jl0huXGuyDmGWyW72h2kX) | 2:09 | 2026-03-04 | 2026-03-25 |
+| [Why Don't You?](https://open.spotify.com/track/3ZwziPw6tfa2uqVO3kb00x) | [Donnie Dynamite](https://open.spotify.com/artist/2jF2ZJPCeAL4UTrWa1Z78f), [FiVe \(The Infinite\)](https://open.spotify.com/artist/2iI7c8fENFVoSANPTWVTup) | [Why Don't You?](https://open.spotify.com/album/0PhTPtXquw0iXDsTzL4aCD) | 2:31 | 2026-05-06 |  |
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-11-11 | 2025-12-21 |
 | [Wildflower](https://open.spotify.com/track/6x4AHO4gGPobqEmgkspSfj) | [Katherine Winston](https://open.spotify.com/artist/3EEDivClbmPwyqrMpTaRIP) | [Something Special, Nothing Fancy](https://open.spotify.com/album/6PNV3MFwwKLOi5fsV3CTKV) | 4:21 | 2026-01-07 | 2026-02-03 |
 | [Wine](https://open.spotify.com/track/0y1bwmgoGdG8DvryqmBR3K) | [Ou Yu](https://open.spotify.com/artist/5qPvi8fvZMu4sJGSoA6nH6), [framesound](https://open.spotify.com/artist/2rc2L0vG15AyrlJrIhsIXs) | [Wine](https://open.spotify.com/album/23Saj01VUpK7zGkcDX3mrd) | 2:51 | 2025-12-27 | 2026-01-24 |

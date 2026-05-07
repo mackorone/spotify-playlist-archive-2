@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 
 > <a href="spotify:artist:0g3NiCRhEv7M4SEDMrpItN">TEED</a>'s favorite tracks\. Updated regularly\. Curated by TEED\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 | 52 | [The Echo \- William Kiss Remix](https://open.spotify.com/track/49OZjJGqtw6IwX6h4rVAXj) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Always With A Remix](https://open.spotify.com/album/23PksvTJUKwBAFOZFnsz4m) | 3:28 |
 | 53 | [take me home \- Xinobi Remix](https://open.spotify.com/track/5TaOMJUPaXu11tmNWlRNqJ) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [take me home \(Xinobi Remix\)](https://open.spotify.com/album/4tKynunxoBOsYzpaE8z2X3) | 6:01 |
 | 54 | [Allerseelen \- Jeff Mills Remix](https://open.spotify.com/track/41khL5MQtEaicHCk2pXiIa) | [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C), [Jeff Mills](https://open.spotify.com/artist/0fbv0Ok2KiuPzE0apvwaVo) | [Hell ärgere dich nicht \(2018 Remastered\)](https://open.spotify.com/album/1XaH2OcVVZ9f8EVBvailZ9) | 5:53 |
-| 55 | [Darkroom Lover](https://open.spotify.com/track/3BU9LmUQwKDvWOW46Kky32) | [Josh Caffé](https://open.spotify.com/artist/0xfgTbJfcAgsRLqJ6y0PAp) | [The Adventures of Mr Freek](https://open.spotify.com/album/52jdcPJUbn0UA54BGFa2xt) | 7:51 |
+| 55 | [Darkroom Lover](https://open.spotify.com/track/3BU9LmUQwKDvWOW46Kky32) | [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [The Adventures of Mr Freek](https://open.spotify.com/album/52jdcPJUbn0UA54BGFa2xt) | 7:51 |
 | 56 | [eye contact \(feat\. Council\)](https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ), [Council](https://open.spotify.com/artist/0bX0GFeupnom6eHF7hJw62) | [eye contact \(feat\. Council\)](https://open.spotify.com/album/6z9iFDIEPBgrDp1fpwqRHN) | 3:06 |
 | 57 | [Movements Of Venus](https://open.spotify.com/track/2Ym01W3VMbcc3L0tPSfDzP) | [Solid Gold Playaz](https://open.spotify.com/artist/3MYBNQxHbd6kYI9plZb2La) | [Alone \(My Life Underground\)](https://open.spotify.com/album/1w06G8I69wrua6E5urb5cY) | 7:10 |
 | 58 | [Tech This Out](https://open.spotify.com/track/0xKHSb2rVZAbFy058oEl8k) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Collection 1999\-2011](https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD) | 7:37 |

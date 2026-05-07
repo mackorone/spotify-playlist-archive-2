@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1613779,
+  "num_followers": 1613822,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 144000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -655,46 +655,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Break The Loop",
-        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Conor Ross",
-          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "Break The Loop",
-      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Worlds Apart / Surreal",
-        "url": "https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc"
-      },
-      "artists": [
-        {
-          "name": "Guy J",
-          "url": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
-        }
-      ],
-      "duration_ms": 511659,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
       },
@@ -715,6 +675,46 @@
       "duration_ms": 219047,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Worlds Apart / Surreal",
+        "url": "https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc"
+      },
+      "artists": [
+        {
+          "name": "Guy J",
+          "url": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
+        }
+      ],
+      "duration_ms": 511659,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Break The Loop",
+        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Conor Ross",
+          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "Break The Loop",
+      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
@@ -807,22 +827,6 @@
       "duration_ms": 190726,
       "name": "Human Now (feat. Luke Steele)",
       "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Lily At The Valley",
-        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Lily At The Valley",
-      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -847,22 +851,18 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+        "name": "Lily At The Valley",
+        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+      "duration_ms": 238080,
+      "name": "Lily At The Valley",
+      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 198190,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
-      },
-      "artists": [
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230487,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230487,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 232607,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "London To Buenos Aires",
-        "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        }
-      ],
-      "duration_ms": 185943,
-      "name": "London To Buenos Aires",
-      "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "London To Buenos Aires",
+        "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        }
+      ],
+      "duration_ms": 185943,
+      "name": "London To Buenos Aires",
+      "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Attraction (Marsh's Mix)",
-        "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Attraction - Marsh's Mix",
-      "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Live My Life",
         "url": "https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 241920,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Attraction (Marsh's Mix)",
+        "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 285797,
+      "name": "Attraction - Marsh's Mix",
+      "url": "https://open.spotify.com/track/0lqQP09YJFxYPd5M0AUTJc"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 204593,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Heard It All Before",
         "url": "https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH"
       },
@@ -1795,6 +1775,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Caught in a Moment",
         "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
@@ -1811,6 +1811,26 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1835,26 +1855,6 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "The Good Part",
-        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "LORYN",
-          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 314462,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Surrender Your Love (Progressive Edit)",
         "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 185629,
       "name": "Surrender Your Love - Progressive Edit",
       "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     },
     {
       "added_at": "2026-05-01 14:43:28",

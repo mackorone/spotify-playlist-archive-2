@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: luv
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,238 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,235 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/track/0UTXzsR3yu5wRmphb8dzla) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 3:19 |
 | 60 | [惑星都市](https://open.spotify.com/track/6jlWkEmC43BYnAhI4z5D0A) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [惑星都市](https://open.spotify.com/album/1GEPuiJ6Ruso5VMmy2z25f) | 3:46 |
 
-Snapshot ID: `AAAAAJOoXMSRU5+TBYLUTfOX2DJzZ5Od`
+Snapshot ID: `AAAAAI5m313CpmquAVcuS1z1+88cBnxs`

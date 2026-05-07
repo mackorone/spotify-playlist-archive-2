@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 467772,
+  "num_followers": 467748,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "affhgAAAAACI8XCcKL9dLvryyVvRp+Vi",
+  "snapshot_id": "afkzAAAAAACwxUi0JcUiHvjLZxBzvYO4",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Anillo",
-        "url": "https://open.spotify.com/album/4DnxvNqBLOdInzC0cI8Wzy"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 176816,
-      "name": "El Anillo",
-      "url": "https://open.spotify.com/track/2SpfMQ5TuKsMj1trNwrLVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni T\u00fa Ni Yo (feat. Gente de Zona)",
         "url": "https://open.spotify.com/album/5ekcwlR6IVNcv2OMjcuz0G"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 215880,
       "name": "Ni T\u00fa Ni Yo (feat. Gente de Zona)",
       "url": "https://open.spotify.com/track/5xMzazov0IHYllrc8U2K6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Anillo",
+        "url": "https://open.spotify.com/album/4DnxvNqBLOdInzC0cI8Wzy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 176816,
+      "name": "El Anillo",
+      "url": "https://open.spotify.com/track/2SpfMQ5TuKsMj1trNwrLVA"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel The Light (From The \"Home\" Soundtrack)",
-        "url": "https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
       },
       "artists": [
         {
@@ -816,9 +800,33 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 291546,
-      "name": "Feel The Light - From The \"Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER"
+      "duration_ms": 245866,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double Vision (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 200922,
+      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
+      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
     },
     {
       "added_at": null,
@@ -835,6 +843,22 @@
       "duration_ms": 192571,
       "name": "On My Way (Marry Me)",
       "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel The Light (From The \"Home\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 291546,
+      "name": "Feel The Light - From The \"Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER"
     },
     {
       "added_at": null,
@@ -871,30 +895,6 @@
       "duration_ms": 192473,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Vision (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 200922,
-      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
-      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,300 likes - 134 songs - 7 hr 52 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,301 likes - 137 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 132 | [Stick Around](https://open.spotify.com/track/3EtjIZlARqyTTaGghFPi8h) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Stick Around](https://open.spotify.com/album/3ab29ho6kVAV8qfecsxEmf) | 4:29 |
 | 133 | [Земне Життя](https://open.spotify.com/track/6idVqezW5gYMSsW2YDRNID) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Земне Життя](https://open.spotify.com/album/6fVSuI4RtrPRY5XesycuUl) | 2:13 |
 | 134 | [Sleep tight](https://open.spotify.com/track/0Lrr38F3fCSL0ERjoOrjBO) | [Tsjabowski](https://open.spotify.com/artist/5jh3Uorc4wBHMUyfIwcMaV) | [Middernachtmagie](https://open.spotify.com/album/47LdJPaZrscgqAf2Qt6wuc) | 3:16 |
+| 135 | [Why Don't You?](https://open.spotify.com/track/3ZwziPw6tfa2uqVO3kb00x) | [Donnie Dynamite](https://open.spotify.com/artist/2jF2ZJPCeAL4UTrWa1Z78f), [FiVe \(The Infinite\)](https://open.spotify.com/artist/2iI7c8fENFVoSANPTWVTup) | [Why Don't You?](https://open.spotify.com/album/0PhTPtXquw0iXDsTzL4aCD) | 2:31 |
+| 136 | [Call Me Anytime](https://open.spotify.com/track/3SQIF5HhACrt8EeUE3eE4G) | [Apryll Aileen](https://open.spotify.com/artist/7HiM3bTnI54m340lbhpODC) | [Call Me Anytime](https://open.spotify.com/album/3nKQvXcf2VZh9PCNuN1uAb) | 3:55 |
+| 137 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 |
 
-Snapshot ID: `AAATzKnHv2VJRfnb0jP88YLiGW+2Toko`
+Snapshot ID: `AAATz5v7qLhzweXX7q1ThqubPWWfUNj9`

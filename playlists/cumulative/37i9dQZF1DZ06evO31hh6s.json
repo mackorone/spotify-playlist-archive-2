@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 220540,
       "name": "Bout That Murder",
       "url": "https://open.spotify.com/track/08agc2GzBbKMVW0TXM7IhH"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 224666,
       "name": "Bury 'Em Deep",
       "url": "https://open.spotify.com/track/6efZzFgwnXR27hdyIJQvY3"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 213564,
       "name": "GANG",
       "url": "https://open.spotify.com/track/1OisrdyrsLdmz7IrmUBQCp"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 292704,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/7KgRa8sQWi3ijZ9p7zsE5h"
@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 218077,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1wHB2sC7wd5PLlr5FYetrs"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 211285,
       "name": "Music Ease The Pain",
       "url": "https://open.spotify.com/track/29G4yYOzGYxTMZ21AKsbf7"
@@ -3545,6 +3545,28 @@
     },
     {
       "album": {
+        "name": "Crazy 80's Babies",
+        "url": "https://open.spotify.com/album/0PgmVjfYHFnQ2CyRwCoVPN"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Dirty Bert",
+          "url": "https://open.spotify.com/artist/2bz7u4I8vesATLV8haM7Dh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212367,
+      "name": "Ruff Juveniles",
+      "url": "https://open.spotify.com/track/6F731cdWDwX5MHFpbFhVlP"
+    },
+    {
+      "album": {
         "name": "3rd Eye View",
         "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
       },
@@ -3622,7 +3644,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/3E1EgF2oFqpTJT6T2ybRGt"
@@ -4198,7 +4220,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-07",
       "duration_ms": 40176,
       "name": "Thuggish",
       "url": "https://open.spotify.com/track/1wpqqsHmb9jk9RPLuVl2zM"
@@ -4312,6 +4334,32 @@
       "duration_ms": 301581,
       "name": "UMotherfuckerU",
       "url": "https://open.spotify.com/track/4kaNicV2wiezVeeyPL498c"
+    },
+    {
+      "album": {
+        "name": "MASTERY BY SIR JINX (Full Mix)",
+        "url": "https://open.spotify.com/album/1TqT4R89kULxoN2Yfl5sLv"
+      },
+      "artists": [
+        {
+          "name": "Sir Jinx",
+          "url": "https://open.spotify.com/artist/4KcnQIX5zh89gMe2Lc2O4h"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Roscoe",
+          "url": "https://open.spotify.com/artist/72pyBWNuzcNeQ1xIaQ0Jdp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333114,
+      "name": "Understanding ft. Young Noble, Roscoe (Dedication) - Full Mix",
+      "url": "https://open.spotify.com/track/342Hyy6D7MuhrThpV1qsKA"
     },
     {
       "album": {
@@ -4626,7 +4674,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 188074,
       "name": "Wounds (feat. Young Noble)",
       "url": "https://open.spotify.com/track/38Q3yhF4CYwMNe6lQ9Gzi1"

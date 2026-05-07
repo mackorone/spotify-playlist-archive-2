@@ -20798,6 +20798,10 @@
         {
           "name": "WHIPPED CREAM",
           "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
         }
       ],
       "date_added": "2026-02-19",
@@ -22622,6 +22626,28 @@
       "duration_ms": 235929,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1omHvO3u6OmOUp7arSDuF2"
+    },
+    {
+      "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/2y7MbqBjmsAqoemC0cturf"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202628,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/771QbU9fDqOa91vIuj0Vvu"
     },
     {
       "album": {
