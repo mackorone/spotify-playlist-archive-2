@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 10223,
+  "num_followers": 10226,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAABNaTWFjkenOLUdUmEaFPYz",
+  "snapshot_id": "afqEgAAAAAAkadk/13oTo8FRPwjgoXBS",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Yellow Angels",
-      "url": "https://open.spotify.com/track/5xVZcdfTnCfCY2Xvsh05hS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullaby covers of Senses Fail and Saves the Day songs",
         "url": "https://open.spotify.com/album/0SBZvGXx9SD4pYEby5N7ai"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 313312,
       "name": "Lady in a Blue Dress",
       "url": "https://open.spotify.com/track/4ISxrOmpbJHFnY9s5qjZNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 129920,
+      "name": "Fireworks at Dawn",
+      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Gold Jacket, Green Jacket...",
-      "url": "https://open.spotify.com/track/6RTH6uELdnpz9zrPleN1BP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 260398,
       "name": "Steven",
       "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Gold Jacket, Green Jacket...",
+      "url": "https://open.spotify.com/track/6RTH6uELdnpz9zrPleN1BP"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 294306,
       "name": "Dreaming A Reality",
       "url": "https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 377600,
-      "name": "If There Is Light, It Will Find You",
-      "url": "https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 224133,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 377600,
+      "name": "If There Is Light, It Will Find You",
+      "url": "https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "New Jersey Makes, The World Takes",
-      "url": "https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw"
       },
@@ -759,38 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Lifeboats",
-      "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Closure / Rebirth",
-      "url": "https://open.spotify.com/track/3CQbLTwoVMWPgVGNc1iEQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
@@ -800,9 +752,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Elevator to the Gallows",
-      "url": "https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA"
+      "duration_ms": 179466,
+      "name": "New Jersey Makes, The World Takes",
+      "url": "https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5"
     },
     {
       "added_at": null,
@@ -835,6 +787,54 @@
       "duration_ms": 147026,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/5ciIybg2QT0nkBFqJeAEFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Elevator to the Gallows",
+      "url": "https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Lifeboats",
+      "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Closure / Rebirth",
+      "url": "https://open.spotify.com/track/3CQbLTwoVMWPgVGNc1iEQu"
     }
   ],
   "unique_name": "This Is Senses Fail",

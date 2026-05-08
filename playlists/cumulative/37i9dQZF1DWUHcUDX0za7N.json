@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Blaqbonez",
+  "description": "Hip hop and rap music from Nigeria. Cover: Jeriq",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -2873,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "ITEM VII",
+        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM"
+    },
+    {
+      "album": {
         "name": "LEATHER PARK (VOL. 1)",
         "url": "https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 163968,
       "name": "Dem No Really Send Us",
       "url": "https://open.spotify.com/track/3Kk709eDcov8y78T2niFDP"
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 187736,
       "name": "Digga",
       "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 149958,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/2ruVVY1XNCSJmaU97Pje3V"
@@ -9324,7 +9342,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 160043,
       "name": "My Amigo",
       "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
@@ -9532,6 +9550,24 @@
       "duration_ms": 171535,
       "name": "Naira to Pounds",
       "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161289,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
     },
     {
       "album": {
@@ -14007,6 +14043,24 @@
     },
     {
       "album": {
+        "name": "HOOD BOY DREAMS 2",
+        "url": "https://open.spotify.com/album/5fMGQzPbvDkF8gQTMgGZfg"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "TEN STREET COMMANDMENT",
+      "url": "https://open.spotify.com/track/1AGbjWGPkFqxdKBsVG6oN6"
+    },
+    {
+      "album": {
         "name": "Tena",
         "url": "https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl"
       },
@@ -14340,6 +14394,24 @@
       "duration_ms": 177591,
       "name": "Toe Touch",
       "url": "https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Fi Bi Lagos",
+        "url": "https://open.spotify.com/album/4isDexy7JId4mRr0K16bIo"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128705,
+      "name": "Tomorrow Fi Bi Lagos",
+      "url": "https://open.spotify.com/track/4JFQmn2ahhGECceuhk9YOc"
     },
     {
       "album": {

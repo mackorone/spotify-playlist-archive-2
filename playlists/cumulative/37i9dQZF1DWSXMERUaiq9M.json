@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/6CZ7o5laiU4tQ0YaasZ6yN"
+      },
+      "artists": [
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/40iBeybszqBVGAd1rBbmos"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168962,
       "name": "Cold Kisses",
       "url": "https://open.spotify.com/track/32YxjCCmipEEd3gWWwhSq1"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 163776,
       "name": "Copycat",
       "url": "https://open.spotify.com/track/6lFsUDvJi9LDxPDVJhSsI9"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 145500,
       "name": "Deep Down Low",
       "url": "https://open.spotify.com/track/07cvmYvzmRTHJLBmpNPPnq"
@@ -2834,6 +2852,24 @@
       "duration_ms": 300625,
       "name": "Dikke Beat",
       "url": "https://open.spotify.com/track/1C5mmdbWD5ksvTU0gHPfao"
+    },
+    {
+      "album": {
+        "name": "Dime Porque",
+        "url": "https://open.spotify.com/album/2qNTNEeijrMP9E5l00bpHI"
+      },
+      "artists": [
+        {
+          "name": "CLTX",
+          "url": "https://open.spotify.com/artist/7uYIUwgVSEv7bomOcPROCf"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Dime Porque",
+      "url": "https://open.spotify.com/track/7oLW9B5FsaTXL17gU06ilj"
     },
     {
       "album": {
@@ -4768,7 +4804,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 208000,
       "name": "Funk Star",
       "url": "https://open.spotify.com/track/1moKT6MaEdNRmWOZgb36wv"
@@ -7711,6 +7747,24 @@
     },
     {
       "album": {
+        "name": "LOVE RAVE",
+        "url": "https://open.spotify.com/album/1WlEEQl1UttdNM7BbpEcPx"
+      },
+      "artists": [
+        {
+          "name": "Anna Ullrich",
+          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229019,
+      "name": "LOVE RAVE",
+      "url": "https://open.spotify.com/track/2Ee2P0eSH7YOkmcDIXdFoF"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
       },
@@ -9061,6 +9115,28 @@
     },
     {
       "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
+    },
+    {
+      "album": {
         "name": "slash 001",
         "url": "https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn"
       },
@@ -9861,6 +9937,28 @@
     },
     {
       "album": {
+        "name": "Play Hard",
+        "url": "https://open.spotify.com/album/0tSVe9Euxv3GiG0aguB5KF"
+      },
+      "artists": [
+        {
+          "name": "CARGO",
+          "url": "https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe"
+        },
+        {
+          "name": "Tell Moore",
+          "url": "https://open.spotify.com/artist/6kZny4fmj2gLPYTeWp0G1Y"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179605,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/1EZq7ccz0r1JugQWMXEeYY"
+    },
+    {
+      "album": {
         "name": "Play With Me",
         "url": "https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98"
       },
@@ -10495,6 +10593,28 @@
     },
     {
       "album": {
+        "name": "Ready to Fly",
+        "url": "https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        },
+        {
+          "name": "Bryan Kearney",
+          "url": "https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188811,
+      "name": "Ready to Fly",
+      "url": "https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC"
+    },
+    {
+      "album": {
         "name": "Hekataia EP",
         "url": "https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW"
       },
@@ -10943,6 +11063,24 @@
     },
     {
       "album": {
+        "name": "Sanamos Bailando",
+        "url": "https://open.spotify.com/album/4QHeNmUomnCijY3escNfnb"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146351,
+      "name": "Sanamos Bailando",
+      "url": "https://open.spotify.com/track/2b6Wc3BLe0pkYnDJb4aUcX"
+    },
+    {
+      "album": {
         "name": "Sar\u00e0 perch\u00e9 ti amo",
         "url": "https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh"
       },
@@ -11242,7 +11380,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 127448,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/6PLgcs3fPY83Nr8Nt92DLe"
@@ -12118,7 +12256,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 224571,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4NioEMZU2xoSIZ0a75zE6Z"
@@ -12918,7 +13056,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 233846,
       "name": "Toter Schmetterling",
       "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"

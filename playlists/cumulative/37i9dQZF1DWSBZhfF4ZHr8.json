@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Lena\u00efg\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec C\u00e9sar\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 154375,
       "name": "Au-dessus des vagues",
       "url": "https://open.spotify.com/track/5X2AiGjrRx5Sv4NglUWJN8"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 151996,
       "name": "Crash 404",
       "url": "https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182912,
       "name": "derni\u00e8re soir\u00e9e",
       "url": "https://open.spotify.com/track/7gJ4aWFjhdhWdkotxxBfbK"
@@ -1944,6 +1944,24 @@
       "duration_ms": 177440,
       "name": "Eau de javel",
       "url": "https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ"
+    },
+    {
+      "album": {
+        "name": "Elle m'aimait hier",
+        "url": "https://open.spotify.com/album/0WjlF6BtgX8U7IzOf1nU5e"
+      },
+      "artists": [
+        {
+          "name": "Amine",
+          "url": "https://open.spotify.com/artist/3OpXEYnkpqSBaJjFWGeJxy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Elle m'aimait hier",
+      "url": "https://open.spotify.com/track/3mFnLWfhyAbjwgvcSqLnBl"
     },
     {
       "album": {
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 258996,
       "name": "Karma",
       "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
@@ -4306,6 +4324,24 @@
       "duration_ms": 262706,
       "name": "Le Labyrinthe",
       "url": "https://open.spotify.com/track/45hOGbJg68LAc6plyrSXru"
+    },
+    {
+      "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/59k9ey5Vj4SbeM01Q7Ablo"
+      },
+      "artists": [
+        {
+          "name": "Naumaur",
+          "url": "https://open.spotify.com/artist/37p0K11WckJ4GBwSX0lDis"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163169,
+      "name": "Le meilleur de mes potes",
+      "url": "https://open.spotify.com/track/4pgK4DQ9C6qR9e8ABcfvoe"
     },
     {
       "album": {
@@ -5651,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "Ne reviens pas",
+        "url": "https://open.spotify.com/album/3McWKavqxlBuMotx52KLGn"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160999,
+      "name": "Ne reviens pas",
+      "url": "https://open.spotify.com/track/2cVwmAFE0ZlTQ3K14bHx5I"
+    },
+    {
+      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul"
       },
@@ -5846,7 +5900,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 166240,
       "name": "OK KO (feat. Kyo)",
       "url": "https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV"
@@ -6378,6 +6432,24 @@
       "duration_ms": 216168,
       "name": "Peur du vide",
       "url": "https://open.spotify.com/track/2xq2jv0Z7fi63CWij820dg"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163961,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R"
     },
     {
       "album": {
@@ -7259,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "SALES GOSSES",
+        "url": "https://open.spotify.com/album/5kq4F80Q0hEIyRz2YM7nGh"
+      },
+      "artists": [
+        {
+          "name": "lowey",
+          "url": "https://open.spotify.com/artist/0bHn6CXor3W20fGzNqUe8P"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143260,
+      "name": "SALES GOSSES",
+      "url": "https://open.spotify.com/track/1xQTJT3CIkboRAChRaqm9O"
+    },
+    {
+      "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu"
       },
@@ -7378,7 +7468,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174293,
       "name": "Ses yeux",
       "url": "https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j"
@@ -7776,6 +7866,24 @@
       "duration_ms": 157800,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/29ngwhaBqObFJoPjDhplN2"
+    },
+    {
+      "album": {
+        "name": "Surcot\u00e9",
+        "url": "https://open.spotify.com/album/1TdR64EuoWljelusaKevFD"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198316,
+      "name": "Surcot\u00e9",
+      "url": "https://open.spotify.com/track/5VdDTvI4JQTXRZIsbP0zZa"
     },
     {
       "album": {

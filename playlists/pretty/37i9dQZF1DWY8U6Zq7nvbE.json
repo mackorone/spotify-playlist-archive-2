@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2464188,
+  "num_followers": 2464344,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "I Feel It Coming",
-        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
       },
       "artists": [
         {
-          "name": "Alice Nordstrom",
-          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
         }
       ],
-      "duration_ms": 166554,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
+      "duration_ms": 191879,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
       },
       "artists": [
         {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
         }
       ],
-      "duration_ms": 191879,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
+      "duration_ms": 166554,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
-      },
-      "artists": [
-        {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
-        }
-      ],
-      "duration_ms": 170074,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Taste",
         "url": "https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt"
       },
@@ -539,22 +523,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 223874,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 203608,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 223874,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
     },
     {
       "added_at": "2026-03-19 12:18:11",

@@ -5576,7 +5576,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 253000,
       "name": "Do you know",
       "url": "https://open.spotify.com/track/5skgrMCFS9SiBSOhcvJ9EQ"
@@ -11382,6 +11382,24 @@
       "duration_ms": 166500,
       "name": "I See You, You See Him",
       "url": "https://open.spotify.com/track/5p3qWzZWVQeOULME1kok1U"
+    },
+    {
+      "album": {
+        "name": "I Should Let It Go And Erase It All",
+        "url": "https://open.spotify.com/album/2r3cXrnccnjTtTNoll7iIV"
+      },
+      "artists": [
+        {
+          "name": "morning coffee",
+          "url": "https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193792,
+      "name": "I Should Let It Go And Erase It All",
+      "url": "https://open.spotify.com/track/2E4pcZFra0yxOsuxfbRXed"
     },
     {
       "album": {
@@ -19107,6 +19125,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.5",
+        "url": "https://open.spotify.com/album/6U8KF7ic0KJh8GLWCTOmnL"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "On a Gentle Breeze",
+      "url": "https://open.spotify.com/track/5LME33QsTr3w0yhr3sBtBO"
+    },
+    {
+      "album": {
         "name": "On A Rainy Night",
         "url": "https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou"
       },
@@ -24740,7 +24776,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 180000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"

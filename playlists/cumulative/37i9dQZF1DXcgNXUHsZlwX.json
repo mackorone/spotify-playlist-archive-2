@@ -6148,7 +6148,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 237000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO"
@@ -8462,6 +8462,24 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
+    },
+    {
+      "album": {
+        "name": "R\u00eave am\u00e9ricain",
+        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217879,
+      "name": "R\u00eave am\u00e9ricain",
+      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: REGENT 林暐竣
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Gordon Flanders
 
 160 songs - 10 hr 10 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319706,
+  "num_followers": 319707,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Primeira Vez",
-        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
+        "name": "ImPKvel",
+        "url": "https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 193125,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
+      "duration_ms": 143245,
+      "name": "Do jeito que tu gosta",
+      "url": "https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -239,22 +243,18 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "ImPKvel",
-        "url": "https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS"
+        "name": "Primeira Vez",
+        "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 143245,
-      "name": "Do jeito que tu gosta",
-      "url": "https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC"
+      "duration_ms": 193125,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "Contato",
         "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 193971,
       "name": "Fala",
       "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/7gCNxpxdgi7cMG7EpbUcPC"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        }
+      ],
+      "duration_ms": 243034,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/02bXQT3SjWidxbQzXgsFox"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/7gCNxpxdgi7cMG7EpbUcPC"
-      },
-      "artists": [
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        }
-      ],
-      "duration_ms": 243034,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/02bXQT3SjWidxbQzXgsFox"
     },
     {
       "added_at": "2025-10-31 16:26:13",

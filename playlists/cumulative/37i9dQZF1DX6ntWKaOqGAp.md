@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 大森元貴
 
-3,205 songs - 8 day 7 hr 51 min
+3,206 songs - 8 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 | 2026-02-03 | 2026-04-15 |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-03-21 | 2023-06-09 |
 | [Darlin' I love you](https://open.spotify.com/track/3cFoJS0BmZQFpQaQk9QaLm) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Darlin' I love you](https://open.spotify.com/album/7HDs4pssxsuBgkN6cdXa40) | 3:44 | 2025-06-24 | 2025-07-02 |
+| [Darling](https://open.spotify.com/track/0OYIZ9byJTRdXX29oORImL) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [Darling](https://open.spotify.com/album/6MSH3s0XnjREUQKdXWH220) | 3:53 | 2026-05-07 |  |
 | [Darling](https://open.spotify.com/track/0JtabsBfN1J8KnWw6x1PE3) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m) | 3:13 | 2026-03-17 | 2026-03-25 |
 | [Darling](https://open.spotify.com/track/13YZlRtdFoFhJzPHmwPW48) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Darling](https://open.spotify.com/album/40rEgd7QLwkgOpMzB2KCaN) | 3:34 | 2025-12-02 | 2026-02-11 |
 | [Darling Rolling](https://open.spotify.com/track/79P425nwcAHHcNGFq9IQ7B) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Darling Rolling](https://open.spotify.com/album/2RCMRB5wH0pootUUgZacrg) | 2:26 | 2023-07-11 | 2023-08-02 |
@@ -1310,7 +1311,7 @@
 | [sissy](https://open.spotify.com/track/0LJv2yuJgyruUY0tlKEeGZ) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [sissy](https://open.spotify.com/album/38yPxEEUW4I5HbCksPCzBe) | 3:28 | 2023-04-11 | 2023-04-26 |
 | [Skeletonize!](https://open.spotify.com/track/3FmHdbRcYT0aOIGn7Sktkt) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Skeletonize!](https://open.spotify.com/album/4wZg8R9bytwp6KVtg7aSUx) | 3:40 | 2024-10-02 | 2024-10-30 |
 | [Skill](https://open.spotify.com/track/4cLQhY7siU3jRHFWdgA8vQ) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Skill](https://open.spotify.com/album/2Acibo056vXFquE7JXIPy6) | 2:00 | 2026-01-27 | 2026-02-04 |
-| [Skull Skater](https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Skull Skater](https://open.spotify.com/album/2DHaOoIyFkzuscp2eE4YLA) | 2:39 | 2026-04-21 |  |
+| [Skull Skater](https://open.spotify.com/track/3g5K6bWk8PsAp0pNMi5fBo) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Skull Skater](https://open.spotify.com/album/2DHaOoIyFkzuscp2eE4YLA) | 2:39 | 2026-04-21 | 2026-05-08 |
 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 | 2024-04-17 |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 | 2024-04-05 |
 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 | 2024-01-09 | 2024-01-24 |

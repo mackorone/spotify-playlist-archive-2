@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,612 songs - 6 day 8 hr 24 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,622 songs - 6 day 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2620,5 +2620,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2610 | [Slow Day](https://open.spotify.com/track/4Mj5RC9pHkTUByduocvkiQ) | [Tempr](https://open.spotify.com/artist/5MMqbQjXAMn6ihkmmDwWOm) | [Slow Day](https://open.spotify.com/album/07rmaPoBopDMWCOJWwlKRt) | 3:24 |
 | 2611 | [Mud Truck Chevy](https://open.spotify.com/track/70LISARPAn0GlhY5vfc5Gg) | [Tree Line Anthem](https://open.spotify.com/artist/200te1a90wi4qjyO4OJwBG) | [Mud Truck Chevy](https://open.spotify.com/album/3RkLcvlVXjMx0eUHqsPdvH) | 3:31 |
 | 2612 | [Adorez](https://open.spotify.com/track/1sHv5GiLT7x5i7OA6kNA9x) | [Rig3l](https://open.spotify.com/artist/5ryTQIDSl4xWKGQOcAq8ne) | [Adorez](https://open.spotify.com/album/15U58fWWViUriPkYUlk8iY) | 3:14 |
+| 2613 | [Toxic Love](https://open.spotify.com/track/0fNQUPKXVMUuouBoO7tzPm) | [Josh Cole](https://open.spotify.com/artist/1TJFIOvt9A1JjqexiU1qbJ) | [Darker Days](https://open.spotify.com/album/3efwtAIZFPUf2Mna9t5jS0) | 1:34 |
+| 2614 | [Back on the Road](https://open.spotify.com/track/6EZIRFUIvPpDeVYy0YvmFi) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Back on the Road](https://open.spotify.com/album/3Ql33UYPpWKjBMqaQRgCFg) | 4:54 |
+| 2615 | [Ой у вишневому саду](https://open.spotify.com/track/3uw90rKneFTicOHhLwUnWZ) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Ой у вишневому саду](https://open.spotify.com/album/5FDpqEvWe4ttesKjow3lNc) | 3:01 |
+| 2616 | [Everything's About to Change](https://open.spotify.com/track/2lIr87O5duOJ1OFxiBTBIp) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Begin Over](https://open.spotify.com/album/2EgEJI0qu0Ia0AqYFrlfxZ) | 3:23 |
+| 2617 | [Mountain Climber \(Crossfade\)](https://open.spotify.com/track/4ieu06Qqj0YzTS6yFvhcU3) | [A Troop Of Echoes](https://open.spotify.com/artist/2F6900HWBxJST3SyczzZyD) | [Infinite Hits 4](https://open.spotify.com/album/7fxlZeBOI1p7Hc6WjBRjxO) | 0:54 |
+| 2618 | [Yamina](https://open.spotify.com/track/2MX150bfgDk8Xgi9JtduwH) | [Udo](https://open.spotify.com/artist/4KciVMCX2pCUJRiQRoNay6) | [Yamina](https://open.spotify.com/album/7EbYkqRXJATB2BMxHTu4Y8) | 2:56 |
+| 2619 | [Drive Me Anywhere](https://open.spotify.com/track/6QmNSSPCNw8F7zSJuDuijl) | [Tom Raven](https://open.spotify.com/artist/4ik7QIUGe0mpvNv5Cwqecn) | [Drive Me Anywhere Album](https://open.spotify.com/album/72Tyndd2gm6Q4u6PrlVoOf) | 3:11 |
+| 2620 | [Kiss Your Ass Goodbye](https://open.spotify.com/track/1lxA3HEY10vUObzqN8u2g7) | [LORELEY](https://open.spotify.com/artist/02cidh7gdYOQN7NlZPmhuE) | [Kiss Your Ass Goodbye](https://open.spotify.com/album/0OMDvjCh93dG1Ku68Tixoc) | 3:31 |
+| 2621 | [Run Like a Child](https://open.spotify.com/track/5ud980arYWMmbeChicUNsK) | [Bella Cutts](https://open.spotify.com/artist/3dOOFRnuA57426A2SGgAl8) | [Run Like a Child](https://open.spotify.com/album/3BVBIV0Wk8N6OKu49te2NH) | 4:09 |
+| 2622 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
 
-Snapshot ID: `AAAKzaWUQI39dMnX0/OD6vlHrSRtue75`
+Snapshot ID: `AAAK1333LFTYnZMNxWDv9U2Q63MUQ8i/`

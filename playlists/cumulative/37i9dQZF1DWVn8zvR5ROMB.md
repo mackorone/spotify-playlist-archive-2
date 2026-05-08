@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Wyatt Flores, Kacey Musgraves, Cody Johnson and more.
 
-12,712 songs - 28 day 22 hr 53 min
+12,713 songs - 28 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6947,6 +6947,7 @@
 | [Loving You Feels Like](https://open.spotify.com/track/6k37Mwwg0hBOIc0Kx1q2mF) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Loving You Feels Like](https://open.spotify.com/album/2PU0y6NQdzCU6lOguTivHe) | 2:25 | 2023-09-08 | 2023-09-16 |
 | [Loving You Loving Me \(feat\. ZZ Ward\)](https://open.spotify.com/track/4ol19kP5DhH5VSusUYRbLp) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs), [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Wildhorse \(Barrel Aged\)](https://open.spotify.com/album/1pXbXMfjpQT55gqDeAWcoN) | 3:06 | 2023-03-31 | 2023-04-09 |
 | [Low](https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Low](https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv) | 3:37 | 2024-08-09 | 2024-08-17 |
+| [Low](https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C) | [The Band Loula](https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i) | [Low](https://open.spotify.com/album/6Oq2uNmcgKdMSAdZSXG73j) | 3:25 | 2026-05-01 |  |
 | [Low Class Lovers](https://open.spotify.com/track/4KQhT0KX8Qs7juORe5Io6e) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Low Class Lovers](https://open.spotify.com/album/4bVa6xxpPiYh8XMECzQDBU) | 4:39 | 2022-04-29 | 2022-05-07 |
 | [Low Down](https://open.spotify.com/track/3bOhnXK7W4vV5zBDvcvNRh) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Certified Savage](https://open.spotify.com/album/0bM7pyWrF2NRJmqppf09hY) | 2:08 | 2022-05-13 | 2022-06-04 |
 | [Low Hangin' Fruit](https://open.spotify.com/track/5lpA8XtttBrwaGkzRxHWTn) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Weyerhaeuser Land / Low Hangin' Fruit](https://open.spotify.com/album/1w2YgLipGdCDkCsvUrRI3h) | 3:38 | 2023-11-03 | 2023-11-11 |

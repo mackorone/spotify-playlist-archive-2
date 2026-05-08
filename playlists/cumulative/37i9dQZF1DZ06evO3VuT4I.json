@@ -524,6 +524,28 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148012,
+      "name": "Concr\u00e8te Waves Barcelona A4",
+      "url": "https://open.spotify.com/track/3UKkOJz2l5t1qnaJtFTndY"
+    },
+    {
+      "album": {
+        "name": "Concr\u00e8te Waves",
+        "url": "https://open.spotify.com/album/3oUT8rTRNHo2We9h8YQFmn"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -592,7 +614,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 345880,
       "name": "Concr\u00e8te Waves London B1",
       "url": "https://open.spotify.com/track/1XNZGZZ8vHlZSaX1NnjD10"
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 229466,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
@@ -1816,7 +1838,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 154973,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx"

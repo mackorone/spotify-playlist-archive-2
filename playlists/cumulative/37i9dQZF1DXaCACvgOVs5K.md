@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-496 songs - 1 day 5 hr 22 min
+497 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-19 | 2025-12-29 |
 | [And When Love Speaks](https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [And When Love Speaks](https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb) | 3:32 | 2026-04-30 |  |
 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2025-05-29 |  |
-| [Antidote](https://open.spotify.com/track/29ChanrOVDPvzlxx8133x2) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0), [Talay Riley](https://open.spotify.com/artist/5Yh3qHDUeUiyQqn1jmNhT1) | [Antidote](https://open.spotify.com/album/44NYBlOXyUXNZPols860x3) | 3:16 | 2026-04-30 |  |
+| [Antidote](https://open.spotify.com/track/29ChanrOVDPvzlxx8133x2) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0), [Talay Riley](https://open.spotify.com/artist/5Yh3qHDUeUiyQqn1jmNhT1) | [Antidote](https://open.spotify.com/album/44NYBlOXyUXNZPols860x3) | 3:16 | 2026-04-30 | 2026-05-08 |
 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-05-29 |  |
 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 | 2025-08-14 |  |
 | [Atlas](https://open.spotify.com/track/54TgI46OnNqcf0SyzQyCL6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:48 | 2022-08-26 | 2023-05-20 |
@@ -397,6 +397,7 @@
 | [Sinner](https://open.spotify.com/track/3LqnR4dZYdZoaVivSIidKH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT) | 3:58 | 2023-06-02 | 2023-06-14 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-04-19 | 2026-04-11 |
 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 | 2025-04-17 | 2026-05-01 |
+| [So High](https://open.spotify.com/track/0S88gKHROhGvwPY9gtbCN2) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl) | [So High](https://open.spotify.com/album/2dEVOImH3Yr77PpLmf0tcW) | 3:06 | 2026-04-30 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-05-19 | 2024-05-17 |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-04-19 | 2026-04-11 |
 | [Somebody That I Used To Know](https://open.spotify.com/track/6h49997adA3XWCX9zMQKbX) | [James Cole](https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Darcey](https://open.spotify.com/artist/1IyvLQeDemCIamKknyLlqM), [Simon Ellis](https://open.spotify.com/artist/1DAMauM73heAOiZnKAYVrn) | [Somebody That I Used To Know](https://open.spotify.com/album/39NzRuUBQwITknLiseKkXN) | 3:52 | 2023-10-19 | 2024-04-20 |

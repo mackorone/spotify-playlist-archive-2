@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 653 likes - 109 songs - 6 hr 18 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 655 likes - 111 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 107 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 |
 | 108 | [Baked Beans](https://open.spotify.com/track/5bf1ZEPjEAO0lQ9B7QNyA6) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2), [Joseph Lawless](https://open.spotify.com/artist/6ymg9JY69Tc8uCPAnj1iVP) | [Baked Beans](https://open.spotify.com/album/302TmhIOH0hL6B0TDoSuNC) | 2:17 |
 | 109 | [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 |
+| 110 | [Dying to be Seen](https://open.spotify.com/track/4PCb7XTmOpoh4Gxda9tuvN) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [Dying to be Seen](https://open.spotify.com/album/4FInOUd4Yfp79yvIvDvERG) | 3:57 |
+| 111 | [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 |
 
-Snapshot ID: `AAADaC2aEzR3fB8cZlO/ZDEQ7p10tjUC`
+Snapshot ID: `AAADaq988LHFQf9MMNKVrmmJycNaWYsM`

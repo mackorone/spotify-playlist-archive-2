@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "A Contracorriente",
       "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 272364,
       "name": "Cuando todo vaya mal",
       "url": "https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk"
@@ -3854,6 +3854,28 @@
       "duration_ms": 221782,
       "name": "D\u00e9jales que hablen",
       "url": "https://open.spotify.com/track/7dfXCnNl7fCPBoJk4mnMX4"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame en Paz",
+        "url": "https://open.spotify.com/album/63euPpSFzaxb6Lxdp4fnCV"
+      },
+      "artists": [
+        {
+          "name": "Alejo Stivel",
+          "url": "https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317615,
+      "name": "D\u00e9jame en Paz",
+      "url": "https://open.spotify.com/track/5Bt1yADXtQ7s1bujkImZFL"
     },
     {
       "album": {
@@ -5306,7 +5328,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 217799,
       "name": "Es Una Ansiedad Tan Cool",
       "url": "https://open.spotify.com/track/1xK7iqWqzc6wLQOYzTJE1J"
@@ -6594,6 +6616,24 @@
       "duration_ms": 208928,
       "name": "inocentes",
       "url": "https://open.spotify.com/track/7nALJR0g08zgdAfNIEX1Ub"
+    },
+    {
+      "album": {
+        "name": "Instrucciones",
+        "url": "https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Instrucciones",
+      "url": "https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR"
     },
     {
       "album": {
@@ -8428,7 +8468,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 265066,
       "name": "Los cuervos se lo pasan bien",
       "url": "https://open.spotify.com/track/7ykP7h9XCmeGda3dtiw88n"
@@ -9813,6 +9853,24 @@
     },
     {
       "album": {
+        "name": "Queda entre nosotros",
+        "url": "https://open.spotify.com/album/6jYuikJYeSt6EAZuPJlZqo"
+      },
+      "artists": [
+        {
+          "name": "Mala Reputaci\u00f3n",
+          "url": "https://open.spotify.com/artist/6Y6pF5eEgYW8XwEDebMk1R"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/7BFsE5Lxh17BI7FT8KU2tg"
+    },
+    {
+      "album": {
         "name": "Na de na",
         "url": "https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt"
       },
@@ -9842,7 +9900,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 251890,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5tnIkOu6Fyh4dYFUMX5fJu"
@@ -10550,7 +10608,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 130379,
       "name": "Nuestra revoluci\u00f3n",
       "url": "https://open.spotify.com/track/4musnu8MjnIu3UZuNwPf6U"
@@ -11376,7 +11434,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168275,
       "name": "Por todas partes te veo",
       "url": "https://open.spotify.com/track/2txI4OcaB4h1b7ze47kuM6"
@@ -13428,6 +13486,24 @@
       "duration_ms": 289800,
       "name": "Terciopelo azul",
       "url": "https://open.spotify.com/track/3wuDAI5DRe90ydZxXnWNrD"
+    },
+    {
+      "album": {
+        "name": "Terrorismo Emocional",
+        "url": "https://open.spotify.com/album/7dwI8MTrfvMQKYnFdHokyU"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239646,
+      "name": "Terrorismo Emocional",
+      "url": "https://open.spotify.com/track/40b6CIfFwpDsc29JQgOVVf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lonely Spring",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lina-Mariah",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 218159,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/31MkFKvAwHESUpmJz4haPw"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 204296,
       "name": "A.L.O.N.E.",
       "url": "https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 145181,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
@@ -2446,6 +2446,28 @@
       "duration_ms": 176981,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
+    },
+    {
+      "album": {
+        "name": "Brutal Dreamy",
+        "url": "https://open.spotify.com/album/5p2ZPAUo37QxH8qoAatsRa"
+      },
+      "artists": [
+        {
+          "name": "Elm Tree Circle",
+          "url": "https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4"
+        },
+        {
+          "name": "EMMERICH",
+          "url": "https://open.spotify.com/artist/6GkVK4rEmqtj1STUQCuDQh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175445,
+      "name": "Brutal Dreamy",
+      "url": "https://open.spotify.com/track/27L1zsfjn6dcgDLsRbLMdq"
     },
     {
       "album": {
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 237207,
       "name": "Construct",
       "url": "https://open.spotify.com/track/2MGhVrA4Th1xHGkdfdUZTk"
@@ -4444,7 +4466,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 203200,
       "name": "DON'T B E L O N G",
       "url": "https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba"
@@ -5244,7 +5266,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 235906,
       "name": "F.T.W. 84",
       "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
@@ -7143,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "Holy Powers",
+        "url": "https://open.spotify.com/album/7LXVlxIJ6zxYjcADZ83bG2"
+      },
+      "artists": [
+        {
+          "name": "SKIRT.",
+          "url": "https://open.spotify.com/artist/1ncSEf033cpKhDR6NI0lke"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83932,
+      "name": "Holy Powers",
+      "url": "https://open.spotify.com/track/0QYZRTO4MmRR3JsIUbUVMr"
+    },
+    {
+      "album": {
         "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
         "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
       },
@@ -7444,7 +7484,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 205360,
       "name": "I Don't Wanna Want What Is Killing Me",
       "url": "https://open.spotify.com/track/1niNdvgiIVbpmiNbiOIWst"
@@ -7578,7 +7618,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
@@ -7950,6 +7990,24 @@
       "duration_ms": 212329,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
     },
     {
       "album": {
@@ -10842,7 +10900,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177267,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/5YD7ZlbGkj2G8BrGKU3XnC"
@@ -11100,6 +11158,24 @@
       "duration_ms": 205897,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
+    },
+    {
+      "album": {
+        "name": "Out of The Blue",
+        "url": "https://open.spotify.com/album/1MQ760YA7Y4L78ZNT6elFe"
+      },
+      "artists": [
+        {
+          "name": "SENNA",
+          "url": "https://open.spotify.com/artist/5qq0OWzsawAVBlf63FPU22"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237187,
+      "name": "Out of The Blue",
+      "url": "https://open.spotify.com/track/08bdKvF00EHytZWLyTkLQO"
     },
     {
       "album": {
@@ -12763,6 +12839,28 @@
     },
     {
       "album": {
+        "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243996,
+      "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
+    },
+    {
+      "album": {
         "name": "SELF IMMOLATION",
         "url": "https://open.spotify.com/album/1qw8qRxpoEr7zNvzBzXB7X"
       },
@@ -12940,7 +13038,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 245564,
       "name": "Shine Again",
       "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
@@ -13132,6 +13230,24 @@
       "duration_ms": 181200,
       "name": "SING WITH ME",
       "url": "https://open.spotify.com/track/6RCddiGrlOpXUswjliDvET"
+    },
+    {
+      "album": {
+        "name": "Sinner Systems",
+        "url": "https://open.spotify.com/album/79HqjG6Dex80xgwH2B5IS0"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208620,
+      "name": "Sinner Systems",
+      "url": "https://open.spotify.com/track/1yiyu94B9xdCiS66yBoS9F"
     },
     {
       "album": {
@@ -14032,6 +14148,24 @@
       "duration_ms": 180081,
       "name": "Sugar (feat JoJo)",
       "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/3MxH4FzqToCk4LkhuKwGFX"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201980,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/2a1hDFLzkvgRnKfX9JzLEq"
     },
     {
       "album": {
@@ -15103,6 +15237,24 @@
     },
     {
       "album": {
+        "name": "This Sphere",
+        "url": "https://open.spotify.com/album/7koHZMsmXwzBS4rLawnfMR"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "This Sphere",
+      "url": "https://open.spotify.com/track/0WTCIwFFQR8tze3OgHZy1Y"
+    },
+    {
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/2CTuRe30h0BmwHtKD7e7lV"
       },
@@ -15356,6 +15508,24 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
+    },
+    {
+      "album": {
+        "name": "LIVE FAST DIE YOUNG",
+        "url": "https://open.spotify.com/album/6Mg3wIvdPG9UJk6gJOtWn3"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/7Jl5sUyMCYycpnX2jbtEbg"
     },
     {
       "album": {
@@ -15696,7 +15866,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 214760,
       "name": "Unicorns",
       "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu"
@@ -16387,6 +16557,24 @@
     },
     {
       "album": {
+        "name": "WE R ALL GONNA DIE",
+        "url": "https://open.spotify.com/album/36NCONC7VlTO9I1wENxBXD"
+      },
+      "artists": [
+        {
+          "name": "Mother's Cake",
+          "url": "https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "WE R ALL GONNA DIE",
+      "url": "https://open.spotify.com/track/3hDFgwVusg16MFq2UVEwOF"
+    },
+    {
+      "album": {
         "name": "We're Onto Something (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
       },
@@ -16536,6 +16724,24 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "album": {

@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 233400,
       "name": "Disko",
       "url": "https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193043,
       "name": "Donjo Maber",
       "url": "https://open.spotify.com/track/0Qiy6PYDxjkkvB7e5KfHtk"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 218181,
       "name": "Kichapo",
       "url": "https://open.spotify.com/track/4eDz8DrCRnysqwvYQkSy5Q"
@@ -3599,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Wape Wape",
+        "url": "https://open.spotify.com/album/5HjwHkM3XugNia4VQOe3ef"
+      },
+      "artists": [
+        {
+          "name": "ItsYaba",
+          "url": "https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209060,
+      "name": "Wape Wape",
+      "url": "https://open.spotify.com/track/1goWbbSPQu0t83oP9C1zSp"
+    },
+    {
+      "album": {
         "name": "Watu Wazima",
         "url": "https://open.spotify.com/album/6P4fADMZCwzrCiwDrGmJw4"
       },
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 135784,
       "name": "WAWILI",
       "url": "https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo"

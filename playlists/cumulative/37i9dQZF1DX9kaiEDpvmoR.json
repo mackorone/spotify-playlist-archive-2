@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 213115,
       "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
       "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179613,
       "name": "Fr\u00e5n landet",
       "url": "https://open.spotify.com/track/1CGGrztimeQFtsmEVk9GFE"
@@ -4538,6 +4538,24 @@
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
     },
     {
       "album": {
@@ -6233,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "Mitt hj\u00e4rta en rebell",
+        "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Mitt hj\u00e4rta en rebell",
+      "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
+    },
+    {
+      "album": {
         "name": "Sommar",
         "url": "https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu"
       },
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 180920,
       "name": "Sk\u00f6nheten och odjuret",
       "url": "https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18"
@@ -8796,6 +8832,24 @@
       "duration_ms": 358186,
       "name": "S\u00e5 m\u00e5nga mil, s\u00e5 m\u00e5nga \u00e5r... - Live",
       "url": "https://open.spotify.com/track/5tycUfeumfrwkEVP7FEZo3"
+    },
+    {
+      "album": {
+        "name": "S\u00f6dersommar",
+        "url": "https://open.spotify.com/album/2qtU1Yh1stdNagreyKheqc"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230111,
+      "name": "S\u00f6dersommar",
+      "url": "https://open.spotify.com/track/5tbbTs56RXANxq6cj4gjln"
     },
     {
       "album": {
@@ -9748,10 +9802,28 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 209118,
       "name": "Vinterdvala",
       "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
+    },
+    {
+      "album": {
+        "name": "VM-guld",
+        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "VM-guld",
+      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
     },
     {
       "album": {

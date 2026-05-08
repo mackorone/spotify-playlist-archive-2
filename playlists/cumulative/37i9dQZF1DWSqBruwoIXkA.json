@@ -7347,6 +7347,24 @@
     },
     {
       "album": {
+        "name": "how2get2me / pocket",
+        "url": "https://open.spotify.com/album/3yCcg5MsSClD2TnUIbu5p4"
+      },
+      "artists": [
+        {
+          "name": "ALINA",
+          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173730,
+      "name": "how2get2me",
+      "url": "https://open.spotify.com/track/1uRKG3qQlihYCSQVEop2lA"
+    },
+    {
+      "album": {
         "name": "How?",
         "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
       },
@@ -8338,7 +8356,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"

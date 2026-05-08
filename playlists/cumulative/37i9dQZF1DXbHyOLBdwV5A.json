@@ -1883,6 +1883,28 @@
     },
     {
       "album": {
+        "name": "Nisso Eu Vou Acreditar",
+        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Luiz Alves Filho",
+          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Nisso Eu Vou Acreditar",
+      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
+    },
+    {
+      "album": {
         "name": "Nothing But The Blood",
         "url": "https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH"
       },
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 180000,
       "name": "Ruah, Vento de Deus - Padre Jucinei Vilpert Natal CSJ Remix",
       "url": "https://open.spotify.com/track/33896eXL0XhGPH1OvpB9rB"

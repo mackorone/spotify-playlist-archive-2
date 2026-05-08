@@ -2,9 +2,9 @@
 
 ### [Ginja](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> Sweet afro melodies\. Cover:  Shoday and Olamide
+> Sweet afro melodies\. Cover:  Falana
 
-957 songs - 1 day 22 hr 31 min
+959 songs - 1 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [dominican lady](https://open.spotify.com/track/0TYY3GPqtIbqbdfch8kKDQ) | [VERBB](https://open.spotify.com/artist/7btDUoOpCkFj1zrIEZKL1b), [Demmie Vee](https://open.spotify.com/artist/4GOAIksGygyVj3KxUPXMtq) | [dominican lady](https://open.spotify.com/album/43W7LqoYyK6Klr9jo0SDCd) | 2:29 | 2026-04-24 | 2026-05-01 |
 | [Don't Be Shy](https://open.spotify.com/track/096tVsP4GXfM19cGMBMCSB) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [NANA](https://open.spotify.com/artist/4PJCz1DGdy2IFj3u2IWQrO) | [Don't Be Shy](https://open.spotify.com/album/2bxgTd4du7jQYM2lZiFH5N) | 3:26 | 2025-10-24 | 2025-12-05 |
 | [Don't Care](https://open.spotify.com/track/1t6yJs1WSeetp1OdFf9oHJ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:11 | 2025-05-16 | 2025-11-28 |
+| [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 | 2026-05-08 |  |
 | [Don't II](https://open.spotify.com/track/4WWTOIlnAZVa2UcBevki65) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Don't II](https://open.spotify.com/album/3YobN3WLwUnCXy8djztp5n) | 2:53 | 2025-08-15 | 2025-08-29 |
 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 | 2023-12-08 | 2024-02-22 |
 | [Don't Let Me Down](https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG) | 3:04 | 2024-03-01 | 2024-04-19 |
@@ -302,6 +303,7 @@
 | [Figurine \- A COLORS SHOW](https://open.spotify.com/track/1KI9l7LmnXGvIyry0vqNnk) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Figurine \- A COLORS SHOW](https://open.spotify.com/album/4sZuXwDg2vdiRdoKf2y2BI) | 3:39 | 2021-10-14 | 2022-01-17 |
 | [FINAL](https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [FINAL](https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR) | 3:35 | 2025-06-20 | 2026-03-03 |
 | [Fine Lady](https://open.spotify.com/track/6xA693QFS4Zbsm7pw87JZU) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Bleu](https://open.spotify.com/album/7w3CB3waJSsFRIGNF7TKo4) | 2:45 | 2025-11-07 | 2025-12-05 |
+| [Fine Shiii](https://open.spotify.com/track/5SwcI97gcKSlQtmwKtI855) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk) | [Fine Shiii](https://open.spotify.com/album/29HBh5SZ1OFlINEUILcnDG) | 2:28 | 2026-05-08 |  |
 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 | 2026-04-24 |  |
 | [FINE WINE](https://open.spotify.com/track/1DHwfDBJlqvHAOA1CV2r4E) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [FINE WINE](https://open.spotify.com/album/71rwH96jmrRT11MYddEcnV) | 2:40 | 2026-02-06 | 2026-02-13 |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2021-10-14 | 2023-02-04 |
@@ -812,7 +814,7 @@
 | [Stay](https://open.spotify.com/track/2BaAyqsiAmoijCI4uhVvcT) | [Feranbanks](https://open.spotify.com/artist/7Ms4uMOaTNPYf52BBX4jSh) | [Stay](https://open.spotify.com/album/6ZIBm0GDw1im20fCvgPF8x) | 2:38 | 2025-10-24 | 2025-12-05 |
 | [Stay Wise](https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Stay Wise](https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb) | 2:24 | 2024-06-14 | 2024-08-22 |
 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 | 2021-10-14 | 2023-02-24 |
-| [Stick to the Plan](https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Stick to the Plan](https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL) | 1:57 | 2026-02-27 |  |
+| [Stick to the Plan](https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Stick to the Plan](https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL) | 1:57 | 2026-02-27 | 2026-05-08 |
 | [STONES](https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 2:47 | 2021-10-14 | 2022-03-04 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-09 | 2023-07-18 |
 | [Stronger](https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:21 | 2024-07-31 | 2026-01-15 |

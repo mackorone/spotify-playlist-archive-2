@@ -4,7 +4,7 @@
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: FILM.
 
-5,527 songs - 14 day 2 hr 29 min
+5,528 songs - 14 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Am I Depressed?](https://open.spotify.com/track/3W4uQDJOqMCTOVk4c0LOJl) | [Gerry Duta](https://open.spotify.com/artist/2OTmoqrbnaYgR8TM1WUmXH) | [Am I Depressed?](https://open.spotify.com/album/1SDyljE6VbcFRsMZQcWdvN) | 3:43 | 2023-07-14 | 2023-07-28 |
 | [am i invited?](https://open.spotify.com/track/0HLjqsVHyEOPwKIY4YqRBx) | [Mirelle G Edith](https://open.spotify.com/artist/6IaBHU1Mw5RA8Ye6syJRo8) | [am i invited?](https://open.spotify.com/album/0gUXZDUlIozgJX8IdPZIhe) | 3:21 | 2023-10-27 | 2023-11-18 |
 | [Am I Just Falling in Love](https://open.spotify.com/track/1UTpIDPYWJX7Zo7XKcCb2B) | [rimaraay](https://open.spotify.com/artist/1dOGnP74A9ipVZnXd3qYSg) | [Am I Just Falling in Love](https://open.spotify.com/album/2lyB7UTuYmZNfJWYFAqa7n) | 3:27 | 2024-06-28 | 2024-07-27 |
+| [Am I Loving You Alone?](https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Am I Loving You Alone?](https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR) | 3:23 | 2026-05-07 |  |
 | [Amara](https://open.spotify.com/track/4ih8DpwlgBhZjicRwNbYCp) | [Agusalim Luckman](https://open.spotify.com/artist/2W1rukYBG8ritq2mrLmI7W) | [Amara](https://open.spotify.com/album/75SAhCVYrbGvEA5Q9FTqM8) | 4:00 | 2023-07-06 | 2023-07-21 |
 | [amazing me](https://open.spotify.com/track/7qd8KYdZwgUQFK6ibzKBpJ) | [Tsouttt](https://open.spotify.com/artist/2Efpja9FqSGvd3DjsSYBgU) | [amazing me](https://open.spotify.com/album/7hY1Q8TCBJkP1NbZxuJuDU) | 3:32 | 2022-06-23 | 2022-07-29 |
 | [Ambigu](https://open.spotify.com/track/0S5feWkxXqEb7JEMS02aiV) | [Elmand](https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz) | [Ambigu](https://open.spotify.com/album/55hXAk6tNmw9kCYNGaGhUS) | 3:27 | 2024-10-11 | 2024-11-01 |

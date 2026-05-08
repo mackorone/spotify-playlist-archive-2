@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Andien",
   "name": "JIVVA",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193465,
       "name": "(NO)STALGIA",
       "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
@@ -118,6 +118,24 @@
       "duration_ms": 190000,
       "name": "A Seat For You (feat. Quinn Oulton)",
       "url": "https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO"
+    },
+    {
+      "album": {
+        "name": "ADS",
+        "url": "https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K"
     },
     {
       "album": {
@@ -2133,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Jatuh Pelan",
+        "url": "https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Jatuh Pelan",
+      "url": "https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK"
+    },
+    {
+      "album": {
         "name": "Jawab Aku",
         "url": "https://open.spotify.com/album/0cYjH0dc1T885wVjQgFimg"
       },
@@ -2188,7 +2224,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 241920,
       "name": "Kau Pilih Dia",
       "url": "https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV"
@@ -2916,6 +2952,24 @@
       "duration_ms": 167064,
       "name": "Nona Manise",
       "url": "https://open.spotify.com/track/1Dy5Jx3Wqr44Po44mF6ePG"
+    },
+    {
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/0QqJQz2yoBs4ztjlbbsyBt"
+      },
+      "artists": [
+        {
+          "name": "Cast\u00e9",
+          "url": "https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/6UfL0ciLvnxzllEHT8mKXF"
     },
     {
       "album": {
@@ -3810,7 +3864,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 265818,
       "name": "SILVER LINING",
       "url": "https://open.spotify.com/track/02385GSFhRkEpONl9xNOwb"
@@ -4664,6 +4718,24 @@
       "duration_ms": 243214,
       "name": "Ya Sudahlah",
       "url": "https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA"
+    },
+    {
+      "album": {
+        "name": "YOU+ME",
+        "url": "https://open.spotify.com/album/7ixj9po1vGQmN6twnww4en"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "YOU+ME",
+      "url": "https://open.spotify.com/track/7c1ObmHu6H3WCOqx5xJVaS"
     },
     {
       "album": {

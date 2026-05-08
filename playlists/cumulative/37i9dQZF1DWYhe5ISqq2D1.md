@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 大橋ちっぽけ
 
-1,384 songs - 3 day 15 hr 21 min
+1,385 songs - 3 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,7 +631,7 @@
 | [wind, flower, noise, and street](https://open.spotify.com/track/52s4jyBjDYQXgkDQvHAsAY) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [wind, flower, noise, and street](https://open.spotify.com/album/5UWoz1NRite9yXtPVECuIw) | 4:12 | 2025-02-04 | 2025-02-26 |
 | [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2024-07-02 | 2024-07-31 |
 | [With Love feat\. luv](https://open.spotify.com/track/5ZmDD0nqtQJBF11wXY9Kvl) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [With Love feat\. luv](https://open.spotify.com/album/4Ch4vtFwX7f5QZPaSm8fFo) | 2:44 | 2026-03-31 |  |
-| [Without you](https://open.spotify.com/track/1RXoRPX7Ww67HBjjYm89eL) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Without you](https://open.spotify.com/album/2IjqoyTHoDiJl9QPeBKNXr) | 2:19 | 2026-04-28 |  |
+| [Without you](https://open.spotify.com/track/1RXoRPX7Ww67HBjjYm89eL) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Without you](https://open.spotify.com/album/2IjqoyTHoDiJl9QPeBKNXr) | 2:19 | 2026-04-28 | 2026-05-08 |
 | [Won't ever](https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Won't ever](https://open.spotify.com/album/4mdaxkLZ454RKHh1Lhm3QU) | 2:53 | 2025-11-11 | 2026-02-12 |
 | [Wonder](https://open.spotify.com/track/6oE7GDiHxHrJS2Sc7jnrDg) | [Kohei Kamoto](https://open.spotify.com/artist/6E4VzbFuCzmnnA4Ep5LwnJ) | [Wonder](https://open.spotify.com/album/4mDwrIf66FL8xLdHgPeVuu) | 2:27 | 2025-11-04 | 2025-11-12 |
 | [Wonderful Life](https://open.spotify.com/track/7hlnrMypxRKFzVGLQs862G) | [清野研太朗](https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep) | [Wonderful Life](https://open.spotify.com/album/06LCyTEb5EblMXwZOOWqIp) | 4:22 | 2025-06-11 | 2025-06-18 |
@@ -731,6 +731,7 @@
 | [その先にあるもの](https://open.spotify.com/track/3diIhEJH6LDglJQxw0AKtt) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [その先にあるもの](https://open.spotify.com/album/1yiEQXiDt7TUpEMEoC96Sk) | 3:51 | 2024-07-09 | 2024-07-17 |
 | [それから](https://open.spotify.com/track/0ntBrWzM5KQYSF8Uw4yEoD) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [それから](https://open.spotify.com/album/4Iizk9UDxVeSGgcDB3bjW0) | 2:43 | 2025-04-29 | 2025-05-16 |
 | [それもいいね](https://open.spotify.com/track/1WFz6fKir02eals80pQnKP) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [それもいいね](https://open.spotify.com/album/2lm3ZvNiyyKfI5Jrt5EIOn) | 3:19 | 2025-05-13 | 2025-07-16 |
+| [ただ美しい呪い](https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq) | [Nakamura Hak](https://open.spotify.com/artist/3dyQzEg20lVCIo245spjoT) | [ただ美しい呪い](https://open.spotify.com/album/1tGGXTiU9sBCuOSy2Fuvi4) | 4:37 | 2026-05-05 |  |
 | [だぅと](https://open.spotify.com/track/6t8gY5UnbyQ8d8Reh8M8SI) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [だぅと](https://open.spotify.com/album/5n1nO5R6Hr3JjfKWVuFsk2) | 2:23 | 2025-07-15 | 2025-09-03 |
 | [だけ](https://open.spotify.com/track/21SLsjKBgjLTZn8o5svyLE) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [432](https://open.spotify.com/album/7sNNWjEeyJkfuK0Y7pa4qR) | 3:20 | 2024-07-30 | 2024-08-07 |
 | [ちょうどいい \(feels just right\)](https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [ちょうどいい \(feels just right\)](https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv) | 3:47 | 2025-11-04 | 2026-02-12 |

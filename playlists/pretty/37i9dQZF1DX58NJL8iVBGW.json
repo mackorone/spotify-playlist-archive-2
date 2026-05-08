@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 812372,
+  "num_followers": 812452,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "The Dirty River Boys",
-        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty River Boys",
-          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Down by the River",
-      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Bless Your Soul",
         "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "The Dirty River Boys",
+        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty River Boys",
+          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 287773,
       "name": "Lay This Body Down",
       "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "...And There Are Devils",
+        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Folk Ramblers",
+          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Gambling Preacher and His Daughter",
+      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Elizabeth",
         "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "...And There Are Devils",
-        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Folk Ramblers",
-          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Gambling Preacher and His Daughter",
-      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Sleeping on the Blacktop",
+      "url": "https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Raise Hell",
         "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat The Devil's Tattoo",
-      "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
     }
   ],
   "unique_name": "Southern Gothic",

@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Esther
+> Det senaste och bästa från världen av indie\. Cover: Året Var
 
-1,240 songs - 2 day 23 hr 26 min
+1,246 songs - 2 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Avgiftas](https://open.spotify.com/track/3Ch0CSOlPGbkmKhMnrGhbb) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Avgiftas](https://open.spotify.com/album/2q07LYv1y04R0xq6bN8U8k) | 3:02 | 2026-01-15 |  |
 | [Away It Goes](https://open.spotify.com/track/3nLCGZPS7WBxMR8GEAtMjj) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Away It Goes](https://open.spotify.com/album/3U1XSkVwVd7hTH6hKWGqCH) | 3:36 | 2024-10-31 | 2025-01-17 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-27 | 2024-08-16 |
+| [Babycake](https://open.spotify.com/track/51wGa9a97WhBQZxMGRnnlm) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Babycake](https://open.spotify.com/album/40vt0NOKvzkoFMXZRcnuX3) | 2:28 | 2026-05-07 |  |
 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 | 2024-11-14 | 2025-01-24 |
 | [Babygurl](https://open.spotify.com/track/5mVfT4HWbr2AdQrVZMEl1I) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Babygurl](https://open.spotify.com/album/2b7mKoYFs4FzgLTeC4viBG) | 3:35 | 2026-02-26 |  |
 | [Back Again](https://open.spotify.com/track/2UiYopOxkXT4L78Zi6btmG) | [Boys and Ivy](https://open.spotify.com/artist/3GrJO6kJGc0koDm1C1dBBk) | [Back Again](https://open.spotify.com/album/5XDeWV7OMYF8lPYtpHr0qT) | 3:53 | 2025-02-06 | 2025-04-18 |
@@ -339,6 +340,7 @@
 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 | 2024-12-19 | 2025-02-07 |
 | [Falling out of Love](https://open.spotify.com/track/04L817uN0cjbQCqAcyfWE1) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj), [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Falling out of Love](https://open.spotify.com/album/45FddOq9RVYwA2UY5WmpdG) | 3:12 | 2025-05-08 | 2025-07-25 |
 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 | 2025-10-10 |
+| [Famine](https://open.spotify.com/track/7tpNSjh41h0krqaPgx2Ex1) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Famine](https://open.spotify.com/album/5jb9ppekYck87iA16d8JAn) | 3:08 | 2026-05-07 |  |
 | [Farmer song](https://open.spotify.com/track/3cR69FnQGRsDw0aGb4mMDW) | [Blind Molly](https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov) | [Farmer song](https://open.spotify.com/album/4fBFCpHqtWqqeXCMo6tWen) | 6:37 | 2025-11-06 | 2026-05-01 |
 | [Fatal Attraction](https://open.spotify.com/track/0b5up2T3vfmZjnzM1xLbef) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Fatal Attraction](https://open.spotify.com/album/24P1xcQdfy42ogH1LB8O6F) | 3:27 | 2024-10-03 | 2025-03-08 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-27 | 2024-08-16 |
@@ -517,6 +519,7 @@
 | [I Ögats Ljus](https://open.spotify.com/track/09SFbnSumIiYo69krgCBTH) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [I Ögats Ljus](https://open.spotify.com/album/3nqSFrfKMXWni7kua8Q7Z3) | 5:18 | 2025-10-16 | 2026-05-01 |
 | [I'll be fine](https://open.spotify.com/track/34JnZt7LU9dKbkbopyFu1G) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw) | [I'll be fine](https://open.spotify.com/album/49MrsIN3l1vn2TtQJ3ilqt) | 2:22 | 2025-05-08 | 2025-07-25 |
 | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/track/7wfUH6O0XKQ1xrnhm0n6MV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/album/4gSb0ZRAzte16ttpJk70zU) | 4:32 | 2025-10-16 |  |
+| [i'll quit quitting](https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [i'll quit quitting](https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk) | 3:18 | 2026-05-07 |  |
 | [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 | 2025-11-20 |  |
 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 | 2026-02-26 |  |
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-01 | 2025-07-25 |
@@ -895,6 +898,7 @@
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-02-14 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-19 | 2025-04-11 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-05 | 2024-11-01 |
+| [sad holiday](https://open.spotify.com/track/0HhpFdFNkXme5eIE5QKuQC) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/7Ls6ACS4qYEtlqbr7a2Fdk) | 3:25 | 2026-05-07 |  |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-03-28 |
 | [Sage](https://open.spotify.com/track/7f4mbgKFT9UWnPAtdGp8gc) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Sage](https://open.spotify.com/album/2ADozOTc5xtC3XGGyGt4aR) | 2:46 | 2024-07-25 | 2024-08-30 |
 | [Sail \(Lady In Waiting\)](https://open.spotify.com/track/1fVFR0Ymn4ajC7i1jf1uSs) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Sail \(Lady In Waiting\)](https://open.spotify.com/album/7sMwMMpo80UNb1mU6E8kfK) | 2:35 | 2026-01-08 |  |
@@ -1196,6 +1200,7 @@
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-17 | 2025-01-17 |
 | [Who Would I Be](https://open.spotify.com/track/0eSZbdHaaHKQ1nizBbCeyw) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Void](https://open.spotify.com/album/75mEqyUrrBb3wBz5yWNPnu) | 2:06 | 2024-06-27 | 2024-08-09 |
 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-21 | 2026-01-16 |
+| [why did i say i loved you?](https://open.spotify.com/track/1S3bdimvdeQAE4nwS6cSgG) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [why did i say i loved you?](https://open.spotify.com/album/5KrG5sHHJD5EKLRAmUIVds) | 2:54 | 2026-05-07 |  |
 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 | 2024-08-01 | 2024-09-19 |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 | 2025-02-21 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-05 | 2025-02-07 |
@@ -1245,6 +1250,7 @@
 | [Zero Sum](https://open.spotify.com/track/6bjpmghStgfcmTsqsG6Yb6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Foreign Spies / Zero Sum](https://open.spotify.com/album/61qHOXEBFrlwPIWts51B4p) | 2:47 | 2024-08-29 | 2024-10-11 |
 | [Zombie](https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Goat](https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj) | 5:28 | 2024-10-10 | 2024-12-06 |
 | [Älskar Dig \(Oändligt Föralltid\)](https://open.spotify.com/track/1VjxE9sY2EHFTwagpunjh6) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Älskar Dig \(Oändligt Föralltid\)](https://open.spotify.com/album/0Csep75IHFAwARJjEFiJdd) | 6:20 | 2024-08-15 | 2024-09-27 |
+| [Är du nöjd nu?](https://open.spotify.com/track/4Bf5kuudRY7GO9QL0HIztF) | [Året Var](https://open.spotify.com/artist/1IuIAS0zkKRpITz8IMNa3i) | [Är du nöjd nu?](https://open.spotify.com/album/3ElRtgXl0OEiAWjObOb2tH) | 4:26 | 2026-05-07 |  |
 | [Ångra dig](https://open.spotify.com/track/3duqly4dW3ftYE1zug8lGd) | [Ida Redig](https://open.spotify.com/artist/2Q5xMO7xxS59W7ipdDQMQe) | [Ångra dig](https://open.spotify.com/album/1MBlnTuvbHNB0y1EEjtTQc) | 3:53 | 2024-11-07 | 2024-12-06 |
 | [Åskan](https://open.spotify.com/track/4IvU3szVTYPz8MNFYC3UAH) | [Adam Olenius](https://open.spotify.com/artist/5DQhpvhBgqdbDOojAxkIPO) | [Åskan](https://open.spotify.com/album/0THfkmX71d0wo0eUBtdRMf) | 3:17 | 2025-11-20 |  |
 | [Ögonen](https://open.spotify.com/track/3hVAR6Gy8x48yXfyZB8cEU) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ögonen](https://open.spotify.com/album/1oS4eeYnTQ1nBTLz3HeQPA) | 3:48 | 2025-09-11 | 2026-05-01 |

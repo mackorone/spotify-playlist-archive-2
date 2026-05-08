@@ -43272,7 +43272,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 165081,
       "name": "Mi gran amor",
       "url": "https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c"
@@ -45540,7 +45540,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 171176,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/3YT3IRkNg5MASgmQTo2l8R"
@@ -46824,7 +46824,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 146400,
       "name": "Nenas Mafiosas",
       "url": "https://open.spotify.com/track/33E72WM96PhNU9qyqHiccb"
@@ -65570,6 +65570,24 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Super Snake",
+        "url": "https://open.spotify.com/album/171x2TEHzmMOic3gZACPm2"
+      },
+      "artists": [
+        {
+          "name": "Arox",
+          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79389,
+      "name": "Super Snake",
+      "url": "https://open.spotify.com/track/031oN4vHZqYZt4SX9ASn3S"
     },
     {
       "album": {

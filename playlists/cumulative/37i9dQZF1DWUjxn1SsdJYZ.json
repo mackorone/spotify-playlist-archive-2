@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Hooligan Hefs",
+  "description": "The best new AUS & NZ Rap. Cover: Kobie Dee",
   "name": "Local Hype",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 132765,
       "name": "2 Shots",
       "url": "https://open.spotify.com/track/6FyFlGgQe6gLMAJza9CGpF"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 162253,
       "name": "Aye bae (feat. Stt Laurentt)",
       "url": "https://open.spotify.com/track/5QPNeJYmTzPF47WFGcxMCn"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 209392,
       "name": "BAD GIRLS",
       "url": "https://open.spotify.com/track/36M4adnqibiKG5zJWWau8p"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 130169,
       "name": "Big Don",
       "url": "https://open.spotify.com/track/5eCTcda91IJHESvBpNwBnj"
@@ -4060,6 +4060,24 @@
       "duration_ms": 162093,
       "name": "Brother",
       "url": "https://open.spotify.com/track/4wqQMY2eHe9ct1cKSkK4MS"
+    },
+    {
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
     },
     {
       "album": {
@@ -6886,7 +6904,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 202384,
       "name": "Doin a lot",
       "url": "https://open.spotify.com/track/310TXARN1k8ovjL63h1qLu"
@@ -8266,7 +8284,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 138795,
       "name": "FaceTime (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI"
@@ -9018,6 +9036,24 @@
       "duration_ms": 127846,
       "name": "FLASHBACK",
       "url": "https://open.spotify.com/track/6pzC5R6fT9aE7gI1pxLSpq"
+    },
+    {
+      "album": {
+        "name": "FLAT MONEY FREESTYLE #NWO",
+        "url": "https://open.spotify.com/album/3kxwkWKAGeXG8SDzRWX2da"
+      },
+      "artists": [
+        {
+          "name": "Miko Mal",
+          "url": "https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "FLAT MONEY FREESTYLE #NWO",
+      "url": "https://open.spotify.com/track/7D4slzDt9wUqgtxXvFCRA3"
     },
     {
       "album": {
@@ -18063,6 +18099,24 @@
     },
     {
       "album": {
+        "name": "NEED 2 KNOW",
+        "url": "https://open.spotify.com/album/2natrw3pFDa8C6LUHVr9b8"
+      },
+      "artists": [
+        {
+          "name": "Chandler Jewels",
+          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124714,
+      "name": "NEED 2 KNOW",
+      "url": "https://open.spotify.com/track/5YiFTfIHtIkP0vbm67B6R2"
+    },
+    {
+      "album": {
         "name": "Need it",
         "url": "https://open.spotify.com/album/3esciVJufbBSnNYs5YiZ2O"
       },
@@ -19885,6 +19939,32 @@
     },
     {
       "album": {
+        "name": "Other",
+        "url": "https://open.spotify.com/album/5hkSHxdIceloFM6sy9gyPt"
+      },
+      "artists": [
+        {
+          "name": "Urthboy",
+          "url": "https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ"
+        },
+        {
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
+        },
+        {
+          "name": "Ballast",
+          "url": "https://open.spotify.com/artist/5KMX7TgDgTpKDXL5bf3fq7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205397,
+      "name": "Other",
+      "url": "https://open.spotify.com/track/6jSwoPoyTthzDYNmr6XS5Z"
+    },
+    {
+      "album": {
         "name": "OtherKidz",
         "url": "https://open.spotify.com/album/6eyCQ5mvmOuCeHbY5K5BgY"
       },
@@ -20619,6 +20699,24 @@
     },
     {
       "album": {
+        "name": "PEAKED IN HIGH SCHOOL",
+        "url": "https://open.spotify.com/album/1lD7NCUKXloAuG7GqBJtxM"
+      },
+      "artists": [
+        {
+          "name": "WHO SHOT SCOTT",
+          "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165224,
+      "name": "PEAKED IN HIGH SCHOOL",
+      "url": "https://open.spotify.com/track/1PEd6A29gWcXKat3abgtBh"
+    },
+    {
+      "album": {
         "name": "Pen To Paint",
         "url": "https://open.spotify.com/album/75iJkKjWTh3WI532gEVgfw"
       },
@@ -21208,6 +21306,24 @@
       "duration_ms": 203493,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/3ESiL8FwbbV0UdCIvJdcfj"
+    },
+    {
+      "album": {
+        "name": "Pressed",
+        "url": "https://open.spotify.com/album/4KGLVBHwJiDdpYkJcoV6VN"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Pressed",
+      "url": "https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs"
     },
     {
       "album": {

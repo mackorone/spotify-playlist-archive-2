@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: بسيوني، زيد خالد، احمد ضياء
 
-1,687 songs - 3 day 21 hr 53 min
+1,688 songs - 3 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Batasif Ala Al Taakhir](https://open.spotify.com/track/6UdCrARuFgY9HOujIpKp7v) | [Foulah Al Jazairiyah](https://open.spotify.com/artist/3oKCS4wPK5jUc1liywVGMG) | [Batasif Ala Al Taakhir](https://open.spotify.com/album/5i2RPeIet2dw9yR3D3VsaU) | 3:33 | 2021-12-23 | 2022-01-21 |
 | [Battalet Ahbek](https://open.spotify.com/track/3TG8IoXZ1Xkwra8RX8oDPu) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [Battalet Ahbek](https://open.spotify.com/album/0iUzTdTjDhmar6AiBcuHV3) | 4:02 | 2025-02-14 | 2025-05-16 |
 | [Batwanes Beek](https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe) | 2:09 | 2024-01-05 | 2024-02-09 |
-| [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 | 2025-12-10 |  |
+| [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 | 2025-12-10 | 2026-05-08 |
 | [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 | 2023-07-03 | 2023-08-09 |
 | [BEBEH](https://open.spotify.com/track/620TuSrzeX35FngDvhbn75) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [BEBEH](https://open.spotify.com/album/5Eer0B7YjFDJKi90JtwRFU) | 3:47 | 2024-06-06 | 2024-07-19 |
 | [Bein Youm Wel Tany](https://open.spotify.com/track/16m6EHNHuVjZ1HV9WG3Mkd) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Bein Youm Wel Tany](https://open.spotify.com/album/08wgvE9dzaykbraHoOwLYi) | 3:02 | 2024-12-06 | 2025-01-10 |
@@ -950,6 +950,7 @@
 | [Tetzawel](https://open.spotify.com/track/4fCXVKgGayvEhYOY3QG56k) | [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [Tetzawel](https://open.spotify.com/album/7F4FBy4G2X1XDfCRWJMXG3) | 3:12 | 2023-08-23 | 2023-11-25 |
 | [Tezkar](https://open.spotify.com/track/4gPwewTZrchGBBsozOIlfb) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [Teymour](https://open.spotify.com/artist/7lMJqm6fS59fdftjd1JF85) | [Red Bull Sika](https://open.spotify.com/album/4NAS24jKP2riPQeQ3dKkfC) | 2:29 | 2024-02-13 | 2024-04-11 |
 | [Thabet](https://open.spotify.com/track/26r99rX5w93vIA9j6sxh4H) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Hegazy Metkal](https://open.spotify.com/artist/0Ypof4S3Hi93OZnTapBLZ7) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/2s3RuE0TW68TrTp7mQyy4s) | 2:22 | 2024-12-19 | 2025-01-24 |
+| [Therapy](https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [Therapy](https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk) | 3:18 | 2026-05-07 |  |
 | [Tigi \- تيجي](https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tigi \(تيجي\)](https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi) | 3:07 | 2022-07-10 | 2022-10-07 |
 | [TIKITA](https://open.spotify.com/track/5pgNmQR46wvt8UQwM9a4x5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [TIKITA](https://open.spotify.com/album/31s9gksQ3J6rengCbH990h) | 2:43 | 2024-12-26 | 2025-01-31 |
 | [Tiktoky](https://open.spotify.com/track/00M6ChErgEoGq2LM8vnGYY) | [Hossam Hosny](https://open.spotify.com/artist/6Ucoan5nwiRNkzMfBFpZJp), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/15qqcrsDB1YzPXu8vlXHio) | 2:21 | 2024-11-15 | 2024-12-27 |

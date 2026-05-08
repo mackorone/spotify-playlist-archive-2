@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶  mới mẻ từ các nghệ sĩ độc lập, được các biên tập Spotify nâng niu chọn lựa bằng cả trái tim\. Ảnh bìa: Solmee\. Thiết kế: Isu Kim
+> Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: Solmee\. Thiết kế: Isu Kim
 
 2,285 songs - 5 day 13 hr 54 min
 

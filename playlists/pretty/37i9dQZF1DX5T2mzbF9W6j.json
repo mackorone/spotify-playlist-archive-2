@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112788,
+  "num_followers": 112783,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Na szerok\u0105 wod\u0119",
-        "url": "https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        },
-        {
-          "name": "Favst",
-          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Na szerok\u0105 wod\u0119",
-      "url": "https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "na zab\u00f3j",
         "url": "https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 225000,
       "name": "na zab\u00f3j",
       "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Na szerok\u0105 wod\u0119",
+        "url": "https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Na szerok\u0105 wod\u0119",
+      "url": "https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
-        {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "Niesamowita Trupa Pana Hiroszimy",
         "url": "https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 211524,
       "name": "Hiroszima, mon amour",
       "url": "https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     },
     {
       "added_at": "2026-04-17 15:06:15",

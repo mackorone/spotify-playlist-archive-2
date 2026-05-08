@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Kid Milli(\ud0a4\ub4dc\ubc00\ub9ac))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: MilliMax(\ubc00\ub9ac\ub9e5\uc2a4))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226014,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6XgrmsDAnuYvpBKVjy4ihI"
@@ -1773,7 +1773,7 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
         }
       ],
       "date_added": "2022-07-24",
@@ -3145,7 +3145,7 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
         },
         {
           "name": "Gaeko",
@@ -3428,7 +3428,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
@@ -6895,7 +6895,7 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
         },
         {
           "name": "DOK2",
@@ -8784,6 +8784,32 @@
       "duration_ms": 181106,
       "name": "Lost & Found (feat. sokodomo & Zior Park)",
       "url": "https://open.spotify.com/track/0V8TpUKrw706ucSEHtYrqc"
+    },
+    {
+      "album": {
+        "name": "AFRO TAPE 2",
+        "url": "https://open.spotify.com/album/2fk1hPLeK3pWirbOb7ydTn"
+      },
+      "artists": [
+        {
+          "name": "Kohway",
+          "url": "https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP"
+        },
+        {
+          "name": "Nieah",
+          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223366,
+      "name": "LOVE (feat. Paloalto)",
+      "url": "https://open.spotify.com/track/7q0wTNSPym2IyWUcY6m5Vt"
     },
     {
       "album": {
@@ -14260,6 +14286,28 @@
       "duration_ms": 171040,
       "name": "STORM",
       "url": "https://open.spotify.com/track/2zoAH8Ihp32xB6wGdrHtoj"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Stuck (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
     },
     {
       "album": {

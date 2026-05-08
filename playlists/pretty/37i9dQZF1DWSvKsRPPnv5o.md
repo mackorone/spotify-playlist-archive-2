@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,462 likes - 105 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,466 likes - 105 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 28 | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
 | 29 | [TwentyFiveEight](https://open.spotify.com/track/5ZGAWHHxgLHEVMPTQeDVh1) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [TwentyFiveEight](https://open.spotify.com/album/5iHwSs8cMhhVGxRtVzwT3o) | 2:12 |
 | 30 | [TFIGO?!](https://open.spotify.com/track/6H49JLIsA3GZFm8I6ljr4l) | [detahjae](https://open.spotify.com/artist/7hx5UNqYxEh0RnyWRExG7g) | [TFIGO?!](https://open.spotify.com/album/7izSCy6vWzOjJ7YoJdlRRl) | 2:09 |
-| 31 | [Tired of F\*\*\*\*\* Deez H\*\*\*\_Pink \(feat\. Guapdad 4000, Wil$on, & Buddy\)](https://open.spotify.com/track/79Y2tFEr25sNkU4l521GRN) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI) | [Moving Towards Love\_PINK](https://open.spotify.com/album/4nvIE4mJRIPMeYSFB3rbGM) | 3:50 |
+| 31 | [Tired of F\*\*\*\*\* Deez H\*\*\*\_Pink \(feat\. Guapdad 4000, Wil$on, KAT & Buddy\)](https://open.spotify.com/track/79Y2tFEr25sNkU4l521GRN) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [WIL$ON](https://open.spotify.com/artist/1JIgcZTvB6nLvFwsEOgnbI), [KAT](https://open.spotify.com/artist/1lcIPFRqCZ5APxFMEKuFOt) | [Moving Towards Love\_PINK](https://open.spotify.com/album/4nvIE4mJRIPMeYSFB3rbGM) | 3:50 |
 | 32 | [2:00 AM](https://open.spotify.com/track/35U6wyVRgQir5mFhWfjMvJ) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [2:00 AM](https://open.spotify.com/album/3s9PofuwRoml0gFdnUNRW4) | 3:06 |
 | 33 | [ANYWAYS](https://open.spotify.com/track/6IO3kgd0S82B6yKyCGomRA) | [Ashbashtharapper](https://open.spotify.com/artist/332RBLKTdiwOb1x0Pu18mv) | [ANYWAYS](https://open.spotify.com/album/1Bn2OolaEDtneJwRe1bBad) | 1:35 |
 | 34 | [PLANET OF THE APES](https://open.spotify.com/track/2XxgmsFANccibcZ1zK0VgA) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [BIDNESS IS BOOMIN](https://open.spotify.com/album/75KSzdkYu0CEHoM7dDPgaD) | 2:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,191 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,143 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 55 | [move on!](https://open.spotify.com/track/6jsea2Y8GIyi4pseXQewoZ) | [pnkdrco](https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI) | [move on!](https://open.spotify.com/album/2DvMdqqDacmdJDrNLxhyd2) | 2:11 |
 | 56 | [Daisy](https://open.spotify.com/track/3JD0HLJsnVfvR2nc4qK0KK) | [nano](https://open.spotify.com/artist/5go2aISjq4c92uvVdUDIym), [The Femcels](https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK), [mr\. london](https://open.spotify.com/artist/6ELBskwRTNyTJr9qORHCdA) | [Everybody's Album](https://open.spotify.com/album/6P8WAO9NuubW1dX9VwndPK) | 1:53 |
 | 57 | [what do you want me to do?](https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [what do you want me to do?](https://open.spotify.com/album/3TYvrhSJ3NZB3vSXXPg31z) | 3:02 |
-| 58 | [The One](https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA) | [Suzy Sheer](https://open.spotify.com/artist/50p44UTSqyTs7BBHCeQq2V), [DJH](https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF), [Chandler Moss](https://open.spotify.com/artist/5AFvUNioHow5p4Tk9XhEtP) | [The One](https://open.spotify.com/album/4gcRKXDe7AfqNTvz5py455) | 2:29 |
+| 58 | [The One](https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA) | [Suzy Sheer](https://open.spotify.com/artist/50p44UTSqyTs7BBHCeQq2V), [DJH](https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF), [Chandler Moss](https://open.spotify.com/artist/5FiliBgMxSJfakDN7xcxvC) | [The One](https://open.spotify.com/album/4gcRKXDe7AfqNTvz5py455) | 2:29 |
 | 59 | [PASTEL SKIES](https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [XY](https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV) | 2:28 |
 | 60 | [Sleazy](https://open.spotify.com/track/0xH0sFCdbn4LshJBcCAa28) | [Tracey](https://open.spotify.com/artist/46JnIrUyPdpvYFPpPgRFSb) | [Sleazy](https://open.spotify.com/album/4cF938Qm270hJg30XOrO75) | 3:37 |
 | 61 | [because U are the Sun](https://open.spotify.com/track/6SwZ3vFVbf7PTaeepHDglS) | [katmoji](https://open.spotify.com/artist/1Wk5YnAl0FJ01R2CuM5ey5) | [Into the Tall Grass](https://open.spotify.com/album/0LBpsfCZtHb7SCUMXs2mVN) | 2:43 |

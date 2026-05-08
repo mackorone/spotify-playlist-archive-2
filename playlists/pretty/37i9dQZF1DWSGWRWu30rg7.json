@@ -1,12 +1,12 @@
 {
   "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: FILM.",
-  "num_followers": 64456,
+  "num_followers": 64457,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeEiurCvNVRoHlw1UXLUes+3NQc",
+  "snapshot_id": "AAAAALdE2a9kztlzmIL5XmIkd9JGQNgn",
   "tracks": [
     {
       "added_at": "2026-05-06 17:00:17",
@@ -39,6 +39,22 @@
       "duration_ms": 204788,
       "name": "Fell 4 U",
       "url": "https://open.spotify.com/track/3qDtbaTYpjUQLL1fFxfCMU"
+    },
+    {
+      "added_at": "2026-05-07 23:34:57",
+      "album": {
+        "name": "Am I Loving You Alone?",
+        "url": "https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Darlings",
+          "url": "https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Am I Loving You Alone?",
+      "url": "https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ"
     },
     {
       "added_at": "2026-05-06 17:00:17",

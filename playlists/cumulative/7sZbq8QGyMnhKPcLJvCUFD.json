@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "ascend",
+        "url": "https://open.spotify.com/album/2IXg9MdjyuKwAXh77EX4EW"
+      },
+      "artists": [
+        {
+          "name": "KORZIX",
+          "url": "https://open.spotify.com/artist/6amlo0aysVfU2RSddhJ6V0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "ascend",
+      "url": "https://open.spotify.com/track/0u8QvZSfPmibHosPqgaeUl"
+    },
+    {
+      "album": {
         "name": "Asteroid II",
         "url": "https://open.spotify.com/album/6a9Rw9SEd0nTwPp4otPeLm"
       },

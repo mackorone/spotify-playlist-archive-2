@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21016,
+  "num_followers": 21013,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-04-15 06:41:37",
       "album": {
+        "name": "COLORFUL TRAUMA",
+        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I hate you",
+      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+    },
+    {
+      "added_at": "2026-04-15 06:41:37",
+      "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 148000,
       "name": "Anyone But You (Feat. MIRYO of Brown Eyed Girls)",
       "url": "https://open.spotify.com/track/2Sprbw65iHnDNsmgbSoH7C"
-    },
-    {
-      "added_at": "2026-04-15 06:41:37",
-      "album": {
-        "name": "COLORFUL TRAUMA",
-        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I hate you",
-      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
     },
     {
       "added_at": "2026-04-15 06:41:37",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Lilly Palmer",
+  "description": "Techno is a state of mind. Cover: Juliet Fox",
   "name": "Techno State",
   "tracks": [
     {
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Ahogar",
+        "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Ahogar",
+      "url": "https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw"
+    },
+    {
+      "album": {
         "name": "Air in the Dark (Bobby. \u201cMicrodose\u201d Remix)",
         "url": "https://open.spotify.com/album/3p1WiWT6sNjeD5PMJSpwsq"
       },
@@ -432,6 +450,28 @@
       "duration_ms": 365007,
       "name": "Amber Rush",
       "url": "https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt"
+    },
+    {
+      "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "album": {
@@ -2124,7 +2164,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 337732,
       "name": "Contrarian",
       "url": "https://open.spotify.com/track/3K3JJJT20PwS4JkftkUiOk"
@@ -9208,7 +9248,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 287532,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3iGqK1cxsegZS0r34kYLDm"
@@ -9456,7 +9496,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193700,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
@@ -11652,7 +11692,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 273000,
       "name": "True Under Certain Conditions",
       "url": "https://open.spotify.com/track/1F1GmgLzUnD5XsoZ0kfjNU"

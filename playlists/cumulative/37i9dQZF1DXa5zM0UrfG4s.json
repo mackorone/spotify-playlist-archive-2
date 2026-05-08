@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "10 kniver i hjertet",
+        "url": "https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ"
+      },
+      "artists": [
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172302,
+      "name": "10 kniver i hjertet",
+      "url": "https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS"
+    },
+    {
+      "album": {
         "name": "100 & H\u00e6lvette",
         "url": "https://open.spotify.com/album/3t9inyYHcg2rASNvxSrdG1"
       },
@@ -1344,6 +1362,24 @@
       "duration_ms": 111282,
       "name": "Dagsfylla",
       "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
+    },
+    {
+      "album": {
+        "name": "DAGSFYLLA",
+        "url": "https://open.spotify.com/album/2tzZgsJEVBuLoTNZ4Prcw3"
+      },
+      "artists": [
+        {
+          "name": "Skei & PT",
+          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121401,
+      "name": "DAGSFYLLA",
+      "url": "https://open.spotify.com/track/3NE99Ffl9DTFhJBByMxmBF"
     },
     {
       "album": {
@@ -2727,7 +2763,7 @@
     },
     {
       "album": {
-        "name": "Flesk og duppe",
+        "name": "Flesk og Duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
       "artists": [
@@ -3358,7 +3394,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
@@ -3888,7 +3924,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 136981,
       "name": "Her og n\u00e5",
       "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"

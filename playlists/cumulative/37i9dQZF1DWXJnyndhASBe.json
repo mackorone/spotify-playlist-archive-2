@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Gibbs",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -6015,6 +6015,32 @@
     },
     {
       "album": {
+        "name": "Etiuda nr11 FOKUS x RAHIM",
+        "url": "https://open.spotify.com/album/1DbKOhADwXZW1Y7YuMkkm4"
+      },
+      "artists": [
+        {
+          "name": "JIMEK",
+          "url": "https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh"
+        },
+        {
+          "name": "Fokus",
+          "url": "https://open.spotify.com/artist/2h2nL9Hk4GQNcFm7fYV5ck"
+        },
+        {
+          "name": "Rahim",
+          "url": "https://open.spotify.com/artist/0sKdZaAhTTobH1I6OHB2tY"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285857,
+      "name": "Etiuda nr11 FOKUS x RAHIM",
+      "url": "https://open.spotify.com/track/3Ck8RXdhIYiuZnT6kWNeHZ"
+    },
+    {
+      "album": {
         "name": "Etiuda nr5 Kosma Kr\u00f3l",
         "url": "https://open.spotify.com/album/6FuaLi9Nt63Nd9tpBbPL5g"
       },
@@ -9986,6 +10012,32 @@
       "duration_ms": 154687,
       "name": "KONFETTI",
       "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
+    },
+    {
+      "album": {
+        "name": "Kontrabanda",
+        "url": "https://open.spotify.com/album/7sKZ4cYgAkQTfgzt9v2JT1"
+      },
+      "artists": [
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": ".voodoo people",
+          "url": "https://open.spotify.com/artist/3Z4rxaiMpSD2nMIvfEPeqk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "Kontrabanda",
+      "url": "https://open.spotify.com/track/3q2LxONC8Z7Qq8gcWGoBBz"
     },
     {
       "album": {
@@ -18816,7 +18868,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 159327,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/25lz0Gbm5qV19BghYKZFO2"
@@ -20440,7 +20492,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 136363,
       "name": "TOPFLOOR",
       "url": "https://open.spotify.com/track/22ARc0DnnJC0hNKgeBZ5OA"

@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 163275,
       "name": "Dia Bom",
       "url": "https://open.spotify.com/track/7zzd7q2VoU8Dkgori4rgCc"
@@ -1060,6 +1060,24 @@
       "duration_ms": 236228,
       "name": "Iluminar",
       "url": "https://open.spotify.com/track/0IXcgx92Bi6mIVAW1u6ZCK"
+    },
+    {
+      "album": {
+        "name": "Incendiou",
+        "url": "https://open.spotify.com/album/212x208bT4Npyzr1clH471"
+      },
+      "artists": [
+        {
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229307,
+      "name": "Incendiou",
+      "url": "https://open.spotify.com/track/4j8PnRPIqTtVUbmzrTt5CR"
     },
     {
       "album": {
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 215384,
       "name": "S\u00e3o Paulo High Society - Remix",
       "url": "https://open.spotify.com/track/0ZX7KT4d4iDPCVadpcj0kn"
@@ -2446,6 +2464,32 @@
       "duration_ms": 156214,
       "name": "Voltando pra casa",
       "url": "https://open.spotify.com/track/2tuyFzuEda8pd2RSNKBhpI"
+    },
+    {
+      "album": {
+        "name": "\u00c9 No Balan\u00e7o",
+        "url": "https://open.spotify.com/album/0sFyfTYG3cJsSkcSQ3pLNM"
+      },
+      "artists": [
+        {
+          "name": "Wes Ventura",
+          "url": "https://open.spotify.com/artist/451ImG1QyVqRysU0hQOqTv"
+        },
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+        },
+        {
+          "name": "Laborat\u00f3rio Tropical",
+          "url": "https://open.spotify.com/artist/1ndfKW0rJ3vHyXhYhXGB2Y"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "\u00c9 No Balan\u00e7o",
+      "url": "https://open.spotify.com/track/7hjwcHZM5EbFvuZYQrbHbH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVJE8hP95f7v"

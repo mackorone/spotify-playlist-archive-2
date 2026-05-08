@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira, Murta",
+  "description": "Uma playlist de pura alma pop! Foto: Mickael Carreira, Terry ",
   "name": "Pop PT",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 183111,
       "name": "Amor de Novela",
       "url": "https://open.spotify.com/track/0lljuI1udwvIArdhf8zrcj"
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177768,
       "name": "Dan\u00e7a Lenta",
       "url": "https://open.spotify.com/track/5mxjoNAmQFim6ybk3AGwyy"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 147253,
       "name": "Depois Do Pecado",
       "url": "https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 215077,
       "name": "francisco",
       "url": "https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m"
@@ -6303,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170077,
+      "name": "Onde \u00c9 Que Eu Tinha a Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/78gj0hNtrkZITSudLFfJmF"
+    },
+    {
+      "album": {
         "name": "Ora\u00e7\u00e3o Ao Tempo",
         "url": "https://open.spotify.com/album/3YWW2cjlldMPq1y6Q1tS17"
       },
@@ -7414,7 +7432,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 208213,
       "name": "Regresso \u00c0 Inf\u00e2ncia",
       "url": "https://open.spotify.com/track/7qFmXBTDYviyGh3W1p32bI"
@@ -7592,6 +7610,24 @@
       "duration_ms": 180000,
       "name": "Romeu e Julieta",
       "url": "https://open.spotify.com/track/53rVBoM2AJz98n8kLIA1uW"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx"
+      },
+      "artists": [
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179991,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa"
     },
     {
       "album": {
@@ -8513,6 +8549,28 @@
     },
     {
       "album": {
+        "name": "Talvez",
+        "url": "https://open.spotify.com/album/0oTPd2PPkUffseXHnoeHcF"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Leonor Barreira",
+          "url": "https://open.spotify.com/artist/5clPclYJpVR9PKaSHNLXkf"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt"
+    },
+    {
+      "album": {
         "name": "Talvez...",
         "url": "https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3"
       },
@@ -8804,6 +8862,28 @@
       "duration_ms": 170986,
       "name": "Tiginni",
       "url": "https://open.spotify.com/track/2mRcL3BrPlfg0ZQjzzSkiZ"
+    },
+    {
+      "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/6Hw55O1N1t5l25805KLcd7"
+      },
+      "artists": [
+        {
+          "name": "Mickael Carreira",
+          "url": "https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU"
+        },
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170584,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/0cGZQqrXnlnBfU7uqHY1eh"
     },
     {
       "album": {
@@ -9364,6 +9444,28 @@
       "duration_ms": 166373,
       "name": "Vou Ficar",
       "url": "https://open.spotify.com/track/4x91NgLxVKe1U1euy40qso"
+    },
+    {
+      "album": {
+        "name": "X\u00ea Dama",
+        "url": "https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160943,
+      "name": "X\u00ea Dama",
+      "url": "https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us"
     },
     {
       "album": {

@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Adam & Steve",
+        "url": "https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170379,
+      "name": "Adam & Steve",
+      "url": "https://open.spotify.com/track/7m8pM10w9qD5y3JoPeNNeB"
+    },
+    {
+      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/3YyytiCzrlXr0OZk7Pl07V"
       },
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 178181,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168693,
       "name": "Ennen sua",
       "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
@@ -9159,6 +9177,28 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
+        "url": "https://open.spotify.com/album/25orPmdA1YcsnlnWiV6FVe"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193578,
+      "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
+      "url": "https://open.spotify.com/track/5y08hzaQKn64LXde19zY5i"
+    },
+    {
+      "album": {
         "name": "Mit\u00e4 s\u00e4 teet t\u00e4\u00e4l (feat. Robin Packalen)",
         "url": "https://open.spotify.com/album/63adNZXS3hvhNbJmBJRIcB"
       },
@@ -11989,6 +12029,24 @@
     },
     {
       "album": {
+        "name": "Pokaali",
+        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "Pokaali",
+      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
+    },
+    {
+      "album": {
         "name": "Polku (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/32yFKb5ZLMg16XhHfExHre"
       },
@@ -14250,7 +14308,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 155573,
       "name": "Stiigerihai",
       "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
@@ -15346,7 +15404,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226200,
       "name": "Talking Heads",
       "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
@@ -16804,6 +16862,24 @@
       "duration_ms": 154687,
       "name": "T\u00e4\u00e4 y\u00f6",
       "url": "https://open.spotify.com/track/44tpujjBaMAjTUnx1To90r"
+    },
+    {
+      "album": {
+        "name": "T\u00e4\u00e4l m\u00e4 oon",
+        "url": "https://open.spotify.com/album/7GxY87m2q8I7WiUkYTfyxk"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148152,
+      "name": "T\u00e4\u00e4l m\u00e4 oon",
+      "url": "https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4"
     },
     {
       "album": {

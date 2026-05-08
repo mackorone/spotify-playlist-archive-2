@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,210 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,253 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 70 | [I'll Remember April](https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Intimacy Calling \- Standard Time Vol\. 2](https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe) | 8:34 |
 | 71 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
 | 72 | [Sweet Peach Tree](https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr) | [Alone Together](https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd) | 6:58 |
-| 73 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
-| 74 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
+| 73 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
+| 74 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 75 | [Drumette](https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9) | [Pete Candoli](https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7) | [From The Top \(Digitally Remastered\)](https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ) | 3:44 |
 | 76 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 |
 | 77 | [Hub Cap](https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Hubsongs](https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB) | 4:25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Stavento",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Manos, Dina",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 152541,
       "name": "block",
       "url": "https://open.spotify.com/track/7siefcy382f6vEymtDfxlH"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 181333,
       "name": "Erotas Skoteinos",
       "url": "https://open.spotify.com/track/5z6ZEbRBSaOdrDV8qdh4rv"
@@ -2857,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "Keno",
+        "url": "https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0"
+      },
+      "artists": [
+        {
+          "name": "Manos",
+          "url": "https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6"
+        },
+        {
+          "name": "Dina",
+          "url": "https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231130,
+      "name": "Keno",
+      "url": "https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF"
+    },
+    {
+      "album": {
         "name": "KOINO MYSTIKO",
         "url": "https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG"
       },
@@ -2990,7 +3012,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 152270,
       "name": "Kouklara",
       "url": "https://open.spotify.com/track/1s5qK6dOmswkeWtj0wiaB3"
@@ -3743,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Ola Gia Sena",
+        "url": "https://open.spotify.com/album/57WnUjl1PHGbqpruNoyYUb"
+      },
+      "artists": [
+        {
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Ola Gia Sena",
+      "url": "https://open.spotify.com/track/2J62CRR3KSpd9zkZrjbXpn"
+    },
+    {
+      "album": {
         "name": "Omorfo Mou",
         "url": "https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m"
       },
@@ -3776,6 +3816,28 @@
       "duration_ms": 244922,
       "name": "Oneiro Tha 'Nai Ksana - Kounia",
       "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
+    },
+    {
+      "album": {
+        "name": "Oneiro Vathi",
+        "url": "https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Oneiro Vathi",
+      "url": "https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt"
     },
     {
       "album": {
@@ -4695,6 +4757,32 @@
     },
     {
       "album": {
+        "name": "sprite+",
+        "url": "https://open.spotify.com/album/7h5FLXCeRsa25KQYA2uFVo"
+      },
+      "artists": [
+        {
+          "name": "TEO.x3",
+          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
+        },
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        },
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156252,
+      "name": "sprite+",
+      "url": "https://open.spotify.com/track/0EGvFsP3gdiDtZCWcCfOBF"
+    },
+    {
+      "album": {
         "name": "P.O.P.",
         "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
       },
@@ -5072,7 +5160,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 156994,
       "name": "TOP",
       "url": "https://open.spotify.com/track/0IJrMuRsw30NKa1d5KzNBw"

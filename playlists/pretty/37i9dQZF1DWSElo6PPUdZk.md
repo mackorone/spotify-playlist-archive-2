@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,325 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,334 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kukdu Ku \(From "Jawaak"\)](https://open.spotify.com/track/1CqohnGO7yQTEYDkAmrCKF) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Gurmoh](https://open.spotify.com/artist/3mgciNhvc5PbGOjbmfcU2s), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Kukdu Ku \(From "Jawaak"\)](https://open.spotify.com/album/4Q1t2YGhPTnQxg0uXIsw4m) | 3:02 |
 | 2 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
-| 3 | [Izhaar](https://open.spotify.com/track/0x95xGt3EZ5ImFezGDaT98) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Izhaar](https://open.spotify.com/album/4f791PWNLy1DQhyKjNhbLZ) | 2:46 |
-| 4 | [Heer](https://open.spotify.com/track/1q6GSeRQ6HD9c3QDpMBt43) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d), [Sacch](https://open.spotify.com/artist/3mMQZBDM4kDp3PGpVxbXz8), [Freak singh](https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv) | [Heer](https://open.spotify.com/album/1MUKBfwl0XNLKDAkYmPTWm) | 2:47 |
+| 3 | [Heer](https://open.spotify.com/track/1q6GSeRQ6HD9c3QDpMBt43) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d), [Sacch](https://open.spotify.com/artist/3mMQZBDM4kDp3PGpVxbXz8), [Freak singh](https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv) | [Heer](https://open.spotify.com/album/1MUKBfwl0XNLKDAkYmPTWm) | 2:47 |
+| 4 | [Saah Te Saal](https://open.spotify.com/track/4BsokjPAQ8iK9abTce9oCN) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Saah Te Saal](https://open.spotify.com/album/7olcnDwWPFT2HP7UlZXwip) | 3:04 |
 | 5 | [Trigger Talk](https://open.spotify.com/track/5kbkuNUP1282MNseJFPPDB) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Avi](https://open.spotify.com/artist/4CwrwTrDILSiVdik8oy2F5), [Rian Music](https://open.spotify.com/artist/6VFus9iJ0TVxR1Sjj4uD0Y) | [Trigger Talk](https://open.spotify.com/album/7EqftYxGFT8wATPPUNxvVJ) | 2:35 |
 | 6 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
 | 7 | [OH NO](https://open.spotify.com/track/4lRyDyR3YkezjCxOoC8lVc) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1), [DONNA](https://open.spotify.com/artist/5uABnMH8F1kFh5Z1iKIm0u) | [OH NO](https://open.spotify.com/album/5phcg8VzAXIuIONayNmygT) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAAA+K5X0BQX5rUNNFtC4P7ekLBlB4`
+Snapshot ID: `AAAAAPLC+Blv2hOuPFPOAKgy0bjs26lG`

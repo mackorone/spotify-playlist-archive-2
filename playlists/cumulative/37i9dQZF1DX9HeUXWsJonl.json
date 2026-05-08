@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Doctorat",
+        "url": "https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2"
+      },
+      "artists": [
+        {
+          "name": "Young Rz",
+          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212628,
+      "name": "Doctorat",
+      "url": "https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0"
+    },
+    {
+      "album": {
         "name": "Ech Mazel (Khrafa)",
         "url": "https://open.spotify.com/album/33phU9MxhOINJYSGYHyEpK"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 245401,
       "name": "Ezzeman Waajayba",
       "url": "https://open.spotify.com/track/1jceWhxSJT69rldGc3Y87v"
@@ -1554,6 +1572,24 @@
       "duration_ms": 322370,
       "name": "Galbi",
       "url": "https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew"
+    },
+    {
+      "album": {
+        "name": "Gamra",
+        "url": "https://open.spotify.com/album/4hc8fefPU7xurXqnhqReCI"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228817,
+      "name": "Gamra",
+      "url": "https://open.spotify.com/track/03E7f3dQKtLKvEM97Rh6Nz"
     },
     {
       "album": {
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 197777,
       "name": "Sahbek Rajel (\u0635\u0627\u062d\u0628\u0643 \u0631\u0627\u062c\u0644)",
       "url": "https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA"

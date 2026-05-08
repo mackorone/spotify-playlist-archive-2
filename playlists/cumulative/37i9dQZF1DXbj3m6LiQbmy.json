@@ -541,6 +541,28 @@
     },
     {
       "album": {
+        "name": "Antipanico",
+        "url": "https://open.spotify.com/album/4DN0rLnUfcOHXKGTC5Cgt6"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        },
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Antipanico",
+      "url": "https://open.spotify.com/track/18yN5n0kPF2LaWQozQ169F"
+    },
+    {
+      "album": {
         "name": "Ay marinayo",
         "url": "https://open.spotify.com/album/3gMHhUQfgWXoD5w6B3I4th"
       },
@@ -906,7 +928,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 208894,
       "name": "BODY",
       "url": "https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY"
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 162007,
       "name": "HIT PER LA FASHION WEEK",
       "url": "https://open.spotify.com/track/7AKTP1crrIeXWgeR1u1Yft"
@@ -4753,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Non ci si ama solo in primavera",
+        "url": "https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200066,
+      "name": "Non ci si ama solo in primavera",
+      "url": "https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk"
+    },
+    {
+      "album": {
         "name": "Non mi va",
         "url": "https://open.spotify.com/album/7N2MLRElVuMWDxDPLvXZyx"
       },
@@ -5918,7 +5958,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 81067,
       "name": "Rumours of Bread",
       "url": "https://open.spotify.com/track/3gfHadzT6UhT1CxBBCDOuH"

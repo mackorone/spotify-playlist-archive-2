@@ -3495,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "Tanzt mit mir",
+        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "Tanzt mit mir",
+      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
+    },
+    {
+      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
       },

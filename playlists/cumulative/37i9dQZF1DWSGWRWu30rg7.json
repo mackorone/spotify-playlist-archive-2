@@ -4725,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Am I Loving You Alone?",
+        "url": "https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Darlings",
+          "url": "https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Am I Loving You Alone?",
+      "url": "https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ"
+    },
+    {
+      "album": {
         "name": "Amara",
         "url": "https://open.spotify.com/album/75SAhCVYrbGvEA5Q9FTqM8"
       },

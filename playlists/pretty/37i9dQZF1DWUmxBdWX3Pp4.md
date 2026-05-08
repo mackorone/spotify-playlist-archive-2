@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,185 likes - 98 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,141 likes - 98 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
 | 2 | [MEDUSA REMIX](https://open.spotify.com/track/3whoNOYqaUJeDNfisAIojI) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [enzocerobulto](https://open.spotify.com/artist/50AgI9ZGvGksnc7XcVmpSx), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [JuicyNise](https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8), [0600eneltrack](https://open.spotify.com/artist/6cQOeMxNUamTP5B92HZC92), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [MEDUSA REMIX](https://open.spotify.com/album/7BWBf3xfzSPsDTxSwsbbSh) | 6:41 |
-| 3 | [TOPURIA](https://open.spotify.com/track/7obAjGll1lllixdh12WcMV) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [TOPURIA](https://open.spotify.com/album/4GLKElwZnRbDi498zgv8w3) | 3:12 |
+| 3 | [TOPURIA](https://open.spotify.com/track/7obAjGll1lllixdh12WcMV) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [TOPURIA](https://open.spotify.com/album/4GLKElwZnRbDi498zgv8w3) | 3:12 |
 | 4 | [Galáctico](https://open.spotify.com/track/0HCDbojE5tb9fxMGoKPhoW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Galáctico](https://open.spotify.com/album/7j7i0rq6mlYJPINjyAUXau) | 3:06 |
 | 5 | [DFWE](https://open.spotify.com/track/1xAs0WBZBD8wItZIuGJWRs) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DFWE](https://open.spotify.com/album/1m8EV0hEQGQvgtmVylnsdT) | 3:03 |
 | 6 | [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 |

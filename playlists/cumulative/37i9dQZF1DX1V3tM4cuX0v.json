@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "FEEL THE HEAT",
+        "url": "https://open.spotify.com/album/5HnlN0yz05hxOFUgbtnOAT"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147456,
+      "name": "FEEL THE HEAT",
+      "url": "https://open.spotify.com/track/4HkPA8phzU3UKJ0QOgVILO"
+    },
+    {
+      "album": {
         "name": "FENOMENAL'",
         "url": "https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS"
       },
@@ -1091,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
         "name": "southbound / test drive",
         "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
       },
@@ -1290,7 +1326,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -3028,7 +3064,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 195784,
       "name": "\u041f\u0456\u043d\u0430\u043a\u043e\u043b\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno"
@@ -3180,7 +3216,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 148423,
       "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
       "url": "https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx"
@@ -3762,6 +3798,24 @@
       "duration_ms": 154030,
       "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
       "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
+    },
+    {
+      "album": {
+        "name": "\u0406\u041a\u041e\u041d\u0410",
+        "url": "https://open.spotify.com/album/6r2JCnjEAjg1A3VBXIznqb"
+      },
+      "artists": [
+        {
+          "name": "IVAN LIULENOV",
+          "url": "https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188475,
+      "name": "\u0406\u041a\u041e\u041d\u0410",
+      "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Dries Roelvink",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Tino Martin",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Al Win Ik 10 Miljoen",
+        "url": "https://open.spotify.com/album/0NvmRdmQNK1iFfcSjGcl12"
+      },
+      "artists": [
+        {
+          "name": "Rene Schuurmans",
+          "url": "https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122882,
+      "name": "Al Win Ik 10 Miljoen",
+      "url": "https://open.spotify.com/track/6Lt1QW8Y7eO8rv2bdiTO1Q"
+    },
+    {
+      "album": {
         "name": "All Inclusief",
         "url": "https://open.spotify.com/album/3rwO1Zw8ByQ9USPPR2s3Zo"
       },
@@ -396,6 +414,24 @@
       "duration_ms": 207478,
       "name": "Alles (2024)",
       "url": "https://open.spotify.com/track/32ieVO09cVCTNoGOvr6b9p"
+    },
+    {
+      "album": {
+        "name": "Alles Gaat Voorbij",
+        "url": "https://open.spotify.com/album/5GIbDXqqqgbJAbtbrpDpon"
+      },
+      "artists": [
+        {
+          "name": "Dora",
+          "url": "https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "Alles Gaat Voorbij",
+      "url": "https://open.spotify.com/track/3POH4BgyIbavWJuo4ehXZz"
     },
     {
       "album": {
@@ -972,7 +1008,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174794,
       "name": "Amor De Mis Amores (De Pijn Zit Diep In Mij)",
       "url": "https://open.spotify.com/track/7ClaUNp2RUzAWRKYmmPpyj"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 170307,
       "name": "Dat Kan Toch Niet Verboden Zijn...",
       "url": "https://open.spotify.com/track/6QO4VE0iVeg3QUPcRKbQji"
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 183065,
       "name": "Dit is een Droom",
       "url": "https://open.spotify.com/track/4gcpVrrinsdA9BoPyuA9Oy"
@@ -3218,7 +3254,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 188181,
       "name": "Eenzaamheid Maakt Alle Mensen Gelijk",
       "url": "https://open.spotify.com/track/3qjKAJvIbedMgBDvuXKBnS"
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 167752,
       "name": "Eigen Schuld",
       "url": "https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT"
@@ -3662,7 +3698,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 169500,
       "name": "Ga Maar Weg",
       "url": "https://open.spotify.com/track/5hKzFdijIotT1gIqz0OeSU"
@@ -4087,6 +4123,24 @@
     },
     {
       "album": {
+        "name": "Gitana",
+        "url": "https://open.spotify.com/album/3mhkWSPUbW7BBx6pwVz4yc"
+      },
+      "artists": [
+        {
+          "name": "Niels Korsuize",
+          "url": "https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146289,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/4a3SC21Ou8t9kaaNESDhqp"
+    },
+    {
+      "album": {
         "name": "Goede Slechte Tijden",
         "url": "https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1"
       },
@@ -4138,6 +4192,24 @@
       "duration_ms": 153567,
       "name": "Gouden Lach",
       "url": "https://open.spotify.com/track/1cRsgsAIU4AMPor92Uk8HX"
+    },
+    {
+      "album": {
+        "name": "Griekse Nacht",
+        "url": "https://open.spotify.com/album/2WbdOFY5SqeLTZbvRrFBN4"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Zelst",
+          "url": "https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Griekse Nacht",
+      "url": "https://open.spotify.com/track/104eV6ie6a5f3OqhNp1dMJ"
     },
     {
       "album": {
@@ -4954,6 +5026,24 @@
       "duration_ms": 166492,
       "name": "Ik Drink Alles",
       "url": "https://open.spotify.com/track/4RudiZ01tqNyda8c3T3Xcg"
+    },
+    {
+      "album": {
+        "name": "Ik Drink Ros\u00e9",
+        "url": "https://open.spotify.com/album/4bDMJ32MzoEKI1h949iiyX"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136847,
+      "name": "Ik Drink Ros\u00e9",
+      "url": "https://open.spotify.com/track/44GKO40UgFA0cTOWeSLyPz"
     },
     {
       "album": {
@@ -6233,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "Jong & Dom",
+        "url": "https://open.spotify.com/album/00YkFHItYazV2hJ1SU6d9g"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187488,
+      "name": "Jong & Dom",
+      "url": "https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng"
+    },
+    {
+      "album": {
         "name": "Jongen",
         "url": "https://open.spotify.com/album/1393qk9bvY8FJJGTJ8ltQs"
       },
@@ -7185,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "Lekker Ding",
+        "url": "https://open.spotify.com/album/0zoekU2FHrkbdadVJ5qv74"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Dam",
+          "url": "https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "Lekker Ding",
+      "url": "https://open.spotify.com/track/5ic3AIxWoxlC2iCjhRJbkr"
+    },
+    {
+      "album": {
         "name": "Lekkerding",
         "url": "https://open.spotify.com/album/6v2kdek0jNjVVgdUC5ZRyx"
       },
@@ -7581,6 +7707,28 @@
     },
     {
       "album": {
+        "name": "Mama Waar Ben Je Nou",
+        "url": "https://open.spotify.com/album/10wemntqRXgJWwM9OkePF4"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        },
+        {
+          "name": "John Dirne",
+          "url": "https://open.spotify.com/artist/0OVGWNTg2sqbHYSbBzSWgY"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207830,
+      "name": "Mama Waar Ben Je Nou",
+      "url": "https://open.spotify.com/track/7lt4KtDKN2eWPWSKoRIUub"
+    },
+    {
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/0BcSW0My9f3zQb3rZcs88h"
       },
@@ -7686,6 +7834,24 @@
       "duration_ms": 133557,
       "name": "Mee Met Mij",
       "url": "https://open.spotify.com/track/3O61iHhJXBqS14VWdn4CE5"
+    },
+    {
+      "album": {
+        "name": "Meer En Meer",
+        "url": "https://open.spotify.com/album/6jpANH27w1VZDnaMNt64yB"
+      },
+      "artists": [
+        {
+          "name": "Donny den Heijer",
+          "url": "https://open.spotify.com/artist/2wkF6FM62mmhOmWWArIpaI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Meer En Meer",
+      "url": "https://open.spotify.com/track/3PDBPmDqDvzEIYB7ReFvrh"
     },
     {
       "album": {
@@ -7892,7 +8058,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 186367,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW"
@@ -9477,6 +9643,24 @@
     },
     {
       "album": {
+        "name": "Spreid Mijn Vleugels Uit",
+        "url": "https://open.spotify.com/album/0woe4G2WwiCMGzIuHMuOwz"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Spreid Mijn Vleugels Uit",
+      "url": "https://open.spotify.com/track/7wmCxH0kdh25z1JZQwz6WD"
+    },
+    {
+      "album": {
         "name": "Stap In Mijn Bootje",
         "url": "https://open.spotify.com/album/2FwiuA25iO9010pEPkhbs2"
       },
@@ -10741,6 +10925,24 @@
     },
     {
       "album": {
+        "name": "Wat Heb Ik Te Verliezen",
+        "url": "https://open.spotify.com/album/06tGRDY9ENtbF5PrW9xf2D"
+      },
+      "artists": [
+        {
+          "name": "Leev",
+          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Wat Heb Ik Te Verliezen",
+      "url": "https://open.spotify.com/track/6eFq9ZXV2pCOpow76FIsRc"
+    },
+    {
+      "album": {
         "name": "Wat Heb Je Gedaan ?",
         "url": "https://open.spotify.com/album/7fBipyDft5KH60MPo34sxl"
       },
@@ -11460,6 +11662,24 @@
       "duration_ms": 167610,
       "name": "Woning op 4 wielen",
       "url": "https://open.spotify.com/track/44BwGogCykeeWqEkg17yBb"
+    },
+    {
+      "album": {
+        "name": "Word Nou Niet Verliefd",
+        "url": "https://open.spotify.com/album/6cSjWRts5xNQwZDj3dsYZ0"
+      },
+      "artists": [
+        {
+          "name": "Henk Damen",
+          "url": "https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171328,
+      "name": "Word Nou Niet Verliefd",
+      "url": "https://open.spotify.com/track/1ZpATRatNBgDJbRRFVTiJI"
     },
     {
       "album": {

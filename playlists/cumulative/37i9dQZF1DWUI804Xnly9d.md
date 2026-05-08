@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-629 songs - 1 day 11 hr 16 min
+630 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Brightside](https://open.spotify.com/track/0cVe7QJ01fQkzRbd920EFk) | [Neeraj Mehra](https://open.spotify.com/artist/5A0ZkUDY2DItbabJz7sqMI) | [Brightside](https://open.spotify.com/album/7BGuTPQAwbuFjdNVwpv1UA) | 4:05 | 2024-05-20 | 2024-06-20 |
 | [Calmoshiya](https://open.spotify.com/track/0k68HmAy5WgSZBcI7NW7cU) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Calmoshiya](https://open.spotify.com/album/1xrLuscNmcMYH4xs0UHCCs) | 2:37 | 2023-08-03 | 2023-09-28 |
 | [can you / hai kyun](https://open.spotify.com/track/6vuxf3pKSpeClE6ONnh1yt) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [can you / hai kyun](https://open.spotify.com/album/5Mzxo6zj8XO6GUESDoSheH) | 3:08 | 2024-08-10 | 2024-10-02 |
-| [Chaahat Ka Maara](https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Chaahat Ka Maara](https://open.spotify.com/album/7HvKn1CXqHiJFrTosZHk2G) | 2:38 | 2024-06-28 |  |
+| [Chaahat Ka Maara](https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Chaahat Ka Maara](https://open.spotify.com/album/7HvKn1CXqHiJFrTosZHk2G) | 2:38 | 2024-06-28 | 2026-05-08 |
 | [Chai Peete Peete](https://open.spotify.com/track/2KM2zCZgre6zisTh3SOf0Y) | [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Chai Peete Peete](https://open.spotify.com/album/5FWUWIaXzFWTmaEplDrzbJ) | 2:42 | 2024-10-25 | 2025-03-21 |
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 | 2023-12-12 |
@@ -331,7 +331,7 @@
 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 | 2023-05-17 |  |
 | [Kyun?](https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Kyun?](https://open.spotify.com/album/4z2xS1OlMUwBDJX7KcocbD) | 2:27 | 2025-06-06 | 2025-06-21 |
 | [Laazmi](https://open.spotify.com/track/3tT3fyLD98cL19jyPbzn77) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Laazmi](https://open.spotify.com/album/6To7c9IW2w6NbXKLxRDFQg) | 2:54 | 2024-08-02 | 2024-09-06 |
-| [Laiyaan](https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7), [RUTVXK](https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e) | [Laiyaan](https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM) | 3:33 | 2026-04-16 |  |
+| [Laiyaan](https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7), [RUTVXK](https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Laiyaan](https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM) | 3:33 | 2026-04-16 |  |
 | [Lamha \- Acoustic](https://open.spotify.com/track/1nBhlwwJEtw5M1F8BD883x) | [Kakkey](https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp) | [Lamha \(Acoustic\)](https://open.spotify.com/album/6BSGXr1rDhX7ZVk4zkbJ3i) | 4:20 | 2025-06-13 | 2025-08-06 |
 | [Lamha Ye](https://open.spotify.com/track/6DXeCwgEuE5rf5cgbU0mQ1) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Lamha Ye](https://open.spotify.com/album/4taFbFCbTnAlujGwi92UVN) | 3:46 | 2024-01-09 | 2025-04-15 |
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
@@ -407,6 +407,7 @@
 | [Nazar](https://open.spotify.com/track/2AVEL5vPdG3RaakqiVCzoA) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Nazar](https://open.spotify.com/album/2w990tnpsf7MGjZJBK0t6f) | 3:40 | 2025-02-14 |  |
 | [Nazar](https://open.spotify.com/track/79nB5wBVW8GtqaTdrnWwsS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Nazar](https://open.spotify.com/album/5mbnll7Q0EZcSC88Cvutut) | 4:08 | 2025-04-11 |  |
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
+| [Nindiya](https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Nindiya](https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951) | 2:43 | 2026-05-07 |  |
 | [noor](https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn) | [Dev Raiyani](https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [noor](https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP) | 2:38 | 2025-01-03 | 2025-07-03 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 | 2024-07-09 |

@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,008 songs - 13 day 23 hr 40 min
+6,010 songs - 13 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1812,6 +1812,7 @@
 | [Float](https://open.spotify.com/track/53w2vsCVLYmgh15RhIwWsw) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 5:41 | 2019-09-29\* | 2021-11-19 |
 | [Float](https://open.spotify.com/track/5QbLgve08VuKzPUZyvY3Z3) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Float](https://open.spotify.com/album/1HXxIkeuydNVC6LY782zhl) | 4:08 | 2021-10-11 | 2021-10-27 |
 | [Float \- feat\. Jim Adkins](https://open.spotify.com/track/55ajMXRw1koPLQiG5jOXf1) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Jim Adkins](https://open.spotify.com/artist/0Zh8szcqjar4shjPoWJHTc) | [Belong](https://open.spotify.com/album/2sdK35lVZvkcOvztZYpG3a) | 3:27 | 2025-12-18 | 2026-02-02 |
+| [Floating](https://open.spotify.com/track/3m9zGSLMJQEGQMafEwty7l) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Floating](https://open.spotify.com/album/1SfCkbDZNt4umXP4PNINBE) | 2:59 | 2026-05-07 |  |
 | [Floating on Air](https://open.spotify.com/track/56cdUMV5peqmwP3946cCGx) | [Ambient Sleep](https://open.spotify.com/artist/60jnkxjFq9yCtCfijm4f4x) | [Anxiety Release and Meditative States](https://open.spotify.com/album/5WtoPjidr4EVpSZErJeVMo) | 2:24 | 2026-03-22 | 2026-04-03 |
 | [Flower](https://open.spotify.com/track/49r8KQDs5IkIxs10tTBfY2) | [Adom](https://open.spotify.com/artist/5cp4XJR0TgFBtT5jbHk1Dl) | [Flower](https://open.spotify.com/album/7tF4SlJfRqeYsdoA0q4Pf1) | 2:51 | 2022-12-09 | 2023-05-30 |
 | [Flowers](https://open.spotify.com/track/2dT2ng9hFxCMjW0sWhKnqP) | [Edor](https://open.spotify.com/artist/1ULXAsr3CfTmuwvwsJR36a) | [Myself](https://open.spotify.com/album/58YLhewWS1Ri1baYlWerU3) | 2:57 | 2021-06-04 | 2021-06-20 |
@@ -5654,6 +5655,7 @@
 | [Watching You](https://open.spotify.com/track/5nNGWT6o8meSgBjLGMMOgL) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 4:42 | 2024-02-26 | 2024-03-05 |
 | [Water](https://open.spotify.com/track/1hxrlhsmGbzeGTkT0G9HgL) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Water](https://open.spotify.com/album/58AGCzkdzo1AAuuNwFScyz) | 3:44 | 2020-08-30 | 2020-10-05 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-29 | 2024-08-13 |
+| [Water In The Sun](https://open.spotify.com/track/3FSB1YONCl9Bn0tDJ2kp0P) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx) | [Water In The Sun](https://open.spotify.com/album/2kj1qQS1LMWF8Aaa8Ffwir) | 3:59 | 2026-05-07 |  |
 | [watercolor sky](https://open.spotify.com/track/7u2gxJGW7w98bGAEu8xtpl) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [watercolor sky](https://open.spotify.com/album/6EtNyUmbNrQl38faOL7GSg) | 3:32 | 2024-03-02 | 2024-03-16 |
 | [Waterloo Sunset](https://open.spotify.com/track/6jTVMGAAOEqDO2eqJikgvX) | [Sputnik the Band](https://open.spotify.com/artist/3MaFGebgJgCzfmARDrImrI) | [Waterloo Sunset](https://open.spotify.com/album/77o5Z8B1sjOK0jhckJOBhG) | 3:05 | 2025-09-23 | 2025-10-06 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2020-07-12 | 2020-08-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: QWER) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Picturemegreen) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
@@ -4987,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/13kOCaTU0UPywf81Y0QdV6"
+      },
+      "artists": [
+        {
+          "name": "Picturemegreen",
+          "url": "https://open.spotify.com/artist/5UG4jocaSV1wBAxlrNtrSE"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212304,
+      "name": "eternity",
+      "url": "https://open.spotify.com/track/5mOWH0Pwf9zmcAEpUt0QVN"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/3GNE5jh7krgY9TaJTxTdT1"
       },
@@ -7288,6 +7306,24 @@
       "duration_ms": 138135,
       "name": "Heart Emoji (feat. BIGONE)",
       "url": "https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB"
+      },
+      "artists": [
+        {
+          "name": "Crystal Tea",
+          "url": "https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282966,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9"
     },
     {
       "album": {
@@ -15108,7 +15144,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 210652,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
@@ -16870,7 +16906,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 160000,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/4eR6sf32ufPbsieCdI7epb"
@@ -19484,7 +19520,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"

@@ -1,13 +1,141 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: hrtz.wav",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: UNCHILD",
   "num_followers": 758,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAICge1+O9idCXrznJbgJ3kfORnCYnX",
+  "snapshot_id": "AAAIH1uEPcDGJqqbRnrT5HtZkgrCQbNv",
   "tracks": [
+    {
+      "added_at": "2026-05-07 04:51:39",
+      "album": {
+        "name": "TA TA",
+        "url": "https://open.spotify.com/album/585JaGbmRMq8qFAN3QBs0k"
+      },
+      "artists": [
+        {
+          "name": "KIIRAS",
+          "url": "https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "TA TA",
+      "url": "https://open.spotify.com/track/6pW5jh7hSuv4rNdmmeovmp"
+    },
+    {
+      "added_at": "2026-05-07 04:52:05",
+      "album": {
+        "name": "ReDeFINE",
+        "url": "https://open.spotify.com/album/78OxOrAiiseIh63k1LmUWX"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/5GFthY4y9WiwEG68wNdGn1"
+    },
+    {
+      "added_at": "2026-05-07 04:52:18",
+      "album": {
+        "name": "FEELM",
+        "url": "https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "duration_ms": 169039,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX"
+    },
+    {
+      "added_at": "2026-05-07 04:55:33",
+      "album": {
+        "name": "We Are UNCHILD",
+        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "UNCHILD",
+      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
+    },
+    {
+      "added_at": "2026-05-07 04:52:34",
+      "album": {
+        "name": "Glow - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT"
+      },
+      "artists": [
+        {
+          "name": "XngHan&Xoul",
+          "url": "https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"
+    },
+    {
+      "added_at": "2026-05-07 04:52:46",
+      "album": {
+        "name": "4th Mini Album 'CEREMONY'",
+        "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 196607,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
+    },
+    {
+      "added_at": "2026-05-07 04:53:04",
+      "album": {
+        "name": "Ode to Love - The 1st Album",
+        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
+    },
+    {
+      "added_at": "2026-05-07 04:54:45",
+      "album": {
+        "name": "What's a girl to do",
+        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "What's a girl to do",
+      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
+    },
     {
       "added_at": "2026-04-13 07:50:16",
       "album": {
@@ -1487,134 +1615,6 @@
       "duration_ms": 210120,
       "name": "Live, Love, Laugh",
       "url": "https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T"
-    },
-    {
-      "added_at": "2025-05-30 06:11:23",
-      "album": {
-        "name": "YOUNI-T",
-        "url": "https://open.spotify.com/album/6rTNYVHdejHf1dAdtvMr9t"
-      },
-      "artists": [
-        {
-          "name": "YOUNITE",
-          "url": "https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV"
-        }
-      ],
-      "duration_ms": 195758,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/5vUJ7PG0aY89m04btGQPih"
-    },
-    {
-      "added_at": "2025-05-30 06:11:30",
-      "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
-    },
-    {
-      "added_at": "2025-05-30 06:11:45",
-      "album": {
-        "name": "The 2nd Mini Album 'SWICY'",
-        "url": "https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9"
-      },
-      "artists": [
-        {
-          "name": "UNIS",
-          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "SWICY",
-      "url": "https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ"
-    },
-    {
-      "added_at": "2025-05-30 06:11:52",
-      "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d"
-    },
-    {
-      "added_at": "2025-05-30 06:11:59",
-      "album": {
-        "name": "poppop - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "poppop",
-      "url": "https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU"
-    },
-    {
-      "added_at": "2025-05-30 06:12:16",
-      "album": {
-        "name": "Oh My",
-        "url": "https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV"
-      },
-      "artists": [
-        {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Oh My",
-      "url": "https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd"
-    },
-    {
-      "added_at": "2025-05-30 06:12:26",
-      "album": {
-        "name": "WILD & FREE",
-        "url": "https://open.spotify.com/album/5wMSWuUrpMu6jOA3CmPfgt"
-      },
-      "artists": [
-        {
-          "name": "AMPERS&ONE",
-          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Kick Start",
-      "url": "https://open.spotify.com/track/5SZWHxjlK2Sbt43KjM1dCH"
-    },
-    {
-      "added_at": "2025-05-30 06:12:32",
-      "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Nia Archives",
+  "description": "All the new indie tracks worth knowing about. Cover: Kurt Vile",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 184453,
       "name": "A Perfect Storm",
       "url": "https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176901,
       "name": "Chain My Heart to Plastic",
       "url": "https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK"
@@ -4910,6 +4910,24 @@
       "duration_ms": 244000,
       "name": "Coast Is Clear",
       "url": "https://open.spotify.com/track/5dbLTvBFljxGLHnuxrUKck"
+    },
+    {
+      "album": {
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2Diqky5gHLlBs2A3X4UfRC"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208876,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb"
     },
     {
       "album": {
@@ -8208,7 +8226,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 247400,
       "name": "FAULT LINE",
       "url": "https://open.spotify.com/track/1dkjDwZB0YM433fQaxpCcI"
@@ -8932,7 +8950,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 336000,
       "name": "Friendship Is The Truth",
       "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
@@ -9396,6 +9414,24 @@
       "duration_ms": 192557,
       "name": "Girl In The Orchestra",
       "url": "https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2"
+    },
+    {
+      "album": {
+        "name": "girlhood",
+        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "girlhood",
+      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     },
     {
       "album": {
@@ -10298,6 +10334,24 @@
       "duration_ms": 242730,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/2WugJjgShjchyHCEXTVhN4"
+    },
+    {
+      "album": {
+        "name": "The Afterparty",
+        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162317,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY"
     },
     {
       "album": {
@@ -11345,6 +11399,28 @@
     },
     {
       "album": {
+        "name": "Everything Every Single Day (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1sKinipNp30KnwhZTke1My"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        },
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220966,
+      "name": "How to Breathe (feat. Matt Corby)",
+      "url": "https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB"
+    },
+    {
+      "album": {
         "name": "how to cry",
         "url": "https://open.spotify.com/album/1ZE5hNkANjRaN012WP490o"
       },
@@ -11374,7 +11450,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 146649,
       "name": "How to Dance Pt.2",
       "url": "https://open.spotify.com/track/1kHwK0eJjFkP1Ytp4EZBYb"
@@ -12897,6 +12973,24 @@
     },
     {
       "album": {
+        "name": "It Only Makes Me Bitter",
+        "url": "https://open.spotify.com/album/0Wn8nMPpnljLIHDoOBXfDX"
+      },
+      "artists": [
+        {
+          "name": "Ea Othilde",
+          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210847,
+      "name": "It Only Makes Me Bitter",
+      "url": "https://open.spotify.com/track/4XvJZendXeQ6HXg574FpGg"
+    },
+    {
+      "album": {
         "name": "Soft",
         "url": "https://open.spotify.com/album/5B50COyPfSTlnVomPVwtBY"
       },
@@ -13764,7 +13858,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 245484,
       "name": "Lately, Love Is Dead",
       "url": "https://open.spotify.com/track/49b2ZZj6rxIwQCuMgrj8zI"
@@ -15520,7 +15614,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 218646,
       "name": "Marrying For Love",
       "url": "https://open.spotify.com/track/1ZnMLgyS075eOwZX5YLTkA"
@@ -17914,7 +18008,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 282062,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
@@ -20338,7 +20432,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
@@ -20436,6 +20530,24 @@
       "duration_ms": 164175,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "album": {
+        "name": "Scorpions",
+        "url": "https://open.spotify.com/album/7jaOViG4MNevodfD8a8wgI"
+      },
+      "artists": [
+        {
+          "name": "The Slims",
+          "url": "https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Scorpions",
+      "url": "https://open.spotify.com/track/0voMItPMcEQMGJafQCUYuc"
     },
     {
       "album": {
@@ -20634,6 +20746,24 @@
       "duration_ms": 189099,
       "name": "See You In The Afterlife",
       "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
+    },
+    {
+      "album": {
+        "name": "See You Later, I'm Gone",
+        "url": "https://open.spotify.com/album/4shbHhHop8TtPbbZAnfyeZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271786,
+      "name": "See You Later, I'm Gone",
+      "url": "https://open.spotify.com/track/79jGv17PjfApMbrMCrZ0OV"
     },
     {
       "album": {
@@ -21298,7 +21428,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 248800,
       "name": "Sliced by a Fingernail",
       "url": "https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg"
@@ -21788,7 +21918,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182880,
       "name": "Song for the Messenger",
       "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
@@ -22376,6 +22506,24 @@
       "duration_ms": 229756,
       "name": "Stay Useless",
       "url": "https://open.spotify.com/track/2YI9yECuIXsuskiWgYmCN9"
+    },
+    {
+      "album": {
+        "name": "Stem the Flow",
+        "url": "https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Stem the Flow",
+      "url": "https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA"
     },
     {
       "album": {
@@ -24343,6 +24491,24 @@
     },
     {
       "album": {
+        "name": "The Payoff",
+        "url": "https://open.spotify.com/album/5w0KujrYWAir96O9ZhCW1Q"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351536,
+      "name": "The Payoff",
+      "url": "https://open.spotify.com/track/3jPynNG4zK7VbbWrnbQYib"
+    },
+    {
+      "album": {
         "name": "The Perfect Swan",
         "url": "https://open.spotify.com/album/0Zzuc82NP0csrOPC6Plr7I"
       },
@@ -24538,6 +24704,24 @@
       "duration_ms": 174005,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/4qHYTQ3aoUXegLFXQUWtcK"
+    },
+    {
+      "album": {
+        "name": "The Weak",
+        "url": "https://open.spotify.com/album/6TTLoKr8xfA8yKEGJACJQ7"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195632,
+      "name": "The Weak",
+      "url": "https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw"
     },
     {
       "album": {
@@ -25322,6 +25506,24 @@
       "duration_ms": 195306,
       "name": "Townies",
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
+    },
+    {
+      "album": {
+        "name": "Experiencing Feelings of Joy",
+        "url": "https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
     },
     {
       "album": {
@@ -26962,7 +27164,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 248981,
       "name": "Wings",
       "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
@@ -27694,6 +27896,24 @@
       "duration_ms": 131726,
       "name": "Yucky's Song",
       "url": "https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr"
+    },
+    {
+      "album": {
+        "name": "Zoom 97",
+        "url": "https://open.spotify.com/album/4zOyn3wSSeUjeMNQQykfEb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294720,
+      "name": "Zoom 97",
+      "url": "https://open.spotify.com/track/7JhMqx0s2GFSl8RvTPlMtK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXuD9SwnM4ac"

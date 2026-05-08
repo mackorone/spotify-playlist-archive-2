@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Zerrin \u00d6zer",
+  "description": "Pop'un sevilen isimleri. Kapak: Ece Mumay x Rag\u0131b Narin",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 162380,
       "name": "Ahkam",
       "url": "https://open.spotify.com/track/5UcOBtBZazyyIpATXjA0d5"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 264205,
       "name": "Anlayamazs\u0131n",
       "url": "https://open.spotify.com/track/5BTiI3keB5Br1P19RjjT7z"
@@ -626,6 +626,24 @@
       "duration_ms": 208226,
       "name": "An\u0131larla Ya\u015famak",
       "url": "https://open.spotify.com/track/2fNpDMXbvucuOwgR10R62R"
+    },
+    {
+      "album": {
+        "name": "H.",
+        "url": "https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Ara Beni",
+      "url": "https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr"
     },
     {
       "album": {
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 185388,
       "name": "B\u0131\u00e7ak",
       "url": "https://open.spotify.com/track/5XYPcsaR7a1rTqTOHc99LN"
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 189320,
       "name": "Erkekler De Yanar",
       "url": "https://open.spotify.com/track/6Q1hUPbagIyzr8Bhx4XUS9"
@@ -4974,6 +4992,28 @@
       "duration_ms": 260373,
       "name": "Hicaz Sevda",
       "url": "https://open.spotify.com/track/71Zeipgvhe6qMEdXu5mQgD"
+    },
+    {
+      "album": {
+        "name": "Hileli",
+        "url": "https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Ajda Pekkan",
+          "url": "https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202431,
+      "name": "Hileli",
+      "url": "https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8"
     },
     {
       "album": {
@@ -6368,7 +6408,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 205800,
       "name": "K\u0131rm\u0131z\u0131",
       "url": "https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9"
@@ -6430,7 +6470,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 190080,
       "name": "Labirent",
       "url": "https://open.spotify.com/track/2mssGi7e5Aac72PxoOGhLp"
@@ -7084,7 +7124,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 187680,
       "name": "Nerdesin?",
       "url": "https://open.spotify.com/track/6O1V3vNyUCRURvCWnkbmQG"
@@ -7222,7 +7262,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 231412,
       "name": "O Ben Olurum",
       "url": "https://open.spotify.com/track/5Bcz8hjLl50eOkEjbubtqw"
@@ -8472,7 +8512,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 158966,
       "name": "Sevmek Yordu",
       "url": "https://open.spotify.com/track/3m9g9R4KE3LzBBKipOLet8"
@@ -8840,7 +8880,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 181935,
       "name": "Ta\u015f",
       "url": "https://open.spotify.com/track/5Ku0I3XYy57X4vG2hSnXPN"
@@ -9046,6 +9086,28 @@
       "duration_ms": 140404,
       "name": "Unutamazs\u0131n",
       "url": "https://open.spotify.com/track/65dKYQvIz5eTTy4fqv19Ji"
+    },
+    {
+      "album": {
+        "name": "Unuttum",
+        "url": "https://open.spotify.com/album/6foE1hsQFeSgekQKpjopzY"
+      },
+      "artists": [
+        {
+          "name": "Baha",
+          "url": "https://open.spotify.com/artist/2vB0YxchGzK7GpfMp4JX3w"
+        },
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243588,
+      "name": "Unuttum",
+      "url": "https://open.spotify.com/track/034sApejpkdGyrn4yDdcwH"
     },
     {
       "album": {
@@ -11068,6 +11130,28 @@
       "duration_ms": 158303,
       "name": "\u015eu Halime Baksana",
       "url": "https://open.spotify.com/track/4s2XGE3LH1KeTfL5fDjioX"
+    },
+    {
+      "album": {
+        "name": "\u015eu Ya\u015famak Bizi \u00d6ld\u00fcr\u00fcyor",
+        "url": "https://open.spotify.com/album/6Uk3ecLg0tyYd5x6iIMJgD"
+      },
+      "artists": [
+        {
+          "name": "Rag\u0131b Narin",
+          "url": "https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg"
+        },
+        {
+          "name": "Ece Mumay",
+          "url": "https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150947,
+      "name": "\u015eu Ya\u015famak Bizi \u00d6ld\u00fcr\u00fcyor",
+      "url": "https://open.spotify.com/track/4GShG17POCV9fFHIt9SI27"
     },
     {
       "album": {

@@ -366,16 +366,16 @@
       },
       "artists": [
         {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+          "name": "Timeless Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5cLqPnIOVAWd770OtzJmTJ"
         }
       ],
-      "date_added": "2025-08-12",
+      "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
-      "duration_ms": 175821,
-      "name": "Drei Romanzen, Nr. 1 Andante molto - Piano & Violin",
-      "url": "https://open.spotify.com/track/57yp0EkozwrKXPxpEY0FJN"
+      "date_removed": null,
+      "duration_ms": 305760,
+      "name": "Drei Romanzen op. 21 - Nr 1 Andante",
+      "url": "https://open.spotify.com/track/2Ounp78HmYsjvB1hruGTz1"
     },
     {
       "album": {
@@ -384,15 +384,51 @@
       },
       "artists": [
         {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+          "name": "Timeless Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5cLqPnIOVAWd770OtzJmTJ"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82384,
+      "name": "Drei Romanzen op. 21 - Nr 2 Allegretto",
+      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
+    },
+    {
+      "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Timeless Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5cLqPnIOVAWd770OtzJmTJ"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "Drei Romanzen op. 21 - Nr 3 Agitato",
+      "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
+    },
+    {
+      "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Timeless Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5cLqPnIOVAWd770OtzJmTJ"
         }
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174149,
-      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
+      "name": "Drei Romanzen op. 22 - Nr. 2, Allegretto",
       "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
     },
     {
@@ -402,15 +438,15 @@
       },
       "artists": [
         {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+          "name": "Timeless Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5cLqPnIOVAWd770OtzJmTJ"
         }
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244088,
-      "name": "Drei Romanzen, Nr. 3 Leidenschaftlich schnell - Piano & Violin",
+      "name": "Drei Romanzen op. 22 - Nr. 3 Leidenschaftlich schnell",
       "url": "https://open.spotify.com/track/3U010epOsIDfHOW9mx8p8Y"
     },
     {
@@ -424,48 +460,12 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "date_added": "2026-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 305760,
-      "name": "Drei Romanzen, Opus 21 Nr 1 Andante - Piano",
-      "url": "https://open.spotify.com/track/2Ounp78HmYsjvB1hruGTz1"
-    },
-    {
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 82384,
-      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
-      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
-    },
-    {
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "date_added": "2025-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235728,
-      "name": "Drei Romanzen, Opus 21 Nr 3 Agitato - Piano",
-      "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
+      "date_removed": "2025-08-30",
+      "duration_ms": 175821,
+      "name": "Drei Romanzen, Nr. 1 Andante molto - Piano & Violin",
+      "url": "https://open.spotify.com/track/57yp0EkozwrKXPxpEY0FJN"
     },
     {
       "album": {
@@ -1186,15 +1186,15 @@
       },
       "artists": [
         {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+          "name": "Timeless Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5cLqPnIOVAWd770OtzJmTJ"
         }
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives (Nr 1 Larghetto)",
+      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
       "url": "https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1"
     },
     {

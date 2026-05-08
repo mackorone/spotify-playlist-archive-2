@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Leto",
+  "description": "Photo : Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -68,6 +68,28 @@
       "duration_ms": 173419,
       "name": "1,2,3 Soleil",
       "url": "https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW"
+    },
+    {
+      "album": {
+        "name": "18 Carats",
+        "url": "https://open.spotify.com/album/3RYEWh0gq099GirskEcKVD"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "18 Carats",
+      "url": "https://open.spotify.com/track/2ovfSyXEj6RgIx6Ks5eIWr"
     },
     {
       "album": {
@@ -411,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Airbnb",
+        "url": "https://open.spotify.com/album/2kNBI76j19T7aOqgeRrP8A"
+      },
+      "artists": [
+        {
+          "name": "Keman",
+          "url": "https://open.spotify.com/artist/4UbneveSv0XBdb3GSVhLy7"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Airbnb",
+      "url": "https://open.spotify.com/track/5xETgI7eqBGMjsFtbUVyJx"
+    },
+    {
+      "album": {
         "name": "Comment T'aimer Sans Diamants ?",
         "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
       },
@@ -660,6 +704,32 @@
       "duration_ms": 136653,
       "name": "Aventador\u00e9",
       "url": "https://open.spotify.com/track/0jMh5CUDXCHhUoLJntKyHW"
+    },
+    {
+      "album": {
+        "name": "Avion de chasse",
+        "url": "https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136809,
+      "name": "Avion de chasse",
+      "url": "https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1"
     },
     {
       "album": {
@@ -1933,6 +2003,28 @@
     },
     {
       "album": {
+        "name": "Chic",
+        "url": "https://open.spotify.com/album/0SGCy198gEl9SSfGvyoPhT"
+      },
+      "artists": [
+        {
+          "name": "Marou Chenko",
+          "url": "https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr"
+        },
+        {
+          "name": "Missan",
+          "url": "https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154365,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/2O0PyqI1NcZaBexnZRTVph"
+    },
+    {
+      "album": {
         "name": "Pichichi / Piccolo",
         "url": "https://open.spotify.com/album/6CZVGOnFHvFfwL1dAEcdYc"
       },
@@ -2292,7 +2384,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174920,
       "name": "Congolaise",
       "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
@@ -3106,7 +3198,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 172913,
       "name": "DOUCEMENT",
       "url": "https://open.spotify.com/track/5btmfx5sNRsrcoIes2gmHu"
@@ -3164,7 +3256,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 146266,
       "name": "DUNYA",
       "url": "https://open.spotify.com/track/2uvH2HRbToELHQspuaNTr9"
@@ -3586,7 +3678,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 235086,
       "name": "FENTY BEAUTY",
       "url": "https://open.spotify.com/track/3LRf1vZiVsMa2owX8qfDX8"
@@ -6977,6 +7069,24 @@
     },
     {
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/6jGq63LDI8yGWqAy0knygJ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220546,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/7sezSNKkQvBhO4OegNAYcs"
+    },
+    {
+      "album": {
         "name": "PARISIENNE",
         "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
       },
@@ -7190,6 +7300,24 @@
       "duration_ms": 169043,
       "name": "Peque\u00f1a",
       "url": "https://open.spotify.com/track/4jAn1ghwcSj3n2ZJuWInLL"
+    },
+    {
+      "album": {
+        "name": "Perle",
+        "url": "https://open.spotify.com/album/5rLkV74YLct21JpCahY1EK"
+      },
+      "artists": [
+        {
+          "name": "La Famax",
+          "url": "https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Perle",
+      "url": "https://open.spotify.com/track/0UF6gItQQ6G2KPMM9Zim8l"
     },
     {
       "album": {
@@ -7798,7 +7926,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 223880,
       "name": "Que tu quieres",
       "url": "https://open.spotify.com/track/4xts0kdUEi4Xlqy6LldP3g"
@@ -9180,7 +9308,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 150476,
       "name": "Tch\u00e9b\u00e9 2x",
       "url": "https://open.spotify.com/track/7l3b0X95GdYfRuW8Kq5ixC"
@@ -9672,7 +9800,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 148013,
       "name": "TOUT DOUX",
       "url": "https://open.spotify.com/track/6vNelqGPn3g9PwKIv64xyo"
@@ -9694,6 +9822,28 @@
       "duration_ms": 150029,
       "name": "Tout g\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+    },
+    {
+      "album": {
+        "name": "TOUT MAINTENANT",
+        "url": "https://open.spotify.com/album/0WGQjODaQY9HngORId5VDu"
+      },
+      "artists": [
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "TOUT MAINTENANT",
+      "url": "https://open.spotify.com/track/1eZaWjCOEjRHS704oCCBRE"
     },
     {
       "album": {

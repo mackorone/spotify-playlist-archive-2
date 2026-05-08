@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Bermuda",
+        "url": "https://open.spotify.com/album/6ccE00W6zKDviVkprH2FQ3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136376,
+      "name": "Bermuda",
+      "url": "https://open.spotify.com/track/3s0RC9ooiAWDXUL7AyXS38"
+    },
+    {
+      "album": {
         "name": "Best I Can Do",
         "url": "https://open.spotify.com/album/04QmZasEti9O75l6JrjPFc"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
@@ -1530,6 +1548,24 @@
       "duration_ms": 152644,
       "name": "Champions",
       "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
+    },
+    {
+      "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207028,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
     },
     {
       "album": {
@@ -2162,7 +2198,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 194013,
       "name": "Don't Stop The Car",
       "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
@@ -3912,7 +3948,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 172393,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7id2LNfW3yMky5ty7c33Rg"
@@ -4140,6 +4176,24 @@
       "duration_ms": 164966,
       "name": "I Just Wanna Turn It Up",
       "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
+    },
+    {
+      "album": {
+        "name": "I LIKE YOU",
+        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "I LIKE YOU",
+      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
     },
     {
       "album": {
@@ -4388,7 +4442,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 304033,
       "name": "In Case I Fall for You",
       "url": "https://open.spotify.com/track/2qz7KoWTLGuWuIfwqZmk4y"
@@ -5012,7 +5066,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
@@ -5246,7 +5300,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 139683,
       "name": "Love Is A Lie",
       "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
@@ -6498,7 +6552,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 264106,
       "name": "perles de sang",
       "url": "https://open.spotify.com/track/0lbCihT7AYHcGBe0tsXDzi"
@@ -8175,6 +8229,28 @@
     },
     {
       "album": {
+        "name": "Take Me Dancing",
+        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        },
+        {
+          "name": "CRIMER",
+          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163231,
+      "name": "Take Me Dancing",
+      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU"
       },
@@ -8262,7 +8338,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 221245,
       "name": "the arrow",
       "url": "https://open.spotify.com/track/2RdFLhXHKs61WVR97Lhx0T"
@@ -8622,7 +8698,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "Tontauben",
       "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
@@ -9664,7 +9740,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 202080,
       "name": "Work Harder Boy",
       "url": "https://open.spotify.com/track/5Hp5ApQlhPQ2yBS0JnCRjV"

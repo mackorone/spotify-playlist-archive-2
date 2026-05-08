@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Sarnilo
+> The best in South African and international R&B\. Cover: Sasha Keable
 
 637 songs - 1 day 10 hr 19 min
 
@@ -55,7 +55,7 @@
 | [Bad Habits \- uncut](https://open.spotify.com/track/0f62w1teOSaYgKObtzygaR) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:52 | 2025-02-13 | 2025-03-01 |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 | 2024-12-07 |
 | [Baki Pekee Yako](https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baki Pekee Yako](https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr) | 3:58 | 2024-05-09 | 2024-09-03 |
-| [Bayabika](https://open.spotify.com/track/69JqQWSM7DvRsOK4Ad3BkT) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C) | [Bayabika](https://open.spotify.com/album/3e4mQ0S7Ay0EN72JidcWrb) | 2:45 | 2026-04-24 |  |
+| [Bayabika](https://open.spotify.com/track/69JqQWSM7DvRsOK4Ad3BkT) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C) | [Bayabika](https://open.spotify.com/album/3e4mQ0S7Ay0EN72JidcWrb) | 2:45 | 2026-04-24 | 2026-05-08 |
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2025-02-13 | 2025-03-01 |
 | [bebé](https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tron Pyre](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [bebé](https://open.spotify.com/album/7iIlZFq4OfdFkEJaPZjl4y) | 3:20 | 2023-10-26 | 2023-12-23 |
 | [Because I Love You](https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Because I Love You](https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU) | 3:31 | 2024-09-11 | 2025-04-25 |
@@ -404,7 +404,7 @@
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-10-12 | 2024-04-19 |
 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 | 2023-10-12 | 2024-02-09 |
 | [On Our Own](https://open.spotify.com/track/5RgluVKZPb26mnlqM49LQl) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [From Me to You & Only You](https://open.spotify.com/album/50kl134khPMtu1FVrniPmi) | 1:24 | 2025-02-13 | 2025-03-01 |
-| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 | 2026-04-25 |
+| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 |  |
 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 | 2024-11-29 | 2025-04-25 |
 | [One Way Ticket](https://open.spotify.com/track/2ILizzTkcXjA6NTioLdeuA) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:16 | 2025-05-01 | 2025-06-28 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2024-09-11 | 2024-11-29 |

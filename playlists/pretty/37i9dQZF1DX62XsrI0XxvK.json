@@ -1,13 +1,77 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
-  "num_followers": 14196,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Andien",
+  "num_followers": 14204,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJorz7U95NwRqvtQ5xhb2u3XnVkd",
+  "snapshot_id": "AAAAAGZyzMUZZN4aGV1IoaEEPemd2rlk",
   "tracks": [
+    {
+      "added_at": "2026-05-07 18:00:21",
+      "album": {
+        "name": "Jatuh Pelan",
+        "url": "https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Jatuh Pelan",
+      "url": "https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK"
+    },
+    {
+      "added_at": "2026-05-07 18:00:21",
+      "album": {
+        "name": "ADS",
+        "url": "https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "duration_ms": 194380,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K"
+    },
+    {
+      "added_at": "2026-05-07 18:00:21",
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/0QqJQz2yoBs4ztjlbbsyBt"
+      },
+      "artists": [
+        {
+          "name": "Cast\u00e9",
+          "url": "https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/6UfL0ciLvnxzllEHT8mKXF"
+    },
+    {
+      "added_at": "2026-05-07 18:00:21",
+      "album": {
+        "name": "YOU+ME",
+        "url": "https://open.spotify.com/album/7ixj9po1vGQmN6twnww4en"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "YOU+ME",
+      "url": "https://open.spotify.com/track/7c1ObmHu6H3WCOqx5xJVaS"
+    },
     {
       "added_at": "2026-04-30 18:00:39",
       "album": {
@@ -53,6 +117,22 @@
       "url": "https://open.spotify.com/track/2cVo56bYrdYPAvFq6IjU3B"
     },
     {
+      "added_at": "2026-04-23 18:00:11",
+      "album": {
+        "name": "fokusku kedelay",
+        "url": "https://open.spotify.com/album/7qnncMLNhFafWkHUeewg1I"
+      },
+      "artists": [
+        {
+          "name": "Dominique Adhadiaz",
+          "url": "https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "fokusku kedelay",
+      "url": "https://open.spotify.com/track/0I9XRB2ibh4uijHSk7IgyF"
+    },
+    {
       "added_at": "2026-04-30 18:00:39",
       "album": {
         "name": "Lazy in Love",
@@ -87,22 +167,6 @@
       "duration_ms": 180000,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/5yYHvzPuaSHrzP6TncTjjD"
-    },
-    {
-      "added_at": "2026-04-23 18:00:11",
-      "album": {
-        "name": "fokusku kedelay",
-        "url": "https://open.spotify.com/album/7qnncMLNhFafWkHUeewg1I"
-      },
-      "artists": [
-        {
-          "name": "Dominique Adhadiaz",
-          "url": "https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "fokusku kedelay",
-      "url": "https://open.spotify.com/track/0I9XRB2ibh4uijHSk7IgyF"
     },
     {
       "added_at": "2026-04-23 18:00:11",
@@ -597,22 +661,6 @@
       "url": "https://open.spotify.com/track/69iYcn3kbPHW4ox0q1FBaL"
     },
     {
-      "added_at": "2026-02-05 19:00:06",
-      "album": {
-        "name": "SILVER LINING",
-        "url": "https://open.spotify.com/album/65cFOLa7aqja0VTKMTCq5j"
-      },
-      "artists": [
-        {
-          "name": "Kay Sebastene",
-          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
-        }
-      ],
-      "duration_ms": 265818,
-      "name": "SILVER LINING",
-      "url": "https://open.spotify.com/track/02385GSFhRkEpONl9xNOwb"
-    },
-    {
       "added_at": "2026-01-08 19:00:28",
       "album": {
         "name": "I Don't Know Anymore (Live Session)",
@@ -663,26 +711,6 @@
       "duration_ms": 171774,
       "name": "Lagi Lagi Kamu",
       "url": "https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc"
-    },
-    {
-      "added_at": "2025-12-04 20:00:25",
-      "album": {
-        "name": "(NO)STALGIA",
-        "url": "https://open.spotify.com/album/5gf4SHNy7X21805le62wgA"
-      },
-      "artists": [
-        {
-          "name": "DAYFAIR",
-          "url": "https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl"
-        },
-        {
-          "name": "N0en",
-          "url": "https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs"
-        }
-      ],
-      "duration_ms": 193465,
-      "name": "(NO)STALGIA",
-      "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
     },
     {
       "added_at": "2025-12-11 18:00:19",
@@ -1623,30 +1651,6 @@
       "duration_ms": 250716,
       "name": "Melepaskanmu",
       "url": "https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Kau Pilih Dia",
-        "url": "https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR"
-      },
-      "artists": [
-        {
-          "name": "Raavfy",
-          "url": "https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH"
-        },
-        {
-          "name": "Mas Jordan",
-          "url": "https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1"
-        },
-        {
-          "name": "Malikoendang",
-          "url": "https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Kau Pilih Dia",
-      "url": "https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV"
     },
     {
       "added_at": "2025-06-05 17:05:22",

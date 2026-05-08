@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1630466,
+  "num_followers": 1630681,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-04-07 14:54:05",
       "album": {
+        "name": "Mary On A Cross (slowed + reverb)",
+        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 274783,
+      "name": "Mary On A Cross - slowed + reverb",
+      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
+    },
+    {
+      "added_at": "2026-04-07 14:54:05",
+      "album": {
         "name": "Black Out Days [Future Islands Remix (Slowed)]",
         "url": "https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 214394,
       "name": "Black Out Days - Future Islands Remix (Slowed)",
       "url": "https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt"
-    },
-    {
-      "added_at": "2026-04-07 14:54:05",
-      "album": {
-        "name": "Mary On A Cross (slowed + reverb)",
-        "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 274783,
-      "name": "Mary On A Cross - slowed + reverb",
-      "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
     },
     {
       "added_at": "2026-04-07 14:54:05",

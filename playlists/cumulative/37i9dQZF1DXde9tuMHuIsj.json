@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Eladio ",
+  "description": "The best of Latin Trap. Cover: Eladio Carrion",
   "name": "Trap Land",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 200597,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/60ms6HaoWLPNJPYWp3K84t"
@@ -3247,6 +3247,50 @@
     },
     {
       "album": {
+        "name": "D'Girls",
+        "url": "https://open.spotify.com/album/2c81tXXY5WUC3lLDy6wTQA"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "CG",
+          "url": "https://open.spotify.com/artist/4gkoJp7yp4XpWAQgJH6oWS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170402,
+      "name": "D'Girls",
+      "url": "https://open.spotify.com/track/2IDBbbns2UAQv2YWrLkzGu"
+    },
+    {
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244675,
+      "name": "Daikoku",
+      "url": "https://open.spotify.com/track/6g1c531586S5DzdWYraRzv"
+    },
+    {
+      "album": {
         "name": "Dame La Verde",
         "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
       },
@@ -3366,7 +3410,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 170624,
       "name": "De Chamaquito",
       "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
@@ -10947,6 +10991,28 @@
     },
     {
       "album": {
+        "name": "MIDEVIL TIMES",
+        "url": "https://open.spotify.com/album/5njAlj6cTCaQroD6NeBmp3"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Sharkesha",
+      "url": "https://open.spotify.com/track/0063HjUDAtjV2AmgcGfv0l"
+    },
+    {
+      "album": {
         "name": "SHEITE",
         "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
       },
@@ -11130,6 +11196,24 @@
       "duration_ms": 178181,
       "name": "Single",
       "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+    },
+    {
+      "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
     },
     {
       "album": {
@@ -11758,7 +11842,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 264877,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/0xL0nSOiZzaVHnbakk5YUw"
@@ -11880,6 +11964,10 @@
         {
           "name": "Almighty",
           "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Soul",
+          "url": "https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl"
         }
       ],
       "date_added": "2026-05-02",
@@ -12506,7 +12594,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 200000,
       "name": "Vetements",
       "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"

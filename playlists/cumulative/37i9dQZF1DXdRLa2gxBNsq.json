@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Las Mariscadas (Directo Kafe Antzokia)",
+        "url": "https://open.spotify.com/album/2e6waJ1iTxP8Ipl2zdDnkw"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124030,
+      "name": "A Las Mariscadas - Directo Kafe Antzokia",
+      "url": "https://open.spotify.com/track/7a0dWy6BZfWNI8Yy5UIdvZ"
+    },
+    {
+      "album": {
         "name": "A Pecho Partido",
         "url": "https://open.spotify.com/album/14Cy4C4Phv8S9toHJWjyGI"
       },
@@ -418,7 +436,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
@@ -462,7 +480,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 184262,
       "name": "Amar Mata - Remasterizado 2024",
       "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182160,
       "name": "CABE\u00c7A",
       "url": "https://open.spotify.com/track/0u5uK4KlYcKuqstlOeBI41"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 199750,
       "name": "Cuando nadie est\u00e1",
       "url": "https://open.spotify.com/track/06rI6RWVN6mRIqEJJ9AYdE"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 134700,
       "name": "de madrid al infierno",
       "url": "https://open.spotify.com/track/3FilZwgFE4Ccu5Bti1tTVV"
@@ -1772,6 +1790,24 @@
       "duration_ms": 251562,
       "name": "Del cel fins a l'infern",
       "url": "https://open.spotify.com/track/47qN7W1aC2jBapfUqql2tE"
+    },
+    {
+      "album": {
+        "name": "Delf\u00edn Negro (Remasterizado 2026)",
+        "url": "https://open.spotify.com/album/3ysRdJQuITsW1ACvaOqkG0"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Delf\u00edn Negro - Remasterizado 2026",
+      "url": "https://open.spotify.com/track/4MGUVbVU6B5BT5Mw9Qrt4J"
     },
     {
       "album": {
@@ -2126,7 +2162,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 228930,
       "name": "El Cuervo",
       "url": "https://open.spotify.com/track/1MNE0f00Gm5zlJCvxSL1Sz"
@@ -2607,6 +2643,24 @@
     },
     {
       "album": {
+        "name": "En la Carretera",
+        "url": "https://open.spotify.com/album/2JIF2JWTxFxvqgSPiDNHbE"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "En la Carretera",
+      "url": "https://open.spotify.com/track/3W3YwhH2li8NZtKlOVEBqv"
+    },
+    {
+      "album": {
         "name": "En Mi Altar",
         "url": "https://open.spotify.com/album/4lM3dh3sXMT2qh5W6uwttw"
       },
@@ -2834,7 +2888,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 180444,
       "name": "Esta es una Noche de Rock & Roll",
       "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
@@ -3146,7 +3200,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
@@ -3508,6 +3562,24 @@
       "duration_ms": 151134,
       "name": "Humanos",
       "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "album": {
+        "name": "Toma y Calla",
+        "url": "https://open.spotify.com/album/3KPGgatu9C4itTLoZdvtRA"
+      },
+      "artists": [
+        {
+          "name": "Palazo En Las Kostillas",
+          "url": "https://open.spotify.com/artist/6RKNVlujqe5qGNzx81OVbg"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "Ibertrola",
+      "url": "https://open.spotify.com/track/5YgRL4B64QejhddfcnERqm"
     },
     {
       "album": {
@@ -3946,7 +4018,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177421,
       "name": "La Buena M\u00fasica",
       "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
@@ -4380,7 +4452,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 134991,
       "name": "LGP",
       "url": "https://open.spotify.com/track/4QrmTN3BT7h6dLIE4uTfvk"
@@ -4438,7 +4510,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 207181,
       "name": "Lobo Solitario",
       "url": "https://open.spotify.com/track/4qXrwFtIjObLofDTCvwAYQ"
@@ -5110,6 +5182,32 @@
       "duration_ms": 236000,
       "name": "Millones de Ojos Brillantes",
       "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
+    },
+    {
+      "album": {
+        "name": "Miserables",
+        "url": "https://open.spotify.com/album/6fHsUf5FgncdpFG0pFbtOQ"
+      },
+      "artists": [
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        },
+        {
+          "name": "Envidia Kotxina",
+          "url": "https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU"
+        },
+        {
+          "name": "Tiempos de Ira",
+          "url": "https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181387,
+      "name": "Miserables",
+      "url": "https://open.spotify.com/track/50jADhZcOKsgvyeNeHvoKa"
     },
     {
       "album": {
@@ -6356,7 +6454,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 135626,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"

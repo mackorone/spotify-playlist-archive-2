@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da Il(\uc591\ub2e4\uc77c)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416056,
+  "num_followers": 416039,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGJphmdO7ExLr5XaNcknnDjVm4L",
+  "snapshot_id": "AAAAAAlP8jR+O1qizByXEFYqUIZ9Qr0r",
   "tracks": [
     {
       "added_at": "2026-04-30 10:16:32",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
-      },
-      "artists": [
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Caligo Pt.1",
-        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 256120,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
+      "duration_ms": 173407,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+        "name": "Caligo Pt.1",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 173407,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
+      "duration_ms": 256120,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 215946,
       "name": "About Time",
       "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Close your eyes",
-        "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Close your eyes",
-      "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "Eyebrow Moon",
         "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "Close your eyes",
+        "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Close your eyes",
+      "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
+        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 267280,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
         "name": "To live",
         "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 264069,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
-        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 267280,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "OFF THE MAP",
-        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
-      },
-      "artists": [
-        {
-          "name": "Kim Sung Kyu",
-          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "When I think about you",
-      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "Even for a moment",
         "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
@@ -1287,6 +1271,38 @@
       "duration_ms": 293160,
       "name": "Even for a moment",
       "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
+        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 196953,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1355,22 +1371,6 @@
       "duration_ms": 288046,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
-        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
-        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 196953,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
-      },
-      "artists": [
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1611,34 +1595,18 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Red Moon: Beyond The Light",
-        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
         }
       ],
-      "duration_ms": 244173,
-      "name": "The Eternal Moment",
-      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
-        "name": "SunFlower",
-        "url": "https://open.spotify.com/album/6sMaJyWXCPtUBv0LTIazl1"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "SunFlower",
-      "url": "https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u"
+      "duration_ms": 186333,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1663,6 +1631,22 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
         "name": "\uc6b0\ub9ac\ub294 \ub9e4\uc77c\ub9e4\uc77c OST Part.7 \u2013 \ub098\uc758 \ubc14\ub78c\uc740 (Before We Knew OST Part.7 \u2013 My Wish)",
         "url": "https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 239000,
       "name": "\ub098\uc758 \ubc14\ub78c\uc740 (My Wish)",
       "url": "https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "SunFlower",
+        "url": "https://open.spotify.com/album/6sMaJyWXCPtUBv0LTIazl1"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "SunFlower",
+      "url": "https://open.spotify.com/track/5T9rLJnCLFh5ZViMfdRF7u"
     }
   ],
   "unique_name": "v o K a l",

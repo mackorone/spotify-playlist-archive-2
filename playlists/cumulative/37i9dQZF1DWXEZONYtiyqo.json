@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: 3 Sud Est, Andra",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Eva Timush",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -170,6 +170,24 @@
       "duration_ms": 154838,
       "name": "7 zile de 8 ori",
       "url": "https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC"
+    },
+    {
+      "album": {
+        "name": "8000 de zile",
+        "url": "https://open.spotify.com/album/0JPOs8otc0l8xYuy1Cf5xL"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "8000 de zile",
+      "url": "https://open.spotify.com/track/61VmUaw4TyPra0wgkpXrjI"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176829,
       "name": "Ai s\u0103 \u00een\u021belegi",
       "url": "https://open.spotify.com/track/0HxME5z7sgsqLcw4NgZZ0L"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 141473,
       "name": "Anii",
       "url": "https://open.spotify.com/track/4ZsNx4ufHA2heZ3MZm6iWE"
@@ -2043,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "C\u00e2t pot eu sa te iert",
+        "url": "https://open.spotify.com/album/4zQR5J9lKbL492uX8Zd9KG"
+      },
+      "artists": [
+        {
+          "name": "Taxi",
+          "url": "https://open.spotify.com/artist/3M14HGj6654bFnhBcHWBnq"
+        },
+        {
+          "name": "Lora",
+          "url": "https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "C\u00e2t pot eu sa te iert",
+      "url": "https://open.spotify.com/track/2uPOsYMqJPHR1u4Yy9Elgc"
+    },
+    {
+      "album": {
         "name": "C\u00e2t s\u0103 te mai a\u0219tept",
         "url": "https://open.spotify.com/album/6BPomOVyUqaopo1qQG1QMb"
       },
@@ -2134,7 +2174,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 170602,
       "name": "Dac\u0103 mai vrei",
       "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
@@ -2842,6 +2882,28 @@
       "duration_ms": 170769,
       "name": "Drama Mama",
       "url": "https://open.spotify.com/track/23Sg5f0tFLRsAFGwDmZ5Bj"
+    },
+    {
+      "album": {
+        "name": "Dream Out Loud",
+        "url": "https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Dream Out Loud",
+      "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
     },
     {
       "album": {
@@ -3654,7 +3716,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 143645,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/3FbipUD4Al8hgIwrkZU2tC"
@@ -3770,6 +3832,24 @@
       "duration_ms": 122000,
       "name": "Gura ta",
       "url": "https://open.spotify.com/track/0NckleLTzztPYasUQ75Sb4"
+    },
+    {
+      "album": {
+        "name": "Gust de dor",
+        "url": "https://open.spotify.com/album/6nB3mNuqZkrdFbLBwulHHg"
+      },
+      "artists": [
+        {
+          "name": "Sore",
+          "url": "https://open.spotify.com/artist/3dmuXOSgI3EMfcKhufthu3"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Gust de dor",
+      "url": "https://open.spotify.com/track/2WWKlAJey0JRfZ75lAsmDQ"
     },
     {
       "album": {
@@ -3930,6 +4010,24 @@
       "duration_ms": 139872,
       "name": "Hey NaNaNa",
       "url": "https://open.spotify.com/track/5nRWAsfbpOX2xjgLYYBwQs"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/0MznwI4BZ9XysTCkwa1UfF"
+      },
+      "artists": [
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4I6Q4DVncrMMsuhMhwR5Di"
     },
     {
       "album": {
@@ -4326,7 +4424,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 157241,
       "name": "Inim\u0103 de piatr\u0103",
       "url": "https://open.spotify.com/track/2BDVkz07yRGOpMbngQXtGj"
@@ -4522,6 +4620,24 @@
       "duration_ms": 131328,
       "name": "Karma",
       "url": "https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6"
+    },
+    {
+      "album": {
+        "name": "Kinda Love It",
+        "url": "https://open.spotify.com/album/1EhTvP6vvRq1P0URcC9RgT"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Kinda Love It",
+      "url": "https://open.spotify.com/track/2TBgVdO0fO1o8lf3fXGxAZ"
     },
     {
       "album": {
@@ -6491,6 +6607,24 @@
     },
     {
       "album": {
+        "name": "pamparam",
+        "url": "https://open.spotify.com/album/41uG60WlpCSonMloYIWIOP"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "pamparam",
+      "url": "https://open.spotify.com/track/2ux4CF2Rs8gx0MauVNObYe"
+    },
+    {
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/6KauVBe2DUrz9ewxEK47KB"
       },
@@ -7545,6 +7679,32 @@
     },
     {
       "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/6ThmwbTVi9mBtsBFRRSuum"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        },
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/7tXT5UAE0PpUdeHGsfumW7"
+    },
+    {
+      "album": {
         "name": "She Cries",
         "url": "https://open.spotify.com/album/10ElgZGmH6P9jbisDfoUaz"
       },
@@ -7894,7 +8054,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 137978,
       "name": "Tac",
       "url": "https://open.spotify.com/track/0nDXhEJze3n3rvhJO3XUnD"
@@ -8192,6 +8352,24 @@
       "duration_ms": 144800,
       "name": "Totul meu",
       "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"
+    },
+    {
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7"
     },
     {
       "album": {
@@ -9038,7 +9216,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 172827,
       "name": "\u00cen Lipsa Ta",
       "url": "https://open.spotify.com/track/3ATsOYUvsO44nXlJv3WJG5"
@@ -9118,7 +9296,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 173493,
       "name": "\u00ce\u021bi Mul\u021bumesc Pentru C\u0103 E\u0219ti",
       "url": "https://open.spotify.com/track/5SYk1XmIhT7LcmIupHzasL"
@@ -9172,7 +9350,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 210338,
       "name": "\u021aine-m\u0103 minte",
       "url": "https://open.spotify.com/track/7H0Wnvl098xdUJVoSTTS20"

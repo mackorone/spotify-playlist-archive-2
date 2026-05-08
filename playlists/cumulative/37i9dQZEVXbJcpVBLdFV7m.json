@@ -6011,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "Buena Vida Mala Fama Slow Reverb (Instrumental)",
+        "url": "https://open.spotify.com/album/2TNxKZVni39nf2MZ6xseW2"
+      },
+      "artists": [
+        {
+          "name": "Crish Ramirez",
+          "url": "https://open.spotify.com/artist/2xy5blO4FNPLVE7xpP5CO5"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Buena Vida Mala Fama Slow Reverb - Instrumental",
+      "url": "https://open.spotify.com/track/64Xn3iBgudzd91Q4AsE6pV"
+    },
+    {
+      "album": {
         "name": "Bum Bum",
         "url": "https://open.spotify.com/album/5RserRry2FXXqs0orcxxsf"
       },
@@ -10106,7 +10124,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 199354,
       "name": "Disco-Tech",
       "url": "https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc"
@@ -15082,7 +15100,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -15100,7 +15118,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -18124,7 +18142,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 303528,
       "name": "I Feel So Free",
       "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
@@ -20270,7 +20288,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -23340,6 +23358,24 @@
       "duration_ms": 190531,
       "name": "Love x Ayo Tech-onology",
       "url": "https://open.spotify.com/track/46dNQaxN56uPb972l8SIqb"
+    },
+    {
+      "album": {
+        "name": "Love x Ayo Technology",
+        "url": "https://open.spotify.com/album/4tdwp4pkI6vQk1I0uh5UEY"
+      },
+      "artists": [
+        {
+          "name": "Ronald Figo",
+          "url": "https://open.spotify.com/artist/5AOzeroMxe112GJoFnCcyG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190483,
+      "name": "Love x Ayo Technology",
+      "url": "https://open.spotify.com/track/7jCSeOB5xT5OvvjQ0R0anI"
     },
     {
       "album": {
@@ -28524,7 +28560,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 199947,
       "name": "No reward",
       "url": "https://open.spotify.com/track/3hNjvaa1uMTtHr2JIKtaai"
@@ -28542,7 +28578,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 199950,
       "name": "No Reward",
       "url": "https://open.spotify.com/track/2TsjcVSHeEX2FkimexEsuY"
@@ -35424,7 +35460,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176072,
       "name": "Silver Night",
       "url": "https://open.spotify.com/track/6usmmGWhgtjFjpxR7EfZ1d"
@@ -38226,7 +38262,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -41404,7 +41440,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"

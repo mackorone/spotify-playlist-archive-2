@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,128 songs - 2 day 10 hr 6 min
+1,130 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/6JFnkBa32fXLaIuYWj8q5N) | [Yves Labordus](https://open.spotify.com/artist/64x1x1T1gFC1fUpJnFo1Cs) | [All I Ever Wanted](https://open.spotify.com/album/6j5WEmy6ljy04oNO1R1KcC) | 2:13 | 2025-06-23 |  |
 | [All I Want](https://open.spotify.com/track/7F5FUtBaCVY1nAaOZJtvrQ) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [All I Want](https://open.spotify.com/album/0X3adlRMme7SEyPiBa79KJ) | 2:50 | 2024-02-16 | 2024-09-26 |
 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 | 2024-01-05 | 2024-09-26 |
+| [All My Life \(feat\. John Martin\)](https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [All My Life \(feat\. John Martin\)](https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD) | 2:52 | 2026-05-07 |  |
 | [All Night](https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [gritney](https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d) | [All Night](https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ) | 3:15 | 2024-02-09 | 2024-09-26 |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-10 | 2024-09-26 |
 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 | 2025-03-13 |  |
@@ -846,6 +847,7 @@
 | [Satisfaction \(with KASIA, Moonphazes, Majewski\) \- Remix](https://open.spotify.com/track/2G1nZCvN2y3qhjcQR9S2ki) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm) | [Satisfaction \(with KASIA, Moonphazes, Majewski\) \[Remix\]](https://open.spotify.com/album/6R8XewqCot8PEvbAv67rXk) | 3:02 | 2026-01-29 |  |
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-04-12 | 2023-05-02 |
 | [Saviour](https://open.spotify.com/track/0T8VMb5jV2XeNJvXG4wWr4) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Saviour](https://open.spotify.com/album/4NpfiBoBzu80w4eTDhJCD6) | 3:14 | 2023-04-14 | 2023-05-02 |
+| [Say My Name](https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Say My Name](https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n) | 2:34 | 2026-05-07 |  |
 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 | 2025-03-13 |  |
 | [Schemer](https://open.spotify.com/track/5Vd2Y0u0IgKUBssZhXlMYi) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Schemer](https://open.spotify.com/album/6peDhpkTBae0aIs1n9fHbx) | 4:58 | 2023-07-13 | 2023-12-14 |
 | [Searching](https://open.spotify.com/track/0IbfAqVf2uUWa1DNPzkfJk) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Searching](https://open.spotify.com/album/3mtkLlzhDmOu2hhAe8ecPl) | 4:14 | 2024-12-05 | 2025-03-28 |

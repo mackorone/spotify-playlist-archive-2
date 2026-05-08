@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 52 min
+119 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Days](https://open.spotify.com/track/49QuascxmAg436Kx2GNyr4) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:04 | 2024-02-27 |  |
 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 | 2024-02-27 |  |
 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2025-09-17 |  |
-| [Best Day](https://open.spotify.com/track/6wzIKvMIsOYStLxDsPlwAB) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Extra\-lucide](https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP) | 3:37 | 2024-02-27 |  |
+| [Best Day](https://open.spotify.com/track/6601LCqzAh0RzD2tTxETVe) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Extra\-lucide](https://open.spotify.com/album/2IN5gBblLNcRM8EBApEsC3) | 3:37 | 2026-05-07 |  |
+| [Best Day](https://open.spotify.com/track/6wzIKvMIsOYStLxDsPlwAB) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Extra\-lucide](https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP) | 3:37 | 2024-02-27 | 2026-05-08 |
 | [Boy, You Can Keep It](https://open.spotify.com/track/1yMvxlVkxC2KFjstP9Au9V) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Boy, You Can Keep It](https://open.spotify.com/album/5N73cTIVwwDhN2TsC6Umr3) | 2:27 | 2024-02-27 |  |
 | [Brand New Day](https://open.spotify.com/track/5yHy4oEWtpuzacUY4pUcpV) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Love & Blood](https://open.spotify.com/album/6kNlBaFUALYiVCieaO3oqp) | 2:37 | 2025-09-17 |  |
 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 | 2025-01-09 | 2025-04-12 |

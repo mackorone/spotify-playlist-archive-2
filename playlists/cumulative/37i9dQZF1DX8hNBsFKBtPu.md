@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-875 songs - 1 day 20 hr 42 min
+880 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Den Sidste Dråbe](https://open.spotify.com/track/5rtNYAmh5tDz3viB3Mqzzv) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Den Sidste Dråbe](https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP) | 3:06 | 2026-02-12 |  |
 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-18 |  |
 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 | 2025-11-13 | 2025-11-28 |
+| [Det Hele Værd](https://open.spotify.com/track/34sPIAouwV5CTKy01oCPy8) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Det Hele Værd](https://open.spotify.com/album/3D4wLAoL5oATQFn9GUxnO9) | 2:52 | 2026-05-07 |  |
 | [Det sker alt for tit](https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Det sker alt for tit](https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB) | 3:07 | 2025-03-06 | 2025-04-25 |
 | [Det Vi Ikke Er](https://open.spotify.com/track/50Sjt66zfYquUdqs8bE5WB) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Det Vi Ikke Er](https://open.spotify.com/album/4EHd8w47w3mmOqKpbmhuTq) | 2:43 | 2024-10-18 | 2025-04-25 |
 | [Det Ønsker Jeg For Dig](https://open.spotify.com/track/3tqRWbqid8syEuHFnrpALx) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [For Evigt I Går](https://open.spotify.com/album/7jLGoAldNIM7iBrZBK1oHu) | 2:57 | 2025-02-27 | 2025-04-25 |
@@ -193,6 +194,7 @@
 | [drukner](https://open.spotify.com/track/3fCxGySI8fhldGJbAsXe0I) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv) | [drukner](https://open.spotify.com/album/721EwK00wVh8wCF105bAxh) | 3:36 | 2026-04-10 |  |
 | [drømmefanger \(feat\. URO\)](https://open.spotify.com/track/1vsap6mgQTyL2EVUXWq66e) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [drømmefanger \(feat\. URO\)](https://open.spotify.com/album/3w5zSTFFUOdEt90zUncRph) | 2:30 | 2026-01-08 |  |
 | [DRØMMER](https://open.spotify.com/track/2ZAJK73ywOO5QSrqFJXIT9) | [Benjamin Lasnier](https://open.spotify.com/artist/3N7RhH3YAHpYa9PC4SGuA0) | [DRØMMER](https://open.spotify.com/album/0F7RGBMq7YA4c1sUnv9o5B) | 2:47 | 2025-11-21 |  |
+| [Drømmer Som Dig](https://open.spotify.com/track/4zPWwofLXqCkiVHmcVy61m) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Når Lyset Banker](https://open.spotify.com/album/0cr10mlo1RuGBWvwS7kyJ8) | 2:53 | 2026-05-07 |  |
 | [Du Har Ret](https://open.spotify.com/track/1KCiaWjh1Rol8hnS35QHKU) | [Laura Ziani](https://open.spotify.com/artist/5obJCBYDzkO1xEmm6P3MSo) | [Du Har Ret](https://open.spotify.com/album/0gzC0uQBZRCsXPPloHvm8W) | 2:37 | 2024-10-01 | 2025-01-17 |
 | [Du kom med alt det der var dig](https://open.spotify.com/track/7lvF6dZwZQ08UA93jDwITP) | [Pernille Rosendahl](https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE) | [Du kom med alt det der var dig](https://open.spotify.com/album/3RgslpDoBkt1ipk7rOb8HK) | 4:10 | 2025-01-02 | 2025-01-17 |
 | [Du ligner din mor](https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Du ligner din mor](https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0) | 3:06 | 2025-01-02 | 2025-08-15 |
@@ -304,6 +306,7 @@
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-11-14 | 2025-04-25 |
 | [Good Stuff](https://open.spotify.com/track/7LIfN7NacguNOS8FMaBMKx) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Good Stuff](https://open.spotify.com/album/4oM9AW7cKAEhiyLvLcz3nH) | 3:08 | 2025-10-09 | 2025-10-17 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 | 2024-09-27 |
+| [GPS](https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:49 | 2026-05-07 |  |
 | [Grandma Calls The Boy Bad News](https://open.spotify.com/track/7taeEaTx9QbbtRDPJv3iHq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:26 | 2025-06-26 | 2025-07-18 |
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2024-12-05 | 2025-01-24 |
 | [GREEN GRASS](https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [GREEN GRASS](https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj) | 3:11 | 2024-06-27 | 2024-10-04 |
@@ -322,6 +325,7 @@
 | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/track/5nASqWcjcInzxUXi85drKk) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/album/3VdtcZKWLij2eQGc75CElV) | 2:31 | 2025-05-15 | 2025-07-04 |
 | [Happy Days](https://open.spotify.com/track/7MVL6j02HrMbKB85n8ukQ1) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Happy Days](https://open.spotify.com/album/5i7C4pEzDpbrhN39th101y) | 3:05 | 2025-10-02 |  |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2025-04-11 |
+| [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 |  |
 | [Harder To Flatline](https://open.spotify.com/track/7K3C8RHQGgT1TcVpMmxZy0) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Harder To Flatline](https://open.spotify.com/album/2xcpRfFxfkBfAyMxVtQCXn) | 3:00 | 2025-10-02 | 2025-10-10 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-24 | 2025-08-29 |
 | [Head First](https://open.spotify.com/track/3yUMi4p9gYcv09FamvoXCi) | [Josefine Damtoft](https://open.spotify.com/artist/3LAVYQ0EmJ94BGkf0XMSU2) | [Head First](https://open.spotify.com/album/4SA4xdCkmmFOYkx1pPn0Hc) | 3:46 | 2025-06-19 | 2025-10-03 |
@@ -394,6 +398,7 @@
 | [I Won't Miss A Thing](https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [I Won't Miss A Thing](https://open.spotify.com/album/6tAI8qCWzBSZYvsxU1qX3w) | 3:54 | 2025-07-03 | 2025-07-18 |
 | [I Ærmet](https://open.spotify.com/track/3VkAJiwfFAGeSoMgwIuhN5) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Ex\_Europa](https://open.spotify.com/album/6MTlhGXvZsaaNftZvZLU4c) | 4:13 | 2026-03-12 |  |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-11-27 | 2026-01-15 |
+| [i'll quit quitting](https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [i'll quit quitting](https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk) | 3:18 | 2026-05-07 |  |
 | [I'm not crying wolf](https://open.spotify.com/track/4ycC3JNjmTBVUIGiHXRkqi) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [I'm not crying wolf](https://open.spotify.com/album/0x8PHfG2aLWFdkORH2Pu6p) | 2:27 | 2025-05-15 | 2025-06-27 |
 | [I'm Not There For You](https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I'm Not There For You](https://open.spotify.com/album/370b4ij3gUhdJsUF2Z1zEe) | 2:19 | 2025-10-23 |  |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-06-27 | 2024-10-04 |

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Nerissima Serpe in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "description": "Sfera in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "RAGAZZO DI GI\u00d9 (DELUXE)",
+        "url": "https://open.spotify.com/album/6Z2ZiS8R5V1CAodxim4oJB"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "'O BENE E 'O MALE (feat. Dipinto)",
+      "url": "https://open.spotify.com/track/0os5NV0tGKIJtgFyWsJiE2"
+    },
     {
       "album": {
         "name": "+ FORTE",
@@ -6060,7 +6082,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 144071,
       "name": "Da zero (feat. Tedua)",
       "url": "https://open.spotify.com/track/3KAQXWJOVEYmq2GdsWCsVx"
@@ -6430,7 +6452,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 150857,
       "name": "DIOR$AVAGE",
       "url": "https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh"
@@ -6508,6 +6530,32 @@
       "duration_ms": 194786,
       "name": "DM (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 SOLO SWAG",
+        "url": "https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "DOMENICA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/2j94KMeMCkstgbz4G3ZX6P"
     },
     {
       "album": {
@@ -6636,6 +6684,24 @@
       "duration_ms": 141538,
       "name": "Dopo la festa",
       "url": "https://open.spotify.com/track/5tAEhUSnGWITaeYGEk7eYS"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/0cAao7jIWqRd5ovKiMRcoU"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121758,
+      "name": "Dopo La Life",
+      "url": "https://open.spotify.com/track/3YDJ9UH6d2wYSOKPK0bd6r"
     },
     {
       "album": {
@@ -7431,6 +7497,28 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186055,
+      "name": "F.I.$. (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5UVUTLEL671Ozsqfh7Kin7"
+    },
+    {
+      "album": {
         "name": "Face to face 2",
         "url": "https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7"
       },
@@ -7486,7 +7574,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176969,
       "name": "Famiglia (feat. Papa V)",
       "url": "https://open.spotify.com/track/5FsjUNGKnTzbfT0XOe26Nt"
@@ -7674,7 +7762,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 165548,
       "name": "FELLINI (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd"
@@ -11316,7 +11404,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj"
@@ -11844,7 +11932,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 197157,
       "name": "Levitating High \ud80c\udc79 (con Papa V, Pitta, JOJO ABOT)",
       "url": "https://open.spotify.com/track/0kbcf0agcQ1YYv0poPbGWd"
@@ -13576,7 +13664,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 209193,
       "name": "MONEY (feat. Artie 5ive, Gu\u00e8)",
       "url": "https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO"
@@ -15847,6 +15935,24 @@
     },
     {
       "album": {
+        "name": "OSSESSIONATO",
+        "url": "https://open.spotify.com/album/1USffHeNNXKiVtkEXu0yh6"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "OSSESSIONATO",
+      "url": "https://open.spotify.com/track/548QdqbS60dXdoBSGRUL6Y"
+    },
+    {
+      "album": {
         "name": "OUTFIT CHECK (feat. Diss Gacha)",
         "url": "https://open.spotify.com/album/6JTmmgKhDgSfMFbM3O7lMG"
       },
@@ -16670,6 +16776,28 @@
       "duration_ms": 181374,
       "name": "Per un paio di dollari",
       "url": "https://open.spotify.com/track/6ay7V0EJQ43hrNgYI3E2tg"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259919,
+      "name": "PERCH\u00c8 PIANGO (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d"
     },
     {
       "album": {
@@ -18591,6 +18719,28 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170436,
+      "name": "RICORDI (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0Yro5gpdvHMyaFGlZHYZIH"
+    },
+    {
+      "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
       },
@@ -18650,6 +18800,28 @@
       "duration_ms": 193079,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C"
+    },
+    {
+      "album": {
+        "name": "RIDE OR DIE (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/6Gg0xTU8BdmG8qjvW7oE5Y"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "RIDE OR DIE (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/1qgk1PhlI4GTurjPUbnKtc"
     },
     {
       "album": {
@@ -21868,7 +22040,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 161657,
       "name": "Tu mi Fai",
       "url": "https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0"

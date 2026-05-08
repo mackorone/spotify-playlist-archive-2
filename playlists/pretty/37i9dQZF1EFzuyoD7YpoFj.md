@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507 likes - 390 songs - 20 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 508 likes - 390 songs - 20 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 135 | [The Cocktail Party](https://open.spotify.com/track/6xTtj1qK9RhyrdcHHNlYDl) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:26 |
 | 136 | [A Picture Of Me Without You](https://open.spotify.com/track/27g4zNA0c77PQlTzQwweQP) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:59 |
 | 137 | [I've Come To Wive It Wealthily In Padua](https://open.spotify.com/track/5T0i46U2lhpQwSwpS5tagh) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:09 |
-| 138 | [Never Give Anything Away \(2023 Remastered\)](https://open.spotify.com/track/53liLAg6ggj6mYhagOyNhs) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 3:13 |
-| 139 | [Only Another Boy And Girl](https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG) | [Benny Goodman](https://open.spotify.com/artist/6jrpiwzsuxDlBQwrwdjQPI) | [Grandes del Jazz](https://open.spotify.com/album/6BOf6MCKDP2ZmjU7SuVndm) | 2:59 |
+| 138 | [Only Another Boy And Girl](https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG) | [Benny Goodman](https://open.spotify.com/artist/6jrpiwzsuxDlBQwrwdjQPI) | [Grandes del Jazz](https://open.spotify.com/album/6BOf6MCKDP2ZmjU7SuVndm) | 2:59 |
+| 139 | [Never Give Anything Away \(2023 Remastered\)](https://open.spotify.com/track/53liLAg6ggj6mYhagOyNhs) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 3:13 |
 | 140 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 |
 | 141 | [I'm in Love With You](https://open.spotify.com/track/5aGY6rUptvzDkL7CPpE9od) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Iconic Swing, Jazz & Love Songs Collection](https://open.spotify.com/album/7yuzXVRn9Xs6k8NeyIvgiU) | 3:04 |
 | 142 | [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/65QQqNcHU6IyFNYkDFvfjM) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/0gzaSu8JQgiDWm1JSUFbMH) | 4:01 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcQzUgAAAAAbO23Gy4PDMqcfgdV26fvu`
+Snapshot ID: `AcQ48gAAAAB8yHfxs0eW6dTKHJlKF2br`

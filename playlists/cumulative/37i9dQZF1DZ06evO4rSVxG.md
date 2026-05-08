@@ -53,6 +53,6 @@
 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 | 2025-03-11 |  |
 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 | 2025-03-11 |  |
 | [Wild Child](https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:35 | 2025-10-20 |  |
-| [Zebra Dans](https://open.spotify.com/track/4txhR01UkLGUO9jHE759yn) | [Kut Klose](https://open.spotify.com/artist/3g0RlUGYDE7rdAJSnLkNOv), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Zebra Dans](https://open.spotify.com/album/0HvueNunot3yY4htnPg4SC) | 1:16 | 2026-05-07 |  |
+| [Zebra Dans](https://open.spotify.com/track/4txhR01UkLGUO9jHE759yn) | [Kut Klose](https://open.spotify.com/artist/3g0RlUGYDE7rdAJSnLkNOv), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Zebra Dans](https://open.spotify.com/album/0HvueNunot3yY4htnPg4SC) | 1:16 | 2026-05-07 | 2026-05-08 |
 
 \*This playlist was first scraped on 2025-03-11. Prior content cannot be recovered.

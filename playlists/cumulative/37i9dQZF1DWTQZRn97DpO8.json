@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Lolo Zoua\u00ef",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ja\u00efa Rose",
   "name": "le miel",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 187762,
       "name": "Belle \u00e2me",
       "url": "https://open.spotify.com/track/2T1gQEwPWRAh0VLCq5YWts"
@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Chaque Seconde",
+        "url": "https://open.spotify.com/album/3SEPPrl3Jt3TR9IoTBlrp3"
+      },
+      "artists": [
+        {
+          "name": "Lukazam",
+          "url": "https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "Chaque Seconde",
+      "url": "https://open.spotify.com/track/6EsL43PFCLyr8CDsgEGQrs"
+    },
+    {
+      "album": {
         "name": "Des perles et des cendres",
         "url": "https://open.spotify.com/album/43qUSB8OWn8A3R9IbCYSyb"
       },
@@ -1942,6 +1960,24 @@
       "duration_ms": 172897,
       "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
+    },
+    {
+      "album": {
+        "name": "Corps",
+        "url": "https://open.spotify.com/album/28XaGXLznbdMUCznihVeMN"
+      },
+      "artists": [
+        {
+          "name": "Dacey",
+          "url": "https://open.spotify.com/artist/03SPCkSg1W71wU60QnTPbO"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Corps",
+      "url": "https://open.spotify.com/track/238bn38JH21VAUqG5xMWUl"
     },
     {
       "album": {
@@ -3284,7 +3320,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 204324,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/1sv04kUYXAD92I4U37J8IT"
@@ -3624,7 +3660,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 219660,
       "name": "Godbless",
       "url": "https://open.spotify.com/track/3Q11WlnGGnEmnbgtzVDWMF"
@@ -7886,7 +7922,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 150844,
       "name": "Pok\u00e9dex",
       "url": "https://open.spotify.com/track/7etFDkWumoQwKfSHU8BEcX"
@@ -8295,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "Qui de nous",
+        "url": "https://open.spotify.com/album/4YxCsd5KQkMcwU00pqvLLg"
+      },
+      "artists": [
+        {
+          "name": "Lykuin",
+          "url": "https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Qui de nous",
+      "url": "https://open.spotify.com/track/1C7D6PHdEPyRx5SRR6Xf4n"
+    },
+    {
+      "album": {
         "name": "Rappelle-toi",
         "url": "https://open.spotify.com/album/6DUoJ5e2BOuBLfVMkdNpl4"
       },
@@ -8390,6 +8444,24 @@
       "duration_ms": 133928,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/782zOwE3qkVLHHMnbb1dPx"
+    },
+    {
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efa Rose",
+          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
     },
     {
       "album": {

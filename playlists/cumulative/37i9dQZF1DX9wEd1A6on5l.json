@@ -5877,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "Fijabi",
+        "url": "https://open.spotify.com/album/3pxYG4xiLDWs6WOsuWXNyQ"
+      },
+      "artists": [
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232501,
+      "name": "Fijabi",
+      "url": "https://open.spotify.com/track/2oXA1zZ5z7fK4igfWNAojT"
+    },
+    {
+      "album": {
         "name": "FILE FUN",
         "url": "https://open.spotify.com/album/7mHulRGH7jT6ceK4ZlEoQN"
       },
@@ -7270,6 +7288,24 @@
       "duration_ms": 186026,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO"
+    },
+    {
+      "album": {
+        "name": "ITEM VII",
+        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130515,
+      "name": "Greatest Lover",
+      "url": "https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV"
     },
     {
       "album": {
@@ -12230,7 +12266,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
@@ -16723,6 +16759,24 @@
     },
     {
       "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
+    },
+    {
+      "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
       },
@@ -17674,7 +17728,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174050,
       "name": "WILL I EVER",
       "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
@@ -17982,7 +18036,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177004,
       "name": "Yemi Mi Lova",
       "url": "https://open.spotify.com/track/6LwQaDRHKctFHBlz3bYghy"

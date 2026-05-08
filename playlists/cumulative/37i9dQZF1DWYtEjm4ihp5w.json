@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Figoshin",
+  "description": "Cover: Stormy",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179035,
       "name": "'BOUT U",
       "url": "https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 199480,
       "name": "BONBON",
       "url": "https://open.spotify.com/track/7MUp0Ou3sUGc7g2oVOwgjn"
@@ -6076,7 +6076,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 199423,
       "name": "Myst\u00e8re",
       "url": "https://open.spotify.com/track/7zFanGy616pVNrElqZFezE"
@@ -6720,6 +6720,24 @@
       "duration_ms": 165722,
       "name": "Pepete",
       "url": "https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR"
+    },
+    {
+      "album": {
+        "name": "PER LA VITA",
+        "url": "https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "PER LA VITA",
+      "url": "https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW"
     },
     {
       "album": {
@@ -7745,6 +7763,28 @@
     },
     {
       "album": {
+        "name": "Skippi",
+        "url": "https://open.spotify.com/album/3oM4h7xiSlJIJQFHgt5zaF"
+      },
+      "artists": [
+        {
+          "name": "Damost",
+          "url": "https://open.spotify.com/artist/24Bo3rD54ttCU6Z5GsiXaU"
+        },
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Skippi",
+      "url": "https://open.spotify.com/track/2YiOEjz6IgMbDfC2BYJprc"
+    },
+    {
+      "album": {
         "name": "SBITAR",
         "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
       },
@@ -8444,7 +8484,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 138461,
       "name": "TAF TAF",
       "url": "https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW"
@@ -8844,6 +8884,24 @@
       "duration_ms": 160285,
       "name": "Tsali Hna",
       "url": "https://open.spotify.com/track/6fbulsCLH3xzVQV3rIOKg1"
+    },
+    {
+      "album": {
+        "name": "TTH",
+        "url": "https://open.spotify.com/album/0ecDtCHphErDM6u58qoTLa"
+      },
+      "artists": [
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "TTH",
+      "url": "https://open.spotify.com/track/5e2B0cQ76QlP0QjD05Ifu4"
     },
     {
       "album": {
@@ -9540,6 +9598,28 @@
       "duration_ms": 257620,
       "name": "Wlad L'Hazeb",
       "url": "https://open.spotify.com/track/29IkCgFbnBQtl2YOI4FE3n"
+    },
+    {
+      "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf"
+      },
+      "artists": [
+        {
+          "name": "Veintiuno",
+          "url": "https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF"
+        },
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "wonder why",
+      "url": "https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c"
     },
     {
       "album": {

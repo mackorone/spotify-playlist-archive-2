@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Morgan Wallen, Ella Langley",
+  "description": "The cream of today's country crop. Cover: James Johnston",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -5073,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/2X3DZEzld6U84Jdo7tdAGZ"
+      },
+      "artists": [
+        {
+          "name": "Rachael Fahim",
+          "url": "https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205767,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/55WgifFQuCtOnuBL2dvFrz"
+    },
+    {
+      "album": {
         "name": "Deep Water",
         "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
       },
@@ -8644,7 +8662,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 195760,
       "name": "Hey Dallas",
       "url": "https://open.spotify.com/track/0wwXoAsSOvu1S78iD2rXEw"
@@ -8764,6 +8782,24 @@
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
+    {
+      "album": {
+        "name": "high school sweetheart",
+        "url": "https://open.spotify.com/album/7KdJRMPSpI6zxnWV3mWYXL"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191830,
+      "name": "high school sweetheart",
+      "url": "https://open.spotify.com/track/3kxcRsR6yaghkuTwXDZO5Z"
     },
     {
       "album": {
@@ -9396,6 +9432,24 @@
       "duration_ms": 198466,
       "name": "hungover",
       "url": "https://open.spotify.com/track/1p7V6RyEgPPPYRcvJSCpnF"
+    },
+    {
+      "album": {
+        "name": "Hurts Like You & Dollar and a Bottle",
+        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195332,
+      "name": "Hurts Like You",
+      "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
     },
     {
       "album": {
@@ -10598,7 +10652,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 161214,
       "name": "Just Believe",
       "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
@@ -12168,7 +12222,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 172682,
       "name": "MADE FOR THIS",
       "url": "https://open.spotify.com/track/3WigttVRl2GaVfqAy75SlK"
@@ -12732,7 +12786,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
@@ -15366,7 +15420,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 230514,
       "name": "Red Dirt ROCKNROLL",
       "url": "https://open.spotify.com/track/6CjCyi9eNve4rNilYJDDzM"
@@ -16082,6 +16136,24 @@
       "duration_ms": 186673,
       "name": "Runnin' The Country",
       "url": "https://open.spotify.com/track/5NNa1fMOhdCJUgCqzFwmkG"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3pHeFHjnx0tgQXosGsPM0c"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6AOJuGF8ySvVY5uBsRcd8a"
     },
     {
       "album": {
@@ -18541,6 +18613,24 @@
     },
     {
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/1K8Fb2kSg4efx4fNZ8CTXL"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Ten to Midnight",
+      "url": "https://open.spotify.com/track/4hSqdt68bXz9c5xubGyJIl"
+    },
+    {
+      "album": {
         "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
       },
@@ -19143,6 +19233,28 @@
     },
     {
       "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159308,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
+    },
+    {
+      "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
@@ -19548,7 +19660,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 175273,
       "name": "Time Goes On",
       "url": "https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE"

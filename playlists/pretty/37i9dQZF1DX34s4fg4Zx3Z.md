@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶  mới mẻ từ các nghệ sĩ độc lập, được các biên tập Spotify nâng niu chọn lựa bằng cả trái tim\. Ảnh bìa: Solmee\. Thiết kế: Isu Kim
+> Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: Solmee\. Thiết kế: Isu Kim
 
 [Spotify](https://open.spotify.com/user/spotify) - 24,363 likes - 17 songs - 1 hr 6 min
 
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 16 | [Non](https://open.spotify.com/track/5BIFG6sHAxhQt0Idi5w07C) | [PHÚ AN](https://open.spotify.com/artist/6H9QYDEv1BrqhMlTryLXnA) | [Non](https://open.spotify.com/album/2frxZwS3QndYSNbN0bhS3b) | 2:37 |
 | 17 | [Ở nơi bồ câu và quạ sống chung](https://open.spotify.com/track/1AHMR3zQSTPYzWskGutE8K) | [Dreamwork](https://open.spotify.com/artist/65aZV0VGC3Fk2AC4VO7tCw) | [Ở nơi bồ câu và quạ sống chung](https://open.spotify.com/album/1KN3UVzdEugo0JAGtA7x64) | 4:27 |
 
-Snapshot ID: `AAAAABTCDklyGtMM2LVuIXivwP0f/0kN`
+Snapshot ID: `AAAAAGi2Ax3q71INTp7Ta0mrJ0xD5kAb`

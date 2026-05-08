@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸    Cover: BJØRN
+> de skarpeste knive i dansk musik  📸    Cover: Thea Dora
 
-420 songs - 21 hr 32 min
+421 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
 | [I nat er i nat](https://open.spotify.com/track/6hWPrZS18QcAsOQIHU18dD) | [Guldlokk](https://open.spotify.com/artist/3s1ycrMCGyVItSNujZS2cg), [kingtommi](https://open.spotify.com/artist/5SzjbKkjV5vdxP4vZMp2w0) | [I nat er i nat](https://open.spotify.com/album/4WEm63J6RFWKw5ax1X0lLd) | 3:10 | 2025-03-27 | 2025-04-04 |
 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 | 2024-10-18 | 2024-11-28 |
+| [i'll quit quitting](https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [i'll quit quitting](https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk) | 3:18 | 2026-05-07 |  |
 | [I'm Sick of Missing You](https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [Swim\. Søul](https://open.spotify.com/artist/1FTm71bvpmvZcYeLSdBCi0) | [I'm Sick of Missing You](https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ) | 1:52 | 2024-11-21 | 2025-04-01 |
 | [I'm The Man](https://open.spotify.com/track/57aE7FawyhBY7FFHtddVv8) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [I'm The Man](https://open.spotify.com/album/6L0b9s2o7p1pmsAJLog89q) | 2:12 | 2025-03-13 | 2025-03-28 |
 | [Idiot](https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Kraftidiot](https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82) | 2:45 | 2026-02-05 |  |
@@ -423,7 +424,7 @@
 | [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-11 | 2025-10-31 |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |
 | [You Make a Fire, You Make a Camp](https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [You Make a Fire, You Make a Camp](https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I) | 8:53 | 2026-04-23 |  |
-| [You Want The World](https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [You Want The World](https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS) | 2:42 | 2026-03-20 |  |
+| [You Want The World](https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [You Want The World](https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS) | 2:42 | 2026-03-20 | 2026-05-08 |
 | [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-08 |
 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 | 2025-07-03 | 2025-08-12 |
 | [Åbner Mit Hjerte Op](https://open.spotify.com/track/38CTgqDetumc5aPBJZ9MQl) | [Tredjeperson](https://open.spotify.com/artist/3lNT9IzIJt2jRxFprNJa27) | [Åbner Mit Hjerte Op](https://open.spotify.com/album/1u8Y1IYbLB5VDXqgqE2Tpc) | 3:20 | 2025-11-13 | 2026-01-05 |

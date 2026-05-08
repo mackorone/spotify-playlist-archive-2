@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: IKNOWFELIPE, Yuri Redicopa, Danzo, Oklin",
-  "num_followers": 134969,
+  "num_followers": 134968,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
-        "name": "KayBlack & Burna Boy - Spotify Sessions",
-        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 165540,
-      "name": "TaTaTa - Spotify Sessions",
-      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
         "name": "Yeezy Slide \"REMIX\"",
         "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "KayBlack & Burna Boy - Spotify Sessions",
+        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 165540,
+      "name": "TaTaTa - Spotify Sessions",
+      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
     },
     {
       "added_at": "2026-05-01 03:02:13",
@@ -547,46 +547,6 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
-        "name": "Psicol\u00f3gico 2",
-        "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
-      },
-      "artists": [
-        {
-          "name": "Akashi Cruz",
-          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Psicol\u00f3gico 2",
-      "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "ADRENALINA",
-        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
-      },
-      "artists": [
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "ADRENALINA",
-      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
         "name": "Briga, Separa e Volta",
         "url": "https://open.spotify.com/album/33wIcwUUN0RrQbMJTixPm2"
       },
@@ -631,6 +591,46 @@
       "duration_ms": 405194,
       "name": "Briga, Separa e Volta",
       "url": "https://open.spotify.com/track/2yPwm3MY1gEvgwZgwJkUv4"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
+      },
+      "artists": [
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "Psicol\u00f3gico 2",
+        "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Psicol\u00f3gico 2",
+      "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
     },
     {
       "added_at": "2026-05-01 03:02:13",

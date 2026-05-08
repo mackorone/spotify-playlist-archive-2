@@ -266,7 +266,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 188000,
       "name": "26",
       "url": "https://open.spotify.com/track/6wq736cFWuCe25htCxodRj"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177500,
       "name": "A tempo",
       "url": "https://open.spotify.com/track/7w3VgH4e2oqsSQXOy2k4IY"
@@ -800,6 +800,28 @@
       "duration_ms": 235897,
       "name": "AKEREKOR\u00c8",
       "url": "https://open.spotify.com/track/6iVfvR1NkJR4dWOABIwIAA"
+    },
+    {
+      "album": {
+        "name": "Alain Delon (feat. Livio Cori)",
+        "url": "https://open.spotify.com/album/7dYoCiGvAmqx86H8DDot76"
+      },
+      "artists": [
+        {
+          "name": "MONIA",
+          "url": "https://open.spotify.com/artist/0tkXc6TxpenV4sRjT1TiPo"
+        },
+        {
+          "name": "Livio Cori",
+          "url": "https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157532,
+      "name": "Alain Delon (feat. Livio Cori)",
+      "url": "https://open.spotify.com/track/6BKKTXIu5B0qFV1STTcFyo"
     },
     {
       "album": {
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 206511,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/3ggUVM4KKzWd3o9OizwMh1"
@@ -3383,6 +3405,28 @@
     },
     {
       "album": {
+        "name": "Che Cosa Stupida",
+        "url": "https://open.spotify.com/album/6ZuYV2jhhHDFCAnyQ7fKJW"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Girotti",
+          "url": "https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak"
+        },
+        {
+          "name": "Ugo Crepa",
+          "url": "https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182856,
+      "name": "Che Cosa Stupida",
+      "url": "https://open.spotify.com/track/79lVN41AjcgQ3RbAiMZisd"
+    },
+    {
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF"
       },
@@ -3446,7 +3490,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 123042,
       "name": "chi ami stasera",
       "url": "https://open.spotify.com/track/3ppZt0pU30VhSg65lwo5em"
@@ -5487,6 +5531,32 @@
     },
     {
       "album": {
+        "name": "RADICI",
+        "url": "https://open.spotify.com/album/15l08JTrEyeLe13YBvDlwP"
+      },
+      "artists": [
+        {
+          "name": "BEA",
+          "url": "https://open.spotify.com/artist/6v3GclaeAI15MfDOPY6alo"
+        },
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240996,
+      "name": "Distanze",
+      "url": "https://open.spotify.com/track/67Dr1LCw5W9rNcig6wsHkw"
+    },
+    {
+      "album": {
         "name": "COZY",
         "url": "https://open.spotify.com/album/5EbIbJteQS715xuXKQwRxJ"
       },
@@ -6504,7 +6574,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 165581,
       "name": "Filosofia Dello Stare Bene",
       "url": "https://open.spotify.com/track/42z88dhlj7hs3HxvG3B0jt"
@@ -10107,6 +10177,24 @@
     },
     {
       "album": {
+        "name": "Luciana",
+        "url": "https://open.spotify.com/album/0KZX3BSDChIfHtLuY8L2Yg"
+      },
+      "artists": [
+        {
+          "name": "HALMA",
+          "url": "https://open.spotify.com/artist/6fHqnyyOIUzlwn004AyuvR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156094,
+      "name": "Luciana",
+      "url": "https://open.spotify.com/track/5NST2Ocu51skAfdPV7z6r4"
+    },
+    {
+      "album": {
         "name": "Lucky Strike (feat. Hermes & 3 di Fiori)",
         "url": "https://open.spotify.com/album/3f2u1DrrW9DkhqQbj3RwJN"
       },
@@ -10354,7 +10442,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 215478,
       "name": "M(Elodie)",
       "url": "https://open.spotify.com/track/0hTXL8Q9jJHm63Kxhd3UFT"
@@ -14036,7 +14124,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 286021,
       "name": "Pensaci",
       "url": "https://open.spotify.com/track/6rhAAETUcv5R4WgQMRne32"
@@ -14392,6 +14480,24 @@
       "duration_ms": 160115,
       "name": "Pita Gyros",
       "url": "https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu"
+    },
+    {
+      "album": {
+        "name": "Piume",
+        "url": "https://open.spotify.com/album/1pA2qbqQGtEVTaOIzXUzGG"
+      },
+      "artists": [
+        {
+          "name": "MEZZANERA",
+          "url": "https://open.spotify.com/artist/5mzvaN29YKtfK4wmctgEqv"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177849,
+      "name": "Piume",
+      "url": "https://open.spotify.com/track/3e6NpgKdxjOhzjJPVReisy"
     },
     {
       "album": {
@@ -19385,6 +19491,24 @@
     },
     {
       "album": {
+        "name": "Una come me",
+        "url": "https://open.spotify.com/album/7ncl0fEbwcsfratBx4R8DM"
+      },
+      "artists": [
+        {
+          "name": "saera",
+          "url": "https://open.spotify.com/artist/5jNAmxcFbMjrPETnJ2P9Lh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Una come me",
+      "url": "https://open.spotify.com/track/4GmlCBdKFryWqo4YvlvxzP"
+    },
+    {
+      "album": {
         "name": "UNA FORMICA AL SOLE",
         "url": "https://open.spotify.com/album/2FDPrIYtni1WLSrIYAOTji"
       },
@@ -19684,6 +19808,28 @@
       "duration_ms": 186739,
       "name": "VACANZE ROMANE",
       "url": "https://open.spotify.com/track/3F5xoT8lQhOWVR69JXJSaj"
+    },
+    {
+      "album": {
+        "name": "Valore",
+        "url": "https://open.spotify.com/album/2BNobPzK2vWh3HpcZwNli3"
+      },
+      "artists": [
+        {
+          "name": "Katarina",
+          "url": "https://open.spotify.com/artist/74DCdUBDZRvM0oHxc8RfyV"
+        },
+        {
+          "name": "Fandino",
+          "url": "https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196619,
+      "name": "Valore",
+      "url": "https://open.spotify.com/track/3iySOgi19KkgAuJYzXX0Br"
     },
     {
       "album": {

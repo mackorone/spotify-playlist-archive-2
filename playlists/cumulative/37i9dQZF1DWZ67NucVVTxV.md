@@ -4,7 +4,7 @@
 
 > My enemy nah sapa
 
-867 songs - 1 day 17 hr 10 min
+871 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/2lmfZ6qrn17iG01MEx74bs) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/album/3rkabBLFLtoodzjSQug4B3) | 4:10 | 2023-10-20 | 2023-10-21 |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 | 2024-06-28 |
 | [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-06-22 | 2023-07-14 |
+| [Ashes](https://open.spotify.com/track/26GUuKYLIn6sLEQ157UaHD) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Ashes](https://open.spotify.com/album/2WfH8NV1dO7gBh3Bez0qZ6) | 2:44 | 2026-05-08 |  |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 | 2024-01-13 |
 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 | 2024-06-21 |
 | [Asuoden](https://open.spotify.com/track/7Jhg0wUE87NsCY21UdVfu2) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Asuoden](https://open.spotify.com/album/4WANfxrP1zuuX4oxBSek38) | 3:35 | 2024-04-05 | 2024-04-19 |
@@ -169,6 +170,7 @@
 | [Celebrate \(feat\. Black Sherif\)](https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Great Is He \(Deluxe\)](https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o) | 3:47 | 2023-03-30 | 2023-07-14 |
 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 | 2024-06-21 |  |
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2021-11-18 | 2023-04-28 |
+| [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 | 2026-05-08 |  |
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 | 2023-04-28 |
 | [Chasing Wind](https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Chasing Wind](https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY) | 3:38 | 2023-06-22 | 2023-07-29 |
 | [Chele](https://open.spotify.com/track/0jc9ZINJTzhaZlhF95Tx2Q) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [Chele](https://open.spotify.com/album/4WL9btBwHahqGtBO0uaxqQ) | 2:53 | 2022-09-23 | 2022-10-14 |
@@ -598,6 +600,7 @@
 | [One or Two](https://open.spotify.com/track/39677hmgIO3QESf9ensp8p) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [AXAD](https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig) | [One or Two](https://open.spotify.com/album/4mtmWSfOnpFJ7oVSkw4BTP) | 2:32 | 2024-03-22 | 2024-04-19 |
 | [ONIPA](https://open.spotify.com/track/2KKwU8ObJcEGD5pnFZzbcI) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/7CG7pUu4tJwzO20syeUcrb) | 2:55 | 2022-07-22 | 2022-08-06 |
 | [ONIPA \- Acoustic Version](https://open.spotify.com/track/4cpBKUEOatwGt5Z7L5ywFY) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/33eyXj6JBjWBiulTICXGg8) | 2:49 | 2022-10-13 | 2022-10-22 |
+| [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 | 2026-05-08 |  |
 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 | 2024-04-19 | 2024-05-03 |
 | [OOSHATIDE](https://open.spotify.com/track/7oPLuA6UwAK03WyehFQwxc) | [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [OOSHATIDE](https://open.spotify.com/album/5TTZ4igqHmDM6CORsB3b4e) | 2:54 | 2023-09-09 | 2023-09-22 |
 | [Ordinary Person](https://open.spotify.com/track/26pB3AyHUcr3kKzQ1pqI2p) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv) | [Ordinary Person](https://open.spotify.com/album/330aocYKRwYpK7qMwr2Oob) | 2:50 | 2025-05-09 | 2025-05-24 |
@@ -789,6 +792,7 @@
 | [Tomorrow](https://open.spotify.com/track/0UvMp8sLgiaeI1q5dAWM2x) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Tomorrow](https://open.spotify.com/album/2sydbZbc7bIHVVk022HevT) | 2:55 | 2023-02-10 | 2023-03-11 |
 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 | 2024-05-17 | 2024-06-15 |
 | [Tomorrow \- Refix](https://open.spotify.com/track/4MDGYNmyl71mIFdJOQThmz) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Loud Urban Choir](https://open.spotify.com/artist/3eIsfhgIbABrAt2A6O2mAV) | [Tomorrow \(Refix\)](https://open.spotify.com/album/57gG8TMXmuthdYSe8BZpDB) | 2:30 | 2024-06-21 | 2024-06-28 |
+| [Tomorrow Fi Bi Lagos](https://open.spotify.com/track/4JFQmn2ahhGECceuhk9YOc) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [Tomorrow Fi Bi Lagos](https://open.spotify.com/album/4isDexy7JId4mRr0K16bIo) | 2:08 | 2026-05-08 |  |
 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 | 2024-06-07 | 2024-07-19 |
 | [Top boy](https://open.spotify.com/track/5bNrw93KICO89I5GR1htB0) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Top boy](https://open.spotify.com/album/0OMCgrvynFZoiqgwoqQuoz) | 2:34 | 2025-05-09 | 2026-02-06 |
 | [TOWN BOY.](https://open.spotify.com/track/68Uypk76czvoUelZtBJipr) | [ajofé.](https://open.spotify.com/artist/2xDBC3wszVDoVcCZTiW2iE) | [TOWN BOY.](https://open.spotify.com/album/1uPZXWLWuVafYWv1pOAOnk) | 2:54 | 2025-08-01 | 2025-08-30 |

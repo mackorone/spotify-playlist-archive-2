@@ -2,15 +2,15 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Roseline Layo
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : DJ Arafat
 
-294 songs - 15 hr 58 min
+295 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 cui](https://open.spotify.com/track/2BY9PGyqjKspnG164zJlan) | [NOVA BINKS](https://open.spotify.com/artist/5HedNXMMeY0KqV6b016Iwl), [Tazeboy](https://open.spotify.com/artist/1hEcm27zsI2iN9G9LS9dwO), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [1 cui](https://open.spotify.com/album/2HGs32nJYb3JstUqO0n7It) | 2:29 | 2024-06-13 | 2025-08-22 |
 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 | 2023-05-04 | 2024-12-06 |
-| [13500 Volts](https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [13500 Volts](https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT) | 3:30 | 2025-12-18 |  |
+| [13500 Volts](https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [13500 Volts](https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT) | 3:30 | 2025-12-18 | 2026-05-08 |
 | [225](https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk) | [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [+225](https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K) | 3:51 | 2023-01-05 | 2023-02-03 |
 | [2K225](https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225](https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz) | 2:21 | 2025-08-28 |  |
 | [6 Devient 9](https://open.spotify.com/track/7lVT7yMP4OkhMKj0lvA5LG) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [6 Devient 9](https://open.spotify.com/album/0RstvcWCinIJRwbwi7p3NY) | 2:50 | 2025-10-02 |  |
@@ -131,6 +131,7 @@
 | [Garant](https://open.spotify.com/track/5TeUWWHx72QJSgLmS03qjg) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Garant](https://open.spotify.com/album/2ftu1WjXPD3lpSMQyapwl7) | 3:52 | 2025-03-27 | 2025-10-03 |
 | [Gatement](https://open.spotify.com/track/6bBDszeIuIPd21f8hyf8xr) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Gatement](https://open.spotify.com/album/13OOXMCOjAghbNn9CT9JWJ) | 3:01 | 2025-12-11 |  |
 | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 | 2025-04-10 | 2025-10-10 |
+| [Gbachina](https://open.spotify.com/track/3Pqqojb8FEEjNAs5lGmZfU) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Unique](https://open.spotify.com/album/4wsS0vbxRyaG7AR5pIluwe) | 3:48 | 2026-05-07 |  |
 | [Gbrokoto gbrakata](https://open.spotify.com/track/2P8xD8TqtVzoj8taYLcNnz) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Gbrokoto gbrakata](https://open.spotify.com/album/3gY7HkUtDfVfU1ltVRtHUY) | 3:11 | 2025-12-18 | 2026-02-20 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 | 2023-04-28 |
 | [Gnamakoro Kakoh](https://open.spotify.com/track/5tpJQotwRNHhSbiEHYOZeO) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Gnamakoro Kakoh](https://open.spotify.com/album/1w6s8QQC0VQNV4af7uCYJD) | 2:51 | 2023-05-04 | 2023-06-30 |

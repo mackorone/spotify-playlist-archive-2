@@ -655,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147396,
+      "name": "Bacio del Cobra (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/00b18mcpPYwLZtFYWqbDgN"
+    },
+    {
+      "album": {
         "name": "SKINNY BABY",
         "url": "https://open.spotify.com/album/5IMeTLBNo9M0LUxaHZFx4E"
       },
@@ -2800,7 +2826,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 148105,
       "name": "G Class",
       "url": "https://open.spotify.com/track/4XcQdx9CH6hjwBkgsZNGIh"

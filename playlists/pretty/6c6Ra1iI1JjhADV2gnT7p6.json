@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60057,
+  "num_followers": 60059,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA6nUvrY245a8++Cr626R64ugX22E+T",
+  "snapshot_id": "AAA6o96Lumw36cuHhjK5jo4Y1Imp9PQV",
   "tracks": [
     {
       "added_at": "2026-05-02 17:31:52",
@@ -135,6 +135,54 @@
       "duration_ms": 183613,
       "name": "MISERY",
       "url": "https://open.spotify.com/track/0RV1LKT7PkZuvMnoi6C2wj"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "love/guilt",
+        "url": "https://open.spotify.com/album/5EjCAi3JUihX2gmim4h5aH"
+      },
+      "artists": [
+        {
+          "name": "Still Blank",
+          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
+        }
+      ],
+      "duration_ms": 185190,
+      "name": "love/guilt",
+      "url": "https://open.spotify.com/track/0iZ0ga0ydu5Zje80qU2rzH"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "youbet",
+        "url": "https://open.spotify.com/album/2ugIuBNRKDaj2HHTAk4grQ"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Fertile Eyes",
+      "url": "https://open.spotify.com/track/3cefBJCZLFSIRi8UU85TwG"
+    },
+    {
+      "added_at": "2026-05-02 17:31:52",
+      "album": {
+        "name": "Let Us Make You Money",
+        "url": "https://open.spotify.com/album/3lJoImFXVNwRQZdhAxytF4"
+      },
+      "artists": [
+        {
+          "name": "Sadie and the Ladies",
+          "url": "https://open.spotify.com/artist/52f3LU6yfvwIyWBKJkLIa0"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Let Us Make You Money",
+      "url": "https://open.spotify.com/track/40ajBxszLyBSD0tYJKlMU0"
     },
     {
       "added_at": "2026-05-02 17:31:52",
@@ -983,54 +1031,6 @@
       "duration_ms": 275253,
       "name": "Drool",
       "url": "https://open.spotify.com/track/4QjzdoNudfNDCtfNIjud0Z"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "love/guilt",
-        "url": "https://open.spotify.com/album/5EjCAi3JUihX2gmim4h5aH"
-      },
-      "artists": [
-        {
-          "name": "Still Blank",
-          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
-        }
-      ],
-      "duration_ms": 185190,
-      "name": "love/guilt",
-      "url": "https://open.spotify.com/track/0iZ0ga0ydu5Zje80qU2rzH"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "youbet",
-        "url": "https://open.spotify.com/album/2ugIuBNRKDaj2HHTAk4grQ"
-      },
-      "artists": [
-        {
-          "name": "youbet",
-          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Fertile Eyes",
-      "url": "https://open.spotify.com/track/3cefBJCZLFSIRi8UU85TwG"
-    },
-    {
-      "added_at": "2026-05-02 17:31:52",
-      "album": {
-        "name": "Let Us Make You Money",
-        "url": "https://open.spotify.com/album/3lJoImFXVNwRQZdhAxytF4"
-      },
-      "artists": [
-        {
-          "name": "Sadie and the Ladies",
-          "url": "https://open.spotify.com/artist/52f3LU6yfvwIyWBKJkLIa0"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Let Us Make You Money",
-      "url": "https://open.spotify.com/track/40ajBxszLyBSD0tYJKlMU0"
     },
     {
       "added_at": "2026-05-02 17:31:52",

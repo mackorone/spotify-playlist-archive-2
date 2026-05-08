@@ -805,6 +805,28 @@
     },
     {
       "album": {
+        "name": "APOLLO (feat. \u6843\u5b50A1J)",
+        "url": "https://open.spotify.com/album/4lJ4z4ne9vY7BcwCrBLZsL"
+      },
+      "artists": [
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        },
+        {
+          "name": "\u6843\u5b50A1J",
+          "url": "https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244465,
+      "name": "APOLLO (feat. \u6843\u5b50A1J)",
+      "url": "https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg"
+    },
+    {
+      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
       },
@@ -3763,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298194,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
+    },
+    {
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -4052,7 +4092,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 228750,
       "name": "Hell suite, Pt. II",
       "url": "https://open.spotify.com/track/1rQz1sbJCB2m2M6BUiQqB7"
@@ -4638,7 +4678,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 232820,
       "name": "I know",
       "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
@@ -6994,7 +7034,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 230908,
       "name": "Okay, Goodbye",
       "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -8574,7 +8614,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 254400,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5j7HESfa8OXs3hTqQ1ZvnR"
@@ -11866,7 +11906,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 183709,
       "name": "\u5dee\u3057\u8272",
       "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
@@ -12014,6 +12054,24 @@
       "duration_ms": 283914,
       "name": "\u611b\u3092\u77e5\u3063\u305f\u3093\u3060",
       "url": "https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C"
+    },
+    {
+      "album": {
+        "name": "What if\u2026",
+        "url": "https://open.spotify.com/album/2nisoEDYXGFKZnT7nXfHez"
+      },
+      "artists": [
+        {
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "\u63a5\u543b -kiss- (ORIGINAL LOVE 1993)",
+      "url": "https://open.spotify.com/track/0oUwQhusb5Uzdf64Wf3R04"
     },
     {
       "album": {

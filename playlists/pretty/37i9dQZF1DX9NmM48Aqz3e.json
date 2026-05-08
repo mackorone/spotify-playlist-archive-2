@@ -1,29 +1,13 @@
 {
   "description": "Favourites from Canadians who dominated the 1990s. Cover: C\u00e9line Dion",
-  "num_followers": 81753,
+  "num_followers": 81846,
   "original_name": "Canadian Gold: 1990s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZjp0uLLJaLj3tukh7gsGN1C1RK",
+  "snapshot_id": "AAAAAG4ULtcNsds+wfbOu0iHvjWgeomS",
   "tracks": [
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/55UPmpHLvZKGgTPUD1woES"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 456866,
-      "name": "It's All Coming Back to Me Now",
-      "url": "https://open.spotify.com/track/2JRicL2f8tJl9TiQlH7vbJ"
-    },
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 218712,
       "name": "That Don't Impress Me Much - Edit",
       "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/55UPmpHLvZKGgTPUD1woES"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/2JRicL2f8tJl9TiQlH7vbJ"
     },
     {
       "added_at": "2024-12-13 05:00:04",

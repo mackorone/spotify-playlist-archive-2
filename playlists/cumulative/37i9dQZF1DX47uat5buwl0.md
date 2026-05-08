@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Lil Kleine 🔥
 
-165 songs - 7 hr 14 min
+166 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bro Code](https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Bro Code](https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea) | 2:11 | 2025-07-17 | 2025-09-10 |
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-07-17 | 2025-11-14 |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-07-17 | 2025-09-26 |
+| [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 | 2026-05-07 |  |
 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 | 2025-07-17 | 2026-04-03 |
 | [Da's Brunzynbaby](https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Da's Brunzynbaby](https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l) | 2:03 | 2025-08-25 | 2025-10-07 |
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-17 | 2025-09-05 |
@@ -146,7 +147,7 @@
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-07-17 | 2025-09-26 |
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-07-17 | 2026-01-15 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2025-07-17 | 2026-01-16 |
-| [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 | 2026-01-13 |  |
+| [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 | 2026-01-13 | 2026-05-08 |
 | [Tropical Mami](https://open.spotify.com/track/6DlTkjyvBLrQVHnTJnwqMU) | [Noise Cartel](https://open.spotify.com/artist/5yDz8X7IIvH7PheEXbo3VN), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Tropical Mami](https://open.spotify.com/album/5yL59VsRdLb1gIWR6qaY2b) | 2:13 | 2025-07-17 | 2025-10-08 |
 | [tutututututu](https://open.spotify.com/track/7zbMhwqbFLjSi7Tuh4w4sR) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [tutututututu](https://open.spotify.com/album/1tCcfIT6r9t2Q4lkjDX6mu) | 2:38 | 2026-05-04 |  |
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-03-04 |  |

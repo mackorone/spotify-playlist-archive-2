@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Tauran",
+  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Livay & Aaron Blommaert",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 95563,
       "name": "4 Seizoenen",
       "url": "https://open.spotify.com/track/5uhf2Z3BYGaYD98MtlshaU"
@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Dan Denk Aan Jou",
+        "url": "https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204494,
+      "name": "Als Ik Dan Denk Aan Jou",
+      "url": "https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7"
+    },
+    {
+      "album": {
         "name": "Als Ik God Was",
         "url": "https://open.spotify.com/album/3nqQbZABmtHrz6T7coZ4QG"
       },
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 156585,
       "name": "Als je eerlijk bent, Ben",
       "url": "https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5"
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 184760,
       "name": "Beter Zo",
       "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 149589,
       "name": "Carri\u00e8re & De Liefde",
       "url": "https://open.spotify.com/track/2yXTOinA170JZPUDdFCmYr"
@@ -9221,6 +9239,24 @@
     },
     {
       "album": {
+        "name": "Dicht Bij Mij",
+        "url": "https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Hoe Wij Hier Samen Staan",
+      "url": "https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc"
+    },
+    {
+      "album": {
         "name": "Hoe Zit Het Met Ons?",
         "url": "https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis"
       },
@@ -10078,7 +10114,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 143168,
       "name": "Iedereen Gaat Vreemd",
       "url": "https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81"
@@ -11117,6 +11153,24 @@
     },
     {
       "album": {
+        "name": "Jaar Na Jaar",
+        "url": "https://open.spotify.com/album/2bJHVGM3m64bOaxgWiFOy0"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Jaar Na Jaar",
+      "url": "https://open.spotify.com/track/2Yi9J5Z5U6a34l5enJgnkN"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
         "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
       },
@@ -11521,6 +11575,24 @@
     },
     {
       "album": {
+        "name": "Jong & Dom",
+        "url": "https://open.spotify.com/album/00YkFHItYazV2hJ1SU6d9g"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187488,
+      "name": "Jong & Dom",
+      "url": "https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng"
+    },
+    {
+      "album": {
         "name": "Jonge Zelf",
         "url": "https://open.spotify.com/album/4xMbpM9TTBrEXkLmRA9Ywd"
       },
@@ -11572,7 +11644,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 153529,
       "name": "Jouw Adres",
       "url": "https://open.spotify.com/track/0daNdINz7hhgm7KYRswsKJ"
@@ -11698,7 +11770,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 189703,
       "name": "Kaartenspel",
       "url": "https://open.spotify.com/track/6CUnn1kZU7v9mmADfraQsx"
@@ -11720,6 +11792,24 @@
       "duration_ms": 184187,
       "name": "Kalmeer Me",
       "url": "https://open.spotify.com/track/6kfxfUbKtyZbAdcW3zxz0E"
+    },
+    {
+      "album": {
+        "name": "Kamer 108",
+        "url": "https://open.spotify.com/album/7LCZCS9i1EWxSg8d67vvhA"
+      },
+      "artists": [
+        {
+          "name": "JASHA",
+          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147968,
+      "name": "Kamer 108",
+      "url": "https://open.spotify.com/track/44BOIyfmdLUIrfgmuApqbG"
     },
     {
       "album": {
@@ -12782,7 +12872,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 205994,
       "name": "Laat ons hier maar alleen",
       "url": "https://open.spotify.com/track/52iWnKGnQfjOTcx7MMj2KP"
@@ -12858,7 +12948,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 132520,
       "name": "Laatste Keer",
       "url": "https://open.spotify.com/track/1FHt4YSHoOmjtQmdBdhbLx"
@@ -13766,6 +13856,24 @@
       "duration_ms": 168833,
       "name": "Los Van Angst",
       "url": "https://open.spotify.com/track/3HYnt1qY5NWg6SIOxlw0gJ"
+    },
+    {
+      "album": {
+        "name": "Los Vast",
+        "url": "https://open.spotify.com/album/0gZRLYSNDUMeIfzxrPoxWr"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189218,
+      "name": "Los Vast",
+      "url": "https://open.spotify.com/track/0J4y7Cg7IbNcje8MehpqSf"
     },
     {
       "album": {
@@ -14734,7 +14842,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 190086,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
@@ -15430,7 +15538,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 204671,
       "name": "Neem Me",
       "url": "https://open.spotify.com/track/2a9wO4W7vJHURI1mtBhvcV"
@@ -16566,7 +16674,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 201118,
       "name": "Oktober",
       "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
@@ -17311,6 +17419,28 @@
     },
     {
       "album": {
+        "name": "Parkje Biertje Vrienden",
+        "url": "https://open.spotify.com/album/4VcuSYw09qQv2Kf1CCTCuk"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154202,
+      "name": "Parkje Biertje Vrienden",
+      "url": "https://open.spotify.com/track/3u5ktXVlv9HwRKLd0RLUUj"
+    },
+    {
+      "album": {
         "name": "Parler Fran\u00e7ais",
         "url": "https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh"
       },
@@ -17914,7 +18044,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 166857,
       "name": "Rivier",
       "url": "https://open.spotify.com/track/6CfzdRvHnvo9jcy7Zxd8wC"
@@ -18560,7 +18690,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 190443,
       "name": "Schuilen Voor De Regen",
       "url": "https://open.spotify.com/track/5HCYmzA1iJW9LNWPnbzbx6"
@@ -20451,6 +20581,24 @@
     },
     {
       "album": {
+        "name": "Wervelwind",
+        "url": "https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU"
+    },
+    {
+      "album": {
         "name": "Tranen Om Te Lachen",
         "url": "https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp"
       },
@@ -20484,6 +20632,28 @@
       "duration_ms": 168139,
       "name": "Tranen Op Papier",
       "url": "https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y"
+    },
+    {
+      "album": {
+        "name": "Tranen Van Goud",
+        "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        },
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141696,
+      "name": "Tranen Van Goud",
+      "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
     },
     {
       "album": {
@@ -21561,6 +21731,24 @@
     },
     {
       "album": {
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
+    },
+    {
+      "album": {
         "name": "Jongen Uit De Stad",
         "url": "https://open.spotify.com/album/1Z8FFVmqvUf3YpqsQf8ztr"
       },
@@ -21822,7 +22010,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 166366,
       "name": "Voor Eens En Voor Altijd",
       "url": "https://open.spotify.com/track/1AWW0BLQ9lf2nkyAgXoC0V"
@@ -22210,7 +22398,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168442,
       "name": "Waar Ben Jij Geweest",
       "url": "https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM"
@@ -23232,7 +23420,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 165818,
       "name": "Winterkind",
       "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"

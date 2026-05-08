@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Arcadi Volodos
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,152 likes - 77 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,155 likes - 77 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

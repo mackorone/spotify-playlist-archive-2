@@ -4525,6 +4525,32 @@
     },
     {
       "album": {
+        "name": "IMAYE",
+        "url": "https://open.spotify.com/album/6l9QzVbtnlN4BTrO7ZQZ3O"
+      },
+      "artists": [
+        {
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Roshan Jamrock",
+          "url": "https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "IMAYE",
+      "url": "https://open.spotify.com/track/5PL0PtPlaSjH6eQdA9WfFS"
+    },
+    {
+      "album": {
         "name": "Imaye (From \"Think Specials\")",
         "url": "https://open.spotify.com/album/56m9UEPRLqXL6dMJJPtU3l"
       },

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: Asake
+> Nigeria's hottest tracks\.  Cover: BNXN & Sarz
 
 614 songs - 1 day 5 hr 38 min
 

@@ -5127,6 +5127,28 @@
     },
     {
       "album": {
+        "name": "Lige Her, Lige Nu",
+        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172844,
+      "name": "Bliv hvor du er",
+      "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
+    },
+    {
+      "album": {
         "name": "Bliv hvor du er",
         "url": "https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid"
       },
@@ -5146,28 +5168,6 @@
       "duration_ms": 172844,
       "name": "Bliv hvor du er",
       "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
-    },
-    {
-      "album": {
-        "name": "Lige Her, Lige Nu",
-        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "date_added": "2026-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172844,
-      "name": "Bliv hvor du er (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
     },
     {
       "album": {
@@ -5926,7 +5926,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177385,
       "name": "Brugt mine dage",
       "url": "https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E"
@@ -20124,6 +20124,24 @@
       "duration_ms": 237329,
       "name": "Hugos Vuggevise",
       "url": "https://open.spotify.com/track/6o7Araj8IZRSBA2hTJMcbF"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "album": {

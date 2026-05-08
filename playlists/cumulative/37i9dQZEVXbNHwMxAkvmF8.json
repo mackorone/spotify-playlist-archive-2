@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/24EifBPkwBMG3ohCeA7AUh"
@@ -8700,7 +8700,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -9198,6 +9198,24 @@
       "duration_ms": 209400,
       "name": "Egyed\u00fcl - Megb*sztam ezt a kis g\u00e1dzsit",
       "url": "https://open.spotify.com/track/7iH7aaTtLCZ9OdFkGAv7MB"
+    },
+    {
+      "album": {
+        "name": "Egyszer azt \u00e1lmodtam demo",
+        "url": "https://open.spotify.com/album/4dHLgZJzbF3JN8FJe0FOxZ"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88282,
+      "name": "Egyszer azt \u00e1lmodtam demo",
+      "url": "https://open.spotify.com/track/6tb0dtpdKcn2b7kXIRlupM"
     },
     {
       "album": {
@@ -12792,7 +12810,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 159041,
       "name": "HAHO",
       "url": "https://open.spotify.com/track/6oWv1qbZAaolGNDgLkCKeZ"
@@ -14294,7 +14312,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 163636,
       "name": "HYPE",
       "url": "https://open.spotify.com/track/3HaneqoeS3SQSWuOofOAIP"
@@ -16914,7 +16932,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 140689,
       "name": "Klitorisz",
       "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"

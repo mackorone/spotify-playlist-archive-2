@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 386240,
+  "num_followers": 386248,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/3UEsMApmagWq63RApvoAER"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Standing In The Shadows",
-      "url": "https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "Burning Memories",
         "url": "https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 149200,
       "name": "Burning Memories - Single Version",
       "url": "https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/3UEsMApmagWq63RApvoAER"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Standing In The Shadows",
+      "url": "https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1415,22 +1415,34 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
-        "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
+        "name": "At Folsom Prison (Legacy Edition)",
+        "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
       },
       "artists": [
         {
           "name": "Johnny Cash",
           "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Jackson (with June Carter Cash)",
-      "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
+      "duration_ms": 156426,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1447,22 +1459,6 @@
       "duration_ms": 149546,
       "name": "Misery Loves Company",
       "url": "https://open.spotify.com/track/1wBb03d9IaI6PHFeR438jP"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1499,18 +1495,38 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "At Folsom Prison (Legacy Edition)",
-        "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
+        "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
+        "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
       "artists": [
         {
           "name": "Johnny Cash",
           "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 156426,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
-      "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
+      "duration_ms": 166266,
+      "name": "Jackson (with June Carter Cash)",
+      "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Send Me The Pillow You Dream On",
+      "url": "https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
         "name": "20 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 239066,
       "name": "Honey - 1991 - Remaster",
       "url": "https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     }
   ],
   "unique_name": "60s Country",

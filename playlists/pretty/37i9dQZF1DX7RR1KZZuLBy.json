@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 67123,
+  "num_followers": 67136,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP65VOq4onjCz6R0cbUE+MYYkmZh",
+  "snapshot_id": "AAAAAJdUspIiYV7mkv0opZM+nIBT8jmN",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -931,7 +931,7 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Glory in His Presence",
+        "name": "Glory in His Presence (Live)",
         "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
       },
       "artists": [
@@ -941,7 +941,7 @@
         }
       ],
       "duration_ms": 655253,
-      "name": "Bow Down and Worship (Live)",
+      "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
     },
     {

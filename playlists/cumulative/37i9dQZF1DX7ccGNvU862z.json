@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Z9, BLVCKHEART",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Sexski",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -4895,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "NEVER BROKE AGAIN",
+        "url": "https://open.spotify.com/album/3gTr6OHQTPPeCKiUtmhyl5"
+      },
+      "artists": [
+        {
+          "name": "G-Bear",
+          "url": "https://open.spotify.com/artist/5B3DHZuVuSCKONCjAEaoib"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "NEVER BROKE AGAIN",
+      "url": "https://open.spotify.com/track/33kjKh7KVTDj7EPzGT4q5u"
+    },
+    {
+      "album": {
         "name": "Never mind",
         "url": "https://open.spotify.com/album/2wht6csVEUuPIVGgbswMYI"
       },
@@ -6540,7 +6562,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 157033,
       "name": "SHE IS TOTALLY OUT OF MY LEAGUE (feat. Z9)",
       "url": "https://open.spotify.com/track/2UzdM3S5SrnjLCwQsleGrM"
@@ -7814,6 +7836,28 @@
       "duration_ms": 130000,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2qI6vRSsYTN8L0YzRpdrSS"
+    },
+    {
+      "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/0nO58GJuw4PaTUYXIWgv8x"
+      },
+      "artists": [
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165058,
+      "name": "WELCOME HOME",
+      "url": "https://open.spotify.com/track/1wAhNkuxQ7KwrisjkFLFUp"
     },
     {
       "album": {
@@ -9898,7 +9942,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 213920,
       "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e44\u0e2b\u0e19 (feat. MONICA)",
       "url": "https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r"
@@ -10106,7 +10150,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193246,
       "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/0VOIQcLeVfauNE0uwmIWD6"
@@ -10516,6 +10560,24 @@
       "duration_ms": 220366,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e1b\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5epaIb0YdSNaqr2JMBPcvQ"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e0b\u0e31\u0e25\u0e42\u0e27",
+        "url": "https://open.spotify.com/album/6gR3e6z3b3Nq7uj2oZ4Sub"
+      },
+      "artists": [
+        {
+          "name": "PKW AYT",
+          "url": "https://open.spotify.com/artist/5zsDo833dGVW2HJ4VmuvcS"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155889,
+      "name": "\u0e14\u0e32\u0e27\u0e0b\u0e31\u0e25\u0e42\u0e27",
+      "url": "https://open.spotify.com/track/1p55TQ1zzRVGMS1YqrZv3O"
     },
     {
       "album": {
@@ -11594,7 +11656,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 178909,
       "name": "\u0e1b\u0e23\u0e30\u0e15\u0e39",
       "url": "https://open.spotify.com/track/4CybdkdZUTQkBSh4scDVws"
@@ -12060,7 +12122,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 212230,
       "name": "\u0e1e\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2Ur51n7KgBdtRYz1oCFfD6"
@@ -15125,6 +15187,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e02\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49 (Who..?)",
+        "url": "https://open.spotify.com/album/4y4TG3ZYFDsgIlntkYQbQF"
+      },
+      "artists": [
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250909,
+      "name": "\u0e40\u0e02\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49 (Who..?)",
+      "url": "https://open.spotify.com/track/61GL9pI37KqdBuiknJsCNV"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e02\u0e32\u0e41\u0e25\u0e30\u0e09\u0e31\u0e19",
         "url": "https://open.spotify.com/album/2cgch2Zjhc6F0qOcoqHdJ8"
       },
@@ -15136,7 +15220,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 243692,
       "name": "\u0e40\u0e02\u0e32\u0e41\u0e25\u0e30\u0e09\u0e31\u0e19",
       "url": "https://open.spotify.com/track/2anKIyuwpptWD2w1O5BwTo"
@@ -16286,6 +16370,24 @@
       "duration_ms": 221217,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48 (feat. SIMON)",
       "url": "https://open.spotify.com/track/4dcUKQ0zPZuQZFA0eTXwzV"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm"
     },
     {
       "album": {
@@ -17882,6 +17984,24 @@
       "duration_ms": 251967,
       "name": "\u0e44\u0e21\u0e48\u0e17\u0e31\u0e19\u0e04\u0e34\u0e14",
       "url": "https://open.spotify.com/track/6vOwxjx4VxXmyqRPFlOBIX"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e17\u0e33\u0e40\u0e0b\u0e47\u0e07\u0e41\u0e22\u0e48",
+        "url": "https://open.spotify.com/album/0FIiZP1m6oI38cBFYOpr5w"
+      },
+      "artists": [
+        {
+          "name": "OG-ANIC",
+          "url": "https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "\u0e44\u0e21\u0e48\u0e17\u0e33\u0e40\u0e0b\u0e47\u0e07\u0e41\u0e22\u0e48",
+      "url": "https://open.spotify.com/track/4nho78juh9tUYZBEyZZxci"
     },
     {
       "album": {

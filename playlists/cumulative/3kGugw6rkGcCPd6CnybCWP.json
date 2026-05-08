@@ -5727,6 +5727,24 @@
     },
     {
       "album": {
+        "name": "Vintage Heart",
+        "url": "https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE"
+      },
+      "artists": [
+        {
+          "name": "MARIS BEN",
+          "url": "https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197345,
+      "name": "Vintage Heart",
+      "url": "https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs"
+    },
+    {
+      "album": {
         "name": "Vows",
         "url": "https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h"
       },

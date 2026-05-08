@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 187570,
       "name": "BurjKhalifa - From \"Laxmii\"",
       "url": "https://open.spotify.com/track/4Y6YA8TdR8zZgS1yzMA0rn"
@@ -6327,6 +6327,36 @@
     },
     {
       "album": {
+        "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/0rBKrEb7X2TvALhHZXceVx"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/2xa9mQkvZzkBY1cPIi3m7q"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "Roop Di Rani (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/7xyNDDiMs0H0424cvXjdct"
+    },
+    {
+      "album": {
         "name": "Dhurandhar",
         "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
       },
@@ -6702,7 +6732,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
@@ -8082,6 +8112,36 @@
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
+    },
+    {
+      "album": {
+        "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "url": "https://open.spotify.com/album/5cCGsxOMz9EZhYDSCG3HNj"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162371,
+      "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
+      "url": "https://open.spotify.com/track/4vtF4PXXIHaw3k1z846wSn"
     },
     {
       "album": {

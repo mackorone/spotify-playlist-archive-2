@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 262876,
       "name": "Bewitched - Rework",
       "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 162793,
       "name": "Chala (My Soul Is On A Loop)",
       "url": "https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 245732,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 198798,
       "name": "Fix It to Break It",
       "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 200852,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/5rbEgluvVAsM1cLyUgsUmy"
@@ -3991,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "In A Vice",
+        "url": "https://open.spotify.com/album/6oWpWKJDpRN0Ofc7DmLNm3"
+      },
+      "artists": [
+        {
+          "name": "Alice Barlow",
+          "url": "https://open.spotify.com/artist/7m2aLIvLQUQUvPZeFLIsfT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233782,
+      "name": "In A Vice",
+      "url": "https://open.spotify.com/track/5vqxnAsK6IdUqwcCyNOmyp"
+    },
+    {
+      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
       },
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 156880,
       "name": "IS THIS LOVE (Piano Ver.)",
       "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
@@ -5141,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "Midlife",
+        "url": "https://open.spotify.com/album/6h44mDaGJoxqpTkgABzbzO"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Saint Laurent",
+          "url": "https://open.spotify.com/artist/7xTliLH8uU8A0jttkKIMrD"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201462,
+      "name": "Midlife",
+      "url": "https://open.spotify.com/track/0fLMs28eQX76eybdcskUYi"
+    },
+    {
+      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -5560,7 +5600,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
@@ -6194,7 +6234,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 219992,
       "name": "popcorn nights",
       "url": "https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF"
@@ -6732,7 +6772,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
@@ -7093,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "THE VALOUR HOUR",
+        "url": "https://open.spotify.com/album/2FHhVwTH9nsnSRNfFO0aHv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145384,
+      "name": "sky is red",
+      "url": "https://open.spotify.com/track/7i6agEc8dbycvrDKJCd0lI"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/0tn8ANhvK8H8PiDmUMWCRu"
       },
@@ -7290,7 +7348,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 99436,
       "name": "Sometimes I Feel So Alone - mixed",
       "url": "https://open.spotify.com/track/2wuxNGSFa5Q2jhxB5fO9pv"
@@ -8726,7 +8784,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 249479,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
@@ -8908,7 +8966,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
@@ -9332,7 +9390,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 203846,
       "name": "\u30cd\u30aa\u30f3\u3092\u6d88\u3057\u3066",
       "url": "https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50"
@@ -9496,6 +9554,24 @@
       "duration_ms": 263600,
       "name": "\u661f\u5c51\u306e\u591c\u306b",
       "url": "https://open.spotify.com/track/4RW1yU2KOJFz91cprWoIhj"
+    },
+    {
+      "album": {
+        "name": "PACIFIC",
+        "url": "https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "\u6700\u5f8c\u306e\u697d\u5712",
+      "url": "https://open.spotify.com/track/3Q59MwvTzZveZTNunIQY1x"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Mohsein Kush
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: NO TIME FOR SILENCE
 
-311 songs - 16 hr 57 min
+313 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Kenangan Lama](https://open.spotify.com/track/00XJNXUSrnbf3RGekd5D7G) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:29 | 2025-11-20 | 2026-04-07 |
 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 | 2025-10-24 | 2026-04-07 |
 | [Ku Ingin Tahu](https://open.spotify.com/track/5X2AqXUHVJJDMJDAfwHzJc) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Ku Ingin Tahu](https://open.spotify.com/album/6CUysXbpDxvoMhvByozznK) | 3:16 | 2024-06-27 | 2024-12-05 |
+| [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 | 2026-05-08 |  |
 | [Langit Yang Sama](https://open.spotify.com/track/2wBw1ynBnUoozBCmsnects) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/0UI4CCBeKA3Wrj4iymyYUc) | 4:05 | 2025-09-08 | 2025-10-17 |
 | [Lantak Kau Lah](https://open.spotify.com/track/7DsciZNFr4za9SnflPKGA1) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Lantak Kau Lah](https://open.spotify.com/album/7umz4CdIgqrpktR9oT9rVE) | 3:20 | 2026-04-06 |  |
 | [LATE](https://open.spotify.com/track/5dINyexwj0eNiugJREkRd5) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [LATE](https://open.spotify.com/album/4vssHzH0VzPsTf23EtiMJH) | 2:46 | 2025-05-15 | 2026-04-07 |
@@ -315,6 +316,7 @@
 | [“唱歌學中文”之千言萬語 \- 國風版](https://open.spotify.com/track/6c8rpXgFVHHjByA6dKsXUz) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [“唱歌學中文”之千言萬語 \- 國風版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/album/29jbKwJcZZSVsBDdigFaGn) | 3:24 | 2025-07-31 | 2026-04-07 |
 | [一刹那花火](https://open.spotify.com/track/4wlVJSRfM8aJXbgLEJPPiW) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [一刹那花火](https://open.spotify.com/album/7hslljYtbnZlTheevJpUgf) | 3:02 | 2025-04-15 | 2026-04-07 |
 | [專屬浪漫](https://open.spotify.com/track/0ZpPrBnYV401be2ZyHS5eR) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1), [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [專屬浪漫](https://open.spotify.com/album/4pXJNKM5u6U2JJ9oeli2iU) | 3:14 | 2026-04-06 |  |
+| [最後一次浪費 \(抒情版\)](https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [最後一次浪費 \(抒情版\)](https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo) | 2:19 | 2026-05-08 |  |
 | [梦的篮筐 \(新传媒戏剧《力挽狂篮》主题曲\)](https://open.spotify.com/track/7GuInOhpVfe3cQGAJM1nKt) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [新传媒戏剧《力挽狂篮》](https://open.spotify.com/album/4tSNukIK4cDOVLdlRqIbcY) | 2:40 | 2025-11-20 | 2026-04-07 |
 | [渣男太累](https://open.spotify.com/track/2qHgnAqNXpduoXj1VolQrv) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw), [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [渣男太累](https://open.spotify.com/album/1qR6574TLpI236TY0pEEFM) | 3:33 | 2025-04-15 | 2026-04-07 |
 | [近距離戀愛](https://open.spotify.com/track/4FgKG4iuhGntHDCFgSncUp) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [近距離戀愛](https://open.spotify.com/album/6jZk2p03akG7v8BFcBgGKM) | 2:47 | 2025-04-15 | 2026-04-07 |

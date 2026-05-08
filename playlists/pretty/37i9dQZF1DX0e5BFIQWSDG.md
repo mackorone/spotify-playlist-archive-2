@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Likeboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,075 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,052 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 31 | [CHANEL](https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 3:23 |
 | 32 | [Plati](https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT), [Sfera 102.2](https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Apo To Xthes Sto Simera \(Part 2\)](https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3) | 3:35 |
 | 33 | [Gucci Bag](https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [Gucci Bag](https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu) | 2:16 |
-| 34 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
+| 34 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Alkis Alkaios](https://open.spotify.com/artist/2Rg30ZalrVol05bZe7iBae), [Ellinikos 93.2](https://open.spotify.com/artist/5Rfc2HCfClBnHGTkNjVWkd), [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
 | 35 | [An Mia Mera](https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:28 |
 | 36 | [AVASIMA STOIXEIA](https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu) | [AVASIMA STOIXEIA](https://open.spotify.com/album/4zBlFHNnuPZOuTwEJd6Nzm) | 4:10 |
 | 37 | [CHATGPT](https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 3:23 |

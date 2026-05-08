@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: Goldmax
 
-1,472 songs - 5 day 10 hr 26 min
+1,473 songs - 5 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Eternal](https://open.spotify.com/track/2EM3bVWLU6uOStKrQCoGq7) | [Fairytales](https://open.spotify.com/artist/4zVdTimXagkltfmZGswqby) | [Lifeline](https://open.spotify.com/album/4U36pOt32ZR7wNQJgNG1Zf) | 2:54 | 2022-06-09 | 2022-06-24 |
 | [Ethembeni \(Radio Edit\)](https://open.spotify.com/track/4CbdnAE0tNb6Y0TEd6QVA5) | [Josi Chave](https://open.spotify.com/artist/68HgwziOaOiC8YHLYRdDRU), [AfroMezzo](https://open.spotify.com/artist/5WwFiZt0lKiRc4vFwJn47r) | [Ethembeni](https://open.spotify.com/album/31npAlwm2miaqk9UcFzy8g) | 3:42 | 2023-02-17 | 2023-04-14 |
 | [Everybody](https://open.spotify.com/track/6nAvF4vmANRj76sNX1du0C) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt) | [Everybody](https://open.spotify.com/album/4gBfsymHc04X7eKgIAbuwz) | 3:30 | 2022-07-14 | 2022-08-26 |
+| [Everybody Wanna Be In Love](https://open.spotify.com/track/6c4MbGlY1XHjnHuF2HeZUX) | [Calvin Fallo](https://open.spotify.com/artist/2zMD4U9OQAR3xuq6cjer8p) | [Everybody Wanna Be In Love](https://open.spotify.com/album/2SLy7tznXk2DrcYyW5imnY) | 6:51 | 2026-05-07 |  |
 | [Everyday \- Shimza Remix](https://open.spotify.com/track/2GDWZWVlEWK9CMs2ZkMEOd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Everyday \(Shimza Remix\)](https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT) | 7:32 | 2022-12-31 | 2023-01-20 |
 | [Everything](https://open.spotify.com/track/4z1cVR36mIcu3k68cYllqR) | [Audio J](https://open.spotify.com/artist/06FxdIJd8WOrZLKZgj6zc3) | [Everything](https://open.spotify.com/album/3bgHqELSaff0cSkqznKdET) | 6:06 | 2022-01-20 | 2022-03-04 |
 | [Everytime \(feat\. MoreSoul & Vhuvii\)](https://open.spotify.com/track/0QYwbWgbF8Smzk4pcBOpWc) | [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [MoreSoul](https://open.spotify.com/artist/2NnJ40aRQwcTggABFZLhTQ), [Vhuvii](https://open.spotify.com/artist/3ruGhPtayzm5rLj9wGlMIn) | [Everytime \(feat\. MoreSoul & Vhuvii\)](https://open.spotify.com/album/5l9ZCQGL1SQW3XJ2VTKavY) | 7:14 | 2024-12-05 | 2025-02-28 |
@@ -768,7 +769,7 @@
 | [Ma Tnsani \(Yalla Habibi\) \- Tiësto Remix](https://open.spotify.com/track/4VUEpBFCSO1Ro4J50O6hyZ) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\) \[Tiësto Remix\]](https://open.spotify.com/album/4Z6gMBluauoPBxIpXgXEYl) | 2:38 | 2025-09-12 | 2026-01-15 |
 | [Mabebuza](https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Mabebuza](https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd) | 5:02 | 2022-09-22 | 2022-11-18 |
 | [Mabele](https://open.spotify.com/track/4YupfisjrO7n5pz2mk55pS) | [Tswex Malabola](https://open.spotify.com/artist/6cTBXiyGb4MACMv1WjgLKs) | [The Border Lands](https://open.spotify.com/album/53fLCJiZxbwAV9WYfEYXZZ) | 6:40 | 2021-12-29 | 2022-01-21 |
-| [MACHO](https://open.spotify.com/track/6QhtKxfu1Ltyxkog1C07Jx) | [TMSKDJ](https://open.spotify.com/artist/0Q23JpBwwsACd45gdwiAEb), [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [MACHO](https://open.spotify.com/album/6o0vnlPD2B4pOfSHRs99dZ) | 2:47 | 2026-01-08 |  |
+| [MACHO](https://open.spotify.com/track/6QhtKxfu1Ltyxkog1C07Jx) | [TMSKDJ](https://open.spotify.com/artist/0Q23JpBwwsACd45gdwiAEb), [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [MACHO](https://open.spotify.com/album/6o0vnlPD2B4pOfSHRs99dZ) | 2:47 | 2026-01-08 | 2026-05-08 |
 | [Madonoro \(A journey to China\) \(feat\. Bob Mabena\)](https://open.spotify.com/track/32LzN5TSbb1nbl5tImvWBq) | [Officixl RSA](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv), [Bob Mabena](https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W) | [An Elementary Episode II](https://open.spotify.com/album/0VltwdNw3mAJTNdweHECuH) | 5:30 | 2025-06-26 | 2025-07-11 |
 | [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 | 2024-10-24 | 2025-01-18 |
 | [Magic](https://open.spotify.com/track/2aqkBEgu7YH5uhcSDB6bbA) | [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC), [kALEGO](https://open.spotify.com/artist/6XIDZAHJj0vDbVZ6zHz3dw) | [Magic](https://open.spotify.com/album/15P7HxkFENVU3cmrX7k9kI) | 5:53 | 2022-08-18 | 2022-09-30 |

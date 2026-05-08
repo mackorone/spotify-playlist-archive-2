@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Hnos Munoz.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Blanco Palamera.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 186737,
       "name": "1 Dolor",
       "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "bIIIp",
+        "url": "https://open.spotify.com/album/5BMvXWbcwfjE5Y7W9AVQNP"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163334,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/4pfCVtnZQH2sidvNcjQ7ap"
+    },
+    {
+      "album": {
         "name": "Bienestares Malestares",
         "url": "https://open.spotify.com/album/4cwq7EUkzjl3fNiyTHkB5S"
       },
@@ -1598,6 +1616,24 @@
       "duration_ms": 203314,
       "name": "Bienestares Malestares",
       "url": "https://open.spotify.com/track/29FmBh8j5mWNIFc8NJVwTK"
+    },
+    {
+      "album": {
+        "name": "Bienvenidos",
+        "url": "https://open.spotify.com/album/4H3vU8MPNOWA08Vl0EcfmZ"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161900,
+      "name": "Bienvenidos",
+      "url": "https://open.spotify.com/track/64mnfFrl128rgmgbacy0xy"
     },
     {
       "album": {
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 192000,
       "name": "chorar, chorei",
       "url": "https://open.spotify.com/track/2qzaczFHLJLRXWWX9Qg5NH"
@@ -3784,7 +3820,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 187634,
       "name": "D\u00e9jalo Ir",
       "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
@@ -4160,7 +4196,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 242901,
       "name": "El Idilio",
       "url": "https://open.spotify.com/track/614sBZeyzY4x7CApm8BSDR"
@@ -4382,6 +4418,24 @@
       "duration_ms": 338491,
       "name": "El Psicod\u00e9lico (Guajira del Diablo)",
       "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
+    },
+    {
+      "album": {
+        "name": "Contradicciones",
+        "url": "https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD"
+      },
+      "artists": [
+        {
+          "name": "ALIS",
+          "url": "https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197642,
+      "name": "El Recuerdo",
+      "url": "https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l"
     },
     {
       "album": {
@@ -4868,6 +4922,28 @@
       "duration_ms": 197237,
       "name": "EsoEsArte",
       "url": "https://open.spotify.com/track/5D0UZZwYKHh3CvUqnkgpw1"
+    },
+    {
+      "album": {
+        "name": "Espadas en guada\u00f1as",
+        "url": "https://open.spotify.com/album/6VOGLFg6jfpSl5qOVwj1ZB"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        },
+        {
+          "name": "Erik Urano",
+          "url": "https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Espadas en guada\u00f1as",
+      "url": "https://open.spotify.com/track/2MHaYiWEIIWVaStGwk02Do"
     },
     {
       "album": {
@@ -5940,7 +6016,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 267786,
       "name": "He so\u00f1ado que tocaba en Tri\u00e1ngulo de Amor Bizarro",
       "url": "https://open.spotify.com/track/413CQteE6gAiIg1XbwRArs"
@@ -6610,6 +6686,36 @@
       "duration_ms": 168000,
       "name": "KILLING THE VOICE",
       "url": "https://open.spotify.com/track/0OXnI1Qw5vjIGEhH3juxnb"
+    },
+    {
+      "album": {
+        "name": "Kinder Bueno & Lotus",
+        "url": "https://open.spotify.com/album/39PSYED2szx6jiI44iBitp"
+      },
+      "artists": [
+        {
+          "name": "Escandaloso Xp\u00f3sito",
+          "url": "https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf"
+        },
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+        },
+        {
+          "name": "GRAVY",
+          "url": "https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql"
+        },
+        {
+          "name": "Piel Canala",
+          "url": "https://open.spotify.com/artist/2gDERQi7c7SEWBzH1juZlS"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188594,
+      "name": "Kinder Bueno & Lotus",
+      "url": "https://open.spotify.com/track/7qcK6Udp3c3WZ81HhU59fz"
     },
     {
       "album": {
@@ -8690,6 +8796,28 @@
       "duration_ms": 140307,
       "name": "MERCURIO",
       "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
+    },
+    {
+      "album": {
+        "name": "metal mollado",
+        "url": "https://open.spotify.com/album/6DNCj11QnFqPheoHDBAcF7"
+      },
+      "artists": [
+        {
+          "name": "Tanxugueiras",
+          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
+        },
+        {
+          "name": "AdeLina",
+          "url": "https://open.spotify.com/artist/7ths25cPkKVjIFhRZnz98Y"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "metal mollado",
+      "url": "https://open.spotify.com/track/2C9DHJVx4skvILdm8bDTzN"
     },
     {
       "album": {
@@ -12228,7 +12356,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 141978,
       "name": "sa\u00edr \u00e1 fresca",
       "url": "https://open.spotify.com/track/5JGk8gGOaD75isWH4KC4Dr"
@@ -13240,6 +13368,28 @@
       "duration_ms": 156363,
       "name": "Tan Llenita De Luz",
       "url": "https://open.spotify.com/track/16yXc7iYHcf6ySWujotyGd"
+    },
+    {
+      "album": {
+        "name": "Tapu\u00f1alo",
+        "url": "https://open.spotify.com/album/2jldCbrhX1nA0RIzNVFFzi"
+      },
+      "artists": [
+        {
+          "name": "ORTIGA",
+          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
+        },
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213061,
+      "name": "Tapu\u00f1alo",
+      "url": "https://open.spotify.com/track/4zLFCahWLXsqcmVqzO8XmZ"
     },
     {
       "album": {
@@ -14660,7 +14810,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: TRADE L\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,355 likes - 120 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,335 likes - 120 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

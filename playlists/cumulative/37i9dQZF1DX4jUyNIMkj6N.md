@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-411 songs - 1 day 0 hr 43 min
+412 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [perfect](https://open.spotify.com/track/6NHm6RpK7Gsfhlpj2Jlzfz) | [Elvira Alfaro](https://open.spotify.com/artist/2X935u573aID4nnG97RwE9) | [perfect](https://open.spotify.com/album/3Iqw4tA4oihGOordB2w47H) | 4:03 | 2026-02-26 | 2026-03-27 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
+| [project\_4](https://open.spotify.com/track/0uD3w2779MOsOqjQbTd4yT) | [Agate](https://open.spotify.com/artist/1pJPLg2VtHdOCk1upU6a5h) | [project\_4](https://open.spotify.com/album/4JFTve3uWKQ0r0nOu67Q4f) | 2:41 | 2026-05-07 |  |
 | [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 | 2025-10-04 |
 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 | 2026-02-26 |  |
 | [Riding by my side](https://open.spotify.com/track/3EjWS9Jnn7SJSwkiQNlfOB) | [Blind Molly](https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov) | [Riding by my side](https://open.spotify.com/album/1Ul251Hlo9fFN3Or838rYt) | 3:04 | 2025-05-08 | 2025-06-08 |
@@ -282,7 +283,7 @@
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |
 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 | 2023-10-12 | 2024-06-09 |
 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 | 2022-09-01 | 2023-01-27 |
-| [Roses](https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Roses](https://open.spotify.com/album/2gxfakFxfl2nBHFtSFRnzV) | 3:09 | 2026-04-30 |  |
+| [Roses](https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Roses](https://open.spotify.com/album/2gxfakFxfl2nBHFtSFRnzV) | 3:09 | 2026-04-30 | 2026-05-08 |
 | [Rover](https://open.spotify.com/track/7clop9zhvfP0lTKXi3eoYr) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Rover](https://open.spotify.com/album/262X8tkz5jtA0yNqgRa0TI) | 3:12 | 2025-02-27 | 2025-09-05 |
 | [Sail Into Me](https://open.spotify.com/track/3jVueWu5TDQB4DhkJWmXmL) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Sail Into Me](https://open.spotify.com/album/691P8uwfdfBOWBrUzEOAre) | 2:18 | 2026-03-26 |  |
 | [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 | 2024-07-25 | 2024-08-02 |

@@ -500,6 +500,24 @@
     {
       "album": {
         "name": "El Del Ice (Live)",
+        "url": "https://open.spotify.com/album/5QReoPrXR4ND1cgFg7q9b3"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216977,
+      "name": "El Del Ice (Live)",
+      "url": "https://open.spotify.com/track/2vZp1YjSsiKqQv2pgWfZ1o"
+    },
+    {
+      "album": {
+        "name": "El Del Ice (Live)",
         "url": "https://open.spotify.com/album/3LlXNXKkBrt0S43Jvwx5b8"
       },
       "artists": [
@@ -510,7 +528,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 216960,
       "name": "El Del Ice - Live",
       "url": "https://open.spotify.com/track/1p4qVUJ8J2E8F7RcToq8Bf"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 232031,
       "name": "Me Vuelve Loco",
       "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
@@ -1268,10 +1286,28 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 214840,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/0sh8CBGWBvJyNmWBRhZ8dU"
+    },
+    {
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb"
     },
     {
       "album": {
@@ -1456,6 +1492,24 @@
       "duration_ms": 203480,
       "name": "Recuerdos Del 1",
       "url": "https://open.spotify.com/track/3W79DIintC1GZeDs010tLa"
+    },
+    {
+      "album": {
+        "name": "Seraf\u00edn",
+        "url": "https://open.spotify.com/album/08wWfyX6Gq7L1zsTdfDZGv"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240047,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/30Bldx71dH6xhYY0FUYtWA"
     },
     {
       "album": {

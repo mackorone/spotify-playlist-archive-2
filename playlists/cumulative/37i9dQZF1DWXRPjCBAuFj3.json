@@ -3385,6 +3385,28 @@
     },
     {
       "album": {
+        "name": "#FREEDAG (album)",
+        "url": "https://open.spotify.com/album/1Nlmk5ApaxYjkryFodo4O6"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        },
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227139,
+      "name": "Camicia e Zanotti",
+      "url": "https://open.spotify.com/track/0sqNyE1IULjfZsjEaH15MK"
+    },
+    {
+      "album": {
         "name": "Canarsie",
         "url": "https://open.spotify.com/album/7EvGeQSKTCqgwFb4hrO91d"
       },

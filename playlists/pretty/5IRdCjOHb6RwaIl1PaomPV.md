@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Thaiboy Digital, Safety Trance,  Glayden + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,391 likes - 102 songs - 5 hr 23 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,392 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 8 | [LIVED AND IVE LEARNED](https://open.spotify.com/track/3NTtrgLWsCu17FJEKNrLwM) | [Dyltwosix](https://open.spotify.com/artist/00J6Tan9XAjt4RDwcWUqmj) | [LIVED AND IVE LEARNED](https://open.spotify.com/album/5ARU8FRt6m6DU1Slrm54E1) | 2:58 |
 | 9 | [Candy Apple Red, Dodger Blue](https://open.spotify.com/track/3RHto3kx4dljuQ3GqT2x9G) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [City of Careless Angels](https://open.spotify.com/album/7AAZxEVHmiruBE1wkKOHjP) | 2:52 |
 | 10 | [To The Sky](https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [To The Sky](https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG) | 3:52 |
-| 11 | [You Can't Hide](https://open.spotify.com/track/3CIVAiVxbssafeLkXvtQhM) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [You Can't Hide](https://open.spotify.com/album/0n1GwTBAkzVZJUijC3LGp8) | 3:07 |
+| 11 | [You Can't Hide](https://open.spotify.com/track/3CIVAiVxbssafeLkXvtQhM) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [You Can't Hide](https://open.spotify.com/album/0n1GwTBAkzVZJUijC3LGp8) | 3:08 |
 | 12 | [OLD TECHNOLOGY](https://open.spotify.com/track/4m9DCecxzytC3ikqqVvtbd) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:39 |
 | 13 | [PointBreaK](https://open.spotify.com/track/6t8M5CYfa6Z66BNn4dDIs1) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [Synthetic Crash](https://open.spotify.com/album/1lj6nRdBYdCnKaYjSbIW5D) | 2:08 |
 | 14 | [canada](https://open.spotify.com/track/06Efwoa4Woh4AzRdLwDESt) | [444Jet](https://open.spotify.com/artist/5p7TgJv1xSdWcsczKh4Awz), [snoa](https://open.spotify.com/artist/1WH4OmgU1ecKMOmAK6qJsz) | [canada](https://open.spotify.com/album/4RMMd6k7Qi0TOkRXJ32NOc) | 1:24 |

@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 678000,
       "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 360000,
       "name": "Meu Amigo",
       "url": "https://open.spotify.com/track/1Y26XpiffIFDpF4uob5lj7"
@@ -3978,6 +3978,32 @@
       "duration_ms": 256385,
       "name": "Meu Maior Desejo",
       "url": "https://open.spotify.com/track/057L1j7QOaDPCJg6q4tNfc"
+    },
+    {
+      "album": {
+        "name": "Meu Mestre",
+        "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Records",
+          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364104,
+      "name": "Meu Mestre",
+      "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
     },
     {
       "album": {
@@ -4300,7 +4326,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 341666,
       "name": "Ningu\u00e9m Pode Parar - Ao Vivo",
       "url": "https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA"
@@ -4384,6 +4410,24 @@
       "duration_ms": 315556,
       "name": "N\u00e3o Acabou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
+    },
+    {
+      "album": {
+        "name": "{Ao Senhor\u2022Aos Santos\u2022Ao Mundo}",
+        "url": "https://open.spotify.com/album/1p8TnsMRhfPCTLd0u3NeOF"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303676,
+      "name": "N\u00c3O CHORE JO\u00c3O",
+      "url": "https://open.spotify.com/track/6dvUdd19BulcH9rIkZd18F"
     },
     {
       "album": {
@@ -5474,7 +5518,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 271689,
       "name": "Processo - Ao Vivo em Salvador",
       "url": "https://open.spotify.com/track/2z0bVsgogc37nPMOblrjaU"
@@ -6065,6 +6109,24 @@
     },
     {
       "album": {
+        "name": "Se eu Somente Te Tocar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
+      },
+      "artists": [
+        {
+          "name": "Nilson Junior",
+          "url": "https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295882,
+      "name": "Se eu Somente Te Tocar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
+    },
+    {
+      "album": {
         "name": "Se N\u00e3o Fosse Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5N7g3J3ZBPL2QCDVdUIKAM"
       },
@@ -6360,6 +6422,50 @@
       "duration_ms": 281812,
       "name": "Sou Eu (Ao Vivo)",
       "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
+    },
+    {
+      "album": {
+        "name": "Sou Grato Por Seu Amor",
+        "url": "https://open.spotify.com/album/0LA7WSnJyjxq1AYFf8vgsw"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Records",
+          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311946,
+      "name": "Sou Grato Por Seu Amor",
+      "url": "https://open.spotify.com/track/0uV1U1d1qOCcmRjJbNgHJT"
+    },
+    {
+      "album": {
+        "name": "Sou Grato Por Seu Amor",
+        "url": "https://open.spotify.com/album/3kJU9RxCRq1Fga1uyBpLxa"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Avivah",
+          "url": "https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298911,
+      "name": "Sou Grato Por Seu Amor",
+      "url": "https://open.spotify.com/track/5y07NTJg6NkDLW3fkrxDW5"
     },
     {
       "album": {
@@ -7788,7 +7894,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 456676,
       "name": "\u00danico - Ao vivo",
       "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"

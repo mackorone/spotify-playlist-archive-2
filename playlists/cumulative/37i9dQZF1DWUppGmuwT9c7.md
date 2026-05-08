@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-167 songs - 8 hr 0 min
+169 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dat Doe Jij](https://open.spotify.com/track/22u2ehqXZvpRgmsNB5zerD) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dat Doe Jij](https://open.spotify.com/album/2JBYIlp40gTwBwqCPjRe8f) | 2:28 | 2026-03-23 |  |
 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 | 2026-02-26 |  |
 | [De Laatste](https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [De Laatste](https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao) | 2:51 | 2025-07-14 |  |
+| [De Nacht Is Mijn Leven \- 2026](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven \(2026\)](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 | 2026-05-07 |  |
 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 | 2025-07-14 |  |
 | [De Tapster Uit Tijuana](https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [De Tapster Uit Tijuana](https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL) | 3:06 | 2026-02-20 |  |
 | [De Tent Moet Op Z'n Kop](https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [De Tent Moet Op Z'n Kop](https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ) | 2:37 | 2025-10-14 |  |
@@ -139,6 +140,7 @@
 | [Straf](https://open.spotify.com/track/78WPtoNB7gvWk8UUxzsEg0) | [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Straf](https://open.spotify.com/album/4tg3Z1C9Tvkj3TOk8FOiN0) | 1:59 | 2026-01-13 |  |
 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 | 2025-07-14 |  |
 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 | 2025-09-20 |  |
+| [Tante Jetje](https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Tante Jetje](https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO) | 3:14 | 2026-05-07 |  |
 | [Tequila](https://open.spotify.com/track/3BLCU1TXLUZqnfuttprVHI) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Tequila](https://open.spotify.com/album/7rE6SLNWzMIeBKuitiBe1n) | 2:20 | 2025-07-14 | 2026-02-21 |
 | [Terug In De Tijd](https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Terug In De Tijd](https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS) | 3:07 | 2025-07-14 |  |
 | [Toen De Euro Nog Een Gulden Was](https://open.spotify.com/track/1DhO6d9nwWQRMM2wvH1NaG) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Toen De Euro Nog Een Gulden Was](https://open.spotify.com/album/0ByXYGsuwWtuXQpPW1Idy5) | 3:29 | 2025-07-14 | 2025-10-17 |

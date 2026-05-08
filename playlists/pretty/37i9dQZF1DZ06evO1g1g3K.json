@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7111,
+  "num_followers": 7114,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAABpJL3+AdDXQA07t3qZ1gcE",
+  "snapshot_id": "afqEgAAAAAA9sOucOBA/WXvG9hBCS13k",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BERNARR.",
         "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
       },
@@ -111,26 +95,6 @@
       "duration_ms": 204376,
       "name": "HELLO!",
       "url": "https://open.spotify.com/track/3Yk3KZTxr7M2DKl44IkyK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "STUCK.",
-      "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
     },
     {
       "added_at": null,
@@ -155,8 +119,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
       "artists": [
         {
@@ -164,13 +144,13 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "E-WHIZZ",
-          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 317966,
-      "name": "No Business",
-      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+      "duration_ms": 261500,
+      "name": "STUCK.",
+      "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
     },
     {
       "added_at": null,
@@ -187,6 +167,26 @@
       "duration_ms": 232998,
       "name": "Undivided",
       "url": "https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "E-WHIZZ",
+          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+        }
+      ],
+      "duration_ms": 317966,
+      "name": "No Business",
+      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Ride",
-        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 242875,
-      "name": "Wild Ride",
-      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BERNARR.",
         "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
       },
@@ -254,11 +234,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 189625,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
+      "duration_ms": 235221,
+      "name": "AYO!",
+      "url": "https://open.spotify.com/track/2e6ihjsjRQuXRE9lkQeagx"
     },
     {
       "added_at": null,
@@ -279,22 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Isle Of Queens Deluxe",
-        "url": "https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL"
+        "name": "Wild Ride",
+        "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
       },
       "artists": [
         {
-          "name": "Cyanca",
-          "url": "https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO"
-        },
-        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 231133,
-      "name": "New Phone, Who Dis? (Remix) [feat. Durand Bernarr]",
-      "url": "https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM"
+      "duration_ms": 242875,
+      "name": "Wild Ride",
+      "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
     },
     {
       "added_at": null,
@@ -328,9 +312,29 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 192274,
-      "name": "sleep",
-      "url": "https://open.spotify.com/track/1GEvQvw4CY8qski1ziNFCK"
+      "duration_ms": 189625,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Isle Of Queens Deluxe",
+        "url": "https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL"
+      },
+      "artists": [
+        {
+          "name": "Cyanca",
+          "url": "https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "New Phone, Who Dis? (Remix) [feat. Durand Bernarr]",
+      "url": "https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM"
     },
     {
       "added_at": null,
@@ -371,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 192274,
+      "name": "sleep",
+      "url": "https://open.spotify.com/track/1GEvQvw4CY8qski1ziNFCK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -383,22 +403,6 @@
       "duration_ms": 353242,
       "name": "Leveled",
       "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BERNARR.",
-        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 287249,
-      "name": "SHARP!",
-      "url": "https://open.spotify.com/track/03uiW6i8PvidJ8zTHrIKKn"
     },
     {
       "added_at": null,
@@ -443,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 287249,
+      "name": "SHARP!",
+      "url": "https://open.spotify.com/track/03uiW6i8PvidJ8zTHrIKKn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Terrell One Million Show",
         "url": "https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1"
       },
@@ -459,22 +479,6 @@
       "duration_ms": 291620,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BERNARR.",
-        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Sugar Family",
-      "url": "https://open.spotify.com/track/6KuFyZVksTe1W0yKWtFRci"
     },
     {
       "added_at": null,
@@ -615,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 239815,
       "name": "H.I. (feat. Devin Tracy)",
       "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,

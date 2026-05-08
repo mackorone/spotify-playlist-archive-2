@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157093,
+      "name": "Guampa Chata",
+      "url": "https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA"
+    },
+    {
+      "album": {
         "name": "Guerra",
         "url": "https://open.spotify.com/album/3nAcVpBeZ5MEaZmtNt1Uhf"
       },
@@ -3748,7 +3766,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 215525,
       "name": "Libre y Soltero",
       "url": "https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1"

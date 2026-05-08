@@ -2,7 +2,7 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Thưởng thức và tôn vinh các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Châu Bùi
+> Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Thiều Bảo Trâm
 
 418 songs - 1 day 2 hr 21 min
 
@@ -221,7 +221,7 @@
 | [Missing You](https://open.spotify.com/track/1AAGvzJRWMTKx7PNfeTvP4) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [Missing You](https://open.spotify.com/album/1b60c7XKSLPW7s1f0CBWqF) | 4:02 | 2022-07-05 | 2023-08-26 |
 | [Miền Mộng Mị](https://open.spotify.com/track/5S2ObREaW7Dl1XMMC7SxGX) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 2:46 | 2025-07-03 | 2026-01-15 |
 | [Modern Medusa](https://open.spotify.com/track/02DC4vxKtNqWoYoo1YGanE) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Modern Medusa](https://open.spotify.com/album/6vAo5Z8PQXHNeNVpoHmeq6) | 2:24 | 2024-07-30 | 2024-08-28 |
-| [Modern Medusa](https://open.spotify.com/track/0kQLO047FQEAA6qs8APEcM) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [FLEXIBLE](https://open.spotify.com/album/4BsxiCT03J5XMQ6kpIEjv1) | 2:24 | 2026-03-19 |  |
+| [Modern Medusa](https://open.spotify.com/track/0kQLO047FQEAA6qs8APEcM) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [FLEXIBLE](https://open.spotify.com/album/4BsxiCT03J5XMQ6kpIEjv1) | 2:24 | 2026-03-19 | 2026-05-08 |
 | [Mong Cho Anh \- Unplugged](https://open.spotify.com/track/1SjMtotf90psm4i8xWVhkC) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 3:09 | 2021-12-07 | 2022-05-11 |
 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 | 2024-05-20 | 2024-07-04 |
 | [Muộn Màng Là Từ Lúc](https://open.spotify.com/track/5UeD0rVFJXXl3HGjKiZbrt) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:55 | 2024-08-01 | 2024-12-05 |
@@ -364,7 +364,7 @@
 | [Tự Sự \- Original Soundtrack from "Qua Bển Làm Chi"](https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Thuan Nguyen](https://open.spotify.com/artist/0Tz9NpLMEwsdPcBurGdQh4) | [Tự Sự \(Original Soundtrack from "Qua Bển Làm Chi"\)](https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz) | 4:17 | 2022-05-27 | 2022-07-06 |
 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 | 2025-06-04 | 2026-01-15 |
 | [VSTRA](https://open.spotify.com/track/2ktXvfaPi9dDTvQXnP47Io) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [VSTRA](https://open.spotify.com/album/168kYvrugeWAGTfIl7i4Ck) | 3:07 | 2023-11-13 | 2023-12-09 |
-| [Và Thế Giới Đã Mất Đi Một Người Cô Đơn](https://open.spotify.com/track/6Qwl74olNi1rl65FNxG5We) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Và Thế Giới Đã Mất Đi Một Người Cô Đơn](https://open.spotify.com/album/2nrI2EXyALcCWr12MwOzpA) | 3:21 | 2024-06-07 | 2026-03-20 |
+| [Và Thế Giới Đã Mất Đi Một Người Cô Đơn](https://open.spotify.com/track/6Qwl74olNi1rl65FNxG5We) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Và Thế Giới Đã Mất Đi Một Người Cô Đơn](https://open.spotify.com/album/2nrI2EXyALcCWr12MwOzpA) | 3:21 | 2024-06-07 |  |
 | [và thế giới đã mất đi một người cô đơn \(feat\. Gill & onionn.\)](https://open.spotify.com/track/78ih0Y6qnzYudGBz931ZHW) | [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM), [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [và thế giới đã mất đi một người cô đơn \(feat\. Gill & onionn.\)](https://open.spotify.com/album/3zhtig08U2v7UIaxUV4DAI) | 3:50 | 2025-07-03 | 2026-01-15 |
 | [vào hạ](https://open.spotify.com/track/6Bh5qRgU4AysQh3Vv2N5Nt) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:16 | 2022-08-02 | 2022-12-01 |
 | [Vì Em Chưa Bao Giờ Khóc](https://open.spotify.com/track/4CKGjLQYTZv9S1eDuUG7DG) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Vì Em Chưa Bao Giờ Khóc](https://open.spotify.com/album/3TZORvqcdBkYwyNklCqxMS) | 4:27 | 2023-07-13 | 2023-12-09 |

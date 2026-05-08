@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 167885,
+  "num_followers": 167875,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAABbmywYZBeQ1uXwcBRLwlzk",
+  "snapshot_id": "afqEgAAAAADzhT84Kz6frQUEENHp/7Yb",
   "tracks": [
     {
       "added_at": null,
@@ -599,46 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Swag, Vol. 2",
-        "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Unk",
-          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
-        }
-      ],
-      "duration_ms": 200971,
-      "name": "Walk It Out",
-      "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Spaghetti Junction",
-      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Grillz The Album",
         "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 297280,
       "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
       "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Spaghetti Junction",
+      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Swag, Vol. 2",
+        "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Unk",
+          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
+        }
+      ],
+      "duration_ms": 200971,
+      "name": "Walk It Out",
+      "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
     },
     {
       "added_at": null,

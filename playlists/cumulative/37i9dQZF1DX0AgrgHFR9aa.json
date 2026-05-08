@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Soprano x Guizmo",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Zek",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "99PROBLEMS",
+        "url": "https://open.spotify.com/album/2VqTBQbkGweuAcF3plNujF"
+      },
+      "artists": [
+        {
+          "name": "Sullykzr",
+          "url": "https://open.spotify.com/artist/1B7eisw20jZOhrLMVHY2TW"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "99PROBLEMS",
+      "url": "https://open.spotify.com/track/7A0S4M94TZ3Mk7HQbHb3JE"
+    },
+    {
+      "album": {
         "name": "A HAUTEUR D'HOMME",
         "url": "https://open.spotify.com/album/44s3kIHM7LJs6vKLMoZoWy"
       },
@@ -843,6 +861,28 @@
     },
     {
       "album": {
+        "name": "Au Final",
+        "url": "https://open.spotify.com/album/4fAbXfZqEMuW4cBv4bAkXr"
+      },
+      "artists": [
+        {
+          "name": "PEKA",
+          "url": "https://open.spotify.com/artist/1OVMF4LXI8xkr4lHiDL8W4"
+        },
+        {
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Au Final",
+      "url": "https://open.spotify.com/track/1Dev4vOTaLPbIAHE77yvNQ"
+    },
+    {
+      "album": {
         "name": "AUSTIN POWERS (feat. Limsa d'Aulnay)",
         "url": "https://open.spotify.com/album/4tMXvuSP7b9PIGLz2J7vtU"
       },
@@ -938,7 +978,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 173596,
       "name": "Bagarre",
       "url": "https://open.spotify.com/track/5KCLPbkr6Lj85l0ql5yK8n"
@@ -996,7 +1036,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 130000,
       "name": "Bifton",
       "url": "https://open.spotify.com/track/0VSIVig6x9sC18t0hhgrVS"
@@ -1733,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Com\u00e8te",
+        "url": "https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Com\u00e8te",
+      "url": "https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS"
+    },
+    {
+      "album": {
         "name": "Consentement",
         "url": "https://open.spotify.com/album/6Z6bULyI0FCt6hxeFhrv25"
       },
@@ -1854,6 +1912,24 @@
       "duration_ms": 182265,
       "name": "Croisades Puissance2frappe",
       "url": "https://open.spotify.com/track/5T5NkRAUTc2YS5l2mRwRrk"
+    },
+    {
+      "album": {
+        "name": "C\u00e9l\u00e8bre",
+        "url": "https://open.spotify.com/album/2b4MMdJKESA2ZyCE5OC5wf"
+      },
+      "artists": [
+        {
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "C\u00e9l\u00e8bre",
+      "url": "https://open.spotify.com/track/4ctWXt9iDg1bZMCybdWPAL"
     },
     {
       "album": {
@@ -2788,7 +2864,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 121248,
       "name": "GAVROCHE",
       "url": "https://open.spotify.com/track/7tS5th1dPmFgZYCggjRzh9"
@@ -2926,7 +3002,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182954,
       "name": "GRAND H",
       "url": "https://open.spotify.com/track/7gJU9KWGi48kr6FTQq8WVX"
@@ -3272,7 +3348,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 158297,
       "name": "HS",
       "url": "https://open.spotify.com/track/3JikgdhSVg28w9lM5ocqaI"
@@ -3294,6 +3370,28 @@
       "duration_ms": 210461,
       "name": "H\u00f4tel",
       "url": "https://open.spotify.com/track/7D8a360I1Z1sOr714l59B3"
+    },
+    {
+      "album": {
+        "name": "I.A",
+        "url": "https://open.spotify.com/album/09u7Najjlz7idhpJURIhHN"
+      },
+      "artists": [
+        {
+          "name": "Rocca",
+          "url": "https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD"
+        },
+        {
+          "name": "Kyo Itachi",
+          "url": "https://open.spotify.com/artist/5PRPuZbf1ia2JcLdxBxtXB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213568,
+      "name": "I.A",
+      "url": "https://open.spotify.com/track/6MBRxtbemxX1FGXPwIWRk9"
     },
     {
       "album": {
@@ -3486,7 +3584,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 258143,
       "name": "ISAKIN",
       "url": "https://open.spotify.com/track/2bb7KpldsSNuaNKfyuU3iX"
@@ -3766,6 +3864,24 @@
       "duration_ms": 84631,
       "name": "Jumanji (Skit)",
       "url": "https://open.spotify.com/track/67ywzEJdNhn8nZrbgFhQGE"
+    },
+    {
+      "album": {
+        "name": "GRAND LUXXXE Vol.1",
+        "url": "https://open.spotify.com/album/1dspNidPL5QYIZ5Awbt4bw"
+      },
+      "artists": [
+        {
+          "name": "Zek",
+          "url": "https://open.spotify.com/artist/0ZvXadOwtNaacnVKZVFzLr"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184543,
+      "name": "KALASH IRANIEN",
+      "url": "https://open.spotify.com/track/5docFUb4mHKubzp818riIX"
     },
     {
       "album": {
@@ -4406,7 +4522,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 123103,
       "name": "La voisine d'en dessous ...",
       "url": "https://open.spotify.com/track/1p93Kn7xmhznBsmud9U3DS"
@@ -4870,6 +4986,24 @@
       "duration_ms": 156857,
       "name": "Les bons choix",
       "url": "https://open.spotify.com/track/1JF6IOxHFZIRZiMhEUWo06"
+    },
+    {
+      "album": {
+        "name": "LES CHIFFRES DU LOTO",
+        "url": "https://open.spotify.com/album/2p1Myhr5dUtiYr1T76jU3Q"
+      },
+      "artists": [
+        {
+          "name": "okis",
+          "url": "https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "LES CHIFFRES DU LOTO",
+      "url": "https://open.spotify.com/track/0POy05GJkYY5bsPb1bI9su"
     },
     {
       "album": {
@@ -5968,7 +6102,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 155099,
       "name": "NO JUSTICE",
       "url": "https://open.spotify.com/track/33G4vYh5if9VIgVPCEdi0M"
@@ -6008,6 +6142,42 @@
       "duration_ms": 153128,
       "name": "noire",
       "url": "https://open.spotify.com/track/2AFlaDtI3qLsoROooEKFCZ"
+    },
+    {
+      "album": {
+        "name": "Nos jours \u00e0 l'imparfait",
+        "url": "https://open.spotify.com/album/5QDePM9JH7B9aImfHmXDn1"
+      },
+      "artists": [
+        {
+          "name": "Mohand Baha",
+          "url": "https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134794,
+      "name": "Nos jours \u00e0 l'imparfait",
+      "url": "https://open.spotify.com/track/2pmtrDqCbELpeOoLvqzyeN"
+    },
+    {
+      "album": {
+        "name": "Nos vies",
+        "url": "https://open.spotify.com/album/0rZEBJJkFLpovufT4KCo5r"
+      },
+      "artists": [
+        {
+          "name": "DBS LaCN",
+          "url": "https://open.spotify.com/artist/5Imb9KXnzaI2YW4Fr4uv6V"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Nos vies",
+      "url": "https://open.spotify.com/track/2B1IZJs6JolVt32HwjtOz5"
     },
     {
       "album": {
@@ -7226,7 +7396,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 135679,
       "name": "REBENGA",
       "url": "https://open.spotify.com/track/2csksfh5NmEDkXYbOM42r5"

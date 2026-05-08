@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3112,
+  "num_followers": 3115,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAAAHB4YU2O2+kcd7jHD3W0xh",
+  "snapshot_id": "afqEgAAAAAAPbOopZRGvZs6an8gboveM",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA"
+      "duration_ms": 169000,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 169000,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
+      "duration_ms": 210200,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA"
     },
     {
       "added_at": null,

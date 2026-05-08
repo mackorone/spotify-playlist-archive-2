@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Wang",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -2314,6 +2314,24 @@
       "duration_ms": 149538,
       "name": "Bling Blao",
       "url": "https://open.spotify.com/track/13p8k8bvCBi75tcVbgLmDa"
+    },
+    {
+      "album": {
+        "name": "BOGOTA",
+        "url": "https://open.spotify.com/album/4z3Bb6klPzOJM241TxiJSh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "BOGOTA",
+      "url": "https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9"
     },
     {
       "album": {
@@ -5264,7 +5282,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 166857,
       "name": "FREE FOR ALL",
       "url": "https://open.spotify.com/track/6KYUQv64dBHAqk15LFwxhj"
@@ -6519,6 +6537,36 @@
     },
     {
       "album": {
+        "name": "HENNY",
+        "url": "https://open.spotify.com/album/1FVSzUegRkpVHSuShyr4Qt"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "HENNY",
+      "url": "https://open.spotify.com/track/3dxdL00ifuoBZLvslo0uMV"
+    },
+    {
+      "album": {
         "name": "Hey Shawty",
         "url": "https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC"
       },
@@ -7417,6 +7465,28 @@
     },
     {
       "album": {
+        "name": "Tenacity",
+        "url": "https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Kara Tepe",
+      "url": "https://open.spotify.com/track/6pHdnVVeWPLvRR4H4WF6Vf"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/1Chmt0cqtmmZWgYU21UKtZ"
       },
@@ -7480,6 +7550,28 @@
       "duration_ms": 207058,
       "name": "Kataramenos",
       "url": "https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg"
+    },
+    {
+      "album": {
+        "name": "FROM THE BOTTOM",
+        "url": "https://open.spotify.com/album/2uEf6Tq9InwsMRyPjVAyVl"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "KATASTROFES",
+      "url": "https://open.spotify.com/track/5wKeS174oywnGe2Gom5gTS"
     },
     {
       "album": {
@@ -7572,7 +7664,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 164257,
       "name": "KENZO",
       "url": "https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm"
@@ -7724,6 +7816,32 @@
       "duration_ms": 164610,
       "name": "Kodikas",
       "url": "https://open.spotify.com/track/6jJ0iqIH1CBZgvGnzsFryX"
+    },
+    {
+      "album": {
+        "name": "KOLOTOUBA",
+        "url": "https://open.spotify.com/album/3fFDHxoK5gxtsbZJX47Aqe"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Tsabi",
+          "url": "https://open.spotify.com/artist/4JRX8483ymGAlPeXABD88m"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150131,
+      "name": "KOLOTOUBA",
+      "url": "https://open.spotify.com/track/2xHSrVzLU1PTDp66zPlN35"
     },
     {
       "album": {
@@ -8224,7 +8342,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 181224,
       "name": "Live Ap' To Block",
       "url": "https://open.spotify.com/track/4fGuDjzrnQ6smvTTZOtnAS"
@@ -8538,6 +8656,28 @@
       "duration_ms": 129522,
       "name": "Makigiaz",
       "url": "https://open.spotify.com/track/0zQydXtbVjEVMwsymWUBIA"
+    },
+    {
+      "album": {
+        "name": "Mala Vita",
+        "url": "https://open.spotify.com/album/7FBuEImstQqIga0n66HbML"
+      },
+      "artists": [
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "Ank Beats",
+          "url": "https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "Mala Vita",
+      "url": "https://open.spotify.com/track/75QFWXuAuKhrrMXg4o8HSI"
     },
     {
       "album": {
@@ -9180,7 +9320,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 208134,
       "name": "MENTALIT\u00c9",
       "url": "https://open.spotify.com/track/1jwJw5rT5B9ZVSBfkNpDYt"
@@ -12196,7 +12336,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 248345,
       "name": "Proion Tou Dromou",
       "url": "https://open.spotify.com/track/0080cWwr6bdvbRYHaTGAra"

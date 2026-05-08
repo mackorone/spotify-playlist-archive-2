@@ -2,7 +2,7 @@
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: WIM, Jesse Barrera
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Olivia Rodrigo
 
 1,060 songs - 2 day 9 hr 39 min
 

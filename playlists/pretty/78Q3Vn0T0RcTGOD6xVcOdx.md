@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 483 likes - 109 songs - 6 hr 12 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 483 likes - 111 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 107 | [¿Qué Sientes al Dar?](https://open.spotify.com/track/2WG4nnvnlqGog03RmcTywy) | [Javier Marval Ross](https://open.spotify.com/artist/72FYWQsfatZShho1er5m3t) | [¿Qué Sientes al Dar?](https://open.spotify.com/album/5ngarvdoBmBsQEUIk0yYes) | 3:41 |
 | 108 | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/track/0j3whSznT03ACSBL0XLvak) | [Planeta Luna](https://open.spotify.com/artist/5bZIFH7GHHt0BvGFhLgonS) | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/album/72QiHOhEGwuD4mX0SuraLH) | 2:44 |
 | 109 | [Written In The Starlight](https://open.spotify.com/track/3Ep7iNTQbnnCmkytwzDl2h) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Written In The Starlight](https://open.spotify.com/album/25rivZ9oVq31HBRNNLzraS) | 4:38 |
+| 110 | [Silver Threads: Dawn That Conquers Night](https://open.spotify.com/track/4dDmB5h8WUehCfXMNDW4wn) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Silver Threads: The Final Saga](https://open.spotify.com/album/3XEMADvwycV4x8hJDHi2Qo) | 6:44 |
+| 111 | [Feet On Earth \- Bones Alive](https://open.spotify.com/track/32Zqd3db3Bd6RGBeG9PATQ) | [LEARA \- ELYRIA SINGER](https://open.spotify.com/artist/6jgY3hP8sqiGrAbHdvUkk8) | [Feet On Earth](https://open.spotify.com/album/5Vv1f6zZhiQNa2lf7Ti5S6) | 3:51 |
 
-Snapshot ID: `AAABqoLxDnHSeHFmxvg/IKiPUNJLMGfZ`
+Snapshot ID: `AAABrOO5Vc0iXe471KhS4UzlTBIlh37t`

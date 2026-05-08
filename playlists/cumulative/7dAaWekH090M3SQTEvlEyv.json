@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "magnet (recall)",
+        "url": "https://open.spotify.com/album/5WqwtZTh63W2n364wrnEAW"
+      },
+      "artists": [
+        {
+          "name": "\u6e4a\u8cb4\u5927(\u6d41\u661fP)",
+          "url": "https://open.spotify.com/artist/2IXgEsyVWo6yWxD0lKU0he"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "magnet - recall",
+      "url": "https://open.spotify.com/track/5Nv7QGcv68ex12c6csMQz9"
+    },
+    {
+      "album": {
         "name": "MTMTM (feat. Hatsune Miku)",
         "url": "https://open.spotify.com/album/1i0aCt4na5SpYtgWyMAmuP"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179586,
       "name": "\u304a\u3068\u306a\u30d5\u30a9\u30d3\u30a2 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/5fVmui9tDfswbCpY6m5rIC"
@@ -360,7 +378,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 149149,
       "name": "\u3060\u30fb\u3057\u30fb\u3066 (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/7wxgQEOXXYjKcG0jo2hibg"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 143636,
       "name": "\u30a2\u30c0\u30c1\u30fb\u30ec\u30a4 (feat. \u8db3\u7acb\u30ec\u30a4)",
       "url": "https://open.spotify.com/track/5OmeYYYCg0y4NKo9fSQNyp"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 246438,
       "name": "\u30b8\u30a7\u30d8\u30ca (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2PBvI8nr1GSMEt43TIV2f2"
@@ -1445,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30d6\u30d1\u30e9",
+        "url": "https://open.spotify.com/album/5Dwd0E2Q3pXFrHJagd84Y6"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "\u30e9\u30d6\u30d1\u30e9",
+      "url": "https://open.spotify.com/track/0nOeQHoZI9S4BburaZYWlB"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0rXRHiDAJHYqYK693wpg6h"
       },
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 246708,
       "name": "\u30e9\u30d7\u30b9",
       "url": "https://open.spotify.com/track/1xM9H7QuHc07fbGHrqzUOq"
@@ -1604,7 +1640,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 144320,
       "name": "\u4e73\u9996\u306a\u305e\u306a\u305e",
       "url": "https://open.spotify.com/track/0jN8MPOaJOZiw8VwHueA5P"
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 180271,
       "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
       "url": "https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv"
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 252467,
       "name": "\u5343\u672c\u685c",
       "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"

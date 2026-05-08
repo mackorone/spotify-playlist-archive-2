@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Ameka Zrai",
+  "description": "Le meilleur du rap africain francophone. Photo : AKIM PAPICHULO",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "INVASION TOME II",
+        "url": "https://open.spotify.com/album/5eucneWXTbgnAMOrNHq2kg"
+      },
+      "artists": [
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153157,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/43omPVe6Ys95FAZsgpAGxW"
+    },
+    {
+      "album": {
         "name": "Ba Mambu",
         "url": "https://open.spotify.com/album/65Na0RqvLk8oDFesHM3kgM"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226174,
       "name": "Ba Mambu",
       "url": "https://open.spotify.com/track/4M6rjAN2HfvxSUHPrABzF9"
@@ -982,6 +1000,28 @@
       "duration_ms": 167355,
       "name": "C'est Chaud",
       "url": "https://open.spotify.com/track/1UrnbvkVqediUlSSOh4X3S"
+    },
+    {
+      "album": {
+        "name": "C'EST DIEU QUI DECIDE",
+        "url": "https://open.spotify.com/album/0VapjuV6oBVD5UQNsHs9kr"
+      },
+      "artists": [
+        {
+          "name": "Viviane Chidid",
+          "url": "https://open.spotify.com/artist/237q6mAGCztUeAVYoQhn2Q"
+        },
+        {
+          "name": "Bakhaw Dioum",
+          "url": "https://open.spotify.com/artist/3znrlamQaxTTaxGuFjrXWG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132705,
+      "name": "C'EST DIEU QUI DECIDE",
+      "url": "https://open.spotify.com/track/1Zr0NtX13eURcvhVLcMvLe"
     },
     {
       "album": {
@@ -1782,6 +1822,28 @@
       "duration_ms": 121982,
       "name": "Deodorant",
       "url": "https://open.spotify.com/track/1ZXvWdX8l4j7JLL9kSoiT5"
+    },
+    {
+      "album": {
+        "name": "Di Maria",
+        "url": "https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH"
+      },
+      "artists": [
+        {
+          "name": "AKIM PAPICHULO",
+          "url": "https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6"
+        },
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Di Maria",
+      "url": "https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc"
     },
     {
       "album": {
@@ -2770,7 +2832,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 161355,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/7soq260TP8RjkloK1yR16h"
@@ -2832,6 +2894,24 @@
       "duration_ms": 164170,
       "name": "Golden Boy 2",
       "url": "https://open.spotify.com/track/6HqtDBTRdLKHJJlz3LpQLz"
+    },
+    {
+      "album": {
+        "name": "Gros Nerfs",
+        "url": "https://open.spotify.com/album/0jNWeeTrm7NoeWfEiC5iN4"
+      },
+      "artists": [
+        {
+          "name": "Tenor",
+          "url": "https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208380,
+      "name": "Gros Nerfs",
+      "url": "https://open.spotify.com/track/5KR5mC0IKDrnStz30QsErS"
     },
     {
       "album": {
@@ -2992,6 +3072,28 @@
       "duration_ms": 140617,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/74Ii9tHNc3wIOf8PoAIUYv"
+    },
+    {
+      "album": {
+        "name": "Inshallah (II)",
+        "url": "https://open.spotify.com/album/5VKSq51Hl84VLNODp1BxTt"
+      },
+      "artists": [
+        {
+          "name": "Boykito",
+          "url": "https://open.spotify.com/artist/6UsBAhzHN7UEOEChp1L0mA"
+        },
+        {
+          "name": "D14",
+          "url": "https://open.spotify.com/artist/3y3XReRDa8zAZop35uXw0h"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201142,
+      "name": "Inshallah - II",
+      "url": "https://open.spotify.com/track/2N9cBop08hp3wGXvidxThG"
     },
     {
       "album": {
@@ -3622,7 +3724,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174792,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/4my4o5kJYISkgv2VWS36ps"
@@ -5126,7 +5228,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 126861,
       "name": "Pression",
       "url": "https://open.spotify.com/track/57KmGF8jPwAiSXebjpLOC7"
@@ -6032,7 +6134,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 167366,
       "name": "TRANSCENDER",
       "url": "https://open.spotify.com/track/7nP2FfgycGG4Rtis0AoXQt"

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-852 songs - 1 day 18 hr 14 min
+853 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Army](https://open.spotify.com/track/3j6s1vr84KzKlpF0QfHzDy) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Army](https://open.spotify.com/album/6DVaBrn0D40NiJCcL4faVZ) | 3:23 | 2023-08-08 | 2024-04-03 |
 | [Around Us](https://open.spotify.com/track/15j1hHVYdw4dTtyuNpSAZc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Carlos Ukareda](https://open.spotify.com/artist/0qucCKkoXx09qP0KCITOiW), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Around Us](https://open.spotify.com/album/1MgahvG4uCKryZxzslYw8Z) | 2:16 | 2025-05-23 |  |
 | [Artificial Love](https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC) | [Part Native](https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX), [Oly](https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL) | [Artificial Love](https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D) | 3:21 | 2022-10-13 | 2023-04-28 |
+| [ascend](https://open.spotify.com/track/0u8QvZSfPmibHosPqgaeUl) | [KORZIX](https://open.spotify.com/artist/6amlo0aysVfU2RSddhJ6V0) | [ascend](https://open.spotify.com/album/2IXg9MdjyuKwAXh77EX4EW) | 2:58 | 2026-05-07 |  |
 | [Asteroid II](https://open.spotify.com/track/2gfVi9fQCGfV36D5hOzNqy) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Asteroid II](https://open.spotify.com/album/6a9Rw9SEd0nTwPp4otPeLm) | 3:57 | 2025-01-18 |  |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 | 2023-04-28 |
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 | 2023-04-28 |

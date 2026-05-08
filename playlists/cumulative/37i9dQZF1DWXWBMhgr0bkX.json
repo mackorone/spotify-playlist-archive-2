@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown, emerging pop \ud83e\udd64 cover: Akeira Jade",
+  "description": "Homegrown emerging pop \ud83e\udd64 cover: Akeira Jade",
   "name": "New Pop UK",
   "tracks": [
+    {
+      "album": {
+        "name": "0755",
+        "url": "https://open.spotify.com/album/0kaM2KUF1wdCKw9VwrzBee"
+      },
+      "artists": [
+        {
+          "name": "LYVIA",
+          "url": "https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "0755",
+      "url": "https://open.spotify.com/track/4gg4lhXvUtETm54kCv7u2B"
+    },
     {
       "album": {
         "name": "100 degrees",
@@ -880,7 +898,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 191943,
       "name": "American Wedding",
       "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 223573,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 171500,
       "name": "Because I Care",
       "url": "https://open.spotify.com/track/1dMRZFKMtMROQRRdd4nDRp"
@@ -3179,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Call Her Home",
+        "url": "https://open.spotify.com/album/5QRbNC3PPCD1xd2kf7c0oI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192790,
+      "name": "Call Her Home",
+      "url": "https://open.spotify.com/track/6NCa7oT1GaVjf8C2atj8wO"
+    },
+    {
+      "album": {
         "name": "Call Me When It's Over",
         "url": "https://open.spotify.com/album/2G9MKeUFqc9hPdeWNux4ZG"
       },
@@ -4538,7 +4574,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 161684,
       "name": "Cut In Half",
       "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
@@ -5212,7 +5248,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 202500,
       "name": "Do the Maths",
       "url": "https://open.spotify.com/track/3gws2BCGherVULX055LVQl"
@@ -5320,7 +5356,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 150989,
       "name": "Dog years",
       "url": "https://open.spotify.com/track/2Rl6Kr1Mvp709lU1dkp4ew"
@@ -5896,7 +5932,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174226,
       "name": "EARN LOVE",
       "url": "https://open.spotify.com/track/7qJU4emEDKQEC8YQwN8myn"
@@ -6700,6 +6736,24 @@
       "duration_ms": 204505,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/1xoVeOqloSMv4hlcmRtAkk"
+    },
+    {
+      "album": {
+        "name": "Grown Up Girl Regrets",
+        "url": "https://open.spotify.com/album/6pJ815361HGjxW89J9pthV"
+      },
+      "artists": [
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156378,
+      "name": "Feel All The Feels",
+      "url": "https://open.spotify.com/track/4yskA20MwTSutKhjZ2qcc8"
     },
     {
       "album": {
@@ -7931,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "Good Pretender",
+        "url": "https://open.spotify.com/album/6qnzobG0laXkjqQagipjZ1"
+      },
+      "artists": [
+        {
+          "name": "Amalia Davinder",
+          "url": "https://open.spotify.com/artist/1UZdRl7AwDP3R7HLZhjam8"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179486,
+      "name": "Good Pretender",
+      "url": "https://open.spotify.com/track/7IxhCU5h0NJNJjZsNkEVg8"
+    },
+    {
+      "album": {
         "name": "Good timing",
         "url": "https://open.spotify.com/album/2ZiCzlbHfcd2SovHTlgHNi"
       },
@@ -8220,7 +8292,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 154305,
       "name": "HAPPY EVER AFTER!",
       "url": "https://open.spotify.com/track/6obhlSA3mAWNy626GQeWVt"
@@ -8933,6 +9005,24 @@
     },
     {
       "album": {
+        "name": "Holiday Song",
+        "url": "https://open.spotify.com/album/3Zq0YnagOHR68KSq2pQ7Kr"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153413,
+      "name": "Holiday Song",
+      "url": "https://open.spotify.com/track/4MVVgMXCGofoegZyc9BxUW"
+    },
+    {
+      "album": {
         "name": "holy water",
         "url": "https://open.spotify.com/album/0kooE3G371fP6mB3ugbj98"
       },
@@ -9034,7 +9124,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 216500,
       "name": "honest",
       "url": "https://open.spotify.com/track/7FdfyUfYiDqido1x8KcvyC"
@@ -9841,6 +9931,24 @@
     },
     {
       "album": {
+        "name": "I'm Alright Now",
+        "url": "https://open.spotify.com/album/6lM1YCAmwDDVtM8xZX9PTQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "I'm Alright Now",
+      "url": "https://open.spotify.com/track/3LFcHLPdxn1PhAqCwRDZc1"
+    },
+    {
+      "album": {
         "name": "I'm Not Going Anywhere",
         "url": "https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP"
       },
@@ -10302,7 +10410,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 150610,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/0Q1GO03eIfLyvzOtpo6kT6"
@@ -11008,7 +11116,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 126750,
       "name": "Lara's Boyfriend",
       "url": "https://open.spotify.com/track/1oG0qodkwuizOggAJEWBNa"
@@ -11321,6 +11429,24 @@
     },
     {
       "album": {
+        "name": "it's just my opinion",
+        "url": "https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193755,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS"
+    },
+    {
+      "album": {
         "name": "Lights Off",
         "url": "https://open.spotify.com/album/1qxqjgKbzcUdLaxyza6ZuH"
       },
@@ -11372,6 +11498,24 @@
       "duration_ms": 167459,
       "name": "Like I Should Do",
       "url": "https://open.spotify.com/track/3rdAvWOc1lzj7yutDmnc9U"
+    },
+    {
+      "album": {
+        "name": "LIKE, YEH",
+        "url": "https://open.spotify.com/album/7w6TwHMYuwhbD4eyQNQmAn"
+      },
+      "artists": [
+        {
+          "name": "Leah Cleaver",
+          "url": "https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202155,
+      "name": "LIKE, YEH",
+      "url": "https://open.spotify.com/track/2hakXILUFf6MhFMLB8P7m7"
     },
     {
       "album": {
@@ -11476,7 +11620,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 203730,
       "name": "London",
       "url": "https://open.spotify.com/track/6Og1pgacDVVAm2xC5N9yeb"
@@ -11584,7 +11728,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168758,
       "name": "Lost In Your Blues",
       "url": "https://open.spotify.com/track/6IROP7Z00gxFrJvKHwE1uS"
@@ -13467,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "Not Born For Love",
+        "url": "https://open.spotify.com/album/7MC6EAg6iGB3TY3rel0BvR"
+      },
+      "artists": [
+        {
+          "name": "Luca George",
+          "url": "https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253301,
+      "name": "Not Born For Love",
+      "url": "https://open.spotify.com/track/62gfqWCzEUaEiblWsUiJyn"
+    },
+    {
+      "album": {
         "name": "Not Like That Anymore",
         "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
       },
@@ -15135,6 +15297,24 @@
     },
     {
       "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
+    },
+    {
+      "album": {
         "name": "Reach You",
         "url": "https://open.spotify.com/album/4G3ZScIA2hKsIxRoR4FBi5"
       },
@@ -16692,7 +16872,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 231293,
       "name": "Simmer Down",
       "url": "https://open.spotify.com/track/4717aD7T6rrp3D3OpOzEYr"
@@ -17344,7 +17524,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 148162,
       "name": "Squirm",
       "url": "https://open.spotify.com/track/1C5whO9ggWKJGkcI93Cizs"
@@ -18799,6 +18979,24 @@
     },
     {
       "album": {
+        "name": "The Slowest Landslide",
+        "url": "https://open.spotify.com/album/0W6r0ADpSGMWWDPfUwZfjX"
+      },
+      "artists": [
+        {
+          "name": "Fred Roberts",
+          "url": "https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198167,
+      "name": "The Slowest Landslide",
+      "url": "https://open.spotify.com/track/2B1LPUtoR6JEJCf60ZFGc9"
+    },
+    {
+      "album": {
         "name": "The Soul",
         "url": "https://open.spotify.com/album/0omXOMUoU38QkjkKylzae6"
       },
@@ -18810,7 +19008,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 217435,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/7E9nwEq0qTesc7a6KjdUqn"
@@ -19102,6 +19300,24 @@
       "duration_ms": 126250,
       "name": "THROW A FIT",
       "url": "https://open.spotify.com/track/0n0l9X47XiqXjVAC52hzSz"
+    },
+    {
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/2qnquruBha6qtNaiVsxvXX"
+      },
+      "artists": [
+        {
+          "name": "Shay O'Dowd",
+          "url": "https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Time & Space",
+      "url": "https://open.spotify.com/track/2fYU9hcP63iRXPQjKAFZDT"
     },
     {
       "album": {
@@ -20104,7 +20320,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 119171,
       "name": "where to go?",
       "url": "https://open.spotify.com/track/7nCMAIlaoICemczQ6cjk20"
@@ -20637,6 +20853,24 @@
     },
     {
       "album": {
+        "name": "You Can Try Me",
+        "url": "https://open.spotify.com/album/253Xd1N5EcrsvMxEZvYHMb"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192268,
+      "name": "You Can Try Me",
+      "url": "https://open.spotify.com/track/6Um7iaDJaaYqzHw3yB1Jo0"
+    },
+    {
+      "album": {
         "name": "You Don't Know How to Drive",
         "url": "https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY"
       },
@@ -20778,7 +21012,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 141537,
       "name": "You Need a Lover",
       "url": "https://open.spotify.com/track/7AC6WisXk8OGXctLQ6Lap9"

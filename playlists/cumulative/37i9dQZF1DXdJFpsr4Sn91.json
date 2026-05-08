@@ -9074,7 +9074,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 153110,
       "name": "Kev\u00e4tkiima",
       "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
@@ -9702,7 +9702,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 206999,
       "name": "Kuolisin sun kaa (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
@@ -12108,7 +12108,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 180217,
       "name": "Miss\u00e4 meet",
       "url": "https://open.spotify.com/track/1nWIn18SUy6RxIFSRRQqX7"
@@ -14529,6 +14529,24 @@
     },
     {
       "album": {
+        "name": "Pallo jalast",
+        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "Pallo jalast",
+      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
+    },
+    {
+      "album": {
         "name": "Paluu",
         "url": "https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A"
       },
@@ -15150,6 +15168,24 @@
       "duration_ms": 141372,
       "name": "Poikii on",
       "url": "https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R"
+    },
+    {
+      "album": {
+        "name": "Pokaali",
+        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "Pokaali",
+      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
     },
     {
       "album": {
@@ -18222,7 +18258,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 155573,
       "name": "Stiigerihai",
       "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
@@ -19430,7 +19466,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 148374,
       "name": "Ter\u00e4lehti",
       "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
@@ -22498,7 +22534,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 139137,
       "name": "Yhteysvikoja",
       "url": "https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ"

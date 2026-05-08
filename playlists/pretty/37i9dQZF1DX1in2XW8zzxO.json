@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 100809,
+  "num_followers": 100847,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "Bass Outra !",
+        "url": "https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59"
+      },
+      "artists": [
+        {
+          "name": "Sgija Keys",
+          "url": "https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti"
+        },
+        {
+          "name": "M00tion",
+          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
+        }
+      ],
+      "duration_ms": 351503,
+      "name": "Bass Outra !",
+      "url": "https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
         "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 414827,
       "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
       "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Bass Outra !",
-        "url": "https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59"
-      },
-      "artists": [
-        {
-          "name": "Sgija Keys",
-          "url": "https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti"
-        },
-        {
-          "name": "M00tion",
-          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
-        }
-      ],
-      "duration_ms": 351503,
-      "name": "Bass Outra !",
-      "url": "https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Woza La!",
-        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Benny Maverick",
-          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
-        },
-        {
-          "name": "Triple X Da Ghost",
-          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Woza La!",
-      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Pure Bliss",
         "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 361116,
       "name": "Rekisa Kapela (feat. Certified Dyan)",
       "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Woza La!",
+        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Woza La!",
+      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

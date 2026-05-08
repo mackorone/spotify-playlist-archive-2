@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: BJ\u00d8RN",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: Thea Dora",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -3262,6 +3262,24 @@
       "duration_ms": 164523,
       "name": "I Wanna Dive in the Seven Seas",
       "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
+    },
+    {
+      "album": {
+        "name": "i'll quit quitting",
+        "url": "https://open.spotify.com/album/6uCjsjUW7XE64ag0bTUvZk"
+      },
+      "artists": [
+        {
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198810,
+      "name": "i'll quit quitting",
+      "url": "https://open.spotify.com/track/50QHiazBVpbsOKfFIrBR2k"
     },
     {
       "album": {
@@ -7734,7 +7752,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 162876,
       "name": "You Want The World",
       "url": "https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0"

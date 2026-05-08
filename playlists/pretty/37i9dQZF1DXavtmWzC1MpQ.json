@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154851,
+  "num_followers": 154835,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Noise Of The Forest",
-        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
-      },
-      "artists": [
-        {
-          "name": "Mind & Body",
-          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Noise Of The Forest",
-      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Peaceful Rain Recordings",
         "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Noise Of The Forest",
+        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
+      },
+      "artists": [
+        {
+          "name": "Mind & Body",
+          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Noise Of The Forest",
+      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Nature Hideout",
-        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
-      },
-      "artists": [
-        {
-          "name": "mahogany",
-          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nature Night-time",
-      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Suburban Forest Rain",
         "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Nature Hideout",
+        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
+      },
+      "artists": [
+        {
+          "name": "mahogany",
+          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Nature Night-time",
+      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Soothing Birdsong by the River",
         "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
@@ -511,26 +511,6 @@
       "duration_ms": 175813,
       "name": "Singing Birds by the Stream",
       "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Vozterra",
-          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
-        }
-      ],
-      "duration_ms": 158037,
-      "name": "Piqueros",
-      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -567,6 +547,26 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "duration_ms": 158037,
+      "name": "Piqueros",
+      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Rain Awakening",
         "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Relaxed Minds",
-        "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
-      },
-      "artists": [
-        {
-          "name": "Relaxed Minds",
-          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
-        }
-      ],
-      "duration_ms": 155295,
-      "name": "Tropical Waves",
-      "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Still the River Flows",
         "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 153488,
       "name": "Still the River Flows",
       "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Relaxed Minds",
+        "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "duration_ms": 155295,
+      "name": "Tropical Waves",
+      "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Thunderstorms vol II",
+        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Dripping Wet Leaves and Thunder",
+      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Sunny Windy Day",
         "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Thunderstorms vol II",
-        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
       },
       "artists": [
         {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
         }
       ],
-      "duration_ms": 228500,
-      "name": "Dripping Wet Leaves and Thunder",
-      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -779,18 +795,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Catskill Forest Preserve",
-        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+        "name": "Lastovo Island Summer Bird Song",
+        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
       },
       "artists": [
         {
-          "name": "Waveseekers",
-          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
         }
       ],
-      "duration_ms": 247466,
-      "name": "Catskill Forest Preserve",
-      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
+      "duration_ms": 195180,
+      "name": "Lastovo Island Summer Bird Song",
+      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -807,22 +823,6 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Lastovo Island Summer Bird Song",
-        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
-      },
-      "artists": [
-        {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
-        }
-      ],
-      "duration_ms": 195180,
-      "name": "Lastovo Island Summer Bird Song",
-      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     }
   ],
   "unique_name": "Sons da Natureza",

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Oral_Abisal",
+        "url": "https://open.spotify.com/album/7BMy6fDG6vh9ln4IjZWHqu"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Abissal",
+      "url": "https://open.spotify.com/track/4l4fUar7kJNq1pNZrSTvNw"
+    },
+    {
+      "album": {
         "name": "Acaso",
         "url": "https://open.spotify.com/album/4wALhbk6F1YilNThaNPDhC"
       },
@@ -482,7 +500,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 250080,
       "name": "Amar",
       "url": "https://open.spotify.com/track/2dppCe4Bnlg75Wabm3q4zB"
@@ -7397,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "Nadie con ese nombre vive aqu\u00ed",
+        "url": "https://open.spotify.com/album/5Yzyk2mQPCscSACwVnL2IJ"
+      },
+      "artists": [
+        {
+          "name": "Guille Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/641rPU7K6d0SaC68pdD0on"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226814,
+      "name": "T\u00fanel de la M-30",
+      "url": "https://open.spotify.com/track/0YrFOkCLwloqcKCjpU7nRY"
+    },
+    {
+      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -8030,7 +8066,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 228815,
       "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
       "url": "https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy"

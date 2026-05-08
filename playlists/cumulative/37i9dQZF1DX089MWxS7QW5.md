@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: moyo\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jang Soo Bin\(장수빈\)\)
 
-629 songs - 1 day 9 hr 46 min
+633 songs - 1 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Lovestruck](https://open.spotify.com/track/6XDITtqHGbwGabvBRoVDIV) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [Lovestruck](https://open.spotify.com/album/333YGW1Uy6WEOe79iQi1Yn) | 3:12 | 2025-04-18 | 2025-08-06 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Lucid Dream](https://open.spotify.com/track/44EYN37LzbbMWan3rdstuu) | [YOU Sieun](https://open.spotify.com/artist/76e055trYOgjlIidfYGBmu) | [Morphine](https://open.spotify.com/album/3Aaat4pMDRMrRoEyxmA9X6) | 4:23 | 2025-10-22 |  |
+| [Lucky](https://open.spotify.com/track/2BLGNwa2TilLNRVmRDMYlw) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Lucky](https://open.spotify.com/album/24Zn0QuP9VyAjUYHRarggi) | 2:38 | 2026-05-07 |  |
 | [Lychee Lime Juice](https://open.spotify.com/track/03IxmjvEqfzHCw9ivFX3pm) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [SUMMER FREAK: Sun, Rain, Love](https://open.spotify.com/album/0rawyUTz3wjP4gVFYAloIM) | 4:30 | 2024-08-01 | 2024-09-14 |
 | [Magnolia](https://open.spotify.com/track/7gIeUVYUGkXX6qKyfhSvCT) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4) | [Magnolia](https://open.spotify.com/album/47VCVcsD6bPIYiIqosclMh) | 3:24 | 2024-09-13 | 2024-11-30 |
 | [Main spot \(feat\. Ben Bliss\)](https://open.spotify.com/track/6DF2j2lN8JHWrTfzojFJ41) | [YUuL](https://open.spotify.com/artist/5KsKiZaOE4hCVzeIJxBtIo), [Ben Bliss](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq) | [Main spot](https://open.spotify.com/album/0JlKbydZrsg1qGTGsRItRi) | 2:44 | 2025-06-02 | 2025-09-26 |
@@ -529,6 +530,7 @@
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-27 | 2023-09-19 |
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 | 2022-07-06 |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-03-28 |
+| [Tango](https://open.spotify.com/track/2jSlVIQBBQuc1FavxrGzZX) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Tango](https://open.spotify.com/album/4mDIJWv5zJqwQDO2Fstval) | 3:07 | 2026-05-07 |  |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2023-10-28 |
 | [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 | 2026-04-30 |  |
 | [Thank You](https://open.spotify.com/track/3EMiLWkjblEIuMu2pn5vHi) | [HyunJin](https://open.spotify.com/artist/3BahfzNxLclSnIM8F6i7rp) | [Thank You](https://open.spotify.com/album/2qUzMCOkMdkpx9Om8fC3VY) | 3:33 | 2024-12-18 | 2025-04-18 |
@@ -545,6 +547,7 @@
 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-14 | 2025-06-03 |
 | [THOUGHTS](https://open.spotify.com/track/62jVx6znQJGcqaVXtEfNeq) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [THOUGHTS](https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh) | 3:07 | 2025-01-24 | 2025-05-21 |
 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 | 2024-10-14 | 2025-02-21 |
+| [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 | 2026-05-07 |  |
 | [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 | 2022-08-20 |
 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 | 2025-07-09 | 2026-01-23 |
 | [Time Machine](https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Time Machine](https://open.spotify.com/album/3BatyD1PQYv2rkHjUTC68T) | 2:39 | 2024-10-17 | 2025-03-13 |
@@ -570,6 +573,7 @@
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-11-29 |
 | [Upside Down](https://open.spotify.com/track/1qUHvpyJHIf6c34nmGFZCD) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [Upside Down](https://open.spotify.com/album/58c2r9nwDcKaBIFILWchdA) | 2:34 | 2023-11-02 | 2024-03-16 |
 | [UUU](https://open.spotify.com/track/5c4c8g4QFDaNv3NHogfokl) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [The Drive](https://open.spotify.com/album/40yZ2AKA4dGdLavr5x7H8S) | 3:17 | 2023-11-17 | 2024-04-05 |
+| [victim mentality](https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO) | [METP](https://open.spotify.com/artist/6cUnLHLMciBCEk9sAA3lLB) | [victim mentality](https://open.spotify.com/album/7fk1B1SQm00Uik0FPE9JQv) | 3:40 | 2026-05-07 |  |
 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 | 2026-04-13 |  |
 | [Vintage](https://open.spotify.com/track/3ldE0Le2FD980EgrIdZQ9R) | [가빈](https://open.spotify.com/artist/0Dg1BqbmHxlT3pP0ywT6FS) | [Vintage](https://open.spotify.com/album/6NcZqjJN1mRx1uLJtYIdTz) | 3:11 | 2024-08-21 | 2024-10-15 |
 | [Walk a Flower \(feat\. chaenni\)](https://open.spotify.com/track/3vpBBHtBMAtsb0uVbn9Wug) | [KOUSEI](https://open.spotify.com/artist/42m6lOGRi5ZUGubVO8cLlw), [chaenni](https://open.spotify.com/artist/28FEs2xVFcKLMjJYiWPDzi) | [Walk a Flower \(feat\. chaenni\)](https://open.spotify.com/album/5HROTFJScbaAu9kSA9p5kE) | 3:45 | 2024-12-05 | 2025-04-18 |

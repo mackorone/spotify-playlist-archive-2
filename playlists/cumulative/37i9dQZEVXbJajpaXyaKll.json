@@ -7100,7 +7100,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -14311,6 +14311,24 @@
     },
     {
       "album": {
+        "name": "Ese Hombre",
+        "url": "https://open.spotify.com/album/04OcJNddbstxEtdBPtP80l"
+      },
+      "artists": [
+        {
+          "name": "Layah Noir",
+          "url": "https://open.spotify.com/artist/3yzuknArjsfQbAXKYJ3cEE"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340938,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/6urdDFlKFxcZLtK3yokldg"
+    },
+    {
+      "album": {
         "name": "Eso Que T\u00fa Llamas Amor",
         "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
       },
@@ -18650,7 +18668,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
@@ -22638,6 +22656,24 @@
       "duration_ms": 132142,
       "name": "Las Cosas Que No Dije",
       "url": "https://open.spotify.com/track/0oOpGaV23qGzjaYcBYCldY"
+    },
+    {
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/4rYkjbia1gDi2BUi4dIY01"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/4uRYuPIcuRedAHptdTaF3L"
     },
     {
       "album": {

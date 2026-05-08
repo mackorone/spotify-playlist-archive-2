@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 56443,
+  "num_followers": 56450,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAAAzygpKYJ3Fv3n6iK57QkOQ",
+  "snapshot_id": "afqEgAAAAABnqv2BS5dF0dhh2SBjtmTC",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Damn Good Time",
+      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is A Highway: Refueled Duets",
         "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 199733,
       "name": "Yours If You Want It",
       "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Damn Good Time",
-      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Church In A Chevy",
-      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 169346,
       "name": "Short Fuse",
       "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Church In A Chevy",
+      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 161553,
-      "name": "Ruin My Weekend",
-      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 165146,
       "name": "Whiskey Weak",
       "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 161553,
+      "name": "Ruin My Weekend",
+      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detours",
-        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 211229,
-      "name": "Detours",
-      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 188266,
       "name": "Part Of It",
       "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Detours",
+        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 211229,
+      "name": "Detours",
+      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
     },
     {
       "added_at": null,

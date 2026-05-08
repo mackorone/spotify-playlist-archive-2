@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 180129,
+  "num_followers": 180173,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Tiempos Mejores",
-        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Amiga - Bonus Track",
-      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Tiempos Mejores",
+        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Amiga - Bonus Track",
+      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "T\u00fa Est\u00e1s M\u00e1s",
-      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Historias De Un Cowboy",
         "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 166504,
       "name": "Miente",
       "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "T\u00fa Est\u00e1s M\u00e1s",
+      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sentado Aqu\u00ed",
-        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 260949,
-      "name": "Sentado Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bella \u00c9poca",
         "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 174120,
       "name": "Dej\u00e9 de Ser Yo",
       "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sentado Aqu\u00ed",
+        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 260949,
+      "name": "Sentado Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Cassette",
-        "url": "https://open.spotify.com/album/5BS5LJXuEvSkOhznZ6gqhS"
-      },
-      "artists": [
-        {
-          "name": "Telefunka",
-          "url": "https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/0meIJ6nBSVW3UqX1O96EN3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Out of Place",
         "url": "https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 185293,
       "name": "Copycat",
       "url": "https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Cassette",
+        "url": "https://open.spotify.com/album/5BS5LJXuEvSkOhznZ6gqhS"
+      },
+      "artists": [
+        {
+          "name": "Telefunka",
+          "url": "https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/0meIJ6nBSVW3UqX1O96EN3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Valerio Benustelli",
-        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "Valerio Benustelli",
-      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Happy-fi Compilaci\u00f3n Vol. 2",
         "url": "https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE"
       },
@@ -1495,22 +1479,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Buffalo Beat EP",
-        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
-      },
-      "artists": [
-        {
-          "name": "Timothy The Master",
-          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
-        }
-      ],
-      "duration_ms": 315447,
-      "name": "Psicomagia",
-      "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Madre M\u00eda",
         "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
       },
@@ -1523,6 +1491,38 @@
       "duration_ms": 226413,
       "name": "Agua De Coco",
       "url": "https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Valerio Benustelli",
+        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "Valerio Benustelli",
+      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Buffalo Beat EP",
+        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
+      },
+      "artists": [
+        {
+          "name": "Timothy The Master",
+          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
+        }
+      ],
+      "duration_ms": 315447,
+      "name": "Psicomagia",
+      "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Buffalo Beat EP",
-        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
-      },
-      "artists": [
-        {
-          "name": "Timothy The Master",
-          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Jugo De Frutas",
-      "url": "https://open.spotify.com/track/4YgU6ASjpMsb71QwSBgmtW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sombras De Oro",
         "url": "https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 291712,
       "name": "Por Eso",
       "url": "https://open.spotify.com/track/4rk4v9tpdPWb1U4mJbNSfs"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Buffalo Beat EP",
+        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
+      },
+      "artists": [
+        {
+          "name": "Timothy The Master",
+          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Jugo De Frutas",
+      "url": "https://open.spotify.com/track/4YgU6ASjpMsb71QwSBgmtW"
     },
     {
       "added_at": "2023-09-01 16:42:45",

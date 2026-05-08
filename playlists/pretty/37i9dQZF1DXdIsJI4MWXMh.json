@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80800,
+  "num_followers": 80813,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Vivo en Tinieblas",
+        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 226727,
+      "name": "Vivo en Tinieblas",
+      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "La Sustancia",
         "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 238064,
       "name": "El Mu\u00f1eco",
       "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Vivo en Tinieblas",
-        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 226727,
-      "name": "Vivo en Tinieblas",
-      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
     },
     {
       "added_at": "2026-02-19 20:52:53",

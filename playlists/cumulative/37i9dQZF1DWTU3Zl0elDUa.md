@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-145 songs - 13 hr 16 min
+146 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [King of My Castle \- Roy Malone's King Radio Edit](https://open.spotify.com/track/6tMljaV7JPdoPc88Z2dlwu) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle \(Mixes\)](https://open.spotify.com/album/5B0SFs0tNHlR8pTkedmRgd) | 3:35 | 2021-09-17 | 2023-11-04 |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 | 2021-09-17 | 2022-07-23 |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2024-04-11 |  |
-| [Let The Freak](https://open.spotify.com/track/2KKmMowig9ZMrZLmaEw9A6) | [Epitome Of Hype](https://open.spotify.com/artist/60SjdVjFjUhR70M8nlqDV5) | [Ladies With An Attitude \(2016 Remaster\)](https://open.spotify.com/album/6CpoJjaKIIdnP5kLpImuxA) | 6:10 | 2021-09-17 |  |
+| [Let The Freak](https://open.spotify.com/track/2KKmMowig9ZMrZLmaEw9A6) | [Epitome Of Hype](https://open.spotify.com/artist/60SjdVjFjUhR70M8nlqDV5) | [Ladies With An Attitude \(2016 Remaster\)](https://open.spotify.com/album/6CpoJjaKIIdnP5kLpImuxA) | 6:10 | 2021-09-17 | 2026-05-08 |
 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 | 2021-09-17 |  |
 | [London Xpress](https://open.spotify.com/track/7qE89I8Xw5WPykWtzPvqoD) | [X\-Press 2](https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL) | [Raise Your Hands](https://open.spotify.com/album/4NS4zVtdf0k9jIsaOsonQV) | 6:46 | 2021-09-17 | 2023-01-23 |
 | [Love Come Down \- Club Vocal Mix](https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 8:36 | 2021-09-17 |  |
@@ -91,6 +91,7 @@
 | [Move Your Body](https://open.spotify.com/track/4oWMQLRoOJambXWSURXSHI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Four Most Cuts Presents \- Classic Chicago House](https://open.spotify.com/album/4yKJewNc2ARvD9GskJ3qjK) | 6:42 | 2021-09-17 | 2022-07-21 |
 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 | 2021-09-17 | 2024-04-19 |
 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 | 2021-09-17 |  |
+| [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/track/6hG8qz5Tc6syPSQMG5wRsR) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/album/7KlYBYVRKAzjQA5lZHZ3r1) | 4:52 | 2026-05-04 |  |
 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 | 2021-09-17 |  |
 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 | 2021-09-17 | 2024-04-12 |
 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/0DmMkCRnLCn30vkJeUhgK2) | [Marshall Jefferson vs\. Noosa Heads](https://open.spotify.com/artist/45KxlxhV4KySZkLb5pXo8V) | [Mushrooms](https://open.spotify.com/album/1Vy1OUHs1xkzpzbaoxeXZr) | 8:17 | 2021-09-17 | 2022-07-29 |

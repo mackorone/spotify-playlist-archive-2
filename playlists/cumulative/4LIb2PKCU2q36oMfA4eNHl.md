@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-418 songs - 1 day 2 hr 47 min
+419 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,13 +356,14 @@
 | [Softness II](https://open.spotify.com/track/1JVpCuDd3FVoaGlbPQV3lW) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [Softness II](https://open.spotify.com/album/5qZZk35b3QYQy7Nytj7TVT) | 3:34 | 2024-11-01 | 2024-11-09 |
 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 | 2023-12-08 | 2025-09-13 |
 | [Starlight](https://open.spotify.com/track/7fAZs2JfvclRnHJSsd3aGt) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Starlight](https://open.spotify.com/album/1B5a772TAeLW1f5nnu8din) | 3:21 | 2025-07-18 | 2025-08-16 |
-| [Stay](https://open.spotify.com/track/58AB6UhgBqKSPByXQiUFkS) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Stay](https://open.spotify.com/album/0Va3WNAvWz7Tb3e2XjI4kb) | 4:10 | 2025-01-13 |  |
+| [Stay](https://open.spotify.com/track/58AB6UhgBqKSPByXQiUFkS) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Stay](https://open.spotify.com/album/0Va3WNAvWz7Tb3e2XjI4kb) | 4:10 | 2025-01-13 | 2026-05-08 |
 | [Stellar](https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa) | 3:45 | 2024-04-19 | 2024-06-15 |
 | [Stolen Glances \(feat\. Låpsley\) \- Anamē Remix](https://open.spotify.com/track/7C5bpP9oyzxLNK5Pp3p19g) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\) \[Anamē Remix\]](https://open.spotify.com/album/4Ca29VDhLFNGpH2y5XGBBK) | 3:33 | 2025-01-13 | 2025-01-18 |
 | [Submerge](https://open.spotify.com/track/3D0KXlaqViWlGWODdsNrKm) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 4:15 | 2025-01-13 | 2025-05-17 |
 | [Summer](https://open.spotify.com/track/1w9XZ6Pac9L7z4LOSbYe0E) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:52 | 2024-09-10 | 2024-09-21 |
 | [summer & emails \(no longer a sadness\)](https://open.spotify.com/track/0p03R0WRlCjPp5rENeC4GM) | [Joshua](https://open.spotify.com/artist/6WY4GlbTKrZnzoaIyKdyDr), [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [2.23](https://open.spotify.com/album/3cVo98Ytv09Iu5PIwnla5O) | 1:06 | 2024-01-05 | 2024-01-13 |
 | [Summer Dreams](https://open.spotify.com/track/3VSWJ61d0x9LJ2zvZPGFwD) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ), [Dessin Bizarre](https://open.spotify.com/artist/4DafxGtQjtOUPDvUZXQfgC) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 2:58 | 2024-03-01 | 2024-06-04 |
+| [Sun Sun Sun](https://open.spotify.com/track/0OUcApEYOq3d5t6w0TcEDo) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Sun Sun Sun](https://open.spotify.com/album/1G6gO9tV9ue1FbFH4Mi013) | 3:42 | 2026-05-07 |  |
 | [Sunburn](https://open.spotify.com/track/14sLpbgStmGVS8QnSFUx08) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:58 | 2025-01-13 | 2025-04-05 |
 | [Sunrays \[Strings\]](https://open.spotify.com/track/3dPjBWHW8rgJFFhy5MulzC) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [\[Strings\]](https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw) | 3:29 | 2024-09-20 | 2026-01-28 |
 | [Sunrise Song](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Life at Full Speed](https://open.spotify.com/album/0nWAp3Dhfy2a4tyaHMVSPr) | 3:47 | 2025-01-13 | 2025-08-16 |

@@ -39825,6 +39825,24 @@
     },
     {
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/6Oq2uNmcgKdMSAdZSXG73j"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C"
+    },
+    {
+      "album": {
         "name": "Low Class Lovers",
         "url": "https://open.spotify.com/album/4bVa6xxpPiYh8XMECzQDBU"
       },

@@ -5715,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Public Memory #1",
+        "url": "https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211851,
+      "name": "Public Memory #1",
+      "url": "https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY"
       },

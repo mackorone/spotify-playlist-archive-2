@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-782 songs - 1 day 21 hr 57 min
+783 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Ilavarasi](https://open.spotify.com/track/4nOHICVDNdqyMIbQjOJ8hF) | [Jecin George](https://open.spotify.com/artist/5UcUhUt9RK09Wyy3twh7rN), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Ilavarasi](https://open.spotify.com/album/0DGVvdz7xqrMJ9mB59NJJh) | 3:48 | 2023-03-10 | 2023-04-01 |
 | [Illai Illai](https://open.spotify.com/track/39GXOnXzJDNIz96XRoOltR) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1), [Lokesh Sambath Kumar](https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv) | [Illai Illai](https://open.spotify.com/album/1UZcV7bCzck2xgS5QILn9p) | 3:33 | 2025-10-10 | 2025-10-23 |
 | [Imaigalo](https://open.spotify.com/track/5LRODMeAbWjHEItSRLGZ3b) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Imaigalo](https://open.spotify.com/album/3hujPUBf31Y80dprCKF5gj) | 2:45 | 2023-04-03 | 2025-02-11 |
+| [IMAYE](https://open.spotify.com/track/5PL0PtPlaSjH6eQdA9WfFS) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [IMAYE](https://open.spotify.com/album/6l9QzVbtnlN4BTrO7ZQZ3O) | 3:22 | 2026-05-06 |  |
 | [Imaye \- From "Think Specials"](https://open.spotify.com/track/0Ung8cwAINVSXcIcSkZLIF) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Imaye \(From "Think Specials"\)](https://open.spotify.com/album/56m9UEPRLqXL6dMJJPtU3l) | 3:30 | 2022-09-23 | 2023-02-28 |
 | [In Her Wish](https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT) | [Ajayy K](https://open.spotify.com/artist/1PgASqMDJgiJA5incZF56n) | [In Her Wish](https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk) | 2:27 | 2024-12-05 | 2025-01-22 |
 | [Inayum Paadhaigal](https://open.spotify.com/track/5Q9EytmVjm1TFZ3hCfjdD3) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vinaita Sivakumar](https://open.spotify.com/artist/0dtzGDwccz8vDDPv57ljRe) | [Inayum Paadhaigal](https://open.spotify.com/album/3Jtm5SG8WAMQjRmh4KIbsO) | 3:21 | 2025-10-25 |  |

@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 208741,
       "name": "If I Stay",
       "url": "https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg"
@@ -5550,6 +5550,28 @@
       "duration_ms": 213781,
       "name": "Motions",
       "url": "https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j"
+    },
+    {
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/4vGmdK64DMH2W3LgCexMOF"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/6LxIy9MYS2C76HcXph8zFq"
     },
     {
       "album": {

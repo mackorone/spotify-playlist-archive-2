@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="spotify:artist:3a1tBryiczPAZpgoZN9Rzg">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,764 likes - 164 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,801 likes - 164 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

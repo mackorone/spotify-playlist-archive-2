@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19352,
+  "num_followers": 19351,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 164070,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
       },
@@ -311,38 +295,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "M\u0101ori Ki Te Ao",
-        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
-      },
-      "artists": [
-        {
-          "name": "Stan Walker",
-          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
-        }
-      ],
-      "duration_ms": 200734,
-      "name": "M\u0101ori Ki Te Ao",
-      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "Right Here Right Now",
         "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
       },
@@ -355,6 +307,22 @@
       "duration_ms": 203539,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "M\u0101ori Ki Te Ao",
+        "url": "https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 200734,
+      "name": "M\u0101ori Ki Te Ao",
+      "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -375,6 +343,22 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
         "name": "Cinnamon",
         "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 162266,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 164070,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
+        "name": "Letting Love Die",
+        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
+      },
+      "artists": [
+        {
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Letting Love Die",
+      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
         "name": "Off The Rails",
         "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "Letting Love Die",
-        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
-      },
-      "artists": [
-        {
-          "name": "Heidi Simpson",
-          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Letting Love Die",
-      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -967,38 +967,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Vol. 3",
-        "url": "https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje"
-      },
-      "artists": [
-        {
-          "name": "Blindspott",
-          "url": "https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu"
-        }
-      ],
-      "duration_ms": 246442,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "Broken Glass",
-        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
-      },
-      "artists": [
-        {
-          "name": "Harper Finn",
-          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
         "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
@@ -1011,6 +979,22 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje"
+      },
+      "artists": [
+        {
+          "name": "Blindspott",
+          "url": "https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu"
+        }
+      ],
+      "duration_ms": 246442,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -1031,66 +1015,18 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Didn't Change A Thing",
-        "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
+        "name": "Broken Glass",
+        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
       },
       "artists": [
         {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+          "name": "Harper Finn",
+          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
         }
       ],
-      "duration_ms": 164999,
-      "name": "Didn't Change A Thing",
-      "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+      "duration_ms": 196260,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -1111,6 +1047,70 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Didn't Change A Thing",
+        "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Didn't Change A Thing",
+      "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "Knocking At Your Door",
-        "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 154243,
-      "name": "Knocking At Your Door",
-      "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
-    },
-    {
-      "added_at": "2026-04-26 02:24:50",
-      "album": {
         "name": "Holding Your Hand",
         "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-04-26 02:24:50",
       "album": {
-        "name": "The War On Art",
-        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+        "name": "Knocking At Your Door",
+        "url": "https://open.spotify.com/album/7dfLlEgi0O9NzbvyUJiWN3"
       },
       "artists": [
         {
-          "name": "Robinson and The Romantics",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
         }
       ],
-      "duration_ms": 184684,
-      "name": "The War On Art",
-      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
+      "duration_ms": 154243,
+      "name": "Knocking At Your Door",
+      "url": "https://open.spotify.com/track/2OBGlsbiixDJUK9hZJMfvH"
     },
     {
       "added_at": "2026-04-26 02:24:50",
@@ -1215,6 +1199,22 @@
       "duration_ms": 154673,
       "name": "Suckerpunch",
       "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
+    },
+    {
+      "added_at": "2026-04-26 02:24:50",
+      "album": {
+        "name": "The War On Art",
+        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+      },
+      "artists": [
+        {
+          "name": "Robinson and The Romantics",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 184684,
+      "name": "The War On Art",
+      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
     },
     {
       "added_at": "2026-04-26 02:24:50",

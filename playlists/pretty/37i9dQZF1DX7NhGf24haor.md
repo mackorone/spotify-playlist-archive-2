@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Devin Wild
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,231 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,257 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Will I Ever Dare \(To Lose Control\)](https://open.spotify.com/track/5MxTtUhe7umYK1FmBYU0hd) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Will I Ever Dare \(To Lose Control\)](https://open.spotify.com/album/7EIyBwzrtWZUVA5doGkIps) | 3:53 |
-| 2 | [Good Feeling](https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Good Feeling](https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr) | 2:42 |
+| 2 | [Good Feeling](https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr) | 2:42 |
 | 3 | [Do You Like It Hardcore](https://open.spotify.com/track/3GJE69RthZ92fcUm4SNcm8) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Do You Like It Hardcore](https://open.spotify.com/album/1lNRdQEFW4nBpPIiCVtJ0W) | 2:49 |
 | 4 | [Break The Glass](https://open.spotify.com/track/498d8omv6wdsU8oQejxxaP) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Break The Glass](https://open.spotify.com/album/47rG1uXi5nqGmq1EAvVu0y) | 2:42 |
 | 5 | [Feel The Storm](https://open.spotify.com/track/0WMtI0UAPAAuNGePm5HeUf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev), [DJ Lady Tess](https://open.spotify.com/artist/1fDszx3YU4ItUdKeEEgmbC) | [Feel The Storm](https://open.spotify.com/album/1hvWnfpE9wKWJ7BWp2Njap) | 3:20 |

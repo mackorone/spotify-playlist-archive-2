@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > El mundo cabrón de las bandas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,859 likes - 140 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,200 likes - 140 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 139 | [Corazón Malherido](https://open.spotify.com/track/2tiLzYF3CDM60NaXIvOawH) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 2:33 |
 | 140 | [Sufriendo Por Ti](https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Cada Amanecer](https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf) | 2:59 |
 
-Snapshot ID: `AAAAAH9cb0tTLn6T/gH/K6ERB4bq38e7`
+Snapshot ID: `AAAAAPq864VLBUd87TUafgjDErjsuwZw`

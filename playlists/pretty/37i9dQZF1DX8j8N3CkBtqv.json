@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Radhika Bhide, Tanmay Deochake, Utsavi Jha, Kanishk Seth and other exciting artists.\n",
-  "num_followers": 111872,
+  "num_followers": 111923,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
-        "name": "Heer Ban Jaana",
-        "url": "https://open.spotify.com/album/2fXnxMWKlzT5QUxO5Lf5OR"
-      },
-      "artists": [
-        {
-          "name": "Bharat Chandak",
-          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Heer Ban Jaana",
-      "url": "https://open.spotify.com/track/2oE0RhekiMezHkYtbS6ViV"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
         "name": "Daira",
         "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 162105,
       "name": "Daira",
       "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
+        "name": "Heer Ban Jaana",
+        "url": "https://open.spotify.com/album/2fXnxMWKlzT5QUxO5Lf5OR"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chandak",
+          "url": "https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Heer Ban Jaana",
+      "url": "https://open.spotify.com/track/2oE0RhekiMezHkYtbS6ViV"
     },
     {
       "added_at": "2026-05-01 05:27:24",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/1tSKC4kZI9hVE2UwROObZu"
+      },
+      "artists": [
+        {
+          "name": "Chayan",
+          "url": "https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2VWy04Y3R1DxtOnCK7KxR9"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
         "name": "Love And Machines",
         "url": "https://open.spotify.com/album/0fWfU1WJh4pwIof4eSei9m"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 292695,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/2vm7UOCJqgU8UrzXD2yrlv"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/1tSKC4kZI9hVE2UwROObZu"
-      },
-      "artists": [
-        {
-          "name": "Chayan",
-          "url": "https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2VWy04Y3R1DxtOnCK7KxR9"
     },
     {
       "added_at": "2026-05-01 05:27:24",
@@ -731,6 +731,30 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
+        "name": "Main Tera Deewana",
+        "url": "https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66"
+      },
+      "artists": [
+        {
+          "name": "Shyam Sidhawat",
+          "url": "https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Rutvij Joshi",
+          "url": "https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi"
+        }
+      ],
+      "duration_ms": 220414,
+      "name": "Main Tera Deewana",
+      "url": "https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
         "name": "Pariye Payan",
         "url": "https://open.spotify.com/album/5HPD5lrnei0e1uEbpmmJPG"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 191023,
       "name": "Pariye Payan",
       "url": "https://open.spotify.com/track/68RyGtjDHqAPKgq3njtPSd"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
-        "name": "Main Tera Deewana",
-        "url": "https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66"
-      },
-      "artists": [
-        {
-          "name": "Shyam Sidhawat",
-          "url": "https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui"
-        },
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Rutvij Joshi",
-          "url": "https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi"
-        }
-      ],
-      "duration_ms": 220414,
-      "name": "Main Tera Deewana",
-      "url": "https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht"
     },
     {
       "added_at": "2026-05-01 05:27:24",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
-        "name": "O Meena",
-        "url": "https://open.spotify.com/album/0U3SwZ3I7KolJ0NECOEtww"
-      },
-      "artists": [
-        {
-          "name": "Inayat",
-          "url": "https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "O Meena",
-      "url": "https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
         "name": "Tum Meri Thi",
         "url": "https://open.spotify.com/album/5fKOCIPaYpKMOCcQ437h3q"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 249000,
       "name": "Tum Meri Thi",
       "url": "https://open.spotify.com/track/5vNY11XQF5V6sSajPDz5zJ"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
+        "name": "O Meena",
+        "url": "https://open.spotify.com/album/0U3SwZ3I7KolJ0NECOEtww"
+      },
+      "artists": [
+        {
+          "name": "Inayat",
+          "url": "https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "O Meena",
+      "url": "https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i"
     },
     {
       "added_at": "2026-05-01 05:27:24",
@@ -1303,6 +1303,42 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
+        "name": "Dil Ka Rang",
+        "url": "https://open.spotify.com/album/3pjwkfEu7hGdjma80i7ke6"
+      },
+      "artists": [
+        {
+          "name": "Shradha Mishra",
+          "url": "https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7"
+        },
+        {
+          "name": "Yash Mishra",
+          "url": "https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi"
+        }
+      ],
+      "duration_ms": 162882,
+      "name": "Dil Ka Rang",
+      "url": "https://open.spotify.com/track/5AU1cGBBTdAK1uDP6xUFmW"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2"
+      },
+      "artists": [
+        {
+          "name": "Chayan",
+          "url": "https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "Shabnam",
+      "url": "https://open.spotify.com/track/5cBNutkawRifoxL1jGTg9X"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
         "name": "Dastaann",
         "url": "https://open.spotify.com/album/2cbf7EoWkdRJPLjqYEjkDV"
       },
@@ -1327,22 +1363,6 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2"
-      },
-      "artists": [
-        {
-          "name": "Chayan",
-          "url": "https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U"
-        }
-      ],
-      "duration_ms": 265945,
-      "name": "Shabnam",
-      "url": "https://open.spotify.com/track/5cBNutkawRifoxL1jGTg9X"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
         "name": "Sanjha Ko Ghaam",
         "url": "https://open.spotify.com/album/7FKa1prVnSqkq6UFN3zHSY"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 183124,
       "name": "Sanjha Ko Ghaam",
       "url": "https://open.spotify.com/track/4WTaogqXfnHw9DA1R8IIHE"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
-        "name": "Dil Ka Rang",
-        "url": "https://open.spotify.com/album/3pjwkfEu7hGdjma80i7ke6"
-      },
-      "artists": [
-        {
-          "name": "Shradha Mishra",
-          "url": "https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7"
-        },
-        {
-          "name": "Yash Mishra",
-          "url": "https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi"
-        }
-      ],
-      "duration_ms": 162882,
-      "name": "Dil Ka Rang",
-      "url": "https://open.spotify.com/track/5AU1cGBBTdAK1uDP6xUFmW"
     },
     {
       "added_at": "2026-05-01 05:27:24",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-05-01 05:27:24",
       "album": {
+        "name": "Deewana",
+        "url": "https://open.spotify.com/album/53rZmpmSdJ4nM5aQaM9ZvI"
+      },
+      "artists": [
+        {
+          "name": "Eden's Echo",
+          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
+        }
+      ],
+      "duration_ms": 172602,
+      "name": "Deewana",
+      "url": "https://open.spotify.com/track/7zFLX3HBQVkMLtOufiybXU"
+    },
+    {
+      "added_at": "2026-05-01 05:27:24",
+      "album": {
         "name": "Mora Saawan Sookh Gaya",
         "url": "https://open.spotify.com/album/5tuTRzARSE9KPwNxCpDAnH"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 220239,
       "name": "Tu Jo Mile",
       "url": "https://open.spotify.com/track/7BtqmdC0eLzFheoUM2Mumm"
-    },
-    {
-      "added_at": "2026-05-01 05:27:24",
-      "album": {
-        "name": "Deewana",
-        "url": "https://open.spotify.com/album/53rZmpmSdJ4nM5aQaM9ZvI"
-      },
-      "artists": [
-        {
-          "name": "Eden's Echo",
-          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
-        }
-      ],
-      "duration_ms": 172602,
-      "name": "Deewana",
-      "url": "https://open.spotify.com/track/7zFLX3HBQVkMLtOufiybXU"
     },
     {
       "added_at": "2026-05-01 05:27:24",

@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-372 songs - 18 hr 22 min
+373 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 | 2025-02-28 |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 | 2023-02-14 |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-06-08 | 2023-06-23 |
-| [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 | 2025-02-28 |  |
+| [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 | 2025-02-28 | 2026-05-08 |
 | [Alone](https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co) | [Charleon](https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p) | [Alone](https://open.spotify.com/album/1WLXMRMpzyAdzYOzYf98B3) | 2:51 | 2023-12-08 | 2024-03-21 |
 | [Alone With You](https://open.spotify.com/track/61C23J1jduYNQVe69XBupp) | [Andrew Nagy](https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Alone With You](https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe) | 3:28 | 2024-11-08 |  |
 | [Anybody](https://open.spotify.com/track/1Q3n60SdTJ8uiQn0aNw59Z) | [Will Omit](https://open.spotify.com/artist/0K8j4074Sd01cxPiZflXFe) | [Anybody](https://open.spotify.com/album/0dz8Kbj6OD0DKrxiY1PxtI) | 2:47 | 2024-05-03 | 2024-10-04 |
@@ -349,6 +349,7 @@
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 | 2024-12-13 |
 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 | 2025-05-15 | 2026-05-07 |
 | [Valente](https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Kick Up The Dust EP](https://open.spotify.com/album/41Vibdx0FTBi12fK4nMsFl) | 5:19 | 2023-11-30 | 2024-01-04 |
+| [Vanilla](https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Vanilla](https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847) | 2:50 | 2026-05-07 |  |
 | [Vibration](https://open.spotify.com/track/2XDcMSaXSlXKtQLF5E45N1) | [Armando Martinez](https://open.spotify.com/artist/5qjYRdvFJgnx6zGjOsBst3) | [Vibration](https://open.spotify.com/album/3GDTnkcgIrBOA1HZvdqb6Y) | 4:01 | 2025-09-25 | 2025-10-05 |
 | [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:07 | 2024-10-11 |  |
 | [Wait No More](https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Wait No More](https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg) | 2:22 | 2025-01-23 |  |

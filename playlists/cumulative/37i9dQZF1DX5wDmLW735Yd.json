@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Rudimental",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: P Money, Whiney, Lady Leshurr",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 218363,
       "name": "18 & Over",
       "url": "https://open.spotify.com/track/70AaGg3ZxPu5l59n1Wltcq"
+    },
+    {
+      "album": {
+        "name": "18%",
+        "url": "https://open.spotify.com/album/2q5xlLcWDHtiXzi2x5mNU8"
+      },
+      "artists": [
+        {
+          "name": "Particle",
+          "url": "https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "18%",
+      "url": "https://open.spotify.com/track/3vL4g50ydwSWZzipKfq6NG"
     },
     {
       "album": {
@@ -10661,6 +10683,32 @@
     },
     {
       "album": {
+        "name": "Hold Me In Heaven",
+        "url": "https://open.spotify.com/album/2ZyeSOegRloityIr5TMo0b"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192155,
+      "name": "Hold Me In Heaven",
+      "url": "https://open.spotify.com/track/5EXprmPJtnGKgfIT8bejLV"
+    },
+    {
+      "album": {
         "name": "Hold up your Hands",
         "url": "https://open.spotify.com/album/78G5Ob58zI8nAGPzczyAWk"
       },
@@ -13944,6 +13992,28 @@
       "duration_ms": 289471,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/5vR6mlFh3pS3dFqkfW5H1N"
+    },
+    {
+      "album": {
+        "name": "Low Can U Go",
+        "url": "https://open.spotify.com/album/3aKfZALoyvkAbys8Ohdfi5"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        },
+        {
+          "name": "Blvk H3ro",
+          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211004,
+      "name": "Low Can U Go",
+      "url": "https://open.spotify.com/track/1HI4SW3MkyoVW2blKqxGZR"
     },
     {
       "album": {
@@ -25605,6 +25675,28 @@
     },
     {
       "album": {
+        "name": "Whole Place Lift / Plus",
+        "url": "https://open.spotify.com/album/18RybKs2HWnRVUVdN79nWZ"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Eva Lazarus",
+          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146915,
+      "name": "Whole Place Lift",
+      "url": "https://open.spotify.com/track/5qBkr45TSiCMMsVrwicIFk"
+    },
+    {
+      "album": {
         "name": "Why - EP",
         "url": "https://open.spotify.com/album/2e7DdztVwRtocwwnfHf7aD"
       },
@@ -25866,6 +25958,28 @@
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/3zILyOnwpFlwvOc9MHvOYe"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        },
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276034,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/5XoEtgy9X6oOofSFODcN6p"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABkFVWftr7hX1t0wvUVww0++qxVSdj",
+  "snapshot_id": "AAABkfNw9+KfHOo/A9MeBRr8QpqVyIK2",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1535,6 +1535,22 @@
       "duration_ms": 188557,
       "name": "The Sand",
       "url": "https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW"
+    },
+    {
+      "added_at": "2026-05-07 16:20:11",
+      "album": {
+        "name": "Tanzt mit mir",
+        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "Tanzt mit mir",
+      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
     }
   ],
   "unique_name": "Local Rock Bands",

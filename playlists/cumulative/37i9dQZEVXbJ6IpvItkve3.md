@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,427 songs - 3 day 8 hr 47 min
+1,428 songs - 3 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-11 | 2026-02-13 |
 | [אהלן וסהלן](https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 5:48 | 2021-04-05 | 2025-04-22 |
 | [אהלן וסהלן מחרוזת](https://open.spotify.com/track/1SgTsVCOS0OS7LyMpxW1Un) | [יוצאי שפתיים](https://open.spotify.com/artist/6pdtaLeh1b48T8anHhu9rW) | [חגיגה מרוקאית \(חלק א'\)](https://open.spotify.com/album/2czfTmDFNmQjryGvQTxI6F) | 8:00 | 2026-04-09 | 2026-04-11 |
-| [או לה פופה](https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [או לה פופה](https://open.spotify.com/album/1GDt5qgg0VLq9kjgO3QWT2) | 2:30 | 2026-02-19 |  |
+| [או לה פופה](https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [או לה פופה](https://open.spotify.com/album/1GDt5qgg0VLq9kjgO3QWT2) | 2:30 | 2026-02-19 | 2026-05-08 |
 | [אוהבת לא אוהבת](https://open.spotify.com/track/10pnfojlZf9nHvKngPHB7k) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:28 | 2024-11-11 | 2024-12-06 |
 | [אוזניות](https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 3:01 | 2025-05-31 | 2025-06-08 |
 | [אוחילה](https://open.spotify.com/track/07uIhNfeg1X7QZBl5BRxUK) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:50 | 2021-09-17 | 2025-10-04 |
@@ -1049,9 +1049,9 @@
 | [לילה טוב שון](https://open.spotify.com/track/4VRz32kfvdKWZGzOUcJQkV) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [לילה טוב שון](https://open.spotify.com/album/3pt1jc8qYiHcVyQtB0OKvK) | 3:15 | 2022-05-05 | 2023-04-28 |
 | [לילה מעדן](https://open.spotify.com/track/0VNXir4ftFjNOImLvsO9fR) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לילה מעדן](https://open.spotify.com/album/44okB4A8LuWSPaVxYQsuci) | 2:16 | 2021-08-11 | 2021-09-15 |
 | [לילה מעדן](https://open.spotify.com/track/2uclMNfRqdoU5BJXUhHyNL) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לילה מעדן](https://open.spotify.com/album/253Y1dAIszh0O8by4oa9dL) | 2:16 | 2021-08-08 | 2021-08-11 |
-| [לילות וקללות](https://open.spotify.com/track/4dELL8S6XVMibwBkjJACF1) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:24 | 2024-03-22 | 2026-04-30 |
+| [לילות וקללות](https://open.spotify.com/track/4dELL8S6XVMibwBkjJACF1) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:24 | 2024-03-22 |  |
 | [לילות וקללות](https://open.spotify.com/track/0bSlaaneF4lLymoMouvxfH) | [הכוכב הבא](https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [הכוכב הבא לאירוויזיון 2026 \- פרק 26](https://open.spotify.com/album/34LLlV4PIiia903zHPoA0M) | 3:50 | 2026-01-22 | 2026-01-30 |
-| [לילות יפים](https://open.spotify.com/track/66yefnmjUf8GOqIwhfbpCk) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K), [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 |  |
+| [לילות יפים](https://open.spotify.com/track/66yefnmjUf8GOqIwhfbpCk) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K), [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 | 2026-05-08 |
 | [ליצן קטן נחמד](https://open.spotify.com/track/4IFQD1thQ2rgSgt5rXXqqp) | [Ruchama Raz](https://open.spotify.com/artist/0kxMDgFDfRYyqs91HfrXIk) | [אני פורים \(30 שירי פורים לילדים\)](https://open.spotify.com/album/5fOyUcc2jBKDeBF21l6c2I) | 0:56 | 2022-03-16 | 2024-03-25 |
 | [ליצן קטן נחמד](https://open.spotify.com/track/23YI5ICXNXlaVnr6CEMvaA) | [Ruchama Raz](https://open.spotify.com/artist/0kxMDgFDfRYyqs91HfrXIk) | [אני פורים \- 30 שירי פורים לילדים](https://open.spotify.com/album/3GYq8kZ3ifefgYi4rOGy75) | 0:58 | 2025-03-13 | 2025-03-15 |
 | [לירז](https://open.spotify.com/track/50uspwzqbMxkpyHzMLwUVy) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 3:15 | 2023-02-23 | 2023-08-27 |
@@ -1175,6 +1175,7 @@
 | [נגמר](https://open.spotify.com/track/2kQmLi3MUrTkj3E4eICpt1) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/0KKNhG6aIUh1TNpMsOzWks) | 4:19 | 2021-04-16 | 2021-04-17 |
 | [נגנב ממך](https://open.spotify.com/track/05iw1Zb7Lp5DNUSvDhBRk6) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [שובר במות](https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU) | 4:11 | 2025-08-31 |  |
 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-01-17 | 2024-01-26 |
+| [נווה הדרים](https://open.spotify.com/track/3E8a4zr8OUM4MIU7t9SGI7) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נווה הדרים](https://open.spotify.com/album/2NMpP0JNrgwYP7qyqJ26ne) | 3:11 | 2026-05-07 |  |
 | [נופלת לך](https://open.spotify.com/track/05N02mZEB9QHcEacmFCJCB) | [Rinat Bar](https://open.spotify.com/artist/4ZX6uAiFiYbKfAkYSPYM5W) | [נופלת לך](https://open.spotify.com/album/2WZDudIwXSMdYZxwSqxmlk) | 2:48 | 2025-08-20 | 2025-10-18 |
 | [נוריד ת'חולצה](https://open.spotify.com/track/0oHTvb0EVeYTUc0zscZphb) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [נוריד ת'חולצה](https://open.spotify.com/album/6Z5kdNOhvZ7BXD40g5xggC) | 2:38 | 2021-05-03 | 2021-05-14 |
 | [נחכה לך](https://open.spotify.com/track/0ety2yTiWVKeqQeaed4Spj) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [באתי לחלום](https://open.spotify.com/album/72XLu81OoRHcScFT8nQPJB) | 3:27 | 2021-03-27\* | 2021-04-04 |

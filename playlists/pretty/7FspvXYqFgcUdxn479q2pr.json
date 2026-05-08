@@ -1,13 +1,533 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31612,
+  "num_followers": 31609,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAv6+cHF3AwvlbvxX5/D6L0P07SPa+R",
+  "snapshot_id": "AAAwFfp//h69g41qyhJOBQW5gYU+o7ej",
   "tracks": [
+    {
+      "added_at": "2026-05-07 11:06:23",
+      "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-07 10:36:20",
+      "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-07 11:06:46",
+      "album": {
+        "name": "Body Works",
+        "url": "https://open.spotify.com/album/5A8U7Cct2qLBdfUQdn1CUQ"
+      },
+      "artists": [
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Body Works",
+      "url": "https://open.spotify.com/track/3rsUJVC8nAJ18HLfIdi0k6"
+    },
+    {
+      "added_at": "2026-05-07 11:07:16",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 154099,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY"
+    },
+    {
+      "added_at": "2026-05-07 11:06:11",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
+      },
+      "artists": [
+        {
+          "name": "Matty Ralph",
+          "url": "https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
+    },
+    {
+      "added_at": "2026-05-07 11:06:56",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/531BDShUOrkJBUqtF8kHmT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5m1R1Set5axEQBlqcdEM9V"
+    },
+    {
+      "added_at": "2026-05-07 11:07:05",
+      "album": {
+        "name": "My System (Blasterjaxx Remix)",
+        "url": "https://open.spotify.com/album/72t5Qt6yyEFmfhlAQe6lxI"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My System - Blasterjaxx Remix",
+      "url": "https://open.spotify.com/track/71SsAcRs2idQ7ylu2xw9ok"
+    },
+    {
+      "added_at": "2026-05-07 10:21:15",
+      "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-07 10:36:43",
+      "album": {
+        "name": "Body Works",
+        "url": "https://open.spotify.com/album/5A8U7Cct2qLBdfUQdn1CUQ"
+      },
+      "artists": [
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Body Works",
+      "url": "https://open.spotify.com/track/3rsUJVC8nAJ18HLfIdi0k6"
+    },
+    {
+      "added_at": "2026-05-07 10:37:12",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 154099,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY"
+    },
+    {
+      "added_at": "2026-05-07 10:36:08",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
+      },
+      "artists": [
+        {
+          "name": "Matty Ralph",
+          "url": "https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
+    },
+    {
+      "added_at": "2026-05-07 10:36:53",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/531BDShUOrkJBUqtF8kHmT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5m1R1Set5axEQBlqcdEM9V"
+    },
+    {
+      "added_at": "2026-05-07 10:37:03",
+      "album": {
+        "name": "My System (Blasterjaxx Remix)",
+        "url": "https://open.spotify.com/album/72t5Qt6yyEFmfhlAQe6lxI"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My System - Blasterjaxx Remix",
+      "url": "https://open.spotify.com/track/71SsAcRs2idQ7ylu2xw9ok"
+    },
+    {
+      "added_at": "2026-05-07 10:16:11",
+      "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-07 10:21:38",
+      "album": {
+        "name": "Body Works",
+        "url": "https://open.spotify.com/album/5A8U7Cct2qLBdfUQdn1CUQ"
+      },
+      "artists": [
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Body Works",
+      "url": "https://open.spotify.com/track/3rsUJVC8nAJ18HLfIdi0k6"
+    },
+    {
+      "added_at": "2026-05-07 10:22:07",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 154099,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY"
+    },
+    {
+      "added_at": "2026-05-07 10:21:03",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
+      },
+      "artists": [
+        {
+          "name": "Matty Ralph",
+          "url": "https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
+    },
+    {
+      "added_at": "2026-05-07 10:21:47",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/531BDShUOrkJBUqtF8kHmT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5m1R1Set5axEQBlqcdEM9V"
+    },
+    {
+      "added_at": "2026-05-07 10:21:57",
+      "album": {
+        "name": "My System (Blasterjaxx Remix)",
+        "url": "https://open.spotify.com/album/72t5Qt6yyEFmfhlAQe6lxI"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My System - Blasterjaxx Remix",
+      "url": "https://open.spotify.com/track/71SsAcRs2idQ7ylu2xw9ok"
+    },
+    {
+      "added_at": "2026-05-07 10:14:51",
+      "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-07 10:16:33",
+      "album": {
+        "name": "Body Works",
+        "url": "https://open.spotify.com/album/5A8U7Cct2qLBdfUQdn1CUQ"
+      },
+      "artists": [
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Body Works",
+      "url": "https://open.spotify.com/track/3rsUJVC8nAJ18HLfIdi0k6"
+    },
+    {
+      "added_at": "2026-05-07 10:17:02",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 154099,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY"
+    },
+    {
+      "added_at": "2026-05-07 10:15:59",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
+      },
+      "artists": [
+        {
+          "name": "Matty Ralph",
+          "url": "https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
+    },
+    {
+      "added_at": "2026-05-07 10:16:42",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/531BDShUOrkJBUqtF8kHmT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5m1R1Set5axEQBlqcdEM9V"
+    },
+    {
+      "added_at": "2026-05-07 10:16:52",
+      "album": {
+        "name": "My System (Blasterjaxx Remix)",
+        "url": "https://open.spotify.com/album/72t5Qt6yyEFmfhlAQe6lxI"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My System - Blasterjaxx Remix",
+      "url": "https://open.spotify.com/track/71SsAcRs2idQ7ylu2xw9ok"
+    },
     {
       "added_at": "2026-04-30 14:30:22",
       "album": {
@@ -27,6 +547,106 @@
       "duration_ms": 145846,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
+    },
+    {
+      "added_at": "2026-05-07 10:15:12",
+      "album": {
+        "name": "Body Works",
+        "url": "https://open.spotify.com/album/5A8U7Cct2qLBdfUQdn1CUQ"
+      },
+      "artists": [
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Body Works",
+      "url": "https://open.spotify.com/track/3rsUJVC8nAJ18HLfIdi0k6"
+    },
+    {
+      "added_at": "2026-05-07 10:15:42",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/5vxOl8NZ3auwfNHBHYon5n"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 154099,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/42zGjIXYF1soqCfiqSXCLY"
+    },
+    {
+      "added_at": "2026-05-07 10:14:38",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3OKiUj9tN6ci7yF7iyOewl"
+      },
+      "artists": [
+        {
+          "name": "Matty Ralph",
+          "url": "https://open.spotify.com/artist/37HNoMIyEavGIJnIPCA6Kv"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
+    },
+    {
+      "added_at": "2026-05-07 10:15:22",
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/531BDShUOrkJBUqtF8kHmT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5m1R1Set5axEQBlqcdEM9V"
+    },
+    {
+      "added_at": "2026-05-07 10:15:32",
+      "album": {
+        "name": "My System (Blasterjaxx Remix)",
+        "url": "https://open.spotify.com/album/72t5Qt6yyEFmfhlAQe6lxI"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My System - Blasterjaxx Remix",
+      "url": "https://open.spotify.com/track/71SsAcRs2idQ7ylu2xw9ok"
     },
     {
       "added_at": "2026-04-23 22:00:03",

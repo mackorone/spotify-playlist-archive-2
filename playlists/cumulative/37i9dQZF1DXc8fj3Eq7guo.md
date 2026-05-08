@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-102 songs - 6 hr 28 min
+103 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 | 2025-04-12 |
 | [CANADA BREEZE](https://open.spotify.com/track/5bZoHEhzsgj49TZR6R7Uc3) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc) | 2:42 | 2026-04-17 |  |
 | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/track/6ovxhOjCU6SzPLtfNnzVQk) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/album/23neUYDSWEpEPAmQwVxoKk) | 2:43 | 2025-04-17 |  |
+| [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 | 2026-05-07 |  |
 | [Congo](https://open.spotify.com/track/4S1FXtwJkdsw4JxNOmFaod) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6JF0zNJ7n8aCE8K9Zmgmw7) | 3:44 | 2024-03-15 |  |
 | [Congo](https://open.spotify.com/track/50ZTcX3axxFDTd0UIOhPDy) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/1LxfAAwpMpXYzCOlDQAUEZ) | 3:44 | 2023-12-15 | 2024-04-19 |
 | [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 | 2023-09-08 | 2024-01-12 |

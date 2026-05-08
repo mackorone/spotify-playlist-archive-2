@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Agapornis",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 165330,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
@@ -6299,6 +6299,24 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2sPoVI8RM6EqtFG5hfkgvz"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2vTtSHTr22CtcXL27MkHPv"
+    },
+    {
+      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -8513,6 +8531,28 @@
     },
     {
       "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136208,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY"
+    },
+    {
+      "album": {
         "name": "No Me Saca de Su Boca",
         "url": "https://open.spotify.com/album/1pZ7uHbq3d1HIvZGjHOI7A"
       },
@@ -8984,7 +9024,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
@@ -9588,7 +9628,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
@@ -10192,7 +10232,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 186000,
       "name": "Prefiero",
       "url": "https://open.spotify.com/track/0qHGTfDhXYepKZHtOCdXso"
@@ -12196,7 +12236,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Supuestamente",
       "url": "https://open.spotify.com/track/75fbmsSedxEdayE8ytGbDn"
@@ -14604,6 +14644,28 @@
       "duration_ms": 137045,
       "name": "X un Chisme",
       "url": "https://open.spotify.com/track/3b7vIFw6HDe5p3t1HlVSt9"
+    },
+    {
+      "album": {
+        "name": "XQ Te Pones As\u00ed / Prohibidox",
+        "url": "https://open.spotify.com/album/66TjD5LPbeeKkC4KkLsOpF"
+      },
+      "artists": [
+        {
+          "name": "Fede Mestre",
+          "url": "https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9"
+        },
+        {
+          "name": "Cumbia a Fondo",
+          "url": "https://open.spotify.com/artist/3evfdj7iQXvQVtX8l9rBMQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199630,
+      "name": "XQ Te Pones As\u00ed / Prohibidox",
+      "url": "https://open.spotify.com/track/4usUx7odW8Z1BCOIQQayZN"
     },
     {
       "album": {

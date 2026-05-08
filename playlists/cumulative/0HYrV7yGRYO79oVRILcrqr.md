@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-479 songs - 1 day 5 hr 55 min
+482 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bringin' It Back](https://open.spotify.com/track/7h9I6NCzj20ggQWRqo26eJ) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 4:11 | 2025-09-03 |  |
 | [Broken and free](https://open.spotify.com/track/7fxqxtQFoAmOFPNW0JQP8M) | [GrooO](https://open.spotify.com/artist/5HgOlcue2r9Z5jBv3YzNmW) | [Broken and free](https://open.spotify.com/album/0TreN2tdVacgPX3c0XBwWO) | 2:52 | 2025-09-29 | 2025-12-17 |
 | [Broken Soul Blues](https://open.spotify.com/track/2YpUdPdUpXTC7fyAFeWECs) | [pedromiguelriera](https://open.spotify.com/artist/0w3VcWdD2XOrO39PoLqoaY) | [Broken Soul Blues](https://open.spotify.com/album/6qlVUGUewVaaFwmjyu3UzS) | 3:57 | 2025-12-24 | 2026-04-21 |
+| [Burattini](https://open.spotify.com/track/0mXVDJwayyownNl3R78HNg) | [JOSH](https://open.spotify.com/artist/05gpLZ1OK3Ow0Z5WoZIkbJ) | [Dove Dovrei Essere](https://open.spotify.com/album/1QBYlFbQtI2RYJdOpToz5q) | 3:23 | 2026-05-07 |  |
 | [Búsqueda](https://open.spotify.com/track/3omNsXHqJL3sg5Rj3Swwgw) | [Galaxia Ventura](https://open.spotify.com/artist/7CLTzydEhFbCSNaNPzGgu5) | [Un cambio](https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e) | 3:05 | 2025-11-28 | 2025-12-17 |
 | [Call My Name](https://open.spotify.com/track/33xuhHhDgCVaEMHXHB9bd8) | [L'Orely & The Scarlett Band](https://open.spotify.com/artist/12aIeiS0nbNCcfRIJss29n) | [Ne doute pas](https://open.spotify.com/album/4rlD5iOOSof6wuxrihIsuW) | 3:40 | 2025-11-02 | 2025-12-17 |
 | [Call you back](https://open.spotify.com/track/3VXc89NGL6vON6uPmRkOcv) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Call you back](https://open.spotify.com/album/2MDW8YMzggu0z0mzr9vS09) | 3:07 | 2026-01-02 | 2026-03-18 |
@@ -315,6 +316,7 @@
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 | 2025-12-17 |
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |
+| [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-05-07 |  |
 | [Outta Control](https://open.spotify.com/track/6CFhnrHIzYr3uYHPAx2ix9) | [Crispy Danger](https://open.spotify.com/artist/3KmwVFNqWQiSY2hVaiIB7b) | [Outta Control](https://open.spotify.com/album/4FPn9FK7LFYNx9UMnsgcFB) | 2:51 | 2026-05-02 |  |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-30 | 2025-12-17 |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 | 2025-12-17 |
@@ -350,6 +352,7 @@
 | [River](https://open.spotify.com/track/1lrSxSQ1xJhtOjQJyhpKOb) | [The Blue Marmalades](https://open.spotify.com/artist/0Cch3HVBzCsI5YUGMcAva9) | [River](https://open.spotify.com/album/3t8Xr8iT7VMJ5iD4M1uk6m) | 7:15 | 2026-03-16 | 2026-04-21 |
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 | 2026-03-18 |
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 | 2026-03-18 |
+| [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 | 2026-05-07 |  |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
 | [Rota Psicodélica](https://open.spotify.com/track/2yxf0RiYiEDvUODDEDzQID) | [Folk Soundtrack Band](https://open.spotify.com/artist/7msqMHsbi7Yvpy3gRfp31l), [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Rota Psicodélica](https://open.spotify.com/album/0o84VkYn8mGiIxBUKnsUE2) | 2:52 | 2026-03-16 | 2026-04-21 |
 | [Route 66 Storm](https://open.spotify.com/track/0SnrPl7CYenERPqiU2QXXp) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Route 66 Storm](https://open.spotify.com/album/2nIrZBoaiNbRvY4lI2WmIJ) | 3:34 | 2026-03-05 | 2026-03-18 |

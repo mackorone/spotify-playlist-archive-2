@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Brandon Lake & Nick Jonas
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,726 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,756 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 18 | [Here In The Moment](https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [aroma:devotion](https://open.spotify.com/album/0Is8pbhwqDFPyNiAqlkJja) | 3:46 |
 | 19 | [Back To My Love](https://open.spotify.com/track/55ZFMluoPJOILQ7jHeKvmD) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Back To My Love](https://open.spotify.com/album/6uHmgHCWmAHy5vgMOOnXOd) | 3:11 |
 | 20 | [ALWAYS](https://open.spotify.com/track/5TDt4YuWyWYrZBBXYKrCkL) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [ALWAYS](https://open.spotify.com/album/1kMGQjZwn3aZFyBnA6DDZL) | 3:38 |
-| 21 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [Salvation Choir](https://open.spotify.com/artist/6TkoY2lDiiwEB0Xo3KOj8J) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 |
+| 21 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [The Salvation Choir](https://open.spotify.com/artist/6TkoY2lDiiwEB0Xo3KOj8J) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 |
 | 22 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
 | 23 | [Though War Break Out Against Me](https://open.spotify.com/track/2mVKWnnVVULQKkQGDFGmC1) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Though War Break Out Against Me](https://open.spotify.com/album/4zZeVsP8r9geYWWWYaBTjG) | 4:25 |
 | 24 | [Rushing](https://open.spotify.com/track/7b0FkHlN93w2hyW8bBDgd7) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Rushing](https://open.spotify.com/album/2B2cpJbsP8Rx52InsAwqQk) | 1:46 |

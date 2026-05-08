@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Bongeziwe Mabandla
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-427 songs - 1 day 0 hr 34 min
+429 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bouquet](https://open.spotify.com/track/4wb0iKaIklho8XLLvN3LlN) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Bouquet](https://open.spotify.com/album/0Ab7XpBlcL0qdZq8oqvIi7) | 3:02 | 2024-02-02 | 2025-03-21 |
 | [break if](https://open.spotify.com/track/6175sSSLsiSrlkxnTxjfVB) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [break if](https://open.spotify.com/album/1gHh3yXO3wkqxTkeqW1MSz) | 2:09 | 2026-02-26 | 2026-03-28 |
 | [brighter days](https://open.spotify.com/track/2u4YH1J4WcfxpzRSgQZ2aK) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [brighter days](https://open.spotify.com/album/32vv2uGF81uF0fBKmEQPzc) | 4:10 | 2025-08-15 | 2025-09-28 |
-| [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 | 2025-10-23 |  |
+| [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 | 2025-10-23 | 2026-05-08 |
 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 | 2025-08-28 |  |
 | [Brother](https://open.spotify.com/track/3XmAWqrFWxIhyTCTc0nXLb) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Dear Z](https://open.spotify.com/album/0ZkzlYDnkZEOYAPOo13X8J) | 2:07 | 2023-03-10 | 2023-03-18 |
 | [Brother](https://open.spotify.com/track/73TXPbn1vLdwrrNQWk3fNv) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Brother](https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp) | 2:07 | 2023-02-03 | 2023-03-10 |
@@ -161,6 +161,7 @@
 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 | 2023-10-13 | 2023-11-10 |
 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 | 2024-02-23 |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
+| [Indalo](https://open.spotify.com/track/5At39YQdvBvLvrRjFd8nnM) | [Dumama](https://open.spotify.com/artist/3uBcYRD2CiHrtAXRDc2zFq) | [Towards An Expanse](https://open.spotify.com/album/6j7YOjd4dm0lEYSEXvvBVK) | 6:20 | 2026-05-07 |  |
 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 | 2025-02-14 |
 | [is God unknown?](https://open.spotify.com/track/3RK4fOa14ge6zrweJBDErK) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Yxng Davi](https://open.spotify.com/artist/1ADCOPx0ZFZiVU03ooLSLI) | [is God unknown?](https://open.spotify.com/album/2bzJHsEpW4hGikRHk6ROG5) | 2:14 | 2025-08-28 | 2025-10-24 |
 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 | 2025-03-21 |  |
@@ -181,6 +182,7 @@
 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 | 2022-12-08 | 2023-03-10 |
 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-13 | 2025-10-17 |
 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 | 2025-03-21 | 2026-02-14 |
+| [KHALANWAHA](https://open.spotify.com/track/5fC3oT3rRF7itnkIV8JZbY) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [KHALANWAHA](https://open.spotify.com/album/7kuWlNLAPzPeGuUliVibgI) | 5:11 | 2026-05-07 |  |
 | [Know Me](https://open.spotify.com/track/2TaNDudh64HPCZNgFUzL8J) | [Daniel John](https://open.spotify.com/artist/6VGiqiQk4AlwrgjKaozUno) | [Know Me](https://open.spotify.com/album/76NZkpZX6bNrED2CC3dPOC) | 2:49 | 2026-02-13 | 2026-03-07 |
 | [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 | 2023-02-27 |
 | [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-01-27 | 2023-06-23 |
@@ -395,7 +397,7 @@
 | [Wa Jo](https://open.spotify.com/track/5iISbYxH4NKcTeARFaiXNW) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Jemiriye](https://open.spotify.com/artist/5ImkBTlljsStrWEt38kbDD), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Musow Danse \(Bonus Edition\)](https://open.spotify.com/album/5iab4EDeaJQZsfwDtHz76Q) | 3:06 | 2024-11-22 | 2025-02-28 |
 | [Wait](https://open.spotify.com/track/0z5jipPPEeUDle3U3dS99a) | [Loveth Besamoh](https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX) | [RIVERBED](https://open.spotify.com/album/6vz3r9zO3mhEWqDMujAD2K) | 5:38 | 2025-10-16 | 2025-12-12 |
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2023-05-12 |
-| [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 | 2025-11-28 |  |
+| [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 | 2025-11-28 | 2026-05-08 |
 | [wave \(that's me\)](https://open.spotify.com/track/26BJHjtPjFBGGvFRpr3ipa) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [GARDEN](https://open.spotify.com/album/1LkCpeHNsZ4ztzk8hsA0pe) | 3:15 | 2023-09-29 | 2024-05-10 |
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2023-02-27 |
 | [Waxtu](https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/6yxgpB7XI5e72889GB0G9i) | 3:27 | 2023-01-27 | 2023-07-29 |

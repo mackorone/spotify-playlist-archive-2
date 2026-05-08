@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-215 songs - 10 hr 12 min
+217 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Come Te](https://open.spotify.com/track/3cDtXLGAb9APMbhKQd9jYx) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/0ODC0hNSTpUbAGS35m6eoS) | 2:49 | 2024-10-30 | 2024-12-13 |
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Copacabana](https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:49 | 2022-08-31 | 2023-04-12 |
+| [COSA VUOI DA ME](https://open.spotify.com/track/7hdWs4Qbzevc7zkDg0HWc0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:07 | 2026-05-07 |  |
 | [Così Leggera](https://open.spotify.com/track/27gcKMZcvsiwyVdo0XFZLB) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Così Leggera](https://open.spotify.com/album/0Rjhyjo9x4aI0siMTVlOlj) | 2:53 | 2022-08-31 | 2023-04-12 |
 | [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 | 2023-10-26 | 2024-04-24 |
 | [Cuore Spezzato](https://open.spotify.com/track/7zKKDIJ2O9hU60D0QAMovz) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Cuore Spezzato](https://open.spotify.com/album/6XhfFeVmH0ZjtKfhGRDRTq) | 3:46 | 2022-08-31 | 2023-04-12 |
@@ -67,7 +68,7 @@
 | [dove non posso guardare](https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [dove non posso guardare](https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1) | 3:08 | 2024-04-23 | 2025-05-14 |
 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 | 2022-08-31 | 2023-04-12 |
 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2023-04-11 | 2024-04-24 |
-| [EGOISTA](https://open.spotify.com/track/0sKy2tBe28yDuUewNygySz) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SE DIO VUOLE](https://open.spotify.com/album/1FBfql45tK8pBGS2ZKFGj7) | 2:33 | 2025-05-13 |  |
+| [EGOISTA](https://open.spotify.com/track/0sKy2tBe28yDuUewNygySz) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SE DIO VUOLE](https://open.spotify.com/album/1FBfql45tK8pBGS2ZKFGj7) | 2:33 | 2025-05-13 | 2026-05-08 |
 | [EMOZIONI](https://open.spotify.com/track/0PhiDkRKsPlKzyaGLTnRYH) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [EMOZIONI](https://open.spotify.com/album/063W1TOJyXH4Jzg01uFEi1) | 1:47 | 2025-05-13 |  |
 | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp) | 2:08 | 2024-11-08 | 2025-05-14 |
 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-12 | 2025-05-14 |
@@ -136,7 +137,7 @@
 | [OBIETTIVO](https://open.spotify.com/track/5YkdsdRoT1ARl7BM2IMSdm) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [OBIETTIVO](https://open.spotify.com/album/2GFPtig6DRFxRiQupQxNfS) | 2:14 | 2025-05-13 |  |
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-08-31 | 2023-04-12 |
 | [Occhi Niagara](https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Occhi Niagara](https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y) | 3:27 | 2022-08-31 | 2023-04-12 |
-| [OCCHIALATA CARRERA](https://open.spotify.com/track/2bOg6E77Oa8NF6cRsmMufm) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SE DIO VUOLE](https://open.spotify.com/album/1FBfql45tK8pBGS2ZKFGj7) | 2:22 | 2025-05-13 |  |
+| [OCCHIALATA CARRERA](https://open.spotify.com/track/2bOg6E77Oa8NF6cRsmMufm) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SE DIO VUOLE](https://open.spotify.com/album/1FBfql45tK8pBGS2ZKFGj7) | 2:22 | 2025-05-13 | 2026-05-08 |
 | [Ogni Minuto](https://open.spotify.com/track/5muyR3scZrOQDW1sHDraGq) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Ogni Minuto](https://open.spotify.com/album/0CntyxOD6yvCreqPWDTyQz) | 2:35 | 2023-03-08 | 2023-04-12 |
 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 | 2024-12-12 | 2025-05-14 |
 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-27 | 2025-05-14 |
@@ -182,6 +183,7 @@
 | [Romanzo Rosa](https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [Romanzo Rosa](https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6) | 3:01 | 2024-06-13 | 2025-05-14 |
 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 | 2022-08-31 | 2023-04-12 |
 | [RUDE BOYS](https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm) | 2:21 | 2026-03-19 |  |
+| [SALSA MAGHREB](https://open.spotify.com/track/7rkSSdqz6pjhYRIXLuOXHp) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:11 | 2026-05-07 |  |
 | [Sbronza](https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:53 | 2022-08-31 | 2023-04-12 |
 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 | 2025-07-10 |  |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-08-31 | 2023-04-12 |

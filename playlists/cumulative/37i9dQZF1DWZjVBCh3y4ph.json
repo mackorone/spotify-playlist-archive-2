@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk & kompa du moment. Photo : MIK L",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -118,6 +118,40 @@
       "duration_ms": 205633,
       "name": "A mes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV"
+    },
+    {
+      "album": {
+        "name": "ACCIDENT",
+        "url": "https://open.spotify.com/album/5tq0BHLiJA2flS5ukyMH9I"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "Maiko",
+          "url": "https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd"
+        },
+        {
+          "name": "T-Matt",
+          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
+        },
+        {
+          "name": "ADR",
+          "url": "https://open.spotify.com/artist/79tZDa6STu6VdenGEUDPjh"
+        },
+        {
+          "name": "Tipay",
+          "url": "https://open.spotify.com/artist/719x4tn7clhQauQHPC7P9H"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186516,
+      "name": "ACCIDENT",
+      "url": "https://open.spotify.com/track/3UdZydVj3QRnuSH2T1ESpp"
     },
     {
       "album": {
@@ -312,7 +346,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 146511,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/4VMZr8T74GVPl6kRMdquFQ"
@@ -498,7 +532,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 160720,
       "name": "Bandit chef",
       "url": "https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd"
@@ -905,6 +939,24 @@
     },
     {
       "album": {
+        "name": "CARPE DIEM",
+        "url": "https://open.spotify.com/album/6Yp6mopKjQOQBPG25xdqQu"
+      },
+      "artists": [
+        {
+          "name": "Nesly",
+          "url": "https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179117,
+      "name": "CARPE DIEM",
+      "url": "https://open.spotify.com/track/4S946jhpUy8MLekuSvcYFG"
+    },
+    {
+      "album": {
         "name": "Incomprise",
         "url": "https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur"
       },
@@ -1018,6 +1070,24 @@
       "duration_ms": 167142,
       "name": "Cho",
       "url": "https://open.spotify.com/track/6sGcYTh3pBs5zkL33svsCB"
+    },
+    {
+      "album": {
+        "name": "CHOKOLA",
+        "url": "https://open.spotify.com/album/5a4I3nS1mB5TWlVxgZaj9J"
+      },
+      "artists": [
+        {
+          "name": "Wensly",
+          "url": "https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165396,
+      "name": "CHOKOLA",
+      "url": "https://open.spotify.com/track/4NvMEhBMK3MJ1D1GQSv4UI"
     },
     {
       "album": {
@@ -1350,6 +1420,28 @@
       "duration_ms": 156144,
       "name": "Coups pour coups",
       "url": "https://open.spotify.com/track/5m4amDdAFosi09upf23b4G"
+    },
+    {
+      "album": {
+        "name": "Crime parfait",
+        "url": "https://open.spotify.com/album/77oUV4dRI2qtbbqcWxYzfb"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Crime parfait",
+      "url": "https://open.spotify.com/track/7Mpcmg4Uj94gzZOp8husdg"
     },
     {
       "album": {
@@ -3074,7 +3166,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 169100,
       "name": "Je serai l\u00e0",
       "url": "https://open.spotify.com/track/3cSBNPAxl5sBTELSuKftrs"
@@ -4143,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "MI RESSENT",
+        "url": "https://open.spotify.com/album/1Lv1poSHUP6VzPUvCua1MF"
+      },
+      "artists": [
+        {
+          "name": "Toulou",
+          "url": "https://open.spotify.com/artist/0X7QlcVMGgyXyNJ6IGaZWG"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "MI RESSENT",
+      "url": "https://open.spotify.com/track/0kzJ6zMUiC7z4NVZrccRfS"
+    },
+    {
+      "album": {
         "name": "Minimum",
         "url": "https://open.spotify.com/album/6CQEwB2JdHn0hwRU5ToHLt"
       },
@@ -4506,7 +4616,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176535,
       "name": "My Eyes Only",
       "url": "https://open.spotify.com/track/4tmJ3krRRxmHeqq2Oo7Jhl"
@@ -4576,6 +4686,32 @@
       "duration_ms": 154402,
       "name": "M\u00e9tiss la",
       "url": "https://open.spotify.com/track/3RSbeeAslAyZUk9OEJ2W5k"
+    },
+    {
+      "album": {
+        "name": "NA ASSEZ",
+        "url": "https://open.spotify.com/album/6gPtMZuYgR5DsUp6IIDkaZ"
+      },
+      "artists": [
+        {
+          "name": "Marshall",
+          "url": "https://open.spotify.com/artist/3PVXeZI5d2zsKUDjmxOKtM"
+        },
+        {
+          "name": "DJ MiMi",
+          "url": "https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5"
+        },
+        {
+          "name": "Ricko",
+          "url": "https://open.spotify.com/artist/0zbPaEelntedmnJpibHzIc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "NA ASSEZ",
+      "url": "https://open.spotify.com/track/2SjxKYGkm0RrCOpt7wVI6S"
     },
     {
       "album": {
@@ -5848,7 +5984,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 134962,
       "name": "P\u00e9ch\u00e9 mignon",
       "url": "https://open.spotify.com/track/12wOWWHCtlD1EFf6BrQp8w"
@@ -6084,7 +6220,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 192164,
       "name": "Saison 2",
       "url": "https://open.spotify.com/track/61zhgBrll0JcbZdhaYQ16i"
@@ -6180,6 +6316,28 @@
       "duration_ms": 138620,
       "name": "Sans maquillage",
       "url": "https://open.spotify.com/track/2scNw0O0VrxDyMNUqkPjxq"
+    },
+    {
+      "album": {
+        "name": "Sans moin",
+        "url": "https://open.spotify.com/album/6K2yRWhvi3cPM22gwD5E6f"
+      },
+      "artists": [
+        {
+          "name": "Dyrone",
+          "url": "https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs"
+        },
+        {
+          "name": "Dj M'sy",
+          "url": "https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188447,
+      "name": "Sans moin",
+      "url": "https://open.spotify.com/track/3wVeagnOOc5s5hICWRyKPF"
     },
     {
       "album": {
@@ -6802,7 +6960,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226614,
       "name": "Sylvani",
       "url": "https://open.spotify.com/track/4rLKmKo0tutkAbMqi7fMQt"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szabikeyz",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Elef\u00e1nt",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -96,6 +96,28 @@
       "duration_ms": 175444,
       "name": "7011",
       "url": "https://open.spotify.com/track/7plfGaqsGeRPonqOcHQylZ"
+    },
+    {
+      "album": {
+        "name": "A Kertben",
+        "url": "https://open.spotify.com/album/4KWEIeM8sazFrRfDxAkgTx"
+      },
+      "artists": [
+        {
+          "name": "Juh\u00e1sz Zoli",
+          "url": "https://open.spotify.com/artist/07aNeZApbFflKJYHiRZLGS"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "A Kertben",
+      "url": "https://open.spotify.com/track/7jDj1BdFIde0uqufxQtqPV"
     },
     {
       "album": {
@@ -263,6 +285,24 @@
     },
     {
       "album": {
+        "name": "AK\u00c1RKIFIA",
+        "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197511,
+      "name": "Ak\u00e1rkifia",
+      "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
+    },
+    {
+      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -274,7 +314,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
@@ -296,7 +336,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 205440,
       "name": "Aludn\u00e9k (de nem lehet)",
       "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
@@ -810,7 +850,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 262325,
       "name": "Boldog dalok, morbid viccek",
       "url": "https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm"
@@ -1162,6 +1202,24 @@
       "duration_ms": 249715,
       "name": "Csillagmez\u0151",
       "url": "https://open.spotify.com/track/1Q2ILRML53XSBbYDeqasdQ"
+    },
+    {
+      "album": {
+        "name": "Csillagt\u00fara",
+        "url": "https://open.spotify.com/album/5MQWem2K9oQVIrgjmZawzX"
+      },
+      "artists": [
+        {
+          "name": "Kauk\u00e1zus",
+          "url": "https://open.spotify.com/artist/1jf18UNlvDrLdEixB3yXNo"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Csillagt\u00fara",
+      "url": "https://open.spotify.com/track/2vpwQOMv4GFfneWIEzpaFU"
     },
     {
       "album": {
@@ -2079,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Fordul\u00f3",
+        "url": "https://open.spotify.com/album/0xuToQNreb5qzK9tIJ6Hj5"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3v\u00e9 Soma",
+          "url": "https://open.spotify.com/artist/5ReNZ8bnf49ZI6yz6gxb1d"
+        },
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Fordul\u00f3",
+      "url": "https://open.spotify.com/track/0NkGd1MWU8TBL0jFB8TLz2"
+    },
+    {
+      "album": {
         "name": "Forog",
         "url": "https://open.spotify.com/album/73KlujMAwF4fPAiKzmepto"
       },
@@ -2408,7 +2488,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179045,
       "name": "Groteszk",
       "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
@@ -2582,6 +2662,24 @@
       "duration_ms": 157073,
       "name": "HARD TIMES",
       "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
+    },
+    {
+      "album": {
+        "name": "heal, heal, heal",
+        "url": "https://open.spotify.com/album/5XmntFTXIT29aQLeWjteNw"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213630,
+      "name": "heal, heal, heal",
+      "url": "https://open.spotify.com/track/1p3xYYUCwcnhnJJrOvbry6"
     },
     {
       "album": {
@@ -3093,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "KALITKA",
+        "url": "https://open.spotify.com/album/7qvRUUUPdKDbyC3qjbL9nJ"
+      },
+      "artists": [
+        {
+          "name": "Elef\u00e1nt",
+          "url": "https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "KALITKA",
+      "url": "https://open.spotify.com/track/5nvw8Wj7y1GA9SlLCU5Lm3"
+    },
+    {
+      "album": {
         "name": "kapunyit\u00e1si p\u00e1nik",
         "url": "https://open.spotify.com/album/4dXfutjXoN3waqbIqPMgo1"
       },
@@ -3108,6 +3224,24 @@
       "duration_ms": 223500,
       "name": "kapunyit\u00e1si p\u00e1nik",
       "url": "https://open.spotify.com/track/77cSEXTUwyFrOHnSbowhKn"
+    },
+    {
+      "album": {
+        "name": "Karcos negat\u00edv",
+        "url": "https://open.spotify.com/album/2iNDVJktLcQlW9GKnDEL0I"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Karcos negat\u00edv",
+      "url": "https://open.spotify.com/track/5rp2dFderc43IcYH5omlTg"
     },
     {
       "album": {
@@ -3887,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9tezem",
+        "url": "https://open.spotify.com/album/5ZWzj6AaGJ2GTqJgBxdugc"
+      },
+      "artists": [
+        {
+          "name": "Galaxisok",
+          "url": "https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "L\u00e9tezem",
+      "url": "https://open.spotify.com/track/3yj2AWVUr5oBoGFYrrOwTr"
+    },
+    {
+      "album": {
         "name": "Ennyi",
         "url": "https://open.spotify.com/album/1NRIKSFAsfS9oQyIqQA6tO"
       },
@@ -3974,7 +4126,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 227058,
       "name": "MAGNET",
       "url": "https://open.spotify.com/track/2nduXclvZVwD2V6t4VNMaz"
@@ -4032,6 +4184,32 @@
       "duration_ms": 190344,
       "name": "Maradj",
       "url": "https://open.spotify.com/track/2D9cuafQ8pxTX0Cph4nrCq"
+    },
+    {
+      "album": {
+        "name": "MR. CITYWIDE",
+        "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
+      },
+      "artists": [
+        {
+          "name": "veryraredome",
+          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
+        },
+        {
+          "name": "26ckay",
+          "url": "https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv"
+        },
+        {
+          "name": "starboyrolo",
+          "url": "https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187849,
+      "name": "MARIO",
+      "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
     },
     {
       "album": {
@@ -4142,6 +4320,24 @@
       "duration_ms": 204923,
       "name": "MEGTAL\u00c1LLAK M\u00c9G (feat. Lil Frakk & FLM)",
       "url": "https://open.spotify.com/track/2Uc4wbnLvtDu9jLvYg96fs"
+    },
+    {
+      "album": {
+        "name": "megtal\u00e1lsz a foly\u00f3n\u00e1l",
+        "url": "https://open.spotify.com/album/6AcUzPEE5gv41rEuN57pxz"
+      },
+      "artists": [
+        {
+          "name": "klou",
+          "url": "https://open.spotify.com/artist/658THFg57KdcVZD90RmV21"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "megtal\u00e1lsz a foly\u00f3n\u00e1l",
+      "url": "https://open.spotify.com/track/0d5vsFTzkGNwHRWOuDVIb9"
     },
     {
       "album": {
@@ -4366,7 +4562,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 156000,
       "name": "mindig szomor\u00fa",
       "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
@@ -4486,7 +4682,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 198750,
       "name": "MURMUR OF POPINJAYS",
       "url": "https://open.spotify.com/track/3siRHynYlSsTq4BY7WTDTy"
@@ -4530,7 +4726,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 248160,
       "name": "M\u00e1shol",
       "url": "https://open.spotify.com/track/5kbkUAKvGpvybn0Q8S0sz4"
@@ -4754,7 +4950,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176345,
       "name": "Nem is te lenn\u00e9l",
       "url": "https://open.spotify.com/track/7IQOdHtbP4mI9B3oCFHDAg"
@@ -5347,6 +5543,32 @@
     },
     {
       "album": {
+        "name": "PROMETHEUS",
+        "url": "https://open.spotify.com/album/7HVCjcXc6QkoeimkdKBPHq"
+      },
+      "artists": [
+        {
+          "name": "Glazzard",
+          "url": "https://open.spotify.com/artist/6xNiwCOnq0w51O8kjfDR8e"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        },
+        {
+          "name": "Feh\u00e9r Holl\u00f3",
+          "url": "https://open.spotify.com/artist/33cCO3dLvdBacUrXaEckU1"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "PROMETHEUS",
+      "url": "https://open.spotify.com/track/4xrgqIfC0sqzcIKFA5bdTT"
+    },
+    {
+      "album": {
         "name": "Purgat\u00f3rium",
         "url": "https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7"
       },
@@ -5556,6 +5778,24 @@
       "duration_ms": 174250,
       "name": "Romeo and Juliet",
       "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
+    },
+    {
+      "album": {
+        "name": "A sz\u00fcrke rendes megfest\u00e9se 1.",
+        "url": "https://open.spotify.com/album/0KRh6UTb0f68cwFYw4B7ln"
+      },
+      "artists": [
+        {
+          "name": "Kiscsillag",
+          "url": "https://open.spotify.com/artist/6HrYHEvzVd9RliqNL80Ph6"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "Rozsd\u00e1s - Ricsinek",
+      "url": "https://open.spotify.com/track/0VHAABYBTBsWkweEWcfE8h"
     },
     {
       "album": {
@@ -5827,6 +6067,24 @@
     },
     {
       "album": {
+        "name": "LYUK A KERTBEN",
+        "url": "https://open.spotify.com/album/5J37TGE6IhEeLHjaCm0g6P"
+      },
+      "artists": [
+        {
+          "name": "Tingyela D\u00f3ri",
+          "url": "https://open.spotify.com/artist/7ky4EpchtJsS1RaYBPP74v"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "SKORPI\u00d3K",
+      "url": "https://open.spotify.com/track/22dyCz9IUUiQDMI7oGzXTT"
+    },
+    {
+      "album": {
         "name": "SLOWLY",
         "url": "https://open.spotify.com/album/1ufzCfrIHxO9lDRHOZNYk4"
       },
@@ -5918,10 +6176,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 128578,
       "name": "Sose halok meg",
       "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
+    },
+    {
+      "album": {
+        "name": "Hulljanak r\u00e1m az \u00e9vek",
+        "url": "https://open.spotify.com/album/4M6yJbeE626gvo8PcKg77C"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1klik\u0151r",
+          "url": "https://open.spotify.com/artist/1mEClPszmbqTkgnBgQ57Ui"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Sosem el\u00e9g",
+      "url": "https://open.spotify.com/track/2iu6Nf7YsIknHMCs09pxEI"
     },
     {
       "album": {
@@ -6070,7 +6346,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 282000,
       "name": "Szeg\u00e9nyk\u00e9m",
       "url": "https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X"
@@ -6164,7 +6440,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182000,
       "name": "Szeressetek",
       "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
@@ -6396,7 +6672,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 265895,
       "name": "Sz\u00fcrke",
       "url": "https://open.spotify.com/track/1CSSVuCrxzATV5V8vYV42A"
@@ -6515,6 +6791,24 @@
     },
     {
       "album": {
+        "name": "TAVASZI NAGYTAKAR\u00cdT\u00c1S",
+        "url": "https://open.spotify.com/album/1M5qSMUHsshvYpbdA2FbHh"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "TAVASZI NAGYTAKAR\u00cdT\u00c1S",
+      "url": "https://open.spotify.com/track/07pbiymI3VAmgE4HmHjk1N"
+    },
+    {
+      "album": {
         "name": "Nap Nap ut\u00e1n",
         "url": "https://open.spotify.com/album/5U1zptlL9xOs4Pitw4yTys"
       },
@@ -6526,7 +6820,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 69750,
       "name": "Tavasznak l\u00e1tlak",
       "url": "https://open.spotify.com/track/2Sxq4bLK3bukJObLV8nbqT"
@@ -6862,7 +7156,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 230750,
       "name": "Valahol",
       "url": "https://open.spotify.com/track/53J4spO1k4YnYFfRezVato"
@@ -7068,7 +7362,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 204250,
       "name": "v\u00e1lasz",
       "url": "https://open.spotify.com/track/4I6OrCyf5I9ohs9WS5h2U5"
@@ -7090,6 +7384,24 @@
       "duration_ms": 158282,
       "name": "V\u00e1rj m\u00e9g r\u00e1m",
       "url": "https://open.spotify.com/track/4mWIzdTHqDpHVLho4yUO2F"
+    },
+    {
+      "album": {
+        "name": "V\u00e1rok R\u00e1d",
+        "url": "https://open.spotify.com/album/2zr6C54DVZWC8pPmPuOThx"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169870,
+      "name": "V\u00e1rok R\u00e1d",
+      "url": "https://open.spotify.com/track/5ilhxSrCOfJSQNYfC022mT"
     },
     {
       "album": {

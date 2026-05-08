@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1297535,
+  "num_followers": 1297541,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -459,8 +459,8 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -551,8 +551,8 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Our Love Is Here to Stay",
-        "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
-      },
-      "artists": [
-        {
-          "name": "Brandon Sanders",
-          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
-        },
-        {
-          "name": "Jazzmeia Horn",
-          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
-        }
-      ],
-      "duration_ms": 381733,
-      "name": "Our Love Is Here to Stay",
-      "url": "https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "Stop Searching for Love (feat. Kate Ceberano)",
         "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 306960,
       "name": "Stop Searching for Love (feat. Kate Ceberano)",
       "url": "https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Our Love Is Here to Stay",
+        "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        },
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 381733,
+      "name": "Our Love Is Here to Stay",
+      "url": "https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
         "name": "Sweet Pumpkin",
         "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 252173,
       "name": "Sweet Pumpkin",
       "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Wild Is Love",
-        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Wild Is Love",
-      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 207409,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Wild Is Love",
+        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Wild Is Love",
+      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
     },
     {
       "added_at": "2026-04-24 08:23:24",

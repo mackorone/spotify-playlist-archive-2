@@ -1,15 +1,35 @@
 {
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan",
-  "num_followers": 73236,
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Wang",
+  "num_followers": 73235,
   "original_name": "Hot Greek Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPru4tz17ES/UKSt+3RIt6dbwmc",
+  "snapshot_id": "AAAAAMY/gPZVceoAsDYrqq+s/VZ+PBkQ",
   "tracks": [
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "Tenacity",
+        "url": "https://open.spotify.com/album/5KmtvSWGjjQ8Yu2TIGgFPW"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Kara Tepe",
+      "url": "https://open.spotify.com/track/6pHdnVVeWPLvRR4H4WF6Vf"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Ergo 3",
         "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/5QHUBy0eDXgnTAbipq1hql"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "VEGANZE",
         "url": "https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp"
@@ -49,7 +69,215 @@
       "url": "https://open.spotify.com/track/1SRW4kHjz0DcjnSfnLHbAs"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "VRD",
+        "url": "https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 155156,
+      "name": "YING YANG",
+      "url": "https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "BOGOTA",
+        "url": "https://open.spotify.com/album/4z3Bb6klPzOJM241TxiJSh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "BOGOTA",
+      "url": "https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "MESSI",
+        "url": "https://open.spotify.com/album/1kDTW7rN7ClFlb5IJ3eqbq"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        }
+      ],
+      "duration_ms": 151034,
+      "name": "MESSI",
+      "url": "https://open.spotify.com/track/5llZA8BwgV9fKr7cuRoiQH"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "KOLOTOUBA",
+        "url": "https://open.spotify.com/album/3fFDHxoK5gxtsbZJX47Aqe"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Tsabi",
+          "url": "https://open.spotify.com/artist/4JRX8483ymGAlPeXABD88m"
+        }
+      ],
+      "duration_ms": 150131,
+      "name": "KOLOTOUBA",
+      "url": "https://open.spotify.com/track/2xHSrVzLU1PTDp66zPlN35"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "AMA SARESW",
+        "url": "https://open.spotify.com/album/72IuhQ5rCDH8Gv5aNEbXly"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "AMA SARESW",
+      "url": "https://open.spotify.com/track/27YR9PvR67oRBOquAXS87Y"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "HENNY",
+        "url": "https://open.spotify.com/album/1FVSzUegRkpVHSuShyr4Qt"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "HENNY",
+      "url": "https://open.spotify.com/track/3dxdL00ifuoBZLvslo0uMV"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "Gucci Bag",
+        "url": "https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu"
+      },
+      "artists": [
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Gucci Bag",
+      "url": "https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "POIOS NA SOU TO PEI",
+      "url": "https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "FROM THE BOTTOM",
+        "url": "https://open.spotify.com/album/2uEf6Tq9InwsMRyPjVAyVl"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "KATASTROFES",
+      "url": "https://open.spotify.com/track/5wKeS174oywnGe2Gom5gTS"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "MONH SOU",
+      "url": "https://open.spotify.com/track/7w0AdTkXv0UU1Xbzyaj9c7"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "AVASIMA STOIXEIA",
         "url": "https://open.spotify.com/album/4zBlFHNnuPZOuTwEJd6Nzm"
@@ -77,87 +305,7 @@
       "url": "https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "VRD",
-        "url": "https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 155156,
-      "name": "YING YANG",
-      "url": "https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "AMA SARESW",
-        "url": "https://open.spotify.com/album/72IuhQ5rCDH8Gv5aNEbXly"
-      },
-      "artists": [
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "Arab",
-          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "AMA SARESW",
-      "url": "https://open.spotify.com/track/27YR9PvR67oRBOquAXS87Y"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "Gucci Bag",
-        "url": "https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu"
-      },
-      "artists": [
-        {
-          "name": "CHEKKIS",
-          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "Gucci Bag",
-      "url": "https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "MESSI",
-        "url": "https://open.spotify.com/album/1kDTW7rN7ClFlb5IJ3eqbq"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "MENJU",
-          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "MESSI",
-      "url": "https://open.spotify.com/track/5llZA8BwgV9fKr7cuRoiQH"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "KIDNAP",
         "url": "https://open.spotify.com/album/5W6ZNuZo41ttPZXIroor16"
@@ -173,7 +321,7 @@
       "url": "https://open.spotify.com/track/593IDXEqWzQXcIL2WzOycV"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "NO CAP LABEL",
         "url": "https://open.spotify.com/album/4UpsTP9q6hofq3qRkfoW6V"
@@ -197,23 +345,7 @@
       "url": "https://open.spotify.com/track/4lfbNdBhsdoeQvDsNnp5OO"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "SUMMER GETAWAY",
-        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
-      },
-      "artists": [
-        {
-          "name": "Likeboss",
-          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "MONH SOU",
-      "url": "https://open.spotify.com/track/7w0AdTkXv0UU1Xbzyaj9c7"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "OP TI EGINE?",
         "url": "https://open.spotify.com/album/6eFzC6wdmHur0gFcjINLL0"
@@ -229,7 +361,7 @@
       "url": "https://open.spotify.com/track/46PHloRvhwUO728FcaQmzx"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/6evd7cFqSRXyJ4t1Fimxit"
@@ -253,55 +385,27 @@
       "url": "https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32"
     },
     {
-      "added_at": "2026-05-05 10:23:47",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
-        "name": "SUMMER GETAWAY",
-        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+        "name": "Mala Vita",
+        "url": "https://open.spotify.com/album/7FBuEImstQqIga0n66HbML"
       },
       "artists": [
         {
-          "name": "Likeboss",
-          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
         },
         {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "Echo",
-          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+          "name": "Ank Beats",
+          "url": "https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W"
         }
       ],
-      "duration_ms": 161379,
-      "name": "DEN GYRNAS",
-      "url": "https://open.spotify.com/track/2tOclAPakNTvjFU0cTm0pj"
+      "duration_ms": 137560,
+      "name": "Mala Vita",
+      "url": "https://open.spotify.com/track/75QFWXuAuKhrrMXg4o8HSI"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "KOMODINO",
-        "url": "https://open.spotify.com/album/7BrEgSBHjI7UE23G7or2Jj"
-      },
-      "artists": [
-        {
-          "name": "BTK 187",
-          "url": "https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz"
-        },
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/02m75wzH05XASeDlPQMuMZ"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 161032,
-      "name": "KOMODINO",
-      "url": "https://open.spotify.com/track/6h35W32qi70UPoSY3xB4Iu"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "GAMATA",
         "url": "https://open.spotify.com/album/0itRd5qcnS2FExwbJGqUoo"
@@ -325,7 +429,7 @@
       "url": "https://open.spotify.com/track/3E2BHHIrNZV3O8B8V4HJ9I"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "SIMADIA",
         "url": "https://open.spotify.com/album/7tlLYENbYURMgBVzUWHy8N"
@@ -341,31 +445,7 @@
       "url": "https://open.spotify.com/track/4lP32IhvWfxaqAyxKkWNPG"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "OFFLINE",
-        "url": "https://open.spotify.com/album/4mMTbAfTguwKyfM5pKYkM6"
-      },
-      "artists": [
-        {
-          "name": "Ggreco",
-          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
-        },
-        {
-          "name": "Takanuva",
-          "url": "https://open.spotify.com/artist/2ciuV1nz063tai3NKwomQs"
-        },
-        {
-          "name": "_OTS",
-          "url": "https://open.spotify.com/artist/1duTYTeIWqrESenXtZ3a82"
-        }
-      ],
-      "duration_ms": 101250,
-      "name": "Napoli",
-      "url": "https://open.spotify.com/track/2GCbAJVtQp9lp7CTq8cPXS"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "AMAZING (Remix)",
         "url": "https://open.spotify.com/album/5n9BmLtebD4J2uuKlgTKrj"
@@ -385,7 +465,7 @@
       "url": "https://open.spotify.com/track/2lv40gMcnHgMTYnyBX1mL9"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "CAPO DEI CAPI (Deluxe)",
         "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/0dDlLhfgHqLLWyvKGDAzxD"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "VEGANZE",
         "url": "https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp"
@@ -429,7 +509,7 @@
       "url": "https://open.spotify.com/track/0B015hZa7aYSZCpPAa4iPy"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "STUFF",
         "url": "https://open.spotify.com/album/3GJurEoDAY9JbMuefeCuyU"
@@ -453,35 +533,7 @@
       "url": "https://open.spotify.com/track/01uh1vFxHx6tHAVslWrJdZ"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "MARADONA",
-        "url": "https://open.spotify.com/album/4yaMYBULwLgBe3ztaMqlXb"
-      },
-      "artists": [
-        {
-          "name": "Bres",
-          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
-        },
-        {
-          "name": "SOLO",
-          "url": "https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8"
-        },
-        {
-          "name": "Onad",
-          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
-        },
-        {
-          "name": "Thug Slime",
-          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "MARADONA",
-      "url": "https://open.spotify.com/track/2iA0GsIJ8htppyhTtnmti7"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "S 500",
         "url": "https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7"
@@ -501,27 +553,7 @@
       "url": "https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "Kingpin 2",
-        "url": "https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O"
-      },
-      "artists": [
-        {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "Giorgos Orfanidis",
-          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
-        }
-      ],
-      "duration_ms": 148654,
-      "name": "An Mia Mera",
-      "url": "https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "FOREVER RICH",
         "url": "https://open.spotify.com/album/56g5Gpf9lo2se0EKFKSOS6"
@@ -545,23 +577,7 @@
       "url": "https://open.spotify.com/track/5QXZy0LU1kNhi9TAus1nVP"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "FREE FOR ALL",
-        "url": "https://open.spotify.com/album/60Uu7CsIfbZ1tekfNKxyW7"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "FREE FOR ALL",
-      "url": "https://open.spotify.com/track/6KYUQv64dBHAqk15LFwxhj"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "FOREVER RICH",
         "url": "https://open.spotify.com/album/56g5Gpf9lo2se0EKFKSOS6"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/3hcsY2faewmbNAjFUTW5Et"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "PTR",
         "url": "https://open.spotify.com/album/789ERgR4bspBuGQTsakEll"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/2UCl29yD6Q92WEnAEBxFD0"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "SALVATORE",
         "url": "https://open.spotify.com/album/2OInngvIJpJ8AYujWexpuL"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/5sCEPFsFxNr0FsMW6OaZbT"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Lilith Tape 2",
         "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "PISTEPSE ME",
         "url": "https://open.spotify.com/album/1WqJYOxpOfSy8jvK0hso31"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/37COHCA4kr6orek8bUAFhG"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Respect The Classics",
         "url": "https://open.spotify.com/album/5MBis4OdmskDVFptnf7zPZ"
@@ -697,31 +713,7 @@
       "url": "https://open.spotify.com/track/4AT728QCnektzxr2fsgNa9"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "LILA",
-          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "POIOS NA SOU TO PEI",
-      "url": "https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "BOYKA",
         "url": "https://open.spotify.com/album/28tc22zEAO5QTsieSJ5HJd"
@@ -749,7 +741,7 @@
       "url": "https://open.spotify.com/track/6XMikOosYV3xFiDOUFJ9LK"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Funny Valentine",
         "url": "https://open.spotify.com/album/5t1xFZTzHUxB0l3geZEuad"
@@ -769,7 +761,7 @@
       "url": "https://open.spotify.com/track/5rXxnp0uCZzmbMmtm4kaan"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "WHY ALWAYS ME?",
         "url": "https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca"
@@ -793,7 +785,7 @@
       "url": "https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "NTALAVERIA",
         "url": "https://open.spotify.com/album/27vjQOr6Jf6XFETYlEELSx"
@@ -817,7 +809,7 @@
       "url": "https://open.spotify.com/track/4tFevjTUCMo0OBkIQzzQOj"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "ZELJKO",
         "url": "https://open.spotify.com/album/4lR1PUDNmeHgR3WwA4GZpv"
@@ -837,7 +829,7 @@
       "url": "https://open.spotify.com/track/4TiuDw2IxnpGAYtLDODAbG"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "4YOU",
         "url": "https://open.spotify.com/album/7jrzbw5xB8LFzxxL3nwJCb"
@@ -853,7 +845,7 @@
       "url": "https://open.spotify.com/track/1AEcnXDp6GjkF5mXOugTpQ"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Alo",
         "url": "https://open.spotify.com/album/7GIHIYcX9o5mMdV6o8gNt6"
@@ -873,7 +865,7 @@
       "url": "https://open.spotify.com/track/1L8KUoyAkVUyjrOFds519l"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "CARTEL",
         "url": "https://open.spotify.com/album/21K02Axdn1jKwF7q4qkF5y"
@@ -897,7 +889,7 @@
       "url": "https://open.spotify.com/track/1sH3C1vAF0x9lUz2viD8t6"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "CHECKS",
         "url": "https://open.spotify.com/album/2aJMaDG7wlUkjFpUZvUVcz"
@@ -917,27 +909,7 @@
       "url": "https://open.spotify.com/track/3SScDeSOibZKagVI11nTgX"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "SERBIAN FREESTYLE",
-        "url": "https://open.spotify.com/album/3olkfjArml6atN7UtnoyCj"
-      },
-      "artists": [
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        },
-        {
-          "name": "Jessy Blue",
-          "url": "https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "SERBIAN FREESTYLE",
-      "url": "https://open.spotify.com/track/1MMpsfptbwzmzAcxZxRG1x"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Dope Sport (Vol.3)",
         "url": "https://open.spotify.com/album/38mlNJEqWEVsA26F9EtBMN"
@@ -961,7 +933,7 @@
       "url": "https://open.spotify.com/track/5bawdjcd7m36kjJ4ChnqLn"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "VRD",
         "url": "https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y"
@@ -985,7 +957,7 @@
       "url": "https://open.spotify.com/track/6NmGemgtgnXl8dzdZ5irAq"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
@@ -1001,7 +973,7 @@
       "url": "https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/1dOVqT0FstkaL9bTsyKeZV"
@@ -1021,7 +993,7 @@
       "url": "https://open.spotify.com/track/4FpBBFpqO2fsThvlrwYWWr"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "Runnin' Busy",
         "url": "https://open.spotify.com/album/3e5lplDylZTPn9Ggpu3huQ"
@@ -1041,71 +1013,7 @@
       "url": "https://open.spotify.com/track/6WMWJzvoMmFAFWhrMSwLvs"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "Liontaria",
-        "url": "https://open.spotify.com/album/3oXgN5fuXB2KwQO462Nbw2"
-      },
-      "artists": [
-        {
-          "name": "Buzz",
-          "url": "https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5"
-        },
-        {
-          "name": "Ethismos",
-          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 248345,
-      "name": "Proion Tou Dromou",
-      "url": "https://open.spotify.com/track/0080cWwr6bdvbRYHaTGAra"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "Live Ap' To Block",
-        "url": "https://open.spotify.com/album/2UIzPRn3FFnTrOb4qboMhQ"
-      },
-      "artists": [
-        {
-          "name": "Mikros Kleftis",
-          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
-        },
-        {
-          "name": "DJ.Silence",
-          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Live Ap' To Block",
-      "url": "https://open.spotify.com/track/4fGuDjzrnQ6smvTTZOtnAS"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "VENDETTA",
-        "url": "https://open.spotify.com/album/2bBXAqMB8eivsHnJf9juDp"
-      },
-      "artists": [
-        {
-          "name": "BAKV",
-          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
-        },
-        {
-          "name": "ASOK",
-          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
-        }
-      ],
-      "duration_ms": 208134,
-      "name": "MENTALIT\u00c9",
-      "url": "https://open.spotify.com/track/1jwJw5rT5B9ZVSBfkNpDYt"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/6SfjX64Bpd4CpfIndf00Hn"
@@ -1129,31 +1037,7 @@
       "url": "https://open.spotify.com/track/3yG5QwVZfesivke0nOWr9R"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
-      "album": {
-        "name": "INE HERMES",
-        "url": "https://open.spotify.com/album/3tUtGLwmFtjiJeyWyfQ6Ug"
-      },
-      "artists": [
-        {
-          "name": "HermesHermes",
-          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
-        },
-        {
-          "name": "Tr4cer",
-          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "KENZO",
-      "url": "https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm"
-    },
-    {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "ALCANTARA",
         "url": "https://open.spotify.com/album/5TxLYjqyXamCUCb6z5b8B4"
@@ -1177,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "DIO KARDIES",
         "url": "https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z"
@@ -1201,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "NFL",
         "url": "https://open.spotify.com/album/7x80qM9bLE6TTxUoF8LtpJ"
@@ -1221,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5H8VwlKbwORU3icDM947rK"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "FOREVER RICH",
         "url": "https://open.spotify.com/album/56g5Gpf9lo2se0EKFKSOS6"
@@ -1237,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0uOlfFtQMtPhXiaUraMUJA"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "GKD",
         "url": "https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg"
@@ -1261,7 +1145,7 @@
       "url": "https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP"
     },
     {
-      "added_at": "2026-04-30 21:00:33",
+      "added_at": "2026-05-07 21:00:36",
       "album": {
         "name": "YAMAHA",
         "url": "https://open.spotify.com/album/1SeDqetoZ9M8F4bDdYvAV9"
@@ -1287,6 +1171,146 @@
       "duration_ms": 185379,
       "name": "YAMAHA",
       "url": "https://open.spotify.com/track/5UGJAKKS9r5GJkOEofFLaA"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "DEN GYRNAS",
+      "url": "https://open.spotify.com/track/2tOclAPakNTvjFU0cTm0pj"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "KOMODINO",
+        "url": "https://open.spotify.com/album/7BrEgSBHjI7UE23G7or2Jj"
+      },
+      "artists": [
+        {
+          "name": "BTK 187",
+          "url": "https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz"
+        },
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/02m75wzH05XASeDlPQMuMZ"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 161032,
+      "name": "KOMODINO",
+      "url": "https://open.spotify.com/track/6h35W32qi70UPoSY3xB4Iu"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/4mMTbAfTguwKyfM5pKYkM6"
+      },
+      "artists": [
+        {
+          "name": "Ggreco",
+          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
+        },
+        {
+          "name": "Takanuva",
+          "url": "https://open.spotify.com/artist/2ciuV1nz063tai3NKwomQs"
+        },
+        {
+          "name": "_OTS",
+          "url": "https://open.spotify.com/artist/1duTYTeIWqrESenXtZ3a82"
+        }
+      ],
+      "duration_ms": 101250,
+      "name": "Napoli",
+      "url": "https://open.spotify.com/track/2GCbAJVtQp9lp7CTq8cPXS"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "MARADONA",
+        "url": "https://open.spotify.com/album/4yaMYBULwLgBe3ztaMqlXb"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "SOLO",
+          "url": "https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/2iA0GsIJ8htppyhTtnmti7"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "Kingpin 2",
+        "url": "https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        }
+      ],
+      "duration_ms": 148654,
+      "name": "An Mia Mera",
+      "url": "https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA"
+    },
+    {
+      "added_at": "2026-05-07 21:00:36",
+      "album": {
+        "name": "SERBIAN FREESTYLE",
+        "url": "https://open.spotify.com/album/3olkfjArml6atN7UtnoyCj"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Jessy Blue",
+          "url": "https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "SERBIAN FREESTYLE",
+      "url": "https://open.spotify.com/track/1MMpsfptbwzmzAcxZxRG1x"
     }
   ],
   "unique_name": "Hot Greek Rap",

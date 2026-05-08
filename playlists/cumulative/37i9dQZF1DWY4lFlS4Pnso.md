@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Noah Kahan
+> The UK's biggest playlist\. Cover: Sam Fender & Olivia Dean
 
 465 songs - 1 day 0 hr 42 min
 

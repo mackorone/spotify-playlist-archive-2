@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Alikiba & Mbosso
+> What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-359 songs - 20 hr 9 min
+360 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Be My Rescue](https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Sweet Sour Serenade](https://open.spotify.com/album/5vpuiuqaKIxzCDAzjXCS3t) | 3:08 | 2024-11-07 | 2025-02-07 |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Because Of Love](https://open.spotify.com/track/6HAygKbSMRxHARvjRkX6jK) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 2:30 | 2025-06-19 | 2026-01-30 |
-| [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt) | 2:54 | 2025-06-26 |  |
+| [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt) | 2:54 | 2025-06-26 | 2026-05-08 |
 | [Better Love](https://open.spotify.com/track/48FW62a8isVS443e7EaIUE) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT) | [Better Love](https://open.spotify.com/album/2K6u2p51mwoN9MbDNWzFAI) | 3:02 | 2026-02-26 |  |
 | [Bhuju \(feat\. Mbosso\)](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju \(feat\. Mbosso\)](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 | 2026-04-30 |  |
 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 | 2025-02-27 | 2026-02-06 |
@@ -359,6 +359,7 @@
 | [Wote](https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Love Season](https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg) | 3:10 | 2025-02-06 |  |
 | [Wow](https://open.spotify.com/track/1a50fC98TLpeermDrb5dws) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [This is Appy](https://open.spotify.com/album/43i28oP35562ecl4k6KOzs) | 3:32 | 2026-02-12 |  |
 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 | 2025-01-23 | 2025-09-12 |
+| [Yazoee](https://open.spotify.com/track/7go3M2likVy1B21NC0XJA1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yazoee](https://open.spotify.com/album/6Lc9nilYGt0nnZKRPhXwsa) | 3:09 | 2026-05-07 |  |
 | [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 | 2024-10-17 | 2025-05-30 |
 | [Yeye](https://open.spotify.com/track/54DJmNdE1KwaFNIjxSohY2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yeye](https://open.spotify.com/album/6q8mOZ3fOVmPyrlQZ4kLTM) | 2:57 | 2025-04-24 | 2026-01-16 |
 | [You \(feat\. Yammi\)](https://open.spotify.com/track/4XTcVh6TLERIw3BcA4sX2D) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [You \(feat\. Yammi\)](https://open.spotify.com/album/6yWJogn1gsms4cAXPE6b7x) | 3:30 | 2024-03-14 | 2024-03-22 |

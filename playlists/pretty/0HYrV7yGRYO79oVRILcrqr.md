@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,809 likes - 118 songs - 7 hr 40 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,812 likes - 121 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 116 | [Effatà](https://open.spotify.com/track/2RXiEuxgDn4OdQjWKBvFO5) | [Eluana Lateana](https://open.spotify.com/artist/55wsfjOEy5MhUC0Tm7I3wV), [Marcello Favoino](https://open.spotify.com/artist/6gUroXfm6h2jAaeh7xqwwU) | [Effatà](https://open.spotify.com/album/3n69EjkZZVaC1pkrjrkcMW) | 4:39 |
 | 117 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 |
 | 118 | [Silver stream](https://open.spotify.com/track/02G5hYmq30lppq3ApFFVyQ) | [Latencia 0](https://open.spotify.com/artist/6HS2Rmxcd00zEKWt6AIn43) | [Silver stream](https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ) | 3:01 |
+| 119 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 |
+| 120 | [Burattini](https://open.spotify.com/track/0mXVDJwayyownNl3R78HNg) | [JOSH](https://open.spotify.com/artist/05gpLZ1OK3Ow0Z5WoZIkbJ) | [Dove Dovrei Essere](https://open.spotify.com/album/1QBYlFbQtI2RYJdOpToz5q) | 3:23 |
+| 121 | [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 |
 
-Snapshot ID: `AAALSisbd/sptlc9NUwZ/qDKD2j+QmSe`
+Snapshot ID: `AAALTb2cgdfJuZyydQLCGX3hPYi6H4Ub`

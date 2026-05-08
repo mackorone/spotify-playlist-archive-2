@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Dani Lia",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Magda",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 192000,
       "name": "I Hate Love",
       "url": "https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37"
@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 141493,
       "name": "NEIN SCHATZ",
       "url": "https://open.spotify.com/track/7Bkw8mQs8oYUV9udjdgXG9"
@@ -9085,6 +9085,24 @@
     },
     {
       "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
+    },
+    {
+      "album": {
         "name": "Whatever Happens",
         "url": "https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu"
       },
@@ -9224,6 +9242,24 @@
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
+    },
+    {
+      "album": {
+        "name": "Wieso",
+        "url": "https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225201,
+      "name": "Wieso",
+      "url": "https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 794 likes - 109 songs - 6 hr 7 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 800 likes - 110 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 107 | [Black Lashes](https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:02 |
 | 108 | [Amnesia](https://open.spotify.com/track/7FD4lLp5GBsRVEMWwYBBUp) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML), [CeStyle](https://open.spotify.com/artist/6zDcQZkvdVjUv5HyqRKHCm) | [Amnesia](https://open.spotify.com/album/0a5SZcSO05pTCUXZOKBpfI) | 4:00 |
 | 109 | [1721](https://open.spotify.com/track/2o9VXvH23n3IGgkaogject) | [Recheal Chrismild](https://open.spotify.com/artist/0Y0N5wtZyxYHA67np5VXIO) | [1721](https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl) | 3:44 |
+| 110 | [Public Memory \#1](https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Public Memory \#1](https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l) | 3:31 |
 
-Snapshot ID: `AAADma/D9bfoQOVm/l2OxgFX5ZKfbNr+`
+Snapshot ID: `AAADmmLe7QeqlkOVyNojJP+V5ZXcOdcX`

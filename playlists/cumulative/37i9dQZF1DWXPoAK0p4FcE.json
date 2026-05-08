@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Dept",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Playground",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
+    {
+      "album": {
+        "name": "18 \u0e21\u0e19\u0e38\u0e29\u0e22\u0e4c\u0e17\u0e2d\u0e07\u0e04\u0e33",
+        "url": "https://open.spotify.com/album/0utosybN3YUiMBodVj57v5"
+      },
+      "artists": [
+        {
+          "name": "Playground",
+          "url": "https://open.spotify.com/artist/2wOi2qbLUki1fdXM14aki4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "18 \u0e21\u0e19\u0e38\u0e29\u0e22\u0e4c\u0e17\u0e2d\u0e07\u0e04\u0e33",
+      "url": "https://open.spotify.com/track/2e6a5Ii86RwKEaDTxeMjxV"
+    },
     {
       "album": {
         "name": "44\u00b0",
@@ -292,6 +310,24 @@
       "duration_ms": 225604,
       "name": "La La La",
       "url": "https://open.spotify.com/track/0pJmvjvcdE8jD21juh5rjm"
+    },
+    {
+      "album": {
+        "name": "not smoke, but cloud",
+        "url": "https://open.spotify.com/album/6lvlRdaGuZsY6FJ3O4wAtd"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/34a5mnnhwNtONOVuOazEri"
     },
     {
       "album": {
@@ -1428,7 +1464,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 256000,
       "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
       "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 204000,
       "name": "\u0e2d\u0e32\u0e08\u0e44\u0e21\u0e48\u0e16\u0e36\u0e07\u0e04\u0e23\u0e32\u0e27 (right ?)",
       "url": "https://open.spotify.com/track/66vg1i9irdGiIpVsjWj5Sl"
@@ -2484,6 +2520,24 @@
       "duration_ms": 254500,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e16\u0e32\u0e21\u0e40\u0e18\u0e2d\u0e14\u0e39 (Can I ask)",
       "url": "https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
+        "url": "https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239770,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
+      "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
     },
     {
       "album": {
@@ -2996,7 +3050,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 201423,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e21\u0e32\u0e15\u0e23\u0e10\u0e32\u0e19 (Norm)",
       "url": "https://open.spotify.com/track/2SqRDUGYOHQXRYXWASOslM"

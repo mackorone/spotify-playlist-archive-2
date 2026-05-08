@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-370 songs - 20 hr 37 min
+371 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 | 2024-03-06 |
 | [Gordo](https://open.spotify.com/track/2pDxURcQGlw2RZG0aAkmsv) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM) | [Gordo](https://open.spotify.com/album/7Cn3xh65bkIu70wNMmrMpF) | 3:32 | 2025-07-04 | 2025-11-21 |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2023-05-26 | 2024-03-04 |
+| [Guampa Chata](https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 2:37 | 2026-02-13 |  |
 | [Guerra](https://open.spotify.com/track/2SS3YF05rm1adWFAGXAZFh) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Guerra](https://open.spotify.com/album/3nAcVpBeZ5MEaZmtNt1Uhf) | 2:57 | 2023-09-29 | 2023-10-14 |
 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 | 2023-05-26 | 2025-10-30 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 3:00 | 2023-05-26 | 2025-10-11 |
@@ -188,7 +189,7 @@
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 | 2025-11-21 |
 | [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 |  |
 | [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 | 2023-05-26 | 2023-08-16 |
-| [Libre y Soltero](https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Libre y Soltero](https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe) | 3:35 | 2025-04-18 |  |
+| [Libre y Soltero](https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1) | [Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Libre y Soltero](https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe) | 3:35 | 2025-04-18 | 2026-05-08 |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-05-26 | 2025-11-25 |
 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 | 2023-10-26 |  |
 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 | 2023-06-09 | 2024-08-22 |

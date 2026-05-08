@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Feet On Earth",
+        "url": "https://open.spotify.com/album/5Vv1f6zZhiQNa2lf7Ti5S6"
+      },
+      "artists": [
+        {
+          "name": "LEARA - ELYRIA SINGER",
+          "url": "https://open.spotify.com/artist/6jgY3hP8sqiGrAbHdvUkk8"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231264,
+      "name": "Feet On Earth - Bones Alive",
+      "url": "https://open.spotify.com/track/32Zqd3db3Bd6RGBeG9PATQ"
+    },
+    {
+      "album": {
         "name": "GRACE",
         "url": "https://open.spotify.com/album/6rb2rrKMVap8kvELgAJHK4"
       },
@@ -4216,6 +4234,24 @@
       "duration_ms": 382857,
       "name": "Sideral",
       "url": "https://open.spotify.com/track/2PMgOhMElCeSGWGd7xMl6n"
+    },
+    {
+      "album": {
+        "name": "Silver Threads: The Final Saga",
+        "url": "https://open.spotify.com/album/3XEMADvwycV4x8hJDHi2Qo"
+      },
+      "artists": [
+        {
+          "name": "ELYRIA",
+          "url": "https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404760,
+      "name": "Silver Threads: Dawn That Conquers Night",
+      "url": "https://open.spotify.com/track/4dDmB5h8WUehCfXMNDW4wn"
     },
     {
       "album": {

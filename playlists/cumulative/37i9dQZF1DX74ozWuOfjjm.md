@@ -2,9 +2,9 @@
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to women at full volume\. Cover: Tkay Maidza
+> Listen to women at full volume\. Cover: Aldous Harding
 
-1,183 songs - 2 day 16 hr 20 min
+1,184 songs - 2 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Closure](https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Closure](https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1) | 4:19 | 2025-04-08 | 2025-07-30 |
 | [Cloud Dancing](https://open.spotify.com/track/1osa9IosuISMYwkfOGguY5) | [Paige Valentine](https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS) | [Cloud Dancing](https://open.spotify.com/album/7fkki65cI89IRPRiCaobTB) | 3:26 | 2023-08-31 | 2024-04-20 |
 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 | 2022-02-03 | 2022-09-06 |
+| [Coats](https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2Diqky5gHLlBs2A3X4UfRC) | 3:28 | 2026-05-07 |  |
 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 | 2022-12-31 | 2024-02-15 |
 | [cold medicine](https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine](https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz) | 3:27 | 2024-06-23 | 2024-11-13 |
 | [cold medicine](https://open.spotify.com/track/6mXEKQrbvEpllrc3Uff8qB) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine \(deluxe edition\)](https://open.spotify.com/album/0iT0luHBNd77yShh5cpLaD) | 3:27 | 2024-12-04 | 2025-01-15 |
@@ -1144,7 +1145,7 @@
 | [Where The Light Used To Lay](https://open.spotify.com/track/3rPD7muv5zfAnHUttFJ2R0) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Where The Light Used To Lay](https://open.spotify.com/album/5dta0K0dySJ527iiB9AFFa) | 3:36 | 2022-03-01 | 2022-10-03 |
 | [WHERE YOU BEEN](https://open.spotify.com/track/26kFs0e2PJjeJQDJeljHnt) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [WHERE YOU BEEN](https://open.spotify.com/album/4oKXrvmebPe6GZ0LWLJyld) | 2:56 | 2025-12-03 | 2026-04-08 |
 | [Where You Go](https://open.spotify.com/track/40lKVXVVXWbEQOiKBmBiML) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Where You Go](https://open.spotify.com/album/3fos8oGOL5y5j3T8RZd2hv) | 2:26 | 2025-06-24 | 2025-12-04 |
-| [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 | 2025-08-04 |  |
+| [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 | 2025-08-04 | 2026-05-08 |
 | [white rabbit](https://open.spotify.com/track/3FVGZN5nid65BkYEzeGfbs) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [white rabbit](https://open.spotify.com/album/3C3OWeK19bJVr4GRoW6OSl) | 2:59 | 2025-04-15 | 2025-06-25 |
 | [Who Are You When You're Not Performing?](https://open.spotify.com/track/5OMzx2zDNrgEg8HumGKL8Q) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Who Are You When You're Not Performing?](https://open.spotify.com/album/1aULiTrP2n07DYMmjCLZK9) | 4:37 | 2024-05-21 | 2025-01-15 |
 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/3nYnPU2NsAHka8mwjZvofm) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [BUNNY MODE](https://open.spotify.com/album/6VnNxouhGdgytS2REs4bWX) | 2:11 | 2026-03-19 | 2026-04-08 |

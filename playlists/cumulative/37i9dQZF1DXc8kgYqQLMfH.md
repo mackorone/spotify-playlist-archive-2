@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,318 songs - 2 day 2 hr 26 min
+1,319 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Deep](https://open.spotify.com/track/1AIRo8fm2HRBijyK2R9tTv) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Deep](https://open.spotify.com/album/0QOeIULtoZKuYNhb6ZtdpI) | 2:40 | 2025-11-14 | 2026-02-21 |
 | [Deep Blue](https://open.spotify.com/track/4N7vzUz5kg4emuU8py5PvZ) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Deep Blue](https://open.spotify.com/album/1dx8RWnHxRTuTa9LE3vROE) | 2:27 | 2023-03-16 | 2023-11-11 |
 | [Deep Breaths](https://open.spotify.com/track/24tCFs2DAT3Js3kBBalhb0) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Deep Breaths](https://open.spotify.com/album/1tDzraOZEOGevw4RcTLrS0) | 3:02 | 2024-10-04 | 2025-01-11 |
+| [desert lake](https://open.spotify.com/track/2CNhdFBEzpNIDqkjBew6kN) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [desert lake](https://open.spotify.com/album/3OAgQupxAFu4mj82cmUUWe) | 2:18 | 2026-05-07 |  |
 | [Dew](https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Dew](https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4) | 2:19 | 2026-01-30 |  |
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2021-11-10 | 2023-01-20 |
 | [Di Vibes](https://open.spotify.com/track/6IJnra0kE1vmJACs3i6ndb) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Di Vibes](https://open.spotify.com/album/1DBVUgN89KxsMi9bJ7qMFT) | 2:21 | 2021-11-10 | 2022-10-29 |
@@ -798,7 +799,7 @@
 | [Never Forgotten](https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Never Forgotten](https://open.spotify.com/album/7zgBhhx6aV03m41a2veUUX) | 3:05 | 2023-12-22 | 2025-07-16 |
 | [New Adventures](https://open.spotify.com/track/7yBTDVkyI3ZUNFgLCw1y7b) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [New Adventures](https://open.spotify.com/album/4v75HfqwkIB2e5Hz3S6W7K) | 2:01 | 2023-10-06 | 2025-07-16 |
 | [new chimes](https://open.spotify.com/track/3HbMWLdJrCNjXaVWIcXijo) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [new chimes](https://open.spotify.com/album/5vlYGwXhpAqd4ylljVY1U6) | 2:43 | 2022-10-28 | 2025-07-16 |
-| [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 | 2023-07-13 |  |
+| [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 | 2023-07-13 | 2026-05-08 |
 | [New Start](https://open.spotify.com/track/63EvcDNHX5y1RKG27xA8MU) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [New Start](https://open.spotify.com/album/2PvliQgtmpDKaYA0Vk5LeS) | 2:15 | 2023-04-20 | 2023-10-13 |
 | [new umbrella](https://open.spotify.com/track/2P0WFMWtobbWsSyqTCnFUj) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [new umbrella](https://open.spotify.com/album/32IJq0kE30S5VhKtHqyjMP) | 2:15 | 2023-03-24 | 2025-11-06 |
 | [New York Is Asleep](https://open.spotify.com/track/6Eb37wwzE1vtmMxqf9toe7) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [New York Is Asleep](https://open.spotify.com/album/4hJPTXwae6JDtC7m8QcdRU) | 2:42 | 2023-12-08 | 2025-07-16 |

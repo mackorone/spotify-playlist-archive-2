@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166475,
+  "num_followers": 166489,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Onslaught",
         "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 226206,
       "name": "Substance",
       "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Run The Track",
+        "url": "https://open.spotify.com/album/6R1CDiAN555zJ0MD9JuFAC"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Run The Track",
+      "url": "https://open.spotify.com/track/2wCmgp46u0jaUgVccieNRF"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Midnight Control (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/6AsIVNHLfL69rCv0WtUX0Y"
       },
@@ -1075,18 +1091,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Run The Track",
-        "url": "https://open.spotify.com/album/6R1CDiAN555zJ0MD9JuFAC"
+        "name": "14ZERO",
+        "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Run The Track",
-      "url": "https://open.spotify.com/track/2wCmgp46u0jaUgVccieNRF"
+      "duration_ms": 241714,
+      "name": "Dubplate Fly",
+      "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1123,26 +1143,6 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "14ZERO",
-        "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Dubplate Fly",
-      "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Feel The Pulse",
+        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "Feel The Pulse",
+      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Full Power",
         "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Feel The Pulse",
-        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
         }
       ],
-      "duration_ms": 200028,
-      "name": "Feel The Pulse",
-      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+      "duration_ms": 200228,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1239,22 +1255,6 @@
       "duration_ms": 136551,
       "name": "Corner",
       "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
-      },
-      "artists": [
-        {
-          "name": "Primate",
-          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Anti/Thesis: Vol. 2",
         "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 193273,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
         "name": "Timestretch: Future",
         "url": "https://open.spotify.com/album/6vvGllFziUygPqlOmiDcIu"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 163448,
       "name": "Hibernate",
       "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
-        }
-      ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Vigilante Kru",
-        "url": "https://open.spotify.com/album/1P7FPeseMqPGKZqK8Co3Jf"
-      },
-      "artists": [
-        {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
-        },
-        {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Vigilante Kru",
-      "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 200228,
       "name": "Losing Control - VIP",
       "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Vigilante Kru",
+        "url": "https://open.spotify.com/album/1P7FPeseMqPGKZqK8Co3Jf"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Vigilante Kru",
+      "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
     },
     {
       "added_at": "2026-04-23 23:01:11",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-04-23 23:01:11",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
-    },
-    {
-      "added_at": "2026-04-23 23:01:11",
-      "album": {
         "name": "Excalibur - EP",
         "url": "https://open.spotify.com/album/7gCJWtzX4A83C6lPwxfCvh"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 219428,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/0mNgHk38nt7ikBi3lunV9b"
+    },
+    {
+      "added_at": "2026-04-23 23:01:11",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
     },
     {
       "added_at": "2026-04-23 23:01:11",

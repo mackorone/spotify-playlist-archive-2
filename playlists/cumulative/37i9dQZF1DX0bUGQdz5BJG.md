@@ -4,7 +4,7 @@
 
 > Your ears on the ground in Music City\. Cover: Blake Whiten
 
-4,026 songs - 9 day 0 hr 3 min
+4,027 songs - 9 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2174,6 +2174,7 @@
 | [Love You On My Mind](https://open.spotify.com/track/4ioDT0NAIiEFC2f6ICbk9F) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Love You On My Mind](https://open.spotify.com/album/2vJXNRwoT32G0ltZruD40a) | 2:55 | 2024-02-09 | 2024-05-11 |
 | [Love You Too \(feat\. Ashley Cooke\)](https://open.spotify.com/track/5lLfoISXBHCOdiOCNgS49Z) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town](https://open.spotify.com/album/1U3MZN9pyVBDjQSJRrWxJJ) | 2:48 | 2022-04-15 | 2022-08-06 |
 | [LOVERBOY](https://open.spotify.com/track/2QRUzQzXQ7GEZRe9rA9WbL) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [LOVERBOY](https://open.spotify.com/album/2NbqvUAyCV2KaQeE32M41m) | 3:19 | 2021-12-31 | 2022-01-08 |
+| [Low](https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C) | [The Band Loula](https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i) | [Low](https://open.spotify.com/album/6Oq2uNmcgKdMSAdZSXG73j) | 3:25 | 2026-05-01 |  |
 | [Low Class Lovers](https://open.spotify.com/track/4KQhT0KX8Qs7juORe5Io6e) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Low Class Lovers](https://open.spotify.com/album/4bVa6xxpPiYh8XMECzQDBU) | 4:39 | 2022-04-29 | 2022-07-02 |
 | [Low Hangin' Fruit](https://open.spotify.com/track/5lpA8XtttBrwaGkzRxHWTn) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Weyerhaeuser Land / Low Hangin' Fruit](https://open.spotify.com/album/1w2YgLipGdCDkCsvUrRI3h) | 3:38 | 2023-11-03 | 2024-03-23 |
 | [Low Key Love Song](https://open.spotify.com/track/5hsbU6BWT3VDF73Ylq4h0F) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Low Key Love Song](https://open.spotify.com/album/6vxBXveB7yDsZ3Kyv2GkUO) | 3:02 | 2026-01-23 | 2026-03-07 |

@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-283 songs - 16 hr 13 min
+285 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Feel](https://open.spotify.com/track/36InTWKgVWOyfaB8WCUnV8) | [Joxi](https://open.spotify.com/artist/53hzn2DBFXvOww8Sifk1GW) | [Feel](https://open.spotify.com/album/5xg1MxxQh9TQRaeMXLVbrZ) | 4:53 | 2025-01-26 |  |
 | [Feel It Again \- Radio](https://open.spotify.com/track/6OHnpR8mzUQXnWI8yLIYTS) | [SNAJDER](https://open.spotify.com/artist/5neUaZK8atePE27M4gWZtz), [MARQUS](https://open.spotify.com/artist/28gYOX8tw3wSJB4WYjnxmv) | [Feel It Again \(Radio\)](https://open.spotify.com/album/2rD5W8R4TYHEb9ZHOtnhH1) | 3:38 | 2025-07-12 | 2026-04-06 |
 | [FEEL THE RHYTHM](https://open.spotify.com/track/1GQp7Z3XG6634lvxvuDaeh) | [Giosser](https://open.spotify.com/artist/3d5kZ0HJ1XlqKMtUaij9YC) | [FEEL THE RHYTHM](https://open.spotify.com/album/27m3M2EsY6orTETIo02OwA) | 3:15 | 2025-07-21 | 2026-04-06 |
+| [Feet On Earth \- Bones Alive](https://open.spotify.com/track/32Zqd3db3Bd6RGBeG9PATQ) | [LEARA \- ELYRIA SINGER](https://open.spotify.com/artist/6jgY3hP8sqiGrAbHdvUkk8) | [Feet On Earth](https://open.spotify.com/album/5Vv1f6zZhiQNa2lf7Ti5S6) | 3:51 | 2026-05-07 |  |
 | [FEVER \- REMIX](https://open.spotify.com/track/6HGCSpFc0zmCp27ASRcqVf) | [Jessenation](https://open.spotify.com/artist/28THAMmVgo4ijgBiKfmdQg), [B.O.C Madaki](https://open.spotify.com/artist/2fRAwOkgnwF7J8uXIHWjsq), [DJ Rymzy](https://open.spotify.com/artist/0dDK9E7s2iGJJ9rqRGIa0q) | [GRACE](https://open.spotify.com/album/6rb2rrKMVap8kvELgAJHK4) | 3:15 | 2025-06-28 | 2026-04-06 |
 | [Figurants](https://open.spotify.com/track/3MQo5z8gR29SWanoe2wIzr) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [Figurants](https://open.spotify.com/album/1pBaDaGqnlfF1aIGwvjJBA) | 3:08 | 2025-01-26 |  |
 | [Filet désert](https://open.spotify.com/track/0lp0nf4uq1Fsl824l9QecT) | [Marcus Quirion](https://open.spotify.com/artist/2xIER8pmfQLhsrxXkzJ8jd) | [Filet désert](https://open.spotify.com/album/6CLjI4bdopoGSTnJVCtSfE) | 2:53 | 2025-01-25 |  |
@@ -231,6 +232,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2025-01-24 |  |
 | [Sicario](https://open.spotify.com/track/1nmOKvLr70EBT3ivEm1A4g) | [DONX IAM](https://open.spotify.com/artist/5bNSWonXt1eaCCr40YAJfy) | [Sicario](https://open.spotify.com/album/3dr1qYmj6g7pN6Pvysj8Fu) | 2:55 | 2025-05-02 | 2026-04-06 |
 | [Sideral](https://open.spotify.com/track/2PMgOhMElCeSGWGd7xMl6n) | [Arudel](https://open.spotify.com/artist/331qUVsBLI4KFLknoDOt4m) | [KIBOU](https://open.spotify.com/album/2U8kyPxMXBQAIWFY4xhZl0) | 6:22 | 2025-08-14 | 2026-04-06 |
+| [Silver Threads: Dawn That Conquers Night](https://open.spotify.com/track/4dDmB5h8WUehCfXMNDW4wn) | [ELYRIA](https://open.spotify.com/artist/2i2B40TahkDpJYM4J7PHHb) | [Silver Threads: The Final Saga](https://open.spotify.com/album/3XEMADvwycV4x8hJDHi2Qo) | 6:44 | 2026-05-07 |  |
 | [SION](https://open.spotify.com/track/65jNAQhwNFLgALzsWSRgtO) | [CHA](https://open.spotify.com/artist/4SVS3RUjhRnMsmX2Q3NOpq) | [SION](https://open.spotify.com/album/7aMsx7582glx8y5kPmiRKg) | 3:59 | 2025-05-08 | 2026-04-06 |
 | [So, get away](https://open.spotify.com/track/4vxDZWJVAwVK4CWIR8nG9d) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [So, get away](https://open.spotify.com/album/7t9s6HULh9DQ4lF0IEoOg2) | 3:39 | 2025-10-24 | 2026-04-06 |
 | [Soledad](https://open.spotify.com/track/2w8JUSlPm6iq0qEbnec4mW) | [Monko](https://open.spotify.com/artist/62w78YeMxP37Tx063lbTKN) | [Soledad](https://open.spotify.com/album/0CweW2Z8YkerhXTZ6tmK5b) | 3:20 | 2025-07-28 | 2026-04-06 |

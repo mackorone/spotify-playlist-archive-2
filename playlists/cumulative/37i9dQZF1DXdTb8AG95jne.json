@@ -8536,6 +8536,24 @@
     {
       "album": {
         "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/3K8n186vv6tMeS3l7fpluB"
+      },
+      "artists": [
+        {
+          "name": "Crystal Tea",
+          "url": "https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282966,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
         "url": "https://open.spotify.com/album/6Ty9ExLhYQHOwN8re6QmMF"
       },
       "artists": [
@@ -9328,7 +9346,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 247000,
       "name": "Hypnagogia",
       "url": "https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs"
@@ -11494,6 +11512,42 @@
       "duration_ms": 223584,
       "name": "Lego World",
       "url": "https://open.spotify.com/track/4Yc0l0eFYrcsCClR7TjzlX"
+    },
+    {
+      "album": {
+        "name": "Ordinary Ever After",
+        "url": "https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ"
+      },
+      "artists": [
+        {
+          "name": "Kangziwon",
+          "url": "https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201730,
+      "name": "lemon",
+      "url": "https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1czEu9Hok2Y5YAZQZZbCvA"
+      },
+      "artists": [
+        {
+          "name": "Otis Lim",
+          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR"
     },
     {
       "album": {
@@ -14958,7 +15012,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 218000,
       "name": "Oh my darling, you",
       "url": "https://open.spotify.com/track/1bnxyxbTnr8B88Nto0jf34"
@@ -17371,6 +17425,24 @@
     },
     {
       "album": {
+        "name": "SANHA EXPRESS",
+        "url": "https://open.spotify.com/album/08zCoQcNilJ7QZfn42gGtJ"
+      },
+      "artists": [
+        {
+          "name": "sanha",
+          "url": "https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179909,
+      "name": "Sanha Express",
+      "url": "https://open.spotify.com/track/2RrPNyH9ncokySNU3wJnQ1"
+    },
+    {
+      "album": {
         "name": "Dog's Desire",
         "url": "https://open.spotify.com/album/0ZRoTmOxkXQOZL4KshfU0N"
       },
@@ -19400,7 +19472,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168874,
       "name": "Sting",
       "url": "https://open.spotify.com/track/55Rhc7hgkvZKs2SPUSdLBF"
@@ -21617,6 +21689,24 @@
     },
     {
       "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/35bk0ltkEVLGSAzONbbpw5"
+      },
+      "artists": [
+        {
+          "name": "ZIN CHOI",
+          "url": "https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213700,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6"
+    },
+    {
+      "album": {
         "name": "ULT",
         "url": "https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu"
       },
@@ -21704,7 +21794,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 144274,
       "name": "Undelivered",
       "url": "https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg"
@@ -22040,6 +22130,24 @@
       "duration_ms": 191853,
       "name": "Venus",
       "url": "https://open.spotify.com/track/31WQPYHmmXFGmKXpmaA6Pe"
+    },
+    {
+      "album": {
+        "name": "victim mentality",
+        "url": "https://open.spotify.com/album/7fk1B1SQm00Uik0FPE9JQv"
+      },
+      "artists": [
+        {
+          "name": "METP",
+          "url": "https://open.spotify.com/artist/6cUnLHLMciBCEk9sAA3lLB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "victim mentality",
+      "url": "https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO"
     },
     {
       "album": {

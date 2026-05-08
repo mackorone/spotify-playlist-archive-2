@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song  \ud83c\udfa7 cover: Jensen McRae",
+  "description": "It's all about the song  \ud83c\udfa7 cover: Noah Kahan",
   "name": "Common Thread",
   "tracks": [
     {
@@ -590,6 +590,24 @@
       "duration_ms": 255712,
       "name": "American Trail",
       "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
+    },
+    {
+      "album": {
+        "name": "and, breathe",
+        "url": "https://open.spotify.com/album/6nBNznmNtEFT9yAwGa4cpK"
+      },
+      "artists": [
+        {
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254285,
+      "name": "and, breathe",
+      "url": "https://open.spotify.com/track/3bptbDcVVQLYtHoLh1C2UD"
     },
     {
       "album": {
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 165597,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 153069,
       "name": "Deep Water",
       "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
@@ -3286,6 +3304,24 @@
       "duration_ms": 194466,
       "name": "Don't Wanna Take It Slow",
       "url": "https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
     },
     {
       "album": {
@@ -4973,6 +5009,24 @@
     },
     {
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/66LehxjPMzEGIRSoR8l9UJ"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195208,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/17oOeYiG7BVY7IoUtqdUof"
+    },
+    {
+      "album": {
         "name": "F.I.G",
         "url": "https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX"
       },
@@ -6546,7 +6600,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 224025,
       "name": "If I Were A God",
       "url": "https://open.spotify.com/track/1rkc2AbjslVTDijpGzHF0X"
@@ -7147,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "album": {
         "name": "fade to gold",
         "url": "https://open.spotify.com/album/2faFLX8UGilCA0hvsvKIWh"
       },
@@ -7162,6 +7234,24 @@
       "duration_ms": 229024,
       "name": "karma",
       "url": "https://open.spotify.com/track/7uOIriWK5v2AJkbaJdmd3j"
+    },
+    {
+      "album": {
+        "name": "Keep Your Faith",
+        "url": "https://open.spotify.com/album/7pBR4ah9YWEoP8183Yt0iR"
+      },
+      "artists": [
+        {
+          "name": "Matilda Cole",
+          "url": "https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238440,
+      "name": "Keep Your Faith",
+      "url": "https://open.spotify.com/track/2MlkFjuhIbGGWs1Vm1A7RG"
     },
     {
       "album": {
@@ -10494,7 +10584,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 137000,
       "name": "real life",
       "url": "https://open.spotify.com/track/4NCfRwUNDYqNhnVlhn2S5C"
@@ -10938,7 +11028,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 211926,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/76xS3SRc9Zv5ntHoabMN8R"
@@ -11548,6 +11638,24 @@
       "duration_ms": 176568,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/5VMnlVJ5keCFOTfvR1JeIp"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking / Unmasked",
+        "url": "https://open.spotify.com/album/1eXBgy3E6jqC1sLoDiSpCZ"
+      },
+      "artists": [
+        {
+          "name": "Little Grandad",
+          "url": "https://open.spotify.com/artist/1Mgr4JJnFwPk3FHbu09wAl"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235628,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2nf5llRG3J5ZEkeGL4JSjA"
     },
     {
       "album": {
@@ -15013,6 +15121,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297262,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+    },
+    {
+      "album": {
         "name": "(second) Second Dinner",
         "url": "https://open.spotify.com/album/2SqJjvokiZ9KV5cpAA2HAG"
       },
@@ -15104,7 +15230,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 158750,
       "name": "Wishing on a Candle",
       "url": "https://open.spotify.com/track/48QDggRw13GOHetcXJxwGX"
@@ -15140,7 +15266,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182117,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6Epqcacr6V1DpxG00SoK22"

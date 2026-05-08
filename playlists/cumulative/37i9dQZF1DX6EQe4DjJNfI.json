@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193414,
       "name": "A\u00e7a\u00ed e Amendo\u00edm",
       "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 239029,
       "name": "Lingerie Branca",
       "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
@@ -5125,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -5724,6 +5742,28 @@
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/3NvElkpBIy1toS8vAVoaBP"
+    },
+    {
+      "album": {
+        "name": "Se For Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
+      },
+      "artists": [
+        {
+          "name": "GAEL",
+          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
+        },
+        {
+          "name": "EVY",
+          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170191,
+      "name": "Se For Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
     },
     {
       "album": {
@@ -6710,7 +6750,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"

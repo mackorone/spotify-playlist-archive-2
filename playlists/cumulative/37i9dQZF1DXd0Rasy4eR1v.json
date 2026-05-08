@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 249642,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/5TMi3RfTttK6K05fLrQukc"
@@ -5198,7 +5198,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 127200,
       "name": "Darzi",
       "url": "https://open.spotify.com/track/4C76mOA1PKLYLgM30GHLuv"
@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 157363,
       "name": "Duur",
       "url": "https://open.spotify.com/track/0OYaf7ho5cKZ418TtDJ7UV"
@@ -10427,6 +10427,24 @@
     },
     {
       "album": {
+        "name": "Ishq Zeher",
+        "url": "https://open.spotify.com/album/2mpGnjz2HxSUGe04gBr6dU"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan Niazi",
+          "url": "https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Ishq Zeher",
+      "url": "https://open.spotify.com/track/2JbGKhXHCA5rRMsMiP1H9v"
+    },
+    {
+      "album": {
         "name": "itna zaroor",
         "url": "https://open.spotify.com/album/5AIkCaaC3JGbCt1rEgqQSp"
       },
@@ -10716,7 +10734,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 148793,
       "name": "Jaana",
       "url": "https://open.spotify.com/track/365OQ05XDbaQNJI1ESjmfs"
@@ -10884,6 +10902,28 @@
       "duration_ms": 214921,
       "name": "jahan tum ho",
       "url": "https://open.spotify.com/track/0OfMzhLLj4h2HbNEMxrNgk"
+    },
+    {
+      "album": {
+        "name": "Jaise Hoor Aasmaani",
+        "url": "https://open.spotify.com/album/4R5Q1p8qNkXEyKtmOmTnvA"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Sajjal Zee",
+          "url": "https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172121,
+      "name": "Jaise Hoor Aasmaani",
+      "url": "https://open.spotify.com/track/3hfnqcRYwyXCHBE0NIcckI"
     },
     {
       "album": {
@@ -11922,6 +11962,24 @@
       "duration_ms": 210909,
       "name": "Kaise samjhaun",
       "url": "https://open.spotify.com/track/3onJe917IgtDSd7PCKK4sb"
+    },
+    {
+      "album": {
+        "name": "Kajal",
+        "url": "https://open.spotify.com/album/5OE4SgPkFe6RVUK4zxHLkE"
+      },
+      "artists": [
+        {
+          "name": "Sinan Rajput",
+          "url": "https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Kajal",
+      "url": "https://open.spotify.com/track/0NcASdBMMCcQnRa15YnjQL"
     },
     {
       "album": {
@@ -16718,7 +16776,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 135445,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/5qXl3Ac11Pyba6gholqM7S"
@@ -18350,6 +18408,24 @@
       "duration_ms": 182388,
       "name": "Pukaar",
       "url": "https://open.spotify.com/track/625QSiDIijdWIofW7tV1fk"
+    },
+    {
+      "album": {
+        "name": "Pukaar",
+        "url": "https://open.spotify.com/album/7y65wUE4UqkYY2Dqzb0ohV"
+      },
+      "artists": [
+        {
+          "name": "Omar Mukhtar",
+          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195593,
+      "name": "Pukaar",
+      "url": "https://open.spotify.com/track/1yCSA4BGEQxQtY95xoJ7JB"
     },
     {
       "album": {
@@ -21836,7 +21912,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 170931,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/5a0PL0Z6D99HftfFXzr8uW"
@@ -22896,7 +22972,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 189565,
       "name": "Tere Baad",
       "url": "https://open.spotify.com/track/53IIHuAEH9BfQjclzFk188"
@@ -23398,7 +23474,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 72000,
       "name": "Thamey Pal",
       "url": "https://open.spotify.com/track/5U3A2d8MC9L4fcNL2Y8g2J"
@@ -24090,7 +24166,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 155142,
       "name": "Tu Mera Fitoor",
       "url": "https://open.spotify.com/track/1NVzuhK2SosXZykg47PAmE"
@@ -25640,7 +25716,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 160714,
       "name": "Yaad Hai",
       "url": "https://open.spotify.com/track/47sOevL40fmadZK5iSmc2I"
@@ -25658,7 +25734,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 214800,
       "name": "Yaad hai mujhe",
       "url": "https://open.spotify.com/track/20NE5mmfJUvoTl82xKA6b8"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,104 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,129 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
-| 2 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [Salvation Choir](https://open.spotify.com/artist/6TkoY2lDiiwEB0Xo3KOj8J) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 |
+| 2 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [The Salvation Choir](https://open.spotify.com/artist/6TkoY2lDiiwEB0Xo3KOj8J) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 |
 | 3 | [Thank You Lord](https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Thank You Lord](https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H) | 4:57 |
 | 4 | [Joy](https://open.spotify.com/track/3ABBmyAEPeQ567PpgVxjlx) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ariel Campbell](https://open.spotify.com/artist/2JUzPjWvPNqiQmYvRYpAdX) | [Joy](https://open.spotify.com/album/5W6WSCQoQHjNgwN5EkOMY3) | 6:15 |
 | 5 | [Alabaster Box \(feat\. Nicole Binion\)](https://open.spotify.com/track/3wG2aIjWGm4oQ0oCFYmWVh) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e) | [Alabaster Box \(feat\. Nicole Binion\)](https://open.spotify.com/album/3mANzZGy7MJ9puZuTZuUwv) | 5:25 |

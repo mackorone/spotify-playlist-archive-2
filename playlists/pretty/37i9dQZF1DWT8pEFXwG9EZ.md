@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,511 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,538 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 95 | [Green Tables Blues](https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Johnny Cool \(Original Movie Soundtrack\)](https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw) | 3:18 |
 | 96 | [Unsquare Dance](https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 2:02 |
 | 97 | [Tu Vuo' Fa L'Americano \- Vocal](https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc) | [Fiorello](https://open.spotify.com/artist/4kb7YUXdndyC7yD81bJ08q), [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu) | 3:01 |
-| 98 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
-| 99 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
+| 98 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
+| 99 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
 | 100 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
 
 Snapshot ID: `AAAAAEq90ikQpKBrgPcIsBiIK7t4HzxM`

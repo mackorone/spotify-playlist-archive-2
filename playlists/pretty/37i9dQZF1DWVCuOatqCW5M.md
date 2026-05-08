@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Raghav Chaitanya, Krish Mondal, Kishore Mondal and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,164 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,224 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 13 | [Aise Na Pagal Karo](https://open.spotify.com/track/0C5vCd4id8DxoDM9HSUpBh) | [Kalra Saab](https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aise Na Pagal Karo](https://open.spotify.com/album/4gIqTRB4791oE6xRKuXyFY) | 3:44 |
 | 14 | [Safar Khoobsurat](https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Safar Khoobsurat](https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV) | 2:56 |
 | 15 | [Bade Dino Baad](https://open.spotify.com/track/0p3yj8oOwTnCsncq3IEaE9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Bade Dino Baad](https://open.spotify.com/album/3ZBKDnhGrtyJsdSjj823z6) | 2:31 |
-| 16 | [Laiyaan](https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7), [RUTVXK](https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e) | [Laiyaan](https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM) | 3:33 |
+| 16 | [Laiyaan](https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7), [RUTVXK](https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Laiyaan](https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM) | 3:33 |
 | 17 | [Bulleya Ve \| Coke Studio Bharat](https://open.spotify.com/track/6kb9VzJblzeib3eZD38K98) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swarit](https://open.spotify.com/artist/2k3h7l54uB8Fa0yOjF0gnj), [ASHOK MASKEEN](https://open.spotify.com/artist/1raw5H3Hs5PAYeOG7UYoMX) | [Bulleya Ve \| Coke Studio Bharat](https://open.spotify.com/album/0EDLG7SDQLmjVerqen9baP) | 5:24 |
 | 18 | [Dosti](https://open.spotify.com/track/67L5pbi8qYQg3KKxroat6g) | [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Dosti](https://open.spotify.com/album/5QdFol6xjXoqijqV6gMJh4) | 3:52 |
 | 19 | [Ilzaam](https://open.spotify.com/track/6oKyU8BlhwFnRuaCMjizGQ) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Ilzaam](https://open.spotify.com/album/2LTC19IYB2RPPBhL77DcG5) | 3:39 |

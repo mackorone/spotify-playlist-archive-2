@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
 518 songs - 1 day 9 hr 32 min
 
@@ -151,7 +151,7 @@
 | [Go, Tell It On The Mountain](https://open.spotify.com/track/4RMsFcF3jHkdri4rwfZH0F) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Go, Tell It On The Mountain](https://open.spotify.com/album/3JJyeLpB7Oa6Y5jf1dTQIc) | 2:47 | 2025-11-05 | 2026-04-17 |
 | [God Made A Way](https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj), [Tasha Layton](https://open.spotify.com/artist/571iV6vHz7IO6ZBPi0JM9y) | [God Made A Way](https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR) | 3:30 | 2022-11-26 |  |
 | [God Rest](https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf) | 3:50 | 2023-12-15 | 2024-08-01 |
-| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 | 2026-05-02 |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/0ReTcEous3qIW3iihuCHX4) | [The Kingdom Choir](https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C) | [Together Again](https://open.spotify.com/album/3vRgpU0STMNzI1B2em1Rnk) | 2:53 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-11 | 2023-12-16 |
 | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/track/0b6mSmQyQeZDdtnvjeMPvh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/album/3uulBIvr3d9zRVrSCoTcah) | 3:25 | 2023-11-03 |  |
@@ -323,7 +323,7 @@
 | [Mother to a Savior and King](https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Mother to a Savior and King](https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2) | 3:26 | 2024-11-29 |  |
 | [Mothers and Shepherds](https://open.spotify.com/track/6RDsKTlM7jafTzTz2RGELX) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Mothers and Shepherds](https://open.spotify.com/album/77JWRi1kkyaevA2CNdeNV4) | 5:02 | 2021-12-11 | 2024-08-01 |
 | [Mothers And Shepherds](https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k) | [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG), [The Aeolians of Oakwood University](https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik) | [Mothers And Shepherds](https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj) | 3:54 | 2022-11-26 | 2025-04-15 |
-| [Noel](https://open.spotify.com/track/0D2O8gy0lm2eA0x2yaTOHs) | [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz), [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Noel](https://open.spotify.com/album/6MZzk5N99TLvyf2XkxPzTC) | 5:06 | 2025-12-12 |  |
+| [Noel](https://open.spotify.com/track/0D2O8gy0lm2eA0x2yaTOHs) | [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz), [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Noel](https://open.spotify.com/album/6MZzk5N99TLvyf2XkxPzTC) | 5:06 | 2025-12-12 | 2026-05-08 |
 | [Noel](https://open.spotify.com/track/4PY7KhebLuHlcmkGNYxuXm) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Noel](https://open.spotify.com/album/2Rc3jAkZVa2lGFTfdwtiyk) | 2:14 | 2025-11-28 |  |
 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 | 2021-12-24 |  |
 | [Noel \- Live](https://open.spotify.com/track/5eMK2CHhWtufXfNrA6FgpG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:17 | 2021-12-11 | 2023-12-16 |

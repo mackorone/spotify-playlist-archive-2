@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Greatest Hits - Chapter One",
+        "url": "https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "Films About Ghosts (The Best Of Counting Crows)",
         "url": "https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 225426,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "Greatest Hits - Chapter One",
-        "url": "https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0"
     },
     {
       "added_at": "2024-07-19 06:48:03",

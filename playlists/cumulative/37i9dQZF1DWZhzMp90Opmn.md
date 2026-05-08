@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-647 songs - 1 day 9 hr 17 min
+648 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Pink Noise Airplane](https://open.spotify.com/track/2s4jzqVAU60LXFpkalovq4) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise \- Find your inner peace](https://open.spotify.com/album/3kc8lPIS29Kk95PyjXIZTh) | 2:52 | 2022-10-26 | 2023-02-10 |
 | [Pink Noise And Beyond](https://open.spotify.com/track/2ignpgiVqJ9V24NT1Yx45R) | [Caffeine Buzz](https://open.spotify.com/artist/4sFHfkxG8hgzK80eHzGf0O) | [Pink Noise And Beyond](https://open.spotify.com/album/6PObN5NHLSVQF3UPfBeXg9) | 3:14 | 2023-03-16 | 2025-12-10 |
 | [Pink Noise Atmosphere](https://open.spotify.com/track/3FFBZH4REu6L4OHfhA0Zbx) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise Atmosphere](https://open.spotify.com/album/4U3KbPCbwIPNjLgPMqT1nj) | 3:30 | 2023-03-16 |  |
+| [Pink Noise Aura](https://open.spotify.com/track/4uIDYnfZwTIPEIOUkPI85s) | [leony](https://open.spotify.com/artist/022cJbaCBNtsSCnEAVyvGG) | [Pink Noise Aura](https://open.spotify.com/album/2zW1RNO290OqpDnkFu2chf) | 2:54 | 2026-03-31 |  |
 | [Pink Noise Baby](https://open.spotify.com/track/3MI108wJFsEDisc5niohYO) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Ambient Pink Noise](https://open.spotify.com/album/44ENOthyvj5V5GGLIdGsWx) | 2:08 | 2022-12-16 | 2023-03-18 |
 | [Pink Noise Balance](https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 3:28 | 2023-03-16 | 2026-05-05 |
 | [Pink Noise Beauty](https://open.spotify.com/track/0zBtJ2GILEjIdhnfsGBOIr) | [Pink Noise Traveler](https://open.spotify.com/artist/1NC629rjoeMtPM5WGgk1nD) | [Pink Noise Beauty](https://open.spotify.com/album/2RADMCLv0wqNp0vChBcSP6) | 3:36 | 2021-12-01 | 2023-03-18 |
@@ -404,7 +405,7 @@
 | [Pink Noise Helper](https://open.spotify.com/track/665cUi6QtVzeP0Z6Hi4NEr) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 3:04 | 2023-03-16 |  |
 | [Pink Noise Horizons](https://open.spotify.com/track/2JODESUCrObicNpLsEWLSq) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 2:54 | 2023-03-16 |  |
 | [Pink Noise Hum](https://open.spotify.com/track/4gDEwqM0azFJluXTcsYLGW) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Pink Noise Hum](https://open.spotify.com/album/0dKRivxBbSO4XHElq6072i) | 3:15 | 2022-01-21 | 2023-03-18 |
-| [Pink Noise Hush](https://open.spotify.com/track/18OLsYZqg9C1lU2WAYiUAi) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Pink Noise Hush](https://open.spotify.com/album/3aajDyd1G3Qkr72989lKNq) | 2:42 | 2026-03-31 |  |
+| [Pink Noise Hush](https://open.spotify.com/track/18OLsYZqg9C1lU2WAYiUAi) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Pink Noise Hush](https://open.spotify.com/album/3aajDyd1G3Qkr72989lKNq) | 2:42 | 2026-03-31 | 2026-05-08 |
 | [Pink Noise in Motion](https://open.spotify.com/track/4M8evUfJMJUplvBQMclpsG) | [PXL PXL](https://open.spotify.com/artist/3VsfVLFVzGpyCwlMDpusSp) | [Pink Noise in Motion](https://open.spotify.com/album/56O9XkQZ13ERRduFmnW7Qk) | 3:20 | 2022-08-02 | 2023-03-18 |
 | [Pink Noise in the Atmosphere](https://open.spotify.com/track/01Fzvabb70YTbHUP6J8Kme) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Pink Noise in the Atmosphere](https://open.spotify.com/album/3Micp5XP6PCBNCbYGPNz4r) | 3:25 | 2022-06-10 | 2023-03-18 |
 | [Pink Noise in the Clouds](https://open.spotify.com/track/13CjSx77aqHKD1FwlLTPL3) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise in the Clouds](https://open.spotify.com/album/51Ih7E1U2BpapVGCRESxb6) | 3:10 | 2022-02-03 | 2023-03-18 |

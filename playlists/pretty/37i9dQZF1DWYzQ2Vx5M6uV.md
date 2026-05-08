@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,445 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,453 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 92 | [Cafecito](https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Cafecito](https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh) | 2:43 |
 | 93 | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy) | 2:47 |
 | 94 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
-| 95 | [LLUVIA](https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [LLUVIA](https://open.spotify.com/album/21QMRyGxOlvlKldRJdbX6j) | 3:37 |
-| 96 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
-| 97 | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr) | [Curren](https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j), [Davie Reel](https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT) | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX) | 2:52 |
+| 95 | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr) | [Curren](https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j), [Davie Reel](https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT) | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX) | 2:52 |
+| 96 | [LLUVIA](https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [LLUVIA](https://open.spotify.com/album/21QMRyGxOlvlKldRJdbX6j) | 3:37 |
+| 97 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
 | 98 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 | 99 | [Volvamos](https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [youngkinez](https://open.spotify.com/artist/5JwmmFvakv0jxaM6mj4lsf) | [Volvamos](https://open.spotify.com/album/6Vatwc1dDUYJiDRWB7im4e) | 2:58 |
 | 100 | [LUNA LLENA](https://open.spotify.com/track/72Ldu7eqNDaJNs55JjlPxd) | [ESTÉREO FAM](https://open.spotify.com/artist/6jeSza4zrBFTWtwvMEAVan), [MC Piri](https://open.spotify.com/artist/5W7vbxMex5UtO8ugjXZvwp), [Semillah Skillz](https://open.spotify.com/artist/2uFdkDzuib4OBkfNECkc59) | [SORPRAIS](https://open.spotify.com/album/4Z7qxWoywFKtAPnbZ8x64w) | 3:07 |

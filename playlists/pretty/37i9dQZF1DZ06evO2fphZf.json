@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAAAigpgDhxd1Y38p1l4Ch/Ne",
+  "snapshot_id": "afqEgAAAAACtsf8gOp7PcUJFssch1Ov+",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "vapor rub",
+        "url": "https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 185263,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ"
+      "duration_ms": 176000,
+      "name": "vapor rub",
+      "url": "https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "vapor rub",
-        "url": "https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 176000,
-      "name": "vapor rub",
-      "url": "https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt"
+      "duration_ms": 185263,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 163027,
-      "name": "fairy godmother",
-      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
+      "duration_ms": 191020,
+      "name": "crash & burn",
+      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 191020,
-      "name": "crash & burn",
-      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
+      "duration_ms": 163027,
+      "name": "fairy godmother",
+      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
     },
     {
       "added_at": null,

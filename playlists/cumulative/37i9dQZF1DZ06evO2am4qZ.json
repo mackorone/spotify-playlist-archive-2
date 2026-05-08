@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1E20YSwoi1SJMshPSQi4e1"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6xj6BppRbm4vTgVN8GaZEw"
+    },
+    {
+      "album": {
         "name": "He Wanna (feat. B.K. Habermehl)",
         "url": "https://open.spotify.com/album/43MrfvRegBtm396DTzpmtl"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 158740,
       "name": "Kim (with Baby Tate)",
       "url": "https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt"

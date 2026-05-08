@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3006176,
+      "name": "#100\uff1a\u3042\u308a\u304c\u3068\u3046100\u56de\uff01\u30cf\u30f3\u30d6\u30ec\u30c3\u30c0\u30fc\u30ba\u30fb\u6728\u5cf6\u3055\u3093\u53c2\u6226SP\uff0f\u201cCENTRAL 2026\u201d\u3068\u6238\u677e\u9065\u697d\u66f2\u3092\u8a9e\u308a\u660e\u304b\u305d\u3046\uff01",
+      "url": "https://open.spotify.com/episode/3xD6agmETjqJiG8OMB6q7M"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
         "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
       },
       "artists": [
@@ -920,6 +938,24 @@
       "duration_ms": 2262391,
       "name": "#98 \u3061\u3087\u3063\u3068\u30b9\u30da\u30b7\u30e3\u30eb\u306a\u30ea\u30b9\u30a2\u30cb\uff01LIVE\u30016\u6708\u958b\u50ac\uff01\uff0f2026\u51ac\u30a2\u30cb\u30e1\u3092\u8a9e\u3089\u305a\u3057\u30663\u6708\u306f\u7d42\u308f\u308c\u306a\u3044",
       "url": "https://open.spotify.com/episode/1rnHOXbN64USqC7w2L8ljz"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2408918,
+      "name": "#99 \u201cDIALOGUE\uff0bFesta!!\u201d\u3092\u89b3\u306b\u884c\u3053\u3046\uff01\uff0f30\u5468\u5e74\u300e\u30a8\u30f4\u30a1\u300f\u65b0\u305f\u306a\u5e0c\u671b\uff0f\u300e\u30d0\u30a4\u30aa\u300f\u65b0\u4f5c\u306b\u5411\u304d\u5408\u3046\u7537\u305f\u30612026",
+      "url": "https://open.spotify.com/episode/4Lb3u87YrWHUTPi6q7u9m0"
     },
     {
       "album": {
@@ -3325,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Girls, Be Ambitious.",
+        "url": "https://open.spotify.com/album/7LY9pbiY64bTVJcUdoGgnv"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Girls, Be Ambitious.",
+      "url": "https://open.spotify.com/track/0myAwfqF5xL1MwG1WqGpPd"
+    },
+    {
+      "album": {
         "name": "\u611b\u306e\u30b7\u30e5\u30d7\u30ea\u30fc\u30e0!\u3010\u30a2\u30cb\u30e1\u76e4\u3011",
         "url": "https://open.spotify.com/album/4vOi6tqJA42xBAHzS4EWXJ"
       },
@@ -5351,6 +5405,24 @@
     },
     {
       "album": {
+        "name": "motto\u2606\u6d3e\u624b\u306b\u306d\uff01",
+        "url": "https://open.spotify.com/album/5cFnpb7RusOqjGPq2Dpdfj"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "motto\u2606\u6d3e\u624b\u306b\u306d\uff01",
+      "url": "https://open.spotify.com/track/5vw2dCB9ziJM0FxyEuPTyH"
+    },
+    {
+      "album": {
         "name": "Rainbow Road",
         "url": "https://open.spotify.com/album/5KHwMCSqzvseBVfRxEkKLs"
       },
@@ -6302,7 +6374,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 291173,
       "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb\uff01",
       "url": "https://open.spotify.com/track/527y4BcUGW70G9ErnX3cai"

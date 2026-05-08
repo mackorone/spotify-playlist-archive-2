@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303533,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/7yp9JZDgBPuOoHCmZIVpmC"
+    },
+    {
+      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 158706,
       "name": "Salmo 100",
       "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"

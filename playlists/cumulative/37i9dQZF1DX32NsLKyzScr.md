@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,401 songs - 3 day 4 hr 12 min
+1,402 songs - 3 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 | 2022-10-28 | 2023-01-24 |
 | [Emancipation](https://open.spotify.com/track/4Dosclv6nmoBWiuAqozPLC) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Emancipation](https://open.spotify.com/album/72TsSpZ4OZrlzL6GesxuVH) | 3:45 | 2020-12-18 | 2021-07-07 |
 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 | 2024-03-22 | 2024-11-23 |
-| [Endless](https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Endless](https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV) | 3:16 | 2026-03-27 |  |
+| [Endless](https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Endless](https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV) | 3:16 | 2026-03-27 | 2026-05-08 |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-14 | 2024-07-13 |
 | [ENERGY](https://open.spotify.com/track/6aIu2OsmzRP4PbHbelXgfp) | [EC Twins](https://open.spotify.com/artist/6QACkIioo2Na2EKEwJzCKK) | [Disco's Not Dead](https://open.spotify.com/album/2PvAFZBRCVqnkt5NEPbnBX) | 3:08 | 2020-09-21\* | 2021-02-06 |
 | [Energy](https://open.spotify.com/track/5CWGRrNRxRo0KXhMJuMm1S) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/3UB0GAweplve4pzvsGooLf) | 3:28 | 2020-10-10 | 2021-09-11 |
@@ -751,6 +751,7 @@
 | [Mind](https://open.spotify.com/track/5avcqrjVVBBAE9sELj9MBC) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA) | [Mind](https://open.spotify.com/album/6jwee4CpKMwPi4MTN5fklD) | 2:58 | 2020-09-21\* | 2020-10-10 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-17 | 2025-04-19 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-15 | 2024-04-19 |
+| [Mirage](https://open.spotify.com/track/2DN97n8HVmamCfL9WGphFt) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Mirage](https://open.spotify.com/album/2wcXGuNBH6afGaUaEV2bTU) | 4:16 | 2026-05-01 |  |
 | [Mirrors](https://open.spotify.com/track/2hpmqD5Ragk3zMCiv7e3DH) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA) | [Mirrors](https://open.spotify.com/album/5F1kOwy6dtX3TU5Pt0jBFx) | 4:38 | 2020-09-21\* | 2020-10-10 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-11 | 2023-10-12 |
 | [Miss You](https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Miss You](https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg) | 3:20 | 2021-09-11 | 2022-02-12 |

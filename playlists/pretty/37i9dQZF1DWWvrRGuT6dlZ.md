@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from independent artists and labels\. Curated with love by human Spotify editors\. Cover: Glen Wee\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Glen Wee\. Artwork: Isu Kim.
 
 [Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 16 songs - 50 min 43 sec
 
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 15 | [Perjalanan](https://open.spotify.com/track/6MWr4qYlSVMhpitSpI81bf) | [ARDANI](https://open.spotify.com/artist/6hjKPfbFTb28mgPTHBSliv) | [Perjalanan](https://open.spotify.com/album/4CocswSYJUeXUDbcYrWOCT) | 3:20 |
 | 16 | [You're Too Cute](https://open.spotify.com/track/13YaLLfaB4TZ19CoocUaSP) | [Iman Sammy](https://open.spotify.com/artist/2SbjzPxPhg6wwKD318HFvb) | [You're Too Cute](https://open.spotify.com/album/3bWw8aVg3OZ5WvnAQli1eh) | 2:19 |
 
-Snapshot ID: `AAAAAD/46pPvmHBvE5Y63M33EfHIPV/Q`
+Snapshot ID: `AAAAAI3i9i9v9QWJKMedSHjfRhnxzROf`

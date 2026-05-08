@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Ys\u00e9",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Vanessa Paradis",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 155520,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0ft0eRy0NXU4CI5vJIbpyD"
+    },
+    {
+      "album": {
+        "name": "Abysses",
+        "url": "https://open.spotify.com/album/2pnw6V2KJUTVp0AOZqBDSn"
+      },
+      "artists": [
+        {
+          "name": "Zin\u00e9e",
+          "url": "https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3"
+        },
+        {
+          "name": "Augustin Charnet",
+          "url": "https://open.spotify.com/artist/0hzgZDnDLsLV9mlj4gJ5dF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243283,
+      "name": "Abysses",
+      "url": "https://open.spotify.com/track/2UGhYsW7MPJ52OK819ddOk"
     },
     {
       "album": {
@@ -2660,7 +2682,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 171240,
       "name": "La vie d'adulte",
       "url": "https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh"
@@ -4036,7 +4058,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 261280,
       "name": "Normaux",
       "url": "https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz"
@@ -4155,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "On Se Quitte",
+        "url": "https://open.spotify.com/album/5YkAWX47J3uQht0bkg1YeH"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "On Se Quitte",
+      "url": "https://open.spotify.com/track/7sEsRkAw0AFVr6xXoWCNH5"
+    },
+    {
+      "album": {
         "name": "On va voir la mer",
         "url": "https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD"
       },
@@ -4260,6 +4300,28 @@
       "duration_ms": 220666,
       "name": "Paris Amour",
       "url": "https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR"
+    },
+    {
+      "album": {
+        "name": "Paris-Madrid",
+        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199833,
+      "name": "Paris-Madrid",
+      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
     },
     {
       "album": {
@@ -4400,7 +4462,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 130727,
       "name": "playlist",
       "url": "https://open.spotify.com/track/3VunM8L63XtLS4KcCPG0WO"
@@ -5292,7 +5354,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 213794,
       "name": "Terrible menteuse",
       "url": "https://open.spotify.com/track/1B40kNe9s7iLbXh43xAuCE"
@@ -5484,6 +5546,28 @@
       "duration_ms": 246968,
       "name": "Toute l'eau qui coule",
       "url": "https://open.spotify.com/track/7sI0sOYbt9POeWwalKfMdz"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e9sor (Clyde Bessi Remix)",
+        "url": "https://open.spotify.com/album/1KLF0zoSmQBhStk6xGUqsF"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        {
+          "name": "Clyde Bessi",
+          "url": "https://open.spotify.com/artist/7a6OS3Sg3wFFGUtAdvS3vB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "Tr\u00e9sor - Clyde Bessi Remix",
+      "url": "https://open.spotify.com/track/3GGIcLr0WfeaoZPfpeWp4a"
     },
     {
       "album": {

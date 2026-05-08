@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Madame in cover.",
+  "description": "Punchline, storytelling, rap italiano. Diss Gacha in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 254846,
       "name": "A NAPOLI NON PIOVE",
       "url": "https://open.spotify.com/track/2q5m3HDPuPaLgVwLBIhWNg"
@@ -2693,6 +2693,32 @@
     },
     {
       "album": {
+        "name": "NON \u00c8 SOLO SWAG",
+        "url": "https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "DOMENICA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/2j94KMeMCkstgbz4G3ZX6P"
+    },
+    {
+      "album": {
         "name": "Donna",
         "url": "https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb"
       },
@@ -2770,7 +2796,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 171891,
       "name": "DRUGSTORE (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7eMFQsiZPEm4i42mhNdE0X"
@@ -2996,7 +3022,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 185699,
       "name": "Fanfole",
       "url": "https://open.spotify.com/track/5UdklPxAbeSCFItQyPWApQ"
@@ -3428,6 +3454,24 @@
       "duration_ms": 191193,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/5XSDWYzMXzPtwimHufQ1Ai"
+    },
+    {
+      "album": {
+        "name": "Good Vibes Only",
+        "url": "https://open.spotify.com/album/0aAXS6H1ZBGp7RAhzACara"
+      },
+      "artists": [
+        {
+          "name": "Gallas",
+          "url": "https://open.spotify.com/artist/0trWmturcmhrIVeVWbn1OT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226516,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/71I3pTi8nQkJbirnFO5Fk8"
     },
     {
       "album": {
@@ -4268,7 +4312,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 164820,
       "name": "King Kong vs Godzilla",
       "url": "https://open.spotify.com/track/306vmTRFzxA32vDeEHISuq"
@@ -4522,7 +4566,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193115,
       "name": "LA MORTE DEL GRANO (UN CASTELLO Pt. 5)",
       "url": "https://open.spotify.com/track/5DFW0wfeMFVJhR1WYVFItV"
@@ -5474,7 +5518,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 145925,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/60ZTMQ4JgsyMlD4ZXsHMt9"
@@ -5558,6 +5602,28 @@
       "duration_ms": 134022,
       "name": "MQCDT",
       "url": "https://open.spotify.com/track/7taFUvTNO7ysupo7wBD8wn"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 SOLO SWAG",
+        "url": "https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "MUSICA TRAP",
+      "url": "https://open.spotify.com/track/3JSA9yt2eBVOdK52cIn6eW"
     },
     {
       "album": {
@@ -5746,7 +5812,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 155454,
       "name": "Niente Esiste",
       "url": "https://open.spotify.com/track/09hTZ0uD59JDvmyPDu8iW6"
@@ -5786,7 +5852,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 133216,
       "name": "No vabb\u00e8 amo",
       "url": "https://open.spotify.com/track/1EmTrWf38Z2gluHNS5nu9T"
@@ -6147,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "OSSESSIONATO",
+        "url": "https://open.spotify.com/album/1USffHeNNXKiVtkEXu0yh6"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "OSSESSIONATO",
+      "url": "https://open.spotify.com/track/548QdqbS60dXdoBSGRUL6Y"
+    },
+    {
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -6212,7 +6296,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 123550,
       "name": "OVERSIZE",
       "url": "https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO"
@@ -6430,6 +6514,28 @@
       "duration_ms": 188803,
       "name": "Per te che Lotto",
       "url": "https://open.spotify.com/track/70600tukZat0m8rM0yqDoD"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259919,
+      "name": "PERCH\u00c8 PIANGO (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d"
     },
     {
       "album": {
@@ -6826,7 +6932,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 195294,
       "name": "Punto d'incontro",
       "url": "https://open.spotify.com/track/6d76kTlyGcBSeOP2DjraHt"
@@ -6966,6 +7072,28 @@
       "duration_ms": 212316,
       "name": "QUALCOSA IN CUI CREDERE - Lo scheletro (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1t6xoDooMgAqlYDOLTrsxj"
+    },
+    {
+      "album": {
+        "name": "QUELLA FORESTA",
+        "url": "https://open.spotify.com/album/0GkSRFc18J7vmRI8259AwO"
+      },
+      "artists": [
+        {
+          "name": "Pessimo 17",
+          "url": "https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163842,
+      "name": "QUELLA FORESTA",
+      "url": "https://open.spotify.com/track/4G2Pr2PzW2c2of71iQcZXq"
     },
     {
       "album": {
@@ -7138,7 +7266,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 183506,
       "name": "Rendez Vous Col Delirio II",
       "url": "https://open.spotify.com/track/0UPtasEpvy8kCYl2WYUOU8"
@@ -7160,6 +7288,28 @@
       "duration_ms": 123798,
       "name": "Ricordi",
       "url": "https://open.spotify.com/track/0HoCx0ikdzIBTtBIsLECYt"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170436,
+      "name": "RICORDI (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0Yro5gpdvHMyaFGlZHYZIH"
     },
     {
       "album": {
@@ -8177,6 +8327,24 @@
     },
     {
       "album": {
+        "name": "L'IMPERATRICE",
+        "url": "https://open.spotify.com/album/3HPN1r26IBZSl2UE1dW3fY"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3lGDNCiVZjsK2vTE9ehKRQ"
+    },
+    {
+      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q"
       },
@@ -8314,7 +8482,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 161657,
       "name": "Tu mi Fai",
       "url": "https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0"
@@ -8778,7 +8946,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 141176,
       "name": "Vodka 2",
       "url": "https://open.spotify.com/track/772VAW0YMwMiK1EiStii5m"

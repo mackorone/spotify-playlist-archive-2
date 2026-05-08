@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,609 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,604 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 49 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU) | 2:33 |
 | 50 | [Imprevisto – Speed](https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B) | [Imprevisto – Speed](https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot) | 1:58 |
 | 51 | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi) | 2:56 |
-| 52 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
-| 53 | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0) | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW) | 2:01 |
+| 52 | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0) | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW) | 2:01 |
+| 53 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
 | 54 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
 | 55 | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Jorgin Dejhaay](https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV) | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N) | 2:54 |
 | 56 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: SWAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,575 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,579 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 25 | [Tình Yêu Ngủ Quên](https://open.spotify.com/track/2MjpqyEA73TzenhDmj0RFN) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [LYHAN](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [Tình Yêu Ngủ Quên](https://open.spotify.com/album/4zrlMRfQ6NxqK6JvpxeTwj) | 2:57 |
 | 26 | [Nắng Dưới Chân Mây](https://open.spotify.com/track/0rpypmIyrvM4ORUt8SYSdP) | [Nguyễn Hữu Kha](https://open.spotify.com/artist/50zVd0WBgPZqC88gkrJ5xd) | [Nắng Dưới Chân Mây](https://open.spotify.com/album/1qMStQGlAbYWFgXcGK4oBH) | 3:39 |
 | 27 | [Đợi em được không](https://open.spotify.com/track/4WRXrbEdGPLbuwE1WDU5IX) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [YÊU THẬT](https://open.spotify.com/album/0MmmI3L7FRv9dw4dO3kGfO) | 4:00 |
-| 28 | [1% \(feat\. Phúc Nguyên\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [Phúc Nguyên](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. Phúc Nguyên\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 |
+| 28 | [1% \(feat\. Phúc Nguyên\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. Phúc Nguyên\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 |
 | 29 | [Máy Bay Giấy \(ROCK\)](https://open.spotify.com/track/39rXWGPo9YlQgcc9dgwBhk) | [\(S\)TRONG](https://open.spotify.com/artist/7571XEqHqL61NDiLtWXhS5) | [Máy Bay Giấy \(ROCK\)](https://open.spotify.com/album/07N5ESHFvZhNIuYE1FKj85) | 3:39 |
 | 30 | [SHINE](https://open.spotify.com/track/4ZKaAEohUMxGpsQNrw7Twp) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [SHINE](https://open.spotify.com/album/4U6PGSTUQCzJvRNJ2Nd4b7) | 2:41 |
 

@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Snowflower Magic (From \"A Celebration in Arendelle\"/Disneyland Paris)",
+        "url": "https://open.spotify.com/album/6glK0klIwGhfl54L5orVPx"
+      },
+      "artists": [
+        {
+          "name": "Cast \u2013 Disneyland Paris",
+          "url": "https://open.spotify.com/artist/3LMLkxpJCzcOw3i6Z1nBTN"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190848,
+      "name": "Snowflower Magic - From \"A Celebration in Arendelle\"/Disneyland Paris",
+      "url": "https://open.spotify.com/track/1efmEydi5gBZwgGTGfxs9k"
+    },
+    {
+      "album": {
         "name": "Up Here (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx"
       },

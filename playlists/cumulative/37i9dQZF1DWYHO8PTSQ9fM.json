@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "This is Morocco right now. Cover: Dave & Tems",
+  "description": "This is Morocco right now. Cover: Tame Impala, JENNIE",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6"
+    },
+    {
+      "album": {
+        "name": "BL\u00c9DARD",
+        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "AKHI",
+      "url": "https://open.spotify.com/track/6Ylgcr82E1I8Ypn6yMfN16"
     },
     {
       "album": {
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 194005,
       "name": "BON COURAGE",
       "url": "https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6"
@@ -2602,6 +2620,28 @@
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -4226,7 +4266,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182535,
       "name": "Jedi ou Jedek",
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
@@ -8856,7 +8896,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 138461,
       "name": "TAF TAF",
       "url": "https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW"
@@ -9746,6 +9786,28 @@
       "duration_ms": 152951,
       "name": "WALLAHI",
       "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"
+    },
+    {
+      "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179782,
+      "name": "WARDA",
+      "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
     },
     {
       "album": {

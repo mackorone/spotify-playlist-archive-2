@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9"
@@ -9954,7 +9954,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -9972,7 +9972,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -17058,6 +17058,36 @@
       "duration_ms": 87093,
       "name": "MONTAGEM DOMER - Super Slowed",
       "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM FEARLESS",
+        "url": "https://open.spotify.com/album/4i25grL8nhDU2fsqMj62It"
+      },
+      "artists": [
+        {
+          "name": "lirvie",
+          "url": "https://open.spotify.com/artist/2xUrLIAss3e2KH44O8Iwt2"
+        },
+        {
+          "name": "DJ eu4oria",
+          "url": "https://open.spotify.com/artist/6mg74DlGGudKVTBq7vTgcn"
+        },
+        {
+          "name": "DJ FZ DA ZN",
+          "url": "https://open.spotify.com/artist/3bxjiMeOO8KfgipnZj5fKT"
+        },
+        {
+          "name": "Matra!",
+          "url": "https://open.spotify.com/artist/74zmQLLL7XinbAtJCgMgNJ"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152947,
+      "name": "MONTAGEM FEARLESS - Ultra Slowed",
+      "url": "https://open.spotify.com/track/3dnSijuGDhhzzo0FFGptxX"
     },
     {
       "album": {
@@ -27214,7 +27244,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 98149,
       "name": "unhappy",
       "url": "https://open.spotify.com/track/2wa1o5Qnt8aqMcoIB471oY"
@@ -34180,7 +34210,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 171461,
       "name": "\u0413\u0440\u0443\u0441\u0442\u043d\u044b\u0439 \u0440\u0435\u043f\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/4SuPe645fqatWcA8PJcgUL"
@@ -36374,6 +36404,28 @@
       "duration_ms": 165837,
       "name": "\u041a\u0410\u041a \u041c\u0415\u041d\u042f \u041b\u042e\u0411\u0418\u0422\u042c ?",
       "url": "https://open.spotify.com/track/5alAPZfl1gB6T2sm0HAeaE"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0430\u0441\u0442\u0430/\u0413\u0443\u0444 2026",
+        "url": "https://open.spotify.com/album/44tkrxWOFGfLJOa43ZoHFp"
+      },
+      "artists": [
+        {
+          "name": "Basta",
+          "url": "https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H"
+        },
+        {
+          "name": "GUF",
+          "url": "https://open.spotify.com/artist/0OCyDRYamSDX0nSnJ59W1u"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "\u041a\u0430\u043a \u0441\u0430\u043c",
+      "url": "https://open.spotify.com/track/2i5Va0ArhP0jghTx0iWciu"
     },
     {
       "album": {
@@ -46188,7 +46240,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 130169,
       "name": "\u0421\u0442\u0440\u0430\u043d\u043d\u044b\u0439",
       "url": "https://open.spotify.com/track/6bhEHjP1yYPEVhi4gHqoSF"

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-453 songs - 1 day 1 hr 23 min
+454 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Pretty Girl \(Omoge\)](https://open.spotify.com/track/721oF59742gpHE5ZcPW7gJ) | [Milarey](https://open.spotify.com/artist/7cUBzBUNpkuIjcfzhf1ImT) | [Renascentia](https://open.spotify.com/album/6qL5Fn9lV0MxTpQG29XlYG) | 2:30 | 2025-11-17 | 2026-01-05 |
 | [Problems](https://open.spotify.com/track/5MxRhv2q5dGPZSLrpDpabU) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Nothing to Flex](https://open.spotify.com/album/0VempJuNZuz1GP3GSARn0p) | 3:43 | 2025-10-30 | 2025-12-01 |
 | [Prophecy](https://open.spotify.com/track/52iBXDKJNavmfKcY4eRsgQ) | [HBKMETRIII](https://open.spotify.com/artist/77fYc2hHg47Zmlfjh4cLhH) | [Prophecy](https://open.spotify.com/album/44CWFTTNEkwZgOEp7ZXiwv) | 2:21 | 2025-12-30 | 2026-01-25 |
+| [Public Memory \#1](https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Public Memory \#1](https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l) | 3:31 | 2026-05-07 |  |
 | [Pure Class](https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:59 | 2026-03-08 | 2026-04-14 |
 | [Que No Te Importe](https://open.spotify.com/track/4kXG6SQ0NF2cUpvoZjaClf) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Que No Te Importe](https://open.spotify.com/album/0yYgk2KXBhW1A2AgLXMgw4) | 2:31 | 2026-04-25 |  |
 | [Rabbit!](https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R) | [Kim Million$](https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN) | [Rabbit!](https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy) | 2:10 | 2026-04-13 |  |

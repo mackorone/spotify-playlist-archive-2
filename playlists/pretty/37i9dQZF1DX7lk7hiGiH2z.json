@@ -1,6 +1,6 @@
 {
   "description": "Der Fr\u00fchling ist da \u2013 mit Songs f\u00fcr l\u00e4ngere Tage und fr\u00f6hliche Familienmomente.",
-  "num_followers": 60316,
+  "num_followers": 60324,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-04-30 22:02:37",
       "album": {
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+      },
+      "artists": [
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Die Biene Maja",
+      "url": "https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI"
+    },
+    {
+      "added_at": "2026-04-30 22:02:37",
+      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 56745,
       "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
       "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
-    },
-    {
-      "added_at": "2026-04-30 22:02:37",
-      "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
-      },
-      "artists": [
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
-        }
-      ],
-      "duration_ms": 158226,
-      "name": "Die Biene Maja",
-      "url": "https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI"
     },
     {
       "added_at": "2026-04-30 22:02:37",
@@ -463,6 +463,26 @@
     {
       "added_at": "2026-04-30 22:02:37",
       "album": {
+        "name": "Giraffenaffen 3",
+        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Unter dem Meer",
+      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
+    },
+    {
+      "added_at": "2026-04-30 22:02:37",
+      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 113127,
       "name": "Der Mai ist gekommen",
       "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
-    },
-    {
-      "added_at": "2026-04-30 22:02:37",
-      "album": {
-        "name": "Giraffenaffen 3",
-        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Unter dem Meer",
-      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
     },
     {
       "added_at": "2026-04-30 22:02:37",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-04-30 22:02:37",
       "album": {
+        "name": "Giraffenaffen 6",
+        "url": "https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Im Fr\u00fchtau zu Berge",
+      "url": "https://open.spotify.com/track/7I8Eo73Pmvnc1HBwP2eDtO"
+    },
+    {
+      "added_at": "2026-04-30 22:02:37",
+      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 88728,
       "name": "Singt ein Vogel",
       "url": "https://open.spotify.com/track/6p6i094Q8LZRWebVHvWasC"
-    },
-    {
-      "added_at": "2026-04-30 22:02:37",
-      "album": {
-        "name": "Giraffenaffen 6",
-        "url": "https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 134506,
-      "name": "Im Fr\u00fchtau zu Berge",
-      "url": "https://open.spotify.com/track/7I8Eo73Pmvnc1HBwP2eDtO"
     },
     {
       "added_at": "2026-04-30 22:02:37",

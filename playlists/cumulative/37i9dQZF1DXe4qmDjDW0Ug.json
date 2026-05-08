@@ -29,7 +29,7 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
         }
       ],
       "date_added": "2024-04-04",
@@ -557,7 +557,7 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
         },
         {
           "name": "DOK2",
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 234640,
       "name": "Memory Loss",
       "url": "https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT"
@@ -1959,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/48ScAfcD1Dy3gMPhjhTzek"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266137,
+      "name": "\ub118\uc5b4\uc640 (Feat. \ubc31\uc608\ub9b0)",
+      "url": "https://open.spotify.com/track/7LN1f9jAIu7yxBzsLMN7RB"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -2401,7 +2423,7 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
         },
         {
           "name": "ZICO",

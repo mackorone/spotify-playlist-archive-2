@@ -7670,7 +7670,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 435266,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
@@ -20639,6 +20639,24 @@
     },
     {
       "album": {
+        "name": "Love Claim",
+        "url": "https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178261,
+      "name": "Love Claim",
+      "url": "https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk"
+    },
+    {
+      "album": {
         "name": "Love Has Found Its Way",
         "url": "https://open.spotify.com/album/1nS73qHTY8ka6qRa7imxCW"
       },
@@ -23016,6 +23034,28 @@
       "duration_ms": 149894,
       "name": "Need U (100%)",
       "url": "https://open.spotify.com/track/42nhO9c82Co5mwhi3pdkMJ"
+    },
+    {
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/6NuakLFnJhQUNFBVxrUtXR"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175652,
+      "name": "Need You By My Side",
+      "url": "https://open.spotify.com/track/7seY3OdoSh8LNiO8bZ57gK"
     },
     {
       "album": {
@@ -29406,6 +29446,28 @@
       "duration_ms": 215238,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5O7yUDeSAj390VI5z98jsd"
+    },
+    {
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/6NuakLFnJhQUNFBVxrUtXR"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217169,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/5x3iOxVPDySJaUtsr6USIe"
     },
     {
       "album": {

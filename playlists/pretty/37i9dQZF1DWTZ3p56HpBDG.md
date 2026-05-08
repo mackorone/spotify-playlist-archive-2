@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: REHMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,885 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,913 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 78 | [Rich Man](https://open.spotify.com/track/3qLLJgjpy1cscJqQvCW3M2) | [Ajii](https://open.spotify.com/artist/06jm2zgKhLkjCOWyt120j8) | [Rich Man](https://open.spotify.com/album/606EtVD2fp9rAGcUKdaGEV) | 2:43 |
 | 79 | [DIVA](https://open.spotify.com/track/3j7OsLTx5oTrm7sMewQsj9) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [DIVA](https://open.spotify.com/album/182Qkh6HKdTf6R9e4LghI1) | 2:28 |
 | 80 | [Sri Lanka](https://open.spotify.com/track/28zAYZ5BW3A9u6KAEFdPWM) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:06 |
-| 81 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
+| 81 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
 | 82 | [GLASS](https://open.spotify.com/track/5jaxPt8oCblbSxqY7TixCR) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [GLASS](https://open.spotify.com/album/1MkOg5siqJAMG4yolXbONI) | 2:31 |
 | 83 | [Alienated](https://open.spotify.com/track/1pemFAKwUCQJlM0H1Pr2H4) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS \(Z SIDES\)](https://open.spotify.com/album/0fITnszcOkuUVYERV4XYOT) | 4:07 |
 | 84 | [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 |

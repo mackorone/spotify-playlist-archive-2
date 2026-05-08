@@ -2040,6 +2040,24 @@
     {
       "album": {
         "name": "Close",
+        "url": "https://open.spotify.com/album/6vWYmUpE4KNvMQQMihv4FQ"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152559,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1JJJY7vww2I5Dvu42gWv16"
+    },
+    {
+      "album": {
+        "name": "Close",
         "url": "https://open.spotify.com/album/37kGI0qT4J5WNH6Mx8yeNu"
       },
       "artists": [
@@ -2278,6 +2296,32 @@
       "duration_ms": 148800,
       "name": "CONFIDENCE (Part 1)",
       "url": "https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/42A3aPOd87pQFjjcHT3PZU"
+      },
+      "artists": [
+        {
+          "name": "Mairos",
+          "url": "https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "WINNER WAYS.",
+          "url": "https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177717,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1kz8Q1cVh36bctEFaQjG9u"
     },
     {
       "album": {
@@ -7792,7 +7836,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 130410,
       "name": "My Lord is Good",
       "url": "https://open.spotify.com/track/6AEQOLEYTFQlorjhbr0e75"
@@ -10600,7 +10644,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 141995,
       "name": "shalom",
       "url": "https://open.spotify.com/track/6uxO7Rl2mxGVXLAuemqkaG"
@@ -11874,7 +11918,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 191044,
       "name": "Theory",
       "url": "https://open.spotify.com/track/6i8L0850DnPijrerHUn5gq"

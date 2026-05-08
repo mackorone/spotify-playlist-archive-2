@@ -1,12 +1,12 @@
 {
   "description": "Lazy slow lofi beats for laid-back moments.",
-  "num_followers": 1054865,
+  "num_followers": 1055271,
   "original_name": "lofi chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoPO+DkcxOGo2vhuZXdrbpshRLd",
+  "snapshot_id": "AAAAAGUSAjYxehBLHXO0t6gkUN5LE1Sg",
   "tracks": [
     {
       "added_at": "2026-04-24 04:00:21",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1LZBV8jigkihJ01y8X3jCj"
-      },
-      "artists": [
-        {
-          "name": "Jazza Mazza",
-          "url": "https://open.spotify.com/artist/2rd4NH7tA06zYwgkRsbjqM"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/09iIknPfMVfwuD5U9IWolR"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
         "name": "Transient",
         "url": "https://open.spotify.com/album/0UO4bJtYhKxbOiCsYUweyu"
       },
@@ -219,22 +203,6 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
-        "name": "palm of my hand",
-        "url": "https://open.spotify.com/album/2DYAlElwuy083dyVD70TQa"
-      },
-      "artists": [
-        {
-          "name": "Westover Denver",
-          "url": "https://open.spotify.com/artist/4FKBvzCwLOXSdWN6nVAqIs"
-        }
-      ],
-      "duration_ms": 144589,
-      "name": "palm of my hand",
-      "url": "https://open.spotify.com/track/4Pja7k6BaxssHuY8rVkNSP"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
         "name": "fleeting time",
         "url": "https://open.spotify.com/album/2WLNpJ41j3rdLcdZ2duDr9"
       },
@@ -263,22 +231,6 @@
       "duration_ms": 102986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/13bg8P3Vn295RRocyVkcmj"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
-        "name": "After the Last Bell",
-        "url": "https://open.spotify.com/album/3bNumifydTJoG0EXFtjvEk"
-      },
-      "artists": [
-        {
-          "name": "Mono Polaire",
-          "url": "https://open.spotify.com/artist/1q3gDW9CFJSU02oi9j4ve4"
-        }
-      ],
-      "duration_ms": 136119,
-      "name": "After the Last Bell",
-      "url": "https://open.spotify.com/track/2SL5IXOn25rKinbzFYTR2V"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -363,6 +315,22 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1LZBV8jigkihJ01y8X3jCj"
+      },
+      "artists": [
+        {
+          "name": "Jazza Mazza",
+          "url": "https://open.spotify.com/artist/2rd4NH7tA06zYwgkRsbjqM"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/09iIknPfMVfwuD5U9IWolR"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
         "name": "potions",
         "url": "https://open.spotify.com/album/6fOVzj7FgSiP4vlbtRMOOh"
       },
@@ -431,6 +399,22 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
+        "name": "palm of my hand",
+        "url": "https://open.spotify.com/album/2DYAlElwuy083dyVD70TQa"
+      },
+      "artists": [
+        {
+          "name": "Westover Denver",
+          "url": "https://open.spotify.com/artist/4FKBvzCwLOXSdWN6nVAqIs"
+        }
+      ],
+      "duration_ms": 144589,
+      "name": "palm of my hand",
+      "url": "https://open.spotify.com/track/4Pja7k6BaxssHuY8rVkNSP"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/2V4JXB8UhM3zoLvW72GWAX"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 122413,
       "name": "Cursor",
       "url": "https://open.spotify.com/track/0Cb6crH3tz4AuQgSaj864F"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "After the Last Bell",
+        "url": "https://open.spotify.com/album/3bNumifydTJoG0EXFtjvEk"
+      },
+      "artists": [
+        {
+          "name": "Mono Polaire",
+          "url": "https://open.spotify.com/artist/1q3gDW9CFJSU02oi9j4ve4"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "After the Last Bell",
+      "url": "https://open.spotify.com/track/2SL5IXOn25rKinbzFYTR2V"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -647,26 +647,6 @@
       "duration_ms": 113142,
       "name": "Pine Trees",
       "url": "https://open.spotify.com/track/1SDkB53odh3jhPUMStKp29"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
-        "name": "stars beyond",
-        "url": "https://open.spotify.com/album/3u6GXEU07V5ONcRyIKLBka"
-      },
-      "artists": [
-        {
-          "name": "bed.",
-          "url": "https://open.spotify.com/artist/39sZyRUOAoHPCvMy2sjv04"
-        },
-        {
-          "name": "jaackson",
-          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "stars beyond",
-      "url": "https://open.spotify.com/track/2JuUonejsHvfYNcTDGFsFl"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -879,6 +859,26 @@
       "duration_ms": 148479,
       "name": "breakfast",
       "url": "https://open.spotify.com/track/2KSB2toeRGq2ArXCyv0vxq"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "stars beyond",
+        "url": "https://open.spotify.com/album/3u6GXEU07V5ONcRyIKLBka"
+      },
+      "artists": [
+        {
+          "name": "bed.",
+          "url": "https://open.spotify.com/artist/39sZyRUOAoHPCvMy2sjv04"
+        },
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "stars beyond",
+      "url": "https://open.spotify.com/track/2JuUonejsHvfYNcTDGFsFl"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
-        "name": "the place beyond the trees",
-        "url": "https://open.spotify.com/album/43rWLl90n1H1oxJvNMwlzH"
-      },
-      "artists": [
-        {
-          "name": "moone\u00f8",
-          "url": "https://open.spotify.com/artist/4dTNv4gCIS09MPIU7am4jt"
-        },
-        {
-          "name": "Secret Spot",
-          "url": "https://open.spotify.com/artist/0on6rojX1G2wNZAlNiB2iS"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "fading lights",
-      "url": "https://open.spotify.com/track/7dLnHZIyg3ZJnFOEkRKuCF"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
         "name": "Midway Through",
         "url": "https://open.spotify.com/album/6pBzSxNAOZlVtNrGcj4jzf"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 114539,
       "name": "for norah",
       "url": "https://open.spotify.com/track/18IYE5it2VcLZfXiloYBS2"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "the place beyond the trees",
+        "url": "https://open.spotify.com/album/43rWLl90n1H1oxJvNMwlzH"
+      },
+      "artists": [
+        {
+          "name": "moone\u00f8",
+          "url": "https://open.spotify.com/artist/4dTNv4gCIS09MPIU7am4jt"
+        },
+        {
+          "name": "Secret Spot",
+          "url": "https://open.spotify.com/artist/0on6rojX1G2wNZAlNiB2iS"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "fading lights",
+      "url": "https://open.spotify.com/track/7dLnHZIyg3ZJnFOEkRKuCF"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/2QROOCX5ImLrU3hpeHXzTG"
-      },
-      "artists": [
-        {
-          "name": "< b a r u b e a t >",
-          "url": "https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL"
-        }
-      ],
-      "duration_ms": 148250,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/55A4cz4xvBtybJAguBzBSJ"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
         "name": "my own practice",
         "url": "https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe"
       },
@@ -2115,22 +2099,6 @@
       "duration_ms": 115910,
       "name": "you & i",
       "url": "https://open.spotify.com/track/7N3szolYk64aEQ4enlKxNa"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
-        "name": "schoolyard at night",
-        "url": "https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr"
-      },
-      "artists": [
-        {
-          "name": "nearly monday",
-          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
-        }
-      ],
-      "duration_ms": 134153,
-      "name": "schoolyard at night",
-      "url": "https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -2375,6 +2343,22 @@
       "duration_ms": 134400,
       "name": "Last Dream",
       "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "schoolyard at night",
+        "url": "https://open.spotify.com/album/0vOsJxkkypBHLMmTHoCiEr"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "duration_ms": 134153,
+      "name": "schoolyard at night",
+      "url": "https://open.spotify.com/track/0xcQHLr7ZYeH5XZFHGOTqv"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -2975,22 +2959,6 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
-        "name": "itori",
-        "url": "https://open.spotify.com/album/0la60KCgnZLlyQd51CuidZ"
-      },
-      "artists": [
-        {
-          "name": "Curly Tree",
-          "url": "https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ"
-        }
-      ],
-      "duration_ms": 132880,
-      "name": "itori",
-      "url": "https://open.spotify.com/track/1CD2MgEdfoNHPSRgSfYkn8"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
         "name": "watercolour",
         "url": "https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd"
       },
@@ -3019,22 +2987,6 @@
       "duration_ms": 112125,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/1RaYGs0MT9wV3yIaudL6KW"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
-        "name": "Underwater Blue",
-        "url": "https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B"
-      },
-      "artists": [
-        {
-          "name": "MyceliumBug",
-          "url": "https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK"
-        }
-      ],
-      "duration_ms": 102089,
-      "name": "Underwater Blue",
-      "url": "https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -3075,22 +3027,6 @@
     {
       "added_at": "2026-04-24 04:00:21",
       "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT"
-      },
-      "artists": [
-        {
-          "name": "Hi Hat Henry",
-          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
         "name": "camping trip",
         "url": "https://open.spotify.com/album/3lnVeBLRm0cAmHwiAZt5yI"
       },
@@ -3103,22 +3039,6 @@
       "duration_ms": 159750,
       "name": "camping trip",
       "url": "https://open.spotify.com/track/1SadNNfKugUYlaXTZO9g7c"
-    },
-    {
-      "added_at": "2026-04-24 04:00:21",
-      "album": {
-        "name": "Winter Artifacts",
-        "url": "https://open.spotify.com/album/0SFPkBCpXGMR5QshHhvnOI"
-      },
-      "artists": [
-        {
-          "name": "Carl Borg",
-          "url": "https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX"
-        }
-      ],
-      "duration_ms": 159652,
-      "name": "Winter Artifacts",
-      "url": "https://open.spotify.com/track/3J82z7LudT4vCsgj7GfPVV"
     },
     {
       "added_at": "2026-04-24 04:00:21",
@@ -3251,6 +3171,70 @@
       "duration_ms": 112000,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "Winter Artifacts",
+        "url": "https://open.spotify.com/album/0SFPkBCpXGMR5QshHhvnOI"
+      },
+      "artists": [
+        {
+          "name": "Carl Borg",
+          "url": "https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX"
+        }
+      ],
+      "duration_ms": 159652,
+      "name": "Winter Artifacts",
+      "url": "https://open.spotify.com/track/3J82z7LudT4vCsgj7GfPVV"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "itori",
+        "url": "https://open.spotify.com/album/0la60KCgnZLlyQd51CuidZ"
+      },
+      "artists": [
+        {
+          "name": "Curly Tree",
+          "url": "https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ"
+        }
+      ],
+      "duration_ms": 132880,
+      "name": "itori",
+      "url": "https://open.spotify.com/track/1CD2MgEdfoNHPSRgSfYkn8"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc"
+    },
+    {
+      "added_at": "2026-04-24 04:00:21",
+      "album": {
+        "name": "Underwater Blue",
+        "url": "https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B"
+      },
+      "artists": [
+        {
+          "name": "MyceliumBug",
+          "url": "https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK"
+        }
+      ],
+      "duration_ms": 102089,
+      "name": "Underwater Blue",
+      "url": "https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco"
     }
   ],
   "unique_name": "lofi chill",

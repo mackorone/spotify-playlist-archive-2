@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-105 songs - 6 hr 25 min
+106 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:03 | 2021-04-20 |  |
 | [Let It Run \(feat\. Snoop Dogg\)](https://open.spotify.com/track/7L97L0MsB68t9JhPJiqgTe) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Let It Run \(feat\. Snoop Dogg\)](https://open.spotify.com/album/7rNpIRoKgQitAtM27keUh1) | 2:58 | 2025-07-18 |  |
 | [Let's Get Stoned](https://open.spotify.com/track/0MeanTS4mXhady8sMcX8XB) | [Clay Street Unit](https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb) | [Sin & Squalor](https://open.spotify.com/album/2VN26a6OZ8bIDacwlpkq5S) | 3:09 | 2026-03-20 |  |
+| [Low](https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C) | [The Band Loula](https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i) | [Low](https://open.spotify.com/album/6Oq2uNmcgKdMSAdZSXG73j) | 3:25 | 2026-05-01 |  |
 | [Marry Jane](https://open.spotify.com/track/1E6XRmQ1Tu0YrLJ7gm6pXc) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Grossly Aware](https://open.spotify.com/album/1i8zIVZoRTC5GEM2ZG1UWE) | 2:25 | 2026-05-01 |  |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
 | [Mary Wanna](https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Mary Wanna](https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0) | 2:56 | 2022-07-29 |  |

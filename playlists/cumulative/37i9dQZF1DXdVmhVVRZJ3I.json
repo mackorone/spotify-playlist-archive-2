@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 152238,
       "name": "Mr. Navigator",
       "url": "https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz"
@@ -1560,6 +1560,28 @@
       "duration_ms": 166451,
       "name": "Piece Of Your Heart - Alok Remix",
       "url": "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
+    },
+    {
+      "album": {
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE"
+      },
+      "artists": [
+        {
+          "name": "Mad Dogz",
+          "url": "https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP"
+        },
+        {
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162090,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s"
     },
     {
       "album": {

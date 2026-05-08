@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,180 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,196 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vai Dar Caô](https://open.spotify.com/track/7BodzPDMnkSi75ngUgjN9x) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:24 |
 | 2 | [Extraordinária](https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:47 |
-| 3 | [Pensamentos Intrusivos](https://open.spotify.com/track/7kWt0FtRDglVrRGjOxougB) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 2:13 |
+| 3 | [100 Mili](https://open.spotify.com/track/0Ki6ZgS1U9IPGv5jBJ4EGq) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 2:18 |
 | 4 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/6CEo5VbkRxIZdZMQfq0uz9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/4iRuZbXWns0pQx1hpb5Baj) | 3:31 |
 | 5 | [Que Pecado!](https://open.spotify.com/track/16N3IyiH9GGq8BhkiNLY4u) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:43 |
 | 6 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
-| 7 | [100 Mili](https://open.spotify.com/track/0Ki6ZgS1U9IPGv5jBJ4EGq) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 2:18 |
+| 7 | [Pensamentos Intrusivos](https://open.spotify.com/track/7kWt0FtRDglVrRGjOxougB) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 2:13 |
 | 8 | [Chefe \(Nova Mentalidade\)](https://open.spotify.com/track/5X8qz0aRHHpemfMFXN2jRS) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 2:14 |
 | 9 | [24hrs](https://open.spotify.com/track/0UDwSxFGf92TjJYzeb0vdm) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/2eYAvCp12tB6FP8CJyM5ht) | 2:20 |
 | 10 | [Gin Com Suco De Laranja](https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 49 | [Caneta](https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 3:08 |
 | 50 | [Fresh Stars 2020 Pnpl](https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Beat Jogzz](https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Fresh Stars 2020 Pnpl](https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE) | 4:40 |
 
-Snapshot ID: `afkzAAAAAAC8GRvPCjozmYRfE/lTUVtV`
+Snapshot ID: `afqEgAAAAAChmwFNfITq8GSwrrNZyAAQ`

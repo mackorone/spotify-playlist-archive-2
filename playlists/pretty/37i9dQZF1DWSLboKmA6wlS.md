@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินอิสระและค่ายเพลง คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: WINNING\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: WINNING\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,278 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 24 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 | 25 | [ถ้าเธอรักเขา \- Not Mine](https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl) | [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ถ้าเธอรักเขา \(Not Mine\)](https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye) | 3:34 |
 
-Snapshot ID: `AAAAAGJ4tvio1Gdn9zbLNLAy/5QZv4y1`
+Snapshot ID: `AAAAAGtBeVbxyW6+oe8Rjs40yxkRpswR`

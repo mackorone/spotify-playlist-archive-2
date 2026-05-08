@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : a6el",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : BLOWSOM",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 171000,
       "name": "500 Vices",
       "url": "https://open.spotify.com/track/6kbSkAiySurZ6RwcauNVnF"
+    },
+    {
+      "album": {
+        "name": "EP CIN\u00c9MA",
+        "url": "https://open.spotify.com/album/290oz07Qldi8RsKqayokyj"
+      },
+      "artists": [
+        {
+          "name": "Dynamite Shakers",
+          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129853,
+      "name": "6h10",
+      "url": "https://open.spotify.com/track/2yXHxccMwsJNujMFSqe30Z"
     },
     {
       "album": {
@@ -1243,6 +1261,28 @@
     },
     {
       "album": {
+        "name": "Chanson triste (feat. a6el)",
+        "url": "https://open.spotify.com/album/0eGdXwZZ95NTZwOjR0G13Q"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        },
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144399,
+      "name": "Chanson triste (feat. a6el)",
+      "url": "https://open.spotify.com/track/1sc6lYULJA1X0s1yT9r2p3"
+    },
+    {
+      "album": {
         "name": "teenage dirtbag",
         "url": "https://open.spotify.com/album/2wYyly7HKXiF0U0aT4qMqR"
       },
@@ -1910,7 +1950,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 187489,
       "name": "Dehors",
       "url": "https://open.spotify.com/track/6DejXIhazPkCU91fisHZ4M"
@@ -3292,7 +3332,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 151453,
       "name": "J'Suis Pas Bo",
       "url": "https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI"
@@ -3498,6 +3538,24 @@
       "duration_ms": 183426,
       "name": "JE SAIS PLUS QUOI DIRE",
       "url": "https://open.spotify.com/track/5YEgeYe784hrRnf7P91jfy"
+    },
+    {
+      "album": {
+        "name": "Je sais que tu m'aimes",
+        "url": "https://open.spotify.com/album/2d29ToMa5huF5zyijeVDzc"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232986,
+      "name": "Je sais que tu m'aimes",
+      "url": "https://open.spotify.com/track/7ELZNRJoR691y62jyy7kqr"
     },
     {
       "album": {
@@ -4796,7 +4854,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 112786,
       "name": "MA CLAQUE",
       "url": "https://open.spotify.com/track/3xqk6PwiujpbLeblkD02hb"
@@ -7345,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Sous ma veste",
+        "url": "https://open.spotify.com/album/5vUvRxJvTbzTTu8aA9zMWw"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190088,
+      "name": "Sous ma veste",
+      "url": "https://open.spotify.com/track/4ga1un1NfHQBq9A8v9MtZa"
+    },
+    {
+      "album": {
         "name": "ADDITION / SOUSTRACTION",
         "url": "https://open.spotify.com/album/3rewEAyDU74VfTIqSmTBWk"
       },
@@ -7818,7 +7894,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179373,
       "name": "Tes yeux",
       "url": "https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH"

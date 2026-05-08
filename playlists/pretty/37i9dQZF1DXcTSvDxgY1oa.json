@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: XXJUL\u00cdA ",
-  "num_followers": 1955,
+  "num_followers": 1956,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "HOW_TO_LIVE_FOREVER_",
-        "url": "https://open.spotify.com/album/7fkLzXn40EOpywdKaeYQx2"
-      },
-      "artists": [
-        {
-          "name": "Culi.",
-          "url": "https://open.spotify.com/artist/4YRoOlRPO1S9GXzzjKttEF"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "HOW_TO_LIVE_FOREVER_",
-      "url": "https://open.spotify.com/track/5yjik6idq6ni4Zdy7Cdihe"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Kattekwaad",
         "url": "https://open.spotify.com/album/6SD0ruH583DtucRVb8bk4y"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "HOW_TO_LIVE_FOREVER_",
+        "url": "https://open.spotify.com/album/7fkLzXn40EOpywdKaeYQx2"
+      },
+      "artists": [
+        {
+          "name": "Culi.",
+          "url": "https://open.spotify.com/artist/4YRoOlRPO1S9GXzzjKttEF"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "HOW_TO_LIVE_FOREVER_",
+      "url": "https://open.spotify.com/track/5yjik6idq6ni4Zdy7Cdihe"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "In De Steek",
         "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 168224,
       "name": "In De Steek",
       "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Lach",
-        "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Lach",
-      "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -395,6 +379,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "Lach",
+        "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Lach",
+      "url": "https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Muurvast",
         "url": "https://open.spotify.com/album/2YZPcDxaUMzrNCvn4FovNq"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 346401,
       "name": "Muurvast",
       "url": "https://open.spotify.com/track/5zN47NfLOAxBfWoE0tIvqT"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Graceful Fire",
-        "url": "https://open.spotify.com/album/1UPm5Ir7374fgerfHDQHXT"
-      },
-      "artists": [
-        {
-          "name": "tjels",
-          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
-        }
-      ],
-      "duration_ms": 240137,
-      "name": "Graceful Fire",
-      "url": "https://open.spotify.com/track/3i8SE9MzDHGeKkT01BPjCf"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -443,18 +427,34 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Not My Game",
-        "url": "https://open.spotify.com/album/6J8sO6QnzpIZnoLGA9vaeL"
+        "name": "Graceful Fire",
+        "url": "https://open.spotify.com/album/1UPm5Ir7374fgerfHDQHXT"
       },
       "artists": [
         {
-          "name": "Lenny Monsou",
-          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Not My Game",
-      "url": "https://open.spotify.com/track/1OXpViolgHGZiUxeFTdx0I"
+      "duration_ms": 240137,
+      "name": "Graceful Fire",
+      "url": "https://open.spotify.com/track/3i8SE9MzDHGeKkT01BPjCf"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Nee Man",
+        "url": "https://open.spotify.com/album/1S3MgHn1vZOLvBMgJEBuJ4"
+      },
+      "artists": [
+        {
+          "name": "SKINC",
+          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+        }
+      ],
+      "duration_ms": 163268,
+      "name": "Nee Man",
+      "url": "https://open.spotify.com/track/6AvqTncKDtZrFtL0c1cc7u"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Nee Man",
-        "url": "https://open.spotify.com/album/1S3MgHn1vZOLvBMgJEBuJ4"
+        "name": "Not My Game",
+        "url": "https://open.spotify.com/album/6J8sO6QnzpIZnoLGA9vaeL"
       },
       "artists": [
         {
-          "name": "SKINC",
-          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+          "name": "Lenny Monsou",
+          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
         }
       ],
-      "duration_ms": 163268,
-      "name": "Nee Man",
-      "url": "https://open.spotify.com/track/6AvqTncKDtZrFtL0c1cc7u"
+      "duration_ms": 188840,
+      "name": "Not My Game",
+      "url": "https://open.spotify.com/track/1OXpViolgHGZiUxeFTdx0I"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Overcompensating",
-        "url": "https://open.spotify.com/album/3UJTW4CxzsBQyQLvqbV3h0"
-      },
-      "artists": [
-        {
-          "name": "Moon Jacky Jane",
-          "url": "https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov"
-        }
-      ],
-      "duration_ms": 195450,
-      "name": "Overcompensating",
-      "url": "https://open.spotify.com/track/29q8cAbDbnqiX9dgs94P98"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "UGLY ROTTEN GRRRL!!!",
         "url": "https://open.spotify.com/album/4jB6ahAyo6HdrRN59Ju2Ku"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg"
+        "name": "Overcompensating",
+        "url": "https://open.spotify.com/album/3UJTW4CxzsBQyQLvqbV3h0"
       },
       "artists": [
         {
-          "name": "Inherited",
-          "url": "https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02"
+          "name": "Moon Jacky Jane",
+          "url": "https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov"
         }
       ],
-      "duration_ms": 152652,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS"
+      "duration_ms": 195450,
+      "name": "Overcompensating",
+      "url": "https://open.spotify.com/track/29q8cAbDbnqiX9dgs94P98"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -695,6 +679,22 @@
       "duration_ms": 164822,
       "name": "Autofellatio",
       "url": "https://open.spotify.com/track/5g2gu1yzJ3jYQuIdEfWD3P"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg"
+      },
+      "artists": [
+        {
+          "name": "Inherited",
+          "url": "https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02"
+        }
+      ],
+      "duration_ms": 152652,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Astrolabium",
-        "url": "https://open.spotify.com/album/5QSbJFB8m77WctR3Dz6Ipg"
-      },
-      "artists": [
-        {
-          "name": "Helen Jewett",
-          "url": "https://open.spotify.com/artist/36cID5OLWLp4SzVn9g4kiF"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Abiga\u00efl",
-      "url": "https://open.spotify.com/track/20TNMClcKfd2YCtlHNMu2q"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "A\u015fk\u0131m Benim",
         "url": "https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 188235,
       "name": "A\u015fk\u0131m Benim",
       "url": "https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Astrolabium",
+        "url": "https://open.spotify.com/album/5QSbJFB8m77WctR3Dz6Ipg"
+      },
+      "artists": [
+        {
+          "name": "Helen Jewett",
+          "url": "https://open.spotify.com/artist/36cID5OLWLp4SzVn9g4kiF"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Abiga\u00efl",
+      "url": "https://open.spotify.com/track/20TNMClcKfd2YCtlHNMu2q"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Selfhelpingmehelpmyself",
-        "url": "https://open.spotify.com/album/6bETdAF0lCZyR17QfPfkYr"
-      },
-      "artists": [
-        {
-          "name": "Sam Vano",
-          "url": "https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4QdQVPGGm1w7Ulu7sGcAlN"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "(You Can Never Kill My) Radio",
         "url": "https://open.spotify.com/album/44igM8ZA1iJM31bMhAJcVV"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Oh Baby Please",
-        "url": "https://open.spotify.com/album/5N5UWwnk0a1Dd6I1XpMEom"
+        "name": "Selfhelpingmehelpmyself",
+        "url": "https://open.spotify.com/album/6bETdAF0lCZyR17QfPfkYr"
       },
       "artists": [
         {
-          "name": "Laplander",
-          "url": "https://open.spotify.com/artist/4zjkhcJpqrtUWrY71xZvk0"
+          "name": "Sam Vano",
+          "url": "https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5"
         }
       ],
-      "duration_ms": 214054,
-      "name": "Oh Baby Please",
-      "url": "https://open.spotify.com/track/6SZlairyNEuEv03oZRdwu6"
+      "duration_ms": 214533,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4QdQVPGGm1w7Ulu7sGcAlN"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -895,6 +879,22 @@
       "duration_ms": 203624,
       "name": "Learning To Live Without You",
       "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Oh Baby Please",
+        "url": "https://open.spotify.com/album/5N5UWwnk0a1Dd6I1XpMEom"
+      },
+      "artists": [
+        {
+          "name": "Laplander",
+          "url": "https://open.spotify.com/artist/4zjkhcJpqrtUWrY71xZvk0"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Oh Baby Please",
+      "url": "https://open.spotify.com/track/6SZlairyNEuEv03oZRdwu6"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Compadres",
-        "url": "https://open.spotify.com/album/0V5aiEGXp8wNlNcShEio2T"
-      },
-      "artists": [
-        {
-          "name": "Kalima",
-          "url": "https://open.spotify.com/artist/57oQQfYfgpDtJZD618GZbZ"
-        }
-      ],
-      "duration_ms": 285196,
-      "name": "Compadres",
-      "url": "https://open.spotify.com/track/2qImlTzObP8el5dkXXnlmP"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Dans la nuit",
         "url": "https://open.spotify.com/album/1odIZMVjPJDgh0p1HhfpZI"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Ik Praat Met De Sterren",
-        "url": "https://open.spotify.com/album/4EoNmQLhCDZR5zwFcmoJz4"
+        "name": "Compadres",
+        "url": "https://open.spotify.com/album/0V5aiEGXp8wNlNcShEio2T"
       },
       "artists": [
         {
-          "name": "Emirhan X",
-          "url": "https://open.spotify.com/artist/1R6xxe3w9F1FPDoUqT2SLc"
+          "name": "Kalima",
+          "url": "https://open.spotify.com/artist/57oQQfYfgpDtJZD618GZbZ"
         }
       ],
-      "duration_ms": 312361,
-      "name": "Ik Praat Met De Sterren",
-      "url": "https://open.spotify.com/track/60bWRPFDzNVl62huWvbw4A"
+      "duration_ms": 285196,
+      "name": "Compadres",
+      "url": "https://open.spotify.com/track/2qImlTzObP8el5dkXXnlmP"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1031,6 +1015,22 @@
       "duration_ms": 216266,
       "name": "Miss Trutti Finally Found Her Gem",
       "url": "https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Ik Praat Met De Sterren",
+        "url": "https://open.spotify.com/album/4EoNmQLhCDZR5zwFcmoJz4"
+      },
+      "artists": [
+        {
+          "name": "Emirhan X",
+          "url": "https://open.spotify.com/artist/1R6xxe3w9F1FPDoUqT2SLc"
+        }
+      ],
+      "duration_ms": 312361,
+      "name": "Ik Praat Met De Sterren",
+      "url": "https://open.spotify.com/track/60bWRPFDzNVl62huWvbw4A"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Moulin Rouge",
-        "url": "https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys"
-      },
-      "artists": [
-        {
-          "name": "Yael Daila",
-          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
-        }
-      ],
-      "duration_ms": 191196,
-      "name": "Moulin Rouge",
-      "url": "https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "perfectly imperfect",
         "url": "https://open.spotify.com/album/1dJoMWU122CDWe6gocrgzx"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 134000,
       "name": "Kaonashi",
       "url": "https://open.spotify.com/track/4wDyZadgnaUoY7AGKPUi4o"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys"
+      },
+      "artists": [
+        {
+          "name": "Yael Daila",
+          "url": "https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT"
+        }
+      ],
+      "duration_ms": 191196,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
-      },
-      "artists": [
-        {
-          "name": "Rockpool Dramas",
-          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
       },
@@ -1211,6 +1195,38 @@
       "duration_ms": 192342,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "The Immortal Gerard",
+        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
+      },
+      "artists": [
+        {
+          "name": "Baba Pen & The Bim Bam Band",
+          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "The Immortal Gerard",
+      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
+      },
+      "artists": [
+        {
+          "name": "Rockpool Dramas",
+          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1247,34 +1263,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "The Immortal Gerard",
-        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
+        "name": "In Love Again (The ABC Way)",
+        "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
       },
       "artists": [
         {
-          "name": "Baba Pen & The Bim Bam Band",
-          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
         }
       ],
-      "duration_ms": 251106,
-      "name": "The Immortal Gerard",
-      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5"
-      },
-      "artists": [
-        {
-          "name": "Rockpool Dramas",
-          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC"
+      "duration_ms": 219160,
+      "name": "In Love Again (The ABC Way)",
+      "url": "https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5"
+      },
+      "artists": [
+        {
+          "name": "Rockpool Dramas",
+          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Stampij",
         "url": "https://open.spotify.com/album/0fmZFEPTDvGEVxE1xIIQXR"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "In Love Again (The ABC Way)",
-        "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
+        "name": "Insurrecci\u200b\u00f3\u200bn de los Incontentables",
+        "url": "https://open.spotify.com/album/2R098kap4WCtwKhkr5VJiq"
       },
       "artists": [
         {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+          "name": "Karnabahar",
+          "url": "https://open.spotify.com/artist/5OHL4KH5rSYYESINdMXaDt"
         }
       ],
-      "duration_ms": 219160,
-      "name": "In Love Again (The ABC Way)",
-      "url": "https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS"
+      "duration_ms": 153583,
+      "name": "\u00c7\u0131kmaz",
+      "url": "https://open.spotify.com/track/2uNKzvaqXIcSFROPVlJ3ez"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1343,22 +1359,6 @@
       "duration_ms": 177652,
       "name": "Bust a Move",
       "url": "https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Insurrecci\u200b\u00f3\u200bn de los Incontentables",
-        "url": "https://open.spotify.com/album/2R098kap4WCtwKhkr5VJiq"
-      },
-      "artists": [
-        {
-          "name": "Karnabahar",
-          "url": "https://open.spotify.com/artist/5OHL4KH5rSYYESINdMXaDt"
-        }
-      ],
-      "duration_ms": 153583,
-      "name": "\u00c7\u0131kmaz",
-      "url": "https://open.spotify.com/track/2uNKzvaqXIcSFROPVlJ3ez"
     },
     {
       "added_at": "2025-11-28 18:02:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,343 likes - 95 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,346 likes - 95 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpVDicfqjAa.md) - [plain]
 | 27 | [U KNEW](https://open.spotify.com/track/7hxV8cTz7q0BpcINmEl0q9) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [U KNEW](https://open.spotify.com/album/2VLBoICgmdCwSeFuJt3pfc) | 3:32 |
 | 28 | [2 Nice](https://open.spotify.com/track/0JCgD4tMpSwHBuMCMCijaa) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Enchufada Upper Cuts: Four Years of Global Club Anthems](https://open.spotify.com/album/6D2QiExCL1CiW5iNXK3vi8) | 3:35 |
 | 29 | [São Paulo](https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [São Paulo EP](https://open.spotify.com/album/690QdmHPXtjGxLuQ4MzJt4) | 3:00 |
-| 30 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
+| 30 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
 | 31 | [Low Low](https://open.spotify.com/track/4q4SRgFVZvf3ynDLlQPGoz) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Low Low](https://open.spotify.com/album/6zsZ6HvoCrql4RmWkbQ0ll) | 2:11 |
 | 32 | [Sunday Best \- KARABA Remix](https://open.spotify.com/track/1jFusidIzeFjDcwG0Kj6YA) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Sunday Best \(KARABA Remix\)](https://open.spotify.com/album/3LaT5ge4mHujW2f52UKYdv) | 3:30 |
 | 33 | [DELIRIOUS GIRL](https://open.spotify.com/track/6zVauAZeTGXEzEsy22YSXf) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [DELIRIOUS GIRL](https://open.spotify.com/album/3AvrKoagdusYf4uT697WDp) | 2:50 |

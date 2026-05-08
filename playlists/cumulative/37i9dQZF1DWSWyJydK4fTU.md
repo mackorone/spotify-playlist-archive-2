@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-343 songs - 17 hr 26 min
+345 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [I'm Still Here](https://open.spotify.com/track/42QSbLEWLo0RhXG7hwwpdF) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [I'm Still Here](https://open.spotify.com/album/0z4QvnPCIs6WlseyZoaW8Y) | 2:59 | 2025-02-27 | 2025-08-30 |
 | [ich dich auch <3](https://open.spotify.com/track/28yuOJf8EYSpW17tYeDvBD) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [ich dich auch <3](https://open.spotify.com/album/1djXO1sknHyZvQ4oMEUx6D) | 2:45 | 2026-01-23 |  |
 | [ich vermisse dich.](https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich vermisse dich.](https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9) | 2:39 | 2025-11-12 | 2026-02-13 |
-| [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 | 2025-09-12 |  |
+| [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 | 2025-09-12 | 2026-05-08 |
 | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/track/7cAH8MvS4629IUVVdcMAbB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/album/4X3Qq0xjXGarrm8gdKOc49) | 2:59 | 2025-05-22 | 2026-02-27 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-06-20 | 2024-09-14 |
 | [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 | 2025-02-19 | 2025-08-02 |
@@ -174,6 +174,7 @@
 | [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 | 2026-02-05 | 2026-03-20 |
 | [Jedes Jahr](https://open.spotify.com/track/0wRu4iD5DqZxL7jjwcRr0j) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Jedes Jahr](https://open.spotify.com/album/2OcyCpUysXn9w6raXov5K9) | 2:54 | 2025-11-17 | 2026-01-03 |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-10-11 | 2025-02-20 |
+| [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 | 2026-05-07 |  |
 | [Kompliziert](https://open.spotify.com/track/1flZCmMHxyiTbECxXgSmdE) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Kompliziert](https://open.spotify.com/album/4F8HG29Z93i5nLtZFTpR44) | 2:35 | 2024-06-20 | 2026-01-03 |
 | [Kurz für immer](https://open.spotify.com/track/3sO0vONRaSGKrIA4p9IVXY) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Hast du kurz Zeit](https://open.spotify.com/album/5S3jKdSdsiie4I67BEs7zp) | 2:30 | 2026-01-30 | 2026-04-17 |
 | [Lady In Red](https://open.spotify.com/track/2ObQRuTvP7PfyMS5Y6t4i3) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [Lady In Red](https://open.spotify.com/album/20Y0YMEtd5ifcSZ0s1SuYy) | 2:35 | 2025-08-01 | 2026-04-24 |
@@ -305,6 +306,7 @@
 | [The One](https://open.spotify.com/track/5eS3K28unzlfVchFSyJMrF) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [The One](https://open.spotify.com/album/0hR1jJLGAzzgxAfnRAtlmo) | 3:01 | 2025-05-22 | 2025-09-25 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-08 | 2026-03-06 |
 | [Thee Unknown](https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 3:24 | 2024-12-18 | 2025-08-02 |
+| [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 | 2026-05-07 |  |
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-17 | 2025-02-20 |
 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 | 2025-10-09 |  |
 | [Thinking ‘bout You](https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking ‘bout You](https://open.spotify.com/album/6M93s0aYAG9BFmKx5C1m12) | 2:20 | 2026-01-09 |  |
@@ -334,7 +336,7 @@
 | [Wenn es sich gut anfühlt](https://open.spotify.com/track/6IVsW0MUToVAmf5E9w9jHz) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Wenn es sich gut anfühlt](https://open.spotify.com/album/4fG615Zq6Sv2VJJQ5quGmv) | 2:33 | 2024-06-20 | 2024-12-19 |
 | [Wer Sagt Es Zuerst](https://open.spotify.com/track/56RJCIP17bS8CQLhtdhiMG) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Wer Sagt Es Zuerst](https://open.spotify.com/album/4tpqM5OCsHm8h4v0jkJYv0) | 2:23 | 2024-09-06 | 2024-11-10 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-22 | 2026-01-24 |
-| [when I'm with you](https://open.spotify.com/track/2yTH2vxuKDTYV9mXDVaOYV) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [when I'm with you](https://open.spotify.com/album/0r0HT9Fr1kfAu3D5pYPB1p) | 2:59 | 2026-01-30 |  |
+| [when I'm with you](https://open.spotify.com/track/2yTH2vxuKDTYV9mXDVaOYV) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [when I'm with you](https://open.spotify.com/album/0r0HT9Fr1kfAu3D5pYPB1p) | 2:59 | 2026-01-30 | 2026-05-08 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-24 | 2026-03-20 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-06-20 | 2025-07-11 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-11 | 2025-01-01 |

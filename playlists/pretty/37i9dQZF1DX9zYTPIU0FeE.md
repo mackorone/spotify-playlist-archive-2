@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Celebrating Journey to Jazz\. Cover: Kyle Shepherd, Artistic Director
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,488 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,492 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Order My Steps](https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Order My Steps](https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC) | 6:15 |
 | 50 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
 
-Snapshot ID: `AAAAAAslxveF6lWOJTsJy8FNQqO6vfGX`
+Snapshot ID: `AAAAAPNMVMb4Imo5gNeeWad9j5BXHFmi`

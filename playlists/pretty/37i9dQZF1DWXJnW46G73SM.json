@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0633\u064a\u0648\u0646\u064a\u060c \u0632\u064a\u062f \u062e\u0627\u0644\u062f\u060c \u0627\u062d\u0645\u062f \u0636\u064a\u0627\u0621",
-  "num_followers": 159409,
+  "num_followers": 159452,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIbLfxaukaWaC8710MyqjsEGEihs",
+  "snapshot_id": "AAAAAA/6ui7rSGBcHv1V2nENf83O3Xj/",
   "tracks": [
     {
       "added_at": "2026-05-06 07:55:32",
@@ -31,6 +31,22 @@
       "duration_ms": 181132,
       "name": "Khody Hena",
       "url": "https://open.spotify.com/track/22x7P4EKBs8l8cgv9ijWb5"
+    },
+    {
+      "added_at": "2026-05-07 17:43:18",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
     },
     {
       "added_at": "2026-05-06 07:55:32",
@@ -863,34 +879,6 @@
       "duration_ms": 166153,
       "name": "\u0644\u064a\u0647 \u0633\u0627\u0643\u062a",
       "url": "https://open.spotify.com/track/20uP3IkHHLVZAylFRTI6Mz"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
-        "url": "https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam"
-      },
-      "artists": [
-        {
-          "name": "Amr Mostafa",
-          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
-        },
-        {
-          "name": "ZIAD ZAZA",
-          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
-        },
-        {
-          "name": "Moataz Mady",
-          "url": "https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv"
-        },
-        {
-          "name": "Red Bull Sika",
-          "url": "https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
-      "url": "https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO"
     },
     {
       "added_at": "2026-05-06 07:55:32",

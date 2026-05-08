@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Antweirps Volkslied",
       "url": "https://open.spotify.com/track/5bJgfEF2JOA2t1yzcBQp2x"
@@ -8420,7 +8420,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 178341,
       "name": "Butterfly Butterfly",
       "url": "https://open.spotify.com/track/4G2BsscsRHeaGwni3zqgWF"
@@ -9874,6 +9874,24 @@
     {
       "album": {
         "name": "Cheerio",
+        "url": "https://open.spotify.com/album/4KvVW8CGca1BNCr6zmLPq2"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/2FkLUk8woeuqqmVADmxsDn"
+    },
+    {
+      "album": {
+        "name": "Cheerio",
         "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
       },
       "artists": [
@@ -9902,7 +9920,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
@@ -24888,7 +24906,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
@@ -24906,7 +24924,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/77kMHM0D2MgGTjoL2308Lm"
@@ -28276,6 +28294,24 @@
       "duration_ms": 107715,
       "name": "LAURA",
       "url": "https://open.spotify.com/track/3GmzvtBcGm0bxQvpRZUnzb"
+    },
+    {
+      "album": {
+        "name": "LAUSANNE",
+        "url": "https://open.spotify.com/album/3Lo9v9bKc9SZNHOZAfDhvX"
+      },
+      "artists": [
+        {
+          "name": "ssax8",
+          "url": "https://open.spotify.com/artist/5CW94mr360Q6wQyRjNLnMO"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181656,
+      "name": "LAUSANNE",
+      "url": "https://open.spotify.com/track/6KOKkhFc0B5U3MqEhWIWsV"
     },
     {
       "album": {
@@ -36002,7 +36038,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 144406,
       "name": "Nala (Bring Me Home)",
       "url": "https://open.spotify.com/track/2HpOwVx31rNUQFT8CexxOB"
@@ -37018,10 +37054,28 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 199947,
       "name": "No reward",
       "url": "https://open.spotify.com/track/3hNjvaa1uMTtHr2JIKtaai"
+    },
+    {
+      "album": {
+        "name": "No Reward",
+        "url": "https://open.spotify.com/album/23J8tCRduOKnLoh37ERnbv"
+      },
+      "artists": [
+        {
+          "name": "EXXCLUSlVE",
+          "url": "https://open.spotify.com/artist/5nOOqSDk24pTv1VUdK2cW7"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199950,
+      "name": "No Reward",
+      "url": "https://open.spotify.com/track/2TsjcVSHeEX2FkimexEsuY"
     },
     {
       "album": {
@@ -39578,7 +39632,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 144440,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/08J3J1YII8N62MjAba8grD"
@@ -43284,7 +43338,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 143640,
       "name": "rose",
       "url": "https://open.spotify.com/track/5dNfKERYCowGoteBw4kYRb"
@@ -44754,7 +44808,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
@@ -45140,6 +45194,24 @@
       "duration_ms": 157714,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
+    },
+    {
+      "album": {
+        "name": "Shadow Of Your Love",
+        "url": "https://open.spotify.com/album/2U12PSs7ZMDqkqYgaOnhfL"
+      },
+      "artists": [
+        {
+          "name": "Saint Point",
+          "url": "https://open.spotify.com/artist/0HRzyi2ALvq5EpsT4Gdkgd"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Shadow Of Your Love",
+      "url": "https://open.spotify.com/track/5TbXXdFGLeCQegxSfANqq3"
     },
     {
       "album": {

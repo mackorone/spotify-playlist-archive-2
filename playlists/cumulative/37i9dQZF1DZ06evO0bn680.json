@@ -781,6 +781,32 @@
     },
     {
       "album": {
+        "name": "Hail, Gladdening Light: Music of the English Church",
+        "url": "https://open.spotify.com/album/02DSLzfBESd5hsdrugChj9"
+      },
+      "artists": [
+        {
+          "name": "Edward Bairstow",
+          "url": "https://open.spotify.com/artist/1F12kyzm3ZetBczIfRMpHW"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109600,
+      "name": "I Sat Down Under His Shadow",
+      "url": "https://open.spotify.com/track/6l0y9izHxT4K3Bg9QAEfYO"
+    },
+    {
+      "album": {
         "name": "Faire Is the Heaven: Music Of the English Church",
         "url": "https://open.spotify.com/album/6QLH81woQQHSMppURzDs7W"
       },
@@ -1398,7 +1424,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 310800,
       "name": "Requiem: VI. The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"

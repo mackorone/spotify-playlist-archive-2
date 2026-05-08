@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Dear Joanne.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Arde Bogot\u00e1.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 220207,
       "name": "Aftersun",
       "url": "https://open.spotify.com/track/4yUgg8iNXXSNpR6qLdW3Cq"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 91714,
       "name": "ALQUILER",
       "url": "https://open.spotify.com/track/2lQfCoFsW4uqmDCcVjP8Cn"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 139081,
       "name": "Caja Sorpresa",
       "url": "https://open.spotify.com/track/6nf6hXW4AS55PyaXNnqgfB"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 272364,
       "name": "Cuando todo vaya mal",
       "url": "https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk"
@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Despedida (de una vez por todas)",
+        "url": "https://open.spotify.com/album/6elwDlEkgkBIuYCEDHqHRr"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164343,
+      "name": "Despedida (de una vez por todas)",
+      "url": "https://open.spotify.com/track/1ciUi9ir51csJiBOrYq7yG"
+    },
+    {
+      "album": {
         "name": "NUEVAS T\u00c9CNICAS DE MEDITACI\u00d3N",
         "url": "https://open.spotify.com/album/0IqwXTJ5iYhUkonb0CubS7"
       },
@@ -3148,6 +3166,24 @@
       "duration_ms": 174571,
       "name": "El Amor Te Da Miedo",
       "url": "https://open.spotify.com/track/6JIcEyLlVyR9j4KzoyBFl4"
+    },
+    {
+      "album": {
+        "name": "el aWard es para:",
+        "url": "https://open.spotify.com/album/3ClXLMgOA5sfAqNAftJK4R"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166757,
+      "name": "el aWard es para:",
+      "url": "https://open.spotify.com/track/0v03PeYZS5z0WSWKZ3VCNw"
     },
     {
       "album": {
@@ -3726,6 +3762,24 @@
       "duration_ms": 210428,
       "name": "Eres Un Regalo",
       "url": "https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv"
+    },
+    {
+      "album": {
+        "name": "Escalones",
+        "url": "https://open.spotify.com/album/7i1zS7lSNsZdrDs17M17JV"
+      },
+      "artists": [
+        {
+          "name": "Nepal Nepal",
+          "url": "https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184122,
+      "name": "Escalones",
+      "url": "https://open.spotify.com/track/6Nf4tSwuLhrYkCioDZ541e"
     },
     {
       "album": {
@@ -4609,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Habladur\u00edas",
+        "url": "https://open.spotify.com/album/4GTGbFSyEvWagjxrXtKw2m"
+      },
+      "artists": [
+        {
+          "name": "Ashleys",
+          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156554,
+      "name": "Habladur\u00edas",
+      "url": "https://open.spotify.com/track/7KWvAE0JYWZVsGPgrdxqCT"
+    },
+    {
+      "album": {
         "name": "hablemos",
         "url": "https://open.spotify.com/album/3VZcz7HzxQTCj0lltR31hl"
       },
@@ -5075,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Instrucciones",
+        "url": "https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Instrucciones",
+      "url": "https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR"
+    },
+    {
+      "album": {
         "name": "Insurrecci\u00f3n",
         "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
       },
@@ -5130,6 +5220,24 @@
       "duration_ms": 186005,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2g6zKuPmftAOmRA0jZN2aH"
+    },
+    {
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/22T8CK15IxkyuFWNMvUhl5"
+      },
+      "artists": [
+        {
+          "name": "BALONCESTO",
+          "url": "https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196224,
+      "name": "Iridiscente",
+      "url": "https://open.spotify.com/track/6mYRRfXMu9FFamuzq79Rzt"
     },
     {
       "album": {
@@ -5798,7 +5906,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 243072,
       "name": "La Trinidad No Paga Traidores",
       "url": "https://open.spotify.com/track/1pPDwSfFzRJCjL9xrOcOMC"
@@ -5968,6 +6076,24 @@
       "duration_ms": 181211,
       "name": "Les Llevar\u00e9 Mi Cruz",
       "url": "https://open.spotify.com/track/6QIODBpsQuCjIrHZHJIhbF"
+    },
+    {
+      "album": {
+        "name": "LESBIANAS",
+        "url": "https://open.spotify.com/album/2d8DEjwIocHxnyv2kzVV86"
+      },
+      "artists": [
+        {
+          "name": "8 y Medio",
+          "url": "https://open.spotify.com/artist/29xJWp07Ld04lmvT0tizaR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132250,
+      "name": "LESBIANAS",
+      "url": "https://open.spotify.com/track/2mR3qakxEaptpJvREGRyUH"
     },
     {
       "album": {
@@ -6860,7 +6986,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 185924,
       "name": "Me Miras Mal",
       "url": "https://open.spotify.com/track/1Y0yo9M0NizVkZKUPm2sLK"
@@ -8648,7 +8774,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 213973,
       "name": "paz",
       "url": "https://open.spotify.com/track/52xCEdh1JK9j1aZ53LhV7K"
@@ -8702,7 +8828,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 138098,
       "name": "Pedro Pascal",
       "url": "https://open.spotify.com/track/5IVchpy9uyRte1r45GCBi9"
@@ -11176,7 +11302,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 217803,
       "name": "Tri\u00e1ngulo de Amor Bizarro",
       "url": "https://open.spotify.com/track/1LqtshPVQeyN32a3S9NpUM"
@@ -11534,6 +11660,24 @@
       "duration_ms": 171246,
       "name": "Un bitllet per tu",
       "url": "https://open.spotify.com/track/2e2eWTxiAZ95cmMQfhLxSA"
+    },
+    {
+      "album": {
+        "name": "Un A\u00f1o Cualquiera",
+        "url": "https://open.spotify.com/album/4QIpzOtbDBq6Y5jZDrQFAZ"
+      },
+      "artists": [
+        {
+          "name": "Bianca Castafiore",
+          "url": "https://open.spotify.com/artist/1KHlqNuKCNNK8Li5h77Ygi"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199777,
+      "name": "Un D\u00eda de Perros",
+      "url": "https://open.spotify.com/track/6HvCurev3mAXlkTlhpVLSD"
     },
     {
       "album": {

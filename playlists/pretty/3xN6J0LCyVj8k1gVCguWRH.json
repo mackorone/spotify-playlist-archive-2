@@ -6,7 +6,7 @@
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA6X8KuUMtCv286CrMItPdXlxG/Cver",
+  "snapshot_id": "AAA6ZNVz9uGLZ+8SbPGotGDc2l8NTepi",
   "tracks": [
     {
       "added_at": "2026-04-14 22:13:37",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
     },
     {
+      "added_at": "2026-05-07 15:01:46",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/1SfCkbDZNt4umXP4PNINBE"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "duration_ms": 179103,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/3m9zGSLMJQEGQMafEwty7l"
+    },
+    {
       "added_at": "2026-04-15 00:03:34",
       "album": {
         "name": "Ambiguous Desire",
@@ -555,6 +571,30 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-05-07 15:02:12",
+      "album": {
+        "name": "Water In The Sun",
+        "url": "https://open.spotify.com/album/2kj1qQS1LMWF8Aaa8Ffwir"
+      },
+      "artists": [
+        {
+          "name": "The Ediacaran",
+          "url": "https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO"
+        },
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        },
+        {
+          "name": "Royal Blu",
+          "url": "https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx"
+        }
+      ],
+      "duration_ms": 239171,
+      "name": "Water In The Sun",
+      "url": "https://open.spotify.com/track/3FSB1YONCl9Bn0tDJ2kp0P"
     },
     {
       "added_at": "2026-04-21 13:17:29",

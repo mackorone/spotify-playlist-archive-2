@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 3,731 likes - 74 songs - 4 hr 28 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 3,735 likes - 74 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 29 | [Won't Wait](https://open.spotify.com/track/7JHw2wKuRbJYuCSNHfmXFa) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Won't Wait](https://open.spotify.com/album/0Sq6v0yTUEzRpeD1xPbHPB) | 2:35 |
 | 30 | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/track/3LHVvoyv62nOtM2eqYYC7d) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/album/2SICf5eBmB7OFXg9TeUxuM) | 2:51 |
 | 31 | [Love Deficiency Syndrome](https://open.spotify.com/track/20WH71iNc9i49IZhM65Dth) | [Jody Glenham](https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW) | [Love Deficiency Syndrome](https://open.spotify.com/album/4cB5quKaeHzMS0Kd8cA2dr) | 3:12 |
-| 32 | [Only Water \- Feat\. Lady Donli](https://open.spotify.com/track/0yosbbOesmdGxYJAhweegv) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:07 |
+| 32 | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/track/0yosbbOesmdGxYJAhweegv) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:07 |
 | 33 | [Please Let Me Remember This](https://open.spotify.com/track/3UiHVRwpX46L8OrcmLRjKa) | [Julia Cumming](https://open.spotify.com/artist/7hIHeaaT8TkaHpFDT9QZfR) | [Julia](https://open.spotify.com/album/4YUTzEpDHp1ZO5nw6WXNy9) | 3:38 |
 | 34 | [Empty Bars \(feat\. billy woods\)](https://open.spotify.com/track/6RqY8v4ZXkq2O7tSkD5yt0) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Fold](https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1) | 3:31 |
 | 35 | [Cells](https://open.spotify.com/track/0eQ9bnfzXZqtUsre9gJsWF) | [Kathryn Mohr](https://open.spotify.com/artist/2lbUZvIMQVI9unYN34lmOZ) | [Carve](https://open.spotify.com/album/6yvVX20gPe9oQtvQZmmI8Z) | 3:12 |

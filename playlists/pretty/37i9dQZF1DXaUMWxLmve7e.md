@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 
 > <a href="spotify:artist:0g3NiCRhEv7M4SEDMrpItN">TEED</a>'s favorite tracks\. Updated regularly\. Curated by TEED\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 | 99 | [Love](https://open.spotify.com/track/3h6Mm5SVbg4INzst6gc4Fy) | [Luke Slater](https://open.spotify.com/artist/5BJa6TIqtoWm8QRRbfRmyt) | [Freek Funk](https://open.spotify.com/album/4hwsqEH54qPAmiCaJMy2SG) | 6:14 |
 | 100 | [Take Me 2 Paradise \- Kaje 1999 Remix](https://open.spotify.com/track/75ZG2QfiD8T0PTSGjzZ4nk) | [Trackheadz](https://open.spotify.com/artist/1ZgmUxnpRZdZPxJOGsTSeZ) | [From The Beginning EP 2](https://open.spotify.com/album/0vtg1qdLyghpFHIakZGNeY) | 6:32 |
 
-Snapshot ID: `AAAAAGyTLZH2HnepEqG4+yi0LSXs4iFl`
+Snapshot ID: `AAAAAPjspWpxVqo+4ntaD2K6WMAVjD+O`

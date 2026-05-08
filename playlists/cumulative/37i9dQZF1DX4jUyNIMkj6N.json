@@ -4931,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "project_4",
+        "url": "https://open.spotify.com/album/4JFTve3uWKQ0r0nOu67Q4f"
+      },
+      "artists": [
+        {
+          "name": "Agate",
+          "url": "https://open.spotify.com/artist/1pJPLg2VtHdOCk1upU6a5h"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "project_4",
+      "url": "https://open.spotify.com/track/0uD3w2779MOsOqjQbTd4yT"
+    },
+    {
+      "album": {
         "name": "Raining Over Fire",
         "url": "https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB"
       },
@@ -5072,7 +5090,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 189061,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU"

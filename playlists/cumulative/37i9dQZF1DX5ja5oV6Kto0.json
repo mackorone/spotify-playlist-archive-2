@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 157714,
       "name": "Company",
       "url": "https://open.spotify.com/track/26ulnyg8SfgTtstCdGmArl"
@@ -5574,7 +5574,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 157241,
       "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
       "url": "https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb"
@@ -5614,6 +5614,24 @@
       "duration_ms": 202758,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb"
+    },
+    {
+      "album": {
+        "name": "Don't Go Far",
+        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
+      },
+      "artists": [
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
     },
     {
       "album": {
@@ -12469,6 +12487,24 @@
     },
     {
       "album": {
+        "name": "moccasins",
+        "url": "https://open.spotify.com/album/4wO69tZeMudvacH8NTwlrP"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "moccasins",
+      "url": "https://open.spotify.com/track/5a14LjwlzD0DD86WkjkYI4"
+    },
+    {
+      "album": {
         "name": "Modern Fantasy",
         "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
       },
@@ -13172,6 +13208,24 @@
       "duration_ms": 244000,
       "name": "Nasa",
       "url": "https://open.spotify.com/track/5gcL42OzbwTHmP3aaDAo9v"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161289,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
     },
     {
       "album": {
@@ -19198,7 +19252,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 128494,
       "name": "Supreme Dee",
       "url": "https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P"

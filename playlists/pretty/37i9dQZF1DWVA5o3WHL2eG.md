@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,935 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,113 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Samowar](https://open.spotify.com/track/0xoQSP1xVyu2DeSCCOWO8L) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Samowar](https://open.spotify.com/album/72Ehw8aD5ZX4h2oKXYuq4A) | 2:53 |
 | 33 | [Politschlampe](https://open.spotify.com/track/05PosjtIvZysYhJEahkp8X) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [SLAYBAE](https://open.spotify.com/album/08e6NGFmeuJKSqH3iMvunX) | 1:03 |
 | 34 | [LECK](https://open.spotify.com/track/0TYWngaLKfKyBHXSh7nzex) | [pixxi](https://open.spotify.com/artist/3Y9fcdMTvsOkdgLXxxwjsE) | [LECK](https://open.spotify.com/album/6Kz0fj2HdevGcNsDyjdtBQ) | 2:41 |
-| 35 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
-| 36 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [SOMEBODY WHO LOVES](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |
-| 37 | [Magical Female Rage](https://open.spotify.com/track/0Egy1eNOg0VdAPfIkDuXri) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0ONATOQHPwMWxvw3iqPhkv) | 3:39 |
-| 38 | [Also lass' ich es los](https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Also lass' ich es los](https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP) | 2:31 |
-| 39 | [Femi\(ni\)cide](https://open.spotify.com/track/70vKUWKhTH8l4rKyIN6kPA) | [LIN](https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV), [Lena Stoehrfaktor](https://open.spotify.com/artist/7o0E4NxdCtMa1dsAUOg9CL) | [Femi\(ni\)cide](https://open.spotify.com/album/5FWZXDqvAQWzqIFY2xdQEc) | 2:11 |
-| 40 | [Puta Madre](https://open.spotify.com/track/6WaZdIWUE5L44Bk8p6ZdsF) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [Puta Madre](https://open.spotify.com/album/1dIlVK2tTazG8gK6yggPSe) | 2:00 |
+| 35 | [Also lass' ich es los](https://open.spotify.com/track/7yfJjlAecJklc45OdRRooX) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Also lass' ich es los](https://open.spotify.com/album/66a6oOPUQdalx7DCaIepxP) | 2:31 |
+| 36 | [Puta Madre](https://open.spotify.com/track/6WaZdIWUE5L44Bk8p6ZdsF) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [Puta Madre](https://open.spotify.com/album/1dIlVK2tTazG8gK6yggPSe) | 2:00 |
+| 37 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
+| 38 | [Magical Female Rage](https://open.spotify.com/track/0Egy1eNOg0VdAPfIkDuXri) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0ONATOQHPwMWxvw3iqPhkv) | 3:39 |
+| 39 | [ONE HEART](https://open.spotify.com/track/7ueB0Csn8Q9mKJKuswkwAT) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [SOMEBODY WHO LOVES](https://open.spotify.com/album/66KDMCKygtWX9Rk7M7p91N) | 2:50 |
+| 40 | [Femi\(ni\)cide](https://open.spotify.com/track/70vKUWKhTH8l4rKyIN6kPA) | [LIN](https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV), [Lena Stoehrfaktor](https://open.spotify.com/artist/7o0E4NxdCtMa1dsAUOg9CL) | [Femi\(ni\)cide](https://open.spotify.com/album/5FWZXDqvAQWzqIFY2xdQEc) | 2:11 |
 | 41 | [Mensch](https://open.spotify.com/track/4xfW7ZUtKWyWYhfJ8Dz8BF) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [ICH BIN VIELE](https://open.spotify.com/album/0h0tVfoidcnRzBxY6IWl1Z) | 2:52 |
 | 42 | [Heartbroken](https://open.spotify.com/track/0WCWtP6EOpc9vjlJ6TCUq3) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Heartbroken](https://open.spotify.com/album/1b4mHMMPEM3oUgb3c0CcZJ) | 5:12 |
-| 43 | [Method Acting](https://open.spotify.com/track/1F73bZ8wBCuLrk4B9liqHr) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Method Acting](https://open.spotify.com/album/6V2lajZzq40Ch2JBr2f2x2) | 3:13 |
-| 44 | [Was in der Welt](https://open.spotify.com/track/7dQA57kfO11YkHe2AGU0Q7) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Was in der Welt](https://open.spotify.com/album/0UNWXfSyHKKkPTJMvVzriX) | 2:36 |
+| 43 | [Was in der Welt](https://open.spotify.com/track/7dQA57kfO11YkHe2AGU0Q7) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Was in der Welt](https://open.spotify.com/album/0UNWXfSyHKKkPTJMvVzriX) | 2:36 |
+| 44 | [Method Acting](https://open.spotify.com/track/1F73bZ8wBCuLrk4B9liqHr) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Method Acting](https://open.spotify.com/album/6V2lajZzq40Ch2JBr2f2x2) | 3:13 |
 | 45 | [runaway](https://open.spotify.com/track/69wW6EfIBvGukl09GyQAoe) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [runaway](https://open.spotify.com/album/7nRRXXbWWUysqjNWWv9bFM) | 3:06 |
 | 46 | [Gehaltsvorstellung](https://open.spotify.com/track/1lan0SYHEbg2ravcltq9zs) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Gehaltsvorstellung](https://open.spotify.com/album/5uxYiyVezVSwTuQBFJu33L) | 2:26 |
 | 47 | [Sandcastles](https://open.spotify.com/track/3MA57OW9he0nct4IEFZmNT) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Aisle 5 / Sandcastles](https://open.spotify.com/album/5bDKvcGb6660veclIzG3aO) | 3:21 |

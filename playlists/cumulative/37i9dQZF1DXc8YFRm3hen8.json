@@ -436,7 +436,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 201241,
       "name": "Algunos Deslices",
       "url": "https://open.spotify.com/track/7crvyCiCS7K0RTFxVjXnSI"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 230919,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/44RYW95jREvGqOeq7XxJ1j"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 286035,
       "name": "Bicho de Ciudad - Spotify Sessions",
       "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 230124,
       "name": "Cada Tanto",
       "url": "https://open.spotify.com/track/41mlpn5kYGVatkMR9m4al6"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 172971,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/2kv0MUq9wNLPABYp33P7Uf"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 264340,
       "name": "Descansar",
       "url": "https://open.spotify.com/track/2hljYNWDu9nsXKJTRQ2xCq"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 248681,
       "name": "El Fuego que es mi Casa",
       "url": "https://open.spotify.com/track/7tv6opdWPW8BOeaypmw0Lw"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 226360,
       "name": "En m\u00ed",
       "url": "https://open.spotify.com/track/7nE6zApRgCNaNl22OYIQOZ"
@@ -2798,6 +2798,24 @@
       "duration_ms": 227367,
       "name": "Euforia y Furia",
       "url": "https://open.spotify.com/track/5lt3j3lvo6YEsxgJh9ceNv"
+    },
+    {
+      "album": {
+        "name": "Excusa",
+        "url": "https://open.spotify.com/album/3XvY5etZVkqTQHV3Ha4tEH"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261493,
+      "name": "Excusa",
+      "url": "https://open.spotify.com/track/2SFHPqjgKmlVMcNTBRvIIU"
     },
     {
       "album": {
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 198976,
       "name": "Guerrero",
       "url": "https://open.spotify.com/track/3ChYPpfRYezxGMAIEGuJ0o"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 170130,
       "name": "Gustavo Costas",
       "url": "https://open.spotify.com/track/3xpBP3ObViZA85yYYXjccI"
@@ -4122,7 +4140,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 240195,
       "name": "Las Ganas",
       "url": "https://open.spotify.com/track/4k2pYwAEf6iwHE4LIuL1t2"
@@ -4524,7 +4542,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
@@ -5258,7 +5276,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 311210,
       "name": "Montserrat",
       "url": "https://open.spotify.com/track/4fbFFVQfSUPAKtT2bpGZOy"
@@ -6014,7 +6032,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 232197,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/4iyzfXpgx4vCEU40sVUMvm"
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -6402,6 +6420,42 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/55sbDjtpxbSQwC7kpfqEho"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267361,
+      "name": "P\u00e1ramo",
+      "url": "https://open.spotify.com/track/4weH787j8LRxnSfCC9HGgB"
+    },
+    {
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/6TUA2LqxT8HJwkHHJfCxL8"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "QUE LA NOCHE DIGA",
+      "url": "https://open.spotify.com/track/1Jkeky2E2jUz3xjwmDVySz"
     },
     {
       "album": {
@@ -6688,7 +6742,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 237636,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P"
@@ -6728,7 +6782,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 224000,
       "name": "Seguiran",
       "url": "https://open.spotify.com/track/4Md1pw0055pp0mmSBfTeuB"
@@ -6996,7 +7050,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 177386,
       "name": "Suenan Alarmas",
       "url": "https://open.spotify.com/track/5Gl9TRphsimqFZEwFt0KBK"
@@ -7104,7 +7158,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 243104,
       "name": "S\u00f3lo por Hoy (Chica Oriental)",
       "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
@@ -7734,7 +7788,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -7778,7 +7832,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
@@ -8140,7 +8194,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 222424,
       "name": "Una Palabra",
       "url": "https://open.spotify.com/track/2RxycdRveRxXn2eWXcZuao"
@@ -8194,7 +8248,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 243570,
       "name": "Una Vida M\u00e1s",
       "url": "https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y"
@@ -8472,7 +8526,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

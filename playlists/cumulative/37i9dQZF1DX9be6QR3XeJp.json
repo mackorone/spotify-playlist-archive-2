@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: IZCO",
+  "description": "Discover your new favourite artists from UK&IE. Cover: 1-800 GIRLS",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -5224,6 +5224,28 @@
       "duration_ms": 165977,
       "name": "Something Stupid",
       "url": "https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/0OEgA2fZ3xgJS7IZBzS2Rf"
+      },
+      "artists": [
+        {
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223898,
+      "name": "sometimes",
+      "url": "https://open.spotify.com/track/4akb3UnPEbDpUBc8JdQ5ED"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "De b\u00e4sta indiel\u00e5tarna - klassiker som Dansa Fast\u00e4n, Shoreline och Helgen v. 48! ",
-  "num_followers": 74467,
+  "num_followers": 74470,
   "original_name": "Indieklassiker",
   "owner": {
     "name": "Spotify",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
-        "url": "https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55"
+        "name": "Music Machine",
+        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Melody Club",
+          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
         }
       ],
-      "duration_ms": 163053,
-      "name": "This Charming Man - Single Version; 2008 Remaster",
-      "url": "https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ"
+      "duration_ms": 238826,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Music Machine",
-        "url": "https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW"
+        "name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
+        "url": "https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55"
       },
       "artists": [
         {
-          "name": "Melody Club",
-          "url": "https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/2AvS4Rk5G6jPAhZwytyF20"
+      "duration_ms": 163053,
+      "name": "This Charming Man - Single Version; 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Fulkultur",
-        "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
-      "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Welcome To The Infant Freebase",
         "url": "https://open.spotify.com/album/7npU5LTKfPl4bRpNIuKzYa"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 210643,
       "name": "One Of Us Is Gonna Die Young",
       "url": "https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Fulkultur",
+        "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
+      "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
     }
   ],
   "unique_name": "Indieklassiker",

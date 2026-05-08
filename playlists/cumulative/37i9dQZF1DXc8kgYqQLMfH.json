@@ -5041,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "desert lake",
+        "url": "https://open.spotify.com/album/3OAgQupxAFu4mj82cmUUWe"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138483,
+      "name": "desert lake",
+      "url": "https://open.spotify.com/track/2CNhdFBEzpNIDqkjBew6kN"
+    },
+    {
+      "album": {
         "name": "Dew",
         "url": "https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4"
       },
@@ -15028,7 +15046,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 90352,
       "name": "New Hope",
       "url": "https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH"

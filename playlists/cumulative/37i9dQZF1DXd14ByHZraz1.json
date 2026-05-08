@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Nexus 002",
+        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
+      },
+      "artists": [
+        {
+          "name": "Knorst",
+          "url": "https://open.spotify.com/artist/72VmJeabwbXWiHrJzZ5Htg"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5pLFOpNdud49iK0GHLgFbE"
+    },
+    {
+      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw"
       },
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 232530,
       "name": "Hear Yourself",
       "url": "https://open.spotify.com/track/1Ly28zPxxStDqwxtN9zBwF"
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 182812,
       "name": "Love Will Find A Way (feat. House Of EL)",
       "url": "https://open.spotify.com/track/6q7KKrYjnABZILCeWTcAZ7"
@@ -5586,10 +5604,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 283278,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9"
+    },
+    {
+      "album": {
+        "name": "Solution",
+        "url": "https://open.spotify.com/album/2i0FUUGIVB57bQHrLG0Tut"
+      },
+      "artists": [
+        {
+          "name": "Barja",
+          "url": "https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189937,
+      "name": "Solution",
+      "url": "https://open.spotify.com/track/2YgRCkLRsdW2HbWw8qjB9H"
     },
     {
       "album": {

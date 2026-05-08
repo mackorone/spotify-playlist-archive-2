@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 40488,
+  "num_followers": 40515,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-04-24 13:14:46",
       "album": {
-        "name": "Naina De Buhe",
-        "url": "https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp"
-      },
-      "artists": [
-        {
-          "name": "Lakhwinder Wadali",
-          "url": "https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO"
-        }
-      ],
-      "duration_ms": 360542,
-      "name": "Churi",
-      "url": "https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz"
-    },
-    {
-      "added_at": "2026-04-24 13:14:46",
-      "album": {
         "name": "Kadi Aa Mil Sanwal",
         "url": "https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 248476,
       "name": "Kadi Aa Mil Sanwal",
       "url": "https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8"
+    },
+    {
+      "added_at": "2026-04-24 13:14:46",
+      "album": {
+        "name": "Naina De Buhe",
+        "url": "https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp"
+      },
+      "artists": [
+        {
+          "name": "Lakhwinder Wadali",
+          "url": "https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO"
+        }
+      ],
+      "duration_ms": 360542,
+      "name": "Churi",
+      "url": "https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz"
     },
     {
       "added_at": "2026-04-24 13:14:46",
@@ -379,22 +379,26 @@
     {
       "added_at": "2026-04-24 13:14:46",
       "album": {
-        "name": "Nit Khair Manga",
-        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
+        "name": "Mahiya Tere Vekan Nu",
+        "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
       },
       "artists": [
         {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+          "name": "Aakash G",
+          "url": "https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh"
         },
         {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0"
+        },
+        {
+          "name": "Sharry Shayar",
+          "url": "https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8"
         }
       ],
-      "duration_ms": 141600,
-      "name": "Nit Khair Manga",
-      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
+      "duration_ms": 221379,
+      "name": "Mahiya Tere Vekan Nu",
+      "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
     },
     {
       "added_at": "2026-04-24 13:14:46",
@@ -419,26 +423,22 @@
     {
       "added_at": "2026-04-24 13:14:46",
       "album": {
-        "name": "Mahiya Tere Vekan Nu",
-        "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
+        "name": "Nit Khair Manga",
+        "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
       },
       "artists": [
         {
-          "name": "Aakash G",
-          "url": "https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh"
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
         },
         {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0"
-        },
-        {
-          "name": "Sharry Shayar",
-          "url": "https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8"
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
         }
       ],
-      "duration_ms": 221379,
-      "name": "Mahiya Tere Vekan Nu",
-      "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
+      "duration_ms": 141600,
+      "name": "Nit Khair Manga",
+      "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
     },
     {
       "added_at": "2026-04-24 13:14:46",

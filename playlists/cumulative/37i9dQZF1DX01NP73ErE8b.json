@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Juli in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Serena Brancale, Levante e Delia in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 181426,
       "name": "5 di mattina",
       "url": "https://open.spotify.com/track/7KLafkE8w3Cr7HABON23Xy"
@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Ci vuole una laurea (from the Netflix Series \"Due Spicci\")",
+        "url": "https://open.spotify.com/album/0sGw2Y1TsO1d9iKtiQubbr"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152896,
+      "name": "Ci vuole una laurea (from the Netflix Series \"Due Spicci\")",
+      "url": "https://open.spotify.com/track/5YgC3tOmBBW82vB9bB7Jrk"
+    },
+    {
+      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw"
       },
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193386,
       "name": "Foto mosse",
       "url": "https://open.spotify.com/track/5RcXnnGbvoYmIW3KWAjehp"
@@ -3948,7 +3966,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176933,
       "name": "GIGANTI",
       "url": "https://open.spotify.com/track/0YRP6PEHlruh4UQhPYpZ2a"
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 155689,
       "name": "Mwasi Chou",
       "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
@@ -7567,6 +7585,28 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "PARLAR D\u2019AMORE (feat. Bresh)",
+      "url": "https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe"
+    },
+    {
+      "album": {
         "name": "Passatempo",
         "url": "https://open.spotify.com/album/6FUB5S4WUZAMEVpWD6xCdx"
       },
@@ -8143,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "Porno",
+        "url": "https://open.spotify.com/album/15Xdm1y2AA1gqxD2I4SqFP"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168501,
+      "name": "Porno",
+      "url": "https://open.spotify.com/track/3jAwQ3Ww30wwFdKvFXKvVg"
+    },
+    {
+      "album": {
         "name": "POSTI VUOTI",
         "url": "https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC"
       },
@@ -8230,7 +8288,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 200337,
       "name": "Prima o poi",
       "url": "https://open.spotify.com/track/675zgd9XBl6yBThILj9tQn"
@@ -9059,6 +9117,28 @@
     },
     {
       "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/0piXGpmV6Xx0Vm542TsG0Q"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        },
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/1vwiqgddmKWo3Fqkk1UVqn"
+    },
+    {
+      "album": {
         "name": "DINASTIA",
         "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
       },
@@ -9787,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "SOTTO SOTTO",
+        "url": "https://open.spotify.com/album/2LO0HmFLFdEakEAJMOa0hU"
+      },
+      "artists": [
+        {
+          "name": "AIELLO",
+          "url": "https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159704,
+      "name": "SOTTO SOTTO",
+      "url": "https://open.spotify.com/track/4Ae2GTlWYGzY7Xa4dvDDCy"
+    },
+    {
+      "album": {
         "name": "Sottocosto",
         "url": "https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM"
       },
@@ -10212,6 +10310,24 @@
       "duration_ms": 157066,
       "name": "Sudamerica",
       "url": "https://open.spotify.com/track/7pVk9Mov9OxPyIWp4fOOSB"
+    },
+    {
+      "album": {
+        "name": "Summer Funk",
+        "url": "https://open.spotify.com/album/7d4nbbMioCm6I09NtWU1Oq"
+      },
+      "artists": [
+        {
+          "name": "Francesco Gabbani",
+          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166967,
+      "name": "Summer Funk",
+      "url": "https://open.spotify.com/track/4OG2jxShgHmEHSwjSuxZjY"
     },
     {
       "album": {
@@ -10762,7 +10878,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 192352,
       "name": "Tutto Tempesta",
       "url": "https://open.spotify.com/track/0qB1D1xjTid1xyfmpvG2RA"

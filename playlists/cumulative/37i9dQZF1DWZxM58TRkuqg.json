@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Lyodra",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Ariel NOAH",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -620,6 +620,24 @@
       "duration_ms": 211845,
       "name": "Analisaku",
       "url": "https://open.spotify.com/track/3FuBLEQPIQrsIwQtHS971T"
+    },
+    {
+      "album": {
+        "name": "Ancika (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198618,
+      "name": "Ancika - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9"
     },
     {
       "album": {
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 262700,
       "name": "Cinta Kita",
       "url": "https://open.spotify.com/track/65nZbfJLykiRVfuh2RHsii"
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 300583,
       "name": "Gemilang",
       "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
@@ -3756,6 +3774,24 @@
       "duration_ms": 168957,
       "name": "Harus Bahagia",
       "url": "https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel"
+    },
+    {
+      "album": {
+        "name": "Hatchu!!",
+        "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204343,
+      "name": "Hatchu!!",
+      "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
     },
     {
       "album": {
@@ -4980,7 +5016,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 202666,
       "name": "Kau",
       "url": "https://open.spotify.com/track/0jFovC9t5QSMURqjV5sDHk"
@@ -5234,6 +5270,24 @@
       "duration_ms": 296800,
       "name": "Keras Kepala",
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
+    },
+    {
+      "album": {
+        "name": "Ketakutanku",
+        "url": "https://open.spotify.com/album/5y5zVK225kZcgPS4oYZrEx"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280472,
+      "name": "Ketakutanku",
+      "url": "https://open.spotify.com/track/4rNwZggd4PzzqvhIIgUfxV"
     },
     {
       "album": {
@@ -5852,6 +5906,24 @@
       "duration_ms": 256695,
       "name": "Laki-Laki Bukan Pengecut",
       "url": "https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp"
+    },
+    {
+      "album": {
+        "name": "Lama Tak Bermalam Minggu",
+        "url": "https://open.spotify.com/album/6pyeBXxRVlFHukNTtTmrkI"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Lama Tak Bermalam Minggu",
+      "url": "https://open.spotify.com/track/5EyLkB6SSiKPgDHZJE2MW3"
     },
     {
       "album": {
@@ -7254,7 +7326,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 175514,
       "name": "Merindu Lagi",
       "url": "https://open.spotify.com/track/49cQR3bjxEndbqK2qARYds"
@@ -8654,7 +8726,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 213973,
       "name": "Rutinitas",
       "url": "https://open.spotify.com/track/18g9AKRtXqa2D4sMpjsfc9"
@@ -9151,6 +9223,24 @@
     },
     {
       "album": {
+        "name": "Sederhana",
+        "url": "https://open.spotify.com/album/62Rt09IpnlZPyqkpQaXQTa"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245184,
+      "name": "Sederhana",
+      "url": "https://open.spotify.com/track/03s6vDyVEunObMIbnd5Naj"
+    },
+    {
+      "album": {
         "name": "Sedia Aku Sebelum Hujan",
         "url": "https://open.spotify.com/album/3GikdpvnrtkUtfPbwzm9sy"
       },
@@ -9202,6 +9292,32 @@
       "duration_ms": 220758,
       "name": "Sekarang Esok Selamanya - From \"Laura Movie\"",
       "url": "https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p"
+    },
+    {
+      "album": {
+        "name": "seketika",
+        "url": "https://open.spotify.com/album/2A7jRtmtLimeOUVAKRlaog"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        },
+        {
+          "name": "RnBoyz*",
+          "url": "https://open.spotify.com/artist/2bM5A9TJgQx73gk2f7dNbK"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170361,
+      "name": "seketika",
+      "url": "https://open.spotify.com/track/432AvgkVqNjwXiN5xjuOuu"
     },
     {
       "album": {
@@ -9508,7 +9624,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 277155,
       "name": "Sembuh Kembali",
       "url": "https://open.spotify.com/track/4Y73IsEuBaGYJIS08iwBbB"
@@ -11744,7 +11860,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 249591,
       "name": "Teruntuk Dirimu",
       "url": "https://open.spotify.com/track/7bI01b0ysHcQOeMZ3u6cl4"
@@ -11944,6 +12060,24 @@
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "album": {
+        "name": "Love, Kris Dayanti",
+        "url": "https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi"
+      },
+      "artists": [
+        {
+          "name": "Kris Dayanti",
+          "url": "https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 149924,
+  "num_followers": 149948,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Northern Soul Story Vol.1: The Twisted Wheel",
-        "url": "https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d"
-      },
-      "artists": [
-        {
-          "name": "Shirley Ellis",
-          "url": "https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Soul Time - Single Version",
-      "url": "https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Occasional Rain",
         "url": "https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 253413,
       "name": "Ordinary Joe",
       "url": "https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Northern Soul Story Vol.1: The Twisted Wheel",
+        "url": "https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d"
+      },
+      "artists": [
+        {
+          "name": "Shirley Ellis",
+          "url": "https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Soul Time - Single Version",
+      "url": "https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Nolan",
-        "url": "https://open.spotify.com/album/1Bi02TLjn4ONPqXTM6r9eu"
-      },
-      "artists": [
-        {
-          "name": "Nolan Porter",
-          "url": "https://open.spotify.com/artist/7H2X4y4sB4EnP593GbQi66"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Keep On Keepin' On",
-      "url": "https://open.spotify.com/track/5mhcCfNBmbTTMNZcq1hIbP"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "For Northern Soul Collectors: Volume 1",
         "url": "https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173600,
       "name": "Better Use Your Head",
       "url": "https://open.spotify.com/track/1XGHVTHZ5JwPSIkyA4naB3"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Nolan",
+        "url": "https://open.spotify.com/album/1Bi02TLjn4ONPqXTM6r9eu"
+      },
+      "artists": [
+        {
+          "name": "Nolan Porter",
+          "url": "https://open.spotify.com/artist/7H2X4y4sB4EnP593GbQi66"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Keep On Keepin' On",
+      "url": "https://open.spotify.com/track/5mhcCfNBmbTTMNZcq1hIbP"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Northern Soul Scene",
-        "url": "https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk"
-      },
-      "artists": [
-        {
-          "name": "The Flirtations",
-          "url": "https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Nothing But A Heartache",
-      "url": "https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Hits Of Edwin Starr",
         "url": "https://open.spotify.com/album/0nMlRmiHrtFGSPnACFZaWX"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 168040,
       "name": "Back Street",
       "url": "https://open.spotify.com/track/3RkJsA0JxopALjE3Nkfrm7"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Northern Soul Scene",
+        "url": "https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk"
+      },
+      "artists": [
+        {
+          "name": "The Flirtations",
+          "url": "https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Nothing But A Heartache",
+      "url": "https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1104,13 +1104,13 @@
       },
       "artists": [
         {
-          "name": "Cliff Nobles",
-          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
+          "name": "Bobby Sheen",
+          "url": "https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv"
         }
       ],
-      "duration_ms": 171933,
-      "name": "My Love Is Getting Stronger",
-      "url": "https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0"
+      "duration_ms": 153640,
+      "name": "Something New to Do",
+      "url": "https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1120,13 +1120,13 @@
       },
       "artists": [
         {
-          "name": "Bobby Sheen",
-          "url": "https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv"
+          "name": "Cliff Nobles",
+          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
         }
       ],
-      "duration_ms": 153640,
-      "name": "Something New to Do",
-      "url": "https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV"
+      "duration_ms": 171933,
+      "name": "My Love Is Getting Stronger",
+      "url": "https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Stars Of Northern Soul Volume 1",
-        "url": "https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY"
-      },
-      "artists": [
-        {
-          "name": "The Carstairs",
-          "url": "https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "It Really Hurts Me Girl",
-      "url": "https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Stars Of Northern Soul Volume 3",
         "url": "https://open.spotify.com/album/3RkPb0R6HpKjIPuMm8tVuk"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 174573,
       "name": "Just Say You're Wanted And Needed",
       "url": "https://open.spotify.com/track/6lYPe6tQFzIZ3P5TeOpiet"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Stars Of Northern Soul Volume 1",
+        "url": "https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY"
+      },
+      "artists": [
+        {
+          "name": "The Carstairs",
+          "url": "https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "It Really Hurts Me Girl",
+      "url": "https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Constellation of Chicago Soul",
-        "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
-      },
-      "artists": [
-        {
-          "name": "Nolan Chance",
-          "url": "https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Just Like the Weather",
-      "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Hits Of '65",
         "url": "https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "I Need You Girl / Lonely for You Baby",
-        "url": "https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a"
+        "name": "Constellation of Chicago Soul",
+        "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
       },
       "artists": [
         {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+          "name": "Nolan Chance",
+          "url": "https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Lonely for You Baby",
-      "url": "https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki"
+      "duration_ms": 155666,
+      "name": "Just Like the Weather",
+      "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1463,6 +1447,22 @@
       "duration_ms": 152400,
       "name": "Ain't That Terrible",
       "url": "https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "I Need You Girl / Lonely for You Baby",
+        "url": "https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a"
+      },
+      "artists": [
+        {
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Lonely for You Baby",
+      "url": "https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Northern Soul: Keep the Faith!",
-        "url": "https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ"
+        "name": "Uptown, Down South",
+        "url": "https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu"
       },
       "artists": [
         {
-          "name": "The Artistics",
-          "url": "https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x"
+          "name": "Percy Wiggins",
+          "url": "https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC"
         }
       ],
-      "duration_ms": 149413,
-      "name": "This Heart of Mine",
-      "url": "https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs"
+      "duration_ms": 135933,
+      "name": "That's Loving You",
+      "url": "https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz"
     }
   ],
   "unique_name": "Northern Soul Classics",

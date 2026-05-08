@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94022,
+  "num_followers": 94032,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afkzAAAAAAAr1zTq/lLVgRuk1HJHYYcR",
+  "snapshot_id": "afqEgAAAAACnChI8CzLpUWqcZgWw4Ki0",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+        "name": "Later Als Ik Groter Ben",
+        "url": "https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Dichterbij Dan Ooit",
-      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
+      "duration_ms": 204429,
+      "name": "Later Als Ik Groter Ben",
+      "url": "https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Later Als Ik Groter Ben",
-        "url": "https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze"
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 204429,
-      "name": "Later Als Ik Groter Ben",
-      "url": "https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I"
+      "duration_ms": 261133,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
     },
     {
       "added_at": null,

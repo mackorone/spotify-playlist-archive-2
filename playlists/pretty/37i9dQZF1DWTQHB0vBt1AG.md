@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 
 > <a href="spotify:artist:4nhvb6x9ZhPiYCzrHDNia9">Daphni</a>'s track IDs\. Updated regularly\. Curated by Daphni\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,547 likes - 101 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,554 likes - 101 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 65 | [Business](https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8), [cu.rve](https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32) | [Business](https://open.spotify.com/album/27AIBRCAd2OxJLnuVGpLTY) | 4:51 |
 | 66 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
 | 67 | [Sun](https://open.spotify.com/track/67FSEHZd590QxmIpxOJtJR) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Yugen](https://open.spotify.com/album/7ADyOhvKow2ybwrJIY9gLu) | 6:36 |
-| 68 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 68 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 69 | [500 Tool](https://open.spotify.com/track/2sMkenwtkXI0ihV84WKNQP) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Untitled 1000 / 500 Tool](https://open.spotify.com/album/5CW8jY8Vz2ukaTYKpuiViX) | 3:48 |
 | 70 | [Indicnation](https://open.spotify.com/track/0Nd433yTaOQcuYxE16290v) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [French Touch Mixtape 002](https://open.spotify.com/album/4ciBijVg4t41PtFJbT1NCi) | 3:42 |
 | 71 | [Flutter](https://open.spotify.com/track/1Rd8xJI4jmFsYWQCBBwsJk) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anti](https://open.spotify.com/album/6psJo1Od7KB7SjrFEqSlfx) | 9:59 |

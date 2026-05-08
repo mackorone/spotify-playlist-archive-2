@@ -3633,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Je Ki Orun Si",
+        "url": "https://open.spotify.com/album/2aQrwxhOyCzgXn6OnjsQO1"
+      },
+      "artists": [
+        {
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445609,
+      "name": "Je Ki Orun Si",
+      "url": "https://open.spotify.com/track/4rWoXTrNnYJV46WKCDjYcU"
+    },
+    {
+      "album": {
         "name": "JEHOVAH (Live)",
         "url": "https://open.spotify.com/album/0sZru6q0svg8q0Zp3YwGQL"
       },
@@ -5588,7 +5606,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 544864,
       "name": "Orun Si",
       "url": "https://open.spotify.com/track/3FF3zeBKsLZzpNT6hnF0xc"
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 504001,
       "name": "Unto The Lord",
       "url": "https://open.spotify.com/track/2Gzy8qkrlxYl95ZBKd73ux"
@@ -6996,6 +7014,24 @@
       "duration_ms": 613651,
       "name": "Worship Medley 17",
       "url": "https://open.spotify.com/track/0LgqZyxBACXN0XtexHrDGp"
+    },
+    {
+      "album": {
+        "name": "Worship My King",
+        "url": "https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300193,
+      "name": "Worship My King",
+      "url": "https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R"
     },
     {
       "album": {

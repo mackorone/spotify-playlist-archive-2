@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 88 songs - 5 hr 2 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 89 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 86 | [Only Good Things Will Come](https://open.spotify.com/track/263iWFX37tqJlEdhiANAZ6) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Only Good Things Will Come](https://open.spotify.com/album/1H3UTxWPBuzpZfuXew7rOB) | 3:06 |
 | 87 | [PRETTY GIRL DONT CRY \- Haunted Version](https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [PRETTY GIRL DONT CRY \(Haunted Version\)](https://open.spotify.com/album/5hGSXhqlqNrBsDHHODFkip) | 3:55 |
 | 88 | [fade away](https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fade away](https://open.spotify.com/album/0zETxreVMiB64USyET4cZI) | 2:31 |
+| 89 | [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 |
 
-Snapshot ID: `AAAOvMJmN36fK5RAkCO1GO6IXpMg8pFo`
+Snapshot ID: `AAAOvSS7Uwu2QIt0g/vI+ztk214pbxNp`

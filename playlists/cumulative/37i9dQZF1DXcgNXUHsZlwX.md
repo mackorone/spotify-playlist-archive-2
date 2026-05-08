@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-584 songs - 1 day 10 hr 48 min
+585 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 | 2024-04-08 |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2021-01-15 | 2022-07-29 |
 | [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 | 2023-12-01 | 2024-06-01 |
-| [Make Believe](https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc), [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Make Believe](https://open.spotify.com/album/0avJv1JOKAQRSrd4WVXhiN) | 3:57 | 2026-03-13 |  |
+| [Make Believe](https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc), [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Make Believe](https://open.spotify.com/album/0avJv1JOKAQRSrd4WVXhiN) | 3:57 | 2026-03-13 | 2026-05-08 |
 | [Maker Taker](https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Strange Medicine](https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D) | 3:39 | 2024-05-17 | 2024-09-02 |
 | [Mardi de pluie](https://open.spotify.com/track/60EuBCizMRhgud2wplAFCT) | [Véronique Bilodeau](https://open.spotify.com/artist/37VHbBeOGoDDc1MbHPiDPM) | [Mardi de pluie](https://open.spotify.com/album/1eYjA8gbd6h2CsMnYNPNwc) | 3:53 | 2021-01-03\* | 2021-10-08 |
 | [Marie](https://open.spotify.com/track/0qQiPk5BT3jBwucog23UXX) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6) | [Les voix levées](https://open.spotify.com/album/0Yv8nEEStD392nKBLYPt36) | 3:21 | 2021-01-03\* | 2021-10-22 |
@@ -462,6 +462,7 @@
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
+| [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 |  |
 | [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 |  |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-02-25 |  |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Madame e Marra sulla cover della playlist più grande in Italia 🔥
+> Juli e Olly sulla cover della playlist più grande in Italia 🔥
 
 325 songs - 16 hr 57 min
 

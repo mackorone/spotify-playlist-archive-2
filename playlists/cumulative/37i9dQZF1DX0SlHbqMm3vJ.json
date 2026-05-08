@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  Shoday and Olamide ",
+  "description": "Sweet afro melodies. Cover:  Falana",
   "name": "Ginja",
   "tracks": [
     {
@@ -4903,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Don't Go Far",
+        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
+      },
+      "artists": [
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
+    },
+    {
+      "album": {
         "name": "Don't II",
         "url": "https://open.spotify.com/album/3YobN3WLwUnCXy8djztp5n"
       },
@@ -6010,6 +6028,24 @@
       "duration_ms": 165599,
       "name": "Fine Lady",
       "url": "https://open.spotify.com/track/6xA693QFS4Zbsm7pw87JZU"
+    },
+    {
+      "album": {
+        "name": "Fine Shiii",
+        "url": "https://open.spotify.com/album/29HBh5SZ1OFlINEUILcnDG"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148871,
+      "name": "Fine Shiii",
+      "url": "https://open.spotify.com/track/5SwcI97gcKSlQtmwKtI855"
     },
     {
       "album": {
@@ -16480,7 +16516,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 117362,
       "name": "Stick to the Plan",
       "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"

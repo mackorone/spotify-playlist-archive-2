@@ -1,15 +1,95 @@
 {
   "description": "The hottest Japanese anime song playlist curated by  <a href=\"https://www.lisani.jp/\">LisAni\uff01</a> \u30a2\u30cb\u30e1\u97f3\u697d\u30e1\u30c7\u30a3\u30a2\u300c<a href=\"https://www.lisani.jp/\">\u30ea\u30b9\u30a2\u30cb\uff01</a>\u300d\u304c\u8d08\u308b\u6700\u5f37\u306e\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3059\u3002\u65b0\u65e7\u306e\u540d\u66f2\u3092\u968f\u6642\u66f4\u65b0\uff01",
-  "num_followers": 15434,
+  "num_followers": 15436,
   "original_name": "\u30ea\u30b9\u30a2\u30cb\uff01\u6700\u5f37\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAORFc1p8G4GpHogKolRUWVDP8o1T",
+  "snapshot_id": "AAAAACjn3giz6zvYh1TM55zCzBEPJj9X",
   "tracks": [
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
+      "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "duration_ms": 3006176,
+      "name": "#100\uff1a\u3042\u308a\u304c\u3068\u3046100\u56de\uff01\u30cf\u30f3\u30d6\u30ec\u30c3\u30c0\u30fc\u30ba\u30fb\u6728\u5cf6\u3055\u3093\u53c2\u6226SP\uff0f\u201cCENTRAL 2026\u201d\u3068\u6238\u677e\u9065\u697d\u66f2\u3092\u8a9e\u308a\u660e\u304b\u305d\u3046\uff01",
+      "url": "https://open.spotify.com/episode/3xD6agmETjqJiG8OMB6q7M"
+    },
+    {
+      "added_at": "2026-05-07 06:39:58",
+      "album": {
+        "name": "Girls, Be Ambitious.",
+        "url": "https://open.spotify.com/album/7LY9pbiY64bTVJcUdoGgnv"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Girls, Be Ambitious.",
+      "url": "https://open.spotify.com/track/0myAwfqF5xL1MwG1WqGpPd"
+    },
+    {
+      "added_at": "2026-05-07 06:39:58",
+      "album": {
+        "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb\uff01",
+        "url": "https://open.spotify.com/album/0lKCnbet3hT6b8SqubNisP"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "duration_ms": 291173,
+      "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb\uff01",
+      "url": "https://open.spotify.com/track/527y4BcUGW70G9ErnX3cai"
+    },
+    {
+      "added_at": "2026-05-07 06:39:58",
+      "album": {
+        "name": "motto\u2606\u6d3e\u624b\u306b\u306d\uff01",
+        "url": "https://open.spotify.com/album/5cFnpb7RusOqjGPq2Dpdfj"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "motto\u2606\u6d3e\u624b\u306b\u306d\uff01",
+      "url": "https://open.spotify.com/track/5vw2dCB9ziJM0FxyEuPTyH"
+    },
+    {
+      "added_at": "2026-05-07 06:39:58",
+      "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "duration_ms": 2408918,
+      "name": "#99 \u201cDIALOGUE\uff0bFesta!!\u201d\u3092\u89b3\u306b\u884c\u3053\u3046\uff01\uff0f30\u5468\u5e74\u300e\u30a8\u30f4\u30a1\u300f\u65b0\u305f\u306a\u5e0c\u671b\uff0f\u300e\u30d0\u30a4\u30aa\u300f\u65b0\u4f5c\u306b\u5411\u304d\u5408\u3046\u7537\u305f\u30612026",
+      "url": "https://open.spotify.com/episode/4Lb3u87YrWHUTPi6q7u9m0"
+    },
+    {
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "PENTA+LOGUE",
         "url": "https://open.spotify.com/album/3JXFy918H0bJ3Akn3n8uEV"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/6ZMQHoZDvoXJ6G65m2MAXO"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/1BVFx6weGwbnVnkxb58CqJ"
@@ -41,7 +121,7 @@
       "url": "https://open.spotify.com/track/4aOr8B9uP0Kd80sfImbyD9"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "Wonderful World",
         "url": "https://open.spotify.com/album/5uGZvtxyyTIg99H7NOwRsM"
@@ -57,7 +137,7 @@
       "url": "https://open.spotify.com/track/0HRiRWRKWq5HweyzMUR2p4"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "One Last Kiss",
         "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
@@ -73,7 +153,7 @@
       "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
         "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
@@ -89,7 +169,7 @@
       "url": "https://open.spotify.com/episode/1rnHOXbN64USqC7w2L8ljz"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "The Ballad",
         "url": "https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW"
@@ -105,7 +185,7 @@
       "url": "https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "AIZO",
         "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
@@ -121,7 +201,7 @@
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "LOVE LOVE \u30d3\u30fc\u30e0",
         "url": "https://open.spotify.com/album/6iW4LhygBNblngELB6cTif"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/0Xw0Hagyj65wco61j8tVKK"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
         "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
@@ -169,7 +249,7 @@
       "url": "https://open.spotify.com/episode/2FuIkMlYZ4lebobk4DmF8U"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
         "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
@@ -185,7 +265,7 @@
       "url": "https://open.spotify.com/episode/1b9NX09rcflhZmfjmzqoFy"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u304a\u3069\u308b\u30dd\u30f3\u30dd\u30b3\u30ea\u30f3",
         "url": "https://open.spotify.com/album/4rlhpR801c5YsQTaJeJnDH"
@@ -201,7 +281,7 @@
       "url": "https://open.spotify.com/track/4TLPjY3Gf0xcfF8ZtgrQ42"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
         "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
@@ -217,7 +297,7 @@
       "url": "https://open.spotify.com/track/58uGcS3QBgttRCX8FG0ZBN"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "Apiacere",
         "url": "https://open.spotify.com/album/0SmPHcLtOFL7cwPwu07sQr"
@@ -233,7 +313,7 @@
       "url": "https://open.spotify.com/track/6v92TWCVNDylw7mgARlQdF"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u597d\u304d\u3063\u3010\u901a\u5e38\u76e4\u3011",
         "url": "https://open.spotify.com/album/22t0TUodMnLhr2Gl1ZWwJw"
@@ -249,7 +329,7 @@
       "url": "https://open.spotify.com/track/2vGCDyLB7Ymcv60TLFh6CE"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
         "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
@@ -265,7 +345,7 @@
       "url": "https://open.spotify.com/episode/2HtJKso8XLxSGPB9JsJZ6d"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/5uczSYRbdHoSvsFvkX63xC"
@@ -281,7 +361,7 @@
       "url": "https://open.spotify.com/track/3cdGD7oHNQXWxkQ0fOP9oi"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u8a70\u5408",
         "url": "https://open.spotify.com/album/4xD4gTiVsfF7rXyzDW9U5G"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/1SQ0z3rAndqnUjImZxFaB4"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u304b\u3082\u3081\u304c\u7fd4\u3093\u3060\u65e5",
         "url": "https://open.spotify.com/album/45UNjgq5pGLhXFEzYDZDgH"
@@ -313,7 +393,7 @@
       "url": "https://open.spotify.com/track/5tqtKAtIbp4cGueVXmqiFn"
     },
     {
-      "added_at": "2026-04-17 07:51:24",
+      "added_at": "2026-05-07 06:39:58",
       "album": {
         "name": "\u30a4\u30de\u30b3\u30b3\u30cb\u30a2\u30eb\u30e2\u30ce",
         "url": "https://open.spotify.com/album/2EVkdRdHNqS5r2WLaE8MU2"

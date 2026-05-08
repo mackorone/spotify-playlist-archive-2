@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,173 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,169 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 18 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 |
 | 19 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
 | 20 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
-| 21 | [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 |
-| 22 | [With You Around](https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [With You Around](https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6) | 3:53 |
+| 21 | [With You Around](https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [With You Around](https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6) | 3:53 |
+| 22 | [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 |
 | 23 | [SITUATION CHEAP](https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [SITUATION CHEAP](https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm) | 2:45 |
 | 24 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
 | 25 | [ciel azur](https://open.spotify.com/track/2mRq38Iw2Wtf5gJyu8Y8bB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:21 |

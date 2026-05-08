@@ -60,6 +60,28 @@
     {
       "album": {
         "name": "Extra-lucide",
+        "url": "https://open.spotify.com/album/2IN5gBblLNcRM8EBApEsC3"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Autumn Rowe",
+          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Best Day",
+      "url": "https://open.spotify.com/track/6601LCqzAh0RzD2tTxETVe"
+    },
+    {
+      "album": {
+        "name": "Extra-lucide",
         "url": "https://open.spotify.com/album/1FZzmpp4D4mDVqnm6ffwkP"
       },
       "artists": [
@@ -74,7 +96,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 217573,
       "name": "Best Day",
       "url": "https://open.spotify.com/track/6wzIKvMIsOYStLxDsPlwAB"

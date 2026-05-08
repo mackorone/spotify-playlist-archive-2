@@ -1949,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "The Road Less Travelled",
+        "url": "https://open.spotify.com/album/4hKhTfDR48nGOzM7uNSeTQ"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294794,
+      "name": "The Road Less Travelled",
+      "url": "https://open.spotify.com/track/343vOMd6pDa254603WoQlV"
+    },
+    {
+      "album": {
         "name": "It all works out in the \u2630nd",
         "url": "https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Da Guedes
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,899 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,932 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 2 | [Oitavo Anjo](https://open.spotify.com/track/73ZFqSslPNdKZBRmGcGzKW) | [509\-E](https://open.spotify.com/artist/66F3yLuWFXacPEAmJNfRBi) | [Provérbios 13](https://open.spotify.com/album/4tWDp6fP9O3wNfko1UCaQo) | 5:28 |
 | 3 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
 | 4 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
-| 5 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 |
+| 5 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 |
 | 6 | [Ritmo e Poesia](https://open.spotify.com/track/5GHsxasJ4nHqiww6OrAXnZ) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Felipe Mayfield](https://open.spotify.com/artist/6WDEvdYwQU99ZiuiSnCW2W) | [Ritmo e Poesia](https://open.spotify.com/album/01S1Q6CShCwZ75DSsqWLLo) | 2:42 |
 | 7 | [O 5° Vigia](https://open.spotify.com/track/3ZhYU1cx9sSF8pO0pNZVb7) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/7eoDHbH4OqDqRGZFBjgOzf) | 6:17 |
 | 8 | [A Procura da Batida Perfeita](https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:04 |

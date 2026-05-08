@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Sirai
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,037 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,199 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 69 | [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Madhurakavi](https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 |
 | 70 | [Vaseegara](https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA) | 4:59 |
 | 71 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |
-| 72 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 |
-| 73 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan,Shweta Mohan](https://open.spotify.com/artist/1yQC7cateD70CQUJtZjvYO) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 |
-| 74 | [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 |
-| 75 | [Kannadi Poovukku](https://open.spotify.com/track/3TjkNpxBaS9RFvDU7laCwx) | [Santhosh Dhayanidhi,Haricharan,Jonita Gandhi](https://open.spotify.com/artist/4W4nOERGvilGJAjUZ4b4oW) | [Enakku Vaaitha Adimaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0pA5FezDG5lSjYWZAhl9u8) | 3:59 |
+| 72 | [Kannadi Poovukku](https://open.spotify.com/track/3TjkNpxBaS9RFvDU7laCwx) | [Santhosh Dhayanidhi,Haricharan,Jonita Gandhi](https://open.spotify.com/artist/4W4nOERGvilGJAjUZ4b4oW) | [Enakku Vaaitha Adimaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0pA5FezDG5lSjYWZAhl9u8) | 3:59 |
+| 73 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 |
+| 74 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan,Shweta Mohan](https://open.spotify.com/artist/1yQC7cateD70CQUJtZjvYO) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 |
+| 75 | [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 |
 
 Snapshot ID: `AAAAAMAtNtlrwghM07wikJ1nmA6ZE4wK`

@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-138 songs - 7 hr 22 min
+139 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 | 2023-01-03 |  |
 | [Contatinho \- Ao Vivo](https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Contatinho \(Ao Vivo\)](https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA) | 2:53 | 2023-01-03 |  |
 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 | 2023-01-03 |  |
-| [De Garrafa A Pior \- Ao Vivo](https://open.spotify.com/track/359Cwd8UJFsF8qM9zJjaCz) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 2:42 | 2023-11-17 |  |
+| [De Garrafa A Pior \- Ao Vivo](https://open.spotify.com/track/359Cwd8UJFsF8qM9zJjaCz) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 2:42 | 2023-11-17 | 2026-05-08 |
 | [Deixa A Vida Me Levar](https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Naturalmente](https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv) | 4:35 | 2023-11-17 |  |
 | [Deixa Acontecer](https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [100% Grupo Revelação](https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a) | 4:06 | 2023-01-03 |  |
 | [Domingo \- Ao Vivo](https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [O Baile do Nego Véio Ao Vivo Em Jurerê Internacional](https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi) | 2:56 | 2023-01-03 |  |
@@ -83,6 +83,7 @@
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 | 2023-01-03 | 2024-04-19 |
 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 | 2023-11-17 |  |
 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST) | 3:57 | 2023-01-03 | 2024-04-19 |
+| [Mentira](https://open.spotify.com/track/4VaZWcDObOtnn03myZ9mug) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Clube Do Araújo \(Vol\. 1\)](https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG) | 3:10 | 2024-07-09 |  |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT) | 2:37 | 2023-01-03 | 2024-04-19 |
 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 | 2023-01-03 |  |
 | [Nem de Graça / Saudade Arregaça \- Ao Vivo](https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Fã de Carteirinha Sunset, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0) | 5:42 | 2023-01-03 |  |

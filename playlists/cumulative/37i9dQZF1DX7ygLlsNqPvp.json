@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/38RWv7wX8L4CJknwCh2hj1"
+      },
+      "artists": [
+        {
+          "name": "Ngb Muni",
+          "url": "https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm"
+        },
+        {
+          "name": "A1 Hunna",
+          "url": "https://open.spotify.com/artist/6I8Dp0MnGILIEfBjrl9YvM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130032,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/2yC0x7PvGRy3AoQKETNgPN"
+    },
+    {
+      "album": {
         "name": "Blessed Sinner",
         "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
       },
@@ -1396,6 +1418,32 @@
       "duration_ms": 137195,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/1N9V5eZs5Y0ncpMSLBaeRF"
+    },
+    {
+      "album": {
+        "name": "Chacha",
+        "url": "https://open.spotify.com/album/3SmU8UmXMaKwHzOTM6TvSE"
+      },
+      "artists": [
+        {
+          "name": "Kwasi Editing",
+          "url": "https://open.spotify.com/artist/2h0wQ412IA62Eio5d1edWd"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234161,
+      "name": "Chacha",
+      "url": "https://open.spotify.com/track/3DV7TWewqGjRLQEQhie59M"
     },
     {
       "album": {

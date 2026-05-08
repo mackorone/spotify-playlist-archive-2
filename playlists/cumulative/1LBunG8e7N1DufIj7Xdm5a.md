@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,356 songs - 9 day 16 hr 24 min
+4,361 songs - 9 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [8 0 8 P a n d e m i c](https://open.spotify.com/track/5cbtTgNaapQJ3IvcRQNXnZ) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [8 0 8 P a n d e m i c](https://open.spotify.com/album/3sOqrikVfOhvz7f6yj9rob) | 2:29 | 2025-06-04 |  |
 | [8\-Bit Revolution](https://open.spotify.com/track/5IRktoZtJa0h9nimyTh6IC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:34 | 2025-09-12 |  |
 | [90s NextGen](https://open.spotify.com/track/6bRMEPuJfWsUZu1l7uFsa9) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [90s NextGen](https://open.spotify.com/album/1BTljmZ8il1iSP09Bc12fS) | 2:54 | 2026-01-31 |  |
+| [97 divination](https://open.spotify.com/track/45UUtOAOlhtv2ppFdqbUB0) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [97 divination](https://open.spotify.com/album/5JCanI1khARepqVogj9fCs) | 3:22 | 2026-05-07 |  |
 | [A Better Man](https://open.spotify.com/track/5wD0Tc8q44vq9SLGdxreXs) | [Matt Bonner](https://open.spotify.com/artist/4OQjSM7zvX2kueXgDXegLW) | [A Better Man](https://open.spotify.com/album/0QKa8fAcbh82xIAUuGRyOi) | 2:28 | 2025-06-02 |  |
 | [A Busca de Algo a Mais](https://open.spotify.com/track/08fZJLV5xANFzOmvGhMQ7I) | [Akayama João](https://open.spotify.com/artist/3ElN1hJYpFJ3hPwu5tVLDZ) | [A Busca de Algo a Mais](https://open.spotify.com/album/5qq5YF8d5GG8IazQ208rrh) | 3:01 | 2025-05-25 |  |
 | [A Cold Freezin' Night](https://open.spotify.com/track/2mpFugcHYSOPZSVdTu5OUw) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [The Way Out](https://open.spotify.com/album/3Ht9pevRimaOYARTDXXWcr) | 3:22 | 2025-12-04 |  |
@@ -138,6 +139,7 @@
 | [Alkarab](https://open.spotify.com/track/3utdGhBgQSjuCQEdq0Jzyx) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Alkarab](https://open.spotify.com/album/2j3X8PrU7sAbyTt0ipINWY) | 2:18 | 2025-06-04 |  |
 | [All Alone](https://open.spotify.com/track/08VrMBKUlXoFiWVhLBIp9P) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [With You \(Days In Nines\)](https://open.spotify.com/album/0mT6aPu2ePb3lvjrqQM1Xz) | 4:13 | 2025-03-03 |  |
 | [All Decided](https://open.spotify.com/track/1PvSR2fZ3IauBPKv9wFMTA) | [Numa Echos](https://open.spotify.com/artist/5HdQQk1Z3skIUhYq2FVplC) | [Descending Consciousness](https://open.spotify.com/album/5kKT3SzmZTqwWaj8sfKwk8) | 3:39 | 2025-06-07 |  |
+| [All For You \- Radio Edit](https://open.spotify.com/track/6qBRb8iTUDsGTG4sKjsXCb) | [Wizherd](https://open.spotify.com/artist/15jWXXO0ak2h8ghq57jsBu) | [All For You \(Radio Edit\)](https://open.spotify.com/album/2fzjIqftxuaTQFvD4mU4aI) | 1:54 | 2026-05-07 |  |
 | [All God](https://open.spotify.com/track/790YXvX3nCv6fuTfkaIIRj) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh) | [All God](https://open.spotify.com/album/7bDeyyssWLh1XlBv6pWgqB) | 2:53 | 2025-06-05 |  |
 | [All i need is your name](https://open.spotify.com/track/357vwQNNXqHjAEDWI1wCgh) | [The Overness](https://open.spotify.com/artist/3ZxyewCU8OzMKn0dDrhsbx) | [All i need is your name](https://open.spotify.com/album/6YyeEPC9d8vLNUAq4nK7Ou) | 4:14 | 2025-03-09 |  |
 | [All I Want](https://open.spotify.com/track/6UYGWLSmirEvBXrt4RLOAa) | [Sol Roth](https://open.spotify.com/artist/2hFn4Llkv4AkG2qF90Rgvt) | [Burning Bright](https://open.spotify.com/album/7sxukTG8RklM4CGBZ6ZL8u) | 3:09 | 2025-05-28 |  |
@@ -456,6 +458,7 @@
 | [Broken Crown \(another\)](https://open.spotify.com/track/1YHdHfrPI6et9pocOGvFIm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 3:22 | 2025-09-13 |  |
 | [Broken Glass in the Rain](https://open.spotify.com/track/4I70OJjOI72b4Ycy3gs7Iw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sentimental rock](https://open.spotify.com/album/10MwxoHl3Ol00lsw6NrdDi) | 3:48 | 2025-09-13 |  |
 | [Broken Glass in the Rain \(another\)](https://open.spotify.com/track/0KlHufizYsWWiogpkswGcA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sentimental rock](https://open.spotify.com/album/10MwxoHl3Ol00lsw6NrdDi) | 3:30 | 2025-09-13 |  |
+| [Broken Halo](https://open.spotify.com/track/07m65vDnp9nyg0M3svezos) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Broken Halo](https://open.spotify.com/album/3rA4nFGj402ZObYu82odH3) | 3:13 | 2026-05-07 |  |
 | [Broken Heart Playlist](https://open.spotify.com/track/1BVB21wvZEHgXnI6hgcz0v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:31 | 2025-09-19 |  |
 | [Broken Lips](https://open.spotify.com/track/2ymVcjKCYd5FXKVBy0CosO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 3:09 | 2025-09-20 |  |
 | [Broken Paradise \#Music \#NewMusic \#Viral](https://open.spotify.com/track/70J9t7rwOTQI9obMQeC2P7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:14 | 2025-09-15 |  |
@@ -1623,6 +1626,7 @@
 | [Goodbye](https://open.spotify.com/track/4ciqI4T6L5fyi2CmmT2JnS) | [Alice Elzira](https://open.spotify.com/artist/2UMZWBBmQ6wxLSDVXCM6HK) | [Goodbye](https://open.spotify.com/album/1zkbYSANz5os3fqAUnRvth) | 3:16 | 2025-05-16 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-12-10 |  |
 | [Goood on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 | 2025-05-27 |  |
+| [Gothic Ackward](https://open.spotify.com/track/6iVOcEDNlwqgaQXpXY4O96) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Gothic Ackward](https://open.spotify.com/album/6qk9E24NtMnPd1E3PBgoov) | 2:56 | 2026-05-07 |  |
 | [Gotta Go Baby](https://open.spotify.com/track/0j7WLlQUzoawGRjs5m8YR7) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Gotta Go Baby](https://open.spotify.com/album/5FXw6cJb5jTvI2zReZMTFB) | 3:32 | 2025-06-04 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2025-05-09 |  |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-12-04 |  |
@@ -2811,6 +2815,7 @@
 | [Out of Time](https://open.spotify.com/track/6lNfCJse7oqn0naz2p4Mtv) | [Tanjiro](https://open.spotify.com/artist/0awEVSjFMMYUNDvmakeDId) | [Out of Time](https://open.spotify.com/album/0eEVRbaYam92woQeOPgJE5) | 2:18 | 2025-06-23 |  |
 | [Outcast](https://open.spotify.com/track/1biv377kXl3TcHMdJp92T9) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:04 | 2025-04-09 |  |
 | [Outlaw](https://open.spotify.com/track/44ayOGCqIdP9EWNL7PjZfH) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Outlaw](https://open.spotify.com/album/4yMJnFB0BcGCrdPBsKlQ4L) | 3:23 | 2025-01-27 |  |
+| [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-05-07 |  |
 | [OUTSIDE INSIDE](https://open.spotify.com/track/2rezhgCrZIjXalg8hRl6PS) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [OUTSIDE INSIDE](https://open.spotify.com/album/3qP9IXW5Il0PEraTKQ3ksZ) | 3:38 | 2025-05-31 |  |
 | [Overdrive](https://open.spotify.com/track/2Tn8LRCMlEMA3VWzMKn07v) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 2:48 | 2025-09-26 |  |
 | [Overflowing with Joy](https://open.spotify.com/track/5DcNKSzVspTK6quIdB2eb6) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Zazen Meditation](https://open.spotify.com/album/6wu0bKtuotQ0bV8N3Y1ieR) | 4:27 | 2025-06-04 |  |

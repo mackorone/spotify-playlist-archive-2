@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 653,
+  "num_followers": 655,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADaC2aEzR3fB8cZlO/ZDEQ7p10tjUC",
+  "snapshot_id": "AAADaq988LHFQf9MMNKVrmmJycNaWYsM",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1775,6 +1775,38 @@
       "duration_ms": 190185,
       "name": "Wash",
       "url": "https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz"
+    },
+    {
+      "added_at": "2026-05-07 16:07:57",
+      "album": {
+        "name": "Dying to be Seen",
+        "url": "https://open.spotify.com/album/4FInOUd4Yfp79yvIvDvERG"
+      },
+      "artists": [
+        {
+          "name": "ANCR TO PAST",
+          "url": "https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Dying to be Seen",
+      "url": "https://open.spotify.com/track/4PCb7XTmOpoh4Gxda9tuvN"
+    },
+    {
+      "added_at": "2026-05-07 16:25:41",
+      "album": {
+        "name": "The Squeeze",
+        "url": "https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ"
+      },
+      "artists": [
+        {
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "The Squeeze",
+      "url": "https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

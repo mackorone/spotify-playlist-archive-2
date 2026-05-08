@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,805 likes - 237 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,821 likes - 237 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 7 | [Meet Me Upstairs](https://open.spotify.com/track/33X9g95VFcLtGa6oyBQwdU) | [Will Bates](https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN) | [Rosemead \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5mJT9J5PHWCRBROat8x8O5) | 1:40 |
 | 8 | [Man on Fire – Main Titles \(from the Netflix Series\)](https://open.spotify.com/track/6uyQjnbX9aHFrT36qzWwwl) | [Max Aruj](https://open.spotify.com/artist/7HXs8gSW7QhamzsxMqwU3j) | [Man on Fire – Main Titles \(from the Netflix Series\)](https://open.spotify.com/album/3QC8G5Tbx0owhpacz8uyHH) | 1:09 |
 | 9 | [Mortal Kombat](https://open.spotify.com/track/43ax0mx64pVunOLHQldEL2) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Mortal Kombat II \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VNDFAiHuQSrylACl8IBRw) | 4:42 |
-| 10 | [Firstborn](https://open.spotify.com/track/0mNzsWCPtIxUDLL7tdf13R) | [Ted Reedy](https://open.spotify.com/artist/5YP9SigHg8VaM8EZ5xyXUi), [Diablo](https://open.spotify.com/artist/1fhuuNHBmQFhBizWLlzGJ8), [Blizzard Entertainment](https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59) | [Diablo IV: Lord of Hatred Original Soundtrack](https://open.spotify.com/album/6OLXEVN6KSOllsVNF95Ejy) | 4:11 |
+| 10 | [Firstborn](https://open.spotify.com/track/0mNzsWCPtIxUDLL7tdf13R) | [Ted Reedy](https://open.spotify.com/artist/5YP9SigHg8VaM8EZ5xyXUi), [Ryan Amon](https://open.spotify.com/artist/4m8YgyH0msUxsVx1QfCcMz), [Diablo](https://open.spotify.com/artist/1fhuuNHBmQFhBizWLlzGJ8), [Blizzard Entertainment](https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59) | [Diablo IV: Lord of Hatred Original Soundtrack](https://open.spotify.com/album/6OLXEVN6KSOllsVNF95Ejy) | 4:11 |
 | 11 | [The Stone Room](https://open.spotify.com/track/1H9VDT6atVQFzXMY7k2l0T) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Widow's Bay \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/46BSzoOHKyg7R4c7TjqCo9) | 1:35 |
 | 12 | [Aphelion](https://open.spotify.com/track/3f1dlqULP7lPsrLB04q1Ek) | [Amine Bouhafa](https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l) | [Aphelion \(Original Game Soundtrack\)](https://open.spotify.com/album/6gUHcjFXsRKs9CPPfVbVZd) | 1:41 |
 | 13 | [Run For Your Death](https://open.spotify.com/track/0DoyDOJVWQGF9I2mCgZxMC) | [BLARF](https://open.spotify.com/artist/3ytJrgQ3L8M1atEYZ8vFdP) | [Film Scores for Films That Don’t Exist](https://open.spotify.com/album/7zkrjgsvATa97fmoWbJgoQ) | 2:22 |

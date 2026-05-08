@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Aerial Love - EP",
+        "url": "https://open.spotify.com/album/0iaeHGOjhOFF8b1oESwHIB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johns",
+          "url": "https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185417,
+      "name": "Late Night Drive",
+      "url": "https://open.spotify.com/track/049qupjx7ZcU17cs3DFuOY"
+    },
+    {
+      "album": {
         "name": "Aerial Love",
         "url": "https://open.spotify.com/album/3D2NCHaFWyCnQy6eNwErtt"
       },

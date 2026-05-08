@@ -732,24 +732,6 @@
     {
       "album": {
         "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
-      "duration_ms": 129919,
-      "name": "Fireworks at Dawn",
-      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
-    },
-    {
-      "album": {
-        "name": "Life Is Not a Waiting Room",
         "url": "https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF"
       },
       "artists": [
@@ -764,6 +746,24 @@
       "duration_ms": 129919,
       "name": "Fireworks at Dawn",
       "url": "https://open.spotify.com/track/5AGAEzjCUGEw6zBwqRJMBf"
+    },
+    {
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129920,
+      "name": "Fireworks at Dawn",
+      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
     },
     {
       "album": {
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 222093,
       "name": "Yellow Angels",
       "url": "https://open.spotify.com/track/5xVZcdfTnCfCY2Xvsh05hS"

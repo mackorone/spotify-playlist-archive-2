@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Landrick",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Anna Joyce",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 218229,
       "name": "Ado\u00e7are",
       "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
@@ -1992,6 +1992,24 @@
       "duration_ms": 256026,
       "name": "Cara Trancada",
       "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
+    },
+    {
+      "album": {
+        "name": "Carta De Despejo",
+        "url": "https://open.spotify.com/album/48il9SDcT48up45p76yGzD"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Carta De Despejo",
+      "url": "https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G"
     },
     {
       "album": {
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 207500,
       "name": "Elavoko",
       "url": "https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR"
@@ -6590,7 +6608,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 174342,
       "name": "Marilia Mendon\u00e7a",
       "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
@@ -11406,7 +11424,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 202440,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/05KZgiwURthPhvRKlEvnif"
@@ -13110,12 +13128,12 @@
           "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
         },
         {
-          "name": "DODDY",
-          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
-        },
-        {
           "name": "Landrick",
           "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "DODDY",
+          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
         }
       ],
       "date_added": "2025-06-16",
@@ -13558,6 +13576,28 @@
       "duration_ms": 164389,
       "name": "Xee Mayee",
       "url": "https://open.spotify.com/track/4bzeJyylqnU7nrwuguc2lG"
+    },
+    {
+      "album": {
+        "name": "X\u00ea Dama",
+        "url": "https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160943,
+      "name": "X\u00ea Dama",
+      "url": "https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us"
     },
     {
       "album": {

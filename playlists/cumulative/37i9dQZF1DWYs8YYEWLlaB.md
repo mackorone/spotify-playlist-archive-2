@@ -2,7 +2,7 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: ASLAR x Lessio x Astral x AKDO
+> viral, trend ve yükselenler\.  Kapak: Ayla Çelik
 
 274 songs - 13 hr 59 min
 

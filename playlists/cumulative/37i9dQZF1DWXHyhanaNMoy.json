@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Trobi, Kaya Imani & Emms",
+  "description": "Motion & good vibes! Cover: Josylvio & Yung Felix",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 153230,
       "name": "Baddie Alarm",
       "url": "https://open.spotify.com/track/4YmzS79oDi6sHlnx2FBTMQ"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 123647,
       "name": "Basshall Party",
       "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 143299,
       "name": "Bella",
       "url": "https://open.spotify.com/track/06dSzmXW7o2j2ik8sg8fsE"
@@ -7779,6 +7779,32 @@
     },
     {
       "album": {
+        "name": "COMPENSEREN",
+        "url": "https://open.spotify.com/album/6h22E4YV0xTe85WuuRyqtK"
+      },
+      "artists": [
+        {
+          "name": "Yung Papitos",
+          "url": "https://open.spotify.com/artist/6dhoaoXwevhtauSmhDNkyX"
+        },
+        {
+          "name": "MC Lost",
+          "url": "https://open.spotify.com/artist/3Tw31Sa6vnZHiyo4P39eQ5"
+        },
+        {
+          "name": "MC MC",
+          "url": "https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144883,
+      "name": "COMPENSEREN",
+      "url": "https://open.spotify.com/track/067UXIre5PCP9vPtnrEZ4B"
+    },
+    {
+      "album": {
         "name": "Completa",
         "url": "https://open.spotify.com/album/6R296oxm7z26FnyDRYJ3qm"
       },
@@ -9014,7 +9040,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 139381,
       "name": "Demure",
       "url": "https://open.spotify.com/track/6hg28GGtCiFQvmuqJ5scMw"
@@ -14294,10 +14320,36 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 160000,
       "name": "Hans Kazan",
       "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
+    },
+    {
+      "album": {
+        "name": "Hanz Kazan",
+        "url": "https://open.spotify.com/album/0y6RO57aYva65mN3l6E3aZ"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Hans Kazan - Remix",
+      "url": "https://open.spotify.com/track/2hcKodQRgx1vN924gJz3Rf"
     },
     {
       "album": {
@@ -16983,6 +17035,24 @@
     },
     {
       "album": {
+        "name": "Jij bent bad",
+        "url": "https://open.spotify.com/album/5ngdNSQB9evJh7UoiV1hhT"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134602,
+      "name": "Jij bent bad",
+      "url": "https://open.spotify.com/track/4QfXN0VEFQ8h4yy8bRqZ7W"
+    },
+    {
+      "album": {
         "name": "Jij Bent Het",
         "url": "https://open.spotify.com/album/3fa5PRokqVLjVg98LAJASp"
       },
@@ -17702,7 +17772,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 167469,
       "name": "Kitty",
       "url": "https://open.spotify.com/track/7k9bDoou9oZZhXAbfVSLag"
@@ -26349,6 +26419,24 @@
     },
     {
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/6jGq63LDI8yGWqAy0knygJ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220546,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/7sezSNKkQvBhO4OegNAYcs"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
       },
@@ -31357,6 +31445,24 @@
     },
     {
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
+    },
+    {
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu"
       },
@@ -32118,6 +32224,28 @@
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
+    },
+    {
+      "album": {
+        "name": "Tajine",
+        "url": "https://open.spotify.com/album/1ijLqpiQS2umGzVYAHMC0q"
+      },
+      "artists": [
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        },
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185675,
+      "name": "Tajine",
+      "url": "https://open.spotify.com/track/0l6jdn1FFKPLVVhOhPpGBi"
     },
     {
       "album": {
@@ -33609,6 +33737,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
+    },
+    {
+      "album": {
         "name": "Love Stories",
         "url": "https://open.spotify.com/album/00wQC7GhtjQjSMuPQWEJsw"
       },
@@ -33672,6 +33822,24 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
+    },
+    {
+      "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
       "album": {
@@ -34378,7 +34546,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193500,
       "name": "UIT SU",
       "url": "https://open.spotify.com/track/4MB9TV5UuAoz6ZNVzDWZkS"
@@ -37022,7 +37190,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 163055,
       "name": "WORSHIP",
       "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"

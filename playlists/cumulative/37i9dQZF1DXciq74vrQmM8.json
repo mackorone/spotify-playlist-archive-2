@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. show me the body",
+  "description": "welcome to our universe ft. scene queen",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 176326,
       "name": "2000s Pop Punk Rnb",
       "url": "https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 183965,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 166666,
       "name": "BAD COMPANY",
       "url": "https://open.spotify.com/track/3STX7vqrhBOpkV2VV5KcCB"
@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 179413,
       "name": "Call Me Mommy",
       "url": "https://open.spotify.com/track/6xQEEMsk1ZwnZ0XhBEWFy7"
@@ -5747,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "dirtyman",
+        "url": "https://open.spotify.com/album/7CYMAK45vJEyzJBE61VmCT"
+      },
+      "artists": [
+        {
+          "name": "Frozemode",
+          "url": "https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "dirtyman",
+      "url": "https://open.spotify.com/track/05vJqIVQ8LhOaJXpw65UAY"
+    },
+    {
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/338f5CbDP4xItbaB1KkWu4"
       },
@@ -6228,7 +6246,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 207250,
       "name": "DRUNKEN GOD",
       "url": "https://open.spotify.com/track/1v7Wc0Sa1PDlhkBAV2GB45"
@@ -11440,7 +11458,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 219130,
       "name": "Incline (feat. Nova Twins, Pink Siifu & Yung Skrrt)",
       "url": "https://open.spotify.com/track/6QnlhyJkaLpxEslu7sB5el"
@@ -12966,6 +12984,24 @@
       "duration_ms": 219204,
       "name": "LIFE KEEPS GOING",
       "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
+    },
+    {
+      "album": {
+        "name": "it's just my opinion",
+        "url": "https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193755,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS"
     },
     {
       "album": {
@@ -21547,6 +21583,24 @@
     },
     {
       "album": {
+        "name": "TIME'S UP",
+        "url": "https://open.spotify.com/album/7FkIoKAtH9Vp8jz7MveJWE"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194150,
+      "name": "TIME'S UP",
+      "url": "https://open.spotify.com/track/16bL2CubQ6EBrbtd7zE6Ae"
+    },
+    {
+      "album": {
         "name": "TIMEPIECE",
         "url": "https://open.spotify.com/album/5nptLfPlk5DSp0VU3cuC9y"
       },
@@ -21934,6 +21988,24 @@
       "duration_ms": 142539,
       "name": "Toxins",
       "url": "https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3"
+    },
+    {
+      "album": {
+        "name": "Tracksuit",
+        "url": "https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "Tracksuit",
+      "url": "https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox"
     },
     {
       "album": {
@@ -22434,7 +22506,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 163862,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/7M24m8PIrhFBKaoHiHIGJc"

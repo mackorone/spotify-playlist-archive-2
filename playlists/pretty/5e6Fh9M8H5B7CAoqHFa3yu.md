@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 315 likes - 2,262 songs - 5 day 13 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 316 likes - 2,271 songs - 5 day 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2270,5 +2270,14 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2260 | [Echo](https://open.spotify.com/track/4pG2Pg3ztUzabkNBpVfd71) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Echo](https://open.spotify.com/album/0JUNQkyJV3qpA7oacViTHp) | 2:32 |
 | 2261 | [Tiny Soldiers on a Cheese Cake \- Live from Nowhere](https://open.spotify.com/track/18HT52ua8Cp8kXBARmnTV6) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Tiny Soldiers on a Cheese Cake](https://open.spotify.com/album/4GCk3PEIVm3CnwGJEtL2qa) | 4:11 |
 | 2262 | [Metro Melodies](https://open.spotify.com/track/48hQq8H1xFlzzfJwhjojq7) | [Mister BoO](https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu), [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Metro Melodies](https://open.spotify.com/album/2LBQhg9d5SnhkZ3yf2CKuU) | 2:52 |
+| 2263 | [Post Teens](https://open.spotify.com/track/5tjZ91tbeZIssQRgaHnG3r) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Post Teens](https://open.spotify.com/album/7lqpOdUkBqgjko7FTFOyq3) | 3:56 |
+| 2264 | [Vision Of You ?](https://open.spotify.com/track/295JyLYzzB2mOPQYiApvKo) | [Fire\-D](https://open.spotify.com/artist/5TwylKaUT3tYXZA4R7M3qL) | [Vision Of You ?](https://open.spotify.com/album/32PH0aR6z9rsVk0ReDU4rA) | 1:51 |
+| 2265 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
+| 2266 | [The First Signal](https://open.spotify.com/track/6RKlxRPOgo9TUfQkF96EQL) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [Space Cinematic Soundtracks](https://open.spotify.com/album/1TbP9qZLHWqU8GgYydASuX) | 3:15 |
+| 2267 | [Raindrops On Glass](https://open.spotify.com/track/4hOPSPHkC5NPQ7jXLW6f8u) | [M.r.p Music](https://open.spotify.com/artist/6itJJxvtCCcmUQa1d5vCaS) | [Deep Focus & Dreams](https://open.spotify.com/album/4v8Z0Qow5cXeBaOepuY1aa) | 2:32 |
+| 2268 | [Glowing Apex](https://open.spotify.com/track/6I0GaBQU1taIXKX9Mfioek) | [M.r.p Fitness](https://open.spotify.com/artist/1KGiuMUDCd2rUiW4v9Y47y) | [Echoes Of The Night](https://open.spotify.com/album/12AZsZdAI3Zsc7Xl7z8QlY) | 1:36 |
+| 2269 | [Sunset](https://open.spotify.com/track/7q2tGlNrMRbalI3Mh62LHv) | [iLLUSTRATXR](https://open.spotify.com/artist/6MP5w45VyaoA8JjbpnsN6d) | [Sunset](https://open.spotify.com/album/2IzAqn4qJAOBBumZ68NqQ0) | 2:15 |
+| 2270 | [90 Style Beat](https://open.spotify.com/track/4N1mNsjZUSIKDTvBDIHQk6) | [Kento](https://open.spotify.com/artist/0vjUtQS6oymGeehfZsSaGJ) | [90 Style Beat](https://open.spotify.com/album/1aSliHnaMgwa1UUbYxgcDx) | 3:28 |
+| 2271 | [Easy Peasy](https://open.spotify.com/track/2WXcctKPq3LCwD3elZW5ab) | [Mats Skimmelå](https://open.spotify.com/artist/3ff8WCVNd542FKA32N1yO2) | [Easy Peasy](https://open.spotify.com/album/6ap6PsFZkGU52yC7fUt7Je) | 3:34 |
 
-Snapshot ID: `AAAJf0IkLT0CUzCff25GwhwA113grThH`
+Snapshot ID: `AAAJiHPxxVr/o1yFuYUjEJTFOIvv8Nfz`

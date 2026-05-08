@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katerina",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Kakosaios",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 230256,
       "name": "Hanome",
       "url": "https://open.spotify.com/track/7mLlh7q7iKTPoYTeog0OUc"
@@ -1842,6 +1842,24 @@
       "duration_ms": 223590,
       "name": "Isitirio Ena",
       "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
+    },
+    {
+      "album": {
+        "name": "Kai Eis Anotera",
+        "url": "https://open.spotify.com/album/4gionUX9mlENe6K3e4KOjd"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Kai Eis Anotera",
+      "url": "https://open.spotify.com/track/03Fk1HBXI8zwOqOSqA8n5D"
     },
     {
       "album": {
@@ -2406,6 +2424,24 @@
       "duration_ms": 231480,
       "name": "Matia Mou",
       "url": "https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v"
+    },
+    {
+      "album": {
+        "name": "Mavra Feggaria",
+        "url": "https://open.spotify.com/album/4itX5qMwCqZv3yaOFfYAdJ"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182928,
+      "name": "Mavra Feggaria",
+      "url": "https://open.spotify.com/track/6R1Ovs4Aq1KSFqfo5S8Dwm"
     },
     {
       "album": {
@@ -3358,7 +3394,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 221570,
       "name": "Perastikoi",
       "url": "https://open.spotify.com/track/5lGwvQdPqkISzWf2t1c4HN"
@@ -3568,7 +3604,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 206838,
       "name": "Proteraiotita",
       "url": "https://open.spotify.com/track/1bLeGv7pHEnY1j7Ni7wOTX"
@@ -5136,6 +5172,28 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
+    },
+    {
+      "album": {
+        "name": "Yposinidito",
+        "url": "https://open.spotify.com/album/3FqlcgZA7kGM50wudDwZaW"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227789,
+      "name": "Yposinidito",
+      "url": "https://open.spotify.com/track/39pggFowhEJLR6jEnYzEb1"
     },
     {
       "album": {

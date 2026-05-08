@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Asake
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: kulturr
 
-933 songs - 1 day 21 hr 22 min
+934 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 | 2023-04-06 | 2023-05-26 |
 | [2K225](https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225](https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz) | 2:21 | 2025-09-11 | 2025-10-10 |
 | [2K225 \(feat Didi B, Bolemvn\)](https://open.spotify.com/track/3WKMbWc1UEqtDXaSRc098g) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225 \(feat Didi B, Bolemvn\)](https://open.spotify.com/album/7BfTWRAGcDbQ8FQsngLPbq) | 2:39 | 2025-10-09 | 2026-02-13 |
-| [2LOVE](https://open.spotify.com/track/23ID5AM06gtQXpiSWDFDRU) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [2LOVE](https://open.spotify.com/album/49cxG8i9nLPpeL99vgxu00) | 2:36 | 2025-12-18 |  |
+| [2LOVE](https://open.spotify.com/track/23ID5AM06gtQXpiSWDFDRU) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [2LOVE](https://open.spotify.com/album/49cxG8i9nLPpeL99vgxu00) | 2:36 | 2025-12-18 | 2026-05-08 |
 | [4 Kampé II](https://open.spotify.com/track/5VceXjXeBMGOHC04rjpyC7) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/28EA7dYeDclWlULlTN3sbC) | 3:31 | 2025-03-27 | 2025-04-05 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 | 2025-03-21 |
 | [4H Du Mat \(feat\. Singuila\)](https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [CUXI BOY PART III](https://open.spotify.com/album/14t5IfOMHlcOM2h1gJBZ87) | 2:33 | 2026-01-15 | 2026-02-13 |
@@ -700,6 +700,7 @@
 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-14 | 2023-10-13 |
 | [Pocket](https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pocket](https://open.spotify.com/album/2ler9sKkfETzVwEsUDJohW) | 3:02 | 2023-08-31 | 2023-09-29 |
 | [POE](https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [POE](https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX) | 3:26 | 2024-05-16 | 2024-06-14 |
+| [POR TI](https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [POR TI](https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa) | 1:55 | 2026-05-07 |  |
 | [Posa na bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa na bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 | 2023-07-20 | 2024-05-17 |
 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-02-15 | 2024-09-20 |
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-10-05 | 2022-11-11 |

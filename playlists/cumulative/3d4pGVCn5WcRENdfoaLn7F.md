@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-340 songs - 20 hr 35 min
+342 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-04 | 2025-12-06 |
 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-11 |  |
 | [Drugstore Cowboy](https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI) | [Krooked Tongue](https://open.spotify.com/artist/1KURu1cYKhnrpZ8W1sGynh) | [Drugstore Cowboy](https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw) | 3:41 | 2025-10-31 | 2025-12-06 |
+| [Dying to be Seen](https://open.spotify.com/track/4PCb7XTmOpoh4Gxda9tuvN) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [Dying to be Seen](https://open.spotify.com/album/4FInOUd4Yfp79yvIvDvERG) | 3:57 | 2026-05-07 |  |
 | [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 | 2026-04-15 |  |
 | [Edge of Reality](https://open.spotify.com/track/0P8Jiz2SFpfEwH1dNxT90q) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8), [Norm Stockton](https://open.spotify.com/artist/59P8FStgQ946nzfFSc7aMP) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:53 | 2026-01-28 | 2026-02-19 |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2026-02-20 |  |
@@ -288,6 +289,7 @@
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-06 |
 | [The Reaper](https://open.spotify.com/track/1TqJToCbf4wGMZntm8Siqc) | [Terry Gilbey](https://open.spotify.com/artist/7DUWtV3cMZU3zGHtRIAvB4) | [The Reading](https://open.spotify.com/album/1yfhCqyQjYko9wZcvB6PzO) | 3:51 | 2026-01-31 | 2026-02-19 |
 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 | 2025-12-13 | 2026-01-05 |
+| [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 | 2026-05-07 |  |
 | [The Third Pill](https://open.spotify.com/track/6IDfASgA4RKwMSx6vrA5Fz) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [The Third Pill](https://open.spotify.com/album/03dUhJsfcFP0k03noYf42i) | 3:50 | 2025-11-11 | 2025-12-06 |
 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-08 | 2026-03-27 |
 | [Thief in the Night](https://open.spotify.com/track/5kNpVgzAsiNlzTbjJeAD7n) | [Airdale](https://open.spotify.com/artist/0Ce0wrt8dMmQKvHRsCeOYf), [MAGESTICALIZM](https://open.spotify.com/artist/3fNZeTlZA1jeADwTEd9ORS) | [IRIS](https://open.spotify.com/album/4lx3bZivBk1NjJHwYqZ8aO) | 5:14 | 2026-01-31 | 2026-02-19 |

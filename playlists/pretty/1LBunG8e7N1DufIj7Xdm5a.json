@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIhFcEVBcBYE/FbQNPjtDqOUgQMhk4",
+  "snapshot_id": "AAAIjPXZigtCtiXZY4Ipiu3W4UzoSI8d",
   "tracks": [
+    {
+      "added_at": "2026-05-07 07:57:17",
+      "album": {
+        "name": "97 divination",
+        "url": "https://open.spotify.com/album/5JCanI1khARepqVogj9fCs"
+      },
+      "artists": [
+        {
+          "name": "Love me machine!",
+          "url": "https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "97 divination",
+      "url": "https://open.spotify.com/track/45UUtOAOlhtv2ppFdqbUB0"
+    },
     {
       "added_at": "2026-04-14 21:44:21",
       "album": {
@@ -72115,6 +72131,98 @@
       "duration_ms": 254960,
       "name": "Wanted (Vivo o Morto)",
       "url": "https://open.spotify.com/track/2KujPMCu0Pn17EW13Z97Rp"
+    },
+    {
+      "added_at": "2026-05-07 10:02:45",
+      "album": {
+        "name": "Outlaw Skirt",
+        "url": "https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7"
+      },
+      "artists": [
+        {
+          "name": "The Twinpims",
+          "url": "https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL"
+        }
+      ],
+      "duration_ms": 163606,
+      "name": "Outlaw Skirt",
+      "url": "https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W"
+    },
+    {
+      "added_at": "2026-05-07 15:25:34",
+      "album": {
+        "name": "Gothic Ackward",
+        "url": "https://open.spotify.com/album/6qk9E24NtMnPd1E3PBgoov"
+      },
+      "artists": [
+        {
+          "name": "Digipunk.13",
+          "url": "https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0"
+        },
+        {
+          "name": "Twilight.13",
+          "url": "https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99"
+        }
+      ],
+      "duration_ms": 176959,
+      "name": "Gothic Ackward",
+      "url": "https://open.spotify.com/track/6iVOcEDNlwqgaQXpXY4O96"
+    },
+    {
+      "added_at": "2026-05-07 18:38:51",
+      "album": {
+        "name": "All For You (Radio Edit)",
+        "url": "https://open.spotify.com/album/2fzjIqftxuaTQFvD4mU4aI"
+      },
+      "artists": [
+        {
+          "name": "Wizherd",
+          "url": "https://open.spotify.com/artist/15jWXXO0ak2h8ghq57jsBu"
+        }
+      ],
+      "duration_ms": 114119,
+      "name": "All For You - Radio Edit",
+      "url": "https://open.spotify.com/track/6qBRb8iTUDsGTG4sKjsXCb"
+    },
+    {
+      "added_at": "2026-05-07 18:38:53",
+      "album": {
+        "name": "All For You (Radio Edit)",
+        "url": "https://open.spotify.com/album/2fzjIqftxuaTQFvD4mU4aI"
+      },
+      "artists": [
+        {
+          "name": "Wizherd",
+          "url": "https://open.spotify.com/artist/15jWXXO0ak2h8ghq57jsBu"
+        }
+      ],
+      "duration_ms": 114119,
+      "name": "All For You - Radio Edit",
+      "url": "https://open.spotify.com/track/6qBRb8iTUDsGTG4sKjsXCb"
+    },
+    {
+      "added_at": "2026-05-07 22:34:52",
+      "album": {
+        "name": "Broken Halo",
+        "url": "https://open.spotify.com/album/3rA4nFGj402ZObYu82odH3"
+      },
+      "artists": [
+        {
+          "name": "Digipunk.13",
+          "url": "https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0"
+        },
+        {
+          "name": "Jaxx.13",
+          "url": "https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn"
+        },
+        {
+          "name": "Alex.13",
+          "url": "https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV"
+        }
+      ],
+      "duration_ms": 193159,
+      "name": "Broken Halo",
+      "url": "https://open.spotify.com/track/07m65vDnp9nyg0M3svezos"
     }
   ],
   "unique_name": "playlist spotify free",

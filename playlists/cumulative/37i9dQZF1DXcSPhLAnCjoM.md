@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Comme Caroline" de Zaho et MC Solaar est le Grand Hit de la semaine.
+> "Le petit pêcheur" de Manon Lisa  est le Grand Hit de la semaine.
 
 333 songs - 17 hr 2 min
 

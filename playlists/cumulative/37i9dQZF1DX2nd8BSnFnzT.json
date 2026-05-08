@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Bem Antes do Fim",
+        "url": "https://open.spotify.com/album/3xpBEZeSa5RYdid47ZRstx"
+      },
+      "artists": [
+        {
+          "name": "Camelazul",
+          "url": "https://open.spotify.com/artist/0OpbJESafN7nBjojau8nTh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175491,
+      "name": "Bem Antes do Fim",
+      "url": "https://open.spotify.com/track/0Te74cRk1wl0sectOmG00B"
+    },
+    {
+      "album": {
         "name": "Bem Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH"
       },
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 159051,
       "name": "Circo dos Horrores",
       "url": "https://open.spotify.com/track/2z855f6w15tkhaVpQcqgeM"
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 193429,
       "name": "EU QUERO VIVER",
       "url": "https://open.spotify.com/track/18Vb9R5RB7dQuHwcFQ7EBB"
@@ -7947,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "Resist\u00eancia! Ao Vivo no Circo Voador",
+        "url": "https://open.spotify.com/album/0L8GvoyHXlJEfRf2QCDFZv"
+      },
+      "artists": [
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243597,
+      "name": "Padr\u00e3o \u00e9 o Caralho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Fq2xeWKRR5CVX3f6ldFmH"
+    },
+    {
+      "album": {
         "name": "Paga Pra Ver (\u00c1lbum De Peito Aberto)",
         "url": "https://open.spotify.com/album/5ph3QWd7UkCPj5yQ1SaOtl"
       },
@@ -9015,6 +9051,24 @@
     },
     {
       "album": {
+        "name": "Antes do Fim (Deluxe) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/42aT2UtXhWnN19m93n6Lw9"
+      },
+      "artists": [
+        {
+          "name": "Inocentes",
+          "url": "https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176139,
+      "name": "Quanto Vale a Liberdade - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/45QFkYJECUqnuVG06ZuK2D"
+    },
+    {
+      "album": {
         "name": "Quarto Quieto",
         "url": "https://open.spotify.com/album/3AGC8ewacfxsl5TBLjW0MN"
       },
@@ -9362,7 +9416,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 234413,
       "name": "Rel\u00f3gio",
       "url": "https://open.spotify.com/track/10ehnUrR5Hbuu2LV2TGN4C"

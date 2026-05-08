@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,128 songs - 3 day 1 hr 3 min
+1,130 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 | 2024-02-15 |  |
 | [Backseat](https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0) | [Third Attempt](https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD) | [Backseat](https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G) | 3:42 | 2026-05-02 |  |
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
+| [Ballet](https://open.spotify.com/track/67YvIafRKV8xNzMgfpzi9G) | [insyt.](https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O) | [Dancing by Myself](https://open.spotify.com/album/0hTdNZ4NgCPwE2Yt5cfXVZ) | 0:50 | 2026-05-07 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2023-11-03 |  |
 | [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 | 2024-03-01 | 2024-09-10 |
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2023-08-17 | 2025-01-04 |
@@ -326,7 +327,7 @@
 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-02-07 | 2024-04-05 |
 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 | 2026-01-01 |  |
-| [Fierce Resource Allocation](https://open.spotify.com/track/7iTYbcuDNMnhR0fstPHAp7) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [The Orlando Sentinel](https://open.spotify.com/album/3fN9ksNkNQcYcwXFuyVe6i) | 3:36 | 2026-05-06 |  |
+| [Fierce Resource Allocation](https://open.spotify.com/track/7iTYbcuDNMnhR0fstPHAp7) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [The Orlando Sentinel](https://open.spotify.com/album/3fN9ksNkNQcYcwXFuyVe6i) | 3:36 | 2026-05-06 | 2026-05-08 |
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 | 2025-11-17 | 2026-03-20 |
 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 | 2024-05-27 |  |
@@ -625,6 +626,7 @@
 | [Minim: Part I](https://open.spotify.com/track/2eUc6nuQT2m0wJX8GjbzPL) | [Yasunao Tone](https://open.spotify.com/artist/452pwHumVmgYOV4tLv1F7N) | [Solo For Wounded](https://open.spotify.com/album/6UvuhanBfE1cn4vxMyqaIJ) | 14:17 | 2024-10-27 | 2024-11-05 |
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |
 | [Miracle](https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 4:10 | 2023-02-10 | 2023-08-09 |
+| [Mis armas se habían caído al suelo](https://open.spotify.com/track/6GhMZ7nRMjbvXMxeIWlPof) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Libres antes del final](https://open.spotify.com/album/31ma1VIIRX5LubeBwpUP8X) | 2:06 | 2026-05-07 |  |
 | [Misery Town](https://open.spotify.com/track/7qxj8y24oDBwWspbuzuDAN) | [Cheater](https://open.spotify.com/artist/31FObQ7rXbvTZHVMZ1kTGE) | [Home is Where the Heart is](https://open.spotify.com/album/3u13yLAaLmeHF3rPxMoPVK) | 2:27 | 2024-03-10 |  |
 | [Miwok Shapes](https://open.spotify.com/track/24ov0ue42XN3uTSM1A17N8) | [Brightblack Morning Light](https://open.spotify.com/artist/3hXQmVUYo3Mppb16f8wFOx) | [Brightblack Morning Light](https://open.spotify.com/album/3fvHRuZ4yIGdpUjL7nJDvH) | 5:49 | 2025-02-14 |  |
 | [Mo Move](https://open.spotify.com/track/5dGClop5hvOr0vXADmAYw8) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 6:54 | 2024-01-18 | 2025-07-25 |
@@ -962,7 +964,7 @@
 | [The Fall](https://open.spotify.com/track/3kMUw8BxwpzZWKSszhwuNh) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [POMPEII // UTILITY](https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR) | 1:36 | 2026-04-04 |  |
 | [The Fringe](https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 2:36 | 2025-01-06 | 2025-01-07 |
 | [THE GLOW](https://open.spotify.com/track/1XSoToJJt581oXBXP6vyhU) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 0:45 | 2022-09-25 |  |
-| [The Golden Age](https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:34 | 2026-03-22 |  |
+| [The Golden Age](https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:34 | 2026-03-22 | 2026-05-08 |
 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 | 2023-03-24 | 2023-06-15 |
 | [The Greater Wings](https://open.spotify.com/track/5K7xeYoKdOv0JHNddosDw7) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:24 | 2024-01-12 |  |
 | [The Grudge](https://open.spotify.com/track/6ZsZxNP4Iwdyp3kd5oFFQN) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 8:36 | 2022-07-24 |  |
@@ -1036,7 +1038,7 @@
 | [Turn the Page](https://open.spotify.com/track/7eHt7rcLWNXREbck9PAsHA) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 3:15 | 2025-05-16 | 2025-06-22 |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2024-01-17 |  |
 | [Turnover](https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Repeater + 3 Songs](https://open.spotify.com/album/6JbGZGta38AArBgflt024C) | 4:15 | 2024-02-24 |  |
-| [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 | 2025-12-06 |  |
+| [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 | 2025-12-06 | 2026-05-08 |
 | [Twin Plagues](https://open.spotify.com/track/5OeHMVPyqAyfAkeZm9MwSI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 4:08 | 2023-12-25 | 2025-07-25 |
 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 | 2024-08-26 |  |
 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 | 2026-01-15 | 2026-01-22 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินอิสระและค่ายเพลง คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: WINNING\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: WINNING\. Artwork: Isu Kim
 
 2,626 songs - 6 day 20 hr 40 min
 

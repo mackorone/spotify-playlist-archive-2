@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from independent artists and labels\. Curated with love by human Spotify editors\. Cover: Glen Wee\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Glen Wee\. Artwork: Isu Kim.
 
 1,465 songs - 3 day 8 hr 11 min
 

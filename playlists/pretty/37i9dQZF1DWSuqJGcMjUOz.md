@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2026 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,823 likes - 113 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,846 likes - 113 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8547,6 +8547,24 @@
     },
     {
       "album": {
+        "name": "Everybody Wanna Be In Love",
+        "url": "https://open.spotify.com/album/2SLy7tznXk2DrcYyW5imnY"
+      },
+      "artists": [
+        {
+          "name": "Calvin Fallo",
+          "url": "https://open.spotify.com/artist/2zMD4U9OQAR3xuq6cjer8p"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411428,
+      "name": "Everybody Wanna Be In Love",
+      "url": "https://open.spotify.com/track/6c4MbGlY1XHjnHuF2HeZUX"
+    },
+    {
+      "album": {
         "name": "Everyday (Shimza Remix)",
         "url": "https://open.spotify.com/album/4hPSNAFdFZutofFFVRMoMT"
       },
@@ -17588,7 +17606,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 167804,
       "name": "MACHO",
       "url": "https://open.spotify.com/track/6QhtKxfu1Ltyxkog1C07Jx"

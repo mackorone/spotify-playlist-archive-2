@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Dove Dovrei Essere",
+        "url": "https://open.spotify.com/album/1QBYlFbQtI2RYJdOpToz5q"
+      },
+      "artists": [
+        {
+          "name": "JOSH",
+          "url": "https://open.spotify.com/artist/05gpLZ1OK3Ow0Z5WoZIkbJ"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203125,
+      "name": "Burattini",
+      "url": "https://open.spotify.com/track/0mXVDJwayyownNl3R78HNg"
+    },
+    {
+      "album": {
         "name": "Un cambio",
         "url": "https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e"
       },
@@ -5667,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Outlaw Skirt",
+        "url": "https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7"
+      },
+      "artists": [
+        {
+          "name": "The Twinpims",
+          "url": "https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163606,
+      "name": "Outlaw Skirt",
+      "url": "https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W"
+    },
+    {
+      "album": {
         "name": "Outta Control",
         "url": "https://open.spotify.com/album/4FPn9FK7LFYNx9UMnsgcFB"
       },
@@ -6306,6 +6342,24 @@
       "duration_ms": 214235,
       "name": "Rock N Roll From Tennessee",
       "url": "https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki"
+    },
+    {
+      "album": {
+        "name": "RockPaperScissors",
+        "url": "https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Turk",
+          "url": "https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205075,
+      "name": "RockPaperScissors",
+      "url": "https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7"
     },
     {
       "album": {

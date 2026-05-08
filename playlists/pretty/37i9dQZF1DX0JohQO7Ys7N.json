@@ -1,15 +1,15 @@
 {
   "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Bridget Blue",
-  "num_followers": 48634,
+  "num_followers": 48650,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+XkO6GkzSrBDzGae03CB3bEDRj",
+  "snapshot_id": "AAAAAErAddorW92PI6Kna9NLleNofD70",
   "tracks": [
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Off My Chest",
         "url": "https://open.spotify.com/album/3UkjFytj440El2a712oDX9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Tamu",
         "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
+      "album": {
+        "name": "Wema",
+        "url": "https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7"
+      },
+      "artists": [
+        {
+          "name": "nk_njoroge",
+          "url": "https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6"
+        }
+      ],
+      "duration_ms": 143844,
+      "name": "Wema",
+      "url": "https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD"
+    },
+    {
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "RNB",
         "url": "https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp"
@@ -52,12 +68,12 @@
           "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
         }
       ],
-      "duration_ms": 171960,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7MCcXsGunhdXUyMf1jsnuk"
+      "duration_ms": 209563,
+      "name": "Ngozi Kama Jua",
+      "url": "https://open.spotify.com/track/7lScV0vUMxy1tt2HnYGMXq"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Waza",
         "url": "https://open.spotify.com/album/5ClSrFIsxh8jwLiNxS0jQY"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/6o0v1jNUgMpBwT3RQe2Wae"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "KARAHA",
         "url": "https://open.spotify.com/album/1gYHMvmhthjuKNe3pZo1eW"
@@ -113,23 +129,7 @@
       "url": "https://open.spotify.com/track/5opzlJviEP8FcWLL1r7Ix1"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
-      "album": {
-        "name": "Wema",
-        "url": "https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7"
-      },
-      "artists": [
-        {
-          "name": "nk_njoroge",
-          "url": "https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6"
-        }
-      ],
-      "duration_ms": 143844,
-      "name": "Wema",
-      "url": "https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD"
-    },
-    {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Boy Lover",
         "url": "https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Favorite",
         "url": "https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP"
@@ -165,7 +165,23 @@
       "url": "https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
+      "album": {
+        "name": "WAWILI",
+        "url": "https://open.spotify.com/album/0vMtWDCRcs7QbygsiNpV6q"
+      },
+      "artists": [
+        {
+          "name": "Nahsh kariuki Official",
+          "url": "https://open.spotify.com/artist/5mzYpiJA39D2iFcB3ERAfj"
+        }
+      ],
+      "duration_ms": 135784,
+      "name": "WAWILI",
+      "url": "https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo"
+    },
+    {
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Dilly Darling",
         "url": "https://open.spotify.com/album/5ev4H9jy1ftkDODd5HXiKN"
@@ -181,7 +197,23 @@
       "url": "https://open.spotify.com/track/5KXvjxNDjDMqw3yzs3Hdm4"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
+      "album": {
+        "name": "Don't Wanna Lose You (From Kito the Soundtrack)",
+        "url": "https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0"
+      },
+      "artists": [
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Don't Wanna Lose You (From Kito the Soundtrack)",
+      "url": "https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q"
+    },
+    {
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Mtu Wangu",
         "url": "https://open.spotify.com/album/009ubkOJUBR4dL5rXExUgc"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/5S39kEDblIwK3jA7kRmOQf"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Genge Soul",
         "url": "https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Feel You",
         "url": "https://open.spotify.com/album/64PIMvFZqwZyo20UPLniYN"
@@ -261,23 +293,23 @@
       "url": "https://open.spotify.com/track/4iCzpvKmAqnQEoH1lxZBnQ"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
-        "name": "Don't Wanna Lose You (From Kito the Soundtrack)",
-        "url": "https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0"
+        "name": "Chai ya saa kumi",
+        "url": "https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5"
       },
       "artists": [
         {
-          "name": "Watendawili",
-          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
         }
       ],
-      "duration_ms": 196162,
-      "name": "Don't Wanna Lose You (From Kito the Soundtrack)",
-      "url": "https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q"
+      "duration_ms": 240000,
+      "name": "Chai ya saa kumi",
+      "url": "https://open.spotify.com/track/1gQsbe5nVBPmfj5Y1d1kec"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Wewe ni wangu",
         "url": "https://open.spotify.com/album/45R7Je3EQxcywOoOOEAxc7"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/46s9rwtP41bvXAylPmOmgo"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Home Session",
         "url": "https://open.spotify.com/album/66icwT2w7cUN4qFxSmfDNM"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/52xnyuEQRJToUAolhLJGkO"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Tabasamu",
         "url": "https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5"
@@ -341,7 +373,23 @@
       "url": "https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
+      "album": {
+        "name": "RNB",
+        "url": "https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7MCcXsGunhdXUyMf1jsnuk"
+    },
+    {
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Niangalie",
         "url": "https://open.spotify.com/album/6gNGKlPgPNgxnqeF8An26m"
@@ -361,47 +409,7 @@
       "url": "https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
-      "album": {
-        "name": "Mapenzi",
-        "url": "https://open.spotify.com/album/6Qh6nUBfyw30o9ejaqv5ok"
-      },
-      "artists": [
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        },
-        {
-          "name": "Toxic Lyrikali",
-          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Mapenzi",
-      "url": "https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF"
-    },
-    {
-      "added_at": "2026-04-23 23:59:14",
-      "album": {
-        "name": "Ningelijua",
-        "url": "https://open.spotify.com/album/7cKE7KRDy0vnhaaCap630H"
-      },
-      "artists": [
-        {
-          "name": "J blessing",
-          "url": "https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr"
-        },
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        }
-      ],
-      "duration_ms": 237272,
-      "name": "Ningelijua",
-      "url": "https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2"
-    },
-    {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Take Two: Grey",
         "url": "https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP"
@@ -417,7 +425,7 @@
       "url": "https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Wild Fire",
         "url": "https://open.spotify.com/album/3P0EiEK7f7qGnImyINOKlu"
@@ -441,7 +449,7 @@
       "url": "https://open.spotify.com/track/2IlLqx0326Pp2R97v4KbeK"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Off My Chest",
         "url": "https://open.spotify.com/album/3UkjFytj440El2a712oDX9"
@@ -461,7 +469,7 @@
       "url": "https://open.spotify.com/track/2AOoQZUFENNf5c663stU20"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Last Name",
         "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
@@ -477,7 +485,7 @@
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Stories Untold",
         "url": "https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j"
@@ -497,7 +505,7 @@
       "url": "https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "I WISH I WAS HONEST",
         "url": "https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J"
@@ -513,7 +521,7 @@
       "url": "https://open.spotify.com/track/7fl8eAcXmlSiKH0fsaKglK"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Hale",
         "url": "https://open.spotify.com/album/60dvHw4f6N9YnMocVWY1Cx"
@@ -529,7 +537,7 @@
       "url": "https://open.spotify.com/track/3eGBctTtCpO4qr7SxCJPdW"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "The Sweetest Time",
         "url": "https://open.spotify.com/album/0kHP5lmMGgaPNS4tI8mwxX"
@@ -549,7 +557,7 @@
       "url": "https://open.spotify.com/track/4HkWmhTPcL1SUex6Phpg5N"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/1rWaIByfwfLQm2GH8cV6Pg"
@@ -569,7 +577,7 @@
       "url": "https://open.spotify.com/track/50L8gSrd2oUjrcPVNP6mDI"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "COLD CHRISTMAS: A Colossal rendition",
         "url": "https://open.spotify.com/album/6cqOMO1qtf4PuxE6HtM28O"
@@ -593,7 +601,7 @@
       "url": "https://open.spotify.com/track/3GbKKWAHa8cBNoK1aEoztf"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Labor Of Love",
         "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
@@ -609,7 +617,7 @@
       "url": "https://open.spotify.com/track/0RD4K03Z1EFKw1QzCETdTw"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk"
@@ -625,7 +633,27 @@
       "url": "https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
+      "album": {
+        "name": "Mapenzi",
+        "url": "https://open.spotify.com/album/6Qh6nUBfyw30o9ejaqv5ok"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        },
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Mapenzi",
+      "url": "https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF"
+    },
+    {
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "MAYBE II",
         "url": "https://open.spotify.com/album/4K0D8MTYjNyE4okLV7m6Dv"
@@ -645,7 +673,7 @@
       "url": "https://open.spotify.com/track/1cR14AgXA3tA0GOpCTpX0x"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Sioni Haja",
         "url": "https://open.spotify.com/album/0MWqjICMiB1Sq87kGx0K7L"
@@ -661,7 +689,7 @@
       "url": "https://open.spotify.com/track/11dHYUHkz51oJJ14KqBzfX"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Subira",
         "url": "https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB"
@@ -681,7 +709,7 @@
       "url": "https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "EAST2HWOOD",
         "url": "https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV"
@@ -701,7 +729,7 @@
       "url": "https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Karibia Kidogo",
         "url": "https://open.spotify.com/album/4ay6uxE2sjyGoYs6xE1MAX"
@@ -717,7 +745,7 @@
       "url": "https://open.spotify.com/track/5r2cQj9547u1uMKFhxy1Vq"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Look The Other Way",
         "url": "https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9"
@@ -733,7 +761,7 @@
       "url": "https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "DEATH DO US PART",
         "url": "https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Beg For It",
         "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
@@ -765,7 +793,7 @@
       "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
@@ -781,7 +809,7 @@
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Pewa",
         "url": "https://open.spotify.com/album/5NHFgvVvnOkrTlGNGPsHSW"
@@ -801,7 +829,7 @@
       "url": "https://open.spotify.com/track/5sggvlcQAAQotkFDmHcMmt"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "June 10th",
         "url": "https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi"
@@ -817,7 +845,7 @@
       "url": "https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "How Do I Love You?",
         "url": "https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE"
@@ -833,7 +861,7 @@
       "url": "https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Sweetest Time",
         "url": "https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW"
@@ -853,7 +881,7 @@
       "url": "https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Rudia",
         "url": "https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk"
@@ -873,7 +901,7 @@
       "url": "https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Dr. Flow Will See You Now",
         "url": "https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX"
@@ -889,7 +917,7 @@
       "url": "https://open.spotify.com/track/0wJektS8zzF1OinfLbRTTU"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Musings",
         "url": "https://open.spotify.com/album/4tP74evyRsApusUxzoOlij"
@@ -913,7 +941,7 @@
       "url": "https://open.spotify.com/track/5tE1NiKNG949IRPuDUe0No"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "slow burning.",
         "url": "https://open.spotify.com/album/7uf5Mi12fGexmZfETSpI1Y"
@@ -933,7 +961,7 @@
       "url": "https://open.spotify.com/track/5U5lHDAuwPX1XjJ4cAWqps"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "What I See",
         "url": "https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX"
@@ -957,7 +985,7 @@
       "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Sherehe Ya Disemba",
         "url": "https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV"
@@ -977,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/6MJnxLZxoWycbVHLLuejVr"
@@ -997,7 +1025,7 @@
       "url": "https://open.spotify.com/track/36Hssha8m6zhPXVjBly6AZ"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
@@ -1013,7 +1041,7 @@
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Guidance",
         "url": "https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0"
@@ -1029,7 +1057,7 @@
       "url": "https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Safari - Journey Of 1000 Songs",
         "url": "https://open.spotify.com/album/28TW5zkQtpNv5Bz3Qn81HG"
@@ -1045,23 +1073,7 @@
       "url": "https://open.spotify.com/track/2FxMPsrwAuC6CS9G33U8Qr"
     },
     {
-      "added_at": "2026-04-23 23:59:14",
-      "album": {
-        "name": "Mellow Dramatic",
-        "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
-      },
-      "artists": [
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        }
-      ],
-      "duration_ms": 234582,
-      "name": "New Lamp",
-      "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
-    },
-    {
-      "added_at": "2026-04-23 23:59:14",
+      "added_at": "2026-05-07 23:59:21",
       "album": {
         "name": "Heartbreak Song",
         "url": "https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa"
@@ -1079,22 +1091,6 @@
       "duration_ms": 207999,
       "name": "Heartbreak Song",
       "url": "https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl"
-    },
-    {
-      "added_at": "2026-04-23 23:59:14",
-      "album": {
-        "name": "Aki Sioni",
-        "url": "https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr"
-      },
-      "artists": [
-        {
-          "name": "Njerae",
-          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
-        }
-      ],
-      "duration_ms": 183031,
-      "name": "Aki Sioni",
-      "url": "https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT"
     }
   ],
   "unique_name": "NairoBae",

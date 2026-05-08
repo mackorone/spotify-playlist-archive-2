@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES, Tobii",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NANON",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 155624,
       "name": "DMMA",
       "url": "https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 168485,
       "name": "NO PACER",
       "url": "https://open.spotify.com/track/4LAF4voeCtLqHkZJAErRLU"
@@ -3462,6 +3462,24 @@
       "duration_ms": 212601,
       "name": "Red Flag (\u0e25\u0e2d\u0e07\u0e14\u0e39\u0e21\u0e31\u0e49\u0e22?)",
       "url": "https://open.spotify.com/track/3nZf9a9SsqFwuHZBI522qq"
+    },
+    {
+      "album": {
+        "name": "RED WINE",
+        "url": "https://open.spotify.com/album/5NDFiOaQrN2YBSW5wNqdJU"
+      },
+      "artists": [
+        {
+          "name": "JETAIME",
+          "url": "https://open.spotify.com/artist/4DImmn6dNLKXoV6KsC17tu"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RED WINE",
+      "url": "https://open.spotify.com/track/0OtCykI4JyuFBWG9dBsH0T"
     },
     {
       "album": {
@@ -4276,6 +4294,24 @@
       "duration_ms": 195130,
       "name": "TEEDEE TADA",
       "url": "https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2"
+    },
+    {
+      "album": {
+        "name": "Tell Me Now (Prod.by JAP The Richman Toy)",
+        "url": "https://open.spotify.com/album/1rC1VmprqZ7hvQA77toRiK"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Tell Me Now - Prod.by JAP The Richman Toy",
+      "url": "https://open.spotify.com/track/1Bdg2Nu1T1DCTe8xmZNOcK"
     },
     {
       "album": {
@@ -9302,7 +9338,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 229099,
       "name": "\u0e1e\u0e1a\u0e1f\u0e49\u0e32 (My Sky) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e23\u0e31\u0e01\u0e04\u0e23\u0e39\u0e40\u0e17\u0e48\u0e32\u0e42\u0e25\u0e01\u0e40\u0e25\u0e22 Love you Teacher\"",
       "url": "https://open.spotify.com/track/5s4KTNOW4AdfCYBQKVUJIf"
@@ -12546,7 +12582,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 235909,
       "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e19\u0e30 (Every Single Day)",
       "url": "https://open.spotify.com/track/2odtCLRbw7U2SuLrTfADtO"
@@ -13274,7 +13310,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-08",
       "duration_ms": 186837,
       "name": "\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e43\u0e08\u0e44\u0e27\u0e49\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (101% Love) (Original Soundtrack From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You Series\")",
       "url": "https://open.spotify.com/track/1lUqmjSiYtA36HIv05cg3s"
@@ -13452,6 +13488,24 @@
       "duration_ms": 167368,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e19\u0e17\u0e35\u0e48\u0e1f\u0e49\u0e32\u0e2a\u0e48\u0e07\u0e21\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e09\u0e31\u0e19 (ilysb)",
       "url": "https://open.spotify.com/track/1aDDhtSKGhOS3FMx6wMCFa"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25 (Smile)",
+        "url": "https://open.spotify.com/album/1r1J8jcBmQhlo9PTfcGNWF"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25 (Smile)",
+      "url": "https://open.spotify.com/track/4ftNzErxpRe1JB1OsqpHmv"
     },
     {
       "album": {

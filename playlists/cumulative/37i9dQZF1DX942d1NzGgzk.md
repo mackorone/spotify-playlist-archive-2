@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B rising in the UK\. Cover: Finn Askew
+> The latest of R&B rising in the UK\. Cover: Tia Gordon
 
-601 songs - 1 day 7 hr 8 min
+604 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2024-09-13 |
 | [25!](https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 2:09 | 2024-08-23 | 2025-02-01 |
 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 | 2023-11-17 | 2024-01-26 |
+| [4ME](https://open.spotify.com/track/06WPSC76RVnS9BB6wbVvgI) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [4ME](https://open.spotify.com/album/54MvfYwhX0EQSIXOXx4EHU) | 1:41 | 2026-05-07 |  |
 | [4ursafety](https://open.spotify.com/track/7u0JIVXQBpCD74ivUiPAPR) | [Sade Amor](https://open.spotify.com/artist/77ju645AaIn4CZEigJDrrq) | [4ursafety](https://open.spotify.com/album/6C3h92X0tgBeEEliuuX2WR) | 2:18 | 2026-02-27 |  |
 | [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-09-12 | 2024-10-12 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-22 | 2024-04-19 |
@@ -190,6 +191,7 @@
 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 | 2022-07-17 | 2023-03-10 |
 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-06-26 | 2025-07-24 |
 | [Freudian Slips](https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Freudian Slips](https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v) | 2:43 | 2023-11-03 | 2023-11-18 |
+| [friends](https://open.spotify.com/track/2wjc0DH5AhndXQQQd74wky) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [i asked the stars for this\. x](https://open.spotify.com/album/3KNYkyPYwSkUbHybeJVJzu) | 3:05 | 2026-05-07 |  |
 | [Frostbite](https://open.spotify.com/track/4rZk8pAA1RXsGAAea5sIZg) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Frostbite](https://open.spotify.com/album/2g1TwgoxMYyQjFWeBwJ8Yz) | 3:30 | 2026-02-27 |  |
 | [Fruta Prohibida](https://open.spotify.com/track/4C0kY6BRzRDPlW0Z3uFPXV) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Fruta Prohibida](https://open.spotify.com/album/3XZ6OFcUcMgR5xJwy2IitS) | 3:36 | 2025-09-04 | 2026-03-06 |
 | [fuck up the store](https://open.spotify.com/track/6MEWEjGZxfZn6qct7ASYqf) | [Grossi](https://open.spotify.com/artist/3MfVVhDv0aVbXIR4ZnKv7w) | [Journals](https://open.spotify.com/album/11oNsBKj6TfAu5FPp9a7IC) | 2:25 | 2025-11-21 | 2026-03-06 |
@@ -258,7 +260,7 @@
 | [I Swear](https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd) | [I Swear](https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq) | 3:05 | 2025-03-14 | 2025-07-25 |
 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 | 2024-08-06 | 2025-04-25 |
 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 | 2023-07-21 | 2023-08-19 |
-| [I wish I could](https://open.spotify.com/track/280k6BZx1nJGhkUmWP6c2R) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [I wish I could](https://open.spotify.com/album/7xHmtO7YlCUhDvZ2QTW7X9) | 3:20 | 2025-09-25 |  |
+| [I wish I could](https://open.spotify.com/track/280k6BZx1nJGhkUmWP6c2R) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [I wish I could](https://open.spotify.com/album/7xHmtO7YlCUhDvZ2QTW7X9) | 3:20 | 2025-09-25 | 2026-05-08 |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-07-17 | 2023-05-19 |
 | [I'll Still Be Here](https://open.spotify.com/track/49nMhwc4XFYhUsl9BDZEBq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 3:11 | 2024-05-31 | 2024-09-25 |
 | [I'm Sure](https://open.spotify.com/track/0CNp4DbUZ6yBzQVnF6jCZY) | [Enigma](https://open.spotify.com/artist/1p33V6IQmus6qSftQL0HCV) | [Love Language 2](https://open.spotify.com/album/0gnQ7bzwd67CHRPmcuWavE) | 2:49 | 2025-04-25 | 2025-12-11 |
@@ -317,7 +319,7 @@
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-03-20 |  |
 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 | 2022-07-17 | 2024-04-19 |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-15 | 2025-02-19 |
-| [Let Me Enter](https://open.spotify.com/track/5stvS5iFIjxJqOhYyfPqjU) | [Aina More](https://open.spotify.com/artist/5WOCthKjiANwek3vxklSEa), [Komo](https://open.spotify.com/artist/3vBngkkbx94CR6ieyfHVJu) | [Let Me Enter](https://open.spotify.com/album/0V8ZAOi5Dtt8zbBH4NDAq1) | 2:43 | 2025-11-21 |  |
+| [Let Me Enter](https://open.spotify.com/track/5stvS5iFIjxJqOhYyfPqjU) | [Aina More](https://open.spotify.com/artist/5WOCthKjiANwek3vxklSEa), [Komo](https://open.spotify.com/artist/3vBngkkbx94CR6ieyfHVJu) | [Let Me Enter](https://open.spotify.com/album/0V8ZAOi5Dtt8zbBH4NDAq1) | 2:43 | 2025-11-21 | 2026-05-08 |
 | [Let Me Know \- The Cypher](https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Let Me Know \(The Cypher\)](https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0) | 4:01 | 2022-07-17 | 2023-05-15 |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-07-17 | 2024-04-26 |
 | [Lie With Me](https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:19 | 2026-03-27 |  |
@@ -418,7 +420,7 @@
 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 | 2025-06-26 | 2026-04-17 |
 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 | 2022-07-17 | 2023-06-07 |
 | [Options](https://open.spotify.com/track/1ZWBlhBmJqgLLMDIT31vdV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U) | [Options](https://open.spotify.com/album/3fVaM3KjD3OasMuqIaWhsQ) | 2:41 | 2024-09-26 | 2025-03-12 |
-| [options](https://open.spotify.com/track/1lBnRzje1vR3GYIQGtyScf) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [options](https://open.spotify.com/album/2XPSBijU1tOIWaUqE6KzwK) | 3:06 | 2025-10-09 |  |
+| [options](https://open.spotify.com/track/1lBnRzje1vR3GYIQGtyScf) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [options](https://open.spotify.com/album/2XPSBijU1tOIWaUqE6KzwK) | 3:06 | 2025-10-09 | 2026-05-08 |
 | [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 | 2024-03-22 | 2024-04-19 |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-04-13 |
 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 | 2023-07-21 | 2024-08-27 |
@@ -446,6 +448,7 @@
 | [QUESTIONS!!](https://open.spotify.com/track/734lg5oZSquYMFJhBhsNCV) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [QUESTIONS!!](https://open.spotify.com/album/30fjqMc79D0Zi9cl53VcD4) | 1:24 | 2023-09-14 | 2023-11-18 |
 | [radio silence](https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [radio silence](https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs) | 2:11 | 2023-05-18 | 2023-07-12 |
 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-26 | 2024-04-20 |
+| [Rain in July](https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Rain in July / Be the One](https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg) | 3:00 | 2026-05-07 |  |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-09-14 | 2023-09-27 |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-02-16 | 2024-11-15 |
 | [Red Wine](https://open.spotify.com/track/4qzBHmt6mnOg1iSyEx8nkW) | [Krystyn](https://open.spotify.com/artist/0RamQJ0pgt5rLMQh93Hyiu) | [Red Wine](https://open.spotify.com/album/48aFVPIvvsorIvP58hixvl) | 2:27 | 2026-04-02 |  |

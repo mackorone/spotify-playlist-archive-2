@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "De Nacht Is Mijn Leven (2026)",
+        "url": "https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196193,
+      "name": "De Nacht Is Mijn Leven - 2026",
+      "url": "https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m"
+    },
+    {
+      "album": {
         "name": "De Stad",
         "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
       },
@@ -2596,6 +2614,24 @@
       "duration_ms": 182356,
       "name": "Systeem",
       "url": "https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1"
+    },
+    {
+      "album": {
+        "name": "Tante Jetje",
+        "url": "https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO"
+      },
+      "artists": [
+        {
+          "name": "Dries Roelvink",
+          "url": "https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194435,
+      "name": "Tante Jetje",
+      "url": "https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5"
     },
     {
       "album": {

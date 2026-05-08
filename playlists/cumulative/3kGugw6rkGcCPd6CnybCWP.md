@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-349 songs - 20 hr 11 min
+350 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Valley](https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j), [Eisbaer](https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 6:01 | 2026-03-04 | 2026-04-16 |
 | [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 | 2026-02-14 | 2026-04-02 |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-11-02 | 2026-01-15 |
+| [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 | 2026-05-07 |  |
 | [Vows](https://open.spotify.com/track/2Q1EJXTm4pMbAsQLZmNwlO) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [Vows](https://open.spotify.com/album/20ZhODQujPUoKymUfrJp3h) | 3:15 | 2026-04-15 |  |
 | [wakingup](https://open.spotify.com/track/61IzD2tH1liMWYuvxleKUm) | [aerial.aiff](https://open.spotify.com/artist/56xvmBfz3DGvEjJKVi3JWg) | [wakingup](https://open.spotify.com/album/5r0O467KLIqvvKlufXYYI0) | 1:38 | 2025-11-04 | 2026-01-17 |
 | [Waste My Time](https://open.spotify.com/track/0AqnRH9UZihcBNyNR2ig0I) | [Burnside](https://open.spotify.com/artist/5QTKzZAlVEB7bDRbls3Saf) | [Waste My Time](https://open.spotify.com/album/0ujvM076fa316cZxoI9QLC) | 3:38 | 2025-10-30 | 2025-12-02 |

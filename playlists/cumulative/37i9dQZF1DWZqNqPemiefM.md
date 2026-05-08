@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Black Boboi
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Yoal \(Satomimagae & Euan Alexander Millar\-McMeeken\)
 
-1,000 songs - 3 day 3 hr 27 min
+1,002 songs - 3 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2022-04-16 | 2025-10-01 |
 | [Ongoromochi Souji](https://open.spotify.com/track/1peJy95lggmSY04Nh9LotF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [yOrUkOrU](https://open.spotify.com/album/4j0Q1bfGdSdCPUbftm18gv) | 2:59 | 2022-04-07 | 2022-04-17 |
 | [Opaque](https://open.spotify.com/track/28T3vVyYZejl6mImsSHRtK) | [濱瀬元彦](https://open.spotify.com/artist/1fHhTpHGhai17LCu0I4hGA) | [テクノドローム](https://open.spotify.com/album/08wNWKk2GS5Vg28ipiYPix) | 5:49 | 2022-03-31 | 2022-07-14 |
+| [Open Your Heart or Die Trying \- Director's Cut](https://open.spotify.com/track/5vk0NGPGC7OkqPujA9yRaT) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Open Your Heart or Die Trying](https://open.spotify.com/album/44yqXTltG5QhAnK1Myyz6G) | 8:40 | 2026-05-07 |  |
 | [Opera City](https://open.spotify.com/track/13AmgQ4AtYVStvJz0MNbxP) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Shared Senses](https://open.spotify.com/album/0LVV7qlB4oV1wC2LmkBXrx) | 4:24 | 2024-10-11 |  |
 | [Optimyst](https://open.spotify.com/track/1sXdGrbrhfWZ8QACYx6Lpx) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/05bDe8Ngwf8YLwu6uPmRsa) | 3:52 | 2022-04-16 | 2022-07-27 |
 | [opus](https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB](https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC) | 4:25 | 2025-02-09 | 2026-02-28 |
@@ -833,6 +834,7 @@
 | [The Path Of Life](https://open.spotify.com/track/6uYzWaXhFz0sEYhT4AxYvL) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [井口 寛](https://open.spotify.com/artist/5LblBo8BWf1f8OjpKaffLt) | [Reach for NAGA](https://open.spotify.com/album/3xEHa4lpZwSNscSGEhbrVg) | 3:39 | 2026-02-06 | 2026-02-21 |
 | [The Quiet Between Stars](https://open.spotify.com/track/3Jpw0ErrJPLvMLDJd9wqcb) | [William Basinski](https://open.spotify.com/artist/5i8Um1IbNT7yWEf5scOVBC), [Claire Deak](https://open.spotify.com/artist/6G8lVA66bGVTjPsm5IEVwg) | [The Quiet Between Stars](https://open.spotify.com/album/0guVCtXUPbotdgls6WaNEW) | 2:11 | 2025-05-27 | 2025-10-01 |
 | [The Room](https://open.spotify.com/track/0C70150gB04nyN9nmTyf1b) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [The Near End, The Dark Night, The County Line](https://open.spotify.com/album/1oKvS1J3kCe9CUl4GsLaP9) | 2:12 | 2025-03-17 | 2025-04-14 |
+| [The Sea of Gold](https://open.spotify.com/track/2cdgfsRbI6ehwsKebmUBny) | [Yoal](https://open.spotify.com/artist/7JcXV3u7gL2lqjvV5wyE6r), [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Gloaming](https://open.spotify.com/album/0wH8xtkWdqRxIkPt7MUYsz) | 5:04 | 2026-05-07 |  |
 | [The Shadow of Love](https://open.spotify.com/track/1lMOXHHC6L85cPad9O2WPx) | [Stomu Yamash'ta](https://open.spotify.com/artist/4PQtFdguSmlMb31LGJHBKm) | [The Purple](https://open.spotify.com/album/3upCfBRlRVvrz2pdf04gHo) | 3:24 | 2022-03-31 | 2022-07-20 |
 | [The Sky I Saw Yesterday](https://open.spotify.com/track/001IrR8skFCAroQ81m36YN) | [Bermuda Hay](https://open.spotify.com/artist/5O3HlmfPg6VPoJA0T9hsmp) | [The Sky I Saw Yesterday](https://open.spotify.com/album/49cTBTKvsygV1LHFzqMixg) | 5:32 | 2022-03-31 | 2022-04-18 |
 | [The Sun's White Wind](https://open.spotify.com/track/5M7cQ2vFpxU3srXkwZdOzS) | [Yoal](https://open.spotify.com/artist/7JcXV3u7gL2lqjvV5wyE6r), [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [The Sun's White Wind](https://open.spotify.com/album/5Yg2b4P6vd4VX4u31w5GmG) | 3:55 | 2026-04-10 |  |
