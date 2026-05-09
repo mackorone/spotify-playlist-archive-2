@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Los Alegres del Barranco, Edgardo Nuñez y Los Farmerz
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: EL DE LA TINTA, Sahir Montoya, Angel Cervantes
 
-714 songs - 1 day 12 hr 4 min
+715 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 | 2022-12-02 | 2023-01-14 |
 | [Continental](https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Continental](https://open.spotify.com/album/6a4AJUo04LBnm2XkZZ5PQt) | 3:09 | 2024-04-12 | 2024-05-11 |
 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 | 2023-08-04 | 2023-12-23 |
-| [Coronar](https://open.spotify.com/track/6dH6PkQPzKRncIbIr3lyBL) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Coronar](https://open.spotify.com/album/2BknozLsYjG4bpp4I36INW) | 3:05 | 2026-03-20 |  |
+| [Coronar](https://open.spotify.com/track/6dH6PkQPzKRncIbIr3lyBL) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Coronar](https://open.spotify.com/album/2BknozLsYjG4bpp4I36INW) | 3:05 | 2026-03-20 | 2026-05-09 |
 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 | 2022-02-21 | 2023-04-15 |
 | [Corrido de Juanito](https://open.spotify.com/track/1TigPsAPsNicZJ0gZN0HHZ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Corrido de Juanito](https://open.spotify.com/album/5AMofuYya5fCXnRgobZDRp) | 4:50 | 2025-07-11 | 2025-07-26 |
 | [Corrientes No](https://open.spotify.com/track/4HDWUDp6LGnreA7tph3uq3) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Corrientes No](https://open.spotify.com/album/3OHVAhmgTucHLSXmwhYtRk) | 4:31 | 2025-07-18 | 2025-08-30 |
@@ -541,6 +541,7 @@
 | [No Se Va Poder](https://open.spotify.com/track/0l1htoFNs7YtGN9QHUOjtT) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [No Se Va Poder](https://open.spotify.com/album/4hQboB2hom9fO4FPpSQCUH) | 3:31 | 2023-05-26 | 2023-08-05 |
 | [NO SON DORITOS](https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Son Doritos](https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc) | 2:40 | 2024-08-23 | 2025-10-04 |
 | [Nomas Pa Que Sepan](https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Nomas Pa Que Sepan](https://open.spotify.com/album/5d4Z3mg8EZCx5jwOSQJWpY) | 2:49 | 2026-03-27 |  |
+| [Obregón](https://open.spotify.com/track/3Ksxqaq8JaoJxvdgoOGPcT) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Obregón](https://open.spotify.com/album/2BdFQAM2UVgcVLUAGE2604) | 3:33 | 2026-05-08 |  |
 | [Obsesión De Niño](https://open.spotify.com/track/3cba4GzduJqGUKDNCOVcwz) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Obsesión De Niño](https://open.spotify.com/album/37voXltjTlvu3qy0tGyJaD) | 2:27 | 2026-01-16 | 2026-02-28 |
 | [On D Gas](https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:21 | 2024-09-20 |  |
 | [Operativo Guasanga \- En Vivo](https://open.spotify.com/track/5P6SAHuQ70HBnIev2OdKSW) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Operativo Guasanga \(En Vivo\)](https://open.spotify.com/album/1lDEsLv28JwXZvqsvN4rKy) | 3:15 | 2022-03-07 | 2022-03-22 |

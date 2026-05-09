@@ -4,7 +4,7 @@
 
 > 🔥 den nyeste rap i dk 🔥 cover: Michael Williams
 
-534 songs - 22 hr 45 min
+535 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [ETC \(feat\. Benny Jamz & Lamin\)](https://open.spotify.com/track/1dXIqcR5omEXQGCLtre4cW) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 4:00 | 2025-06-12 | 2025-11-07 |
 | [Eurobando](https://open.spotify.com/track/0nvHRs2XP1BbaAs3wOdI6j) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:47 | 2024-06-20 | 2024-07-12 |
 | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 | 2024-10-10 | 2025-04-18 |
+| [Europa Favela](https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Europa Favela](https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid) | 3:14 | 2026-05-08 |  |
 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 | 2025-01-15 | 2025-04-18 |
 | [Fake Love](https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Stadig Her](https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx) | 2:41 | 2026-04-16 |  |
 | [FALSK FORHÅBNING](https://open.spotify.com/track/2wu8dTUpUXBjv4hggzP4xC) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [NOGET MÅ GI'](https://open.spotify.com/album/2M9hwv5KpmzSOMN9WfMn1D) | 2:25 | 2025-11-20 | 2026-04-10 |

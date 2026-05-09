@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJiHPxxVr/o1yFuYUjEJTFOIvv8Nfz",
+  "snapshot_id": "AAAJirAMmsanbE1Cjxi5nBE6YhSohRgA",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38591,6 +38591,42 @@
       "duration_ms": 214000,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/2WXcctKPq3LCwD3elZW5ab"
+    },
+    {
+      "added_at": "2026-05-08 08:30:28",
+      "album": {
+        "name": "Hello Wrld",
+        "url": "https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        },
+        {
+          "name": "Luh Rocket Bang",
+          "url": "https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm"
+        }
+      ],
+      "duration_ms": 159855,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7tnhmN304sF7ezswPDklxP"
+    },
+    {
+      "added_at": "2026-05-08 23:54:11",
+      "album": {
+        "name": "DOG DAG BAU BAU",
+        "url": "https://open.spotify.com/album/6CLNMEMnfF1OgvLo9Sbjwq"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 126904,
+      "name": "DOG DAG BAU BAU",
+      "url": "https://open.spotify.com/track/4V9lYkf9gujT8zaRiUInXZ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

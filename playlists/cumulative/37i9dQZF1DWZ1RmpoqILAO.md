@@ -4,7 +4,7 @@
 
 > you met me at a very indie twang time in my life...This Is Lorelei on the cover
 
-360 songs - 23 hr 10 min
+362 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [dirt](https://open.spotify.com/track/1LHQi8pKzL2M6O9mD1LITm) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [bends / dirt](https://open.spotify.com/album/2gUIAQlCxVPhqIbxBKTBx5) | 3:29 | 2026-03-27 |  |
 | [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/16bB8g67GwAhSBewSTP00a) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/3WpSDJ3xP0D8CgWxEeApzA) | 4:43 | 2024-04-14 | 2026-02-07 |
 | [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2023-02-23 | 2024-04-19 |
+| [Dog Bite](https://open.spotify.com/track/6kaGEq2lH18bimOf7l5MjP) | [Mikey Leão](https://open.spotify.com/artist/4Rd4oSAPEo4Iliwxpp4dZq) | [Dog Bite](https://open.spotify.com/album/61qB7KgixW8j12wfpnCKNK) | 2:31 | 2026-05-08 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2023-02-23 | 2026-03-28 |
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-27 | 2023-12-09 |
 | [drive](https://open.spotify.com/track/5nlZAk5H7m71KRSnFSdfOx) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [holy friend](https://open.spotify.com/album/6uqa1ZpRFpBzyp2dFlGvio) | 2:13 | 2024-09-06 |  |
@@ -368,5 +369,6 @@
 | [You Know I'm Down](https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [Count Bateman](https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH) | 2:10 | 2024-11-15 | 2025-02-26 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-23 |  |
 | [Zodiac](https://open.spotify.com/track/3j0f2HBhLlnEfMjGWkwOJ1) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 2:20 | 2025-09-26 |  |
+| [Zoom 97](https://open.spotify.com/track/7JhMqx0s2GFSl8RvTPlMtK) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Zoom 97](https://open.spotify.com/album/4zOyn3wSSeUjeMNQQykfEb) | 4:54 | 2026-05-08 |  |
 
 \*This playlist was first scraped on 2023-02-24. Prior content cannot be recovered.

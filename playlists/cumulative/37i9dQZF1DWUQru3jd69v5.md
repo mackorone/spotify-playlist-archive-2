@@ -4,7 +4,7 @@
 
 > Aira in cover della playlist con il futuro del rap italiano 📈
 
-2,405 songs - 4 day 5 hr 34 min
+2,406 songs - 4 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [BIMBA](https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [BIMBA](https://open.spotify.com/album/7D0PvYTBHrqk22q3SY3Nas) | 2:45 | 2024-11-14 | 2025-01-14 |
 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 | 2023-11-23 | 2024-03-08 |
 | [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [Damo ça va pètèr](https://open.spotify.com/artist/6PKyPmrKFzCjuI6pWbJvB6) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 | 2023-07-20 | 2023-09-01 |
+| [Bipolari Bilocali](https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2) | [Chef Adami](https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU) | [Bipolari Bilocali](https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU) | 2:25 | 2026-05-08 |  |
 | [BIRKIN](https://open.spotify.com/track/1JV4TJEZc07wJG6aNbooJ9) | [Candyvan](https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN) | [BIRKIN](https://open.spotify.com/album/1m89cyec91tDfn3bqD0Hu2) | 2:01 | 2025-03-27 | 2025-04-11 |
 | [Birthday Song](https://open.spotify.com/track/6eYI2bdb4wbw60hYQsFAYg) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [Birthday Song](https://open.spotify.com/album/4hTjDk6RK1rFxF1QS4Nk5l) | 2:07 | 2022-11-10 | 2023-01-13 |
 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/5V5If9EDJrHSDpM5bkcALZ) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/album/3H37JmWNvnEu27FP6IEh32) | 2:37 | 2024-05-09 | 2024-06-14 |
@@ -1892,7 +1893,7 @@
 | [SAME](https://open.spotify.com/track/6YUjlVq35iuRxJHdE6kJam) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [SAME](https://open.spotify.com/album/1PeUL3gAq7vQ2YbzSjmr0j) | 2:16 | 2025-04-10 | 2025-05-09 |
 | [SAMUEL L JACKSON](https://open.spotify.com/track/5yAFQB9qzY2lto0PJEE53v) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [SAMUEL L JACKSON](https://open.spotify.com/album/21loNL9GC0gQTX7skJ62Fy) | 1:29 | 2025-08-28 | 2025-09-26 |
 | [San Fierro](https://open.spotify.com/track/1az4U3g3f7GoxmFThCGCap) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Cultura Italiana Pt.2](https://open.spotify.com/album/4vedQ4gGP1TfVzdwyXlxHE) | 2:20 | 2024-11-28 | 2025-01-03 |
-| [SAN NICOLA](https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [SAN NICOLA](https://open.spotify.com/album/6VPe5idbPXXVN3kNvLAHt2) | 2:29 | 2026-05-07 |  |
+| [SAN NICOLA](https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [San Nicola](https://open.spotify.com/album/6VPe5idbPXXVN3kNvLAHt2) | 2:29 | 2026-05-07 |  |
 | [San Nicola Borgo](https://open.spotify.com/track/0xBxPiVniMhV58XTrELRH1) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [San Nicola Borgo](https://open.spotify.com/album/7adRGIcl1seEOMinRNE6DG) | 2:39 | 2022-12-08 | 2022-12-24 |
 | [SANGUE \(Feat\. Ketama126 & Side Baby\)](https://open.spotify.com/track/62xMX9BkLqempQw9JlQc1l) | [Oni One](https://open.spotify.com/artist/2fwe5Hfv8bvpVDXB64hndj), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [SANGUE \(Feat\. Ketama126 & Side Baby\)](https://open.spotify.com/album/4jRwdij7TfZulWCNKr4e4Z) | 3:13 | 2024-05-16 | 2024-06-01 |
 | [Sangue Amaro](https://open.spotify.com/track/02FIr9g30oCZSU2q8OuFZ1) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [Sangue Amaro](https://open.spotify.com/album/3y9hd1w6S3PzmX93mmFP4U) | 2:37 | 2022-10-11 | 2022-11-11 |

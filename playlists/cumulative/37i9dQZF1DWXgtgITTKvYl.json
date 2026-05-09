@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Pink Floyd",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 69600,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 322653,
       "name": "Everybody Dies",
       "url": "https://open.spotify.com/track/1tBxVkC0ovXVQh3G8MPreJ"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 283040,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7tgn9OrcohjNnwtkxAdSQa"
@@ -6134,6 +6134,42 @@
       "duration_ms": 400733,
       "name": "Post-Truth - Live ID.",
       "url": "https://open.spotify.com/track/1UHO6wM8WJUWUsm0gVD6sK"
+    },
+    {
+      "album": {
+        "name": "Postcard To God",
+        "url": "https://open.spotify.com/album/56sgLXIH23iEPa6TEuctwP"
+      },
+      "artists": [
+        {
+          "name": "Vanden Plas",
+          "url": "https://open.spotify.com/artist/1ke5Q2ijh6Tm31kH2HELEe"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317440,
+      "name": "Postcard To God",
+      "url": "https://open.spotify.com/track/2IavVjW5HWdtxKRJW3p7SI"
+    },
+    {
+      "album": {
+        "name": "Operation: Mindcrime III",
+        "url": "https://open.spotify.com/album/5kHX0ag9tSnc8LOdRYPtt5"
+      },
+      "artists": [
+        {
+          "name": "Geoff Tate",
+          "url": "https://open.spotify.com/artist/4YGXSFiOaglXLDO92EDVeU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210085,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5rCTw6Dejbj4NvJOkAbB5X"
     },
     {
       "album": {
@@ -8850,6 +8886,24 @@
       "duration_ms": 309873,
       "name": "The Whispers",
       "url": "https://open.spotify.com/track/0ojrI8qsbifM2kttz9DwC5"
+    },
+    {
+      "album": {
+        "name": "The World Is On Fire",
+        "url": "https://open.spotify.com/album/3fKP7tlP05jb8bGytqMikw"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304653,
+      "name": "The World Is On Fire",
+      "url": "https://open.spotify.com/track/4sq64jeNjTyjzfmpyhTeDH"
     },
     {
       "album": {

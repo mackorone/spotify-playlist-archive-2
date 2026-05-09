@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Zoha Waseem, Shehryar Rehan",
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Murtaza Qizilbash, Samar Jafri",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 343118,
       "name": "Afsanay",
       "url": "https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq"
@@ -1735,6 +1735,28 @@
     },
     {
       "album": {
+        "name": "Dunya Bhula Ke",
+        "url": "https://open.spotify.com/album/4z0c3SD0uQxd7bl4C9tkdJ"
+      },
+      "artists": [
+        {
+          "name": "Raafay Israr",
+          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
+        },
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Dunya Bhula Ke",
+      "url": "https://open.spotify.com/track/0CiV8B60XBAidA3xbjvSou"
+    },
+    {
+      "album": {
         "name": "Duur",
         "url": "https://open.spotify.com/album/7GEhbVGW9GziGstoE415v4"
       },
@@ -2176,6 +2198,28 @@
       "duration_ms": 195000,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce"
+    },
+    {
+      "album": {
+        "name": "Har Baar",
+        "url": "https://open.spotify.com/album/1oRAxwfxb55WuW7KjSx5uw"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Har Baar",
+      "url": "https://open.spotify.com/track/3VJpl4jrFSqY3Y6mAzqfux"
     },
     {
       "album": {
@@ -5600,7 +5644,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 177700,
       "name": "Shona",
       "url": "https://open.spotify.com/track/2MUmVyz7yYOauvSm1DhoTf"

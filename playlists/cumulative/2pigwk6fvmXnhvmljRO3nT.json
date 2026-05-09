@@ -2641,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "4Me 4Me",
+      "url": "https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n"
+    },
+    {
+      "album": {
         "name": "Care Package",
         "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
@@ -9932,7 +9950,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 314933,
       "name": "Anyhow Song",
       "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
@@ -36623,6 +36641,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "Earth Magic",
         "url": "https://open.spotify.com/album/2rwYFY71kJCVTgtijBqNYi"
       },
@@ -60356,7 +60392,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 204320,
       "name": "I Know - '92 TV Edit",
       "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
@@ -95412,7 +95448,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 233266,
       "name": "Our Own Memories",
       "url": "https://open.spotify.com/track/1bVFzQdPfTcNspZQKzeNQB"
@@ -107380,6 +107416,24 @@
       "duration_ms": 239173,
       "name": "Room in Here (feat. The Game & Sonyae Elise)",
       "url": "https://open.spotify.com/track/6Lr9sGM6kARYVDL2dj0lqV"
+    },
+    {
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214504,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq"
     },
     {
       "album": {
@@ -132534,7 +132588,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 277160,
       "name": "To You",
       "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"

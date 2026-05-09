@@ -8017,6 +8017,24 @@
     },
     {
       "album": {
+        "name": "Love, Kris Dayanti",
+        "url": "https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi"
+      },
+      "artists": [
+        {
+          "name": "Kris Dayanti",
+          "url": "https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "On The Way Up",
+      "url": "https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG"
+    },
+    {
+      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s"
       },
@@ -10842,24 +10860,6 @@
       "duration_ms": 210083,
       "name": "Touch (feat. Khole)",
       "url": "https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc"
-    },
-    {
-      "album": {
-        "name": "Love, Kris Dayanti",
-        "url": "https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi"
-      },
-      "artists": [
-        {
-          "name": "Kris Dayanti",
-          "url": "https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG"
     },
     {
       "album": {

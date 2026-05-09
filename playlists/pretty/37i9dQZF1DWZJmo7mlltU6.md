@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Daniela Andrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,012 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,024 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 70 | [Sugar Rush](https://open.spotify.com/track/2biDEbOgHPFrFBFDSU6VZl) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Sugar Rush](https://open.spotify.com/album/5W4zIRDdgp5y3N0AzxGSmL) | 2:58 |
 | 71 | [Brizzle](https://open.spotify.com/track/62KcHU1T8VBwIKXcWS812K) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Brizzle](https://open.spotify.com/album/7ctVPrgPT3v6TzyeIinlmd) | 2:37 |
 | 72 | [Vision](https://open.spotify.com/track/3iet8NSu6S6ZbSTS8EMUsC) | [Julia Mandoki](https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR) | [Vision](https://open.spotify.com/album/1wH2O2N6a7Z24QIYvu4Tej) | 4:21 |
-| 73 | [Four Leaf Clover](https://open.spotify.com/track/4abVgxtPYubeRK5p9naUwF) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Andreas Arianto](https://open.spotify.com/artist/1DQGUYEr9OxSlu11lxWizY) | [Four Leaf Clover](https://open.spotify.com/album/1W2Ua0mnx5kT9gg0XG51SX) | 3:36 |
+| 73 | [Four Leaf Clover](https://open.spotify.com/track/4abVgxtPYubeRK5p9naUwF) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Andreas Arianto](https://open.spotify.com/artist/1DQGUYEr9OxSlu11lxWizY) | [Four Leaf Clover](https://open.spotify.com/album/1W2Ua0mnx5kT9gg0XG51SX) | 3:36 |
 | 74 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
 | 75 | [Acting wisely](https://open.spotify.com/track/7Jw89xLGOEgDzfFwsp2148) | [Carlota Flâneur](https://open.spotify.com/artist/3NDKht1aMpga0RvwAqDeTC) | [Acting wisely](https://open.spotify.com/album/6UjjTtnkZJbYwfTUN1H8gZ) | 2:29 |
 | 76 | [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 |

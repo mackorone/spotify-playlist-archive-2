@@ -10505,6 +10505,32 @@
     },
     {
       "album": {
+        "name": "Pool Party 2.0",
+        "url": "https://open.spotify.com/album/5OUHXhY3Po1CqT2LpljHkB"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s"
+    },
+    {
+      "album": {
         "name": "Likid\u00e9",
         "url": "https://open.spotify.com/album/6VuxhAmUOtm8SAO1E9AFB3"
       },
@@ -16931,6 +16957,32 @@
     },
     {
       "album": {
+        "name": "Take Dat",
+        "url": "https://open.spotify.com/album/0Q0nVgqkyKOLXZIksCUSNo"
+      },
+      "artists": [
+        {
+          "name": "Trixzmigos",
+          "url": "https://open.spotify.com/artist/5PRbsGZdeSYB6Z1a9k7FlC"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        },
+        {
+          "name": "Boogy Rankss",
+          "url": "https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173472,
+      "name": "Take Dat",
+      "url": "https://open.spotify.com/track/7kDnSfRLgg71cgQqiL6K2X"
+    },
+    {
+      "album": {
         "name": "Take it Easy",
         "url": "https://open.spotify.com/album/5AnmUVHcE89DR29xnJN1NQ"
       },
@@ -18004,24 +18056,6 @@
       "duration_ms": 155064,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq"
-    },
-    {
-      "album": {
-        "name": "Pool Party 2.0",
-        "url": "https://open.spotify.com/album/5OUHXhY3Po1CqT2LpljHkB"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s"
     },
     {
       "album": {

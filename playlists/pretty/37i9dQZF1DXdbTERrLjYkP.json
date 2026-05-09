@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Gabriela Bee",
-  "num_followers": 219242,
+  "num_followers": 219248,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW",
+  "snapshot_id": "AAAAAIoPRLwPxCu5zCzERZ6E5CUQJBlG",
   "tracks": [
     {
       "added_at": "2026-04-24 04:00:14",
@@ -41,6 +41,54 @@
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
     },
     {
+      "added_at": "2026-04-29 01:53:50",
+      "album": {
+        "name": "picking petals",
+        "url": "https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 228942,
+      "name": "picking petals",
+      "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
+    },
+    {
+      "added_at": "2026-05-08 04:03:40",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe"
+    },
+    {
+      "added_at": "2026-05-08 04:03:40",
+      "album": {
+        "name": "better and more",
+        "url": "https://open.spotify.com/album/2cYIT4PnWRqsU2olQ8CbD3"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "duration_ms": 158089,
+      "name": "better and more",
+      "url": "https://open.spotify.com/track/15JjCDBAdKJq1Zy3weXqTT"
+    },
+    {
       "added_at": "2026-04-24 04:00:14",
       "album": {
         "name": "hide and seek",
@@ -71,22 +119,6 @@
       "duration_ms": 186131,
       "name": "Say It Like You Mean It",
       "url": "https://open.spotify.com/track/2NmSbpmU94WloIuWGSeMCQ"
-    },
-    {
-      "added_at": "2026-04-29 01:53:50",
-      "album": {
-        "name": "picking petals",
-        "url": "https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 228942,
-      "name": "picking petals",
-      "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
     },
     {
       "added_at": "2026-04-24 04:00:14",
@@ -665,22 +697,6 @@
       "url": "https://open.spotify.com/track/12MTn5SaP2z5aYNjAiAJvc"
     },
     {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "It Will Never Be The Right Time",
-        "url": "https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY"
-      },
-      "artists": [
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 229731,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E"
-    },
-    {
       "added_at": "2026-03-13 04:00:44",
       "album": {
         "name": "animal",
@@ -1175,22 +1191,6 @@
       "duration_ms": 234699,
       "name": "In Between",
       "url": "https://open.spotify.com/track/6MpH0CFS4ikDVF8nc8mEY3"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Hope Is the Greatest Fuel",
-        "url": "https://open.spotify.com/album/6jDG6jOD4AiuwVlDAhLyOz"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Hope Is the Greatest Fuel",
-      "url": "https://open.spotify.com/track/1KbKmr7nD74Y4p9zy88Qoi"
     },
     {
       "added_at": "2025-11-07 05:00:50",

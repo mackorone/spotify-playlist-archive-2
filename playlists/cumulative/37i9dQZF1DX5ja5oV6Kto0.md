@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Siraheem
 
-1,078 songs - 2 day 4 hr 4 min
+1,079 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:29 | 2021-09-16 | 2022-03-18 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 | 2023-06-17 |
 | [FOUR](https://open.spotify.com/track/6XUDoc4d4VptM17H72yJru) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [FOUR](https://open.spotify.com/album/2cFmmxso937CGNMaB8DLct) | 3:37 | 2021-10-28 | 2022-06-17 |
-| [Freaky](https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Freaky](https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku) | 2:48 | 2026-02-20 |  |
+| [Freaky](https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Freaky](https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku) | 2:48 | 2026-02-20 | 2026-05-09 |
 | [Freaky](https://open.spotify.com/track/2M6ZyWCt6jS9SUrPu92vO0) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Vibes Alive](https://open.spotify.com/album/2YwwLFpGxbbyb4HYnRiB67) | 2:50 | 2022-08-12 | 2022-10-29 |
 | [Fàájì](https://open.spotify.com/track/2qJlG7VkKXttfLSH2apu1E) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Fàájì](https://open.spotify.com/album/4T3lWrlAQj32itNUm76ZHI) | 2:29 | 2024-10-25 | 2025-05-23 |
 | [Galactic](https://open.spotify.com/track/6aeXNgUvWM9O2AG1Iauyve) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Galactic](https://open.spotify.com/album/6r0nhiW9hPRljmLwl30oF1) | 2:50 | 2021-12-02 | 2022-03-12 |
@@ -873,6 +873,7 @@
 | [SKI](https://open.spotify.com/track/4wfonbgh4rNBq10322vx27) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SKI](https://open.spotify.com/album/6EAj8OOM4FDunQrETdECiv) | 3:12 | 2025-05-09 | 2025-05-30 |
 | [Skooby Snack](https://open.spotify.com/track/28MeLMeCVHpOyaiWWAdsax) | [Chilleaux](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Skooby Snack](https://open.spotify.com/album/7AG6Mxy9qY4OMYCPMabYJd) | 2:33 | 2025-05-09 | 2025-05-23 |
 | [Slave Mill](https://open.spotify.com/track/4hvhYBWFbNfBHk5OGAFqmw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:48 | 2024-03-21 | 2024-03-25 |
+| [SLiDE](https://open.spotify.com/track/3jfWO9owdGpkNFq0gtHszK) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [SLiDE](https://open.spotify.com/album/5Vs1bARehxJBSjPYy1piOj) | 3:02 | 2026-05-08 |  |
 | [Slide](https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Slide](https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM) | 2:06 | 2025-08-22 | 2025-10-08 |
 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 | 2021-12-17 | 2023-06-17 |
 | [Slow](https://open.spotify.com/track/529UbUitoTJqEO5do3znnW) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Slow](https://open.spotify.com/album/6ou78tufapX7uj4wawzjJy) | 2:49 | 2022-09-09 | 2022-11-04 |

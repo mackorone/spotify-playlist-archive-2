@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-199 songs - 13 hr 17 min
+201 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Lift Me Up](https://open.spotify.com/track/6QBESGYjXGRl8Kml65tWNQ) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 3:21 | 2025-09-22 |  |
 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 | 2025-09-19 |  |
 | [Loved By You](https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:03 | 2025-01-31 | 2025-09-23 |
+| [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 | 2026-05-08 |  |
 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 | 2024-11-01 |  |
 | [Mercy / Tremble](https://open.spotify.com/track/1Ul65pE6ynBJMowHg4YEAe) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:42 | 2025-01-31 | 2025-09-20 |
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Eden \(Live\)](https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y) | 8:02 | 2025-02-28 |  |
@@ -171,6 +172,7 @@
 | [Thank You For The Cross](https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Thank You For The Cross](https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4) | 4:30 | 2025-01-31 |  |
 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 | 2024-08-09 |  |
 | [The 99](https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [I LOVE JESUS](https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe) | 3:21 | 2025-09-19 |  |
+| [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 | 2026-05-08 |  |
 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 | 2026-01-12 |  |
 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 | 2026-01-16 | 2026-04-15 |
 | [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 | 2024-10-25 | 2025-09-20 |

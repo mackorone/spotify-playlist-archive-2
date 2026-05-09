@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Agnes Nunes",
-  "num_followers": 435070,
+  "num_followers": 435060,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI9qKzT0uQidEZXuo8fuF5v22+A2",
+  "snapshot_id": "AAAAAIXac253jb9tYjo/3+0NEf16Ojec",
   "tracks": [
     {
       "added_at": "2026-05-01 03:01:20",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "Troco Likes 10 Anos",
         "url": "https://open.spotify.com/album/4ENAQW1v7CNmUjxJckfqI5"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 205671,
       "name": "Cataflor",
       "url": "https://open.spotify.com/track/3KQgz9YoHSBPUZHHwZ6nbR"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -415,6 +415,46 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "dois brilhantes",
+        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
+      },
+      "artists": [
+        {
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "Lucas Vasconcellos",
+          "url": "https://open.spotify.com/artist/5GzNsZINw8YeKmtfstbZtb"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 203311,
+      "name": "dois brilhantes",
+      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -451,22 +491,6 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
         "name": "Amar \u00e9 dor",
         "url": "https://open.spotify.com/album/60UzUxJuZurdsMLBnkFqgX"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 149523,
       "name": "Amar \u00e9 dor",
       "url": "https://open.spotify.com/track/0KGzsjWpPi3Wjre5DaJQ5t"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "dois brilhantes",
-        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
-      },
-      "artists": [
-        {
-          "name": "Dado Villa-Lobos",
-          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
-        },
-        {
-          "name": "Lucas Vasconcellos",
-          "url": "https://open.spotify.com/artist/5GzNsZINw8YeKmtfstbZtb"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 203311,
-      "name": "dois brilhantes",
-      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
         "name": "Um Doce, Uma Flor",
         "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
         }
       ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -743,6 +727,22 @@
       "duration_ms": 174139,
       "name": "sofrer por voc\u00ea",
       "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "colete \u00e0 prova de m\u00e1goas",
+        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "colete \u00e0 prova de m\u00e1goas",
+      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "Quarto",
         "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
@@ -835,6 +851,22 @@
       "duration_ms": 165676,
       "name": "T\u00e3o Perto",
       "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -859,34 +891,18 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "colete \u00e0 prova de m\u00e1goas",
-        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "colete \u00e0 prova de m\u00e1goas",
-      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -907,22 +923,6 @@
       "duration_ms": 142553,
       "name": "BOCA GOSTOSA",
       "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
-        "name": "SENSA\u00c7\u00c3O BONITA",
-        "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 159997,
-      "name": "SENSA\u00c7\u00c3O BONITA",
-      "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
         "name": "Del Amor Una Bandera",
         "url": "https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 187154,
       "name": "Del Amor Una Bandera",
       "url": "https://open.spotify.com/track/2UVQCFIHDHAvLEABsn5bqE"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
+        "name": "SENSA\u00c7\u00c3O BONITA",
+        "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 159997,
+      "name": "SENSA\u00c7\u00c3O BONITA",
+      "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
     },
     {
       "added_at": "2026-05-01 03:01:20",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-05-01 03:01:20",
       "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
+    },
+    {
+      "added_at": "2026-05-01 03:01:20",
+      "album": {
         "name": "BALAN\u00c7O",
         "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
-    },
-    {
-      "added_at": "2026-05-01 03:01:20",
-      "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-05-01 03:01:20",

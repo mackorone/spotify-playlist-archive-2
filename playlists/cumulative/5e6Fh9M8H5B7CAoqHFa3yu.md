@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,196 songs - 5 day 10 hr 0 min
+2,198 songs - 5 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Do Good](https://open.spotify.com/track/38UQXcKIImPXRiYjNfZARG) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Komadub](https://open.spotify.com/artist/5QSz1eRMvZIAkvBATsz4ob) | [Do Good](https://open.spotify.com/album/7zuEb5FEYogyGK6Ntjh2XE) | 4:10 | 2024-03-25 |  |
 | [Do Outro Lado da Rua](https://open.spotify.com/track/0ltwRdcobZeo4kEkgFQOYk) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Do Outro Lado da Rua](https://open.spotify.com/album/3BcEjngH9PV2W3L3mNDDYK) | 2:45 | 2025-05-25 |  |
 | [Doble lazo](https://open.spotify.com/track/4Z288tB6RJzge7RbPChNZ5) | [LOS PÁJAROSS](https://open.spotify.com/artist/1RcuUbplaqk6mZOdgy9fNN) | [Indescriptible](https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN) | 4:19 | 2025-07-14 |  |
+| [DOG DAG BAU BAU](https://open.spotify.com/track/4V9lYkf9gujT8zaRiUInXZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [DOG DAG BAU BAU](https://open.spotify.com/album/6CLNMEMnfF1OgvLo9Sbjwq) | 2:06 | 2026-05-08 |  |
 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 | 2026-01-23 |  |
 | [DON JOSÉ](https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [DON JOSÉ](https://open.spotify.com/album/58uAz87OfcgRwB0o5evMPY) | 4:24 | 2026-04-18 |  |
 | [Don't Give Up](https://open.spotify.com/track/7FjhQCzRb6Gosec1DzVgCV) | [Bagjuice](https://open.spotify.com/artist/4oWnABl83YPO88wXnPflld) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:18 | 2024-03-23 |  |
@@ -1053,6 +1054,7 @@
 | [Lasciamo Sempre Un Segno](https://open.spotify.com/track/1Jvykqnwzae9A8162J4NJC) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Lasciamo Sempre Un Segno](https://open.spotify.com/album/6xoxoj6MGwMERppznY7ds2) | 4:24 | 2025-08-19 |  |
 | [Last Chance](https://open.spotify.com/track/08j9z5FBr2V1ASP14PPq8S) | [Hermit Dubz](https://open.spotify.com/artist/0nHH3n6c05s27skeVPxZbf), [Knati P](https://open.spotify.com/artist/26Zbmi23b2LUfjRwg3bP1v) | [Fyah Fi Babylon](https://open.spotify.com/album/6S2l1zxJDtOaT3XezJFpNk) | 3:12 | 2024-03-23 |  |
 | [Last Chance \- Dub](https://open.spotify.com/track/2ae3Yjpstd6kq9Ss0ZWOXd) | [Hermit Dubz](https://open.spotify.com/artist/0nHH3n6c05s27skeVPxZbf), [Knati P](https://open.spotify.com/artist/26Zbmi23b2LUfjRwg3bP1v) | [Fyah Fi Babylon](https://open.spotify.com/album/6S2l1zxJDtOaT3XezJFpNk) | 3:13 | 2024-03-23 |  |
+| [Last Night](https://open.spotify.com/track/7tnhmN304sF7ezswPDklxP) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:39 | 2026-05-08 |  |
 | [Last Song](https://open.spotify.com/track/3cEZDNypHqy8MMzOjxS3b2) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Last Song](https://open.spotify.com/album/4IZRDZwXAturTiBDTxAiUh) | 3:12 | 2025-08-10 |  |
 | [Last Train to London](https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:32 | 2024-03-04 |  |
 | [lastet](https://open.spotify.com/track/1SQsDwPlIxoBbUyjvET7US) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Abandoned Payphone Prayers](https://open.spotify.com/album/5Z2G3coccrXAdhazbNk0O1) | 2:09 | 2025-11-20 |  |

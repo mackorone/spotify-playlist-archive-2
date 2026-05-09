@@ -2206,10 +2206,36 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 153253,
       "name": "CAFAJE$TE - Spotify Singles",
       "url": "https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3"
+    },
+    {
+      "album": {
+        "name": "Caindo em si",
+        "url": "https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Manel Beats",
+          "url": "https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170927,
+      "name": "Caindo em si",
+      "url": "https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT"
     },
     {
       "album": {
@@ -6544,7 +6570,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 177830,
       "name": "Maldito Papel",
       "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
@@ -11196,6 +11222,28 @@
       "duration_ms": 147326,
       "name": "Sei L\u00e1 (Papatracks#7)",
       "url": "https://open.spotify.com/track/7DDTnzUzUiynlMQwGqWuJz"
+    },
+    {
+      "album": {
+        "name": "Se N\u00e3o Sabe Agora Sabe, Vol. 1",
+        "url": "https://open.spotify.com/album/0AmHaCOUrjzxA79wlb3Zao"
+      },
+      "artists": [
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        },
+        {
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159911,
+      "name": "Selva Russa",
+      "url": "https://open.spotify.com/track/21309SlGrywf6x8sy7lwRe"
     },
     {
       "album": {

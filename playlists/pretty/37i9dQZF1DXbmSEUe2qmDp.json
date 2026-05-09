@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Cristinas",
-  "num_followers": 484058,
+  "num_followers": 484052,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Aqui Tem Sentimento, Ep.3",
+        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 193283,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "N\u00famero Chato (Ao Vivo)",
         "url": "https://open.spotify.com/album/1eHpcJfss839hxB07LtRfu"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 194459,
       "name": "N\u00famero Chato - Ao Vivo",
       "url": "https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Aqui Tem Sentimento, Ep.3",
-        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 193283,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Cadeado No Dedo",
-        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
-      },
-      "artists": [
-        {
-          "name": "Ruan e Davi",
-          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
-        }
-      ],
-      "duration_ms": 125970,
-      "name": "Cadeado No Dedo",
-      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Sofrimento Louco",
         "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Cadeado No Dedo",
+        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
+      },
+      "artists": [
+        {
+          "name": "Ruan e Davi",
+          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
+        }
+      ],
+      "duration_ms": 125970,
+      "name": "Cadeado No Dedo",
+      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 166500,
       "name": "Tanto Faz - Ao Vivo",
       "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 155496,
-      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
-      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -367,6 +351,22 @@
       "duration_ms": 228351,
       "name": "Cacos de Briga - Ao Vivo",
       "url": "https://open.spotify.com/track/0aTRJjEmWkXicXmzZFeuxS"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
+      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Simplesmente Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
-      },
-      "artists": [
-        {
-          "name": "J\u00fanior e C\u00e9zar",
-          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "Garrafa De \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 164746,
       "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Simplesmente Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "duration_ms": 146206,
+      "name": "Garrafa De \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Nem Tira A Roupa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
+      },
+      "artists": [
+        {
+          "name": "Lorena Cristine",
+          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Nem Tira A Roupa - Ao Vivo",
+      "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "Vou Ou N\u00e3o Vou",
         "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 150051,
       "name": "Muvuca - Ao Vivo",
       "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Nem Tira A Roupa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
-      },
-      "artists": [
-        {
-          "name": "Lorena Cristine",
-          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "Nem Tira A Roupa - Ao Vivo",
-      "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Mais 18",
-        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
-      },
-      "artists": [
-        {
-          "name": "Jayne Martins",
-          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
-        },
-        {
-          "name": "Lucca e Mateus",
-          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
-        }
-      ],
-      "duration_ms": 163605,
-      "name": "Mais 18",
-      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
       },
@@ -911,6 +891,26 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Mais 18",
+        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
+      },
+      "artists": [
+        {
+          "name": "Jayne Martins",
+          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+        },
+        {
+          "name": "Lucca e Mateus",
+          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Mais 18",
+      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "Baila Que Baila (Ao Vivo)",
         "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
-        "name": "Ao Vivo em Campo Grande, EP. 1",
-        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
-      },
-      "artists": [
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 145900,
-      "name": "Vivendo Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
         "name": "Resenha das Braba",
         "url": "https://open.spotify.com/album/3wwcnDA29ACJXXCm3cJ2qA"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 149909,
       "name": "Nunca \u00e9 Demais",
       "url": "https://open.spotify.com/track/4IMlU0sY3X6lgvQwJWwmws"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
+        "name": "Ao Vivo em Campo Grande, EP. 1",
+        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 145900,
+      "name": "Vivendo Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
     },
     {
       "added_at": "2026-05-08 03:03:35",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-05-08 03:03:35",
       "album": {
+        "name": "Retronejo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
+      },
+      "artists": [
+        {
+          "name": "Matheus Henrique & Gabriel",
+          "url": "https://open.spotify.com/artist/0k2WWgstIfg1IXJbsxf0pZ"
+        }
+      ],
+      "duration_ms": 145722,
+      "name": "Cerveja Falando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
+    },
+    {
+      "added_at": "2026-05-08 03:03:35",
+      "album": {
         "name": "No 12 & Sem Freio, Vol. 5 (Ao Vivo)",
         "url": "https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 192434,
       "name": "T\u00f4 Preparada - Ao Vivo",
       "url": "https://open.spotify.com/track/2JYLmG4jBSFyNjOOFIYu0x"
-    },
-    {
-      "added_at": "2026-05-08 03:03:35",
-      "album": {
-        "name": "Retronejo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
-      },
-      "artists": [
-        {
-          "name": "Matheus Henrique & Gabriel",
-          "url": "https://open.spotify.com/artist/0k2WWgstIfg1IXJbsxf0pZ"
-        }
-      ],
-      "duration_ms": 145722,
-      "name": "Cerveja Falando - Ao Vivo",
-      "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
     },
     {
       "added_at": "2026-05-08 03:03:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,693 likes - 109 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,800 likes - 109 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 6 | [Astaga Bercanda](https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv) | [Akbar Chalay](https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW), [Mingse](https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I) | [Astaga Bercanda](https://open.spotify.com/album/03NBHdtrGXlm3VHkjFAiSY) | 2:46 |
 | 7 | [Ancika \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Ancika \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8) | 3:18 |
 | 8 | [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 |
-| 9 | [Track 1](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 0:00 |
+| 9 | [I Love You](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 4:20 |
 | 10 | [waiting \(come home\)](https://open.spotify.com/track/2LXksa3hvj46aQxe8ZabBY) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [waiting \(come home\)](https://open.spotify.com/album/0A0Sbrium6R309Ojvg6kSm) | 4:17 |
 | 11 | [Bintang Padel Instagram](https://open.spotify.com/track/5PHt23QPhYy0citE870hW9) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Pasming Based](https://open.spotify.com/artist/5GNp3B05yQffVjau4lM4aY), [Rereceh](https://open.spotify.com/artist/0hapLSVQ4BW1RJ3vjfJzAh) | [Bintang Padel Instagram](https://open.spotify.com/album/1cB5OvSwDVVMTHJsSbfEwf) | 3:14 |
 | 12 | [seketika](https://open.spotify.com/track/432AvgkVqNjwXiN5xjuOuu) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [RnBoyz\*](https://open.spotify.com/artist/2bM5A9TJgQx73gk2f7dNbK), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [seketika](https://open.spotify.com/album/2A7jRtmtLimeOUVAKRlaog) | 2:50 |

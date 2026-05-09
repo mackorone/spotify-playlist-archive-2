@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-399 songs - 23 hr 2 min
+400 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 | 2022-04-15 | 2025-06-21 |
 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 | 2022-04-15 | 2023-05-23 |
 | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy) | 2:47 | 2024-08-09 | 2025-07-26 |
+| [Go \(I Don't Wanna\) \- Denon Reed Remix](https://open.spotify.com/track/5XpAHtl1i3BtBhmV7Njp5b) | [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Go \(I Don't Wanna\) \[Denon Reed Remix\]](https://open.spotify.com/album/3IvL6KHEcGvbXqXLIpkTaU) | 2:43 | 2026-05-08 |  |
 | [GOOD 4 U](https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [GOOD 4 U](https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR) | 2:40 | 2024-11-29 | 2026-01-15 |
 | [Got A Groove](https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy) | [Got A Groove](https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd) | 4:31 | 2022-04-15 | 2022-12-25 |
 | [Great Britain](https://open.spotify.com/track/3LrhCawWwCWOkSo64cylBI) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Kivi](https://open.spotify.com/artist/6Z8FZrQpcx5zyTfIT9TjvZ), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Great Britain](https://open.spotify.com/album/5YehvXMUCvaaMfiOlaQd9t) | 3:14 | 2025-06-20 | 2025-07-25 |
@@ -286,7 +287,7 @@
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-04-22 | 2023-12-22 |
 | [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 | 2023-08-24 | 2025-07-24 |
 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 | 2024-03-01 | 2026-01-16 |
-| [Parental Advisory](https://open.spotify.com/track/25kky3uhTdQcsyLvAAqAbT) | [Thorpey](https://open.spotify.com/artist/0rDcLHF98t9GKFkzikb7iO), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Parental Advisory](https://open.spotify.com/album/45xTX64fcl7wvtYEllVMeD) | 3:18 | 2026-04-23 |  |
+| [Parental Advisory](https://open.spotify.com/track/25kky3uhTdQcsyLvAAqAbT) | [Thorpey](https://open.spotify.com/artist/0rDcLHF98t9GKFkzikb7iO), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Parental Advisory](https://open.spotify.com/album/45xTX64fcl7wvtYEllVMeD) | 3:18 | 2026-04-23 | 2026-05-09 |
 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 | 2022-07-14 | 2025-04-27 |
 | [Party Starter \(feat\. Slick Don\)](https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Seshame Street EP](https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6) | 3:01 | 2024-04-05 | 2025-04-27 |
 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 | 2024-05-17 | 2026-01-16 |

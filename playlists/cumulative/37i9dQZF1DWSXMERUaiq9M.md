@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: Brutalismus 3000
 
-710 songs - 1 day 18 hr 44 min
+711 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 | 2025-11-07 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-04-06 |  |
 | [HOW WE GET](https://open.spotify.com/track/291Y9MeF8pnIfqZPqSV7Gy) | [Bruno Brero](https://open.spotify.com/artist/1QhdMPjpZukcfa9gHJOlAO), [CARGO](https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe), [Hanne B](https://open.spotify.com/artist/2BtaIszxPIaEd1g9u6Ni7W) | [HOW WE GET](https://open.spotify.com/album/2tMez4F42VqibciWSK58aV) | 3:35 | 2026-02-05 | 2026-02-27 |
-| [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 | 2025-11-07 |  |
+| [Hymn](https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 8:13 | 2025-11-07 | 2026-05-09 |
 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 | 2025-05-22 | 2025-06-16 |
 | [Hypnotized](https://open.spotify.com/track/27c8cMslxtKNlC9WPVJtgF) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Night Shades \- EP](https://open.spotify.com/album/3QmhqCq5JU2MPfYexROuBT) | 3:45 | 2024-07-25 | 2024-08-02 |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-03-10 | 2024-05-06 |
@@ -472,6 +472,7 @@
 | [ON REPEAT](https://open.spotify.com/track/25IAOVi773nomfvgEmAMLY) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Bassfeature](https://open.spotify.com/artist/6gJ6e0zgqpzY9032oXvb8l) | [ON REPEAT](https://open.spotify.com/album/5RRbzqP3YIcWhinEigBuc0) | 2:25 | 2025-05-22 | 2025-06-06 |
 | [One Last Time](https://open.spotify.com/track/29jpjbsZz3nsNxUlqisJaP) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [I Thought It Would Never End](https://open.spotify.com/album/78aVBtjGo7hdkDnVbVWhES) | 6:37 | 2024-12-28 | 2025-01-07 |
 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 | 2025-03-06 | 2026-01-26 |
+| [One Two Police](https://open.spotify.com/track/7zAziLDSmHWHAm0fF2RAfF) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [One Two Police](https://open.spotify.com/album/3abSoU5GHNmiyb8TJ38CC4) | 2:46 | 2026-05-08 |  |
 | [Only One](https://open.spotify.com/track/576mVXUFpVKsvySHclibLU) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Only One](https://open.spotify.com/album/1pHFCKqRj62UlUnRIWEcmD) | 2:20 | 2025-10-16 |  |
 | [Open Air \- Bauernfeind & MRD Remix](https://open.spotify.com/track/67nT9OXkvqivVPdvLgNjwd) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Bauernfeind](https://open.spotify.com/artist/0h154IoHceoxecVBZSopbt), [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 5:20 | 2023-03-10 | 2023-03-25 |
 | [P.A.R.T.Y.](https://open.spotify.com/track/6cdwuEuy9h42etVznXLTtd) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [P.A.R.T.Y.](https://open.spotify.com/album/0qYPyKXjit9qxZfehmx4xf) | 7:13 | 2023-03-10 | 2023-03-25 |

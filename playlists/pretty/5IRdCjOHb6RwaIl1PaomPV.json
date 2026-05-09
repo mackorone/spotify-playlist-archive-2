@@ -1,12 +1,12 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, Safety Trance,  Glayden + more.",
-  "num_followers": 50392,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, DJ_Dave, Safety Trance, &amp; more.",
+  "num_followers": 50390,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAeZ7xm+zZmkd/erqfBMy+CXDWWnGiv",
+  "snapshot_id": "AAAedg+A0bpi/08/0VRHpxfAxleTo0yY",
   "tracks": [
     {
       "added_at": "2026-04-24 21:21:47",
@@ -31,6 +31,126 @@
       "duration_ms": 156848,
       "name": "GUAYANDO - Lykke Li Remix",
       "url": "https://open.spotify.com/track/3HG1ly6lMtWy3tPXFO8iJS"
+    },
+    {
+      "added_at": "2026-05-08 22:32:51",
+      "album": {
+        "name": "Fail-safe",
+        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 207434,
+      "name": "Fail-safe",
+      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
+    },
+    {
+      "added_at": "2026-05-08 22:33:32",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
+    },
+    {
+      "added_at": "2026-05-08 22:33:20",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Solitary",
+      "url": "https://open.spotify.com/track/34d3Ecpxkiw67mJmDxSsiF"
+    },
+    {
+      "added_at": "2026-05-08 22:34:32",
+      "album": {
+        "name": "sacrificio",
+        "url": "https://open.spotify.com/album/4YxkFeWq5LNXZiWgsDDaKX"
+      },
+      "artists": [
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        },
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "most of me (is elsewhere)",
+      "url": "https://open.spotify.com/track/2YisZHJZM6Zix26Qb8VwxK"
+    },
+    {
+      "added_at": "2026-05-08 22:36:28",
+      "album": {
+        "name": "everyone was talking about you last night (CFCF remix)",
+        "url": "https://open.spotify.com/album/71yRjNWycSntccqwLduFx4"
+      },
+      "artists": [
+        {
+          "name": "dance arts center",
+          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "duration_ms": 331615,
+      "name": "everyone was talking about you last night - CFCF remix",
+      "url": "https://open.spotify.com/track/0a0bypjWNDPshetjw2HSIN"
+    },
+    {
+      "added_at": "2026-05-08 22:37:01",
+      "album": {
+        "name": "Ne Plus Ultra",
+        "url": "https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Ne Plus Ultra",
+      "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
     },
     {
       "added_at": "2026-04-24 21:20:42",
@@ -249,26 +369,6 @@
       "url": "https://open.spotify.com/track/6t8M5CYfa6Z66BNn4dDIs1"
     },
     {
-      "added_at": "2026-04-09 19:59:19",
-      "album": {
-        "name": "canada",
-        "url": "https://open.spotify.com/album/4RMMd6k7Qi0TOkRXJ32NOc"
-      },
-      "artists": [
-        {
-          "name": "444Jet",
-          "url": "https://open.spotify.com/artist/5p7TgJv1xSdWcsczKh4Awz"
-        },
-        {
-          "name": "snoa",
-          "url": "https://open.spotify.com/artist/1WH4OmgU1ecKMOmAK6qJsz"
-        }
-      ],
-      "duration_ms": 84062,
-      "name": "canada",
-      "url": "https://open.spotify.com/track/06Efwoa4Woh4AzRdLwDESt"
-    },
-    {
       "added_at": "2026-04-09 19:53:09",
       "album": {
         "name": "duro",
@@ -291,26 +391,6 @@
       "duration_ms": 152400,
       "name": "duro",
       "url": "https://open.spotify.com/track/16qDusAUuoWIC6Q54bwud0"
-    },
-    {
-      "added_at": "2026-04-09 20:00:53",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 169856,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
     },
     {
       "added_at": "2026-04-09 19:57:54",
@@ -383,78 +463,6 @@
       "duration_ms": 133072,
       "name": "my world",
       "url": "https://open.spotify.com/track/6SKx1auoeFDF3MKkDYw5gZ"
-    },
-    {
-      "added_at": "2026-03-20 20:10:33",
-      "album": {
-        "name": "40 De Fiebre",
-        "url": "https://open.spotify.com/album/6dCzLqBhBtf7Blp9oEEDME"
-      },
-      "artists": [
-        {
-          "name": "PETERBLUE",
-          "url": "https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "DEMBOTRONIC",
-      "url": "https://open.spotify.com/track/4OmwYlWTnSMuHhTkPZBkud"
-    },
-    {
-      "added_at": "2026-03-20 20:11:26",
-      "album": {
-        "name": "di\u01ceo",
-        "url": "https://open.spotify.com/album/6PIK0ovNBOChRZwfIrGa1N"
-      },
-      "artists": [
-        {
-          "name": "Billionhappy",
-          "url": "https://open.spotify.com/artist/348VulOjvQcgJgL8hBCFZr"
-        }
-      ],
-      "duration_ms": 132064,
-      "name": "\u9634\u6697B",
-      "url": "https://open.spotify.com/track/2a8q7i7CkOL5PyrlIA1i9H"
-    },
-    {
-      "added_at": "2026-03-20 20:01:05",
-      "album": {
-        "name": "Needle Guy",
-        "url": "https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Ashley",
-      "url": "https://open.spotify.com/track/09xawpsoP99JGP32qd91oS"
-    },
-    {
-      "added_at": "2026-03-20 20:02:04",
-      "album": {
-        "name": "Bleached",
-        "url": "https://open.spotify.com/album/3fm5uEHogwcjhaWsR4RboN"
-      },
-      "artists": [
-        {
-          "name": "R\u00eaves",
-          "url": "https://open.spotify.com/artist/1krXBnKRxsQB20MElmeQJX"
-        },
-        {
-          "name": "eleno",
-          "url": "https://open.spotify.com/artist/69uQb8icTABExmglGqQ9fS"
-        }
-      ],
-      "duration_ms": 120294,
-      "name": "SSRI",
-      "url": "https://open.spotify.com/track/2F6WDzqAk24IvRtfj7A6Lm"
     },
     {
       "added_at": "2026-03-20 20:11:55",
@@ -859,22 +867,6 @@
       "duration_ms": 145740,
       "name": "Mr. Chow .",
       "url": "https://open.spotify.com/track/0g9DHUWhX2j3D9pGjBPFa5"
-    },
-    {
-      "added_at": "2026-02-19 20:37:54",
-      "album": {
-        "name": "Daysa",
-        "url": "https://open.spotify.com/album/6sa04Ldf6eekpFlo6KFt8Z"
-      },
-      "artists": [
-        {
-          "name": "\u232d IceMorph \u232c",
-          "url": "https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Daysa",
-      "url": "https://open.spotify.com/track/1P5dM8HEgjyG1pGQTqfT0J"
     },
     {
       "added_at": "2026-02-19 20:42:41",
@@ -1315,30 +1307,6 @@
       "duration_ms": 201012,
       "name": "So Sweet & Willing",
       "url": "https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh"
-    },
-    {
-      "added_at": "2025-10-16 20:39:48",
-      "album": {
-        "name": "Rest Here",
-        "url": "https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL"
-      },
-      "artists": [
-        {
-          "name": "Car Culture",
-          "url": "https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4"
-        },
-        {
-          "name": "Physical Therapy",
-          "url": "https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO"
-        },
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 269614,
-      "name": "Doesn't Really Matter",
-      "url": "https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl"
     },
     {
       "added_at": "2025-10-16 20:44:41",

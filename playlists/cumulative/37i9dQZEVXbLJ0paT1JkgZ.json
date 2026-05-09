@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "album": {
         "name": "LAS FILTRADAS",
         "url": "https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq"
       },
@@ -4532,7 +4550,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -6292,7 +6310,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 246732,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/7piIoom78DuFKQARwLrWoe"
@@ -7263,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6aKMJ6y9NSSQctDIqsuGYa"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166342,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/4WegEknoxkBCLuRQf6BEEB"
+    },
+    {
+      "album": {
         "name": "NO ME DIGAS",
         "url": "https://open.spotify.com/album/6c23WvT7TIoCBhlguNVWT0"
       },
@@ -7728,7 +7764,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 141595,
       "name": "One Of The Girlz",
       "url": "https://open.spotify.com/track/7JNlM7gnYUVaEFHsMzgQin"
@@ -8370,6 +8406,24 @@
       "duration_ms": 183673,
       "name": "PONTE LOKITA",
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
+    },
+    {
+      "album": {
+        "name": "PONTE PONTE",
+        "url": "https://open.spotify.com/album/5HPIf5hs1fZwOBHMMqwzs7"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164377,
+      "name": "PONTE PONTE",
+      "url": "https://open.spotify.com/track/5pmWnKBWCUazCzhwmKQ4yY"
     },
     {
       "album": {
@@ -9424,7 +9478,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 291459,
       "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
       "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
@@ -10244,7 +10298,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150857,
       "name": "Talento",
       "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
@@ -11366,7 +11420,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
@@ -11510,7 +11564,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

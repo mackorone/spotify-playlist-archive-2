@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Pamungkas
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Olivia Rodrigo
 
-1,572 songs - 3 day 22 hr 45 min
+1,577 songs - 3 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,12 +392,14 @@
 | [Dream](https://open.spotify.com/track/78w38QMvXYulFfP6AKFVdk) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:43 | 2025-03-21 | 2025-09-20 |
 | [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 | 2024-02-01 | 2024-03-27 |
 | [dreams, books, power and walls](https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:57 | 2025-03-13 | 2025-05-23 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-05-08 |  |
 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 | 2025-05-28 | 2025-06-20 |
 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-11-22 | 2024-12-04 |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2023-03-23 | 2024-08-29 |
 | [drunk text](https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:07 | 2024-03-14 | 2024-04-19 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-23 | 2026-04-11 |
 | [Dua Rasa Jadi Satu](https://open.spotify.com/track/3jUSRri5r4jIQ63EoeCRMP) | [Niky Putra](https://open.spotify.com/artist/5b8rBEeqtJSKawLZCLazVD), [Mario Caesar](https://open.spotify.com/artist/6WJfhZQVJ3JK2lZxwMPMva) | [Dua Rasa Jadi Satu](https://open.spotify.com/album/2tcNM2NvPmZ9V5uYthmuwu) | 2:09 | 2026-03-27 | 2026-04-11 |
+| [Dulu Kita Masih Remaja \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Dulu Kita Masih Remaja \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2) | 3:01 | 2026-05-08 |  |
 | [Dulu Memang Cinta](https://open.spotify.com/track/3d6zV36mKy0ShSgmBMm3oS) | [Putri Tanjung](https://open.spotify.com/artist/0YP9OgyAgc7vZelWXj765a), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Dulu Memang Cinta](https://open.spotify.com/album/29KrA0ucg3agGF6CZZcfrN) | 3:00 | 2025-04-09 | 2025-05-23 |
 | [duniakitaberdua](https://open.spotify.com/track/0ZsaPxM1dmNuvBFzL9mBsR) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [duniakitaberdua](https://open.spotify.com/album/4TTL6Is7Gi32NOOEHS7Qbx) | 2:35 | 2025-10-17 | 2025-11-08 |
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-11-13 | 2024-12-04 |
@@ -641,6 +643,7 @@
 | [I’m Not That Girl](https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 3:57 | 2024-12-11 | 2025-01-03 |
 | [Jadi Tuan Putri](https://open.spotify.com/track/0Gm4kBHqEQjRfZdxyQE34L) | [Asila Maisa](https://open.spotify.com/artist/0RdcUOv3TaCqZYuzOY8gRd) | [Jadi Tuan Putri](https://open.spotify.com/album/707IGnRDU5iD3sNGnz6DXU) | 4:03 | 2025-07-15 | 2025-09-05 |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-03-23 | 2023-09-01 |
+| [Jalan Keluar](https://open.spotify.com/track/3pPtbTaTyh6zGJjAYT8Crr) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:19 | 2026-05-08 |  |
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-23 | 2023-05-05 |
 | [JAMET](https://open.spotify.com/track/5Lam1J3HDizfmo7u9Nh2ey) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [JAMET](https://open.spotify.com/album/5EYiFu5xrFduu6g2d5VAiI) | 2:21 | 2025-09-12 | 2025-10-10 |
 | [Jane!](https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5) | 3:06 | 2026-04-03 |  |
@@ -813,6 +816,7 @@
 | [Magic Hour](https://open.spotify.com/track/2k7cxrmYo5sYdaJn4125St) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Magic Hour](https://open.spotify.com/album/12NWZ9Mqv0wEotkMHmrDNm) | 3:08 | 2024-06-06 | 2024-07-10 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-11 | 2024-07-19 |
 | [Magnets](https://open.spotify.com/track/5lYN6iWRzaWm08s0Fhw6eM) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-28 | 2024-09-19 |
+| [Magnolia](https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Fantasia](https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU) | 4:16 | 2026-05-08 |  |
 | [main\-main!](https://open.spotify.com/track/40tAi41702KbnQcWQjSPwZ) | [RYO](https://open.spotify.com/artist/3nfCxDVevITHrnUT4YouD0), [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp) | [main\-main!](https://open.spotify.com/album/52fFktSf81oZ7InJAykFMP) | 2:08 | 2025-08-20 | 2025-10-10 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-26 | 2023-09-08 |
 | [Makin Aku Cinta](https://open.spotify.com/track/5CtyREB80zdg676XLxgqEb) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [GLENN](https://open.spotify.com/album/38JgbBDqJCfyUkuzBmzreB) | 4:28 | 2025-12-05 | 2026-03-27 |
@@ -1097,6 +1101,7 @@
 | [Reason To Stay](https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 3:18 | 2025-07-04 | 2025-08-23 |
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-23 | 2025-03-08 |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-02-07 | 2025-03-14 |
+| [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 | 2026-05-08 |  |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-02-01 | 2024-02-20 |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-03-23 | 2023-05-12 |
 | [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-19 | 2024-05-10 |

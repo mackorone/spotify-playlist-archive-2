@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Paul Partohap
 
-625 songs - 1 day 12 hr 28 min
+625 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Oh! All My Love \(From "Alpha Girls"\)](https://open.spotify.com/album/63IkYy3t5JcO919xtJ04De) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [OMG](https://open.spotify.com/track/2o2zzWKX9QQx58dxb8UIbd) | [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD), [Keianka](https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9), [Willy Winarko](https://open.spotify.com/artist/1ZF0HA5IH5YwG99h7RgYfI) | [OMG](https://open.spotify.com/album/5vF7Gl5Psqn8e0B9ZdzGVV) | 2:42 | 2025-04-17 | 2025-05-09 |
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-06-27 | 2024-09-27 |
+| [On The Way Up](https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 3:06 | 2026-05-07 |  |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-27 | 2024-10-11 |
 | [ONE LAST KISS](https://open.spotify.com/track/14Wjf3fxtkuc5MZPKo9Ioo) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [PACK UR BAGS, \- Side A](https://open.spotify.com/album/5wcoEGFxeGYx71LmcDFNmv) | 3:52 | 2025-12-04 | 2026-04-10 |
 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-17 | 2025-01-24 |
@@ -574,7 +575,6 @@
 | [TONIGHT](https://open.spotify.com/track/0lioQgT9edE4iwCx4tsHBe) | [CLDGRAY](https://open.spotify.com/artist/0w7Y9t1I6Bxzxsvu4Slpvw) | [TONIGHT](https://open.spotify.com/album/4ID9aUi9LK1oI8eNgCcdyF) | 3:08 | 2024-10-31 | 2024-11-29 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-06-27 | 2025-01-18 |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-07-11 |
-| [Track 4](https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 0:00 | 2026-05-07 |  |
 | [Train Ride Home](https://open.spotify.com/track/4KzFWYSUwLYtqBP0wfECID) | [aya](https://open.spotify.com/artist/4CRwvKZuSEGCjntogXqo1N) | [Train Ride Home](https://open.spotify.com/album/51mLBZhsNZY04UPcZSgHj5) | 3:39 | 2025-04-17 | 2025-06-13 |
 | [Transition](https://open.spotify.com/track/77Cm7H3RvqXE9kXvuXjXUA) | [Soul Of Decay](https://open.spotify.com/artist/3OXI7ZdQqQyR9UmB8wExHA) | [Transition](https://open.spotify.com/album/7t2BiD6aTuWb677C2tLm93) | 4:24 | 2024-09-26 | 2025-01-24 |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-29 |  |

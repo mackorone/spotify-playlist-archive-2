@@ -1583,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "Bird Of Paradise",
+        "url": "https://open.spotify.com/album/1Kj2sAhgUfbXdE56FVMrpT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        },
+        {
+          "name": "Nautik",
+          "url": "https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Bird Of Paradise",
+      "url": "https://open.spotify.com/track/3932jpvzNLEiJGSAAZtac3"
+    },
+    {
+      "album": {
         "name": "Boca",
         "url": "https://open.spotify.com/album/7ivFg8nNaoMCZRLSsN5wyu"
       },
@@ -2450,7 +2472,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 173139,
       "name": "Ciempi\u00e9s",
       "url": "https://open.spotify.com/track/7J9xvKV5Pbbnkf3YUDFIDD"
@@ -4674,7 +4696,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
@@ -5332,7 +5354,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
@@ -6651,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Me Encanta EP",
+        "url": "https://open.spotify.com/album/4qhHc5YdH3BpkqOh9Q8iob"
+      },
+      "artists": [
+        {
+          "name": "Justin Garcia",
+          "url": "https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/1WpbVQ3hkP9QubhkNZv3AX"
+    },
+    {
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2n1QiyofmdKMMiQ61SqPGW"
       },
@@ -6810,6 +6850,36 @@
       "duration_ms": 167397,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+    },
+    {
+      "album": {
+        "name": "Mi Combi EP",
+        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
+      },
+      "artists": [
+        {
+          "name": "Ollie BC",
+          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Dany Gomez",
+          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
+        },
+        {
+          "name": "EMBI",
+          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Mi Combi",
+      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
     },
     {
       "album": {
@@ -7852,7 +7922,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"

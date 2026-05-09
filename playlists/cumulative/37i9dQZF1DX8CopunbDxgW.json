@@ -6645,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "Chalk",
+        "url": "https://open.spotify.com/album/3SNghymPlD6CJg7qLj14QY"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322346,
+      "name": "Chalk",
+      "url": "https://open.spotify.com/track/5HdeMdzAlNKwCM4L9cjehN"
+    },
+    {
+      "album": {
         "name": "Arrived Anxious, Left Bored",
         "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
@@ -8574,7 +8592,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 190296,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/24ywd2iYsIrfEaHIOCEhm1"
@@ -11010,7 +11028,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159111,
       "name": "Dying To Know",
       "url": "https://open.spotify.com/track/2iVs3TXOPad8n7YWY5pzqg"
@@ -14090,6 +14108,28 @@
     {
       "album": {
         "name": "Forever",
+        "url": "https://open.spotify.com/album/6MAjiisN6QMWW8lHbsyIb3"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211233,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT"
+    },
+    {
+      "album": {
+        "name": "Forever",
         "url": "https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH"
       },
       "artists": [
@@ -14860,6 +14900,32 @@
       "duration_ms": 215527,
       "name": "get 2 know u",
       "url": "https://open.spotify.com/track/2viKyXsVIxLrNgwGwcFGMN"
+    },
+    {
+      "album": {
+        "name": "Get A Grip (Make A Dance Remix)",
+        "url": "https://open.spotify.com/album/6oYCZ0JR0fVNwTJkmy8aWr"
+      },
+      "artists": [
+        {
+          "name": "Fundido",
+          "url": "https://open.spotify.com/artist/1to9uaFDyrcHAbK8PUhXfh"
+        },
+        {
+          "name": "Emma Dufaux",
+          "url": "https://open.spotify.com/artist/2VfDnBw9HnZveo8RcQOyya"
+        },
+        {
+          "name": "Make A Dance",
+          "url": "https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392013,
+      "name": "Get A Grip - Make A Dance Remix",
+      "url": "https://open.spotify.com/track/1t8ZZYDtprPhRtXU3977NH"
     },
     {
       "album": {
@@ -20921,6 +20987,24 @@
     },
     {
       "album": {
+        "name": "It's All About The Music",
+        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157058,
+      "name": "It's All About The Music",
+      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
+    },
+    {
+      "album": {
         "name": "It's Euphoric (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/2uxnyz1pomXCqsaJcBrVoJ"
       },
@@ -21416,7 +21500,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 189090,
       "name": "JOY (This One)",
       "url": "https://open.spotify.com/track/188ciRFWgwvGO63WwTRcfm"
@@ -25396,7 +25480,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 200192,
       "name": "mangetout - The Dare remix",
       "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
@@ -27018,7 +27102,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 301042,
       "name": "My Melody - TEED Club Mix",
       "url": "https://open.spotify.com/track/2f6NEdZijB2Fuys4DrRCHh"
@@ -27410,7 +27494,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159323,
       "name": "never give up",
       "url": "https://open.spotify.com/track/5H5sYcp6yF5gRIbLlCYVSD"
@@ -31161,6 +31245,24 @@
     },
     {
       "album": {
+        "name": "Sd-3",
+        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Pink Bape Lighter",
+      "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
+    },
+    {
+      "album": {
         "name": "Pink Dress",
         "url": "https://open.spotify.com/album/5siPYM6eCEjNxxReRbTkOD"
       },
@@ -33166,7 +33268,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 157667,
       "name": "ROOM TO BREATHE",
       "url": "https://open.spotify.com/track/5PzUMGvesjj0Waf2U9a0o5"
@@ -36915,6 +37017,24 @@
     },
     {
       "album": {
+        "name": "stick to me like glue",
+        "url": "https://open.spotify.com/album/6OjkAqWGllXZAwcEqkfEqN"
+      },
+      "artists": [
+        {
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203817,
+      "name": "stick to me like glue",
+      "url": "https://open.spotify.com/track/18PNwB15m5RdHri6nUofMc"
+    },
+    {
+      "album": {
         "name": "Still Riding",
         "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
       },
@@ -37286,6 +37406,32 @@
       "duration_ms": 173290,
       "name": "Strike",
       "url": "https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ"
+    },
+    {
+      "album": {
+        "name": "Strike a Fire (feat. Cults)",
+        "url": "https://open.spotify.com/album/1T0cVlBVyApDqBM4SGs7KZ"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227326,
+      "name": "Strike a Fire (feat. Cults)",
+      "url": "https://open.spotify.com/track/2TZBden0i5zcEM7B2te0Wx"
     },
     {
       "album": {
@@ -38054,6 +38200,24 @@
       "duration_ms": 212297,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz"
+    },
+    {
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "album": {
@@ -39402,7 +39566,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 177230,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/7c4MrL6p5YpBq7NpvQqeAF"
@@ -39754,6 +39918,24 @@
       "duration_ms": 189939,
       "name": "There's Only One (feat. Genesis Owusu)",
       "url": "https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg"
+    },
+    {
+      "album": {
+        "name": "There\u2019s Something Here for Us Both",
+        "url": "https://open.spotify.com/album/2fly09UtlyJaGY4Tt1UaOM"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "There\u2019s Something Here for Us Both",
+      "url": "https://open.spotify.com/track/310bPg4gYgXqHKolfGS3Sr"
     },
     {
       "album": {
@@ -40682,7 +40864,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 232000,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"

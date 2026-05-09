@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAT1V+ETufUXbWz3EipIuDA7nG6wxhq",
+  "snapshot_id": "AAAT2aZyj2UFL5qebRH0yWECJqik/yD0",
   "tracks": [
     {
       "added_at": "2026-05-07 22:07:00",
@@ -2387,6 +2387,70 @@
       "duration_ms": 196127,
       "name": "Who Told You, You Could Have Eyes Like That?",
       "url": "https://open.spotify.com/track/5X7cmejiyC0x8hPss6oGZk"
+    },
+    {
+      "added_at": "2026-05-08 09:22:00",
+      "album": {
+        "name": "Welcome to the Devil's Room",
+        "url": "https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5"
+      },
+      "artists": [
+        {
+          "name": "Hellblazers",
+          "url": "https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Bed Made of Roses",
+      "url": "https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP"
+    },
+    {
+      "added_at": "2026-05-08 09:22:19",
+      "album": {
+        "name": "Perfect Paradise",
+        "url": "https://open.spotify.com/album/3GbHrP9cSd59SaLrvf1RZw"
+      },
+      "artists": [
+        {
+          "name": "Jaco Muller",
+          "url": "https://open.spotify.com/artist/5fYU4xr6F9OJecUbU2xHeo"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Perfect Paradise",
+      "url": "https://open.spotify.com/track/0G2RueU8XoUokKD2pDWvVa"
+    },
+    {
+      "added_at": "2026-05-08 09:49:15",
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/2ETuq1DDCZryjQQFNJxPLz"
+      },
+      "artists": [
+        {
+          "name": "Justyn Cairo",
+          "url": "https://open.spotify.com/artist/6Ej4tehqEWvLRd23RkS9a6"
+        }
+      ],
+      "duration_ms": 176623,
+      "name": "Sing That Note",
+      "url": "https://open.spotify.com/track/6agxfeIlKwBzmOTkqO3j2c"
+    },
+    {
+      "added_at": "2026-05-08 09:49:20",
+      "album": {
+        "name": "Freedom Over Us",
+        "url": "https://open.spotify.com/album/7yDNUYCavjlEcqXZ8YTOMc"
+      },
+      "artists": [
+        {
+          "name": "LORIAN",
+          "url": "https://open.spotify.com/artist/1FFOakr7SAJqq2yVHBHJ3d"
+        }
+      ],
+      "duration_ms": 224999,
+      "name": "Freedom Over Us",
+      "url": "https://open.spotify.com/track/2rN906QcRLaoCNU0BLWKbx"
     }
   ],
   "unique_name": "New Indie Music",

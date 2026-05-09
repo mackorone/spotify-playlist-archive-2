@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,966 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,042 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 10 | [Verlieb dich nicht](https://open.spotify.com/track/5NuuAdyq4zcQDDHUF0IwhG) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Verlieb dich nicht](https://open.spotify.com/album/1zFyurFFulPJuLYyt2TSzD) | 2:16 |
 | 11 | [fernweh](https://open.spotify.com/track/1lpAlQmX9jqJoaHIA9iChT) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [fernweh](https://open.spotify.com/album/7iZdFkc4hoY8gax46TYuEO) | 3:05 |
 | 12 | [Auf dich](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Auf dich](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
-| 13 | [Track 5](https://open.spotify.com/track/30YonV3sLjut7kp72bwUNG) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/album/3tXhASty0nK3P7Nydlq1OO) | 0:00 |
-| 14 | [Track 2](https://open.spotify.com/track/3SKR6SsypiYeajZ4H2pDZJ) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Sternstunde](https://open.spotify.com/album/6zI1kM64SlTmN97nLHOQwO) | 0:00 |
+| 13 | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/track/30YonV3sLjut7kp72bwUNG) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/album/3tXhASty0nK3P7Nydlq1OO) | 2:37 |
+| 14 | [Halb So Wild](https://open.spotify.com/track/3SKR6SsypiYeajZ4H2pDZJ) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Sternstunde](https://open.spotify.com/album/6zI1kM64SlTmN97nLHOQwO) | 2:51 |
 | 15 | [Malediven](https://open.spotify.com/track/1UzrkNhFVccHTN1et4nTBR) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Malediven](https://open.spotify.com/album/5bwSStyyL6KQqY4zOsKWFk) | 2:20 |
 | 16 | [Nie verstehen](https://open.spotify.com/track/5IAy7DWnUJwO5JEXpfefKe) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Nie verstehen](https://open.spotify.com/album/4gnS67ZBPmaiOsa4P4HMeJ) | 2:42 |
 | 17 | [Junge im Mond](https://open.spotify.com/track/3BvUyH1d6ejnwUyz4DEJo1) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Junge im Mond](https://open.spotify.com/album/0BpOj2EnyDCtxHcd35GubY) | 3:14 |

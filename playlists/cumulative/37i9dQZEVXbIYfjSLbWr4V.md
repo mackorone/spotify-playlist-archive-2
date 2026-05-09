@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-986 songs - 1 day 20 hr 23 min
+987 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [BBTEAM FREESTYLE](https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [BBTEAM FREESTYLE](https://open.spotify.com/album/6OJUjEBjQD84QWU5jKhAu6) | 2:55 | 2024-02-17 | 2024-02-24 |
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-18 |  |
-| [bedroom](https://open.spotify.com/track/4E04D7zOlWSicxvwg85Rbc) | [KUDOKUSHI](https://open.spotify.com/artist/5ZqVuddwpPFnq0GHGYVDzM) | [CRY OF FEAR](https://open.spotify.com/album/1KQZraye4S3UXhL3HbF7aJ) | 1:52 | 2026-05-06 |  |
+| [bedroom](https://open.spotify.com/track/4E04D7zOlWSicxvwg85Rbc) | [KUDOKUSHI](https://open.spotify.com/artist/5ZqVuddwpPFnq0GHGYVDzM) | [CRY OF FEAR](https://open.spotify.com/album/1KQZraye4S3UXhL3HbF7aJ) | 1:52 | 2026-05-06 | 2026-05-09 |
 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 | 2024-10-22 | 2025-02-11 |
 | [Berliner](https://open.spotify.com/track/1neyIeyeaqJGLVdQa1lHUG) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 1:50 | 2025-04-26 | 2025-04-28 |
 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-22 | 2025-07-24 |
@@ -205,6 +205,7 @@
 | [GLOCK17](https://open.spotify.com/track/3yvBIM3rPDFkycuf5ApNFB) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c) | [GLOCK17](https://open.spotify.com/album/1ZAwA3A3kkNCy7MjYRKpEv) | 1:53 | 2025-04-12 | 2025-05-07 |
 | [GLOCKHARDT \- WockhardtXGlockpit](https://open.spotify.com/track/1O4bqiZtn3xM7f6qD4eRPA) | [Cadaver Ghoul](https://open.spotify.com/artist/5apVcEELJhc2IUYWgklfsx) | [GLOCKHARDT \(WockhardtXGlockpit\)](https://open.spotify.com/album/3EnjBEWe7VDZGBEFnjA934) | 1:57 | 2024-09-19 | 2024-09-21 |
 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 | 2026-02-28 | 2026-03-06 |
+| [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 | 2026-05-08 |  |
 | [God Is A Weapon](https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God Is A Weapon](https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw) | 3:35 | 2025-07-08 | 2025-07-31 |
 | [Graf Monte\-Cristo](https://open.spotify.com/track/7onsPEhcLrvADBLmLUhDp5) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Graf Monte\-Cristo / Most Valuable Pirate](https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb) | 2:30 | 2025-04-26 | 2025-05-08 |
 | [Gulyanka](https://open.spotify.com/track/3HcM3ISJ019yhOK2lpZGrS) | [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [Chita Drita](https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv) | 2:55 | 2025-01-01 | 2026-01-03 |
@@ -288,7 +289,7 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2025-01-01 | 2026-01-03 |
 | [Like Animals](https://open.spotify.com/track/1gvhtkVO3kvPnh8XcSkNGX) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-21 | 2026-03-23 |
 | [Like Animals](https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 | 2026-03-22 |  |
-| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2025-03-04 |  |
+| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2025-03-04 | 2026-05-09 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2025-01-19 | 2025-05-27 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-08 | 2025-05-09 |
 | [Limousine Music](https://open.spotify.com/track/4vIgKflntahCWGBv51T7bY) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Limousine Music](https://open.spotify.com/album/7xNft8RCC8HN9ElK0c9ghN) | 3:08 | 2026-04-11 | 2026-04-20 |
@@ -918,7 +919,7 @@
 | [Тупой](https://open.spotify.com/track/5pOKuJPebDJAr295s5NBTC) | [Юпи](https://open.spotify.com/artist/1ZrJxKCLNjqk4B73SoR7PN), [boogshi](https://open.spotify.com/artist/5prZ0gvvEQqiPotrtz0jWJ) | [Тупой](https://open.spotify.com/album/7pXsvYTcAF2vjM01wbDmXY) | 1:49 | 2025-12-28 | 2026-03-26 |
 | [ты говорила каждый раз](https://open.spotify.com/track/5vjHMRjd5DcLxjd7Dd5sl1) | [iiSto20k](https://open.spotify.com/artist/0bO7RJVcSsjg1zblWsgHPq) | [ты говорила каждый раз](https://open.spotify.com/album/4E8h5t8cNehMXXz3XXGCXx) | 3:52 | 2025-10-09 | 2025-10-16 |
 | [Ты и сигареты](https://open.spotify.com/track/4O3HWR6j3Qht7ENIWlPLJt) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [NO LOVE](https://open.spotify.com/album/4SAS2V1NeXWS7k0vOqTsBN) | 2:26 | 2024-09-13 | 2024-10-09 |
-| [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:25 | 2025-12-14 | 2026-05-06 |
+| [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:25 | 2025-12-14 |  |
 | [ТЫ МЕНЯ РАЗЛЮБИ](https://open.spotify.com/track/3uo4UPVHxiVVLc2DjWKlnB) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [PSYCHEDELIC LOVE](https://open.spotify.com/album/3HOCSNvo6JGfDUuRzWssWe) | 1:51 | 2024-04-08 | 2024-04-30 |
 | [Ты так красива](https://open.spotify.com/track/73O5XIJJGhN7oFqkhffMi1) | [Quest Pistols](https://open.spotify.com/artist/21bKsZrHsq3UcdHgeaKH2l) | [The Best](https://open.spotify.com/album/10xHh7UDj8iGDNIMeurr4l) | 2:53 | 2024-01-29 | 2024-03-11 |
 | [ты че обиделась](https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:30 | 2025-03-23 |  |

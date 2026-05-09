@@ -1,48 +1,56 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Chris Lorenzo",
-  "num_followers": 1834974,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Thaiboy Digital",
+  "num_followers": 1834855,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMot7anntPEcZStjErK7zr2L2gyb",
+  "snapshot_id": "AAAAACFfJMme+zSHn+31clvXfUsgk+so",
   "tracks": [
     {
-      "added_at": "2026-05-01 04:00:20",
+      "added_at": "2026-05-08 04:02:30",
       "album": {
-        "name": "HOME WAS ALWAYS ME",
-        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "midnight moon",
-      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
-    },
-    {
-      "added_at": "2026-04-24 04:00:48",
-      "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
         },
         {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
         }
       ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+      "duration_ms": 161194,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
+    },
+    {
+      "added_at": "2026-05-08 04:02:30",
+      "album": {
+        "name": "I Need U (feat. Ellie Maxwell)",
+        "url": "https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Ellie Maxwell",
+          "url": "https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "I Need U (feat. Ellie Maxwell)",
+      "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
     },
     {
       "added_at": "2026-05-01 04:00:20",
@@ -85,6 +93,22 @@
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
+      "added_at": "2026-05-08 04:02:30",
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/2o4HpfJgXEMKg6lwE6hY2h"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/48vSb2Wjw3wD3OFBiqikJb"
+    },
+    {
       "added_at": "2026-04-24 04:00:48",
       "album": {
         "name": "The Connection",
@@ -101,6 +125,26 @@
       "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
     },
     {
+      "added_at": "2026-05-08 04:02:30",
+      "album": {
+        "name": "Make You Fight",
+        "url": "https://open.spotify.com/album/5mAR9SiDOEYuO4sHZwXBtK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 175899,
+      "name": "Make You Fight",
+      "url": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD"
+    },
+    {
       "added_at": "2026-05-01 04:00:20",
       "album": {
         "name": "make your move",
@@ -115,6 +159,42 @@
       "duration_ms": 221439,
       "name": "make your move",
       "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
+    },
+    {
+      "added_at": "2026-05-08 04:02:30",
+      "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
+    },
+    {
+      "added_at": "2026-04-24 04:00:48",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-04-10 04:00:45",
@@ -161,24 +241,60 @@
       "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
     },
     {
-      "added_at": "2026-04-10 04:00:45",
+      "added_at": "2026-05-08 04:02:30",
       "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
+        "name": "Disco Cherry",
+        "url": "https://open.spotify.com/album/1JjnXqHpL8JDSzqgAw94ce"
       },
       "artists": [
         {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        },
-        {
-          "name": "Debians",
-          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 145853,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
+      "duration_ms": 200881,
+      "name": "Disco Cherry",
+      "url": "https://open.spotify.com/track/0C0kbvI8BJEWejMb3b2d4t"
+    },
+    {
+      "added_at": "2026-05-01 04:00:20",
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
+    },
+    {
+      "added_at": "2026-05-08 04:02:30",
+      "album": {
+        "name": "Without You (feat. Sasha Alex Sloan)",
+        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 176258,
+      "name": "Without You (feat. Sasha Alex Sloan)",
+      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
     },
     {
       "added_at": "2026-05-01 04:00:20",
@@ -295,6 +411,26 @@
     {
       "added_at": "2026-04-10 04:00:45",
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        },
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
+    },
+    {
+      "added_at": "2026-04-10 04:00:45",
+      "album": {
         "name": "Ain't With That (Late Night Callin')",
         "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
       },
@@ -349,6 +485,38 @@
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
     },
     {
+      "added_at": "2026-04-24 04:00:48",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/01iF3laxtzi2hp6oj015uO"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/0SxxzaJOsMAo4eqqCqZtQk"
+    },
+    {
+      "added_at": "2026-05-08 04:02:30",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/7wjC3W81oIT2A6xqQ0t7NY"
+      },
+      "artists": [
+        {
+          "name": "MLE",
+          "url": "https://open.spotify.com/artist/4kwSji6cyVJyawitcYNC4S"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
+    },
+    {
       "added_at": "2026-04-17 04:01:58",
       "album": {
         "name": "Hypa",
@@ -367,22 +535,6 @@
       "duration_ms": 192000,
       "name": "Hypa",
       "url": "https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW"
-    },
-    {
-      "added_at": "2026-04-24 04:00:48",
-      "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/01iF3laxtzi2hp6oj015uO"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/0SxxzaJOsMAo4eqqCqZtQk"
     },
     {
       "added_at": "2026-04-24 04:00:48",
@@ -689,26 +841,6 @@
       "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
     },
     {
-      "added_at": "2026-03-06 05:00:04",
-      "album": {
-        "name": "Talk To You",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
       "added_at": "2026-03-27 04:00:09",
       "album": {
         "name": "Spirit Higher",
@@ -743,26 +875,6 @@
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
-    },
-    {
-      "added_at": "2026-04-10 04:00:45",
-      "album": {
-        "name": "Gossip (feat. Mikii)",
-        "url": "https://open.spotify.com/album/7CYeHTmskHhDJgnPJ7rdNz"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "mikii",
-          "url": "https://open.spotify.com/artist/057EozaDJTxhkT1TOYrOww"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Gossip (feat. Mikii)",
-      "url": "https://open.spotify.com/track/6YbHOUYCw1ygAgAtKQktjt"
     },
     {
       "added_at": "2026-03-20 04:00:34",
@@ -985,26 +1097,6 @@
       "url": "https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv"
     },
     {
-      "added_at": "2026-04-03 04:01:03",
-      "album": {
-        "name": "Hijack The System",
-        "url": "https://open.spotify.com/album/1ymMUmULqu2qLQ9eUPNMOD"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "Evil Twiin",
-          "url": "https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hijack The System",
-      "url": "https://open.spotify.com/track/5FlHMCROxGoTu9hXzlyzA3"
-    },
-    {
       "added_at": "2026-03-20 04:00:34",
       "album": {
         "name": "Afterlife",
@@ -1059,26 +1151,6 @@
       "duration_ms": 202105,
       "name": "i go hard",
       "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
-    },
-    {
-      "added_at": "2026-04-10 04:00:45",
-      "album": {
-        "name": "A Shift In Perspective",
-        "url": "https://open.spotify.com/album/1p0swVFMZ8dgXLHfydcF8Q"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Street Fever",
-          "url": "https://open.spotify.com/artist/0vr95mHdD2YEVeNXmGgYja"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/4a8WB7ZmEId2rsts2M05Lj"
     },
     {
       "added_at": "2026-03-20 04:00:34",
@@ -1297,50 +1369,6 @@
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
     },
     {
-      "added_at": "2026-02-27 05:00:40",
-      "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        },
-        {
-          "name": "Charlie Shell",
-          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
-        }
-      ],
-      "duration_ms": 192272,
-      "name": "People Like Us",
-      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
-    },
-    {
-      "added_at": "2026-03-06 05:00:04",
-      "album": {
-        "name": "Femme House Vol. 3",
-        "url": "https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        },
-        {
-          "name": "Dee Diggs",
-          "url": "https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Push The Vibe",
-      "url": "https://open.spotify.com/track/6tpo6T9msGhFT7NJRo1D53"
-    },
-    {
       "added_at": "2026-03-06 05:00:04",
       "album": {
         "name": "Mean 2 Me",
@@ -1399,42 +1427,6 @@
       "duration_ms": 142529,
       "name": "Fast Money",
       "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
-    },
-    {
-      "added_at": "2026-03-06 05:00:04",
-      "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/7oauoGPhYGGwVUPX5kEK6h"
-      },
-      "artists": [
-        {
-          "name": "Emma 2000",
-          "url": "https://open.spotify.com/artist/40Y8rX9W6aSuSmRQ27hxQK"
-        }
-      ],
-      "duration_ms": 220753,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/1VERPTqfl7ddpETEj34WWC"
-    },
-    {
-      "added_at": "2026-04-03 04:01:03",
-      "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
-      },
-      "artists": [
-        {
-          "name": "Baalti",
-          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
-        },
-        {
-          "name": "Lapgan",
-          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
-        }
-      ],
-      "duration_ms": 81944,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
     }
   ],
   "unique_name": "Dance Rising",

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 952421,
+  "num_followers": 952409,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Ana Castela - Spotify Sessions",
-        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Neon - Spotify Sessions",
-      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
         "name": "Resenha Piri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 165621,
       "name": "At\u00e9 Ficar Velhin - Ao Vivo",
       "url": "https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Neon - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 192410,
+      "name": "Exclusividade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "Facas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 196379,
       "name": "Facas - Ao Vivo",
       "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 192410,
-      "name": "Exclusividade - Ao Vivo",
-      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "Um Novo Sonho (Deluxe)",
+        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 197969,
+      "name": "Amigo Taxista - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "Querosene e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
-        "name": "Um Novo Sonho (Deluxe)",
-        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 197969,
-      "name": "Amigo Taxista - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
         "name": "Nostalgia Pura, Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 145197,
       "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
       "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 157460,
+      "name": "Mulher Maravilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -663,22 +679,6 @@
       "duration_ms": 201440,
       "name": "Deixa Eu Te Amar - Ao Vivo",
       "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 157460,
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "Ferida Curada",
+        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159164,
+      "name": "Ferida Curada",
+      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "Sonho - Ao Vivo",
         "url": "https://open.spotify.com/album/324to6aHDVGAatV6pHuVP2"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 185237,
       "name": "Quem Melhor Do Que N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "Ferida Curada",
-        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159164,
-      "name": "Ferida Curada",
-      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
     },
     {
       "added_at": "2026-05-08 03:03:31",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-08 03:03:31",
       "album": {
+        "name": "Magia das Estrelas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 183288,
+      "name": "Dubai - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP"
+    },
+    {
+      "added_at": "2026-05-08 03:03:31",
+      "album": {
         "name": "S de Saudade",
         "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 174863,
       "name": "S de Saudade",
       "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2026-05-08 03:03:31",
-      "album": {
-        "name": "Magia das Estrelas, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 183288,
-      "name": "Dubai - Ao Vivo",
-      "url": "https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP"
     },
     {
       "added_at": "2026-05-08 03:03:31",

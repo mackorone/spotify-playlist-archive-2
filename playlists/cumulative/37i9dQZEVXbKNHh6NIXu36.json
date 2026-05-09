@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 262675,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj"
@@ -10440,6 +10440,24 @@
       "duration_ms": 145023,
       "name": "BOTTEGA",
       "url": "https://open.spotify.com/track/3dK7WL6ZnK5EEuKaY7cam5"
+    },
+    {
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260936,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
     },
     {
       "album": {
@@ -60098,7 +60116,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 127500,
       "name": "Topovska",
       "url": "https://open.spotify.com/track/3yUntIlIWjAayOzZrWHC82"
@@ -60644,7 +60662,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"

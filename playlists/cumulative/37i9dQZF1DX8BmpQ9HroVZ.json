@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Abdul Hannan",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Zoha Waseem, Sheheryar Rehan",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 110125,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -3390,6 +3390,28 @@
       "duration_ms": 195200,
       "name": "Drippy",
       "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
+    },
+    {
+      "album": {
+        "name": "Dunya Bhula Ke",
+        "url": "https://open.spotify.com/album/4z0c3SD0uQxd7bl4C9tkdJ"
+      },
+      "artists": [
+        {
+          "name": "Raafay Israr",
+          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
+        },
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Dunya Bhula Ke",
+      "url": "https://open.spotify.com/track/0CiV8B60XBAidA3xbjvSou"
     },
     {
       "album": {
@@ -4436,6 +4458,28 @@
       "duration_ms": 195000,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce"
+    },
+    {
+      "album": {
+        "name": "Har Baar",
+        "url": "https://open.spotify.com/album/1oRAxwfxb55WuW7KjSx5uw"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Har Baar",
+      "url": "https://open.spotify.com/track/3VJpl4jrFSqY3Y6mAzqfux"
     },
     {
       "album": {

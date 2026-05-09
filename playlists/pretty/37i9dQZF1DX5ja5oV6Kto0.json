@@ -1,12 +1,12 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111561,
+  "num_followers": 111567,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYC4jvqHboQUe9ZLUTADvC9k8H+",
+  "snapshot_id": "AAAAAGX3OVmoKEYSlFFsu3nCD8TZQQDN",
   "tracks": [
     {
       "added_at": "2026-05-08 00:01:59",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "TRU$T FUND",
         "url": "https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 187118,
       "name": "TRU$T FUND",
       "url": "https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
-      },
-      "artists": [
-        {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Only Water (Feat. Lady Donli)",
-        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        },
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Only Water - Feat. Lady Donli",
-      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Night Drive (feat. Dagmawit Ameha)",
         "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 220340,
       "name": "Night Drive (feat. Dagmawit Ameha)",
       "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Only Water (Feat. Lady Donli)",
+        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Only Water - Feat. Lady Donli",
+      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -617,20 +617,20 @@
       "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
     },
     {
-      "added_at": "2026-05-08 00:01:59",
+      "added_at": "2026-05-08 11:36:27",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+        "name": "SLiDE",
+        "url": "https://open.spotify.com/album/5Vs1bARehxJBSjPYy1piOj"
       },
       "artists": [
         {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
         }
       ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
+      "duration_ms": 182545,
+      "name": "SLiDE",
+      "url": "https://open.spotify.com/track/3jfWO9owdGpkNFq0gtHszK"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Pasta",
         "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 151052,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Whine Am",
-        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Whine Am",
-      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
         "url": "https://open.spotify.com/album/6BqgPqXsxOlo3xoNLNKrUQ"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Diamond in a Process",
-        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
-      },
-      "artists": [
-        {
-          "name": "Jiire Smith",
-          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Yapa Yapa",
-      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Popstar Party",
         "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 188764,
       "name": "Popstar Party",
       "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "follow",
-        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
-      },
-      "artists": [
-        {
-          "name": "Lod\u00f9",
-          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
-        }
-      ],
-      "duration_ms": 149708,
-      "name": "follow",
-      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Princessa",
         "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "follow",
+        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+      },
+      "artists": [
+        {
+          "name": "Lod\u00f9",
+          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
+        }
+      ],
+      "duration_ms": 149708,
+      "name": "follow",
+      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 148137,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Formula & Vim/Strangers in Accra",
         "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 312819,
       "name": "Formula & Vim/Strangers in Accra",
       "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/3YhdPIPXx8bjOTwONdViH4"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 148137,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5MAWpKLbJn5XOOm3AIUCW5"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Emefa's Revenge",
-        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
-      },
-      "artists": [
-        {
-          "name": "M3NSA",
-          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "Emefa's Revenge",
-      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Italawa",
         "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 172634,
       "name": "Italawa",
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Emefa's Revenge",
+        "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
+      },
+      "artists": [
+        {
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "Emefa's Revenge",
+      "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1399,6 +1415,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "infrunayou",
+        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "infrunayou",
+      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Phenomenal",
         "url": "https://open.spotify.com/album/7rtv4wefCWvlG3Xa3KcaRb"
       },
@@ -1435,22 +1467,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "infrunayou",
-        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
-      },
-      "artists": [
-        {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "infrunayou",
-      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Candies",
         "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 170680,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/2t0o2APZCEKQAaBo3GlRku"
-      },
-      "artists": [
-        {
-          "name": "MiDi KwaKwa",
-          "url": "https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

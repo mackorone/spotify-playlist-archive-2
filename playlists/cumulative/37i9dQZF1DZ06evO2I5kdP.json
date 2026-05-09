@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 455109,
       "name": "Adversary",
       "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213053,
       "name": "Brain Fog",
       "url": "https://open.spotify.com/track/4LIkDeZ5VvHtoYbTtfnYHu"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 95310,
       "name": "Dance Rehearsal",
       "url": "https://open.spotify.com/track/4It0SkcS72eaqtPDaHbKXI"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 178000,
       "name": "El Muelle",
       "url": "https://open.spotify.com/track/53GPaQrSsCOGLmm2bBt638"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Fields of Aloe Vera",
       "url": "https://open.spotify.com/track/3u9hSHYGb3wKCYIaCBCAHV"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207000,
       "name": "Hot Tub",
       "url": "https://open.spotify.com/track/0j8Flba4l23dsYi9ac56p0"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 238000,
       "name": "Shines for Eternity",
       "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
@@ -1452,6 +1452,24 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76949,
+      "name": "Super Interlude Pt. 1",
+      "url": "https://open.spotify.com/track/4IJ2Bbi3alh0JmMVuLAKzm"
+    },
+    {
+      "album": {
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 127883,
       "name": "The Library",
       "url": "https://open.spotify.com/track/4XCvnTjOlwShZABH9wtQHU"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 330565,
       "name": "Valley Drone",
       "url": "https://open.spotify.com/track/7Cfj1CFahs2boKhte7NeFT"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 118280,
       "name": "Vostok",
       "url": "https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj"
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "You are Porous",
       "url": "https://open.spotify.com/track/4bkauGCDXmVKirsrbOCoZp"

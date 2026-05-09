@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Acid Nine",
+        "url": "https://open.spotify.com/album/03GijOWQz5bB7MkOq4zE54"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181043,
+      "name": "Acid Nine",
+      "url": "https://open.spotify.com/track/3786wxOSINUx0aounTnzMB"
+    },
+    {
+      "album": {
         "name": "Desire Days",
         "url": "https://open.spotify.com/album/5icDh0mJkNBgAC89IlGZg2"
       },
@@ -2319,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "CASTLE WALLS",
+        "url": "https://open.spotify.com/album/3sXHEUHO8NLFxZMdcpJz4D"
+      },
+      "artists": [
+        {
+          "name": "Coutchou",
+          "url": "https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "CASTLE WALLS",
+      "url": "https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS"
+    },
+    {
+      "album": {
         "name": "Catastrophe",
         "url": "https://open.spotify.com/album/6usNleCrPYLoXJA1K77XrG"
       },
@@ -3212,6 +3248,24 @@
       "duration_ms": 245506,
       "name": "Cours, Cora, cours",
       "url": "https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk"
+    },
+    {
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "album": {
@@ -7874,7 +7928,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 243593,
       "name": "La journ\u00e9e va \u00eatre chaude",
       "url": "https://open.spotify.com/track/1V0jQDyRSPfdfYwADDkCQt"
@@ -9730,7 +9784,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 186259,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/5bL4y2bkcG3DAHmFa8jmk1"
@@ -14690,7 +14744,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 190373,
       "name": "Those Years When Everything Changed",
       "url": "https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI"

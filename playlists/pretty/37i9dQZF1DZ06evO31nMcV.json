@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25775,
+  "num_followers": 25783,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAADX8Z56tPoN716s7Wmfrhpw",
+  "snapshot_id": "afvWAAAAAADUdxPxWIAJcoUnUV5oVKfD",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 214855,
+      "name": "Paper Hearts",
+      "url": "https://open.spotify.com/track/0KFKTwfybfg4Y2A28rA00I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 134040,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 214855,
-      "name": "Paper Hearts",
-      "url": "https://open.spotify.com/track/0KFKTwfybfg4Y2A28rA00I"
     },
     {
       "added_at": null,

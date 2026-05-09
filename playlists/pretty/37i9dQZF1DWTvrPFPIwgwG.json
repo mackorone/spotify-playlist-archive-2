@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 200621,
+  "num_followers": 200670,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
+        "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 383466,
+      "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
         "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 293506,
       "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
       "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
-        "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/3JxLykAFGGCmx1vOls2RTN"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 383466,
-      "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -1039,6 +1039,30 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
+        "name": "Na Mesa do Rei (43 Anos Louvor Eterno) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        },
+        {
+          "name": "Sara Evelyn",
+          "url": "https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 339626,
+      "name": "Na Mesa do Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
         "name": "Tempo de Espera",
         "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
       },
@@ -1063,26 +1087,22 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "Na Mesa do Rei (43 Anos Louvor Eterno) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco"
+        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Fernanda Souza",
+          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
         },
         {
-          "name": "Sara Evelyn",
-          "url": "https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 339626,
-      "name": "Na Mesa do Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y"
+      "duration_ms": 461540,
+      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -1115,26 +1135,6 @@
       "duration_ms": 321728,
       "name": "Passar pela Moenda - Ao Vivo",
       "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
-        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Souza",
-          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 461540,
-      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
     },
     {
       "added_at": "2026-04-20 14:31:33",

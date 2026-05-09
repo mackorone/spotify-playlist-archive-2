@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: NANON
 
-879 songs - 2 day 3 hr 36 min
+881 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2025-04-24 |  |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
 | [Love Feels So Fast](https://open.spotify.com/track/74bbA8Uq9Chdce7bzUXH4o) | [รวมศิลปิน LOL FANFEST 2026](https://open.spotify.com/artist/5imDBIDdr8j2qPS20dpRpq) | [Love Feels So Fast](https://open.spotify.com/album/6hi9CCZNpKGqn31ULAd1gJ) | 3:21 | 2026-05-01 |  |
+| [Love Scene](https://open.spotify.com/track/6utAUyCsLCLLZ2F15USs6G) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [Love Scene](https://open.spotify.com/album/2s3Dsr8FRex6adWgxZ9xsJ) | 3:27 | 2026-05-08 |  |
 | [LOVEGELS \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [LOVEGELS \(From GELBOYS สถานะกั๊กใจ\)](https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi) | 2:46 | 2025-03-20 | 2025-04-17 |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [LYKYOU](https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU \- Single](https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg) | 3:34 | 2024-12-05 | 2025-01-30 |
@@ -267,6 +268,7 @@
 | [Where U R](https://open.spotify.com/track/6a5w6WO3IriOYP4zuiWYh4) | [ZOLAR](https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF) | [Where U R](https://open.spotify.com/album/75vC9W2CDd9U2q5nudxuTX) | 2:42 | 2026-04-02 | 2026-04-10 |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2022-12-01 | 2022-12-09 |
 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 | 2025-07-10 | 2025-09-12 |
+| [WHY](https://open.spotify.com/track/2qbOKuUAeJs7MSqw2XRFBh) | [SVRN](https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G) | [WHY](https://open.spotify.com/album/3YVcnSip7lg8IrtgpueVt9) | 3:32 | 2026-05-08 |  |
 | [WINK](https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [WINK](https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY) | 3:27 | 2022-07-07 | 2022-07-29 |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-05-26 | 2022-06-17 |
 | [WITH YOU](https://open.spotify.com/track/78iVXsaiRJuSkVE8kOXYV5) | [GULF KANAWUT](https://open.spotify.com/artist/232CbSfw9pgI0oz4c5UKZ2), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [WITH YOU](https://open.spotify.com/album/4X5Wd999DQrVtVKbf2HFDh) | 4:02 | 2024-09-05 | 2024-09-20 |
@@ -540,7 +542,7 @@
 | [ยัง \(Young\)](https://open.spotify.com/track/7IqXPi9MjbQOB9LqFm366z) | [THUNWA](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ยัง \(Young\)](https://open.spotify.com/album/4S5MqIDNwM3SeztsIdXEiE) | 3:30 | 2025-08-21 | 2025-10-03 |
 | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ) | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/album/5i4PoVoJFhLY6lcNxc9gDV) | 4:23 | 2025-10-02 |  |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
-| [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/album/02xnOJjfn4ElEWuC5wmuNr) | 4:25 | 2025-11-06 |  |
+| [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/album/02xnOJjfn4ElEWuC5wmuNr) | 4:25 | 2025-11-06 | 2026-05-09 |
 | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye) | 3:25 | 2025-05-01 |  |
 | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH) | 3:04 | 2024-12-12 | 2025-03-14 |
 | [ยิ่งบ่น ยิ่งรัก \(Love Noise\)](https://open.spotify.com/track/3GL0Nc7Pb3Rk7zeHDK6ywg) | [Peatwasu](https://open.spotify.com/artist/0yPpo6qnhnnaljALqCfdBK) | [ยิ่งบ่น ยิ่งรัก \(Love Noise\)](https://open.spotify.com/album/3wNi3zvctDGJ2gPhfl7tEV) | 4:02 | 2026-03-19 | 2026-04-03 |
@@ -836,7 +838,7 @@
 | [โฮ่ง! \(SUGOI\)](https://open.spotify.com/track/2XjzXB9tMakPdN0u5PWzy1) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [โฮ่ง! \(SUGOI\) \- Single](https://open.spotify.com/album/2qDdLdNKIiCxvTM2XQJ8VE) | 2:59 | 2024-09-12 | 2024-09-27 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-07 | 2025-03-21 |
 | [ใครก็ได้แต่… \(Millions People\)](https://open.spotify.com/track/1SA1i9nvKnHPnXLAypWn0P) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ใครก็ได้แต่… \(Millions People\) \- Single](https://open.spotify.com/album/4A5VExjPRQ6mimgU1lu2Dq) | 2:41 | 2024-06-20 | 2024-07-12 |
-| [ใครจะรู้ \(Silent Blue\)](https://open.spotify.com/track/30rV6UdNAKRLu6he7Qw7oS) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Grow With The Flow](https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I) | 4:18 | 2026-01-22 |  |
+| [ใครจะรู้ \(Silent Blue\)](https://open.spotify.com/track/30rV6UdNAKRLu6he7Qw7oS) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Grow With The Flow](https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I) | 4:18 | 2026-01-22 | 2026-05-09 |
 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 | 2022-09-29 | 2024-06-21 |
 | [ใจป๋ม \- You cut my heart cuz you don't care my hair](https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [ใจป๋ม \(You cut my heart cuz you don't care my hair\)](https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj) | 3:38 | 2022-06-09 | 2022-07-02 |
 | [ใจวาย \(Why Do I Love You?\)](https://open.spotify.com/track/6Ejj2a4mxzY6qZL1CnC3Ut) | [Fairy Dolls](https://open.spotify.com/artist/1EPm0ioGXLfLYoeiGPV07y) | [ใจวาย \(Why Do I Love You?\)](https://open.spotify.com/album/6GwmK1E56jer66kfS4KXIg) | 3:13 | 2022-10-12 | 2022-10-29 |

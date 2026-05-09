@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasuki Vaibhav",
-  "num_followers": 26874,
+  "num_followers": 26878,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJ+qTKAxp4LUFo6DeyQHhBfn66c",
+  "snapshot_id": "AAAAAI+lk02BuOHdf1KFCTRHPpEWPrAn",
   "tracks": [
     {
       "added_at": "2026-04-13 07:13:28",
@@ -75,6 +75,22 @@
       "duration_ms": 232800,
       "name": "Bhasavagide",
       "url": "https://open.spotify.com/track/75hEkJDOSNvGTPGLiB7Ti5"
+    },
+    {
+      "added_at": "2026-05-08 10:34:30",
+      "album": {
+        "name": "Ninna Daari Kaayutali",
+        "url": "https://open.spotify.com/album/3LJwZsVk3zi3uhVIg3R0kC"
+      },
+      "artists": [
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Ninna Daari Kaayutali",
+      "url": "https://open.spotify.com/track/3ooOeJYHc8J2xwJpmN5jmo"
     },
     {
       "added_at": "2026-04-29 07:09:05",
@@ -1299,50 +1315,6 @@
       "duration_ms": 214146,
       "name": "Akka Kelavva",
       "url": "https://open.spotify.com/track/7g6diPqcCkgtw0WguVC9Kk"
-    },
-    {
-      "added_at": "2025-11-11 12:30:43",
-      "album": {
-        "name": "Premigala Gamanakke",
-        "url": "https://open.spotify.com/album/1Y7sK3Fc3KBN95Ww27uOSL"
-      },
-      "artists": [
-        {
-          "name": "Manju Kavi",
-          "url": "https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q"
-        },
-        {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        }
-      ],
-      "duration_ms": 265790,
-      "name": "Premigala Gamanakke (Title Track)",
-      "url": "https://open.spotify.com/track/0Iu7JKJsQD3Sff7EwOMrwH"
-    },
-    {
-      "added_at": "2025-11-10 08:15:16",
-      "album": {
-        "name": "Love In October",
-        "url": "https://open.spotify.com/album/0yz0tqSrF2xLTiT0A23gHM"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        },
-        {
-          "name": "Manas Manu",
-          "url": "https://open.spotify.com/artist/5yRAtgcz1OzhdI14a9Rdml"
-        },
-        {
-          "name": "Apsara Raghu",
-          "url": "https://open.spotify.com/artist/3dd4sPBqGVfUnXGZ6J5YVI"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Mugiyada Pallavi (From \"Love In October\")",
-      "url": "https://open.spotify.com/track/4swU9rA8aiRSNZzQi052kU"
     },
     {
       "added_at": "2025-11-07 09:37:53",

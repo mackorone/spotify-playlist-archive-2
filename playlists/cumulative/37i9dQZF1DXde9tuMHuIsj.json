@@ -2569,6 +2569,28 @@
     },
     {
       "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/322hGi3n2PMphNbDYiQTsG"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/4IvlVLN58TPN1gNnCx5iLJ"
+    },
+    {
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3"
       },
@@ -5754,7 +5776,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198906,
       "name": "H E A V Y",
       "url": "https://open.spotify.com/track/3WZqTFGMU04pDM5JaGQBZz"
@@ -8226,6 +8248,60 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "album": {
+        "name": "MEDUSA REMIX",
+        "url": "https://open.spotify.com/album/7BWBf3xfzSPsDTxSwsbbSh"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "enzocerobulto",
+          "url": "https://open.spotify.com/artist/50AgI9ZGvGksnc7XcVmpSx"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        },
+        {
+          "name": "JuicyNise",
+          "url": "https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8"
+        },
+        {
+          "name": "0600eneltrack",
+          "url": "https://open.spotify.com/artist/6cQOeMxNUamTP5B92HZC92"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401606,
+      "name": "MEDUSA REMIX",
+      "url": "https://open.spotify.com/track/3whoNOYqaUJeDNfisAIojI"
     },
     {
       "album": {
@@ -10984,7 +11060,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 194062,
       "name": "secuestro",
       "url": "https://open.spotify.com/track/4huJ0Fow4zyt0FggO1tBaJ"

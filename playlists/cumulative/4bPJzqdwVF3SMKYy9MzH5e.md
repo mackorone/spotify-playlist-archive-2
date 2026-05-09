@@ -4,7 +4,7 @@
 
 > 
 
-2,408 songs - 5 day 9 hr 28 min
+2,409 songs - 5 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Déjate Llevar](https://open.spotify.com/track/6grhw9Q0UFjXWXQVN8CZd7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Déjate Llevar](https://open.spotify.com/album/3Mb6uywjpZPPcKcxUtJ6p9) | 2:43 | 2021-08-05 |  |
 | [E N D L E S S](https://open.spotify.com/track/4zYFETCQRFliDKrulvEaDu) | [De Lorra](https://open.spotify.com/artist/5daHbk6DuuCUxXRoKWlf5f) | [A Collection of Past Works](https://open.spotify.com/album/4XdNIHhWCwwqiVZ3dMZw2w) | 4:09 | 2021-12-30 |  |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2021-08-05 |  |
+| [earth is turning](https://open.spotify.com/track/7KjOz66DevrG6RQ6pNctYs) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [earth is turning](https://open.spotify.com/album/3tzBTHessiL43I9BZTsvU7) | 4:49 | 2026-05-09 |  |
 | [Ease](https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:26 | 2022-10-09 |  |
 | [Easier](https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 2:38 | 2021-08-05 |  |
 | [Easy on You](https://open.spotify.com/track/3geb1tvEQBdFOYXuR8ZInD) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:03 | 2021-08-05 |  |

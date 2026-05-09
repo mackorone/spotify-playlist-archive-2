@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Back In My Body",
+        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195265,
+      "name": "Back In My Body",
+      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
+    },
+    {
+      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -2504,6 +2522,24 @@
       "duration_ms": 196277,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl"
+    },
+    {
+      "album": {
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
     },
     {
       "album": {
@@ -5428,7 +5464,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160491,
       "name": "hands to myself",
       "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
@@ -8022,7 +8058,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 266273,
       "name": "Look What It Made Me Do",
       "url": "https://open.spotify.com/track/48KYCqdSd5xK8CpH7er9eV"
@@ -8920,7 +8956,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 224736,
       "name": "Neon Nuptials",
       "url": "https://open.spotify.com/track/3fUUyQlxRXgMM9Es9kGl3w"
@@ -9266,7 +9302,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202839,
       "name": "Not Broken",
       "url": "https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR"
@@ -9476,6 +9512,24 @@
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
+    },
+    {
+      "album": {
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     },
     {
       "album": {
@@ -13904,7 +13958,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198646,
       "name": "What Are You Thinking Of?",
       "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
@@ -14136,6 +14190,28 @@
       "duration_ms": 251784,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
+    },
+    {
+      "album": {
+        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
+        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321140,
+      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
+      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
     },
     {
       "album": {
@@ -14838,6 +14914,24 @@
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"
+    },
+    {
+      "album": {
+        "name": "Green 2",
+        "url": "https://open.spotify.com/album/4ZRhLV4yNyTka6uNwnBj8B"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165095,
+      "name": "\u00c1ine Greene",
+      "url": "https://open.spotify.com/track/2W0SL0UPSRkSS9BckSiqgq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue"

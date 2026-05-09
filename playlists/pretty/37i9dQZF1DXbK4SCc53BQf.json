@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107369,
+  "num_followers": 107379,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
+        "name": "Perdi La Cuenta",
+        "url": "https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz"
       },
       "artists": [
         {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
         }
       ],
-      "duration_ms": 179286,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
+      "duration_ms": 183272,
+      "name": "Perdi La Cuenta",
+      "url": "https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -179,18 +175,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Perdi La Cuenta",
-        "url": "https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz"
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
       },
       "artists": [
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 183272,
-      "name": "Perdi La Cuenta",
-      "url": "https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s"
+      "duration_ms": 179286,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Van God",
-        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        }
-      ],
-      "duration_ms": 257385,
-      "name": "Van God",
-      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Siempre Has Sido Fiel",
         "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 171764,
       "name": "Siempre Has Sido Fiel",
       "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Van God",
+        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Van God",
+      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 229180,
+      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "Favor y Gracia",
         "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 229180,
-      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Esencia (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 267769,
       "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "Abr\u00e1zame M\u00e1s",
-        "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Abr\u00e1zame M\u00e1s",
-      "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -779,6 +763,38 @@
       "duration_ms": 219955,
       "name": "Subiendo",
       "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Abr\u00e1zame M\u00e1s",
+        "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Abr\u00e1zame M\u00e1s",
+      "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+      },
+      "artists": [
+        {
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -807,18 +823,18 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
       },
       "artists": [
         {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+      "duration_ms": 185528,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -839,22 +855,6 @@
       "duration_ms": 164516,
       "name": "QUIERO A MI PUEBLO (PR24SIETE)",
       "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 185528,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
+        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Todo Y Nada - En Vivo",
+      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "Lleg\u00f3 el Culto (Remix)",
         "url": "https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 196173,
       "name": "Lleg\u00f3 el Culto - Remix",
       "url": "https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
-        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Todo Y Nada - En Vivo",
-      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Por Mucho Tiempo",
-        "url": "https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f"
-      },
-      "artists": [
-        {
-          "name": "Toda la Vida",
-          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 182772,
-      "name": "Por Mucho Tiempo",
-      "url": "https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Consejos",
         "url": "https://open.spotify.com/album/1B2IQoytSybgbWJFqgGlS2"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 221588,
       "name": "Consejos",
       "url": "https://open.spotify.com/track/68Jf7rJm0abIMKXBNO1og6"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Por Mucho Tiempo",
+        "url": "https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f"
+      },
+      "artists": [
+        {
+          "name": "Toda la Vida",
+          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 182772,
+      "name": "Por Mucho Tiempo",
+      "url": "https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "Bendita Prueba",
-      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "La Criolla",
         "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 160285,
       "name": "La Criolla",
       "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "Bendita Prueba",
+      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Jord\u00e1n",
-        "url": "https://open.spotify.com/album/2yssQpHuCOiNCHlQhKF880"
-      },
-      "artists": [
-        {
-          "name": "Israel Amarante",
-          "url": "https://open.spotify.com/artist/5hq3UAoLL9UNQQIa7GzmKy"
-        }
-      ],
-      "duration_ms": 262434,
-      "name": "Jord\u00e1n",
-      "url": "https://open.spotify.com/track/5IziK5mdFGsyo9YRLLV9wc"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Absoluto",
         "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 287524,
       "name": "Absoluto",
       "url": "https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Jord\u00e1n",
+        "url": "https://open.spotify.com/album/2yssQpHuCOiNCHlQhKF880"
+      },
+      "artists": [
+        {
+          "name": "Israel Amarante",
+          "url": "https://open.spotify.com/artist/5hq3UAoLL9UNQQIa7GzmKy"
+        }
+      ],
+      "duration_ms": 262434,
+      "name": "Jord\u00e1n",
+      "url": "https://open.spotify.com/track/5IziK5mdFGsyo9YRLLV9wc"
     },
     {
       "added_at": "2026-04-25 03:03:53",

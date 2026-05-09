@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63145,
+  "num_followers": 63151,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAJZD12S2o+QXWJG4Ysqu0v",
+  "snapshot_id": "afvWAAAAAACAW0OkpEQ+jbSU4MVzYEvn",
   "tracks": [
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Voc\u00ea Vai Ver",
-      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
+      "duration_ms": 176173,
+      "name": "Nao Vou Pra Casa",
+      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
     },
     {
       "added_at": null,
@@ -880,9 +880,25 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 176173,
-      "name": "Nao Vou Pra Casa",
-      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+      "duration_ms": 176360,
+      "name": "Voc\u00ea Vai Ver",
+      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 308166,
+      "name": "\u00c9 preciso Perdoar",
+      "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
     },
     {
       "added_at": null,
@@ -903,22 +919,6 @@
       "duration_ms": 171253,
       "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 308166,
-      "name": "\u00c9 preciso Perdoar",
-      "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
     },
     {
       "added_at": null,

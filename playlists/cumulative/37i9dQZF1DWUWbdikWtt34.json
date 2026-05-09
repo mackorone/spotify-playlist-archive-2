@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: Afan",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Sridevi",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -748,6 +748,24 @@
       "duration_ms": 257937,
       "name": "Bukan Ku Tak Sudi - (Live Ska Reggae)",
       "url": "https://open.spotify.com/track/2RZJ97Bl5WfrbnBYNG9e9r"
+    },
+    {
+      "album": {
+        "name": "Buta Karena Cinta",
+        "url": "https://open.spotify.com/album/5VSRxYqRqc5QKZWSGpI7gD"
+      },
+      "artists": [
+        {
+          "name": "Sridevi",
+          "url": "https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302111,
+      "name": "Buta Karena Cinta",
+      "url": "https://open.spotify.com/track/52Pp9TrJTIc7RU3RBaLtdj"
     },
     {
       "album": {
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 281693,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/2EPSzjMwz0sCVwx0GUYjYa"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 340000,
       "name": "Insan Biasa",
       "url": "https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 258381,
       "name": "Madu Merah - Cover",
       "url": "https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h"
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 306111,
       "name": "Sayang",
       "url": "https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx"

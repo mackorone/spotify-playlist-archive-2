@@ -1,13 +1,29 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 64179,
+  "num_followers": 64198,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAACShy1B4ap/BYZU1ECYxogt",
+  "snapshot_id": "afvWAAAAAABhBmBuEpfO+qJtfyPphITd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa Est\u00e1s Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4ciLraoXQB0S297Abkuq0h"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 289578,
+      "name": "Si T\u00fa Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1PCsiUdJn4x7UyIWWRmQRE"
+    },
     {
       "added_at": null,
       "album": {
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Dime Como Te Olvido",
-      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2.000",
         "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 289715,
       "name": "Un Osito Dormil\u00f3n",
       "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Dime Como Te Olvido",
+      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Su Gusto",
-        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Como Te Olvido?",
-      "url": "https://open.spotify.com/track/0C0gzUnJwXZyWgzyfB3RqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2.000",
         "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 289750,
       "name": "No Pude Olvidarte",
       "url": "https://open.spotify.com/track/55lwN8AEwtgdG9YDTXwKKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Como Te Olvido?",
+      "url": "https://open.spotify.com/track/0C0gzUnJwXZyWgzyfB3RqR"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Dif\u00edcil de Igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2.000",
         "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 279666,
       "name": "Si No Regresas",
       "url": "https://open.spotify.com/track/57GGPAQbF9q2byE6GEbHds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dif\u00edcil de Igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 289586,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/7pt07GWL2dIwCXyf5mlo4A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Todo Su Esplendor",
-        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 267760,
-      "name": "Jam\u00e1s Imagin\u00e9",
-      "url": "https://open.spotify.com/track/421cZGDH9uq3gVNOG8zvm2"
     }
   ],
   "unique_name": "This Is Binomio de Oro de Am\u00e9rica",

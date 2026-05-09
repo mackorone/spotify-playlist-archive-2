@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Bipolari Bilocali",
+        "url": "https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU"
+      },
+      "artists": [
+        {
+          "name": "Chef Adami",
+          "url": "https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145505,
+      "name": "Bipolari Bilocali",
+      "url": "https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2"
+    },
+    {
+      "album": {
         "name": "BIRKIN",
         "url": "https://open.spotify.com/album/3nafLxe3mBFih7KTz1TLoE"
       },
@@ -19648,7 +19666,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"

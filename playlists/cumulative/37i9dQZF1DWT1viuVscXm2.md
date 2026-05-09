@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-446 songs - 1 day 1 hr 12 min
+448 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-10 | 2024-04-19 |
 | [No me llames más](https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [No me llames más](https://open.spotify.com/album/1sj3t4g3wAxDe0dNWHqwyZ) | 3:16 | 2024-03-29 | 2024-05-11 |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
+| [No Me Pidas Perdón](https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [No Me Pidas Perdón](https://open.spotify.com/album/7ieJgZqr704fyywAVRUYQX) | 2:16 | 2026-05-08 |  |
 | [No Puedo Más](https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [No Puedo Más](https://open.spotify.com/album/28r8Cg03NewVnUrW8nFjzk) | 3:45 | 2022-09-02 | 2022-12-03 |
 | [No Sabes La Que Te Espera](https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [No Sabes La Que Te Espera](https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA) | 2:41 | 2024-07-19 | 2024-08-10 |
 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 | 2023-03-09 | 2023-04-04 |
@@ -337,7 +338,7 @@
 | [Sabrosón](https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/6syUUZEnaRDxJ7oh2uRbNz) | 2:54 | 2021-12-24 | 2026-02-21 |
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2022-07-22 | 2024-04-19 |
 | [Saca La Casa Pal Mambo](https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Saca La Casa Pal Mambo](https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG) | 2:42 | 2022-09-09 | 2022-11-19 |
-| [Salí a Robarte Corazones](https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Salí a Robarte Corazones](https://open.spotify.com/album/7tGolNAewn8Gt1XM1wcYRX) | 2:28 | 2026-04-24 |  |
+| [Salí a Robarte Corazones](https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Salí a Robarte Corazones](https://open.spotify.com/album/7tGolNAewn8Gt1XM1wcYRX) | 2:28 | 2026-04-24 | 2026-05-09 |
 | [Se hace difícil](https://open.spotify.com/track/28GLgS7PihoETCXc2eIRvv) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Se hace difícil](https://open.spotify.com/album/3mvSICdoiy9DU6tfE3B9l0) | 3:28 | 2025-11-21 |  |
 | [Se lo Juro Vieja](https://open.spotify.com/track/4ygglDwHeNrTMEy9vAbaq2) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Se lo Juro Vieja](https://open.spotify.com/album/4RRhVZL8QFOfJwvfuYZFRb) | 2:49 | 2021-12-24 | 2022-08-01 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-03-10 | 2024-04-19 |
@@ -360,7 +361,8 @@
 | [Siento](https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Siento](https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw) | 2:45 | 2023-01-06 | 2023-02-18 |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2022-08-26 | 2022-09-10 |
 | [Sin Cadenas](https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Sin Cadenas](https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU) | 3:31 | 2025-06-27 |  |
-| [Sin Servicio](https://open.spotify.com/track/1JqCdjFCXMj4wskUIL3kph) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Sin Servicio](https://open.spotify.com/album/3Kn2GlaZliODHzgasHlwlO) | 2:41 | 2026-04-17 |  |
+| [Sin Documentos](https://open.spotify.com/track/5dyDT1EuYiwpdgwhB3tisj) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [Francisco Charco](https://open.spotify.com/artist/5ijGwdfVkIvawofd3jGp2b) | [Sin Documentos](https://open.spotify.com/album/09FaIbUcn2vpHsW9raPihl) | 3:03 | 2026-05-08 |  |
+| [Sin Servicio](https://open.spotify.com/track/1JqCdjFCXMj4wskUIL3kph) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Sin Servicio](https://open.spotify.com/album/3Kn2GlaZliODHzgasHlwlO) | 2:41 | 2026-04-17 | 2026-05-09 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-04-03 |  |
 | [Soy Favela](https://open.spotify.com/track/0XxzweqYFUrK0bEzrNaQwI) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela](https://open.spotify.com/album/1bNDZciqZaZwZLxB7oi0xn) | 3:13 | 2021-12-24 | 2022-02-19 |
 | [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 | 2024-11-12 |

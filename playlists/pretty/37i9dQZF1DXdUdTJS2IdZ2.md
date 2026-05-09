@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,218 likes - 77 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 6 | [Attacker](https://open.spotify.com/track/0o1ofAkR5BCVbUjgsXibfI) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Attacker](https://open.spotify.com/album/2gJoV4CNYx5hEF56dxshGI) | 5:14 |
 | 7 | [Nobody's Home \- Fauxe Remix](https://open.spotify.com/track/5Bscw5tblmyexY2bFbw0Yw) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Fauxe](https://open.spotify.com/artist/6dvcG23IN4NjyLZ3nbKd6p) | [Nobody's Home \(Fauxe Remix\)](https://open.spotify.com/album/7DZvXzob4AwagmO1sm671t) | 2:52 |
 | 8 | [untitled freestyle](https://open.spotify.com/track/2gCE0vGQutTYjtP8RSX7eJ) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [untitled freestyle](https://open.spotify.com/album/0CgRM8fYzDD41CdXnRpHsU) | 1:57 |
-| 9 | [Track 7](https://open.spotify.com/track/2fOLCtAtvue40B4A5T42jT) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 0:00 |
+| 9 | [Berubah](https://open.spotify.com/track/2fOLCtAtvue40B4A5T42jT) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo), [wolfypapi](https://open.spotify.com/artist/3owsGpbgnfgT0C3ahUBH7W) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 2:05 |
 | 10 | [If Today Was Yesterday](https://open.spotify.com/track/7fH6C6hhgUPn73Sd6CrJGw) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:08 |
 | 11 | [Over & Over](https://open.spotify.com/track/3tk1bjylspbmL1UJqqKp9h) | [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [Over & Over](https://open.spotify.com/album/3kJcBMt6Ks4HDVo72rbanH) | 2:22 |
 | 12 | [Playing House](https://open.spotify.com/track/21Cs3396mNZcHzyTNFxZ4z) | [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [Playing House](https://open.spotify.com/album/1GjppvQKInOrhOaSmukSVr) | 3:35 |
 | 13 | [Ɏour Museum](https://open.spotify.com/track/40agAr6fkH5tJ2ZDrGfJaF) | [Jilian Summers](https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd) | [Ɏour Museum](https://open.spotify.com/album/34IC98B7TfwPUQxT2OIDfw) | 3:27 |
 | 14 | [Oru Varthai \- Remix](https://open.spotify.com/track/3APEYic58ThIEKwPfpsEmX) | [Thambi Natta](https://open.spotify.com/artist/5fQTI3d5juxXlwfnWckJPH), [Zam 0'DEEN](https://open.spotify.com/artist/0s6qwiEvQn7NiypEyYdexJ), [Mooncue](https://open.spotify.com/artist/5Ghl7BuD7HJE3H6UcpRFwb) | [Oru Varthai \(Remix\)](https://open.spotify.com/album/1ZHpUUjT5XOWpWJgL2T91F) | 3:02 |
-| 15 | [Track 4](https://open.spotify.com/track/0Jgbt9F5tZgzo35wE5UWss) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 0:00 |
+| 15 | [Luka](https://open.spotify.com/track/0Jgbt9F5tZgzo35wE5UWss) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo), [wolfypapi](https://open.spotify.com/artist/3owsGpbgnfgT0C3ahUBH7W) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 2:55 |
 | 16 | [Someone, Always](https://open.spotify.com/track/0CKK6O4jvzb2PmOCSpsCFU) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Someone, Always](https://open.spotify.com/album/04BIj7DyRxrqdqjzDELljg) | 3:51 |
 | 17 | [marigold magic](https://open.spotify.com/track/1N6ICgWxsghCNR51cQWlKX) | [inch](https://open.spotify.com/artist/0jcR2IFFsEtMra80c9Zaei) | [marigold magic](https://open.spotify.com/album/1mRhP3pG9UTnitNAHAuRqs) | 3:59 |
 | 18 | [Out Of My Mind](https://open.spotify.com/track/32IelN4Pbc3iVROrBvIXoo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Out Of My Mind](https://open.spotify.com/album/25f5EkrwtSGLhlbcfRFiwr) | 3:17 |

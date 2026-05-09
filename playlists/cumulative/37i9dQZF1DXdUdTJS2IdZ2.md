@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-1,379 songs - 3 day 3 hr 6 min
+1,379 songs - 3 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Belong To You](https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Belong To You](https://open.spotify.com/album/6qnuQBa0OcjhsLbe8brjNF) | 3:16 | 2024-09-05 | 2024-11-15 |
 | [Beraya!](https://open.spotify.com/track/5VYzkmLXmFo7mZsY5U8ayS) | [Nana Karia](https://open.spotify.com/artist/3KjMN9kIRAVoBpLlg6ZF5c), [Azharina Azhar](https://open.spotify.com/artist/5pxnkUMd2a6SBGlJjeTNUJ) | [Beraya!](https://open.spotify.com/album/2SopI4FXDJDwm47u1HTTtt) | 2:20 | 2026-02-26 | 2026-04-17 |
 | [Bersamamu](https://open.spotify.com/track/56PoxNyfJg7Fousdslopvm) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Bersamamu](https://open.spotify.com/album/7mT8xNbSQUk3Q1jpC90ZdZ) | 4:09 | 2025-05-01 | 2025-06-27 |
+| [Berubah](https://open.spotify.com/track/2fOLCtAtvue40B4A5T42jT) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo), [wolfypapi](https://open.spotify.com/artist/3owsGpbgnfgT0C3ahUBH7W) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 2:05 | 2026-05-07 |  |
 | [Bestfriend Part 2](https://open.spotify.com/track/58cFkxhUgfLtFsvaNimTsU) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 3:05 | 2025-01-23 | 2025-05-30 |
 | [better](https://open.spotify.com/track/48DMxGkq09UQXg849LHPAs) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS), [Lauren Ong](https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ) | [better](https://open.spotify.com/album/1enKWADa73A6jHQCnMSxeZ) | 3:09 | 2025-03-27 | 2025-05-16 |
 | [BETTER OFF](https://open.spotify.com/track/4iCEgsiLhznxXLc0VjjruT) | [Reiklytokyo](https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx) | [BETTER OFF](https://open.spotify.com/album/49lq6IVAiJd1aXd2zigg4L) | 2:13 | 2024-06-27 | 2024-08-02 |
@@ -620,6 +621,7 @@
 | [Lovers 情人](https://open.spotify.com/track/61xJSZXOwpKduryHvCnX4J) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Sher](https://open.spotify.com/artist/6gLeLSDSFo0Cwimi6Whtyt) | [Lovers 情人](https://open.spotify.com/album/5LgmSjocaeuxRJKii2FTtE) | 2:51 | 2025-10-03 | 2025-11-14 |
 | [loyal!](https://open.spotify.com/track/3QdtrCDZSljA3Z6D7Tnz9H) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [ASTA](https://open.spotify.com/artist/5mTe1N36hL120FgwrJ0TKO) | [loyal!](https://open.spotify.com/album/7jLzYSM9FNYQqQ5GLkCZxr) | 2:00 | 2026-04-09 |  |
 | [LUCKY TO BE HERE \(feat\. Akeem Jahat\)](https://open.spotify.com/track/2Ns9xietv0lBgSh3VsKCav) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl) | [LUCKY TO BE HERE \(feat\. Akeem Jahat\)](https://open.spotify.com/album/36PK4wIE6Rq7VyoqOILIMG) | 3:43 | 2025-06-26 | 2025-08-01 |
+| [Luka](https://open.spotify.com/track/0Jgbt9F5tZgzo35wE5UWss) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo), [wolfypapi](https://open.spotify.com/artist/3owsGpbgnfgT0C3ahUBH7W) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 2:55 | 2026-05-07 |  |
 | [Maaf Dan Gembira](https://open.spotify.com/track/24ZkQj1TSt1x51a3QW1tF0) | [Favourite Playlist](https://open.spotify.com/artist/4t6Zp48HNFrfVFRd5UGMPy) | [Maaf Dan Gembira](https://open.spotify.com/album/3zqiaIbhx9bGNg2nvPpfLK) | 3:27 | 2026-03-12 | 2026-04-17 |
 | [Mad:Sad:Bad](https://open.spotify.com/track/0JAMimyKdsguJlDDIvtIEw) | [Islandeer](https://open.spotify.com/artist/4c3qTot194QRzZbjM3Q8ov) | [Mad:Sad:Bad](https://open.spotify.com/album/1ZSTGzkPQLmV01JzISxTVL) | 3:04 | 2025-09-12 | 2025-10-31 |
 | [made for us](https://open.spotify.com/track/7ujZUivevehX5spIejwJ5D) | [khalil](https://open.spotify.com/artist/0Tf9F8FxK0iul15ADXxQVU) | [WISHING US THE BEST](https://open.spotify.com/album/0Yn6zbB0CT9Tk4vTA5IC4X) | 2:03 | 2025-02-13 | 2025-03-21 |
@@ -1069,8 +1071,6 @@
 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 | 2025-11-13 | 2026-01-31 |
 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 | 2024-10-10 | 2024-11-09 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-09-27 |
-| [Track 4](https://open.spotify.com/track/0Jgbt9F5tZgzo35wE5UWss) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 0:00 | 2026-05-07 |  |
-| [Track 7](https://open.spotify.com/track/2fOLCtAtvue40B4A5T42jT) | [YHB Sleepsalot](https://open.spotify.com/artist/51BliGAyfekzswIpIiH2Bo) | [SEJUK](https://open.spotify.com/album/5snRJVMPIdxbnk4qm641uj) | 0:00 | 2026-05-07 |  |
 | [TRACK D](https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq) | [DAC](https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK D](https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Transportation Blues](https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG) | [Stopgap](https://open.spotify.com/artist/60dCRxcmRMSw9WovWPtI8g) | [Transportation Blues](https://open.spotify.com/album/53h0nva44FuOhRdSAULeYb) | 4:35 | 2024-11-08 | 2024-11-29 |
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |

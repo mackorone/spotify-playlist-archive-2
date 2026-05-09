@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2"
+      },
+      "artists": [
+        {
+          "name": "Summoners",
+          "url": "https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201184,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD"
+    },
+    {
+      "album": {
         "name": "Nosferatu I Am",
         "url": "https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j"
       },

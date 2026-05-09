@@ -7679,6 +7679,24 @@
     },
     {
       "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141483,
+      "name": "Serial Killer",
+      "url": "https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7"
+    },
+    {
+      "album": {
         "name": "Sexy",
         "url": "https://open.spotify.com/album/6ThmwbTVi9mBtsBFRRSuum"
       },
@@ -8352,24 +8370,6 @@
       "duration_ms": 144800,
       "name": "Totul meu",
       "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"
-    },
-    {
-      "album": {
-        "name": "mp3.",
-        "url": "https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh"
-      },
-      "artists": [
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-497 songs - 1 day 5 hr 25 min
+498 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 | 2023-06-13 | 2025-04-18 |
 | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [LonelyBrothers](https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f), [Kush Rust](https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1) | [Alma de Ibiza \(WEPA\)](https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj) | 2:52 | 2024-09-18 | 2026-04-11 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-19 | 2025-12-29 |
-| [And When Love Speaks](https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [And When Love Speaks](https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb) | 3:32 | 2026-04-30 |  |
+| [And When Love Speaks](https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [And When Love Speaks](https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb) | 3:32 | 2026-04-30 | 2026-05-09 |
 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2025-05-29 |  |
 | [Antidote](https://open.spotify.com/track/29ChanrOVDPvzlxx8133x2) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [TwoForAll](https://open.spotify.com/artist/1rxnoxuKZHlpEQ92mLZ9n0), [Talay Riley](https://open.spotify.com/artist/5Yh3qHDUeUiyQqn1jmNhT1) | [Antidote](https://open.spotify.com/album/44NYBlOXyUXNZPols860x3) | 3:16 | 2026-04-30 | 2026-05-08 |
 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-05-29 |  |
@@ -98,6 +98,7 @@
 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 | 2025-05-29 |  |
 | [Crystal](https://open.spotify.com/track/6Kxdy3nt65UFoNhTLQmVo3) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Crystal](https://open.spotify.com/album/6XMDrKCMmHJyOklWqBxZoi) | 3:23 | 2025-04-17 | 2025-04-25 |
 | [D.A.N \(Dance All Night\)](https://open.spotify.com/track/28vNgcNGHNKoqnfljWnN26) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [D.A.N \(Dance All Night\)](https://open.spotify.com/album/5Gq5tHER64jRmIS4iHPDcC) | 3:19 | 2025-04-17 | 2025-04-25 |
+| [Danca](https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Danca](https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh) | 2:49 | 2026-04-30 |  |
 | [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 | 2025-06-26 |  |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-19 | 2023-08-01 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2023-06-02 | 2025-04-18 |

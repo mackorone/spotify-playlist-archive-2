@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-350 songs - 20 hr 14 min
+352 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,12 @@
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-02-03 | 2026-03-20 |
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 | 2026-03-29 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
+| [Bored](https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya) | [Duvin](https://open.spotify.com/artist/3pWchKdjhpRAGDfdzxLup7) | [Bored](https://open.spotify.com/album/2w9wbLlzxGAVKYo2rWE4Wj) | 3:52 | 2026-05-08 |  |
 | [Bruise \- made of glass version](https://open.spotify.com/track/1ViyTiiu8JELEBdkq9Ki7W) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Bruise \(made of glass version\)](https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD) | 3:38 | 2026-04-24 |  |
 | [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 | 2026-02-11 |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
 | [Can I See U Again?](https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 2:44 | 2026-04-02 |  |
+| [Canada](https://open.spotify.com/track/2pmyjfzB8zWvPxbMFAVlDm) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Canada](https://open.spotify.com/album/5gMGhKRzw3LGTxlK0J2fk4) | 3:23 | 2026-05-08 |  |
 | [Capgras](https://open.spotify.com/track/0GnM2MsysrU25aZEhSnnKV) | [Alano](https://open.spotify.com/artist/67pd5kQwnJqJELrkUSI1w2) | [Capgras](https://open.spotify.com/album/7fves1lJ4iWUrebac0Ygg1) | 3:38 | 2026-04-17 |  |
 | [Carnival And Cotton Candy](https://open.spotify.com/track/49Ee6TwuEjIwYt4hjZapWX) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Seems Familiar But So Strange](https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS) | 3:16 | 2026-03-10 | 2026-04-16 |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-12 | 2026-02-07 |

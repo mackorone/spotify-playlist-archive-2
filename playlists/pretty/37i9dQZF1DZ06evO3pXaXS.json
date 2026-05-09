@@ -1,12 +1,12 @@
 {
   "description": "This is The Police. The essential tracks, all in one playlist.",
-  "num_followers": 365970,
+  "num_followers": 366005,
   "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAs5nFinV+e3fRCkynqc40u",
+  "snapshot_id": "afvWAAAAAAC9l8m0mAljw3GDZKDqdTSL",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 200533,
-      "name": "Driven To Tears",
-      "url": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O"
+      "duration_ms": 216666,
+      "name": "When The World Is Running Down, You Make The Best Of What's Still Around",
+      "url": "https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 216666,
-      "name": "When The World Is Running Down, You Make The Best Of What's Still Around",
-      "url": "https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9"
+      "duration_ms": 200533,
+      "name": "Driven To Tears",
+      "url": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synchronicity (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Every Bomb You Make",
-      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flexible Strategies",
         "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186160,
       "name": "Visions Of The Night",
       "url": "https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synchronicity (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Every Bomb You Make",
+      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synchronicity (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Someone To Talk To",
-      "url": "https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flexible Strategies",
         "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Synchronicity (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Someone To Talk To",
+      "url": "https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghost In The Machine (Alternate Sequence)",
         "url": "https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 213680,
       "name": "Once Upon A Daydream",
       "url": "https://open.spotify.com/track/6d4nFWjT3SF9YgdutJYU2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Synchronicity (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 115213,
-      "name": "Rock And Roll Music",
-      "url": "https://open.spotify.com/track/3rxg2m40EClckontG296I1"
     },
     {
       "added_at": null,
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 168173,
-      "name": "Three Steps To Heaven",
-      "url": "https://open.spotify.com/track/6gFvK5y2TJQksecZAShqKV"
+      "duration_ms": 115213,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/3rxg2m40EClckontG296I1"
     },
     {
       "added_at": null,
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 192173,
-      "name": "Goodbye Tomorrow",
-      "url": "https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U"
+      "duration_ms": 168173,
+      "name": "Three Steps To Heaven",
+      "url": "https://open.spotify.com/track/6gFvK5y2TJQksecZAShqKV"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 215093,
       "name": "Dead End Job",
       "url": "https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synchronicity (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Goodbye Tomorrow",
+      "url": "https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U"
     },
     {
       "added_at": null,

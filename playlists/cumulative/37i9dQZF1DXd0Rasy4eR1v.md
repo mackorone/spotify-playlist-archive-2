@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Hamzay
 
-1,276 songs - 2 day 20 hr 4 min
+1,277 songs - 2 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Iltija](https://open.spotify.com/track/2lJci2lnP9579hnJmsVcyB) | [Junaid Javed](https://open.spotify.com/artist/0zqUu1gYO6WjlWUEaOQtQ9) | [Iltija](https://open.spotify.com/album/4LZTZU0KGhuTegxGVA0qmh) | 4:10 | 2023-05-05 | 2024-03-20 |
 | [IMPASSIONED](https://open.spotify.com/track/3bfvZAO5cn3KDWOiebfjFz) | [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E), [MRKLE](https://open.spotify.com/artist/18op6e1fVPmSj6796DOeSA) | [IMPASSIONED](https://open.spotify.com/album/11a4aE94KGPAwNMR6IwfZe) | 3:35 | 2022-11-17 | 2022-12-01 |
 | [IN MY FEELZ](https://open.spotify.com/track/3m4H88ZZupUtbqzZvipQfZ) | [Mo\-Hajir](https://open.spotify.com/artist/56RIF00EEFn88ZbeU8fdc0) | [IN MY FEELZ](https://open.spotify.com/album/7aRsjbHtgWGVtdcJdHrbX5) | 3:07 | 2023-03-21 | 2023-05-06 |
+| [Infatuation](https://open.spotify.com/track/5MFH8Y9ZnaovBH2toVshXN) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7), [Ammad Khan](https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV), [Amaizy](https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK) | [Infatuation](https://open.spotify.com/album/2iD3sS3urwxpwFSssWGQai) | 3:11 | 2026-05-08 |  |
 | [INFINITY](https://open.spotify.com/track/7GwYAo3v1ugRhUNe9T70Vk) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [INFINITY](https://open.spotify.com/album/6OHslSAHF2yoyXN6tCCYmH) | 4:04 | 2022-11-17 | 2022-12-01 |
 | [Inn Ankhon Ki Masti](https://open.spotify.com/track/4RiPd59wZy1D1y2HNAHKXn) | [Malaika](https://open.spotify.com/artist/6pG5M44yjcy9Py0CXkCQd4) | [Inn Ankhon Ki Masti](https://open.spotify.com/album/7jAXSAl2AC0ErwGggWeckx) | 3:02 | 2023-09-01 | 2023-09-16 |
 | [Intezaar](https://open.spotify.com/track/7mtFv7sJst6tUNFEYycB81) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Kamil Mahmood Kiani](https://open.spotify.com/artist/6KS7D3edmUKtWbWQ99KjY6) | [Intezaar](https://open.spotify.com/album/0iU1spYHEzzdlAW5Pftwdg) | 2:39 | 2022-10-26 | 2023-01-11 |

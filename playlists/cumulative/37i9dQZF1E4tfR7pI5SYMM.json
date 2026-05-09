@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With SCHANZ, Haneke Twins, Dystopian X Vision and more",
+  "description": "With Dystopian X Vision, Lockjaw, photophor and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 287038,
       "name": "Does the body stay",
       "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 174269,
       "name": "dose",
       "url": "https://open.spotify.com/track/4W20hsjRf54J0cM8oNY78A"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 280625,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/31mgiH8koyfFT4hl0tpNMf"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 253932,
       "name": "Farewell to Bad Old Days",
       "url": "https://open.spotify.com/track/3sYN2I2kCX2HHCgr9uNzB8"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Have a Gray Day",
       "url": "https://open.spotify.com/track/4Ehz4xfWds0AZiqpy30Wca"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -4672,6 +4672,28 @@
       "duration_ms": 312096,
       "name": "Kas Mes?",
       "url": "https://open.spotify.com/track/55eUd1ieePkJ3aPmSDud1i"
+    },
+    {
+      "album": {
+        "name": "Musick",
+        "url": "https://open.spotify.com/album/3XWPBz4DwKQna79SSkPdDm"
+      },
+      "artists": [
+        {
+          "name": "Laibach",
+          "url": "https://open.spotify.com/artist/7l4LQfvN4yz8zbK4WY0AAg"
+        },
+        {
+          "name": "Manca Trampu\u0161",
+          "url": "https://open.spotify.com/artist/4XTyHocm5VuwUOT8MXqeRX"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Keep It Reel (feat. Manca Trampu\u0161)",
+      "url": "https://open.spotify.com/track/6TVQpjyrkD3IBB8EEL5UcP"
     },
     {
       "album": {
@@ -4982,7 +5004,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -6000,7 +6022,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 180250,
       "name": "Murci\u00e9lagos",
       "url": "https://open.spotify.com/track/7iHa188lPGmeEjffPgjUAR"
@@ -6851,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "Painting Princess",
+        "url": "https://open.spotify.com/album/7tu2bmqzxvtlRkXOQwL1A8"
+      },
+      "artists": [
+        {
+          "name": "Bob Westlake",
+          "url": "https://open.spotify.com/artist/7Hede6BZrE319jF3eLmBjC"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217295,
+      "name": "Painting Princess",
+      "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
+    },
+    {
+      "album": {
         "name": "Pale Moon",
         "url": "https://open.spotify.com/album/4kEVlLDXgB8IswQYN7Xjfa"
       },
@@ -7064,7 +7104,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7848,7 +7888,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 319590,
       "name": "Sera-(The Dance of War)",
       "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
@@ -7978,7 +8018,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 282053,
       "name": "Shadows Sanctuary",
       "url": "https://open.spotify.com/track/1Eh5Azv4W3EGLSO7W9fUmr"
@@ -9894,7 +9934,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -10152,7 +10192,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 243972,
       "name": "Traitor",
       "url": "https://open.spotify.com/track/3cJOKprFvZUYXjJ4no3eoN"
@@ -10726,7 +10766,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 218000,
       "name": "W moim domu",
       "url": "https://open.spotify.com/track/6qhiwl4ATbo4ZF9HYLU6X4"

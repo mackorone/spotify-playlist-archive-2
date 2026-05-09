@@ -4,7 +4,7 @@
 
 > Rels B, J Balvin, Charli xcx, Abraham Mateo, Melendi y el resto de novedades de la semana.
 
-5,442 songs - 11 day 14 hr 59 min
+5,445 songs - 11 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2645,6 +2645,7 @@
 | [Llámame Luis](https://open.spotify.com/track/4jcBnctyxV3WhbJmv3rbUT) | [Cepeda](https://open.spotify.com/artist/5AMBCoLbNgVCbA3XYMRlks) | [Llámame Luis](https://open.spotify.com/album/2qoV5i3wHrIxCzVHNTl3yc) | 2:30 | 2025-08-07 | 2025-08-15 |
 | [Llévalo lejos](https://open.spotify.com/track/3ekXgUuR5nGEsDCd0wBGu2) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Llévalo lejos](https://open.spotify.com/album/18fn4QGfhUV8F6SjmzPKLd) | 3:34 | 2026-05-07 |  |
 | [Llévame a Casa](https://open.spotify.com/track/5nxx6ooOW4mEaWJC03CBlN) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Cuando Éramos Felices Sin Saberlo](https://open.spotify.com/album/6hgwHL9r4PRrvxhWqEa4xz) | 3:10 | 2025-03-27 | 2025-04-04 |
+| [Lo Arriesgo Todo](https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lo Arriesgo Todo](https://open.spotify.com/album/04HQFUF2ZerH9UAu5Lo6bP) | 3:24 | 2026-05-08 |  |
 | [Lo bien que suenas](https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Lo bien que suenas](https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy) | 3:30 | 2025-05-22 | 2025-05-30 |
 | [Lo Bonito](https://open.spotify.com/track/1IeSpRlKmhPemxo8GhN0LP) | [Carmen Ferre](https://open.spotify.com/artist/0YQ5lCNqrjymrsqmSn62YV), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Lo Bonito](https://open.spotify.com/album/5GsXm9iL1FXbmGMBNkPT9L) | 2:58 | 2026-03-05 | 2026-03-13 |
 | [LO LO LO](https://open.spotify.com/track/3vwf3emNmH1loFdl7lY8o1) | [Al·lèrgiques al pol·len](https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [AL·LARMA](https://open.spotify.com/album/4v4ax8Xg7RwEmCmbp4IK6R) | 2:19 | 2024-11-28 | 2024-12-06 |
@@ -3560,6 +3561,7 @@
 | [Oreo de Fresa](https://open.spotify.com/track/0cG9750fXdoi8xEdIa3jtZ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Oreo de Fresa](https://open.spotify.com/album/7mZZliPH0SWI2qPuCQHD0Y) | 2:19 | 2025-06-19 | 2025-06-27 |
 | [Orgullo o pena](https://open.spotify.com/track/0ST7U5eZ2qs8S4JLQFjmDX) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Orgullo o pena](https://open.spotify.com/album/5nfD5CBJE3XgfJ46bewoVI) | 3:24 | 2025-12-04 | 2025-12-12 |
 | [ORIGAMI](https://open.spotify.com/track/4AC3SSYAO1I3FQZk0bU29B) | [VYPERR](https://open.spotify.com/artist/3hOzu5VKgQuAtVt2OOL4Wt) | [ORIGAMI](https://open.spotify.com/album/6mDjJHBFqlgJnbQTT3Fodc) | 2:16 | 2025-01-10 | 2025-01-17 |
+| [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 | 2026-05-08 |  |
 | [Orilla](https://open.spotify.com/track/4zEW9cHkayxZk2eojf6cgA) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Orilla](https://open.spotify.com/album/660WBhfDrgHNtkXNfyPs6Z) | 3:13 | 2025-03-13 | 2025-03-21 |
 | [Oro Irlandés](https://open.spotify.com/track/6gesNT3gtru3WI4nB4jZDr) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Oro Irlandés](https://open.spotify.com/album/6fxrUfD9cQy3HeEjKxWUEk) | 4:46 | 2025-09-18 | 2025-09-27 |
 | [Oro y Diamantes](https://open.spotify.com/track/7sNxI7CU0OzCKwcec5myrI) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [Oro y Diamantes](https://open.spotify.com/album/5i8pUqf3JnN3IEiuBseHqb) | 3:01 | 2025-10-09 | 2025-10-17 |
@@ -4152,6 +4154,7 @@
 | [Robot](https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Robot](https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP) | 2:45 | 2025-03-27 | 2025-04-04 |
 | [ROCCO SIFFREDI](https://open.spotify.com/track/2FLOuRpIRCDy8HpqbNizht) | [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [ROCCO SIFFREDI](https://open.spotify.com/album/4bb39P7d079qoRsZUvEcdj) | 2:31 | 2026-05-01 | 2026-05-08 |
 | [Rock and Roll Star \(feat\. Leiva, Rubén Pozo\)](https://open.spotify.com/track/55tIfzietfTRuW2FxcnRJL) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [Rock and Roll Star \(feat\. Leiva, Rubén Pozo\)](https://open.spotify.com/album/79wJ11Eer0byUhxweqoqae) | 4:32 | 2025-07-10 | 2025-07-18 |
+| [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 | 2026-05-08 |  |
 | [ROJOFUEGO \- Spotify Singles](https://open.spotify.com/track/50jl0dJ6eBzFPz1I9wskHt) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROJOFUEGO \- Spotify Singles](https://open.spotify.com/album/5IlQTbEXM4RzyzBO2LfJ4i) | 2:43 | 2024-12-06 | 2024-12-13 |
 | [Rolling](https://open.spotify.com/track/0La3954w9IQJ6MBxYB1v4F) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Rolling](https://open.spotify.com/album/3CYS3YH6NHzUGCTHgBMT85) | 2:18 | 2025-10-02 | 2025-10-10 |
 | [Rollitos de Papel](https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Rollitos de Papel](https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1) | 3:02 | 2026-01-23 | 2026-01-30 |

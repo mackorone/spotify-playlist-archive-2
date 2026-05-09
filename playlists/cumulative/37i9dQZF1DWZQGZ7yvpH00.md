@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Rey Quinto, L Prince, Xavi en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 RIA & Armenta en portada.
 
-628 songs - 1 day 10 hr 35 min
+629 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Ni Pedo](https://open.spotify.com/track/1M65Ie7QSyd61dgHJnfACa) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [CUERNO](https://open.spotify.com/artist/6WfZ64HOR7tT0nGmxKQ7Hq) | [Ni Pedo](https://open.spotify.com/album/165eqJAqgFFsxC47rceeFb) | 3:33 | 2026-02-27 | 2026-04-11 |
 | [Nivel Dios](https://open.spotify.com/track/2fQDPWL8HKiiAC3l95dXJO) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Nivel Dios](https://open.spotify.com/album/4kqA5xSxfGhwH7OubMCZQl) | 2:31 | 2024-05-17 | 2024-06-08 |
 | [niña de CASA](https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [niña de CASA](https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP) | 3:33 | 2026-01-30 |  |
+| [No Creo](https://open.spotify.com/track/3AatxyEZQLtJ06Q3iFnKEQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [No Creo](https://open.spotify.com/album/5UJHiUjGUoCV5fGKo3QjWZ) | 3:37 | 2026-05-08 |  |
 | [No Eres La Oficial](https://open.spotify.com/track/7LYWPZL216dyiN02mjefro) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/3Y1AadLWzuo9uXJ2SD0w8V) | 3:20 | 2021-11-22 | 2022-06-25 |
 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 | 2025-01-10 | 2025-02-15 |
 | [No Es Mentira](https://open.spotify.com/track/5uVcNLmBx5S6qdjY4Dwtdi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:18 | 2023-11-10 | 2025-02-01 |

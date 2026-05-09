@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/77QWJ7qZDfLThQK3X3EFGe"
+      },
+      "artists": [
+        {
+          "name": "Sam Creese",
+          "url": "https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252477,
+      "name": "A New Dawn",
+      "url": "https://open.spotify.com/track/6vEKgxxqq6poH4n3bhKJe1"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/7979k1NF3U9qJlbgl9yoAj"
       },
@@ -3332,7 +3350,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 200726,
       "name": "Father's Day",
       "url": "https://open.spotify.com/track/6APMFQamK5mtVwwP5juBsk"
@@ -8089,6 +8107,24 @@
     },
     {
       "album": {
+        "name": "no need to rush",
+        "url": "https://open.spotify.com/album/5KKgFP71oCukS9W6Duaaa5"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226345,
+      "name": "no need to rush",
+      "url": "https://open.spotify.com/track/4V8CHw2uIolxJK7qcnSm8Q"
+    },
+    {
+      "album": {
         "name": "Nobody's Darling",
         "url": "https://open.spotify.com/album/5UdjszhOeIQb0j6HTtZZZy"
       },
@@ -8400,6 +8436,24 @@
       "duration_ms": 204006,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC"
+    },
+    {
+      "album": {
+        "name": "On the Corner of the Street",
+        "url": "https://open.spotify.com/album/5FUVo4MnewmTOwH7MUys5D"
+      },
+      "artists": [
+        {
+          "name": "Jamie Wilkis",
+          "url": "https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252477,
+      "name": "On The Corner Of The Street",
+      "url": "https://open.spotify.com/track/1PV1h4KWNdVCQm2oTpeaK1"
     },
     {
       "album": {
@@ -10530,7 +10584,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 226535,
       "name": "Stay A Little",
       "url": "https://open.spotify.com/track/2sKZDJArmjIJay2BgMrleH"
@@ -10764,7 +10818,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 200937,
       "name": "Swaying Shadows",
       "url": "https://open.spotify.com/track/53MQJJpDsIE0QV6y6Mv2mc"
@@ -11466,7 +11520,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 196726,
       "name": "The Quiet After",
       "url": "https://open.spotify.com/track/0ZXIyVbEAZc2nTRoSpjPV3"
@@ -11830,6 +11884,24 @@
       "duration_ms": 166114,
       "name": "This isn\u2019t home",
       "url": "https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4"
+    },
+    {
+      "album": {
+        "name": "This Radiant Heart",
+        "url": "https://open.spotify.com/album/2jmEyfCCxdtAWeUizZTt7l"
+      },
+      "artists": [
+        {
+          "name": "Blue Mirage Quartet",
+          "url": "https://open.spotify.com/artist/7mT1tYhex6nSNZmkg9LQfp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185903,
+      "name": "This Radiant Heart",
+      "url": "https://open.spotify.com/track/41zoWlRaGtvNUyOpXTjIgl"
     },
     {
       "album": {

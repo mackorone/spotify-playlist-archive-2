@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Wax Motif
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,033 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,053 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 27 | [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 |
 | 28 | [Smoke](https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Smoke](https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe) | 2:30 |
 | 29 | [Feels Like](https://open.spotify.com/track/23uEhWopil66nmqH3Yqyxr) | [Togetherness](https://open.spotify.com/artist/32GNunodYuJPL8C1m3XfQW), [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [friendship circles](https://open.spotify.com/artist/2QIBagmkTrM4O9yiyF2Ky0), [Lees](https://open.spotify.com/artist/4xb5O8bO4LzyDuQWRE8C73) | [Feels Like](https://open.spotify.com/album/11VHwumXkj4zxqyXijj8eb) | 3:01 |
-| 30 | [Track 1](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 0:00 |
+| 30 | [SWITCH](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9), [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 2:44 |
 | 31 | [car crash](https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [car crash](https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0) | 2:40 |
 | 32 | [Way You Move](https://open.spotify.com/track/6IumdpGce37viyxSOrkxOL) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Way You Move](https://open.spotify.com/album/1VXxVBe6lWpwPc5PojIbfj) | 5:33 |
 | 33 | [I Want Ya](https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [EIGHT](https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt) | 4:23 |

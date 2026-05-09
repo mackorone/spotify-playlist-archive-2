@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Året Var
 
-1,246 songs - 2 day 23 hr 46 min
+1,247 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 | 2026-03-26 |  |
 | [Håll ihop](https://open.spotify.com/track/5a0VLC6tX0g45CZXU74dNK) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Håll ihop](https://open.spotify.com/album/4us1p9C9X5cldRFgwiU5Y7) | 2:46 | 2025-03-27 | 2025-06-20 |
 | [Hösten](https://open.spotify.com/track/65Am6nqheamqdvPcpyz47o) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Hösten](https://open.spotify.com/album/2JCUV7tSFVGrHoddIqL9Hm) | 4:44 | 2024-10-31 | 2025-04-18 |
+| [I Am a Woman](https://open.spotify.com/track/1NEa2mPnNrvXaTX0z0qkFf) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [I Am a Woman](https://open.spotify.com/album/4pnt0BWZDzpT0EPpSkRuhs) | 3:44 | 2026-05-08 |  |
 | [I am I am what](https://open.spotify.com/track/5ExwUqRjRiILMt1eDAhH12) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [I am I am what](https://open.spotify.com/album/0oIJ7qcEcrivPVkgyd27PT) | 2:17 | 2025-04-03 | 2025-06-20 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2025-01-24 |
 | [I Believe In You](https://open.spotify.com/track/0cSTSdCl9ovNRUXDCUY3s1) | [Vargen](https://open.spotify.com/artist/3sl00gQLFexX8tuanNfe9e), [Mats "MP" Persson](https://open.spotify.com/artist/5miXrCJvExLhtdaB2Jajgt) | [I Believe In You](https://open.spotify.com/album/6y3xdTYXr1rDsIouBcAHkz) | 3:32 | 2025-08-21 | 2026-01-16 |

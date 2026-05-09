@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Ryan Fidelis
 
-344 songs - 17 hr 43 min
+345 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 | 2024-01-26 | 2025-05-31 |
 | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [PLAYLIST TRANSANTE 2.0](https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM) | 2:28 | 2023-08-25 | 2023-10-07 |
 | [Pode Ir](https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF) | [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU), [Grito Filmes](https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133) | [Pode Ir](https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2) | 2:33 | 2024-01-12 | 2024-06-29 |
+| [pode me gravar :\)](https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd) | [Perigato](https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I) | [pode me gravar :\)](https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL) | 2:49 | 2026-05-08 |  |
 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 | 2025-10-10 |  |
 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 | 2022-11-18 | 2023-04-09 |
 | [Pontas Soltas](https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ) | [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Pontas Soltas](https://open.spotify.com/album/1WQgU6bnnSvV0KtkxHu2bQ) | 3:12 | 2022-11-18 | 2023-03-11 |

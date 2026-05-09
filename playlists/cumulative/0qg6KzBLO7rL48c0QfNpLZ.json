@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/0wCWaIAz3UQ5EKrMcfnUHE"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0Wa1Q3G86MG3LJkpoUS02h"
+    },
+    {
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/2kjumiS4VltG0VtIednDQd"
       },
@@ -1244,6 +1262,24 @@
       "duration_ms": 145573,
       "name": "Angels",
       "url": "https://open.spotify.com/track/01BrBdYEkxPgdZO2btqPEY"
+    },
+    {
+      "album": {
+        "name": "Another Dawn",
+        "url": "https://open.spotify.com/album/44uROEG8TUpQEwDX5CTpNE"
+      },
+      "artists": [
+        {
+          "name": "Baked Moon",
+          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148624,
+      "name": "Another Dawn",
+      "url": "https://open.spotify.com/track/1dZCHJ0AoiMXqeftKI1J6u"
     },
     {
       "album": {
@@ -7488,7 +7524,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146181,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6a5xSQ7UeedhX7Us2Ru2O9"
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 124616,
       "name": "Drown In Your Love",
       "url": "https://open.spotify.com/track/4bY2GvE2w4L4R283b3JbwT"
@@ -10447,6 +10483,24 @@
     },
     {
       "album": {
+        "name": "Get Me",
+        "url": "https://open.spotify.com/album/5vdngxFIpWweOm7BmYyIY5"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132708,
+      "name": "Get Me",
+      "url": "https://open.spotify.com/track/4WUljHUqJT0usnOHHum0ID"
+    },
+    {
+      "album": {
         "name": "Get You Alone",
         "url": "https://open.spotify.com/album/680uc78BjvGgwXi2hRLFuV"
       },
@@ -10666,7 +10720,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 163811,
       "name": "Golden Horizon",
       "url": "https://open.spotify.com/track/0O7iSmBJQRGnfK8Vi6RpKM"
@@ -11918,7 +11972,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 240983,
       "name": "Hide And Seek",
       "url": "https://open.spotify.com/track/76Rw02WGgq5CwzfTAOj8K6"
@@ -12542,6 +12596,24 @@
       "duration_ms": 132081,
       "name": "Home",
       "url": "https://open.spotify.com/track/3btdOaDH4o9B518GryM5RT"
+    },
+    {
+      "album": {
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/1scHI6srbkwzwtaw5Jwj8H"
+      },
+      "artists": [
+        {
+          "name": "just here.",
+          "url": "https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/470MztaRcp08yRwKdpOZYY"
     },
     {
       "album": {
@@ -19807,6 +19879,32 @@
     },
     {
       "album": {
+        "name": "Northern Blue",
+        "url": "https://open.spotify.com/album/1mkcZAIGj9abJfz9rJ60dz"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "Francis Skyes",
+          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Northern Blue",
+      "url": "https://open.spotify.com/track/2TdqKPMS9785LiR1mxv0yg"
+    },
+    {
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/6IsXyknYmI1dQE1n92VcAJ"
       },
@@ -21597,6 +21695,46 @@
     },
     {
       "album": {
+        "name": "Passing Time",
+        "url": "https://open.spotify.com/album/3D9yNMXOdKCt9YIFR0x29Q"
+      },
+      "artists": [
+        {
+          "name": "Ryamasu",
+          "url": "https://open.spotify.com/artist/1OnLmUAkkoKFOAzL8NpWlQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146774,
+      "name": "Passing Time",
+      "url": "https://open.spotify.com/track/7HyHwxcJ70sO6WQrtgv3N7"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3NUOhqj8jEaE8ZLTI8mqP1"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        },
+        {
+          "name": "Chris Crone",
+          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6VE0207fSX9EYwClssdZlh"
+    },
+    {
+      "album": {
         "name": "Peaky",
         "url": "https://open.spotify.com/album/3PT9FbcCMvjWd0NPL4eos0"
       },
@@ -22642,7 +22780,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 158608,
       "name": "Rewinding",
       "url": "https://open.spotify.com/track/02T6akp3tVB1p7SMoqHNAJ"
@@ -25790,7 +25928,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 132000,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6ENEG1qOaRbgu6vbFeFuqR"
@@ -26218,6 +26356,28 @@
       "duration_ms": 138688,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/2d6bwIQykrN8PR6q5TRVlO"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6GMgaJFjmDs6Mp2U8ir8dh"
+      },
+      "artists": [
+        {
+          "name": "Sanxez",
+          "url": "https://open.spotify.com/artist/1p7AHcSoP4l1Y5njS41YrB"
+        },
+        {
+          "name": "AL1VE",
+          "url": "https://open.spotify.com/artist/23BWZZ4ZquhqJTDwnHuOP5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/12mLNOavlmWlIiVulOCBMd"
     },
     {
       "album": {
@@ -31406,7 +31566,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 139830,
       "name": "Young Years",
       "url": "https://open.spotify.com/track/6IaidcgITz91ffjzPioWXQ"

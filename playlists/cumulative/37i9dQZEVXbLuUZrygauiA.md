@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,852 songs - 8 day 17 hr 57 min
+3,853 songs - 8 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,7 +1066,7 @@
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-05 | 2023-05-18 |
 | [El Correcto](https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Correcto](https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH) | 2:48 | 2023-11-07 | 2023-11-24 |
 | [El de la B v2](https://open.spotify.com/track/2cNtaBGQuGIXsskjyS5ew3) | [El Makabro Music](https://open.spotify.com/artist/7wtFXg6YzJv4SApO2thahT) | [El de la B v2](https://open.spotify.com/album/6CNtGWITzAWIErpdhP3923) | 4:15 | 2025-12-12 | 2025-12-30 |
-| [El de la fupa](https://open.spotify.com/track/5a36rAQLHVs53yWcUgwzyZ) | [Vicente Mraz](https://open.spotify.com/artist/5GfdUNeilpwYVHlJeJlef1) | [El de la fupa](https://open.spotify.com/album/05ZQprjRVm0qSPtdmkzqX1) | 2:02 | 2026-05-05 |  |
+| [El de la fupa](https://open.spotify.com/track/5a36rAQLHVs53yWcUgwzyZ) | [Vicente Mraz](https://open.spotify.com/artist/5GfdUNeilpwYVHlJeJlef1) | [El de la fupa](https://open.spotify.com/album/05ZQprjRVm0qSPtdmkzqX1) | 2:02 | 2026-05-05 | 2026-05-09 |
 | [El Del Palenque](https://open.spotify.com/track/59IzIYjjHoYqs6SLioYrcI) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Alegres \- Los Mejores Exitos, Vol\. 1](https://open.spotify.com/album/0Orm3dKLTaMjHIhQcpZesP) | 3:12 | 2025-04-07 | 2026-03-07 |
 | [El Destino](https://open.spotify.com/track/2HQxiK6VtkuZRBveJ5QYQH) | [Jaun Michel Y Veronica Linares](https://open.spotify.com/artist/4J42V8MdHjJoF5Z5KlYEf0) | [Gracias Juan Gabriel \(20 Indispensables\)](https://open.spotify.com/album/3iYIrF2P9Q7LQ6o172rm0w) | 4:33 | 2024-09-17 | 2025-09-24 |
 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 | 2024-11-01 | 2025-11-09 |
@@ -1908,6 +1908,7 @@
 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 | 2023-06-27 | 2023-07-19 |
 | [LOS DOS](https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:34 | 2024-05-28 | 2024-06-09 |
 | [Los Lujos Del R.](https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:55 | 2025-08-24 | 2025-08-29 |
+| [LOS MENSAJES DE WHATSAPP](https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LOS MENSAJES DE WHATSAPP](https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A) | 3:19 | 2026-05-08 |  |
 | [Los Presidentes](https://open.spotify.com/track/5rkObVufQgs03O4WdTO8rf) | [Alexis Riovar](https://open.spotify.com/artist/6mHy8OOEaqtBS7v2Ley3ql) | [Los Presidentes](https://open.spotify.com/album/0CrxZCqE1dIlJfr3wpABMT) | 3:01 | 2024-10-15 | 2024-10-19 |
 | [LOS QUIERO TODOS](https://open.spotify.com/track/5w8dKsaRzX1m8TzAHEgtSM) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [ROMANTIKEO.COM](https://open.spotify.com/album/0oZALNthlH922pMfDt70bN) | 2:34 | 2025-10-25 | 2025-11-02 |
 | [Los Reyes Magos](https://open.spotify.com/track/2xJM9ksChIZ6aK2WsKo5K6) | [Coros De Amor](https://open.spotify.com/artist/7Dubjwi9vtebzbKfZpBv2Q) | [Los Reyes Magos](https://open.spotify.com/album/3fCvY6ywJA5EV8TYQkfV3w) | 3:46 | 2022-12-17 | 2025-12-26 |

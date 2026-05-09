@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: Chezka
+> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-335 songs - 19 hr 47 min
+336 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [GENTO](https://open.spotify.com/track/6RYhIHur2unkQv28fcinNO) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:52 | 2025-09-08 | 2025-10-06 |
 | [Get That Peso \(Crank Dat\)](https://open.spotify.com/track/53CyvLDorWmatOzIlYJsHr) | [Matt White](https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Get That Peso \(Crank Dat\)](https://open.spotify.com/album/1dvuTTGbwRqXvNpvqA1AUS) | 3:19 | 2025-07-18 | 2026-04-07 |
 | [GET THIS BREAD PT\. I](https://open.spotify.com/track/7wNF4ciwy22SbgKGBTsFHY) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [GET THIS BREAD](https://open.spotify.com/album/0oCyTQxXS70olcur2hSe9R) | 3:33 | 2021-11-25 | 2022-03-25 |
+| [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 | 2026-05-08 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-11 | 2024-04-03 |
 | [Go Crazy](https://open.spotify.com/track/2uprvwdE45v3PnfLMNHRBE) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Go Crazy](https://open.spotify.com/album/6Kiq3yPwoquYd8dxOA4EoY) | 3:33 | 2021-11-25 | 2022-03-25 |
 | [Golden Arrow](https://open.spotify.com/track/3GYrHsq8M1hc7G6P0OP4R8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 3:47 | 2022-03-24 | 2023-04-14 |

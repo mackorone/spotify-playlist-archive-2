@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: 1\-800 GIRLS
 
-445 songs - 1 day 3 hr 47 min
+446 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 | 2024-07-26 | 2025-03-09 |
 | [Cruel Love](https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cruel Love](https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1) | 4:39 | 2025-06-26 | 2025-11-07 |
 | [Curiosity \(Dawn\)](https://open.spotify.com/track/5LTx2spPrYmQp9ArW5LYMc) | [Dead Naked Hippies](https://open.spotify.com/artist/1YZNXPLpIO7jdHaGAVCwAL) | [Curiosity \(Dawn\)](https://open.spotify.com/album/5SCX0vSZ33bxGHZDDIC84Q) | 3:33 | 2021-10-28 | 2024-03-02 |
-| [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 | 2025-10-03 |  |
+| [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 | 2025-10-03 | 2026-05-09 |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-01-31 | 2026-05-08 |
 | [cyanotype memories \- edit \- joe goddard remix](https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/5AUpxQhx2aZmUdHc3DQKx8) | 3:11 | 2024-04-12 | 2025-02-14 |
 | [cyanotype memories \- joe goddard remix \(edit\)](https://open.spotify.com/track/5OjiA2QAxv0YX9qFaveApH) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [cyanotype memories \(joe goddard remix\)](https://open.spotify.com/album/2TuCPQYYEYjB6EmRJREXbJ) | 3:11 | 2024-04-12 | 2024-04-19 |
@@ -383,6 +383,7 @@
 | [Swim](https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Swim](https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC) | 4:20 | 2025-05-29 | 2026-02-13 |
 | [Swipe \(ft\. Isis Salam\)](https://open.spotify.com/track/04vGc65ydCvfyeV9E4vs2l) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel), [Benson](https://open.spotify.com/artist/6XVEZ5mTWp5DpfuFPn1QCz), [Isis Salam](https://open.spotify.com/artist/3bYWS9Hq4G2gF2Cb6rnRb2) | [Swipe \(ft\. Isis Salam\)](https://open.spotify.com/album/5m4FJKUGhqsL6OqoxAlqzQ) | 3:09 | 2026-03-13 | 2026-04-17 |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
+| [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 | 2026-05-08 |  |
 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 | 2026-02-13 |  |
 | [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 | 2025-03-28 |
 | [Take My Space](https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Take My Space](https://open.spotify.com/album/62SfUalXptRGizTRybkeXH) | 2:23 | 2026-05-07 |  |

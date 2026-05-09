@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 334364,
       "name": "Beneath The Surface",
       "url": "https://open.spotify.com/track/7lc2KfqlA9ME6qT2NCexZv"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 275325,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv"
@@ -6733,6 +6733,28 @@
     },
     {
       "album": {
+        "name": "Oracle (Verraco Weightless Reshape)",
+        "url": "https://open.spotify.com/album/2fj4YX2wX1TyRetnwSoLNb"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396750,
+      "name": "Oracle - Verraco Weightless Reshape",
+      "url": "https://open.spotify.com/track/79JfmfngzNC87b92PcsozS"
+    },
+    {
+      "album": {
         "name": "Other Means",
         "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
       },
@@ -8290,7 +8312,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 291000,
       "name": "Skyline 4",
       "url": "https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw"
@@ -9166,6 +9188,28 @@
       "duration_ms": 336026,
       "name": "Test Chamber",
       "url": "https://open.spotify.com/track/794emFbnhUQHynnHqF3aKp"
+    },
+    {
+      "album": {
+        "name": "The Answer Breaks (Remixes)",
+        "url": "https://open.spotify.com/album/2vWjTZb4F95TGjKHjOcf66"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        },
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "The Answer - Kelbin Remix",
+      "url": "https://open.spotify.com/track/4vWExxBOpNhqdA30uD0gzr"
     },
     {
       "album": {
@@ -11132,6 +11176,24 @@
       "duration_ms": 212535,
       "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
       "url": "https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J"
+    },
+    {
+      "album": {
+        "name": "\uff65\uff65\uff65 \uff65\uff0d \uff65\uff65 \uff65\uff0d\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+        "url": "https://open.spotify.com/album/1wlPVruRAiEOIFWLQahnJx"
+      },
+      "artists": [
+        {
+          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261193,
+      "name": "\uff65\uff65\uff65 \uff65\uff0d \uff65\uff65 \uff65\uff0d\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+      "url": "https://open.spotify.com/track/2puMGofzX4oeRpZRNPL6Ms"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ7mSWCFIT7v"

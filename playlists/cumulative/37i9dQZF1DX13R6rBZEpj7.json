@@ -2971,6 +2971,32 @@
     },
     {
       "album": {
+        "name": "Go (I Don't Wanna) [Denon Reed Remix]",
+        "url": "https://open.spotify.com/album/3IvL6KHEcGvbXqXLIpkTaU"
+      },
+      "artists": [
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        },
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163415,
+      "name": "Go (I Don't Wanna) - Denon Reed Remix",
+      "url": "https://open.spotify.com/track/5XpAHtl1i3BtBhmV7Njp5b"
+    },
+    {
+      "album": {
         "name": "GOOD 4 U",
         "url": "https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR"
       },
@@ -5944,7 +5970,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198857,
       "name": "Parental Advisory",
       "url": "https://open.spotify.com/track/25kky3uhTdQcsyLvAAqAbT"

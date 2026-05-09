@@ -1,12 +1,12 @@
 {
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Smerz",
-  "num_followers": 69310,
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: sadie",
+  "num_followers": 69414,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyaJyOq56HEOlt9ENjuQsUdPc2L",
+  "snapshot_id": "AAAAALhA2069gqWzA8/3pFWhB6RXdJVT",
   "tracks": [
     {
       "added_at": "2026-04-30 22:01:04",
@@ -23,6 +23,38 @@
       "duration_ms": 128012,
       "name": "Spring summer",
       "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
+    },
+    {
+      "added_at": "2026-05-08 04:03:09",
+      "album": {
+        "name": "Better Angels",
+        "url": "https://open.spotify.com/album/33mfAax2G5I4xIimwIxjnt"
+      },
+      "artists": [
+        {
+          "name": "sadie",
+          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
+        }
+      ],
+      "duration_ms": 112972,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/1j75PTRIXXaObizbId3eoZ"
+    },
+    {
+      "added_at": "2026-05-08 04:03:09",
+      "album": {
+        "name": "lure",
+        "url": "https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg"
+      },
+      "artists": [
+        {
+          "name": "Sindy",
+          "url": "https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "nursed",
+      "url": "https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue"
     },
     {
       "added_at": "2026-04-30 22:01:04",
@@ -287,6 +319,22 @@
       "duration_ms": 533023,
       "name": "You Make a Fire, You Make a Camp",
       "url": "https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7"
+    },
+    {
+      "added_at": "2026-05-08 04:03:09",
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
     },
     {
       "added_at": "2026-04-30 22:01:04",
@@ -2387,54 +2435,6 @@
       "duration_ms": 256217,
       "name": "Lay down",
       "url": "https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO"
-    },
-    {
-      "added_at": "2026-04-30 22:01:04",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV"
-      },
-      "artists": [
-        {
-          "name": "Ragnhild og",
-          "url": "https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T"
-    },
-    {
-      "added_at": "2026-04-30 22:01:04",
-      "album": {
-        "name": "100%WET",
-        "url": "https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc"
-      },
-      "artists": [
-        {
-          "name": "100%WET",
-          "url": "https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2"
-        }
-      ],
-      "duration_ms": 272606,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/5KL7fD7g08Yagmi89FUfTi"
-    },
-    {
-      "added_at": "2026-04-30 22:01:04",
-      "album": {
-        "name": "Playthings",
-        "url": "https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Playthings",
-      "url": "https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30"
     },
     {
       "added_at": "2026-04-30 22:01:04",

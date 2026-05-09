@@ -980,7 +980,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149347,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1xbjwoLE5SWaD4rFhWm11g"
@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "going up",
+        "url": "https://open.spotify.com/album/48WWKdmSLRyBqtw2ETSWm9"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "going up",
+      "url": "https://open.spotify.com/track/1QM0ffb8mqBOoG1mDUwDdO"
+    },
+    {
+      "album": {
         "name": "Golden Hours",
         "url": "https://open.spotify.com/album/6TWsmNumURRgVSWcRJfH6V"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198000,
       "name": "Infrared",
       "url": "https://open.spotify.com/track/3QptYtzJiY58eQ2LLPlTGI"
@@ -2627,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Nokton",
+        "url": "https://open.spotify.com/album/6r8bfLMdbkBfU87w4OkDgr"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Nokton",
+      "url": "https://open.spotify.com/track/5JuWSV7iwKHcnM07wTC2gm"
+    },
+    {
+      "album": {
         "name": "Noon Without Shadows",
         "url": "https://open.spotify.com/album/2mXNnYIOP7YntzOakYDqpo"
       },
@@ -2804,6 +2840,24 @@
       "duration_ms": 210000,
       "name": "Outrunners",
       "url": "https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH"
+    },
+    {
+      "album": {
+        "name": "Pacific FM",
+        "url": "https://open.spotify.com/album/7037eUSnHepw1YxWCLCDzN"
+      },
+      "artists": [
+        {
+          "name": "Lucy In Disguise",
+          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215483,
+      "name": "Pacific FM",
+      "url": "https://open.spotify.com/track/5sJSsNjYnlSUyAi9SzwmCd"
     },
     {
       "album": {
@@ -3104,7 +3158,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 177560,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/4zVEPRe3LjceP9IR8vGTrq"
@@ -3144,6 +3198,28 @@
       "duration_ms": 231108,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/21zlF8F7xfYvbMnM9atda1"
+    },
+    {
+      "album": {
+        "name": "Radion",
+        "url": "https://open.spotify.com/album/23d7GT8TL1YsDC2jBbxRSR"
+      },
+      "artists": [
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        },
+        {
+          "name": "Echo Wolf",
+          "url": "https://open.spotify.com/artist/60ZQkaf0EkOhPZOKlwYv5s"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237995,
+      "name": "Radion - Slowed",
+      "url": "https://open.spotify.com/track/2cVtSnlZ2q9ryxYrXN3ASJ"
     },
     {
       "album": {
@@ -3498,7 +3574,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 130177,
       "name": "Slow Orbit",
       "url": "https://open.spotify.com/track/3OqQMDKvkhyBblLYYEHmQR"

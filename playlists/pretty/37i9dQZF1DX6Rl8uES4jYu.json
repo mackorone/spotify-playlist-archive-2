@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 231572,
+  "num_followers": 231550,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzyv2k4wTH8rqdhTf4dsZ4GLqs9",
+  "snapshot_id": "AAAAALAXSVzkxv/8QeUBtIKcuAYKQ+xm",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:01:45",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
+    },
     {
       "added_at": "2026-04-10 04:01:17",
       "album": {

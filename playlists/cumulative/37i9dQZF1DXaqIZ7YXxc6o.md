@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Wax Motif
 
-3,954 songs - 9 day 0 hr 20 min
+3,954 songs - 9 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3322,6 +3322,7 @@
 | [Sweetest Thing \- Marsh Remix](https://open.spotify.com/track/5lRcGdeTdQ0ftS4etlqS0V) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Welcome To My World \(Remixed\)](https://open.spotify.com/album/751Fd7krK9PDF3kHFvrXAP) | 4:42 | 2025-10-09 | 2025-11-14 |
 | [Swept Away](https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Swept Away](https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8) | 2:47 | 2025-09-11 | 2025-10-24 |
 | [Switch](https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Switch](https://open.spotify.com/album/6L2qyexv1IleiJkkcYl4zT) | 3:09 | 2024-07-18 | 2024-09-06 |
+| [SWITCH](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9), [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 2:44 | 2026-05-07 |  |
 | [Switch](https://open.spotify.com/track/3wcmG3AHn9INTNiph0BqBb) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Switch](https://open.spotify.com/album/7p8eRIUEpYHG2X20d7q81J) | 3:21 | 2024-04-25 | 2024-06-01 |
 | [Swolsen's](https://open.spotify.com/track/6AjddPNRbylrHOUn64c9MQ) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:29 | 2023-03-09 | 2023-03-31 |
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-06 | 2023-10-30 |
@@ -3580,7 +3581,6 @@
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-05-02 |
 | [Toxic](https://open.spotify.com/track/0ZEI0seiT4dTdaeAG0Elpm) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5) | [Toxic](https://open.spotify.com/album/2IQ0X4YEGvqn9WPddpOxQp) | 2:48 | 2023-12-01 | 2024-01-12 |
 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 | 2024-04-11 | 2024-05-10 |
-| [Track 1](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 0:00 | 2026-05-07 |  |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-09 | 2023-03-10 |
 | [Transport God](https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [Transport God](https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF) | 2:12 | 2023-01-12 | 2023-02-17 |
 | [Trapped](https://open.spotify.com/track/28byfmQCZ3hJggUIFuaPiK) | [Tina Says](https://open.spotify.com/artist/4NStEEdNYCLBx2jwKGQhju) | [Trapped / Unreal](https://open.spotify.com/album/7uJvuYmxYopKjIDbO3TFKZ) | 3:29 | 2024-03-07 | 2024-04-05 |

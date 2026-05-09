@@ -540,7 +540,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 133815,
       "name": "Bowls In The Underworld",
       "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
@@ -928,6 +928,24 @@
       "duration_ms": 100076,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/02T3rgEbXn52RS7d91g5NZ"
+    },
+    {
+      "album": {
+        "name": "Digital Circus!",
+        "url": "https://open.spotify.com/album/6AwWvzI7kqewkFF9Yk7bQc"
+      },
+      "artists": [
+        {
+          "name": "BaybWick",
+          "url": "https://open.spotify.com/artist/0rpI9gzgDuWlpsFQiGo8l3"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170155,
+      "name": "Digital Circus!",
+      "url": "https://open.spotify.com/track/0HdtMYQLQ7kklq31tJNJzV"
     },
     {
       "album": {
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 101198,
       "name": "I Love Freaks",
       "url": "https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6"
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -2573,6 +2591,28 @@
     },
     {
       "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN"
+      },
+      "artists": [
+        {
+          "name": "VazClare",
+          "url": "https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75"
+        },
+        {
+          "name": "killfazos",
+          "url": "https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123296,
+      "name": "No Folding (Bonus)",
+      "url": "https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF"
+    },
+    {
+      "album": {
         "name": "No Luv",
         "url": "https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur"
       },
@@ -2786,7 +2826,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -4068,7 +4108,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179465,
       "name": "Ww3",
       "url": "https://open.spotify.com/track/3su7hKSR6ClzYUchQVQoIe"

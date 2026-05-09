@@ -8423,24 +8423,6 @@
     },
     {
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/0ma3xHuSUNkNIL4qbP5P0s"
-      },
-      "artists": [
-        {
-          "name": "Isaura",
-          "url": "https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2t9weDEeOjqpijj5jnF8CH"
-    },
-    {
-      "album": {
         "name": "Traz-me o Ver\u00e3o a Casa",
         "url": "https://open.spotify.com/album/6LNBH6sYVUG4XfpaDS5Quv"
       },
@@ -8638,6 +8620,24 @@
       "duration_ms": 260400,
       "name": "Um Passo ao Lado",
       "url": "https://open.spotify.com/track/2ZTjggEs13dJkJcGGIA66g"
+    },
+    {
+      "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/0ma3xHuSUNkNIL4qbP5P0s"
+      },
+      "artists": [
+        {
+          "name": "Isaura",
+          "url": "https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "unfinished ballad",
+      "url": "https://open.spotify.com/track/2t9weDEeOjqpijj5jnF8CH"
     },
     {
       "album": {

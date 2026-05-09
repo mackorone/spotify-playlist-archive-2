@@ -7735,6 +7735,28 @@
     },
     {
       "album": {
+        "name": "I Still Hear Your Voice",
+        "url": "https://open.spotify.com/album/7K4Qfj3RU88KHufjZj6JyO"
+      },
+      "artists": [
+        {
+          "name": "Lynxie",
+          "url": "https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C"
+        },
+        {
+          "name": "johnny joined",
+          "url": "https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138805,
+      "name": "I Still Hear Your Voice",
+      "url": "https://open.spotify.com/track/7e1BhpbWuryOe0PAGpghQp"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/2TPCAEvTDfZzc1PHpxnxhq"
       },

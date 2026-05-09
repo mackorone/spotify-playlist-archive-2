@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Emmanuel Cortes \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Juli\u00e1n Mercado, Gerardo Mercado & Antonin Padilla \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -360,6 +360,32 @@
       "duration_ms": 178613,
       "name": "24/7 EN LA BELIKEADA",
       "url": "https://open.spotify.com/track/0HUMkpeJ2TbLbxx90wQZbD"
+    },
+    {
+      "album": {
+        "name": "24/siete",
+        "url": "https://open.spotify.com/album/2bBmW0IKf5DkJunEb2EzTC"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Gerardo Mercado",
+          "url": "https://open.spotify.com/artist/3uQSc2G13vlxsMDBb92llt"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193243,
+      "name": "24/siete",
+      "url": "https://open.spotify.com/track/3gJmHU5pw1Gi0sCsxXu1aw"
     },
     {
       "album": {
@@ -1540,7 +1566,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159883,
       "name": "Al Filo",
       "url": "https://open.spotify.com/track/57pSju6wOjeHZ16FS2hmbz"
@@ -3651,6 +3677,28 @@
     },
     {
       "album": {
+        "name": "Bien Enamorado",
+        "url": "https://open.spotify.com/album/1arjD7Qti4KMkkoQpgIj1l"
+      },
+      "artists": [
+        {
+          "name": "Luis Coronel",
+          "url": "https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146941,
+      "name": "Bien Enamorado",
+      "url": "https://open.spotify.com/track/2BxyDXEStxfzohIlrJ0KjE"
+    },
+    {
+      "album": {
         "name": "Bien Fiera",
         "url": "https://open.spotify.com/album/6iBx8IT3YViImP16CUGnrM"
       },
@@ -4710,6 +4758,24 @@
       "duration_ms": 142660,
       "name": "Camionetas Negras",
       "url": "https://open.spotify.com/track/2827Vq2DFFqrAcncTz1caE"
+    },
+    {
+      "album": {
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/0EY6KRRjEGbEM9wbYUwHMX"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/3tEG859hqpyY6vQ9XViB4F"
     },
     {
       "album": {
@@ -7794,7 +7860,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179625,
       "name": "Desbloqu\u00e9ame Del Wha",
       "url": "https://open.spotify.com/track/4GeUQzRRSgEqUyTXXcFkd7"
@@ -8566,7 +8632,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 168002,
       "name": "Dos Tragos",
       "url": "https://open.spotify.com/track/21ck2spLtlxVSAGWRqWwkX"
@@ -11416,6 +11482,28 @@
       "duration_ms": 155666,
       "name": "Enculado",
       "url": "https://open.spotify.com/track/0z0Q78xToOQuOEFitcDZN9"
+    },
+    {
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1DnEi9oGgsPRGpzNzlKn1d"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/0OTBMEBx7m0WssMZanksqd"
     },
     {
       "album": {
@@ -19460,7 +19548,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185156,
       "name": "Mi canci\u00f3n",
       "url": "https://open.spotify.com/track/2lcFAQqJgYoi1dI0rOES8h"
@@ -23586,7 +23674,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 246357,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf"
@@ -23839,6 +23927,28 @@
     },
     {
       "album": {
+        "name": "Pa' D\u00f3nde",
+        "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Pa' D\u00f3nde",
+      "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
+    },
+    {
+      "album": {
         "name": "Arriba la Compa\u00f1ia",
         "url": "https://open.spotify.com/album/3d70plHlmkOQV6gLG6e9nC"
       },
@@ -24028,6 +24138,24 @@
       "duration_ms": 152542,
       "name": "Palacios",
       "url": "https://open.spotify.com/track/6aC7WNLBCjASrgjos0YA34"
+    },
+    {
+      "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156256,
+      "name": "PANIKI",
+      "url": "https://open.spotify.com/track/0fF5mK8NIiMOehvmg0Xqq9"
     },
     {
       "album": {
@@ -31719,6 +31847,24 @@
     },
     {
       "album": {
+        "name": "Algo Para Siempre",
+        "url": "https://open.spotify.com/album/5rn67jsedwGrjoW0mUvBFW"
+      },
+      "artists": [
+        {
+          "name": "Destino",
+          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157751,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5WQ4wWyIergvHONH09i3tq"
+    },
+    {
+      "album": {
         "name": "RefleXi\u00f3n",
         "url": "https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS"
       },
@@ -31862,7 +32008,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 164730,
       "name": "Ultimo Cigarro",
       "url": "https://open.spotify.com/track/2288uM7VA7NKEgmy33T2Fa"
@@ -33700,7 +33846,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 142105,
       "name": "Ya No Truena el Cel",
       "url": "https://open.spotify.com/track/3e40RWJdQFHtPAnUgknCPE"

@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,702 songs - 3 day 15 hr 15 min
+1,703 songs - 3 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,8 @@
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-04-11 |
 | [Happier Now](https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Happier Now](https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr) | 2:37 | 2025-06-19 | 2025-08-08 |
 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 | 2026-02-19 | 2026-03-27 |
-| [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 |  |
+| [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 | 2026-05-09 |
+| [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 | 2026-05-08 |  |
 | [Happyland](https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Happyland](https://open.spotify.com/album/58grAOX8T0QafdrapcNPSu) | 3:39 | 2026-01-12 | 2026-02-13 |
 | [Har det värsta redan hänt](https://open.spotify.com/track/7ipKP6Ut4mpzj840rDNHKJ) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Har det värsta redan hänt](https://open.spotify.com/album/7H6pdOtvIT5EubccKtvptU) | 3:43 | 2025-09-04 | 2025-10-10 |
 | [HARD](https://open.spotify.com/track/3gqn3c9X4EIl0A3OLrbJ41) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HARD](https://open.spotify.com/album/3kkhYZGL2alAIfIvTlA2j4) | 2:19 | 2026-01-12 | 2026-02-27 |

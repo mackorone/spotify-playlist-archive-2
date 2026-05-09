@@ -1,12 +1,12 @@
 {
   "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
-  "num_followers": 2526,
+  "num_followers": 2525,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAB0m5fDmacNh2sz+IsshKYm",
+  "snapshot_id": "afvWAAAAAAARDvqaq2JYPuGR1X2b+NYL",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
-        "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "The BBC Radiophonic Workshop",
-          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
-      "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pot au Feu (BBC Version)",
         "url": "https://open.spotify.com/album/4vF9xTT7wHXaVdtdaKUmLH"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 39240,
       "name": "Doctor Who (Opening Theme)",
       "url": "https://open.spotify.com/track/19zwYzl0Z1wtRnff1SHiQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+        "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+      "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
     },
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3txNZrgbsRxpCONJJDrUsj"
+      },
+      "artists": [
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 80053,
+      "name": "Doctor Who (Closing Theme)",
+      "url": "https://open.spotify.com/track/2mvaiLfU1AaxD5BquwAM5f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Empire",
         "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
       },
@@ -267,6 +287,26 @@
       "duration_ms": 150090,
       "name": "Dreaming 2 (1972)",
       "url": "https://open.spotify.com/track/5eXQO8I3jgmzJ4gji53Nr6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
+        }
+      ],
+      "duration_ms": 111640,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/0aoAksB3m0uQxKWreBH0zx"
     },
     {
       "added_at": null,
@@ -295,46 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Brian Hodgson",
-          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
         }
       ],
-      "duration_ms": 114533,
-      "name": "Gothic Submarine",
-      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3txNZrgbsRxpCONJJDrUsj"
-      },
-      "artists": [
-        {
-          "name": "The BBC Radiophonic Workshop",
-          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
-        },
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 80053,
-      "name": "Doctor Who (Closing Theme)",
-      "url": "https://open.spotify.com/track/2mvaiLfU1AaxD5BquwAM5f"
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/4AIh8DCn0GFgEchVNBTO72"
     },
     {
       "added_at": null,
@@ -355,6 +367,30 @@
       "duration_ms": 220213,
       "name": "Hannett and Delia synth exchanges track 5",
       "url": "https://open.spotify.com/track/5FAaH3zo0xXLYiiApM08oB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
+        }
+      ],
+      "duration_ms": 114533,
+      "name": "Gothic Submarine",
+      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
     },
     {
       "added_at": null,
@@ -383,42 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
-        }
-      ],
-      "duration_ms": 111640,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/0aoAksB3m0uQxKWreBH0zx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 73293,
-      "name": "Time on Our Hands",
-      "url": "https://open.spotify.com/track/4AIh8DCn0GFgEchVNBTO72"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire",
         "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
       },
@@ -431,126 +431,6 @@
       "duration_ms": 225880,
       "name": "Nightwalking 2 (1976)",
       "url": "https://open.spotify.com/track/5slsN0zrQlzEVGQmw6Hevq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Electrosonic",
-        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
-      },
-      "artists": [
-        {
-          "name": "Brian Hodgson",
-          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
-        },
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Don Harper",
-          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
-        }
-      ],
-      "duration_ms": 126200,
-      "name": "The Wizard's Laboratory",
-      "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
-        }
-      ],
-      "duration_ms": 96112,
-      "name": "Planetarium",
-      "url": "https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Afterlife Anthology",
-        "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 150039,
-      "name": "Lure of the Space Goddess - Full Broadcast Version",
-      "url": "https://open.spotify.com/track/1wmf3EM0wug7WLdN1WrCZt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Empire",
-        "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 564706,
-      "name": "The Sea (1969)",
-      "url": "https://open.spotify.com/track/7elCIDkw8vFK1dJMwFMf1s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Electrosonic",
-        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
-      },
-      "artists": [
-        {
-          "name": "Brian Hodgson",
-          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
-        },
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Don Harper",
-          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
-        }
-      ],
-      "duration_ms": 67760,
-      "name": "Quest - Fast - Alternative Version",
-      "url": "https://open.spotify.com/track/49NeHychTjqOgr072AD4Xx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
-        }
-      ],
-      "duration_ms": 40160,
-      "name": "Delia's Dream",
-      "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
     },
     {
       "added_at": null,
@@ -579,8 +459,52 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
-        "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
+        }
+      ],
+      "duration_ms": 96112,
+      "name": "Planetarium",
+      "url": "https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "duration_ms": 67760,
+      "name": "Quest - Fast - Alternative Version",
+      "url": "https://open.spotify.com/track/49NeHychTjqOgr072AD4Xx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire",
+        "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
       },
       "artists": [
         {
@@ -588,9 +512,45 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 188677,
-      "name": "Liquid Energy (1972 Broadcast Version)",
-      "url": "https://open.spotify.com/track/0WasLM432WsNjmvlArKpfJ"
+      "duration_ms": 564706,
+      "name": "The Sea (1969)",
+      "url": "https://open.spotify.com/track/7elCIDkw8vFK1dJMwFMf1s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Afterlife Anthology",
+        "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 150039,
+      "name": "Lure of the Space Goddess - Full Broadcast Version",
+      "url": "https://open.spotify.com/track/1wmf3EM0wug7WLdN1WrCZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
+        }
+      ],
+      "duration_ms": 40160,
+      "name": "Delia's Dream",
+      "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
     },
     {
       "added_at": null,
@@ -619,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/3QpYKlZYpGf7QD9OM1zNlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
+        "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 188677,
+      "name": "Liquid Energy (1972 Broadcast Version)",
+      "url": "https://open.spotify.com/track/0WasLM432WsNjmvlArKpfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electronic",
         "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
@@ -643,18 +635,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
       },
       "artists": [
         {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
         }
       ],
-      "duration_ms": 31760,
-      "name": "Environmental Studies",
-      "url": "https://open.spotify.com/track/3QpYKlZYpGf7QD9OM1zNlx"
+      "duration_ms": 126200,
+      "name": "The Wizard's Laboratory",
+      "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Late Night Horror / Frontier",
+        "url": "https://open.spotify.com/album/6xckPw8TAGiqov7UgwLDWr"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Late Night Horror / Frontier",
+      "url": "https://open.spotify.com/track/3HgTFEwUqYvbEINLNCdnre"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 94378,
       "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
       "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
-        "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 108480,
-      "name": "Dance from 'Noah' (1972 Broadcast Version)",
-      "url": "https://open.spotify.com/track/2ggW5yim1n9O7Y1LzAsNwW"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Night Horror / Frontier",
-        "url": "https://open.spotify.com/album/6xckPw8TAGiqov7UgwLDWr"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Late Night Horror / Frontier",
-      "url": "https://open.spotify.com/track/3HgTFEwUqYvbEINLNCdnre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/1WMP6CdxtyXxsx0raIefTH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
+        "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 108480,
+      "name": "Dance from 'Noah' (1972 Broadcast Version)",
+      "url": "https://open.spotify.com/track/2ggW5yim1n9O7Y1LzAsNwW"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/3ohn4fxPOiWYzzflvtyQdr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Circle of Light (Original Electronic Soundtrack Recording)",
         "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 625911,
       "name": "Circle of Light, Pt. 2",
       "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 41293,
-      "name": "A New View of Politics",
-      "url": "https://open.spotify.com/track/3ohn4fxPOiWYzzflvtyQdr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,519 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,524 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 28 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
 | 29 | [Skanka](https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Jaybee \(UK\)](https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH) | [Skanka](https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU) | 3:10 |
 | 30 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
-| 31 | [Left 2 Right](https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Left 2 Right](https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6) | 3:22 |
-| 32 | [Cascade \- Mixed](https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Winter Mix Vol.2](https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66) | 1:16 |
+| 31 | [Cascade \- Mixed](https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Winter Mix Vol.2](https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66) | 1:16 |
+| 32 | [Left 2 Right](https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Left 2 Right](https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6) | 3:22 |
 | 33 | [Game Face](https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Game Face](https://open.spotify.com/album/3nEwNr3zL9a28WlXqpq8sW) | 2:53 |
 | 34 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
 | 35 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |

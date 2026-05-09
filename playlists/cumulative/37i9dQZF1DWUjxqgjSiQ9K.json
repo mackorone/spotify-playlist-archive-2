@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "ALABEN A YAHWEH",
+        "url": "https://open.spotify.com/album/0x3r6Tt67GqnMBwc0DG2vv"
+      },
+      "artists": [
+        {
+          "name": "World Worship",
+          "url": "https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540000,
+      "name": "ALABEN A YAHWEH",
+      "url": "https://open.spotify.com/track/3xM1ZboW9SQ6bE4mPRlycx"
+    },
+    {
+      "album": {
         "name": "Glorea (En Vivo)",
         "url": "https://open.spotify.com/album/37kwsMl4YTBm68wm2LCLjl"
       },
@@ -3588,7 +3606,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 345805,
       "name": "Cordero",
       "url": "https://open.spotify.com/track/1b0a4asSsnWFtCn9YAIKZu"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 434230,
       "name": "El Gozo",
       "url": "https://open.spotify.com/track/6xAMrn5o9dHIKVLybQBTXy"
@@ -8976,7 +8994,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 161796,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/2NQXapwUNA542kvLGX4vpi"
@@ -18089,6 +18107,24 @@
     },
     {
       "album": {
+        "name": "Vamos A Cantar",
+        "url": "https://open.spotify.com/album/0cYAFum2dQFV3sJp4imSKg"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284707,
+      "name": "Vamos A Cantar",
+      "url": "https://open.spotify.com/track/4uFpzCg9cdWpwXQC4g9CIq"
+    },
+    {
+      "album": {
         "name": "ALBA",
         "url": "https://open.spotify.com/album/5H99GIWYw1JWhEHKZKjfx4"
       },
@@ -18556,6 +18592,28 @@
       "duration_ms": 248736,
       "name": "Vivir\u00e9 (Salmo 118)",
       "url": "https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt"
+    },
+    {
+      "album": {
+        "name": "Vivo la Vida",
+        "url": "https://open.spotify.com/album/1WP896TlqAKzTKM2llhBgl"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        },
+        {
+          "name": "Dave Bola\u00f1o",
+          "url": "https://open.spotify.com/artist/6kfMprr3qI5Bg2JNSGU7l7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169396,
+      "name": "Vivo la Vida",
+      "url": "https://open.spotify.com/track/3ugW4PZsWeAjdiu92zZL0N"
     },
     {
       "album": {

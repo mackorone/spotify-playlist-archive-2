@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: Chris Brown
 
-1,619 songs - 3 day 14 hr 28 min
+1,620 songs - 3 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-20 | 2024-07-19 |
 | [Afford It \(From the Motion picture “One Of Them Days”\)](https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Diva Gurl](https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11) | [DivaGurl: A Story By Keke Palmer \- EP](https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth) | 2:34 | 2025-01-16 | 2025-03-21 |
 | [afterglow](https://open.spotify.com/track/2nM7MHQDub8jbRVmORzdoj) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [CODE SWITCH](https://open.spotify.com/album/7a4UjXZdPWfW5c16bj0LRl) | 2:46 | 2025-05-22 | 2025-09-19 |
+| [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 | 2026-05-08 |  |
 | [Again](https://open.spotify.com/track/47X8351PcUbASy7TTbIFYC) | [Darley](https://open.spotify.com/artist/5oozOQ8DH87yhpAWh0C3B4) | [Again](https://open.spotify.com/album/5HgaE7jRk9F9RopiiPP9zK) | 3:14 | 2022-06-16 | 2022-08-26 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-21 | 2023-10-14 |
 | [Ain't the Same](https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il) | [Ain't the Same](https://open.spotify.com/album/1zypId3rIQPZ5V3ncqeuLG) | 2:45 | 2025-10-30 | 2026-02-13 |
@@ -142,7 +143,7 @@
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-21 | 2022-08-05 |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-01 | 2022-09-16 |
 | [Beautiful Ruin](https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Souled Out: 10th Anniversary Edition](https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY) | 3:45 | 2024-09-12 | 2024-11-15 |
-| [Bed of Roses \(with WALE\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with WALE\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 | 2026-05-08 |  |
+| [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 | 2026-05-08 |  |
 | [Been So Long](https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Been So Long](https://open.spotify.com/album/6Qg0fXUJBLbzE2OBcTIXfd) | 3:16 | 2025-03-20 | 2025-03-28 |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-08 | 2022-06-24 |
 | [Before 4:30 \(She Said…\)](https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Before 4:30 \(She Said…\)](https://open.spotify.com/album/6ngd5N828DSzfX5tLMMngM) | 3:51 | 2022-06-08 | 2022-09-23 |

@@ -2126,10 +2126,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 190969,
       "name": "ghost",
       "url": "https://open.spotify.com/track/4Luf9kGwfb55yB3DTiHswV"
+    },
+    {
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/54iEvPK67qq4eCYe5rOMQz"
+      },
+      "artists": [
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190969,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/5z9iFM4KdRFesS88YWGt9l"
     },
     {
       "album": {

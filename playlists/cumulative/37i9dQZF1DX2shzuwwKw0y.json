@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Los Alegres del Barranco, Edgardo Nu\u00f1ez y Los Farmerz",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: EL DE LA TINTA, Sahir Montoya, Angel Cervantes ",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185501,
       "name": "Coronar",
       "url": "https://open.spotify.com/track/6dH6PkQPzKRncIbIr3lyBL"
@@ -10856,6 +10856,24 @@
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
+    },
+    {
+      "album": {
+        "name": "Obreg\u00f3n",
+        "url": "https://open.spotify.com/album/2BdFQAM2UVgcVLUAGE2604"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Obreg\u00f3n",
+      "url": "https://open.spotify.com/track/3Ksxqaq8JaoJxvdgoOGPcT"
     },
     {
       "album": {

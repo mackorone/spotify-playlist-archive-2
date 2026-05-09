@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 589294,
+  "num_followers": 589326,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+        "name": "Primos (with Hermanos Guti\u00e9rrez)",
+        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+      "duration_ms": 169880,
+      "name": "Primos (with Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Primos (with Hermanos Guti\u00e9rrez)",
-        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Primos (with Hermanos Guti\u00e9rrez)",
-      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Spotlight - Single Edit",
-      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Marci",
         "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 209873,
       "name": "Immaterial Girl",
       "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Spotlight - Single Edit",
+      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
         "name": "After Hours (Yu Su Remix)",
         "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 348094,
       "name": "After Hours - Yu Su Remix",
       "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 334893,
-      "name": "Musas en Mi",
-      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
-    },
-    {
-      "added_at": "2026-02-20 16:14:28",
-      "album": {
         "name": "Camas Separadas (ft. Disco Bah\u00eda)",
         "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2026-02-20 16:14:28",
       "album": {
-        "name": "To Unknownia",
-        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
         }
       ],
-      "duration_ms": 243872,
-      "name": "To Unknownia",
-      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+      "duration_ms": 334893,
+      "name": "Musas en Mi",
+      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
     },
     {
       "added_at": "2026-02-20 16:14:28",
@@ -1575,6 +1559,22 @@
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
+    },
+    {
+      "added_at": "2026-02-20 16:14:28",
+      "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
       "added_at": "2026-02-20 16:14:28",

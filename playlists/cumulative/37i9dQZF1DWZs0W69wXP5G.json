@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover:  Hazbin Hotel",
+  "description": "Everything Broadway-adjacent. Cover:  Josh Groban",
   "name": "Off Broadway",
   "tracks": [
     {
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207878,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/1aTjnWJwayQuxZwjaQ7i8N"
@@ -3938,6 +3938,24 @@
       "duration_ms": 60147,
       "name": "Spanish or Vanish",
       "url": "https://open.spotify.com/track/0ijwa9A6H3WFoEFzBNzrxo"
+    },
+    {
+      "album": {
+        "name": "CINEMATIC",
+        "url": "https://open.spotify.com/album/6ChlA5IzM9QgqhvlQRyaEd"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178616,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/2jhEkqJCX7QVfBVlpV4OUq"
     },
     {
       "album": {
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 246000,
       "name": "The Constant",
       "url": "https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD"
@@ -4740,6 +4758,28 @@
       "duration_ms": 347066,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6fZJ0zMOEydD83wdm72lu6"
+    },
+    {
+      "album": {
+        "name": "CINEMATIC",
+        "url": "https://open.spotify.com/album/6ChlA5IzM9QgqhvlQRyaEd"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249141,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/3HS619zPxdjC6DcWP5iCN2"
     },
     {
       "album": {

@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -13808,7 +13808,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146557,
       "name": "Dicke Anna",
       "url": "https://open.spotify.com/track/0OwEUBXk5Fr5b4dyKcGHq8"
@@ -14188,6 +14188,24 @@
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
+    },
+    {
+      "album": {
+        "name": "discipline",
+        "url": "https://open.spotify.com/album/7cKUJz5Zqhcl6WHrgiiIbm"
+      },
+      "artists": [
+        {
+          "name": "HELLBLADE",
+          "url": "https://open.spotify.com/artist/7bEPCmDmXU7GbO8iid7YvP"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85161,
+      "name": "discipline",
+      "url": "https://open.spotify.com/track/6Bn4zknR1mHMQYVUj8Bysn"
     },
     {
       "album": {
@@ -19408,7 +19426,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
@@ -28640,7 +28658,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
@@ -50947,6 +50965,24 @@
     },
     {
       "album": {
+        "name": "STEREO LOVE x DANZA KUDURO (Afro Soul)",
+        "url": "https://open.spotify.com/album/0ULmh02vaZzRoKLErtGn85"
+      },
+      "artists": [
+        {
+          "name": "NA-KD",
+          "url": "https://open.spotify.com/artist/7opxCKqKGihco4z75aHccu"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230945,
+      "name": "STEREO LOVE x DANZA KUDURO (Afro Soul)",
+      "url": "https://open.spotify.com/track/0JwxeQ9MJ6nY1htnuS7qLs"
+    },
+    {
+      "album": {
         "name": "Stern",
         "url": "https://open.spotify.com/album/7oC2veO4EcRfP7TrcAQYnF"
       },
@@ -56908,7 +56944,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
@@ -56930,6 +56966,24 @@
       "duration_ms": 195631,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/4qzbDpY0sqXz4Ad2bvwrpl"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195744,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/6Y5LQvR2wXKKaOANW7OUzW"
     },
     {
       "album": {

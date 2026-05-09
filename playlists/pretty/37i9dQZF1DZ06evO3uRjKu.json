@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75901,
+  "num_followers": 75908,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAaA+M5JZUMoMsfcaQCZyX3",
+  "snapshot_id": "afvWAAAAAADGSYATzvw/JKssWRrxcr9t",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve a Comenzar",
-        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Vuelve A Comenzar",
-      "url": "https://open.spotify.com/track/7MrnizaZmYy9OPY6aAW12l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
         "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 217333,
       "name": "Salvando Vidas - En Vivo",
       "url": "https://open.spotify.com/track/79g8U1J44n1QGHUDipMT34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Vuelve A Comenzar",
+      "url": "https://open.spotify.com/track/7MrnizaZmYy9OPY6aAW12l"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flaca",
-        "url": "https://open.spotify.com/album/7mVLJqjHL76zbPnk8a0DXd"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 227178,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/4nrnvLDI4Gi1vr7y9kGARa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Buenos Aires",
         "url": "https://open.spotify.com/album/4iPF9MbEkekyq8KOMDclzc"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/1fyPQRdEiDwkit84BB8I01"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/7r73K3Fjt5HIyIAqu16tAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hecatombe Disco",
         "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Siento Loco",
-        "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 243185,
-      "name": "Me Siento Loco",
-      "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq"
+        "name": "Me Siento Loco",
+        "url": "https://open.spotify.com/album/1sDQ7rlBAHZZAt8AJfNzzT"
       },
       "artists": [
         {
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 300053,
-      "name": "Hechicera Crayon",
-      "url": "https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw"
+      "duration_ms": 243185,
+      "name": "Me Siento Loco",
+      "url": "https://open.spotify.com/track/01TJE0vRdTfmFjcj2Z6Q4U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Carcaman",
+      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Nada Mas",
-      "url": "https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU"
+      "duration_ms": 300053,
+      "name": "Hechicera Crayon",
+      "url": "https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Vamos Linda",
-      "url": "https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu"
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU"
     },
     {
       "added_at": null,

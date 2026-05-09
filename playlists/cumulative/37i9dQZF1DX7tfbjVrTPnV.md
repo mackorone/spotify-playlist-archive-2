@@ -2,9 +2,9 @@
 
 ### [Americana Icons](https://open.spotify.com/playlist/37i9dQZF1DX7tfbjVrTPnV)
 
-> Enjoy new and classic releases from icons of folk and Americana\. Cover: Melissa Etheridge
+> Enjoy new and classic releases from icons of folk and Americana\. Cover: Amy Grant
 
-279 songs - 17 hr 52 min
+281 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Frankie Please](https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) | 2:43 | 2021-11-11 |  |
 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/3S4HRC12gDqUqPDtnvtScN) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/5pHY33NfVPp6no94BYgoWS) | 3:06 | 2021-11-11 | 2024-07-28 |
 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 | 2022-04-22 | 2024-04-19 |
-| [Gentle on My Mind](https://open.spotify.com/track/4cqj2eiCHxpyf80ePDrcgs) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Gentle On My Mind](https://open.spotify.com/album/7f4JdFYRCcPLVwBwxleQMW) | 3:39 | 2021-11-11 |  |
+| [Gentle on My Mind](https://open.spotify.com/track/4cqj2eiCHxpyf80ePDrcgs) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Gentle On My Mind](https://open.spotify.com/album/7f4JdFYRCcPLVwBwxleQMW) | 3:39 | 2021-11-11 | 2026-05-09 |
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-04-22 | 2024-04-19 |
 | [Girl She Used to Be](https://open.spotify.com/track/4AWa8GvbhIEhNoloXwamf8) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Tightrope](https://open.spotify.com/album/5ZGlQgonNIgNIZgB13aXvZ) | 2:50 | 2021-11-11 | 2024-09-03 |
 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 | 2021-11-11 |  |
@@ -115,7 +115,7 @@
 | [Hold On](https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT) | [Martin Sexton](https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE) | [Hold On](https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb) | 3:41 | 2021-11-11 |  |
 | [Hold On](https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG) | [Martin Sexton](https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE) | [Hold On](https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s) | 3:41 | 2023-02-24 | 2024-04-15 |
 | [House of the White Rose Boquet](https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Tell the Devil I'm Gettin' there as Fast as I Can](https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU) | 3:23 | 2022-04-22 | 2024-04-19 |
-| [House of the White Rose Bouquet](https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [House of the White Rose Bouquet](https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb) | 3:23 | 2021-11-11 |  |
+| [House of the White Rose Bouquet](https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [House of the White Rose Bouquet](https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb) | 3:23 | 2021-11-11 | 2026-05-09 |
 | [I Ain't Lookin' For No Trouble](https://open.spotify.com/track/1GTEEvwTjh7xah3BgulsBA) | [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [A Little Piece](https://open.spotify.com/album/5CntyXoAEn6ubp3LXaL95I) | 4:02 | 2021-11-11 | 2022-07-29 |
 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 | 2021-11-11 |  |
 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 | 2021-11-11 |  |
@@ -193,6 +193,7 @@
 | [Paint This Town](https://open.spotify.com/track/5ttsg40x7Fjb3Yp0rPLXIc) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex) | 3:57 | 2022-04-22 | 2024-01-21 |
 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 | 2021-11-11 |  |
 | [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 | 2021-11-11 |  |
+| [Please Don't Make Me Beg](https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 4:35 | 2026-05-08 |  |
 | [Pure and Simple](https://open.spotify.com/track/5yFFBYWKFoVCKEma8Ox62B) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Pure and Simple](https://open.spotify.com/album/6oxHS4tiVLMi5uJy5Lv6Tm) | 2:43 | 2021-11-11 | 2025-09-26 |
 | [Pure and Simple](https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Pure & Simple](https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M) | 2:43 | 2022-04-22 | 2024-04-14 |
 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 | 2021-11-11 |  |
@@ -283,6 +284,7 @@
 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 | 2021-11-11 |  |
 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 | 2022-04-22 | 2024-04-19 |
 | [You're Everything](https://open.spotify.com/track/79kWhk3zteh2VBEkrfEQWC) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/0Ac7RpnKTizp6t1iAOOpuH) | 6:05 | 2021-11-11 | 2022-07-29 |
+| [You're My Favorite Song](https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You're My Favorite Song / Wild At Heart](https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m) | 3:21 | 2026-05-08 |  |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2021-11-11 |  |
 | [You're The Best Lover That I Ever Had](https://open.spotify.com/track/0sZCKErsJecflazB5nKDB1) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Terraplane](https://open.spotify.com/album/6sY8vPPVhcRnwCL28wFG5h) | 4:07 | 2021-11-11 | 2026-03-28 |
 | [You’re the Best Lover That I Ever Had](https://open.spotify.com/track/1fQbv8iEZCAkBnkyl5iT1D) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Terraplane](https://open.spotify.com/album/59Ar08W7GruMfnnznAF9Sq) | 4:07 | 2023-08-11 | 2024-04-19 |

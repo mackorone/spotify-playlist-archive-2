@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 597461,
       "name": "6.2",
       "url": "https://open.spotify.com/track/1sDvdrSZ1AbLwPjIV4ddtj"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 384426,
       "name": "Explore inner space",
       "url": "https://open.spotify.com/track/3sZq6i2WAdQFiZRXuvjtjy"
@@ -544,6 +544,28 @@
       "duration_ms": 142329,
       "name": "Gradestay",
       "url": "https://open.spotify.com/track/5efJi600QWwEW5v6kaXwpI"
+    },
+    {
+      "album": {
+        "name": "VS.",
+        "url": "https://open.spotify.com/album/1kpRXxbunFUJU5GZkRqYEG"
+      },
+      "artists": [
+        {
+          "name": "Devin Daniels",
+          "url": "https://open.spotify.com/artist/4HPiRHS9kbeZNlSFPC7gWu"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408106,
+      "name": "Hangzhou Flower Garden",
+      "url": "https://open.spotify.com/track/0pKlK8Xm9bxFd5jP5Z9Urm"
     },
     {
       "album": {
@@ -694,6 +716,24 @@
       "duration_ms": 241786,
       "name": "Looking Forward to Something, Dude",
       "url": "https://open.spotify.com/track/5Zy5Ibs37sbDaVvxv6w2uA"
+    },
+    {
+      "album": {
+        "name": "Next Time Could Be Your Last Time",
+        "url": "https://open.spotify.com/album/4zFcfpJNmwanLWygfE7ZgR"
+      },
+      "artists": [
+        {
+          "name": "Forgiveness",
+          "url": "https://open.spotify.com/artist/2cfSM4C3th9JvT6CrdQ8yT"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Lost Fawn",
+      "url": "https://open.spotify.com/track/0UCOuHoTh2XYLRdSuUn9v5"
     },
     {
       "album": {
@@ -929,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Only Love From Now On",
+        "url": "https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261277,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/2dynOCU9R0Qbl9moIr85FX"
+    },
+    {
+      "album": {
         "name": "Mode for Titan",
         "url": "https://open.spotify.com/album/0z3CNJzO983wSHplpAzhqU"
       },
@@ -1042,7 +1100,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL"

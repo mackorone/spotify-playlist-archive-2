@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 435926,
+  "num_followers": 435958,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAABhf7Ni8ZNkeAD1o+Wzqkcx",
+  "snapshot_id": "afvWAAAAAABEt+RPZqtQqsxI27QJ6A5a",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 167240,
-      "name": "Come Out Swinging",
-      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 228240,
       "name": "Defy You",
       "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 167240,
+      "name": "Come Out Swinging",
+      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 167893,
       "name": "Cool To Hate",
       "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 265026,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/0GlTcDHNVSbx1Oy8kQqRMB"
+      "duration_ms": 196373,
+      "name": "Kick Him When He's Down",
+      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Kick Him When He's Down",
-      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
+      "duration_ms": 265026,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/0GlTcDHNVSbx1Oy8kQqRMB"
     }
   ],
   "unique_name": "This Is The Offspring",

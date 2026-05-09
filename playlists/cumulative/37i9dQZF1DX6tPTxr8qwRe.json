@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - Whee In on the cover",
+  "description": "sweet. sharp. unbothered - Bea Miller on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -4431,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "depressed on the internet",
+        "url": "https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "depressed on the internet",
+      "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
+    },
+    {
+      "album": {
         "name": "Devil In A Dress",
         "url": "https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk"
       },
@@ -4702,7 +4720,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149538,
       "name": "DIRTY LITTLE FIEND",
       "url": "https://open.spotify.com/track/4RNmcHb9kK8PmxrxW29WKp"
@@ -5308,6 +5326,42 @@
       "duration_ms": 137500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
+    },
+    {
+      "album": {
+        "name": "EAT U ALIVE",
+        "url": "https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171727,
+      "name": "EAT U ALIVE",
+      "url": "https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/5wfBR3x36Lva6PyTaVnwCw"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176143,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/2GrW3HhogphOsmsRZ18ndR"
     },
     {
       "album": {
@@ -5932,7 +5986,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 171093,
       "name": "Fawnheart",
       "url": "https://open.spotify.com/track/7bRwZhLnHe4i7X5MlIyBfV"
@@ -9978,7 +10032,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 152039,
       "name": "klepto (with Lexie Liu)",
       "url": "https://open.spotify.com/track/5rElubeagDSx1iaiMqq1jf"
@@ -10804,7 +10858,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136050,
       "name": "Love Fast Cry Young",
       "url": "https://open.spotify.com/track/3jaKAdyj6conXy9NwmRgJj"
@@ -11922,6 +11976,24 @@
       "duration_ms": 167041,
       "name": "MOST WANTED MAN",
       "url": "https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2GcvOIiDvnAyK1gLEgMQVu"
+      },
+      "artists": [
+        {
+          "name": "DYLN",
+          "url": "https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99600,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1GetI7Wey71J1LXKONATcO"
     },
     {
       "album": {
@@ -13196,7 +13268,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 98823,
       "name": "Pearls In The Trap",
       "url": "https://open.spotify.com/track/5YaHJYkPgbpOuHGGM7uFVp"
@@ -13496,6 +13568,24 @@
       "duration_ms": 124000,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
+    },
+    {
+      "album": {
+        "name": "Emptiness Is Godly",
+        "url": "https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "Ponyboy",
+      "url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv"
     },
     {
       "album": {
@@ -14160,7 +14250,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 145429,
       "name": "RAPPERS & ROCKSTARS",
       "url": "https://open.spotify.com/track/7Lk3zksE4xfEHXglZir4lt"
@@ -15135,6 +15225,24 @@
     },
     {
       "album": {
+        "name": "Set Me on Fire",
+        "url": "https://open.spotify.com/album/4FXiLqPjw7UbrMnbwfd0qm"
+      },
+      "artists": [
+        {
+          "name": "MOTHERMARY",
+          "url": "https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Set Me on Fire",
+      "url": "https://open.spotify.com/track/77AQnl9zkhm2JJHjAWA5gW"
+    },
+    {
+      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
       },
@@ -15983,6 +16091,24 @@
     },
     {
       "album": {
+        "name": "How To Kill A Fairytale",
+        "url": "https://open.spotify.com/album/3RvctfoHEislXW2oO62f2g"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6bCPfJD185BvbWRTBoZC4p"
+    },
+    {
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/6dfu73S0vDUoTOF7Dh4ZXS"
       },
@@ -16438,7 +16564,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 235756,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6"
@@ -18454,7 +18580,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179493,
       "name": "Ur Girlfriend\u2019s a Lawyer",
       "url": "https://open.spotify.com/track/0lD4Mt5cjFM6ul4NxxgFau"
@@ -19204,6 +19330,24 @@
       "duration_ms": 146642,
       "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
+    },
+    {
+      "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
     },
     {
       "album": {

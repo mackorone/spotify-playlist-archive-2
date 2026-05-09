@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "CHOOM",
+        "url": "https://open.spotify.com/album/1tyixf7aOJCaV4RfGJrDMq"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204138,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/4EH8PeZlzPMHZTJ0JrHhJJ"
+    },
+    {
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/6NASe3UYSlKk8R15VM0Zoj"
       },

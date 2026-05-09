@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Frenna, Zo\u00eb Livay, Froukje, Lijpe, Calvin Harris, Lykke Li en meer..",
-  "num_followers": 294474,
+  "num_followers": 294891,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-05-07 22:02:15",
       "album": {
+        "name": "Rock Music",
+        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 115106,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
+    },
+    {
+      "added_at": "2026-05-07 22:02:15",
+      "album": {
         "name": "Petje Scheef",
         "url": "https://open.spotify.com/album/37fX327Aj5xrAlNH2o2AVs"
       },
@@ -510,10 +526,6 @@
         {
           "name": "Gerard Joling",
           "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
-        },
-        {
-          "name": "John Dirne",
-          "url": "https://open.spotify.com/artist/0OVGWNTg2sqbHYSbBzSWgY"
         }
       ],
       "duration_ms": 207830,
@@ -532,8 +544,8 @@
           "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 161109,
+      "name": "Wervelwind",
       "url": "https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU"
     },
     {
@@ -600,8 +612,8 @@
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
       "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
@@ -795,6 +807,22 @@
     {
       "added_at": "2026-05-07 22:02:15",
       "album": {
+        "name": "ORIGAMI!",
+        "url": "https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "ORIGAMI!",
+      "url": "https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7"
+    },
+    {
+      "added_at": "2026-05-07 22:02:15",
+      "album": {
         "name": "Mon B\u00e9b\u00e9 (with King Promise)",
         "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
       },
@@ -860,7 +888,7 @@
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 146933,
+      "duration_ms": 152533,
       "name": "GEEKIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
     },
@@ -1176,8 +1204,8 @@
           "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 234292,
+      "name": "Lovesick",
       "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
     },
     {
@@ -1235,6 +1263,22 @@
       "duration_ms": 174068,
       "name": "War Over Land",
       "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
+    },
+    {
+      "added_at": "2026-05-07 22:02:15",
+      "album": {
+        "name": "WE UP",
+        "url": "https://open.spotify.com/album/6tCZKnGMXozfg2RisJazPL"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "duration_ms": 99555,
+      "name": "WE UP",
+      "url": "https://open.spotify.com/track/06tW06BnFPojTVL1lQpDKd"
     },
     {
       "added_at": "2026-05-07 22:02:15",
@@ -1455,6 +1499,26 @@
       "duration_ms": 262440,
       "name": "Ticket First",
       "url": "https://open.spotify.com/track/6wiyXfxELLfeXH8EVOWeLb"
+    },
+    {
+      "added_at": "2026-05-07 22:02:15",
+      "album": {
+        "name": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Aftertaste - from Original Motion Picture Soundtrack K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
       "added_at": "2026-05-07 22:02:15",

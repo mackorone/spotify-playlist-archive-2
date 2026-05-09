@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Boombox Cartel en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi"
       },
@@ -580,6 +598,24 @@
       "duration_ms": 147000,
       "name": "Ayanami",
       "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+    },
+    {
+      "album": {
+        "name": "LAGOM",
+        "url": "https://open.spotify.com/album/6gccq6C2mtlxs0bh4EUUbY"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "a\u00fan as\u00ed",
+      "url": "https://open.spotify.com/track/7ku5G4swpgZyaGKpxHxZJ6"
     },
     {
       "album": {
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207637,
       "name": "Cartagena - Sylvan Esso Edit",
       "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
@@ -1434,7 +1470,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
@@ -1618,6 +1654,28 @@
       "duration_ms": 212088,
       "name": "Como Tony",
       "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
+    },
+    {
+      "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/3jZodTURbQij6T30BcAMSh"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        },
+        {
+          "name": "Zaire Morales",
+          "url": "https://open.spotify.com/artist/2ztCNqsPDaA8oEq0zdtbSh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/3um0JC1o7TTORJFTBd8Pxz"
     },
     {
       "album": {
@@ -1848,10 +1906,32 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 175161,
       "name": "Corazon de Melon",
       "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+    },
+    {
+      "album": {
+        "name": "coraz\u00f3n negro",
+        "url": "https://open.spotify.com/album/6Ishs6DC7Msxjvq4Tbzkxh"
+      },
+      "artists": [
+        {
+          "name": "Mark Cast",
+          "url": "https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1"
+        },
+        {
+          "name": "We Don't Know U",
+          "url": "https://open.spotify.com/artist/1dGgHSB6ORkimKKvzZYoT3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "coraz\u00f3n negro",
+      "url": "https://open.spotify.com/track/24wmCaxb62soCdelRPXKYM"
     },
     {
       "album": {
@@ -3506,7 +3586,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 114000,
       "name": "G\u00f3zalo (with Deorro)",
       "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
@@ -4386,7 +4466,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 121845,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
@@ -4584,6 +4664,28 @@
       "duration_ms": 182584,
       "name": "LA PERLA (V. ELECTRO-CORRIDO)",
       "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+    },
+    {
+      "album": {
+        "name": "S\u00edndrome Estocolmo",
+        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165571,
+      "name": "La Plebada (feat. Deorro)",
+      "url": "https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS"
     },
     {
       "album": {
@@ -8307,6 +8409,28 @@
     },
     {
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "SONI23BALL",
+      "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/56XAoIyyXf4gbRyBO7uEur"
       },
@@ -9204,7 +9328,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"

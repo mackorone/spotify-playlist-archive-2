@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,270 likes - 157 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,268 likes - 157 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 107 | [En Anden Planet](https://open.spotify.com/track/4aCHy34GzQKexIRsZS695f) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [En Anden Planet](https://open.spotify.com/album/5ryILNPx3K0Op6YWVZNSrd) | 3:05 |
 | 108 | [Alle Pigerne Herinde](https://open.spotify.com/track/5RtYUyVHXiAchhXT8i99YE) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Alle Pigerne Herinde](https://open.spotify.com/album/0XXFSpRpYNzk0GBWvpDZXl) | 2:17 |
 | 109 | [Vågn Op \(feat\. SELMA MILT\)](https://open.spotify.com/track/5YKRlWWfI9bIj2mulsfFdG) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac), [SELMA MILT](https://open.spotify.com/artist/0FoWZNznH566l2BJHGXwE5) | [Vågn Op \(feat\. SELMA MILT\)](https://open.spotify.com/album/2vB1Moo3roCiVHIsuu3yId) | 2:51 |
-| 110 | [Sådan Det Er](https://open.spotify.com/track/1DJntdAEQs7YEh92ONmq7P) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Sådan Det Er](https://open.spotify.com/album/5VwJhtEOETl2PNTTFHr78N) | 2:26 |
+| 110 | [Sådan Det Er](https://open.spotify.com/track/1DJntdAEQs7YEh92ONmq7P) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Sådan Det Er](https://open.spotify.com/album/5VwJhtEOETl2PNTTFHr78N) | 2:27 |
 | 111 | [Daisy](https://open.spotify.com/track/6hGF2oWMqqYRLcdbGKqyet) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [Daisy](https://open.spotify.com/album/4wDD429xJaFrrytQyYD9RL) | 3:24 |
 | 112 | [Roaring Heart](https://open.spotify.com/track/0HrEAbXFCH0pBUtVlRvG9f) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Roaring Heart](https://open.spotify.com/album/6AZRR8WCneRZBJtv3uSIuX) | 3:03 |
 | 113 | [Deeper Love](https://open.spotify.com/track/3pWkrUzfdUIY94072pVTts) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Deeper Love](https://open.spotify.com/album/1GuFpHlMWa9OmSdKPYat5Y) | 3:20 |

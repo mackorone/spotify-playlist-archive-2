@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/57eSKJkvIywj2qc90yBEFQ"
+      },
+      "artists": [
+        {
+          "name": "Marble Sky",
+          "url": "https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168254,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/3sKTHvgQztu24ZMymoPqBI"
+    },
+    {
+      "album": {
         "name": "Calm Embrace",
         "url": "https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo"
       },
@@ -1604,6 +1622,24 @@
       "duration_ms": 176540,
       "name": "Calm Embrace",
       "url": "https://open.spotify.com/track/5rMCyc5FUpkpAx2MIB9Bja"
+    },
+    {
+      "album": {
+        "name": "Calm Horizon",
+        "url": "https://open.spotify.com/album/3N0UIudT2UIrnQE6jXmugt"
+      },
+      "artists": [
+        {
+          "name": "Somnifera",
+          "url": "https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142507,
+      "name": "Calm Horizon",
+      "url": "https://open.spotify.com/track/62caUSrD2QMvEhx2rI2MUr"
     },
     {
       "album": {
@@ -2979,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Dream Anticipation",
+        "url": "https://open.spotify.com/album/4fIDT3yvHGfUVRDSolUitW"
+      },
+      "artists": [
+        {
+          "name": "Dawnveil",
+          "url": "https://open.spotify.com/artist/6CYkhlH8BegFF1PSBGT4fm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151276,
+      "name": "Dream Anticipation",
+      "url": "https://open.spotify.com/track/2lHwb2kjA8lVJEVjgoa3LH"
+    },
+    {
+      "album": {
         "name": "Dream Vision",
         "url": "https://open.spotify.com/album/3siMOt2YviDaqAubEpPixV"
       },
@@ -3530,7 +3584,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184000,
       "name": "Emberflow",
       "url": "https://open.spotify.com/track/7enTQca1OOBLgMjTz2r8Ej"
@@ -4006,6 +4060,24 @@
       "duration_ms": 147000,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/1hGKYDfFHkQOiywwzTEAHn"
+    },
+    {
+      "album": {
+        "name": "Evidence of Light",
+        "url": "https://open.spotify.com/album/0OaGhlQnhH63cwtnNC4BOL"
+      },
+      "artists": [
+        {
+          "name": "Tristan Wilde",
+          "url": "https://open.spotify.com/artist/6xIYhnbWLOfDnbBlbQGX1Z"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160819,
+      "name": "Evidence of Light",
+      "url": "https://open.spotify.com/track/7MRZ9beGeKCURYJPryjvNd"
     },
     {
       "album": {
@@ -5550,7 +5622,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 178750,
       "name": "Hyperion",
       "url": "https://open.spotify.com/track/3dxkRoigXJ0Fs9gd43x2Zc"
@@ -5604,7 +5676,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 157103,
       "name": "I No Longer",
       "url": "https://open.spotify.com/track/0rmzAXnphIcK81GsZizDIX"
@@ -6130,6 +6202,24 @@
       "duration_ms": 175818,
       "name": "Into the mist",
       "url": "https://open.spotify.com/track/6FNB2HTHmWL04ZQryx1dLL"
+    },
+    {
+      "album": {
+        "name": "Introspective",
+        "url": "https://open.spotify.com/album/2ztsFLfco6hLSskRWM92wo"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Introspective",
+      "url": "https://open.spotify.com/track/44ZDkrGJzbu7VcbNq3qzPd"
     },
     {
       "album": {
@@ -6900,7 +6990,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160330,
       "name": "Lucens",
       "url": "https://open.spotify.com/track/4edGuyRO2A1u4fRekJm6NZ"
@@ -6954,7 +7044,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159677,
       "name": "Lugnet",
       "url": "https://open.spotify.com/track/56B7EAyH2PIRO7sIPBWgdd"
@@ -7264,6 +7354,24 @@
       "duration_ms": 185706,
       "name": "Meet Me At Sundown",
       "url": "https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9"
+    },
+    {
+      "album": {
+        "name": "Mellow",
+        "url": "https://open.spotify.com/album/04XaMNX4xsrae0P2s2s0Lh"
+      },
+      "artists": [
+        {
+          "name": "The Inner Room",
+          "url": "https://open.spotify.com/artist/6WmBCblpdv77KDcPD0e8KP"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1Hr9BpiwzenH9ud7CCRMWc"
     },
     {
       "album": {
@@ -8128,6 +8236,24 @@
       "duration_ms": 129836,
       "name": "Northern Sirenes",
       "url": "https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011"
+    },
+    {
+      "album": {
+        "name": "Northern Treasure",
+        "url": "https://open.spotify.com/album/49CVmkuUfg4ZGN88sYXxWB"
+      },
+      "artists": [
+        {
+          "name": "Lush Lotus",
+          "url": "https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Northern Treasure",
+      "url": "https://open.spotify.com/track/6hdCo4ZFJ6RC76pNttY4ah"
     },
     {
       "album": {
@@ -9348,7 +9474,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166601,
       "name": "Relativity",
       "url": "https://open.spotify.com/track/2xKZonkmVH7RtBpRFQNl9v"
@@ -10662,7 +10788,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150857,
       "name": "Snowlight Dream",
       "url": "https://open.spotify.com/track/0LBtZVrDF6MbRr0tMySgLW"

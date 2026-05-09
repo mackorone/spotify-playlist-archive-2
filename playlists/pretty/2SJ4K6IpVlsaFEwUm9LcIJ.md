@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,323 likes - 17 songs - 1 hr 2 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,320 likes - 19 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [Born Into Giving It Up,](https://open.spotify.com/track/4HN4AxTzZNlUQlTwyVZp3c) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:00 |
 | 16 | [Hoping Wishers Never Lose,](https://open.spotify.com/track/5l7ohQ54kKEOWP8l4wDL1V) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 2:56 |
 | 17 | [\(Loaded @ the Wrong Door,](https://open.spotify.com/track/0xhY3TJLJTTJX9zoaV88rh) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Impasse \(Deluxe Reissue\)](https://open.spotify.com/album/344Tohm7fqeILL6rmSu36K) | 3:30 |
+| 18 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
+| 19 | [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 |
 
-Snapshot ID: `AAAOTrN1xv/YSQ/PwnYiMJXx43iZguJ4`
+Snapshot ID: `AAAOUUZDKpAYQ7aHDslpuzeAE0Q/+/RW`

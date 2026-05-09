@@ -110,6 +110,28 @@
     {
       "album": {
         "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Douglas S\u00e3",
+          "url": "https://open.spotify.com/artist/3dpBMPqv6q7CtmfpNaO4AH"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Agora Que Eu Quero Ver",
+      "url": "https://open.spotify.com/track/7KlUUKDSmDaydfFFq3cQ8w"
+    },
+    {
+      "album": {
+        "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9"
       },
       "artists": [
@@ -660,7 +682,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 189240,
       "name": "Calma Preta",
       "url": "https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos"

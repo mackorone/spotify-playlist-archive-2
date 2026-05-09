@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: SIENNA SPIRO",
+  "description": "Featuring that new vintage. Cover: Stephen Sanchez",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -3869,6 +3869,28 @@
     },
     {
       "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196012,
+      "name": "HOME TO MOTHER",
+      "url": "https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut"
+    },
+    {
+      "album": {
         "name": "Homebody",
         "url": "https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7"
       },
@@ -5604,7 +5626,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 242287,
       "name": "LOVE, LOVE, LOVE",
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"

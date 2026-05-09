@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 154000,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/0WlUpjW0LMvVPQs0rOqz5d"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 189750,
       "name": "Anfractuous View",
       "url": "https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 125171,
       "name": "antier 2",
       "url": "https://open.spotify.com/track/7kIkHAxkhaffbA85wU8A7e"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 139489,
       "name": "Before and After",
       "url": "https://open.spotify.com/track/1qdF4ws4FoTuQ9ojY4vQOg"
@@ -510,6 +510,24 @@
       "duration_ms": 146944,
       "name": "Between Words",
       "url": "https://open.spotify.com/track/5MB63o3BqXmPAPtzmhEb4o"
+    },
+    {
+      "album": {
+        "name": "Beyond the Horizon",
+        "url": "https://open.spotify.com/album/2sbVJ2PKVZ7xZlzs0jmkhS"
+      },
+      "artists": [
+        {
+          "name": "Asger Rykker",
+          "url": "https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137850,
+      "name": "Beyond the Horizon",
+      "url": "https://open.spotify.com/track/6ojIStkLsOtuMVNNPeMQKX"
     },
     {
       "album": {
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 139515,
       "name": "Dreamt, far hope...",
       "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150000,
       "name": "I Don't Belong Here",
       "url": "https://open.spotify.com/track/7ybM9pHxEFFnqUo9WPpgV1"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 203323,
       "name": "Lumi\u00e8re du Matin",
       "url": "https://open.spotify.com/track/0QVowuvdlITX199RTJnxeR"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 143696,
       "name": "No More Goodbyes",
       "url": "https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 162040,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/3c6YU0kPmybqj9aajX86t8"
@@ -3600,6 +3618,24 @@
       "duration_ms": 154511,
       "name": "Sad Moments",
       "url": "https://open.spotify.com/track/4ZgngkORCnHjiXHmZbIFJT"
+    },
+    {
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/52H4dLx4r4FowOjCJ83v3h"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139198,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/44BFfYMUdKogtMSJJZAhvk"
     },
     {
       "album": {
@@ -4580,7 +4616,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198297,
       "name": "The tree that I don't forget",
       "url": "https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv"
@@ -4782,6 +4818,24 @@
       "duration_ms": 154470,
       "name": "Under the Canopy",
       "url": "https://open.spotify.com/track/2oMTtn5mFtvnTM6aaWNrem"
+    },
+    {
+      "album": {
+        "name": "Under The Night Sky",
+        "url": "https://open.spotify.com/album/1bDOQImJnzX3tcqxhIWerw"
+      },
+      "artists": [
+        {
+          "name": "Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Under The Night Sky",
+      "url": "https://open.spotify.com/track/4eZOXGuY54sc4gNfREAUir"
     },
     {
       "album": {

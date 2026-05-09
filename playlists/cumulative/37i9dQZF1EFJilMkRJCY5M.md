@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-185 songs - 9 hr 34 min
+186 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [never been in love](https://open.spotify.com/track/3GKFo6nRa2xnPXlZlKWPQo) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/42CS9PFE6PmCjPVuyHA0wK) | 3:06 | 2023-03-04 | 2025-04-17 |
 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 | 2022-05-29 |  |
 | [New Town](https://open.spotify.com/track/02979mpZkixwGIzdFAut8O) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5yKnPgv8pkLzS2jB0gLsiz) | 3:12 | 2025-11-27 | 2026-02-28 |
-| [New Town](https://open.spotify.com/track/1WOJJxBpfMHcAUemyGiDq9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/3SFUQxfWiq5aFqpZwPBUBq) | 3:12 | 2026-02-27 |  |
+| [New Town](https://open.spotify.com/track/0PT1am3Y7qYd4DD8V7HCMJ) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/3x2nunBCMOZBsTN8AxkTZQ) | 3:12 | 2026-05-08 |  |
+| [New Town](https://open.spotify.com/track/1WOJJxBpfMHcAUemyGiDq9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/3SFUQxfWiq5aFqpZwPBUBq) | 3:12 | 2026-02-27 | 2026-05-09 |
 | [New Town](https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0) | 3:12 | 2022-05-29 | 2025-11-28 |
 | [Nobody](https://open.spotify.com/track/5s554C9LZqIWLmC1zqUaJg) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Second Wind](https://open.spotify.com/album/6rjNkK9EEOIHUoqGeaxEhY) | 2:46 | 2025-11-12 |  |
 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 | 2022-05-29 |  |

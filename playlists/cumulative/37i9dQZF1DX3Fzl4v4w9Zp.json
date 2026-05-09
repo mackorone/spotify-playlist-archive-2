@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Ringo Starr",
+  "description": "Where roots meet what\u2019s next. Cover: Coleman Jennings",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
@@ -3115,6 +3115,36 @@
     },
     {
       "album": {
+        "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
+        "url": "https://open.spotify.com/album/7lfVMgxYRfFYOih7bPQcbp"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        },
+        {
+          "name": "Explore! Pop Choir",
+          "url": "https://open.spotify.com/artist/3NJxKJgqbahvTuQhvMeD2v"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
+      "url": "https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg"
+    },
+    {
+      "album": {
         "name": "Manticore",
         "url": "https://open.spotify.com/album/4Cx0ld7IBAM7lqk1FOSv4x"
       },
@@ -4904,6 +4934,24 @@
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
+    },
+    {
+      "album": {
+        "name": "Evil Creature",
+        "url": "https://open.spotify.com/album/372UHmOQLvWhXZSeiid9CV"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218474,
+      "name": "Evil Creature",
+      "url": "https://open.spotify.com/track/3MTaojeobSxxZrVOMiQf0I"
     },
     {
       "album": {
@@ -7973,6 +8021,24 @@
     },
     {
       "album": {
+        "name": "Lead You Home",
+        "url": "https://open.spotify.com/album/0WBG43WAUlEMISeGi993bQ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160065,
+      "name": "I Will Lead You Home",
+      "url": "https://open.spotify.com/track/61nwg1Te3RAPKPmxvpwVbW"
+    },
+    {
+      "album": {
         "name": "I Will Not Go Down (feat. Billy Strings)",
         "url": "https://open.spotify.com/album/7HPOLhuFelaq5SseZYhnQJ"
       },
@@ -8118,7 +8184,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184164,
       "name": "If I Was a Dove",
       "url": "https://open.spotify.com/track/61hGHP1BTnKdz84u0pzFfy"
@@ -10320,7 +10386,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 217093,
       "name": "Mint Tea",
       "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
@@ -17236,7 +17302,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 260995,
       "name": "We Almost Made It",
       "url": "https://open.spotify.com/track/0tRDMVjiYuq0CbPDHVNVKz"
@@ -17316,6 +17382,24 @@
       "duration_ms": 222721,
       "name": "We're Onto Something (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "album": {
+        "name": "Weakened",
+        "url": "https://open.spotify.com/album/0dPcISAwpw4XcEunbaPxwK"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337266,
+      "name": "Weakened",
+      "url": "https://open.spotify.com/track/5lezbuSpR8TpBS8uV5kCmS"
     },
     {
       "album": {
@@ -18536,7 +18620,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 204914,
       "name": "You Think You Know Someone",
       "url": "https://open.spotify.com/track/5ZMIxivwr5TOuzs2KgUvhO"

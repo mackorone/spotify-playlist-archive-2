@@ -1,13 +1,29 @@
 {
   "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
-  "num_followers": 1048526,
+  "num_followers": 1048549,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGYC//EXpcJUpz7EFH5FXKrjdtJ",
+  "snapshot_id": "AAAAAAuj9gjWKR22bAqKOBy9K4s9Ydwg",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:26:21",
+      "album": {
+        "name": "Stella by Starlight",
+        "url": "https://open.spotify.com/album/7h9rzMS9L5WtrK4MIV1ZEe"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 305142,
+      "name": "Stella by Starlight",
+      "url": "https://open.spotify.com/track/2Xl9x1b2zk62jenZSuXapr"
+    },
     {
       "added_at": "2026-05-01 04:11:09",
       "album": {
@@ -51,6 +67,142 @@
     {
       "added_at": "2026-05-01 04:11:09",
       "album": {
+        "name": "LAS TROMPETAS DE NAEL",
+        "url": "https://open.spotify.com/album/3qiuYL6XZVmj9mCT4XECqu"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "LAS TROMPETAS DE NAEL",
+      "url": "https://open.spotify.com/track/333HTubjaxlX6lrTHytGS8"
+    },
+    {
+      "added_at": "2026-05-08 04:26:21",
+      "album": {
+        "name": "Chorinho Pra Ele",
+        "url": "https://open.spotify.com/album/2q13E3wCfNngMM8RsMafRw"
+      },
+      "artists": [
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Michael League",
+          "url": "https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9"
+        },
+        {
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Ruy Adri\u00e1n L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/2OxIaaRFZ1avIzWc81z8FC"
+        }
+      ],
+      "duration_ms": 185724,
+      "name": "Chorinho Pra Ele",
+      "url": "https://open.spotify.com/track/2N4sN4aolOMQqbMgcog1tj"
+    },
+    {
+      "added_at": "2026-05-08 04:26:21",
+      "album": {
+        "name": "Alive With Ghosts Today",
+        "url": "https://open.spotify.com/album/1rb1KllmGSy5ybN78fVA3J"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Rane Moore",
+          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
+        },
+        {
+          "name": "Zekkereya El-Magharbel",
+          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "duration_ms": 476360,
+      "name": "The Heavens In Scarlet",
+      "url": "https://open.spotify.com/track/6nPLUM3kANBVz1KIBcjlOs"
+    },
+    {
+      "added_at": "2026-05-08 04:26:21",
+      "album": {
+        "name": "NRG 5",
+        "url": "https://open.spotify.com/album/6ZaOndl11okngVIQx7yalB"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        },
+        {
+          "name": "Rudi Creswick",
+          "url": "https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG"
+        },
+        {
+          "name": "Magnus Mehta",
+          "url": "https://open.spotify.com/artist/5HKcLcwEfiFGptBAQ8jaeQ"
+        }
+      ],
+      "duration_ms": 300079,
+      "name": "Transference",
+      "url": "https://open.spotify.com/track/3m9M2eQqzwfNScI9raJbjB"
+    },
+    {
+      "added_at": "2026-05-08 04:26:21",
+      "album": {
+        "name": "Sunken Scores",
+        "url": "https://open.spotify.com/album/7q0xqaNurbqTDHuz4P6pNR"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "Le Bracelet",
+      "url": "https://open.spotify.com/track/4qaRroBSIJYMYtJvJ9rwKY"
+    },
+    {
+      "added_at": "2026-05-01 04:11:09",
+      "album": {
         "name": "With Every Breath I Take",
         "url": "https://open.spotify.com/album/5IzHaM5J7zgHk7GMBEnXDb"
       },
@@ -71,22 +223,6 @@
       "duration_ms": 224466,
       "name": "With Every Breath I Take",
       "url": "https://open.spotify.com/track/70VMUCYO8Q0pjnXlGB7pCW"
-    },
-    {
-      "added_at": "2026-05-01 04:11:09",
-      "album": {
-        "name": "LAS TROMPETAS DE NAEL",
-        "url": "https://open.spotify.com/album/3qiuYL6XZVmj9mCT4XECqu"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "LAS TROMPETAS DE NAEL",
-      "url": "https://open.spotify.com/track/333HTubjaxlX6lrTHytGS8"
     },
     {
       "added_at": "2026-05-01 04:11:09",
@@ -291,46 +427,6 @@
       "duration_ms": 292360,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
-    },
-    {
-      "added_at": "2026-04-17 04:03:56",
-      "album": {
-        "name": "Into Africa",
-        "url": "https://open.spotify.com/album/75AhYvMymI5kHMXkJZvFqm"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Burniss Travis",
-          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Rane Moore",
-          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
-        },
-        {
-          "name": "Zekkereya El-Magharbel",
-          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
-        },
-        {
-          "name": "Sara Caswell",
-          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
-        }
-      ],
-      "duration_ms": 508680,
-      "name": "Into Africa",
-      "url": "https://open.spotify.com/track/1vVIUgOv7LbmYJ8UBJHWWY"
     },
     {
       "added_at": "2026-04-24 04:01:10",
@@ -721,22 +817,6 @@
       "url": "https://open.spotify.com/track/7DcknLWWblOGskMOoaKtDe"
     },
     {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
-        "name": "TRUE BLUE",
-        "url": "https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP"
-      },
-      "artists": [
-        {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "SKY SO HIGH",
-      "url": "https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy"
-    },
-    {
       "added_at": "2026-03-06 05:00:24",
       "album": {
         "name": "PURPOSE",
@@ -831,22 +911,6 @@
       "duration_ms": 642113,
       "name": "Promise of Fellowship Kept",
       "url": "https://open.spotify.com/track/5hm3jK67IElspYxdAvB0wu"
-    },
-    {
-      "added_at": "2025-08-22 04:00:35",
-      "album": {
-        "name": "Rediscovery",
-        "url": "https://open.spotify.com/album/5RQharMeQ0J23ZUNRYkUvL"
-      },
-      "artists": [
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Rediscovery",
-      "url": "https://open.spotify.com/track/03TAdY8JtsBzNEwXk3ogX7"
     },
     {
       "added_at": "2025-09-19 04:16:20",
@@ -1733,22 +1797,6 @@
       "url": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix"
     },
     {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "NUEVA TIMBA",
-        "url": "https://open.spotify.com/album/1tEFMXDncFNzDKbMSj5vlA"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 306896,
-      "name": "Cerca y Lejos - Live",
-      "url": "https://open.spotify.com/track/2I87Boyr1bzuQnQrvTKn7c"
-    },
-    {
       "added_at": "2025-11-14 05:34:19",
       "album": {
         "name": "Play",
@@ -1883,26 +1931,6 @@
       "duration_ms": 189948,
       "name": "who knows",
       "url": "https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw"
-    },
-    {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
-        "name": "Without Further Ado, Vol 1",
-        "url": "https://open.spotify.com/album/3vkNGUlipZ7lxgJzaO6VXy"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 377421,
-      "name": "Will You Still Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/6l7BpiL6jfzcTVvemG721i"
     },
     {
       "added_at": "2025-09-12 04:22:45",

@@ -18115,6 +18115,32 @@
     },
     {
       "album": {
+        "name": "Sun Goes Down (feat. Camden Cox)",
+        "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346904,
+      "name": "Sun Goes Down (feat. Camden Cox)",
+      "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/1tWIe3X9NYn4cfjc8PCujy"
       },

@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-863 songs - 3 day 16 hr 39 min
+864 songs - 3 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-03-29 | 2025-03-15 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-08-25 | 2024-08-20 |
 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-04-28 | 2023-06-16 |
-| [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 | 2026-05-01 |  |
+| [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 | 2026-05-01 | 2026-05-09 |
 | [My Desire \(Ps\. 42:1\)](https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [My Desire \(Ps\. 42:1\)](https://open.spotify.com/album/5cNYXLKbqvzBfzxyzkHaqn) | 6:28 | 2026-03-13 | 2026-03-27 |
 | [My Elshaddai](https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Purist Ogboi](https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE) | [My Elshaddai](https://open.spotify.com/album/38CdwH27OsQF185txvPw1z) | 4:36 | 2026-04-24 | 2026-05-01 |
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2022-06-30 | 2023-12-15 |
@@ -712,6 +712,7 @@
 | [That's What You Do](https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4Love \(Live at CRC, Pretoria, 2025\)](https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI) | 6:23 | 2025-10-03 | 2025-10-31 |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2023-11-10 |  |
 | [The Almighty](https://open.spotify.com/track/5PRqopObWN3ZF3hPfXrbpH) | [Taiwo Oshin](https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U) | [Wings of the wind](https://open.spotify.com/album/1AnB5QUtYJ29OAiaHcPT06) | 7:07 | 2025-11-28 | 2026-02-20 |
+| [The Battle is Yours](https://open.spotify.com/track/0HqzTB8qbdlH8cQOC2nuKk) | [Ayo Olajide](https://open.spotify.com/artist/58HNUu0M1dWp94r7Y448gQ) | [The Battle is Yours](https://open.spotify.com/album/5DXvfgoEdncETfKWhR7HEs) | 7:13 | 2026-05-08 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-06-30 | 2023-06-16 |
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2024-09-20 |  |
 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 | 2023-12-15 | 2024-02-11 |

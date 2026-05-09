@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,019 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,026 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 60 | [Jeevitham Oru Pwoli](https://open.spotify.com/track/0NFQNHxv4kz3pFT88RYDhW) | [Akhilesh Ramachandran](https://open.spotify.com/artist/5w15khBbkCbrbwKaHQ99qw), [SACHYN](https://open.spotify.com/artist/0fqn7UJi5ch6WMfbEIvHTQ) | [Jeevitham Oru Pwoli](https://open.spotify.com/album/6T5U71G1Xs8f45LRqnnTdx) | 3:27 |
 | 61 | [Ahankaari](https://open.spotify.com/track/18WlJUkmC3BbWjCAJEDWxe) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Ahankaari](https://open.spotify.com/album/4fd62SkoUN7TXMgWRpWk8J) | 2:16 |
 | 62 | [Raathri](https://open.spotify.com/track/1p1na85QNJHUxdcqO5wbEd) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Raathri](https://open.spotify.com/album/1FP3UTmOQNaT5zW4e5ISKJ) | 3:43 |
-| 63 | [Nee Arike](https://open.spotify.com/track/2QFyg6VF0KPeKvKnkipR0V) | [JRK](https://open.spotify.com/artist/0w9sMOv9RRUiY7VKOHsHDj), [Lasya](https://open.spotify.com/artist/2q1XwWi1HV7GVhGyrmSYN5), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4) | [Nee Arike](https://open.spotify.com/album/6X3cDkGtZibWUj39YGHb19) | 2:29 |
+| 63 | [Nee Arike](https://open.spotify.com/track/2QFyg6VF0KPeKvKnkipR0V) | [JRK](https://open.spotify.com/artist/3G8Twa1Lz8Bm9uQ8hDJpGQ), [Lasya](https://open.spotify.com/artist/2q1XwWi1HV7GVhGyrmSYN5), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4) | [Nee Arike](https://open.spotify.com/album/6X3cDkGtZibWUj39YGHb19) | 2:29 |
 | 64 | [Maamalanaadu](https://open.spotify.com/track/197oOjgQJDxkz5OHf7pXxu) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH) | [Maamalanaadu](https://open.spotify.com/album/4MrIfWdlrgZ7cuVLX5MHxY) | 4:18 |
 | 65 | [KAADE](https://open.spotify.com/track/6raiMxUeHxNyOuFI3fTF9O) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp), [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI) | [KAADE](https://open.spotify.com/album/2ntdw48cZIoQiKjeC5zUSf) | 3:35 |
 | 66 | [illaathath](https://open.spotify.com/track/6JwLV8XjJg2tXawz8owSwn) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0) | [illaathath](https://open.spotify.com/album/3TXnjQbQO1aoFgCJaUsdZy) | 3:04 |

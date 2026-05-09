@@ -238,7 +238,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 173442,
       "name": "BACKSEAT",
       "url": "https://open.spotify.com/track/6vH2KwSd69qHLxiWD4CAHU"
@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "c\u00f4te-r\u00f4tie looped",
+        "url": "https://open.spotify.com/album/1E61zdjHFLXehiToJuG5GV"
+      },
+      "artists": [
+        {
+          "name": "birdnote",
+          "url": "https://open.spotify.com/artist/7MYkDdtnQI7XS31ohILPVY"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143553,
+      "name": "c\u00f4te-r\u00f4tie looped",
+      "url": "https://open.spotify.com/track/55t8BueF6Tu9XiEk1r2j6Z"
+    },
+    {
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/0VLNY1VYVWe0AWm0BI5nDA"
       },
@@ -952,6 +970,28 @@
       "duration_ms": 131396,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/1rMVnYTLuvzuloRLZhRMP5"
+    },
+    {
+      "album": {
+        "name": "Don't Stop the Feeling (Dub)",
+        "url": "https://open.spotify.com/album/4kKm7QfUVDKzPUKM9kjLUd"
+      },
+      "artists": [
+        {
+          "name": "Detroit Rising",
+          "url": "https://open.spotify.com/artist/5L7BJ4rmMF3sd4TkpzJwzU"
+        },
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316153,
+      "name": "Don't Stop the Feeling - Dub",
+      "url": "https://open.spotify.com/track/0A7XGjK35cIK9axTm9qlqI"
     },
     {
       "album": {
@@ -1330,6 +1370,28 @@
       "duration_ms": 264505,
       "name": "fourth wave",
       "url": "https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg"
+    },
+    {
+      "album": {
+        "name": "Girl (I Need You)",
+        "url": "https://open.spotify.com/album/1JNaRsbF8YUIf4EXE8z8fi"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        },
+        {
+          "name": "Chris William",
+          "url": "https://open.spotify.com/artist/0939OZsdw0LX2vhbJbCBC2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "Girl (I Need You)",
+      "url": "https://open.spotify.com/track/04fa1bVyDW6kxN42a2uol3"
     },
     {
       "album": {
@@ -1750,7 +1812,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 285619,
       "name": "IDK",
       "url": "https://open.spotify.com/track/3vzDijp4GClTC0KEacZbce"
@@ -2988,7 +3050,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 142000,
       "name": "Osmose",
       "url": "https://open.spotify.com/track/2J2ins3k6g7XWzU4pf0mho"

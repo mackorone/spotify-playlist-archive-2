@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Isabel van Gelder
 
-1,416 songs - 3 day 0 hr 36 min
+1,417 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 | 2024-01-18 | 2024-03-19 |
 | [After The Opera](https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [After The Opera](https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR) | 3:00 | 2025-01-23 | 2025-04-02 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-18 | 2024-04-05 |
+| [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 | 2026-05-07 |  |
 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 | 2026-03-05 |  |
 | [Alibi](https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Alibi](https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs) | 2:55 | 2025-08-28 | 2025-10-18 |
 | [Alive](https://open.spotify.com/track/5CCS7S9pJxDrjYl1cmvZh7) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8) | [Alive](https://open.spotify.com/album/7ErfdKwwn9bXBfdesT1AoU) | 3:37 | 2024-12-03 | 2025-02-08 |

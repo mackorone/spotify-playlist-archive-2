@@ -1,12 +1,12 @@
 {
   "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: 5hy",
-  "num_followers": 35063,
+  "num_followers": 35137,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACwVVej36ygZhz8AyJyVIWLwEl1X",
+  "snapshot_id": "AAAAAPTtbWq9ktg5X+RBbYQUFJJ+5Ru5",
   "tracks": [
     {
       "added_at": "2026-05-06 04:00:17",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Cowboys Of Doom",
-        "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
-      },
-      "artists": [
-        {
-          "name": "We Kill Cowboys",
-          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
-        },
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Cowboys Of Doom",
-      "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Make Us Whole Again",
         "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
       },
@@ -619,22 +599,6 @@
       "duration_ms": 159670,
       "name": "Starless",
       "url": "https://open.spotify.com/track/1WXm0f8OCIKsz3doSo5tZk"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Sucker Punch",
-        "url": "https://open.spotify.com/album/1za5pWXT62Ul5qIlCmihGQ"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 230025,
-      "name": "Sucker Punch",
-      "url": "https://open.spotify.com/track/2KHKREFlFgNiPSEiyZR4P7"
     },
     {
       "added_at": "2026-04-29 04:00:32",
@@ -787,22 +751,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "The Anatomy of Surviving",
-        "url": "https://open.spotify.com/album/0h8yjW4Sh3ypDhZFWZnFWh"
-      },
-      "artists": [
-        {
-          "name": "Vicious Rain",
-          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Gods of Glass & Wire",
-      "url": "https://open.spotify.com/track/7wGrjVMCed0S0yeWS72T9L"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Celebrity Culture Simp Farm",
         "url": "https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU"
       },
@@ -851,22 +799,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "You Gotta Get Through Me",
-        "url": "https://open.spotify.com/album/5j94Vs1E0Nbzb5N5k8COUB"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "You Gotta Get Through Me",
-      "url": "https://open.spotify.com/track/1mJl55Ceupn9G9i1hU68dk"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Seraphim",
         "url": "https://open.spotify.com/album/7fHuqMRthq6pARynhnwMmq"
       },
@@ -895,38 +827,6 @@
       "duration_ms": 233000,
       "name": "Nothing Exists Beyond Me",
       "url": "https://open.spotify.com/track/6X6D9XpQZ83BCxhIlsoPHl"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Falling Away From Me",
-        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
-      },
-      "artists": [
-        {
-          "name": "Overlaps",
-          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
-        }
-      ],
-      "duration_ms": 265384,
-      "name": "Falling Away From Me",
-      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "SUPERSONIC",
-        "url": "https://open.spotify.com/album/10jecRuNiflwS8xc8kWLb7"
-      },
-      "artists": [
-        {
-          "name": "SOULSLEEP",
-          "url": "https://open.spotify.com/artist/3Sq9MmzOatcbubUEwnmX54"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "SUPERSONIC",
-      "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
     },
     {
       "added_at": "2026-04-01 04:00:22",

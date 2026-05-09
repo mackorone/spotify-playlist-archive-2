@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring From Dave\. Curated by human Spotify editors.
 
-3,505 songs - 9 day 11 hr 31 min
+3,506 songs - 9 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [0000](https://open.spotify.com/track/00S3ASJHnjnyHgd9yAxyTL) | [Boa Boa](https://open.spotify.com/artist/5QIv1XuY6CCqRiPU4kXiHY) | [Ceres I](https://open.spotify.com/album/2Caf2d4gu1LUy5VroXxWk7) | 3:51 | 2022-04-07 | 2022-04-28 |
 | [0101](https://open.spotify.com/track/3WN5rtYKalSLobWAtEQ51m) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7), [t l k](https://open.spotify.com/artist/1i3lco9WAy7YqKzCIc3Ahd) | [Chapters](https://open.spotify.com/album/7ccvGMcywqBQXxSZ4vXkFX) | 3:52 | 2023-03-08 | 2023-04-06 |
 | [0800 LOVE](https://open.spotify.com/track/1EriyC6kyHFtp43CALI8wO) | [suncream](https://open.spotify.com/artist/6xr2oZh55DpYQ2YJsvuatx) | [0800 LOVE](https://open.spotify.com/album/373hFZOZ5coIg1LNhg7YUi) | 4:42 | 2023-11-15 | 2023-11-30 |
-| [1, 2, KICK!](https://open.spotify.com/track/0hxWy4e9TmYneZBHILgrnf) | [Shake Daddy](https://open.spotify.com/artist/0FJHBL4Pu8l6ND4yZNSUQc) | [1, 2, KICK!](https://open.spotify.com/album/7at6p7RvkCMbNqNugnLALE) | 4:23 | 2026-04-01 |  |
+| [1, 2, KICK!](https://open.spotify.com/track/0hxWy4e9TmYneZBHILgrnf) | [Shake Daddy](https://open.spotify.com/artist/0FJHBL4Pu8l6ND4yZNSUQc) | [1, 2, KICK!](https://open.spotify.com/album/7at6p7RvkCMbNqNugnLALE) | 4:23 | 2026-04-01 | 2026-05-09 |
 | [1\-800\-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1\-800\-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 | 2021-12-01 | 2022-01-27 |
 | [100% Vibes](https://open.spotify.com/track/2y2heLYQpPrzlPOeWBHyZf) | [Sweetpea](https://open.spotify.com/artist/62wR4mvjXztHU3tQ3Lhxgh), [Shady Novelle](https://open.spotify.com/artist/6uK0QOsx1haVqi5FoCBLG6) | [100% Vibes](https://open.spotify.com/album/335Arfie1C3SbXlzAY0XMB) | 4:49 | 2022-11-09 | 2022-12-01 |
 | [1000dB Stare](https://open.spotify.com/track/3j4p47NWPUJuRBl2njFugT) | [HomeSick](https://open.spotify.com/artist/3trICw5vZHfTbcSOjikzq8) | [1000dB Stare](https://open.spotify.com/album/155WXA6CZCCYaGWQenZKil) | 3:59 | 2024-01-17 | 2024-02-15 |
@@ -600,6 +600,7 @@
 | [Climbing Frame](https://open.spotify.com/track/0kb52zDjKJ9ai6MuItDqtQ) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [Climbing Frame EP](https://open.spotify.com/album/3bUQj9YCLS9bOnEYZ2Qkon) | 2:55 | 2022-02-16 | 2022-04-14 |
 | [Clinical](https://open.spotify.com/track/5RmJcSdsXA1DClphQF22LO) | [Mitch Freeman](https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG) | [Clinical](https://open.spotify.com/album/1AYedGVIXvVg4f9CXtvWER) | 3:47 | 2025-01-15 | 2025-02-06 |
 | [close 2 u](https://open.spotify.com/track/29ZOn3UbhmHCtVv1ScDwPe) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:11 | 2023-06-07 | 2023-07-13 |
+| [Close 2 U](https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Close 2 U](https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s) | 2:09 | 2026-05-08 |  |
 | [Close 2 u](https://open.spotify.com/track/2owLPIwjxHpyWVqvAdXMLK) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [People like u](https://open.spotify.com/album/37Tk22eL2uJ6Iwj4zljgyu) | 2:07 | 2025-05-28 | 2025-07-10 |
 | [Closer](https://open.spotify.com/track/0UkF6DPgFB1MsJDMgGvTnx) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq), [Malory](https://open.spotify.com/artist/7lvI3xLIepHdLT85UbGWmi) | [Closer](https://open.spotify.com/album/1asNlhbzrVVX9pwyhejnhZ) | 6:34 | 2022-09-14 | 2022-09-29 |
 | [Closer](https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Closer](https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc) | 3:54 | 2024-10-10 | 2024-11-23 |

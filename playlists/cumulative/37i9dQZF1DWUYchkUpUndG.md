@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Moses Bliss
 
-7,993 songs - 24 day 15 hr 22 min
+7,994 songs - 24 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6699,6 +6699,7 @@
 | [The Answer](https://open.spotify.com/track/5iK2ieYt6CLuhZhWl2syFk) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY) | [The Answer](https://open.spotify.com/album/7a17w08PO9Hxfi2qc0xTjN) | 2:37 | 2025-11-07 | 2025-11-21 |
 | [The Armies of Heaven](https://open.spotify.com/track/4lHuFmdnZpG0GJTO20I7gs) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [The Armies of Heaven](https://open.spotify.com/album/0l70RF3jz0YBTinUHKMAkg) | 2:28 | 2024-09-20 | 2024-10-04 |
 | [The Basement](https://open.spotify.com/track/2Qtf80iiLampYDBMwSyEFR) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Basement](https://open.spotify.com/album/3EqEbjHk4x3d4KFjL5IYbQ) | 1:47 | 2023-08-04 | 2023-08-18 |
+| [The Battle is Yours](https://open.spotify.com/track/0HqzTB8qbdlH8cQOC2nuKk) | [Ayo Olajide](https://open.spotify.com/artist/58HNUu0M1dWp94r7Y448gQ) | [The Battle is Yours](https://open.spotify.com/album/5DXvfgoEdncETfKWhR7HEs) | 7:13 | 2026-05-08 |  |
 | [The Beautiful Letdown \(Jonas Brothers Version\)](https://open.spotify.com/track/7aoLeX7JuTZJaSOFVj8OJm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Beautiful Letdown \(Jonas Brothers Version\)](https://open.spotify.com/album/6PzwkBcQRhITgIAtLHCH9P) | 4:52 | 2023-08-25 | 2023-09-08 |
 | [The Believers Default](https://open.spotify.com/track/2IdtVrHF3xudcO6NdR7d8i) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [The Believers Default](https://open.spotify.com/album/72lBgIKG02fKw6Y3qqu9E2) | 2:16 | 2026-01-23 | 2026-02-06 |
 | [The Benediction](https://open.spotify.com/track/636EGinKoOcTZc5pTKrFxs) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Jasmine Jacobs](https://open.spotify.com/artist/7e63Fo8teAVzN3xIFBEHN7) | [The Benediction](https://open.spotify.com/album/3Gyr517Hwqq9kZDVIt437D) | 4:07 | 2025-05-30 | 2025-06-13 |
@@ -6992,7 +6993,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 3](https://open.spotify.com/track/0ZAbCcPmF3nReAcAM33ywe) | [Baby Momo](https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6) | [Lizalise](https://open.spotify.com/album/39Kqp3Yf2Fc5w1whKqe0Xp) | 0:00 | 2026-05-08 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |
@@ -7082,6 +7082,7 @@
 | [Ukholo Lwam](https://open.spotify.com/track/7zUjgGzqGQNqLjOcnZVyry) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht), [Thembisile Katshwa](https://open.spotify.com/artist/7jTQjuc1s2TUcwU7mK43Sz) | [Ukholo Lwam](https://open.spotify.com/album/6JVw14ElcTXnxPDBAfpOUM) | 3:38 | 2023-12-01 | 2023-12-15 |
 | [Ukhona \(Live\)](https://open.spotify.com/track/3q0L78ewhexARzasmYb2Na) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Ukhona \(Live\)](https://open.spotify.com/album/5GVDz9NH7RVdWuP5sFeI0H) | 15:32 | 2025-09-26 | 2025-10-10 |
 | [Ukpalumimawewe](https://open.spotify.com/track/4aKfWknU87KG3TIU9YZjkc) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Ukpalumimawewe](https://open.spotify.com/album/18DvIzueDTMOrDly9XNh5U) | 3:15 | 2024-03-01 | 2024-03-16 |
+| [Uku Khuleka](https://open.spotify.com/track/0ZAbCcPmF3nReAcAM33ywe) | [Baby Momo](https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw), [Swiss RSA](https://open.spotify.com/artist/1IV2vKEBioPz7077QErHTz) | [Lizalise](https://open.spotify.com/album/39Kqp3Yf2Fc5w1whKqe0Xp) | 7:22 | 2026-05-08 |  |
 | [Ukuhlala Kuye](https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI) | [Kea Studios](https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU) | [Ukuhlala Kuye](https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE) | 4:01 | 2023-07-21 | 2023-08-04 |
 | [UkuKhanya](https://open.spotify.com/track/67zGRzMRhjoDLCIM5CqDOK) | [Shane907](https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX), [BanzoSinas SA](https://open.spotify.com/artist/23QmkAKJAjdUw9e4FVsSlz), [MvulEnhle](https://open.spotify.com/artist/2Of3mFcd1zqpTtbEDpzGIb) | [UkuKhanya](https://open.spotify.com/album/2RAnVe6camS6f2T3ByAraW) | 2:24 | 2026-04-10 | 2026-04-17 |
 | [Ukunxanela Komoya Wakho](https://open.spotify.com/track/0WeTsHx1DqIdPF51XGbAGa) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ukunxanela Komoya Wakho](https://open.spotify.com/album/566j14AsYwCWJW4GrjUVWi) | 3:50 | 2023-06-09 | 2023-06-16 |

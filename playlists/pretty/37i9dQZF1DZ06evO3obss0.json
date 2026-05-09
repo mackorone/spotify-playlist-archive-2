@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 183014,
+  "num_followers": 183095,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAD0Ke6ZaCiqa8OqSyNQzI3w",
+  "snapshot_id": "afvWAAAAAAB2mmNrUqnH+2eOectxqc6B",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Again",
-        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blue Print \u2013 Us Vs. Them",
         "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 225905,
       "name": "Ferrari Horses",
       "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Me Again",
+        "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb"
     },
     {
       "added_at": null,

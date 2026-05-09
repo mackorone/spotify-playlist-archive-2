@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Nerissima Serpe in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,205 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,195 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 45 | [Soldi e stress](https://open.spotify.com/track/1cnUkxFhSAM4ec0CNGSXEu) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Soldi e stress](https://open.spotify.com/album/0b1GVCgkRqbyOKzAGhESus) | 2:48 |
 | 46 | [MATTONE](https://open.spotify.com/track/0VZOMTITniI3tskCL7RgU6) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [MATTONE](https://open.spotify.com/album/0CsSp5EBVxqrWEnyLGExBy) | 2:20 |
 | 47 | [9MILLIMETRI](https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [9MILLIMETRI](https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br) | 2:48 |
-| 48 | [Scendo E Cerco Un’Altra](https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Scendo E Cerco Un’Altra](https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc) | 2:09 |
-| 49 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
+| 48 | [Bipolari Bilocali](https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2) | [Chef Adami](https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU) | [Bipolari Bilocali](https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU) | 2:25 |
+| 49 | [Scendo E Cerco Un’Altra](https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Scendo E Cerco Un’Altra](https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc) | 2:09 |
 | 50 | [UNABOMBER](https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [UNABOMBER](https://open.spotify.com/album/4e4E7oylKuCR4zXuadL0N3) | 2:08 |
 
-Snapshot ID: `AAAAAJV2FBIUlaOX7Sr9cUes/IcDQC0F`
+Snapshot ID: `AAAAACi2EXqkPl4PCWyM37GV60jWykWO`

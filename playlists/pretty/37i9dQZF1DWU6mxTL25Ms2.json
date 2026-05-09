@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 61972,
+  "num_followers": 62005,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -792,6 +792,22 @@
       },
       "artists": [
         {
+          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
+          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "winning the soul",
+      "url": "https://open.spotify.com/track/5vkwgb40XLJLvW6brxeHzy"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 (vol.1 \u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01)",
+        "url": "https://open.spotify.com/album/29EUPZu75o2TfBLmMvxHu2"
+      },
+      "artists": [
+        {
           "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
           "url": "https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2"
         },
@@ -823,22 +839,6 @@
       "duration_ms": 283973,
       "name": "\u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01",
       "url": "https://open.spotify.com/track/1o2aQhMdbZ2WtFQJvJzygZ"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 (vol.1 \u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01)",
-        "url": "https://open.spotify.com/album/29EUPZu75o2TfBLmMvxHu2"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
-          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "winning the soul",
-      "url": "https://open.spotify.com/track/5vkwgb40XLJLvW6brxeHzy"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 00 ENDLESS DREAM!! (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/3ifP2BU1JYwJ2Qfzx38wwJ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
+          "url": "https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2"
+        },
+        {
+          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
+        },
+        {
+          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
+          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "ENDLESS DREAM!! - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3v8y6dSNIss2BEHyX8Dkqk"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 01 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/1YvIPbEswjzNJcTBD1S5EA"
       },
@@ -1091,22 +1115,6 @@
       "duration_ms": 218626,
       "name": "\u4e00\u6483\u5165\u9b42\u2606\u30da\u30ac\u30b5\u30b9\u30d1\u30f3\u30c1 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1OOkHiYWEiAACbxDrDvRQ0"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Special Record! - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/1BJiiYGFS0CgRpdYjnOO4r"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1167,46 +1175,18 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
-        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
       },
       "artists": [
         {
-          "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
-          "url": "https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2"
-        },
-        {
-          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
-          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
-        },
-        {
-          "name": "\u30ca\u30ea\u30bf\u30d6\u30e9\u30a4\u30a2\u30f3 (CV. \u8863\u5ddd\u91cc\u4f73)",
-          "url": "https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO"
-        },
-        {
-          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
-        },
-        {
-          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
-        },
-        {
-          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
-        },
-        {
-          "name": "\u30de\u30c1\u30ab\u30cd\u30d5\u30af\u30ad\u30bf\u30eb (CV. \u65b0\u7530\u3072\u3088\u308a)",
-          "url": "https://open.spotify.com/artist/4eOsojkADYun0RZX4I7Td1"
-        },
-        {
-          "name": "\u30df\u30b9\u30bf\u30fc\u30b7\u30fc\u30d3\u30fc (CV. \u5929\u6d77\u7531\u68a8\u5948)",
-          "url": "https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr"
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 241226,
-      "name": "winning the soul",
-      "url": "https://open.spotify.com/track/50dvGK4H1d20wa6dm96MCz"
+      "duration_ms": 260173,
+      "name": "Special Record! - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/1BJiiYGFS0CgRpdYjnOO4r"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1659,22 +1639,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 10 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/6GIuE9Pkw2QAtqYEM0cmmm"
-      },
-      "artists": [
-        {
-          "name": "\u30bf\u30de\u30e2\u30af\u30ed\u30b9 (CV. \u5927\u7a7a\u76f4\u7f8e)",
-          "url": "https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "My Against Fight - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/5TPYVdfZlGidUTVzlghV0K"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
         "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
       },
@@ -1719,6 +1683,22 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 10 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/6GIuE9Pkw2QAtqYEM0cmmm"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30de\u30e2\u30af\u30ed\u30b9 (CV. \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "My Against Fight - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/5TPYVdfZlGidUTVzlghV0K"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
       },
@@ -1747,30 +1727,6 @@
       "duration_ms": 293493,
       "name": "BLAZE",
       "url": "https://open.spotify.com/track/1Lz3m4EVjCiXlbyNWqzS25"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 10 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/6GIuE9Pkw2QAtqYEM0cmmm"
-      },
-      "artists": [
-        {
-          "name": "\u30bf\u30de\u30e2\u30af\u30ed\u30b9 (CV. \u5927\u7a7a\u76f4\u7f8e)",
-          "url": "https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9\u30d0\u30af\u30b7\u30f3\u30aa\u30fc (CV. \u4e09\u6fa4\u7d17\u5343\u9999)",
-          "url": "https://open.spotify.com/artist/2KTO9iOuebXup8EbE8ynYU"
-        },
-        {
-          "name": "\u30d3\u30b3\u30fc\u30da\u30ac\u30b5\u30b9 (CV. \u7530\u4e2d\u3042\u3044\u307f)",
-          "url": "https://open.spotify.com/artist/785RrfSa8VWIBbfX9CQ3Hq"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "\u30e6\u30e1\u30be\u30e9 - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/6lFPlhhvDXsTrxlEi3gQ6j"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1811,6 +1767,30 @@
       "duration_ms": 255360,
       "name": "Glorious Moment\uff01",
       "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 10 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/6GIuE9Pkw2QAtqYEM0cmmm"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30de\u30e2\u30af\u30ed\u30b9 (CV. \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/5y5uFO7RHMPXukXpN3A2r1"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9\u30d0\u30af\u30b7\u30f3\u30aa\u30fc (CV. \u4e09\u6fa4\u7d17\u5343\u9999)",
+          "url": "https://open.spotify.com/artist/2KTO9iOuebXup8EbE8ynYU"
+        },
+        {
+          "name": "\u30d3\u30b3\u30fc\u30da\u30ac\u30b5\u30b9 (CV. \u7530\u4e2d\u3042\u3044\u307f)",
+          "url": "https://open.spotify.com/artist/785RrfSa8VWIBbfX9CQ3Hq"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "\u30e6\u30e1\u30be\u30e9 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/6lFPlhhvDXsTrxlEi3gQ6j"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1947,22 +1927,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
-        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
-      },
-      "artists": [
-        {
-          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
-          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Just a little bit",
-      "url": "https://open.spotify.com/track/3L7ukWmoI3tg5ZQVFbA6Ok"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
       },
@@ -1975,6 +1939,22 @@
       "duration_ms": 299160,
       "name": "Find My Only Way - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1cYmcPxpTFXvLGSk1dFG6m"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 05 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0oeOhDun06FB9EvICCc7oO"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Silent Star - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3v2JrZYqHbGldRgzWCFR3U"
     }
   ],
   "unique_name": "Umamusume: Pretty Derby",

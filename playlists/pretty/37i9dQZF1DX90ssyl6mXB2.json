@@ -1,13 +1,29 @@
 {
-  "description": "late night vibes \u2013 notifications off. cover: Isaiah Kaleo",
-  "num_followers": 176417,
+  "description": "late night vibes \u2013 notifications off. cover: Lancey Foux",
+  "num_followers": 176424,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFzclSkNVtIHbDxBimS5jzrcYpu3",
+  "snapshot_id": "AAAAAJvwd5COzCwMiE8PJxNhq8JF6RfS",
   "tracks": [
+    {
+      "added_at": "2026-05-08 06:18:09",
+      "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/4FzW2ufo7lLqf7rJzmBU13"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 182279,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/13Fc5CBDFgpV1rwPuGZIXv"
+    },
     {
       "added_at": "2026-05-01 05:33:09",
       "album": {
@@ -135,6 +151,22 @@
       "duration_ms": 195687,
       "name": "96 Camry",
       "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
+    },
+    {
+      "added_at": "2026-05-08 06:18:09",
+      "album": {
+        "name": "1:11",
+        "url": "https://open.spotify.com/album/6ahQcLyQVBECP9fdBlMjS1"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "1:11",
+      "url": "https://open.spotify.com/track/5WvqtTv4HfxL5nQSRNCYu1"
     },
     {
       "added_at": "2026-04-17 05:16:39",

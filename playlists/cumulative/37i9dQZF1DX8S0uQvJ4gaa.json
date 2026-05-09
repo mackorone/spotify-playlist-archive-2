@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: ERNEST",
+  "description": "Break them in, wear them out. Cover: Ashley McBryde",
   "name": "New Boots",
   "tracks": [
     {
@@ -5321,6 +5321,28 @@
     },
     {
       "album": {
+        "name": "Boots (feat. Fetty Wap)",
+        "url": "https://open.spotify.com/album/7pOYuMCG2jxOQ9nmLkODNV"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159071,
+      "name": "Boots (feat. Fetty Wap)",
+      "url": "https://open.spotify.com/track/6lD7t1tSSCcI1DqNCn2yAW"
+    },
+    {
+      "album": {
         "name": "Honkytonk Hollywood",
         "url": "https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS"
       },
@@ -7488,6 +7510,24 @@
       "duration_ms": 201371,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/65gNyEH6q3vRL2zbq49o58"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/6T5iPB8vNjnnn6NDnCynFl"
     },
     {
       "album": {
@@ -12296,7 +12336,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 187376,
       "name": "Drinkin' Dark Whiskey",
       "url": "https://open.spotify.com/track/2uYpIilKOwmsFRTLDjo9Gy"
@@ -13010,6 +13050,24 @@
       "duration_ms": 139333,
       "name": "EASY ON ME",
       "url": "https://open.spotify.com/track/3Z9znuwSxbmnexupwI8T36"
+    },
+    {
+      "album": {
+        "name": "Easy on the Eyes",
+        "url": "https://open.spotify.com/album/1OWbBlgSfo879OEny4neC8"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205798,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/4laXXiKRsRbcFo1dv1lrXl"
     },
     {
       "album": {
@@ -17355,6 +17413,24 @@
     },
     {
       "album": {
+        "name": "GOOD DAMN",
+        "url": "https://open.spotify.com/album/20y2zchsx7WSEkpXx9BFB7"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "GOOD DAMN",
+      "url": "https://open.spotify.com/track/2V9EhQkeYq5roocczdtTCO"
+    },
+    {
+      "album": {
         "name": "Good Day (2021)",
         "url": "https://open.spotify.com/album/52GG7Vkn6OvtAMJ05dwFHG"
       },
@@ -18020,7 +18096,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159117,
       "name": "Goose Chase",
       "url": "https://open.spotify.com/track/0TEIWKozQuoy5wbi7R6kZA"
@@ -20975,6 +21051,24 @@
     },
     {
       "album": {
+        "name": "high school sweetheart",
+        "url": "https://open.spotify.com/album/7KdJRMPSpI6zxnWV3mWYXL"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191830,
+      "name": "high school sweetheart",
+      "url": "https://open.spotify.com/track/3kxcRsR6yaghkuTwXDZO5Z"
+    },
+    {
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/1MWDlP48A0Olhmkmzxy3kh"
       },
@@ -21130,7 +21224,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 221732,
       "name": "Hold It Down (the after demo)",
       "url": "https://open.spotify.com/track/03FDrndHSCU9u960QiwQPn"
@@ -22651,6 +22745,24 @@
     },
     {
       "album": {
+        "name": "Hurts Like You & Dollar and a Bottle",
+        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195332,
+      "name": "Hurts Like You",
+      "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
+    },
+    {
+      "album": {
         "name": "Hurts the Healing",
         "url": "https://open.spotify.com/album/2uTfFkCuPeJPF5PzTCQcQb"
       },
@@ -23688,7 +23800,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159210,
       "name": "I Know I Know",
       "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
@@ -25036,7 +25148,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 172560,
       "name": "If I Was California",
       "url": "https://open.spotify.com/track/5UGGPqQDaj5j6TpIuhXf0E"
@@ -26736,7 +26848,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 181866,
       "name": "Killed The Man",
       "url": "https://open.spotify.com/track/02J41FCNMPTEC00WinMGKs"
@@ -28612,7 +28724,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184383,
       "name": "Lonesome Dove",
       "url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
@@ -31251,6 +31363,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
@@ -33202,7 +33332,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 209706,
       "name": "Never Be Gone",
       "url": "https://open.spotify.com/track/0U83jwc4bwnzUKtKT9TP2r"
@@ -38998,7 +39128,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 266621,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/2oaKm8emuYSTV4q1cmWrnI"
@@ -39450,6 +39580,24 @@
       "duration_ms": 174497,
       "name": "Runnin' Outta Love",
       "url": "https://open.spotify.com/track/2P1uTsmeAdTBy1fl1cdYB8"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3pHeFHjnx0tgQXosGsPM0c"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6AOJuGF8ySvVY5uBsRcd8a"
     },
     {
       "album": {
@@ -40718,6 +40866,24 @@
       "duration_ms": 193898,
       "name": "Shoot Tequila",
       "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
+    },
+    {
+      "album": {
+        "name": "Shooting Memories With Tequila",
+        "url": "https://open.spotify.com/album/2hOIexhGaNYlDpkLPn3Ms1"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229411,
+      "name": "Shooting Memories With Tequila",
+      "url": "https://open.spotify.com/track/2Xzejpi9kAApSAq3QbteAA"
     },
     {
       "album": {
@@ -44425,6 +44591,24 @@
     },
     {
       "album": {
+        "name": "Straight To The Chapel",
+        "url": "https://open.spotify.com/album/58ldpaBwWJLnh1FHZeRCa6"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147533,
+      "name": "Straight To The Chapel",
+      "url": "https://open.spotify.com/track/5fLBuOMDmNz9NnvUlZGTMs"
+    },
+    {
+      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
       },
@@ -47340,6 +47524,28 @@
       "duration_ms": 217800,
       "name": "Things You Didn't See",
       "url": "https://open.spotify.com/track/6eh9G4frVtE4zXRQ9hc2Vn"
+    },
+    {
+      "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159308,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
     },
     {
       "album": {
@@ -54036,7 +54242,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179304,
       "name": "Work On Me",
       "url": "https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw"
@@ -54502,7 +54708,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 199187,
       "name": "xs",
       "url": "https://open.spotify.com/track/6txszmH2yBrRI9o3sUhRpG"

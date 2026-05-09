@@ -11616,7 +11616,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -15752,7 +15752,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 227428,
       "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
@@ -28560,7 +28560,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 199947,
       "name": "No reward",
       "url": "https://open.spotify.com/track/3hNjvaa1uMTtHr2JIKtaai"
@@ -28578,7 +28578,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 199950,
       "name": "No Reward",
       "url": "https://open.spotify.com/track/2TsjcVSHeEX2FkimexEsuY"
@@ -34578,7 +34578,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Shadow Of Your Love",
       "url": "https://open.spotify.com/track/5TbXXdFGLeCQegxSfANqq3"
@@ -38262,7 +38262,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 191076,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -38414,7 +38414,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 240446,
       "name": "Te Khelas",
       "url": "https://open.spotify.com/track/26vk0Xdt4Z9bCqgOLRt4MG"
@@ -41940,7 +41940,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
@@ -41962,6 +41962,24 @@
       "duration_ms": 195631,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/4qzbDpY0sqXz4Ad2bvwrpl"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195744,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/6Y5LQvR2wXKKaOANW7OUzW"
     },
     {
       "album": {
@@ -49190,7 +49208,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 122727,
       "name": "\u041c\u0430\u043b\u044c\u0431\u043e\u0440\u043e",
       "url": "https://open.spotify.com/track/4xHTTxGihlPr1gSbedKtd1"

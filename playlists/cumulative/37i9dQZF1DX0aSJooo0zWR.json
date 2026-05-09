@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "1000",
+        "url": "https://open.spotify.com/album/4ErALntKQwa4uxLpMUWzVi"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305976,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/495YLDmUD0s9rRjfeLeKwx"
+    },
+    {
+      "album": {
         "name": "Blue Macaw",
         "url": "https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU"
       },

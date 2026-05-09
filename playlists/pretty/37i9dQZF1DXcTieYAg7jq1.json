@@ -1,13 +1,33 @@
 {
-  "description": "Featuring that new vintage. Cover: SIENNA SPIRO",
-  "num_followers": 441443,
+  "description": "Featuring that new vintage. Cover: Stephen Sanchez",
+  "num_followers": 441521,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNziOrMd0FzPgrZh0iEecQM1w+E",
+  "snapshot_id": "AAAAAHnuyWlteKaG3VOBoaMlgSLX3q0M",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:02:48",
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 196012,
+      "name": "HOME TO MOTHER",
+      "url": "https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut"
+    },
     {
       "added_at": "2026-05-01 04:02:18",
       "album": {
@@ -519,22 +539,6 @@
       "duration_ms": 143745,
       "name": "Love Me Twice",
       "url": "https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk"
-    },
-    {
-      "added_at": "2026-03-06 05:00:11",
-      "album": {
-        "name": "LOVE, LOVE, LOVE",
-        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 242287,
-      "name": "LOVE, LOVE, LOVE",
-      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
       "added_at": "2026-03-20 04:00:32",

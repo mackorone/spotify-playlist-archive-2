@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 63966,
+  "num_followers": 64010,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAADVGgFC0J1LgCXemkGN3mjB",
+  "snapshot_id": "afvWAAAAAADcWxYRnbDPgtegwzvq8zBW",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libro Abierto",
-        "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
+        "name": "Abrazo (Extendido)",
+        "url": "https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM"
       },
       "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 161739,
-      "name": "D\u00edas Que No Lloro",
-      "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
+      "duration_ms": 172386,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4qB0bNvfGcS85OOaa32Qo0"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abrazo (Extendido)",
-        "url": "https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM"
+        "name": "Libro Abierto",
+        "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
       },
       "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 172386,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4qB0bNvfGcS85OOaa32Qo0"
+      "duration_ms": 161739,
+      "name": "D\u00edas Que No Lloro",
+      "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
     },
     {
       "added_at": null,

@@ -2593,6 +2593,28 @@
     },
     {
       "album": {
+        "name": "Goodnight Stars",
+        "url": "https://open.spotify.com/album/5cMfbFJDXjE7SWkVCSaUub"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222184,
+      "name": "Goodnight Stars",
+      "url": "https://open.spotify.com/track/2KHkP6Djuct2KkKWqfWcDx"
+    },
+    {
+      "album": {
         "name": "French Fries & Champagne",
         "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
       },
@@ -4216,7 +4238,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 180608,
       "name": "Morning",
       "url": "https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ"

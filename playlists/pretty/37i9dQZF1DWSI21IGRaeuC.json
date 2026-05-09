@@ -1,28 +1,32 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Franky Rizardo",
-  "num_followers": 81079,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
+  "num_followers": 81185,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZoDNbDK8FigJ0LOg96GQOegHkE",
+  "snapshot_id": "AAAAAKeACk5qcc+/QY5tcxMMG1bd0eqC",
   "tracks": [
     {
-      "added_at": "2026-04-24 04:01:42",
+      "added_at": "2026-05-08 04:01:49",
       "album": {
-        "name": "The Connection",
-        "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
+        "name": "Actin' Tough (A.B.C. Remix)",
+        "url": "https://open.spotify.com/album/11KlT9J8V32SJNd1mLD8r3"
       },
       "artists": [
         {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+        },
+        {
+          "name": "A.B.C.",
+          "url": "https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN"
         }
       ],
-      "duration_ms": 166153,
-      "name": "The Connection",
-      "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
+      "duration_ms": 218000,
+      "name": "Actin' Tough - A.B.C. Remix",
+      "url": "https://open.spotify.com/track/0t94CEbIDQZO99iP8Ibjr7"
     },
     {
       "added_at": "2026-03-20 04:00:44",
@@ -43,6 +47,58 @@
     {
       "added_at": "2026-05-01 04:01:14",
       "album": {
+        "name": "One Question",
+        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 184019,
+      "name": "One Question",
+      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "The Connection",
+        "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "The Connection",
+      "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
+    },
+    {
+      "added_at": "2026-05-08 04:01:49",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/5rUjBhXJovoVDNAeC7pr8H"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 142669,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/0mmErQGLOMb2UcKAZYPC4V"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
         "name": "Bass Rider EP",
         "url": "https://open.spotify.com/album/6iUxrJlvhNkFDyh1KTNNmE"
       },
@@ -55,6 +111,42 @@
       "duration_ms": 225454,
       "name": "Bass Rider",
       "url": "https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
+        "name": "Face Bass",
+        "url": "https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Face Bass",
+      "url": "https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW"
+    },
+    {
+      "added_at": "2026-05-08 04:01:49",
+      "album": {
+        "name": "Bludz & Cripz",
+        "url": "https://open.spotify.com/album/4gbKRAMWJN9Q73TWbjUnTl"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 149006,
+      "name": "Bludz & Cripz",
+      "url": "https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -95,6 +187,26 @@
     {
       "added_at": "2026-05-01 04:01:14",
       "album": {
+        "name": "Break It Down EP",
+        "url": "https://open.spotify.com/album/4HjIk35VK90hG0z00YsVS8"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        },
+        {
+          "name": "Rob The Bank",
+          "url": "https://open.spotify.com/artist/1eBcxIHWPHZT4Xczskhgcw"
+        }
+      ],
+      "duration_ms": 344937,
+      "name": "Break It Down - Original Mix",
+      "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
       },
@@ -109,76 +221,40 @@
       "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
+      "added_at": "2026-05-08 18:22:08",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5oxDT9af0xtzKUo6nSiyG5"
+        "name": "Deep House Pumpin'",
+        "url": "https://open.spotify.com/album/6gVyhHNeM4YL0laLjgG5Uh"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        },
+        {
+          "name": "AVIV SAB",
+          "url": "https://open.spotify.com/artist/4bAjlKHnoyqHLW1UU7T0w3"
         }
       ],
-      "duration_ms": 262677,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb"
+      "duration_ms": 172153,
+      "name": "Deep House Pumpin'",
+      "url": "https://open.spotify.com/track/7q7qRayofPCxLoeUZ4Ng7p"
     },
     {
       "added_at": "2026-05-01 04:01:14",
       "album": {
-        "name": "Face Bass",
-        "url": "https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb"
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/0wIrWcnbf7Ra8wZIgq258X"
       },
       "artists": [
         {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        },
-        {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+          "name": "NIKEN",
+          "url": "https://open.spotify.com/artist/0du0nO5Rxa6Vgum3L53zIl"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Face Bass",
-      "url": "https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/4s7UM5ozdkz56jJqnxQwSO"
-      },
-      "artists": [
-        {
-          "name": "Pablo Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI"
-        },
-        {
-          "name": "Mariche",
-          "url": "https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF"
-        }
-      ],
-      "duration_ms": 212021,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW"
-    },
-    {
-      "added_at": "2026-04-17 04:04:08",
-      "album": {
-        "name": "Fascination EP",
-        "url": "https://open.spotify.com/album/5zyEW0IN9u8kdg0DBacxZI"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        }
-      ],
-      "duration_ms": 196842,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/4zrgYXxoxvDLhAUyWrlCVR"
+      "duration_ms": 197211,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/5ZvpgFqhDyi7MODmzoYvD5"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -203,6 +279,38 @@
       "duration_ms": 187258,
       "name": "Second Nature - SHUFFA Remix",
       "url": "https://open.spotify.com/track/1TRXRI1BAk8vsZAa2mHLix"
+    },
+    {
+      "added_at": "2026-04-17 04:04:08",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5oxDT9af0xtzKUo6nSiyG5"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 262677,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb"
+    },
+    {
+      "added_at": "2026-04-17 04:04:08",
+      "album": {
+        "name": "Fascination EP",
+        "url": "https://open.spotify.com/album/5zyEW0IN9u8kdg0DBacxZI"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        }
+      ],
+      "duration_ms": 196842,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/4zrgYXxoxvDLhAUyWrlCVR"
     },
     {
       "added_at": "2026-04-03 04:01:44",
@@ -237,24 +345,40 @@
       "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
+      "added_at": "2026-05-08 04:01:49",
       "album": {
-        "name": "One Question",
-        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0S4W1NStyjziSiahGs1DHQ"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+          "name": "Snooko",
+          "url": "https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx"
         }
       ],
-      "duration_ms": 184019,
-      "name": "One Question",
-      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+      "duration_ms": 256615,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/6OVnACZ85MNWhGeJqOjwAX"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/4s7UM5ozdkz56jJqnxQwSO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI"
+        },
+        {
+          "name": "Mariche",
+          "url": "https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF"
+        }
+      ],
+      "duration_ms": 212021,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -449,26 +573,6 @@
       "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Break It Down EP",
-        "url": "https://open.spotify.com/album/4HjIk35VK90hG0z00YsVS8"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        },
-        {
-          "name": "Rob The Bank",
-          "url": "https://open.spotify.com/artist/1eBcxIHWPHZT4Xczskhgcw"
-        }
-      ],
-      "duration_ms": 344937,
-      "name": "Break It Down - Original Mix",
-      "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
-    },
-    {
       "added_at": "2026-03-27 04:00:16",
       "album": {
         "name": "Talking To Myself",
@@ -503,22 +607,6 @@
       "duration_ms": 247230,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/0wIrWcnbf7Ra8wZIgq258X"
-      },
-      "artists": [
-        {
-          "name": "NIKEN",
-          "url": "https://open.spotify.com/artist/0du0nO5Rxa6Vgum3L53zIl"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/5ZvpgFqhDyi7MODmzoYvD5"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -767,22 +855,6 @@
       "duration_ms": 156923,
       "name": "House Mentality - Radio Edit",
       "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
-    },
-    {
-      "added_at": "2026-04-24 04:01:42",
-      "album": {
-        "name": "break it down ep",
-        "url": "https://open.spotify.com/album/1Vs6reiLrRNg7OLtXqrQCZ"
-      },
-      "artists": [
-        {
-          "name": "Emery Bex",
-          "url": "https://open.spotify.com/artist/7DS0z5momEB8UbS6TxVhzZ"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "break it down",
-      "url": "https://open.spotify.com/track/6TJe6kfG805OEhGYV74gt3"
     },
     {
       "added_at": "2026-04-10 04:02:13",
@@ -1305,22 +1377,6 @@
       "url": "https://open.spotify.com/track/0hI0tjl8fLB6UqpTq8SFCs"
     },
     {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "Keep Up EP",
-        "url": "https://open.spotify.com/album/0op32VN35mWz6It3q7rZqQ"
-      },
-      "artists": [
-        {
-          "name": "Jesse Maas",
-          "url": "https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G"
-        }
-      ],
-      "duration_ms": 196225,
-      "name": "Dreamboy",
-      "url": "https://open.spotify.com/track/2VII8zG0a2wYjTeKYl6GSf"
-    },
-    {
       "added_at": "2026-03-18 17:57:39",
       "album": {
         "name": "Was I Loved? (Dub Mix)",
@@ -1653,22 +1709,6 @@
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "No Better EP",
-        "url": "https://open.spotify.com/album/0mbxvWAmB3c6J8MSETHcPW"
-      },
-      "artists": [
-        {
-          "name": "Joey London Style",
-          "url": "https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "No Better - Radio Edit",
-      "url": "https://open.spotify.com/track/3TCBds884wZAfPwLuwI9NW"
-    },
-    {
       "added_at": "2026-01-23 05:00:22",
       "album": {
         "name": "Touched EP",
@@ -1699,22 +1739,6 @@
       "duration_ms": 172089,
       "name": "Concrete Bass",
       "url": "https://open.spotify.com/track/1veEHr0b99P7eXBcfUMPWp"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L"
     },
     {
       "added_at": "2026-02-06 17:43:48",
@@ -1919,22 +1943,6 @@
       "duration_ms": 205454,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
-    },
-    {
-      "added_at": "2025-09-12 16:39:39",
-      "album": {
-        "name": "EVERY TIME",
-        "url": "https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 253235,
-      "name": "Like This Like That",
-      "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
     },
     {
       "added_at": "2025-08-20 19:16:02",

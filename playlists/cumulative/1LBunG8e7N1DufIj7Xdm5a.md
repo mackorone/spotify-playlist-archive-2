@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,361 songs - 9 day 16 hr 38 min
+4,362 songs - 9 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1437,6 +1437,7 @@
 | [Finessed](https://open.spotify.com/track/5lj9BWDIr9Nu9WCKUIW5fx) | [yuke](https://open.spotify.com/artist/3gJ7vM5lzXzYuYpnPy9WAL) | [Cheetah World](https://open.spotify.com/album/7hWlhGepPvB5ushvzHrYKT) | 2:10 | 2025-07-28 |  |
 | [Fino alla fine del mondo](https://open.spotify.com/track/56JApHeiLQf2l5giaJiKrf) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Fino alla fine del mondo](https://open.spotify.com/album/5WWDFkfoU4eCUQ6bKu2hLQ) | 3:16 | 2026-02-13 |  |
 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 | 2025-07-28 |  |
+| [fire dance](https://open.spotify.com/track/2p4eekPqqxAFfqLUWrjbi3) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [fire dance](https://open.spotify.com/album/3TUCJNsXgl08T9rx4kP4f7) | 3:37 | 2026-05-08 |  |
 | [Fire emoji \(Deluxe\)](https://open.spotify.com/track/6JOrEG0E9p1ouUJQcSc7tF) | [Brian Jeck](https://open.spotify.com/artist/1jjQCpK843ShqLm4AMYna7), [Leo Magozz](https://open.spotify.com/artist/3OXeHIirpgyxCLualXXrB4), [Bling4](https://open.spotify.com/artist/3O0bJuoK49Mge1J8DAqBZc) | [Fire emoji \(Deluxe\)](https://open.spotify.com/album/0OG53iSQPwcJ5lg2rUQytm) | 3:10 | 2025-05-16 |  |
 | [Fire in My Veins](https://open.spotify.com/track/2qWqf2rzEAKgUfSaFuSO4Q) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn the Night](https://open.spotify.com/album/4Fr9ospcNo6Ml3HCQpQpa1) | 2:04 | 2025-09-12 |  |
 | [Fire Lighter](https://open.spotify.com/track/1lp1qlP0bteQTKuhGHCB4t) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:39 | 2025-09-26 |  |

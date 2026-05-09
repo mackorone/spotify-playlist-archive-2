@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover:  Adekunle Gold
 
-1,205 songs - 2 day 8 hr 25 min
+1,205 songs - 2 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Liberté](https://open.spotify.com/track/41MzmggjPNkHXHQDHB2PwA) | [Hustle](https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N) | [Liberté](https://open.spotify.com/album/2dBQuoaDd6OoSamZlFxTB3) | 2:14 | 2025-04-10 | 2025-05-02 |
 | [Libérer](https://open.spotify.com/track/1DZpgpWAzUZ9BuL0si2qSb) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [Libérer](https://open.spotify.com/album/2MvX5t6t9uKOVf9uZ03iUY) | 2:25 | 2025-03-13 | 2025-04-04 |
 | [Life Is Better Now](https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 | 2023-08-31 | 2023-12-01 |
+| [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 | 2026-05-07 |  |
 | [Lifestyle](https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Lifestyle](https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq) | 2:45 | 2025-12-12 | 2026-01-30 |
 | [LIFESTYLE](https://open.spotify.com/track/18kZT3bZ8dYuSQpDqb5jxR) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gen Z](https://open.spotify.com/album/6A9vRCTrmUNqdsW93J3vPK) | 2:55 | 2025-04-24 | 2025-06-13 |
 | [Lifobo](https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine, pt\. 1](https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ) | 2:42 | 2024-09-19 | 2024-10-04 |
@@ -1115,7 +1116,6 @@
 | [TOUT DROIT](https://open.spotify.com/track/6IKWFt2x3R7szTflWaeQiC) | [La Synesia](https://open.spotify.com/artist/1xAkr1syMoClC66pHMk2Eq) | [TOUT DROIT](https://open.spotify.com/album/0TD72f1ncze2skY9yu6kfi) | 2:43 | 2025-05-15 | 2025-06-27 |
 | [Toxic Love](https://open.spotify.com/track/7gldh8ogRFJliHUvVxJYho) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Toxic Love](https://open.spotify.com/album/5CnL5be3oL7LLwlR0mK6rm) | 2:28 | 2022-12-08 | 2023-05-19 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-12-01 | 2023-06-09 |
-| [Track 1](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 0:00 | 2026-05-07 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-14 | 2025-01-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-04-24 | 2025-05-16 |
 | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/track/294RbcQMqf9cbFelweoVMB) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [WES7AR 22](https://open.spotify.com/artist/59CCuGR6B2a60Qrp3Wwsm8) | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/album/3ATu4GjZWHIEfldJduxQ4g) | 5:01 | 2023-06-22 | 2023-08-25 |

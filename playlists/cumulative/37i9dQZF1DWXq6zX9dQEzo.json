@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 152307,
       "name": "ALLRIGHTYTHEN",
       "url": "https://open.spotify.com/track/3mzsBxurkkBrfEVVMR3S8Y"
@@ -8604,7 +8604,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 125545,
       "name": "I'M SAVED",
       "url": "https://open.spotify.com/track/5zzl7kQ8gOf7cIgqvs2Oeu"
@@ -9484,6 +9484,28 @@
       "duration_ms": 195918,
       "name": "KING of 'kings\"",
       "url": "https://open.spotify.com/track/1LRjbSailfqUFnYUGZIinm"
+    },
+    {
+      "album": {
+        "name": "KING!",
+        "url": "https://open.spotify.com/album/2svJ8XdOt6ePkMGP7MJIoi"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Austin White 711",
+          "url": "https://open.spotify.com/artist/55nLrxYgd3cNP8TksFuE3O"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116275,
+      "name": "KING!",
+      "url": "https://open.spotify.com/track/5dvdvRcDudSRb0FB3i5aZV"
     },
     {
       "album": {
@@ -13712,7 +13734,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136082,
       "name": "RAP SUPERSTAR",
       "url": "https://open.spotify.com/track/1ide4NVTIqkpOfzLW3Yqjq"

@@ -26469,6 +26469,32 @@
     },
     {
       "album": {
+        "name": "Don't Wait Too Long",
+        "url": "https://open.spotify.com/album/7AH9wB1ebWsbkpdnyk5WxJ"
+      },
+      "artists": [
+        {
+          "name": "Henry Aberson",
+          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
+        },
+        {
+          "name": "Derran Day",
+          "url": "https://open.spotify.com/artist/7dexR7KkrkLCzFIVpBnKzK"
+        },
+        {
+          "name": "Cortez Johnson",
+          "url": "https://open.spotify.com/artist/2JjLgQQ1t2JJygXF7CDbsG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256265,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/4Yh8rCvyTbzLqAI0FoVZoM"
+    },
+    {
+      "album": {
         "name": "Don't Walk Away",
         "url": "https://open.spotify.com/album/4Efsth889W0V4adLUrrDR7"
       },
@@ -26730,7 +26756,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 153315,
       "name": "Done For",
       "url": "https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt"
@@ -41048,6 +41074,24 @@
       "duration_ms": 222419,
       "name": "Half as Heartless",
       "url": "https://open.spotify.com/track/6YlNNkCrwUkuQJJcztNLs8"
+    },
+    {
+      "album": {
+        "name": "Halfway to Yours",
+        "url": "https://open.spotify.com/album/0UIM7Iu3U54YuLLqUSC4Pe"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170230,
+      "name": "Halfway to Yours",
+      "url": "https://open.spotify.com/track/6OuK7YDWoE8SVAR1DhrQEq"
     },
     {
       "album": {
@@ -57932,7 +57976,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 218163,
       "name": "Lonely Bones",
       "url": "https://open.spotify.com/track/5wT4hdvioVNGhwEP8Lpa3S"
@@ -76510,7 +76554,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208250,
       "name": "Please Be Kind, Rewind",
       "url": "https://open.spotify.com/track/3q0WtL6dvAEl6hpotT1bRT"
@@ -81764,6 +81808,24 @@
       "duration_ms": 196833,
       "name": "Robbing Me Blind",
       "url": "https://open.spotify.com/track/2smqVR9iBOtkT7KPsP32Xv"
+    },
+    {
+      "album": {
+        "name": "Rock Music",
+        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115106,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
     },
     {
       "album": {
@@ -110508,6 +110570,24 @@
       "duration_ms": 297777,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6MdO4xup42RUmHK3Yj4ZA6"
+    },
+    {
+      "album": {
+        "name": "Mosquito Weather",
+        "url": "https://open.spotify.com/album/77nhprhyy5YlKGm3rxMpPR"
+      },
+      "artists": [
+        {
+          "name": "Sean Campbell",
+          "url": "https://open.spotify.com/artist/4wxidu7Ye0y6vqW4PXBcwf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206041,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/1WxIWpuD6W8sG8KOkRaDQ0"
     },
     {
       "album": {

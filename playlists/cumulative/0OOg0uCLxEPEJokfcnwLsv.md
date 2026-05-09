@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-482 songs - 1 day 5 hr 48 min
+483 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Shallow Woman](https://open.spotify.com/track/16rXPUm2ZLmfw4awRZajCp) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:28 | 2026-01-15 | 2026-02-18 |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-12-12 | 2026-01-05 |
 | [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 | 2026-04-28 |  |
+| [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-05-08 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-22 | 2026-02-18 |
 | [She's the Devil](https://open.spotify.com/track/6O55FZgVKWB06M14sfFEeT) | [The Carousers](https://open.spotify.com/artist/2s4NR91XrdMwNDzp5aspSr) | [The Carousers \(Deluxe Edition\)](https://open.spotify.com/album/0TwX70LuXPrxmA4smODxAR) | 2:05 | 2026-02-20 |  |
 | [Shine Your Shoes](https://open.spotify.com/track/6Ro4y2BWJt4KlUZfXxfokk) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Donatello Soul](https://open.spotify.com/album/2sdIfhH5l2fGNsX2fHHqe8) | 3:20 | 2026-02-13 | 2026-03-04 |

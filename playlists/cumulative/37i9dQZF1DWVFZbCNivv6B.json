@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Kevis & Maykyy en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. M\u00e1ximo Grado, Victor Mendivil y Amilkar Galaviz en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 201000,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/0ETHntyQqLE16k0ch034EQ"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 410854,
       "name": "Barbacha de Lonche II",
       "url": "https://open.spotify.com/track/509KCnRF5pQPTXcKE2aLN3"
@@ -2734,6 +2734,24 @@
       "duration_ms": 164659,
       "name": "Bill Cosby",
       "url": "https://open.spotify.com/track/3rmJrSfzgJo2Ty09Rf6txz"
+    },
+    {
+      "album": {
+        "name": "Siete Vidas",
+        "url": "https://open.spotify.com/album/79u5XQBtfxUtpc5SvORMOg"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210358,
+      "name": "Bohemio Loco",
+      "url": "https://open.spotify.com/track/2ZCqBUeQE7YCqx2uMSYl2f"
     },
     {
       "album": {
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 228400,
       "name": "Campeones",
       "url": "https://open.spotify.com/track/3wNcQrEtxl9bR3VXnw8WwR"
@@ -3458,6 +3476,24 @@
       "duration_ms": 158823,
       "name": "CASTE XMAS",
       "url": "https://open.spotify.com/track/64p6GfKssLhIe4A4t7oMvJ"
+    },
+    {
+      "album": {
+        "name": "Castigado",
+        "url": "https://open.spotify.com/album/0gkm5GMIvqD9V5yBosxfTZ"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171038,
+      "name": "Castigado",
+      "url": "https://open.spotify.com/track/0s5iGrmOjHomMNNj7MtKz2"
     },
     {
       "album": {
@@ -4542,6 +4578,32 @@
       "duration_ms": 202000,
       "name": "Cuando Huele",
       "url": "https://open.spotify.com/track/4QhOpSey4O0bnYVzXBcjtz"
+    },
+    {
+      "album": {
+        "name": "Cuando Pienso",
+        "url": "https://open.spotify.com/album/34E9TLOzpjSLycHGTsGM9v"
+      },
+      "artists": [
+        {
+          "name": "Putolargo",
+          "url": "https://open.spotify.com/artist/3lP2GgJaO5TZJt8dE1WsSQ"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Yabul\u00e9",
+          "url": "https://open.spotify.com/artist/5s0UiGPVJ2Ghj3ushukRNG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214342,
+      "name": "Cuando Pienso",
+      "url": "https://open.spotify.com/track/69WHa8WfluUXsfwbwc0NyH"
     },
     {
       "album": {
@@ -6752,7 +6814,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 240000,
       "name": "Encerrado",
       "url": "https://open.spotify.com/track/1jAp6DsEYA4ecTVbp3YGCU"
@@ -9190,6 +9252,32 @@
       "duration_ms": 171177,
       "name": "La Bachona",
       "url": "https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM"
+    },
+    {
+      "album": {
+        "name": "S\u00edndrome Estocolmo",
+        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Amilkar Galaviz",
+          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223602,
+      "name": "La Bataca",
+      "url": "https://open.spotify.com/track/71M0QTH5Gz4JKn9DwwEuSO"
     },
     {
       "album": {

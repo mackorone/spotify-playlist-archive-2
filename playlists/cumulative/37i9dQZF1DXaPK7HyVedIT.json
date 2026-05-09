@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: ENNE",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: WELKER",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 235615,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
@@ -1756,6 +1756,24 @@
       "duration_ms": 162580,
       "name": "Baile Lotad\u00e3o",
       "url": "https://open.spotify.com/track/6R8sBJjTQnFffxSU4u4Kg9"
+    },
+    {
+      "album": {
+        "name": "Baile Lotad\u00e3o",
+        "url": "https://open.spotify.com/album/4nmXTGDefT5zsdDv1GqwaC"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Baile Lotad\u00e3o",
+      "url": "https://open.spotify.com/track/0EBJmDpmMlHwioc5OEyNd8"
     },
     {
       "album": {
@@ -4486,7 +4504,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 201562,
       "name": "Discoteka",
       "url": "https://open.spotify.com/track/3tUiMhJqIAdOkSGOpShMvM"
@@ -5656,7 +5674,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 253125,
       "name": "Euro Trash Girl",
       "url": "https://open.spotify.com/track/43ZAGtIx5RA54MMJ3mQ1B9"
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 174260,
       "name": "From Home",
       "url": "https://open.spotify.com/track/4vOIzp5aM7DnxKYuf9wnkn"
@@ -8494,7 +8512,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 227209,
       "name": "I Don't Want To",
       "url": "https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"
@@ -11987,6 +12005,28 @@
     },
     {
       "album": {
+        "name": "Mind Alert",
+        "url": "https://open.spotify.com/album/1tnktXAiKSuqIFK6YNPOch"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Caique Carvalho",
+          "url": "https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198188,
+      "name": "Mind Alert",
+      "url": "https://open.spotify.com/track/69mO0n022H0cggGm85wYZw"
+    },
+    {
+      "album": {
         "name": "Mind Illuminate",
         "url": "https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3"
       },
@@ -14210,7 +14250,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 222641,
       "name": "PIECE OF ME",
       "url": "https://open.spotify.com/track/5qfCSmBt5ZPjZiRqvgRrnr"
@@ -15418,6 +15458,32 @@
       "duration_ms": 144094,
       "name": "Samba de Janeiro - Carnaval Mix",
       "url": "https://open.spotify.com/track/3pNwxSZI5aMN0EGvXCerAc"
+    },
+    {
+      "album": {
+        "name": "Saturn Storm",
+        "url": "https://open.spotify.com/album/1U19xKKGgUTdIx4ITVB7cG"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        },
+        {
+          "name": "Nana Torres",
+          "url": "https://open.spotify.com/artist/3Y7qOams3aO2VkPvq3Xz1S"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Saturn Storm",
+      "url": "https://open.spotify.com/track/3hTphn9Yj76uUJe3mZDbq0"
     },
     {
       "album": {
@@ -17831,6 +17897,24 @@
     },
     {
       "album": {
+        "name": "There Goes My Shirt",
+        "url": "https://open.spotify.com/album/0qtMGp9dk0zrD0jR2CSG0z"
+      },
+      "artists": [
+        {
+          "name": "Devochka",
+          "url": "https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "There Goes My Shirt",
+      "url": "https://open.spotify.com/track/7DI1c3jew6kEmj9yJQwixI"
+    },
+    {
+      "album": {
         "name": "These Roads",
         "url": "https://open.spotify.com/album/0r5k24CzditIVIwuvbVMWy"
       },
@@ -18632,6 +18716,24 @@
       "duration_ms": 227664,
       "name": "Tussi Blinder (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/54MofiLlcf5oEhBm0kAl33"
+    },
+    {
+      "album": {
+        "name": "Tussy",
+        "url": "https://open.spotify.com/album/5yEhx4Q57OolFEFOyKga6G"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215348,
+      "name": "Tussy",
+      "url": "https://open.spotify.com/track/1EfOxdqEUahIOapO5AqRnt"
     },
     {
       "album": {
@@ -19632,6 +19734,32 @@
       "duration_ms": 182404,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/7KLlDR1Q1CNWm38nlcCgF2"
+    },
+    {
+      "album": {
+        "name": "WHEREVER YOU ARE",
+        "url": "https://open.spotify.com/album/1muSg3FjOJyWqnlAjOXTGJ"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        },
+        {
+          "name": "1LINE",
+          "url": "https://open.spotify.com/artist/0iMmDsJ0jR725VnnuimI67"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "WHEREVER YOU ARE",
+      "url": "https://open.spotify.com/track/0oG75Fub50IHhrn9qKXBjO"
     },
     {
       "album": {

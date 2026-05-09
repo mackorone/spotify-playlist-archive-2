@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Alexandra Stan x FAULHABER
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x Frank Walker x John Martin
 
-1,979 songs - 3 day 23 hr 19 min
+1,981 songs - 3 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [Kikuyu](https://open.spotify.com/track/3IQuYD2lrVj8NjAXCfU1TL) | [Jessi Selm](https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq) | [Kikuyu](https://open.spotify.com/album/6AUWyJYHCBr5Z5T3N0aA4a) | 3:01 | 2024-08-08 | 2024-08-24 |
 | [Kill Me](https://open.spotify.com/track/3pUliSgTWnfJnqHdjYGflL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Kill Me](https://open.spotify.com/album/6llX0jALPogs989Pcyt7RP) | 2:35 | 2022-12-15 | 2023-01-06 |
 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 | 2024-05-31 | 2024-06-08 |
+| [KIN](https://open.spotify.com/track/50I9JvDgzGl6OQft3TwEQL) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [KIN](https://open.spotify.com/album/32vyjIQOl0Wcq6hMtR7Qlg) | 3:00 | 2026-05-07 |  |
 | [Kingdom Come](https://open.spotify.com/track/6UNuKc3xjT7h5ioP501DW3) | [Moodygee](https://open.spotify.com/artist/324vg036DC5fiqiVK4eeto), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Kingdom Come](https://open.spotify.com/album/1ddlsrcEfCP53bFenAHKGC) | 2:06 | 2022-07-08 | 2022-07-23 |
 | [KINTSUGI](https://open.spotify.com/track/3gsTJKE0ltx5FPAw5RFa4A) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [KINTSUGI](https://open.spotify.com/album/1442OqCb0NO5ojhFiynDYN) | 2:56 | 2024-03-15 | 2024-03-23 |
 | [Kiss Like This](https://open.spotify.com/track/6X9F9ozJlTd40tJIkeZeeV) | [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK), [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Kiss Like This](https://open.spotify.com/album/2nIzPuYTBVinbnuKUDc3Uh) | 3:04 | 2024-03-01 | 2024-03-09 |
@@ -1673,6 +1674,7 @@
 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 | 2024-06-20 | 2024-07-05 |
 | [Take Me To The Water](https://open.spotify.com/track/2cTNhqpqxcwfVpUE2PXv9G) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Take Me To The Water](https://open.spotify.com/album/2LBrT86Jkz6SAyBOZnCZu5) | 2:44 | 2025-03-06 | 2025-04-19 |
 | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx) | 3:06 | 2025-10-16 |  |
+| [Take Over Control \(feat\. Eva Simons\) \[Nitefreak Remix\]](https://open.spotify.com/track/5zEu5pr4yPqwH1ysi6rswB) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Take Over Control \(feat\. Eva Simons\) \[Nitefreak Remix\]](https://open.spotify.com/album/6KJlUZV14PvCPLRro2r4nU) | 3:32 | 2026-05-08 |  |
 | [Take What You Can](https://open.spotify.com/track/7MtvmMSXFIjFU1W32qQCp2) | [Bacavi](https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd) | [Take What You Can](https://open.spotify.com/album/4V4z2JkpTDJsd28k2eleS4) | 3:28 | 2023-08-24 | 2023-09-26 |
 | [Take Yo' Praise](https://open.spotify.com/track/0okW8DpLYyl4oPfDAFZsiT) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Take Yo' Praise](https://open.spotify.com/album/6LrJuyI8NRxTi8st02apst) | 2:49 | 2024-08-29 | 2024-09-28 |
 | [Talk Talk](https://open.spotify.com/track/3sxlSXXCQIPITS8xJBqcSc) | [Lelo](https://open.spotify.com/artist/4RQMCbKeR7VAJfDtoSRQlv) | [Talk Talk](https://open.spotify.com/album/4PSVtmEDxzjVs3BXqEJd86) | 3:29 | 2022-12-15 | 2023-01-06 |

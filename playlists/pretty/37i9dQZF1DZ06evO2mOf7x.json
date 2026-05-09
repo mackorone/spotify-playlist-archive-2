@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47390,
+  "num_followers": 47394,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAJUJAWZX/jCe/iMcVQBO2L",
+  "snapshot_id": "afvWAAAAAACsrNGDmzU4V/4wXJM24mFc",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
-      "url": "https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Besos No Se Dan En La Camisa",
         "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 224666,
       "name": "Los Besos No Se Dan En La Camisa",
       "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
+      "url": "https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+        "name": "Alma Perdida",
+        "url": "https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 239506,
-      "name": "Entre Ella Y Yo",
-      "url": "https://open.spotify.com/track/3yfjiOCMa9VNZ5cYdUHIrV"
+      "duration_ms": 235180,
+      "name": "Alma perdida",
+      "url": "https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA"
     }
   ],
   "unique_name": "This Is Ana B\u00e1rbara",

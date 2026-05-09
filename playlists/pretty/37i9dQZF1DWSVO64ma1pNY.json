@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 302619,
+  "num_followers": 302629,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Queens of the Stone Age",
         "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 205320,
       "name": "Avon",
       "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "What Does Your Soul Look Like",
-        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
-      },
-      "artists": [
-        {
-          "name": "Wayside",
-          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
-        }
-      ],
-      "duration_ms": 204499,
-      "name": "Parallax Error",
-      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "What Does Your Soul Look Like",
+        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "duration_ms": 204499,
+      "name": "Parallax Error",
+      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
     },
     {
       "added_at": "2024-12-03 09:27:47",

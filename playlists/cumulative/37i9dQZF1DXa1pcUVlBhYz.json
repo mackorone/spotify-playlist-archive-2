@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: Francis Mercier",
+  "description": "Electronic + Dance making waves, every month. Cover: TSHA, HoneyLuv & Ellie Maxwell",
   "name": "Electronic + Dance Frequency",
   "tracks": [
     {
@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
+    },
+    {
+      "album": {
         "name": "Club Burn",
         "url": "https://open.spotify.com/album/6m3iYS0C8mrVMMRaNybdGz"
       },
@@ -1906,6 +1924,40 @@
       "duration_ms": 196880,
       "name": "Clumsy Dancer",
       "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
+    },
+    {
+      "album": {
+        "name": "4 DA STREETS!",
+        "url": "https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "BarbieSZN",
+          "url": "https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351000,
+      "name": "Cn I see u (feat. BXKS & BarbieSZN)",
+      "url": "https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV"
     },
     {
       "album": {
@@ -4669,6 +4721,32 @@
     },
     {
       "album": {
+        "name": "I Need U (feat. Ellie Maxwell)",
+        "url": "https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Ellie Maxwell",
+          "url": "https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176645,
+      "name": "I Need U (feat. Ellie Maxwell)",
+      "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
+    },
+    {
+      "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
         "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
       },
@@ -5136,6 +5214,28 @@
       "duration_ms": 245235,
       "name": "Keep Dancing (4Korners Remix)",
       "url": "https://open.spotify.com/track/3fQWjVDJXdrvzNNkJ1DyUI"
+    },
+    {
+      "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/4h0qU5fElVUMXewmkPMtox"
+      },
+      "artists": [
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        },
+        {
+          "name": "Plaisance",
+          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289374,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/6yxWuVbEUbtBUGGvEQIeBd"
     },
     {
       "album": {
@@ -6806,7 +6906,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 152167,
       "name": "NEW JAZZ SCHMELL",
       "url": "https://open.spotify.com/track/7ykuqDu99KoMR4rrIMYjo4"
@@ -7588,7 +7688,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184607,
       "name": "One One Time",
       "url": "https://open.spotify.com/track/1FeAGhoYss8MkCih7wNd0I"
@@ -9072,7 +9172,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 178953,
       "name": "Slight Werk - Club Mix",
       "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
@@ -10132,7 +10232,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"

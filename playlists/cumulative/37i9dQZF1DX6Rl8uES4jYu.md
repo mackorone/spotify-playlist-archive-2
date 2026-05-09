@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-489 songs - 1 day 3 hr 15 min
+490 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Chameleon \(feat\. Salt Cathedral\)](https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Chameleon \(feat\. Salt Cathedral\)](https://open.spotify.com/album/5z0NKs8Nb8dAPfZywEJjAi) | 3:08 | 2021-10-29 | 2022-09-03 |
 | [Champagne Problems](https://open.spotify.com/track/1Mpyx1BTaWYrHGsvcwRJwx) | [Divine ScienZe](https://open.spotify.com/artist/2XZLFOW0ifuWDqqsmhk7YN), [King I Divine](https://open.spotify.com/artist/6t848BuoFnUtHgh1U5KWHx), [Scienze](https://open.spotify.com/artist/1xEKfd3N7hNOs61F4Yr65R) | [Champagne Problems](https://open.spotify.com/album/5e123Mc3xclpvW2WCVSK0F) | 3:35 | 2022-06-03 | 2022-07-14 |
 | [Change For Me \(With Samm Henshaw\)](https://open.spotify.com/track/7mEfwGs3l9NQSllJfKQlKY) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Change For Me \(With Samm Henshaw\)](https://open.spotify.com/album/6xQvCrikkzeOUdABXbN6Ub) | 4:09 | 2020-11-13 | 2022-03-23 |
+| [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 | 2026-05-08 |  |
 | [Check Your DMs](https://open.spotify.com/track/2yT3iJdv7WakLKU5akN1eu) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Check Your DMs](https://open.spotify.com/album/5249Jvjz41Hnzb0oErH15Z) | 3:17 | 2022-02-18 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Chemicals](https://open.spotify.com/album/57VWVqpSTU1u7fuOEeS20p) | 3:02 | 2021-09-03 | 2022-07-27 |
 | [Cherry Pie](https://open.spotify.com/track/49NJppBKrOhxs5DSBSucSL) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Cherry Pie](https://open.spotify.com/album/0LKgEWhOvPszUBabtNTVGQ) | 2:04 | 2023-06-30 |  |

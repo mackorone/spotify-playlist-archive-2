@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Marno van der Merwe, Chris Steyn, Tamlyn Wessels, Loufi en meer!
 
-2,580 songs - 5 day 23 hr 22 min
+2,580 songs - 5 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Bass Bliksem](https://open.spotify.com/track/3qXkT4jW4AmUVCpbjHaNU2) | [Bevok](https://open.spotify.com/artist/1sBlOfR14FteLT5dMmVP3S) | [Bass Bliksem](https://open.spotify.com/album/6IZfsvnLXjrgkgNfclLZ2D) | 2:30 | 2023-12-14 | 2024-02-02 |
 | [BASS SIC](https://open.spotify.com/track/43gQTIyUTqXTQBm2spjWt7) | [ALLEMAN](https://open.spotify.com/artist/41SV0Gv1lhWWT7Hlke8C6Z) | [BASS SIC](https://open.spotify.com/album/0z1zI8Xk2buBcjgaEgecem) | 2:16 | 2025-12-11 | 2026-01-02 |
 | [Beaufort Wes \- Revisited](https://open.spotify.com/track/0JsS5MKOYuFJLovszEXQ0c) | [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj) | [Beaufort Wes \(Revisited\)](https://open.spotify.com/album/0Z5BOz73rL39q5Qm4sG7mt) | 3:20 | 2025-06-26 | 2025-08-29 |
+| [Beautiful Jy](https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Tot Daar Waar Die Lig Is](https://open.spotify.com/album/013qVYf9nNuJKQvELYzgh9) | 3:02 | 2026-05-07 |  |
 | [Bederf Jouself](https://open.spotify.com/track/3m6Cl5qaA3xuJyrckoOxzD) | [Dassie](https://open.spotify.com/artist/6nxwYjU9ngwfCXXtJBGZrg) | [Bederf Jouself](https://open.spotify.com/album/7A1Qn3imELMi13Tc9N2Q8b) | 2:47 | 2025-09-04 | 2025-12-05 |
 | [Bedoel](https://open.spotify.com/track/2NSzRLTgMubVVfx2CjpPkQ) | [Vernon Barnard](https://open.spotify.com/artist/2TPxotA1MPCxSlIBSWrJX5) | [Bedoel](https://open.spotify.com/album/152ty8rhHnELQjzLFaRM2F) | 3:01 | 2025-07-24 | 2025-08-29 |
 | [Bedoel Vir My](https://open.spotify.com/track/4HP2rCe84OtnOtRdn15q6V) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ) | [Bedoel Vir My](https://open.spotify.com/album/29YmemBz5DkGcFZACsWa0T) | 2:52 | 2024-01-25 | 2024-02-09 |
@@ -1821,6 +1822,7 @@
 | [Polo](https://open.spotify.com/track/58gtz4Z3N7BJeqX1HSABq3) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Polo](https://open.spotify.com/album/7CcrKpJ5XZEeqRzMQF9ovg) | 2:06 | 2023-09-28 | 2023-10-07 |
 | [Pomp Dit Nou](https://open.spotify.com/track/0YNiqtHSVlupKyBIICP01V) | [Groot Geraas](https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC) | [Pomp Dit Nou](https://open.spotify.com/album/2boXQRCo3uVOUr0ER37EZU) | 2:41 | 2024-01-25 | 2024-02-16 |
 | [Poppe Dans](https://open.spotify.com/track/5xRb7jWy9ZGFxEvjsCct5R) | [Wouter Van De Venter](https://open.spotify.com/artist/3cZNCHI9iQev06QNIw1g7M) | [Poppe Dans](https://open.spotify.com/album/4gJjM7JXzJhqpYji5ZF0Ks) | 3:18 | 2025-11-20 | 2026-02-20 |
+| [Port St\. Johns](https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [VYFTIG APOKRIEWE](https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4) | 3:26 | 2026-05-07 |  |
 | [Potchefstroom](https://open.spotify.com/track/5CpHQNWoOSFyDQ6LMvbIkK) | [Vabond](https://open.spotify.com/artist/3rQctTQLgL48c2lu3sOnWC) | [Potchefstroom](https://open.spotify.com/album/6AxBARYkXmA03xZ5A5qQwc) | 4:41 | 2025-08-21 | 2025-09-26 |
 | [Potifar Se Vrou](https://open.spotify.com/track/0FOSEUoGYNr94kfi7PmhSg) | [Steyn De Wet](https://open.spotify.com/artist/5noLDYrSEB3xf2LwgQiQv3) | [Potifar Se Vrou](https://open.spotify.com/album/2I3gc6lEIUN1LpJZQ3wloT) | 5:42 | 2024-10-24 | 2024-11-08 |
 | [Praat Duits](https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Praat Duits](https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh) | 3:27 | 2025-09-11 | 2025-12-12 |
@@ -2254,8 +2256,6 @@
 | [Tot Die Hane Kraai](https://open.spotify.com/track/6ZRJXfdin2BvNaNNJv4zaE) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Tot Die Hane Kraai](https://open.spotify.com/album/4eTLxQIXhAXmmaU06cC30y) | 3:28 | 2025-04-24 | 2025-07-25 |
 | [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 | 2024-07-27 |
 | [Totsiens](https://open.spotify.com/track/6BhA6x3RdgId5E8vrWGNHG) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Totsiens](https://open.spotify.com/album/5EFwOSXHsxpFAvSdXorPyw) | 2:44 | 2025-11-13 | 2026-02-13 |
-| [Track 2](https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Tot Daar Waar Die Lig Is](https://open.spotify.com/album/013qVYf9nNuJKQvELYzgh9) | 0:00 | 2026-05-07 |  |
-| [Track 2](https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [VYFTIG APOKRIEWE](https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4) | 0:00 | 2026-05-07 |  |
 | [Transkei](https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno) | [Sarel Kleinhans](https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv) | [Transkei](https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm) | 3:27 | 2022-12-01 | 2023-02-17 |
 | [Trap 'n Bietjie](https://open.spotify.com/track/16dVG5XQAtNfIY2pGK1Ca3) | [Jezelle](https://open.spotify.com/artist/5u28bJE9mbh1o28ax8R9WT) | [Trap 'n Bietjie](https://open.spotify.com/album/1a0BKlyhXVsRtwEPQUnrN1) | 2:57 | 2025-12-18 | 2026-02-06 |
 | [Trap Diep](https://open.spotify.com/track/1rVH54VvvAFeTKmdTJlH2Y) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Trap Diep](https://open.spotify.com/album/21CUAZLgw6FlkkzJAQPt9l) | 2:57 | 2025-09-25 | 2025-12-05 |

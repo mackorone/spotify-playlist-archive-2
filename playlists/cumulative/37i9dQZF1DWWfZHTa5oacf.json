@@ -732,7 +732,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 192203,
       "name": "Jab Talak - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
@@ -1578,6 +1578,36 @@
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "album": {
+        "name": "Tera Ho Jaun (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "url": "https://open.spotify.com/album/6dlroiIlnKYENWBIJygQVp"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160536,
+      "name": "Tera Ho Jaun (From \"Hai Jawani Toh Ishq Hona Hai\")",
+      "url": "https://open.spotify.com/track/4KrVfk5QMYwIvUC3q5p0la"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80813,
+  "num_followers": 80830,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Cocho",
-        "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 195353,
-      "name": "El Cocho",
-      "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "La Diuca",
         "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 200248,
       "name": "La Diuca",
       "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "El Cocho",
+        "url": "https://open.spotify.com/album/6YQ0XxcdYNnxGqg303Rebl"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 195353,
+      "name": "El Cocho",
+      "url": "https://open.spotify.com/track/1GHIKA3KDtjCJ8zzaK1QMk"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
-      },
-      "artists": [
-        {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Cabro Curao",
         "url": "https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 186936,
       "name": "El Cabro Curao",
       "url": "https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
+      },
+      "artists": [
+        {
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Vivo en Tinieblas",
-        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
+        "name": "El Mu\u00f1eco",
+        "url": "https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns"
       },
       "artists": [
         {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
         }
       ],
-      "duration_ms": 226727,
-      "name": "Vivo en Tinieblas",
-      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
+      "duration_ms": 238064,
+      "name": "El Mu\u00f1eco",
+      "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Mu\u00f1eco",
-        "url": "https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns"
+        "name": "Vivo en Tinieblas",
+        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
       "artists": [
         {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
         }
       ],
-      "duration_ms": 238064,
-      "name": "El Mu\u00f1eco",
-      "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"
+      "duration_ms": 226727,
+      "name": "Vivo en Tinieblas",
+      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
     },
     {
       "added_at": "2026-02-19 20:52:53",

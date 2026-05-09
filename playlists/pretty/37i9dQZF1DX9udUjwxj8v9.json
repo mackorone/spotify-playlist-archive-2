@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154691,
+  "num_followers": 154690,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "Vagabundo Ao Vivo",
         "url": "https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 289466,
       "name": "Caio No Suingue",
       "url": "https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     }
   ],
   "unique_name": "carnavalizar",

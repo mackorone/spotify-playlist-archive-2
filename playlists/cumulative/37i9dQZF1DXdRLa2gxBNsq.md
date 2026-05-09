@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-455 songs - 23 hr 5 min
+456 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Aliens](https://open.spotify.com/track/2hzxOH4HcrvXC5Zhcaw9Sf) | [Descontrol](https://open.spotify.com/artist/5s68pO3PnLX7aCF7s1ARbM) | [Aliens](https://open.spotify.com/album/2zSV2m3p4Gb5Rs9MATrAbW) | 2:28 | 2025-08-07 | 2025-09-12 |
 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 | 2023-12-08 |  |
 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 | 2023-12-08 | 2024-04-19 |
-| [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 |  |
+| [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 | 2026-05-09 |
 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 | 2025-10-09 |  |
 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 | 2024-11-21 | 2026-05-08 |
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
@@ -259,6 +259,7 @@
 | [Los Senderos del Faquir](https://open.spotify.com/track/5H9wmQyqIYKLlnAEG66YbL) | [Alkayata](https://open.spotify.com/artist/4MXRiGG7FclTSSc9bsZdzQ), [Samuel Barranco](https://open.spotify.com/artist/01n0og8D2QrWb7fWhxwYZS), [Def Con Dos](https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK), [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK), [Edu Guerrero](https://open.spotify.com/artist/4IJ3ztSKWieURfcgV5kCrU) | [Los Senderos del Faquir](https://open.spotify.com/album/4FN1bgQaXfOxlO8dbtXTjh) | 4:27 | 2026-02-01 | 2026-04-10 |
 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 | 2025-04-26 |
 | [línea 11](https://open.spotify.com/track/1OH2VSaW4bi3PxQznaWUXv) | [Salmonetes Enfadados](https://open.spotify.com/artist/7tuH22TfYXoNA5OfUhPedZ) | [línea 11](https://open.spotify.com/album/0cZCa7vy1WrIVBCA1W613R) | 3:11 | 2025-07-17 | 2025-08-22 |
+| [Madrid Ha Muerto](https://open.spotify.com/track/6jrDxmAS6m2xkSD9v74sXD) | [Dr\. Gayolas](https://open.spotify.com/artist/4vCE8m5O8lGQXiyggF06BC), [Puta España Musical](https://open.spotify.com/artist/7D94wSYN0Y9NrmXgqzckBq) | [Madrid Ha Muerto](https://open.spotify.com/album/4Ah7fYbucAHZzsXiwsryIk) | 3:43 | 2026-05-07 |  |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |
 | [Maldito Diablo](https://open.spotify.com/track/5QrdnEBmuq3D9QIBfmAC9l) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Maldito Diablo](https://open.spotify.com/album/5q1CMadsFjRRZNnl4Arkdi) | 2:57 | 2025-01-09 | 2025-02-08 |
 | [Mama, Come, Ríe, Traga](https://open.spotify.com/track/5LGo1evQmoLItCgoSwlzE6) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Mama, Come, Ríe, Traga](https://open.spotify.com/album/5vO66nn3MiYPl6d7LAZo1K) | 2:52 | 2025-02-13 | 2025-07-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 717 songs - 1 day 22 hr 25 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 723 songs - 1 day 22 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -725,5 +725,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 715 | [Intro: Girl Under The Grey Cloud.](https://open.spotify.com/track/4BQMnvSbKs5yVJHEkc7yUT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 1:13 |
 | 716 | [Ballet](https://open.spotify.com/track/67YvIafRKV8xNzMgfpzi9G) | [insyt.](https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O) | [Dancing by Myself](https://open.spotify.com/album/0hTdNZ4NgCPwE2Yt5cfXVZ) | 0:50 |
 | 717 | [Mis armas se habían caído al suelo](https://open.spotify.com/track/6GhMZ7nRMjbvXMxeIWlPof) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Libres antes del final](https://open.spotify.com/album/31ma1VIIRX5LubeBwpUP8X) | 2:06 |
+| 718 | [Far from Right](https://open.spotify.com/track/6f0OgGA8oU8anD99LKvX0Z) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Habibi](https://open.spotify.com/album/11vaCG8601u7A6ViFQIRXA) | 2:38 |
+| 719 | [Avamunha](https://open.spotify.com/track/7LrWqc19oooxbYAGm4sLLC) | [Antropoceno](https://open.spotify.com/artist/6GCGVM8PNMDCsWAWiMbmlZ) | [No Ritmo da Terra](https://open.spotify.com/album/53D5gJmRULnIXeI6vFRahB) | 2:17 |
+| 720 | [BFF](https://open.spotify.com/track/6r4ZQ4rh7VADvAvQITV0DL) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Beautiful Disaster](https://open.spotify.com/album/2QzilKeFlINfqFZZWzgv0J) | 2:25 |
+| 721 | [Is It Real?](https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 3:01 |
+| 722 | [as above so below](https://open.spotify.com/track/49686zZMNnSmbxXeQNns99) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Ti Steele](https://open.spotify.com/artist/13mA1mfFhAqUCwTLeB8Cmp) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 2:47 |
+| 723 | [Open Up](https://open.spotify.com/track/0NXJ0NZc4VbNWgCY3V7s2y) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Singin’ to an Empty Chair](https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y) | 5:05 |
 
-Snapshot ID: `AAAJDuAnuAfpkIxbVInMTdYatuHenuLc`
+Snapshot ID: `AAAJFCknHastQ0KKyCwe6HKRZLPGaAlE`

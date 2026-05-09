@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: TAYA",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: The Belonging Co.",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 580500,
       "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
@@ -4794,6 +4794,24 @@
       "duration_ms": 320946,
       "name": "Familiar Song",
       "url": "https://open.spotify.com/track/3DnP2FfQRJ2LrHHhZwiBlf"
+    },
+    {
+      "album": {
+        "name": "FATHER'S HOUSE",
+        "url": "https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360173,
+      "name": "FATHER'S HOUSE",
+      "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
     },
     {
       "album": {
@@ -6497,6 +6515,28 @@
     },
     {
       "album": {
+        "name": "He Shall Be Praised",
+        "url": "https://open.spotify.com/album/43VPtfSNzYl6qxsFMkZJVE"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372208,
+      "name": "He Shall Be Praised",
+      "url": "https://open.spotify.com/track/4mJ051qlagU9OHSZrB4bXY"
+    },
+    {
+      "album": {
         "name": "HE STILL MOVES",
         "url": "https://open.spotify.com/album/2HN3cWuYjpUOhQXIeOF2UK"
       },
@@ -7572,7 +7612,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 476166,
       "name": "How Awesome",
       "url": "https://open.spotify.com/track/5oF4UsxUmNg0MIveexiwOX"
@@ -11167,6 +11207,36 @@
     },
     {
       "album": {
+        "name": "Love Of My Life (Live)",
+        "url": "https://open.spotify.com/album/0CeeiriXCYTPYiKzk1z2Bl"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563991,
+      "name": "Love Of My Life - Live",
+      "url": "https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0"
+    },
+    {
+      "album": {
         "name": "Made For More",
         "url": "https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV"
       },
@@ -11244,7 +11314,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 214857,
       "name": "Magnify",
       "url": "https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD"
@@ -15720,7 +15790,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 286474,
       "name": "Sing Of Your Love",
       "url": "https://open.spotify.com/track/6DLdrBq8O4phg4ZG9Fzcdx"
@@ -16832,7 +16902,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 304584,
       "name": "THANK GOD I'M FREE",
       "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
@@ -18324,6 +18394,24 @@
       "duration_ms": 459754,
       "name": "The Worthy One - Live",
       "url": "https://open.spotify.com/track/08p3ubgxrY3Kks1lraTlLd"
+    },
+    {
+      "album": {
+        "name": "There Goes That Man (Live From LA)",
+        "url": "https://open.spotify.com/album/0ll8vWWFOJtbTUEDbhhQ4C"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391434,
+      "name": "There Goes That Man - Live From LA",
+      "url": "https://open.spotify.com/track/7k925ZA0zngjoMslHLYo8a"
     },
     {
       "album": {
@@ -20549,6 +20637,32 @@
     },
     {
       "album": {
+        "name": "Wondrous Cross (When I Survey)",
+        "url": "https://open.spotify.com/album/4q7bUASyy3q5cKYKgsQCdE"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Wondrous Cross (When I Survey)",
+      "url": "https://open.spotify.com/track/4XkcQH03mFG7ofpLmLG5xP"
+    },
+    {
+      "album": {
         "name": "Words We'll Sing Forever",
         "url": "https://open.spotify.com/album/54WBbnfppn8JKOiMz4vgvy"
       },
@@ -21044,7 +21158,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 316437,
       "name": "Yes, We Believe - Live",
       "url": "https://open.spotify.com/track/3d5k2RknTMIVeksMeYp3jf"
@@ -21270,6 +21384,24 @@
       "duration_ms": 304864,
       "name": "You Keep Your Promises - Live",
       "url": "https://open.spotify.com/track/0QgO8EeFMktU1vQUCduzFJ"
+    },
+    {
+      "album": {
+        "name": "You Prepare the Fire",
+        "url": "https://open.spotify.com/album/2QIQ0XXpJnwbfJ8OvlPABZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Webb",
+          "url": "https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320908,
+      "name": "You Prepare the Fire",
+      "url": "https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl"
     },
     {
       "album": {

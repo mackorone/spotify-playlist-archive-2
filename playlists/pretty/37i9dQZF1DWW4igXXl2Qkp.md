@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:2rs4EKIuoLOqrH89wLZ2mC">Iconic Savvy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,228 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,253 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 6 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
 | 7 | [holon?](https://open.spotify.com/track/2Po44AeaMfcBhb0vJQTouh) | [saveaj](https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv) | [holon?](https://open.spotify.com/album/2mbDefdJbbdCxP7DGDfkBp) | 2:04 |
 | 8 | [The Spokesman](https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD) | [HeadHuncho Amir](https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm) | [The Spokesman](https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h) | 2:33 |
-| 9 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Hardnard](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
+| 9 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
 | 10 | [OH](https://open.spotify.com/track/3BK0DfyqsvHbgsaempT8Bq) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [OH](https://open.spotify.com/album/2cagDANf723xW5ORlIghw5) | 2:07 |
 | 11 | [2C](https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [2C](https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi) | 3:03 |
 | 12 | [Think'n Bout You](https://open.spotify.com/track/4HXolmS05lHK3PiD13eQUb) | [Deadfaxe](https://open.spotify.com/artist/5Pkg1ypwUXMiLhrQYHOn4l) | [Who is Deadfaxe](https://open.spotify.com/album/5AGuw4Q15WbjOJZP0UYKnw) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [nah](https://open.spotify.com/track/4Bav3IRCgRgQncfVuBHwlX) | [Swapa](https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a) | [nah](https://open.spotify.com/album/0d3yCCs0ou3LGdLqoss5pZ) | 2:37 |
 | 75 | [SCUBA JUKE\(IT STANKKK\)](https://open.spotify.com/track/5wyY9C3wf87OquHFiV0Ze4) | [h5wk](https://open.spotify.com/artist/5qp4O6r1MOv1sYxfn8H2Ko) | [SCUBA JUKE\(IT STANKKK\)](https://open.spotify.com/album/0aeHHsqJEoBxhzyrv404nm) | 2:10 |
 
-Snapshot ID: `AAAAABwMecgGQHWtJl4AFbmxNNwWLOBc`
+Snapshot ID: `AAAAAIHHTVTRxgqNDTC0bMILgbFY2OzQ`

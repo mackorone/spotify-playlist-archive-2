@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Kurt Vile
 
-1,504 songs - 3 day 15 hr 18 min
+1,505 songs - 3 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Good Grief](https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 4:21 | 2026-02-19 | 2026-04-17 |
 | [Good Guy \- feat\. Faye Webster](https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Good Guy \(feat\. Faye Webster\)](https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW) | 4:01 | 2024-12-12 | 2025-01-17 |
 | [Good Guys](https://open.spotify.com/track/3lMHrOUPxDqNJQXL5cNpHk) | [Jujulipps](https://open.spotify.com/artist/6MwAhWiG2knasNMsFrJDEy) | [Good Guys](https://open.spotify.com/album/30u1jamcuxRgwq8SaZps6n) | 2:35 | 2024-10-17 | 2024-11-22 |
+| [Good Life](https://open.spotify.com/track/3Bw9w1WHZCKDPYWUtFzcgF) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Good Life](https://open.spotify.com/album/17PoH7ZbMqtdqvevZ64V9H) | 3:05 | 2026-05-08 |  |
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-19 | 2025-08-08 |
 | [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-22 | 2025-07-04 |
 | [Great Pretender](https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:51 | 2025-08-21 | 2025-12-05 |
@@ -831,6 +832,7 @@
 | [Love Vomit](https://open.spotify.com/track/1qWdaFIPrEiAtBvK3FGy5L) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Love Vomit](https://open.spotify.com/album/3vpGAg1Ph4u0abMSszKAgS) | 3:47 | 2025-08-21 | 2025-10-03 |
 | [Love You Still](https://open.spotify.com/track/0TgIQaoJL7rxGSPjW1AKgq) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Love You Still](https://open.spotify.com/album/1tsfKTRuEzjvqGQnzX9XOU) | 3:53 | 2025-04-24 | 2025-05-16 |
 | [lover girl!](https://open.spotify.com/track/0DhsGKUzigP9xrYCpVqm0N) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [lover girl!](https://open.spotify.com/album/0iwmlrk48ZNx0vMuLukJ9c) | 3:14 | 2025-11-20 | 2026-01-30 |
+| [Lovesick](https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Experiencing Feelings of Joy](https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F) | 3:54 | 2026-05-07 |  |
 | [Lucky Dimes](https://open.spotify.com/track/5RBsjWGHFmZlVeA4QuP9WI) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Lucky Dimes](https://open.spotify.com/album/5WeCbcQ2IxU5IFVx5zlf9f) | 3:28 | 2025-08-14 | 2025-09-26 |
 | [Lucky Star](https://open.spotify.com/track/0dyKAdVxw1ZR4Dm7ubUJmF) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lucky Star](https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS) | 4:44 | 2024-07-25 | 2024-10-04 |
 | [Lucy](https://open.spotify.com/track/7tCXixP04LDsacfpKJCBUE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lucy](https://open.spotify.com/album/2omalIN0hJYm2oC8PcqL43) | 2:49 | 2024-11-07 | 2025-01-31 |
@@ -1023,7 +1025,7 @@
 | [Physical Medicine](https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Physical Medicine](https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO) | 3:35 | 2024-07-04 | 2024-09-20 |
 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-20 | 2025-05-30 |
 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 | 2026-01-22 | 2026-02-27 |
-| [Pink Dress](https://open.spotify.com/track/3SySVpkLVKuXhEEUeczfgq) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Pink Dress](https://open.spotify.com/album/5siPYM6eCEjNxxReRbTkOD) | 2:54 | 2026-03-26 |  |
+| [Pink Dress](https://open.spotify.com/track/3SySVpkLVKuXhEEUeczfgq) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Pink Dress](https://open.spotify.com/album/5siPYM6eCEjNxxReRbTkOD) | 2:54 | 2026-03-26 | 2026-05-09 |
 | [Pink Flags](https://open.spotify.com/track/1wT3E655qZhcvrgx0MyXex) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Apxllo](https://open.spotify.com/album/0BAVls39bqAOUKu905F02T) | 3:40 | 2026-01-15 | 2026-02-20 |
 | [Pinkies](https://open.spotify.com/track/0jQNOTN94rrP2FJm5Q6mo7) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pinkies](https://open.spotify.com/album/6BSOTF3SxggoLOhAUXWodK) | 3:17 | 2024-10-17 | 2024-11-15 |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2024-09-20 |
@@ -1382,7 +1384,6 @@
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-11-14 |
-| [Track 8](https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Experiencing Feelings of Joy](https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F) | 0:00 | 2026-05-07 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 |  |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |

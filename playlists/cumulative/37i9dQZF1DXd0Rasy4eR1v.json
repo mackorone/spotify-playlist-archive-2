@@ -10059,6 +10059,32 @@
     },
     {
       "album": {
+        "name": "Infatuation",
+        "url": "https://open.spotify.com/album/2iD3sS3urwxpwFSssWGQai"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Hassan",
+          "url": "https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7"
+        },
+        {
+          "name": "Ammad Khan",
+          "url": "https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV"
+        },
+        {
+          "name": "Amaizy",
+          "url": "https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/5MFH8Y9ZnaovBH2toVshXN"
+    },
+    {
+      "album": {
         "name": "INFINITY",
         "url": "https://open.spotify.com/album/6OHslSAHF2yoyXN6tCCYmH"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469276,
+  "num_followers": 469270,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Data Passenger EP",
         "url": "https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 307278,
       "name": "Data Passenger",
       "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
+        "name": "As Fallen Leaves",
+        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+      },
+      "artists": [
+        {
+          "name": "Serge Geyzel",
+          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+        }
+      ],
+      "duration_ms": 299558,
+      "name": "Don't Know What You Are Thinking",
+      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
         "name": "Us, In Between The Blinded",
         "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 291666,
       "name": "Probably Wizards",
       "url": "https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
-        "name": "As Fallen Leaves",
-        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
-      },
-      "artists": [
-        {
-          "name": "Serge Geyzel",
-          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
-        }
-      ],
-      "duration_ms": 299558,
-      "name": "Don't Know What You Are Thinking",
-      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Yesterday Faded (Edit)",
-        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Yesterday Faded - Edit",
-      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Jump & Shuffle (Live at the Hardware Store)",
         "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202866,
       "name": "Jump & Shuffle - Live at the Hardware Store",
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Yesterday Faded (Edit)",
+        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Yesterday Faded - Edit",
+      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
+        "name": "Blumenfantasie",
+        "url": "https://open.spotify.com/album/10nHSPjnaJXh4SB89xVAjU"
+      },
+      "artists": [
+        {
+          "name": "Xylitol",
+          "url": "https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx"
+        },
+        {
+          "name": "Sculpture",
+          "url": "https://open.spotify.com/artist/3kOR6n2cPPPILMsWmKqpHk"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Chromophoria",
+      "url": "https://open.spotify.com/track/6US4JteSqL2pR5te7QZ152"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
         "name": "Minena",
         "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
       },
@@ -855,22 +875,6 @@
       "duration_ms": 275574,
       "name": "Minena",
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     }
   ],
   "unique_name": "Genre Glitch",

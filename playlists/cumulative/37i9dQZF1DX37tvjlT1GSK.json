@@ -117,6 +117,32 @@
     },
     {
       "album": {
+        "name": "24/siete",
+        "url": "https://open.spotify.com/album/2bBmW0IKf5DkJunEb2EzTC"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Gerardo Mercado",
+          "url": "https://open.spotify.com/artist/3uQSc2G13vlxsMDBb92llt"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193243,
+      "name": "24/siete",
+      "url": "https://open.spotify.com/track/3gJmHU5pw1Gi0sCsxXu1aw"
+    },
+    {
+      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -3601,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "El Pajarillo",
+        "url": "https://open.spotify.com/album/1tR4f1JVZeNwm914KsD7Gs"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253423,
+      "name": "El Pajarillo",
+      "url": "https://open.spotify.com/track/2AzqUNC3BEtqpHhnbuM7Q3"
+    },
+    {
+      "album": {
         "name": "El Plebe del Rancho",
         "url": "https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK"
       },
@@ -5296,7 +5340,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
@@ -7274,7 +7318,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"

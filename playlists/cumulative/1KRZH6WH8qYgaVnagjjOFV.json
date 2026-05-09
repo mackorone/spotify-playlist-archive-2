@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "make heaven crowded",
+        "url": "https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179407,
+      "name": "make heaven crowded",
+      "url": "https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF"
+    },
+    {
+      "album": {
         "name": "Making Room",
         "url": "https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo"
       },
@@ -3224,6 +3242,28 @@
       "duration_ms": 201106,
       "name": "The 99",
       "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
+    },
+    {
+      "album": {
+        "name": "The Author",
+        "url": "https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276651,
+      "name": "The Author",
+      "url": "https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb"
     },
     {
       "album": {

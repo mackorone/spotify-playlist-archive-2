@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-591 songs - 1 day 23 hr 17 min
+594 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Be Like Water](https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [MP Productions \- EP 1](https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT) | 3:48 | 2021-10-06 | 2024-04-19 |
 | [Becoming One](https://open.spotify.com/track/3s2YgR2wqln3Q69YubN3Nc) | [Decoder](https://open.spotify.com/artist/1IURUyIPZTz2yxRdFinPoD) | [Prakasa](https://open.spotify.com/album/7fvj5d1RIua3AN5tnJ8JHW) | 5:54 | 2026-02-26 |  |
 | [Before I Leave](https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Endless Summer](https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF) | 4:08 | 2024-01-02 | 2025-09-06 |
-| [Beneath The Surface](https://open.spotify.com/track/7lc2KfqlA9ME6qT2NCexZv) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Undertones](https://open.spotify.com/album/46GLjWOwb7mUbWyhvgQgfQ) | 5:34 | 2025-10-17 |  |
+| [Beneath The Surface](https://open.spotify.com/track/7lc2KfqlA9ME6qT2NCexZv) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Undertones](https://open.spotify.com/album/46GLjWOwb7mUbWyhvgQgfQ) | 5:34 | 2025-10-17 | 2026-05-09 |
 | [Bergen](https://open.spotify.com/track/6AhRffpaXubqSn4lHMfmyk) | [Ertoz](https://open.spotify.com/artist/4d7FnTdZG753sLDlnOOzOH) | [Bergen](https://open.spotify.com/album/1iDL1GIkT2T7EkXUwcw7Xy) | 5:50 | 2021-10-06 | 2025-07-17 |
 | [Between here and Home](https://open.spotify.com/track/51bxq4EgwFyQdQwfo1foJm) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 5:38 | 2025-04-11 |  |
 | [Bialystok](https://open.spotify.com/track/6izg1zwpwWMcngjHlOSHan) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Evaporator](https://open.spotify.com/album/0uB9jp5XGssp3jbEpWdSId) | 4:29 | 2026-02-26 | 2026-04-18 |
@@ -120,7 +120,7 @@
 | [Climate Flu](https://open.spotify.com/track/6RyTgXg86oSjqQFIdZQa1Z) | [Duckett](https://open.spotify.com/artist/2F1Xapfmt9HXopbgBuAfvC), [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [The Climate Flu EP](https://open.spotify.com/album/4DGpoqInR89VMUTzrrRBhs) | 6:41 | 2021-10-06 | 2022-07-22 |
 | [Climbing Up](https://open.spotify.com/track/5ohckOzltNPpAnD0NRZvI0) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Climbing Up](https://open.spotify.com/album/3XTJoBHsc1J6kgVM294lgW) | 4:19 | 2021-10-06 | 2025-07-17 |
 | [Clipping Me Softly](https://open.spotify.com/track/2QFMAZaqloahLVRwzBpp2Q) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Clipping Me Softly](https://open.spotify.com/album/2qMwpTLG3fk0fE38eu4aWT) | 6:15 | 2026-04-10 |  |
-| [Closer](https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Heartbreaker](https://open.spotify.com/album/6N8BQWnkKn41TwAKPw6XMW) | 4:35 | 2026-02-20 |  |
+| [Closer](https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Heartbreaker](https://open.spotify.com/album/6N8BQWnkKn41TwAKPw6XMW) | 4:35 | 2026-02-20 | 2026-05-09 |
 | [Cloud Cover \- Andrew Weatherall Remix](https://open.spotify.com/track/5MUjW4dKNA5EHnFZ0vQDxH) | [GLOK](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [The Citadel EP](https://open.spotify.com/album/0aWvSmTezkoPwXmCp9uctn) | 6:27 | 2021-10-06 | 2025-07-17 |
 | [Clunk](https://open.spotify.com/track/6ejdJ2xb9TmORns4kJub78) | [LWS](https://open.spotify.com/artist/1txjnpEcHM03wCprQmWxVl) | [Clunk / Tar](https://open.spotify.com/album/0gQYjcu4sIrJgoOFEq4sUE) | 6:53 | 2025-10-17 |  |
 | [Cmon](https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:20 | 2023-05-09 | 2025-05-21 |
@@ -364,6 +364,7 @@
 | [OPEN CLOSE](https://open.spotify.com/track/7r1Tec2uXP3ql4FEIyXaIE) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [OPEN CLOSE](https://open.spotify.com/album/37riufxJR8bZVlUtE0x7WS) | 8:47 | 2025-09-19 | 2026-01-31 |
 | [Open Wide](https://open.spotify.com/track/3FyeVXkDnkVem3Oh0To4eq) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:58 | 2025-06-06 | 2025-11-04 |
 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 | 2021-10-06 | 2025-07-17 |
+| [Oracle \- Verraco Weightless Reshape](https://open.spotify.com/track/79JfmfngzNC87b92PcsozS) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Oracle \(Verraco Weightless Reshape\)](https://open.spotify.com/album/2fj4YX2wX1TyRetnwSoLNb) | 6:36 | 2026-05-08 |  |
 | [Other Means](https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Other Means](https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl) | 4:24 | 2024-04-15 | 2025-09-06 |
 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 | 2021-10-06 | 2025-07-17 |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2025-07-17 |
@@ -447,7 +448,7 @@
 | [Silken Place](https://open.spotify.com/track/4HLMg8naWj2VbsxBzutuok) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [Silken Place](https://open.spotify.com/album/5h0egqEerHyLwaLQ1tNZAJ) | 3:30 | 2026-02-04 | 2026-04-18 |
 | [Sirens](https://open.spotify.com/track/0i6ZkbAKQvMzi1sgtVzIHq) | [Los Pulpitos](https://open.spotify.com/artist/7ABaeJZHvaqUVZpvI0ohgO) | [Tentacletek](https://open.spotify.com/album/6Tzx3FfxinTEuNRlsjakdj) | 5:02 | 2026-04-17 |  |
 | [Situation](https://open.spotify.com/track/27tZEHD9GHnZpH6h7vXB1F) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [In Situ](https://open.spotify.com/album/2n6gIMQKyacV5zPrhE9XCm) | 4:29 | 2021-10-06 | 2025-06-07 |
-| [Skyline 4](https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [GULP](https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB) | 4:51 | 2025-07-09 |  |
+| [Skyline 4](https://open.spotify.com/track/0NPc0aoXeit86d258AxRqw) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [GULP](https://open.spotify.com/album/1kBPEN3NIVwjdmIjjNk9vB) | 4:51 | 2025-07-09 | 2026-05-09 |
 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 | 2022-01-12 | 2025-07-17 |
 | [slk](https://open.spotify.com/track/3iHzaYi63LNmpCIyYwelKq) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [slk](https://open.spotify.com/album/7mX1PuRdAWQ8y8Cql8II7a) | 5:00 | 2025-11-03 |  |
 | [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 | 2024-07-02 | 2025-06-07 |
@@ -494,6 +495,7 @@
 | [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-06 | 2025-07-17 |
 | [Tension](https://open.spotify.com/track/778hZhIUVg9QVvNBqs6SLT) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Tension](https://open.spotify.com/album/3oAtVXftA2Tkwa5QCAXzfZ) | 3:48 | 2021-10-06 | 2022-07-23 |
 | [Test Chamber](https://open.spotify.com/track/794emFbnhUQHynnHqF3aKp) | [Scaefa](https://open.spotify.com/artist/6bNlhbH7vyAMmzj3zFRc3U) | [Test Chamber / Responsible](https://open.spotify.com/album/2rWiA0yReoSJRoADfaG7lW) | 5:36 | 2025-11-03 |  |
+| [The Answer \- Kelbin Remix](https://open.spotify.com/track/4vWExxBOpNhqdA30uD0gzr) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [The Answer Breaks \(Remixes\)](https://open.spotify.com/album/2vWjTZb4F95TGjKHjOcf66) | 3:22 | 2026-05-08 |  |
 | [The biggest cry of my life](https://open.spotify.com/track/1JY9zO2xbhnQATyYHcOnyx) | [Pleading Fern](https://open.spotify.com/artist/504vn9PZIVuHiwCAmP5cMY) | [ENFASIA](https://open.spotify.com/album/53qTBNSzhralqI8Q25HtKJ) | 4:12 | 2025-03-14 | 2025-09-16 |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7mPnhyfo0PHMmCM8d2nuyA) | 5:54 | 2022-09-21 | 2024-04-19 |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 | 2022-09-21 | 2025-07-17 |
@@ -599,5 +601,6 @@
 | [ニイミ](https://open.spotify.com/track/6uXnpJHSF3kWKMdy3EX1tU) | [Kentaro Minoura](https://open.spotify.com/artist/0xzPunBbhUsUCfv5WaxYGb) | [御徒街徒御](https://open.spotify.com/album/00NDibpwFIVSYsD9DRR4H1) | 5:22 | 2021-10-06 | 2025-07-17 |
 | [悲哀](https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 9:23 | 2021-10-06 | 2025-06-07 |
 | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 | 2026-03-06 |  |
+| [･･･ ･－ ･･ ･－･･ ･ －･･](https://open.spotify.com/track/2puMGofzX4oeRpZRNPL6Ms) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [･･･ ･－ ･･ ･－･･ ･ －･･](https://open.spotify.com/album/1wlPVruRAiEOIFWLQahnJx) | 4:21 | 2026-05-08 |  |
 
 \*This playlist was first scraped on 2022-02-17. Prior content cannot be recovered.

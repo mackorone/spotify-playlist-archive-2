@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Shai Gilgeous-Alexander and LeBron James",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Jalen Brunson and V. J. Edgecombe",
   "name": "Locked In",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 163137,
       "name": "300 (feat. BabyDrill & Tommy 2)",
       "url": "https://open.spotify.com/track/56cfXGd2vsKD9RKH9QZhA7"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 215000,
       "name": "Ain't Easy",
       "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
@@ -9192,7 +9192,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
@@ -12002,7 +12002,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 120944,
       "name": "Omens",
       "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
@@ -16324,7 +16324,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146666,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/11S1sUabJj7rArvWDFb491"
@@ -18169,6 +18169,24 @@
     },
     {
       "album": {
+        "name": "BIANCA (Extended)",
+        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
+    },
+    {
+      "album": {
         "name": "WE ON GO III (feat. TiaCorine)",
         "url": "https://open.spotify.com/album/7anCPgsODKsvaQqozZq00L"
       },
@@ -18184,7 +18202,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 165801,
       "name": "WE ON GO III (feat. TiaCorine)",
       "url": "https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58"
@@ -18708,7 +18726,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 156734,
       "name": "WOAH",
       "url": "https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y"
@@ -18872,6 +18890,24 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "album": {
+        "name": "Ya Dig",
+        "url": "https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "Ya Dig",
+      "url": "https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm"
     },
     {
       "album": {

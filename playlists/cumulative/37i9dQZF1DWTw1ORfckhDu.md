@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,178 songs - 2 day 7 hr 53 min
+1,179 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Hanoi](https://open.spotify.com/track/6dBcCJ36dqc6sIfN66q6jN) | [Hyvää Viikonloppua](https://open.spotify.com/artist/69zcpsaBZgrB5xGV288qDc) | [Hanoi](https://open.spotify.com/album/2DUe8nH7d5c9w82KF0Gw2C) | 2:54 | 2024-04-11 | 2024-04-26 |
 | [HARAKOITA](https://open.spotify.com/track/6BtkjoeN6MZq5FJDCa6mIC) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [HARHAKUVA](https://open.spotify.com/album/18yWI9Lw3YyEhvBextwa39) | 2:39 | 2025-09-04 | 2025-09-13 |
 | [Haram Para](https://open.spotify.com/track/3WLohOzrKxma7zGQ4Uhnnm) | [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Haram Para](https://open.spotify.com/album/0VGPeMc9vGVp5WDscvRHRH) | 3:00 | 2024-02-01 | 2024-02-16 |
-| [Harhakuva](https://open.spotify.com/track/1SEZl6iA6FXsGwqZyHWuEZ) | [Nyrkki\-Kyllikki](https://open.spotify.com/artist/5Vptno5IcVmVtIKqb6jd7F) | [Harhakuva](https://open.spotify.com/album/2p9km079Xz8EhfvQgGlAkx) | 3:02 | 2026-05-07 |  |
+| [Harhakuva](https://open.spotify.com/track/1SEZl6iA6FXsGwqZyHWuEZ) | [Nyrkki\-Kyllikki](https://open.spotify.com/artist/5Vptno5IcVmVtIKqb6jd7F) | [Harhakuva](https://open.spotify.com/album/2p9km079Xz8EhfvQgGlAkx) | 3:02 | 2026-05-07 | 2026-05-09 |
 | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl) | 2:21 | 2024-08-22 | 2024-09-20 |
 | [Harmaampii \(feat\. Diandra\)](https://open.spotify.com/track/4hxBtIIVwckqlp7tRx22Cz) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Diandra](https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg) | [Harmaampii \(feat\. Diandra\)](https://open.spotify.com/album/2TqksxQm771Dx82acCi9ln) | 2:41 | 2025-06-05 | 2025-06-20 |
 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 | 2025-08-28 | 2026-01-18 |
@@ -677,6 +677,7 @@
 | [My Type](https://open.spotify.com/track/01ObZaXP84IzVsPezAOaCM) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [My Type](https://open.spotify.com/album/76xn8VPNXTOoB1Q1x7QcIj) | 2:39 | 2024-06-13 | 2024-07-02 |
 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 | 2024-10-17 | 2025-01-03 |
 | [Mä + Sä](https://open.spotify.com/track/3EqXVoA4m7ZXwwH3rbnNXx) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Mä + Sä](https://open.spotify.com/album/0KamvhJfssRJURAfaMSdja) | 2:55 | 2023-09-21 | 2023-10-06 |
+| [mä <3 mä](https://open.spotify.com/track/6dPFo2kfpysF2bgpVj5cvf) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [mä <3 mä](https://open.spotify.com/album/5ZRhPtui7bSrPJqHiRFz6H) | 2:31 | 2026-05-07 |  |
 | [Mä en oo vetäny mitään](https://open.spotify.com/track/7rwD7BTXfo0KUPXn7X4vZ6) | [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Mä en oo vetäny mitään](https://open.spotify.com/album/1wSJPcFDClFquQxUfEkufV) | 3:30 | 2023-09-28 | 2023-10-20 |
 | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/track/7g1CmPDygUhWbEbFT56NGV) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5) | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/album/522uwsnZbLAr57UwMXoLaB) | 3:33 | 2025-05-29 | 2025-08-30 |
 | [MÄ EN VOI HÄVII](https://open.spotify.com/track/5fB4hLoPMGRtGbVAzDHQWi) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [RÄPPÄRI](https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq) | 3:22 | 2023-11-02 | 2024-01-19 |

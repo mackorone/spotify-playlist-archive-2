@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,302 likes - 142 songs - 8 hr 22 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,302 likes - 146 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 140 | [The Mother Queen](https://open.spotify.com/track/7DBHGfn4d81ewfxrR6bnI1) | [C Sid](https://open.spotify.com/artist/1Eus7ZGhBokA7SGOfamkO4) | [The Mother Queen](https://open.spotify.com/album/7vecgHo5Q44U89qealMXgJ) | 2:51 |
 | 141 | [Daisy](https://open.spotify.com/track/7npwAYFx5673E5LXZaznWv) | [Kendra Lyttle](https://open.spotify.com/artist/4s5N5lEaKpnNVpCTYSeQ8V) | [Daisy](https://open.spotify.com/album/3p0z8pRmd0uLys45punzKH) | 5:44 |
 | 142 | [Who Told You, You Could Have Eyes Like That?](https://open.spotify.com/track/5X7cmejiyC0x8hPss6oGZk) | [Something About Bears](https://open.spotify.com/artist/0U9HclSerBG3C6TaX6aHY8) | [Who Told You, You Could Have Eyes Like That?](https://open.spotify.com/album/19YQgY5PY7Jwr1TWPfoCZu) | 3:16 |
+| 143 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 |
+| 144 | [Perfect Paradise](https://open.spotify.com/track/0G2RueU8XoUokKD2pDWvVa) | [Jaco Muller](https://open.spotify.com/artist/5fYU4xr6F9OJecUbU2xHeo) | [Perfect Paradise](https://open.spotify.com/album/3GbHrP9cSd59SaLrvf1RZw) | 3:48 |
+| 145 | [Sing That Note](https://open.spotify.com/track/6agxfeIlKwBzmOTkqO3j2c) | [Justyn Cairo](https://open.spotify.com/artist/6Ej4tehqEWvLRd23RkS9a6) | [Heart of Gold](https://open.spotify.com/album/2ETuq1DDCZryjQQFNJxPLz) | 2:56 |
+| 146 | [Freedom Over Us](https://open.spotify.com/track/2rN906QcRLaoCNU0BLWKbx) | [LORIAN](https://open.spotify.com/artist/1FFOakr7SAJqq2yVHBHJ3d) | [Freedom Over Us](https://open.spotify.com/album/7yDNUYCavjlEcqXZ8YTOMc) | 3:44 |
 
-Snapshot ID: `AAAT1V+ETufUXbWz3EipIuDA7nG6wxhq`
+Snapshot ID: `AAAT2aZyj2UFL5qebRH0yWECJqik/yD0`

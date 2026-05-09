@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149931,
       "name": "(todo lo que haces para no acordarte de mi)",
       "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Algo que decirte",
+        "url": "https://open.spotify.com/album/1EMlkl5qsaFQqWbeRVKjJ4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176721,
+      "name": "Algo que decirte",
+      "url": "https://open.spotify.com/track/7chnaUARE0kchT39P2mDD0"
+    },
+    {
+      "album": {
         "name": "Algod\u00f3n",
         "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
       },
@@ -1727,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "ati!",
+        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "ati!",
+      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
+    },
+    {
+      "album": {
         "name": "SMTO",
         "url": "https://open.spotify.com/album/6LDbYYP5GFO7Y0iTerv4n2"
       },
@@ -2232,6 +2268,24 @@
       "duration_ms": 137000,
       "name": "Bajo El Sol",
       "url": "https://open.spotify.com/track/1NC4ekXkSHiYoUMANvQ09E"
+    },
+    {
+      "album": {
+        "name": "Baldosas Amarillas",
+        "url": "https://open.spotify.com/album/0VtrFuR6cadEBhZQ1zOQdz"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "Baldosas Amarillas",
+      "url": "https://open.spotify.com/track/7qEd0ZZUxcD0BhaAPrHZib"
     },
     {
       "album": {
@@ -5284,7 +5338,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 192195,
       "name": "D U L C E",
       "url": "https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX"
@@ -7198,7 +7252,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 134446,
       "name": "ENCONTREMOS UNA MANERA",
       "url": "https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb"
@@ -7968,6 +8022,28 @@
       "duration_ms": 183157,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
+    },
+    {
+      "album": {
+        "name": "FA-TAL!",
+        "url": "https://open.spotify.com/album/0dqT5jHobeFyFokLG4VsFj"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "FA-TAL!",
+      "url": "https://open.spotify.com/track/6nd4ow9awpeLLY1m7mlTVu"
     },
     {
       "album": {
@@ -8830,7 +8906,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 191765,
       "name": "Goo Goo Ga Ga",
       "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
@@ -11615,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Me Pasa Con Vos",
+        "url": "https://open.spotify.com/album/3sRTcR6FPM2qjNdgjzypyR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Augusto Alonso",
+          "url": "https://open.spotify.com/artist/7zsGAMqfUTjYX6Ds4vQobc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173220,
+      "name": "Lo Que Me Pasa Con Vos",
+      "url": "https://open.spotify.com/track/1RpfAoumnZkn6Cmz2ARlG2"
+    },
+    {
+      "album": {
         "name": "Lo que odias de mi",
         "url": "https://open.spotify.com/album/3Cp4veECoGqqtSVrv7q8GP"
       },
@@ -11810,7 +11908,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 189429,
       "name": "Los Paraca\u00eddas",
       "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
@@ -13248,7 +13346,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 214140,
       "name": "Mi Terraza",
       "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
@@ -14080,6 +14178,28 @@
       "duration_ms": 199531,
       "name": "nada de nada",
       "url": "https://open.spotify.com/track/11Ycp611BypMSPvJy6su4S"
+    },
+    {
+      "album": {
+        "name": "nada para nadie :(:",
+        "url": "https://open.spotify.com/album/6B2AIgocZxQd7iQsO69s0o"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142007,
+      "name": "nada para nadie :(:",
+      "url": "https://open.spotify.com/track/34vEg8VafGWSWPnNTpjhOv"
     },
     {
       "album": {
@@ -18070,7 +18190,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 161030,
       "name": "Regalito",
       "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
@@ -23010,6 +23130,24 @@
       "duration_ms": 194755,
       "name": "YOU COULD BE THAT BOY",
       "url": "https://open.spotify.com/track/6k5dlT8rllGwzWSAbjtySZ"
+    },
+    {
+      "album": {
+        "name": "Niveles",
+        "url": "https://open.spotify.com/album/7MOn2evVZrAUQ0BntiZIti"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "You Just Don't Got It",
+      "url": "https://open.spotify.com/track/4v2zsXCrFq80509A2LPsdH"
     },
     {
       "album": {

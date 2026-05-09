@@ -1,6 +1,6 @@
 {
   "description": "New music from Aaron Blommaert & Zo\u00eb Livay, Milk Inc., Calvin Harris, Lykke Li and more...",
-  "num_followers": 50443,
+  "num_followers": 50609,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
       "duration_ms": 160999,
       "name": "Ne reviens pas",
       "url": "https://open.spotify.com/track/2cVwmAFE0ZlTQ3K14bHx5I"
+    },
+    {
+      "added_at": "2026-05-07 22:02:19",
+      "album": {
+        "name": "Rock Music",
+        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 115106,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
     },
     {
       "added_at": "2026-05-07 22:02:19",
@@ -548,7 +564,7 @@
           "url": "https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv"
         }
       ],
-      "duration_ms": 211814,
+      "duration_ms": 213247,
       "name": "Need You By My Side",
       "url": "https://open.spotify.com/track/28CaJOeYgNioyIyVLqBPue"
     },
@@ -599,6 +615,22 @@
       "duration_ms": 143260,
       "name": "SALES GOSSES",
       "url": "https://open.spotify.com/track/1xQTJT3CIkboRAChRaqm9O"
+    },
+    {
+      "added_at": "2026-05-07 22:02:19",
+      "album": {
+        "name": "ORIGAMI!",
+        "url": "https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "ORIGAMI!",
+      "url": "https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7"
     },
     {
       "added_at": "2026-05-07 22:02:19",
@@ -680,8 +712,8 @@
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
       "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
@@ -1304,8 +1336,8 @@
           "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 234292,
+      "name": "Lovesick",
       "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
     },
     {
@@ -1710,10 +1742,18 @@
         {
           "name": "Konshens",
           "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 175000,
+      "name": "Like We",
       "url": "https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s"
     },
     {
@@ -1984,8 +2024,8 @@
           "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 156521,
+      "name": "SOS",
       "url": "https://open.spotify.com/track/6bCPfJD185BvbWRTBoZC4p"
     },
     {
@@ -2000,7 +2040,7 @@
           "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 204000,
+      "duration_ms": 202911,
       "name": "Wide Eyed",
       "url": "https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7"
     },

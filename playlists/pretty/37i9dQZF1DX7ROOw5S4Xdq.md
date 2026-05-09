@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Arianne, Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,913 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,118 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 4 | [Deus do Impossível \- Ao Vivo](https://open.spotify.com/track/763kVWdtTkG5SBbhKYJ14G) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Deus do Impossível \(Ao Vivo\)](https://open.spotify.com/album/6nvq6m8S1YPFpYGttGc8yC) | 5:37 |
 | 5 | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/track/6Uo6Cs3BIRUGt3hvvCE6Tz) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Guarda de Israel \(Ao Vivo\)](https://open.spotify.com/album/5A77N7VrbxqnMAZ75mVBP9) | 3:46 |
 | 6 | [Denuncie](https://open.spotify.com/track/3xt8k1IP83vsD91cvZbIzj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Denuncie](https://open.spotify.com/album/7ikSwlwNN1fKx11e73GfpP) | 3:05 |
-| 7 | [João 4,23 \- Ao Vivo](https://open.spotify.com/track/7k61Lfi61Icn4RmRVSpS1J) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Live Session \- Ao Vivo no Summer Beats](https://open.spotify.com/album/17m3CrnmgRkC0y3WZ470cI) | 6:02 |
+| 7 | [João 4,23 \- Ao Vivo](https://open.spotify.com/track/7k61Lfi61Icn4RmRVSpS1J) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Live Session \- Ao Vivo no Summer Beats](https://open.spotify.com/album/17m3CrnmgRkC0y3WZ470cI) | 5:58 |
 | 8 | [Melhor Lugar \- Acústico](https://open.spotify.com/track/6g45t9sM6BJ6WzziNJ302Z) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Melhor Lugar \(Acústico\)](https://open.spotify.com/album/2no2eM5GNJY3EONluvAkpz) | 5:29 |
 | 9 | [NÃO CHORE JOÃO](https://open.spotify.com/track/6dvUdd19BulcH9rIkZd18F) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [{Ao Senhor•Aos Santos•Ao Mundo}](https://open.spotify.com/album/1p8TnsMRhfPCTLd0u3NeOF) | 5:03 |
 | 10 | [Não Vou Calar Meus Lábios \- Acústico](https://open.spotify.com/track/50egfQs22j9dkGUEBjgPyj) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [VERSÕES VOL\. 3: Fernandinho e Paula \(Acústico\)](https://open.spotify.com/album/5IZMV2dW87j5I2zQZNlRBL) | 4:48 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,022 songs - 4 day 13 hr 43 min
+2,023 songs - 4 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2001,7 +2001,8 @@
 | [Éphémère](https://open.spotify.com/track/38ScqSqk6waJywIlVrl8K8) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Tornado](https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D) | 2:57 | 2026-04-10 | 2026-04-13 |
 | [ÉVIDEMMENT](https://open.spotify.com/track/0T7FfRXznp9WnMCY8gvWIc) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [Miracle](https://open.spotify.com/album/5euNvWqq6drNsuB4waFBcI) | 3:28 | 2026-04-25 | 2026-05-07 |
 | [ÉVIDEMMENT](https://open.spotify.com/track/2SlYKyAt0flJtDNjQqOwLh) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [ÉVIDEMMENT](https://open.spotify.com/album/2sTrB03DSMttKn9qZs5tc2) | 3:28 | 2026-04-11 | 2026-04-26 |
-| [Évidemment](https://open.spotify.com/track/5RD2p6VgIUywa7GpoQ3lxg) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [Miracle](https://open.spotify.com/album/3hHnbixHGceIDNZtjb6Lov) | 3:28 | 2026-05-06 |  |
+| [Évidemment](https://open.spotify.com/track/5RD2p6VgIUywa7GpoQ3lxg) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [Miracle](https://open.spotify.com/album/3hHnbixHGceIDNZtjb6Lov) | 3:28 | 2026-05-06 | 2026-05-09 |
+| [Évidemment](https://open.spotify.com/track/65oVVbbpt7AT6ImY2olX2y) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [Miracle](https://open.spotify.com/album/2fQwdyPID2ZJ1kyszUy4Pr) | 3:28 | 2026-05-08 |  |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-11-28 |
 | [ØKHØWA Pt\. 1](https://open.spotify.com/track/4CN9wmLEQWdB92GcCd24Nq) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:18 | 2023-01-28 | 2023-02-02 |
 | [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 | 2023-01-28 | 2023-02-21 |

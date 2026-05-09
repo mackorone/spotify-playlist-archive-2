@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "on repeat for a reason. cover: Mikayla Geier",
+  "description": "on repeat for a reason. cover: Tiffany Stringer",
   "name": "young & free",
   "tracks": [
     {
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185318,
       "name": "Blame it on You",
       "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 157567,
       "name": "Cherry Red Balloon",
       "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
@@ -11010,6 +11010,24 @@
       "duration_ms": 162442,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl"
+    },
+    {
+      "album": {
+        "name": "depressed on the internet",
+        "url": "https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "depressed on the internet",
+      "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
     },
     {
       "album": {
@@ -28145,6 +28163,24 @@
     },
     {
       "album": {
+        "name": "locket deluxe",
+        "url": "https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201294,
+      "name": "lovergirl",
+      "url": "https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7"
+    },
+    {
+      "album": {
         "name": "Lovers Table",
         "url": "https://open.spotify.com/album/71FzM9GDwiZTHaKQSklFZu"
       },
@@ -37102,7 +37138,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
@@ -43447,6 +43483,24 @@
     },
     {
       "album": {
+        "name": "The Lone Starlet",
+        "url": "https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155729,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
+    },
+    {
+      "album": {
         "name": "Mirror Master",
         "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
@@ -48010,7 +48064,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 224210,
       "name": "Vespa",
       "url": "https://open.spotify.com/track/1O0LDELRqSQDp6fJ33IdY8"
@@ -49436,6 +49490,24 @@
       "duration_ms": 196870,
       "name": "what's the matter with you",
       "url": "https://open.spotify.com/track/51ov0GSQflAdL1IRga0zSF"
+    },
+    {
+      "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
     },
     {
       "album": {

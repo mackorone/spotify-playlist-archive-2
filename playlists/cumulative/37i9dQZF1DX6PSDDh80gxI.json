@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213800,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 251642,
       "name": "dettagli",
       "url": "https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz"
@@ -3302,6 +3302,24 @@
       "duration_ms": 197629,
       "name": "Gommage",
       "url": "https://open.spotify.com/track/6I7xsGvMbY2B0jhqi6Fjua"
+    },
+    {
+      "album": {
+        "name": "RADIO LIBERATO",
+        "url": "https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134109,
+      "name": "GOODBYE",
+      "url": "https://open.spotify.com/track/2ZH19837UPTc2kT9n6qkoD"
     },
     {
       "album": {
@@ -5438,6 +5456,28 @@
       "duration_ms": 195790,
       "name": "Me l'hai detto tu (feat. chiamamifaro)",
       "url": "https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan"
+    },
+    {
+      "album": {
+        "name": "RADIO LIBERATO",
+        "url": "https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        },
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "ME STAJE APPENNENN' AM\u00d2 \u2013 di Calcutta",
+      "url": "https://open.spotify.com/track/4A7vpGCKxD5B1W3sMD6Gfp"
     },
     {
       "album": {
@@ -8417,6 +8457,24 @@
     },
     {
       "album": {
+        "name": "Nuda Propriet\u00e0",
+        "url": "https://open.spotify.com/album/16nWe1V9fqPFYuspfzt5Nn"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190959,
+      "name": "Signora",
+      "url": "https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d"
+    },
+    {
+      "album": {
         "name": "FUORI MEN\u00d9",
         "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
       },
@@ -8476,7 +8534,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183870,
       "name": "Sirene sulla Luna",
       "url": "https://open.spotify.com/track/1b6a73kDPEKLZxw5YfMerN"
@@ -9172,7 +9230,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 209266,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa"
@@ -9512,6 +9570,28 @@
       "duration_ms": 183544,
       "name": "Tutti i Miei Piani",
       "url": "https://open.spotify.com/track/1ygdH0oCaLBxNuLWstQYEP"
+    },
+    {
+      "album": {
+        "name": "Esordienti 1994",
+        "url": "https://open.spotify.com/album/7feRUSGS3HffjLaYzeOPPS"
+      },
+      "artists": [
+        {
+          "name": "SCAR",
+          "url": "https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193992,
+      "name": "Tutto ci\u00f2 che odio (feat. 18K)",
+      "url": "https://open.spotify.com/track/2FU3zLtHc8pgWfom7D4td7"
     },
     {
       "album": {

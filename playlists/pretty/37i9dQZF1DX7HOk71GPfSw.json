@@ -1,32 +1,32 @@
 {
-  "description": "the party is where u.r.",
-  "num_followers": 500313,
+  "description": "May God Save The Three \ud83c\udf0a",
+  "num_followers": 500389,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKArznGIHSz80RrhJAmvIFTZDTOg",
+  "snapshot_id": "AAAAAPI/hRkoA7rCKQ2LDxwonfcFe8nF",
   "tracks": [
     {
-      "added_at": "2026-04-24 14:28:02",
+      "added_at": "2026-05-08 04:03:55",
       "album": {
-        "name": "the party is where u.r.",
-        "url": "https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf"
+        "name": "God Save The Three",
+        "url": "https://open.spotify.com/album/0lwdzU4UMx8ISISDqrYDvA"
       },
       "artists": [
         {
-          "name": "u.r.trax",
-          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         },
         {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
         }
       ],
-      "duration_ms": 195428,
-      "name": "mind be so numb",
-      "url": "https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n"
+      "duration_ms": 153274,
+      "name": "Let's Link Up and Die",
+      "url": "https://open.spotify.com/track/1fbipsUw493ucwKBj1e0VN"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -81,24 +81,52 @@
       "url": "https://open.spotify.com/track/1UzjeYE8X7fTgWAofd00sX"
     },
     {
-      "added_at": "2026-04-24 04:02:28",
+      "added_at": "2026-05-08 04:03:55",
       "album": {
-        "name": "The Troubles",
-        "url": "https://open.spotify.com/album/6xXCPQaky7QKVnJea96Nl1"
+        "name": "Hanging On A Minute",
+        "url": "https://open.spotify.com/album/5h19LQsvDPKO2vOkPvNpfK"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
         }
       ],
-      "duration_ms": 116619,
-      "name": "The Troubles",
-      "url": "https://open.spotify.com/track/7tqpFCQNkitXkddXaPHYwc"
+      "duration_ms": 144657,
+      "name": "Hanging On A Minute",
+      "url": "https://open.spotify.com/track/0jAYJeZbG2atnZA0Y609HW"
+    },
+    {
+      "added_at": "2026-04-10 04:02:39",
+      "album": {
+        "name": "trinket",
+        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
+      },
+      "artists": [
+        {
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+        }
+      ],
+      "duration_ms": 228222,
+      "name": "lil qoo",
+      "url": "https://open.spotify.com/track/0iX9RT9NmaeX9yEflLXTzc"
+    },
+    {
+      "added_at": "2026-05-08 04:03:55",
+      "album": {
+        "name": "Fail-safe",
+        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 207434,
+      "name": "Fail-safe",
+      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -117,6 +145,26 @@
       "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
     },
     {
+      "added_at": "2026-05-08 04:03:55",
+      "album": {
+        "name": "God Save The Three",
+        "url": "https://open.spotify.com/album/0lwdzU4UMx8ISISDqrYDvA"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 120815,
+      "name": "Yaya Tour\u00e9",
+      "url": "https://open.spotify.com/track/386zmyYmFDH2h4vcBdZTMA"
+    },
+    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "prototype",
@@ -131,6 +179,26 @@
       "duration_ms": 99265,
       "name": "prototype",
       "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
+    },
+    {
+      "added_at": "2026-04-24 14:28:02",
+      "album": {
+        "name": "the party is where u.r.",
+        "url": "https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "mind be so numb",
+      "url": "https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n"
     },
     {
       "added_at": "2026-04-24 04:02:28",
@@ -149,20 +217,40 @@
       "url": "https://open.spotify.com/track/4Mv8QtELCZwHTTdocAELYD"
     },
     {
-      "added_at": "2026-04-10 04:02:39",
+      "added_at": "2026-05-08 04:03:55",
       "album": {
-        "name": "trinket",
-        "url": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
       },
       "artists": [
         {
-          "name": "tsubi club",
-          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
         }
       ],
-      "duration_ms": 228222,
-      "name": "lil qoo",
-      "url": "https://open.spotify.com/track/0iX9RT9NmaeX9yEflLXTzc"
+      "duration_ms": 161194,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
+    },
+    {
+      "added_at": "2026-04-10 04:02:39",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl"
+      },
+      "artists": [
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "duration_ms": 120705,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
     },
     {
       "added_at": "2026-04-24 04:02:28",
@@ -187,22 +275,6 @@
     {
       "added_at": "2026-04-10 04:02:39",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl"
-      },
-      "artists": [
-        {
-          "name": "Tommy Fleece",
-          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
-        }
-      ],
-      "duration_ms": 120705,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
-    },
-    {
-      "added_at": "2026-04-10 04:02:39",
-      "album": {
         "name": "ELECTRIC (Olswel Remix)",
         "url": "https://open.spotify.com/album/4qP9LMu4FrAj47XeKGArxo"
       },
@@ -219,6 +291,22 @@
       "duration_ms": 221793,
       "name": "ELECTRIC (Olswel Remix)",
       "url": "https://open.spotify.com/track/4w77ahaIzhDDF26LDsxsQ2"
+    },
+    {
+      "added_at": "2026-05-08 04:03:55",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -255,6 +343,42 @@
       "duration_ms": 241148,
       "name": "no alternative",
       "url": "https://open.spotify.com/track/7BS39Y3RRp4PJRr53Xdk0q"
+    },
+    {
+      "added_at": "2026-05-08 04:03:55",
+      "album": {
+        "name": "8 forever",
+        "url": "https://open.spotify.com/album/4xleBs30XxZmR5VHSbDnVA"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        }
+      ],
+      "duration_ms": 126982,
+      "name": "8",
+      "url": "https://open.spotify.com/track/4T0cCAE96WqdubcRDKUBEt"
+    },
+    {
+      "added_at": "2026-04-24 04:02:28",
+      "album": {
+        "name": "The Troubles",
+        "url": "https://open.spotify.com/album/6xXCPQaky7QKVnJea96Nl1"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 116619,
+      "name": "The Troubles",
+      "url": "https://open.spotify.com/track/7tqpFCQNkitXkddXaPHYwc"
     },
     {
       "added_at": "2026-05-01 04:02:14",
@@ -1071,26 +1195,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Die Without Makeup",
-        "url": "https://open.spotify.com/album/0F0ewfGXJqK14oZ2JZnhTQ"
-      },
-      "artists": [
-        {
-          "name": "Natalia Catalan",
-          "url": "https://open.spotify.com/artist/2lm3zh84fR5TSKfSRt44N4"
-        },
-        {
-          "name": "Also Now",
-          "url": "https://open.spotify.com/artist/28IvTpsjVn7sC0piQGqQO7"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "I Want Him To Love Me",
-      "url": "https://open.spotify.com/track/7hsHgvBdh5ZRGrvXiRuH6L"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "alliWantforXMASisurRemix",
         "url": "https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY"
       },
@@ -1231,26 +1335,6 @@
       "duration_ms": 145655,
       "name": "POSE!",
       "url": "https://open.spotify.com/track/5s35aAgXqaJZ4TJfqJw70r"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "TABLOID TALK (feat. underscores)",
-        "url": "https://open.spotify.com/album/0iAWf17B2FahFgAIMrZ72j"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 129200,
-      "name": "TABLOID TALK (feat. underscores)",
-      "url": "https://open.spotify.com/track/54cndId4zaTpxiheavHpVR"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1531,22 +1615,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "With You, I'd be Closer to God",
-        "url": "https://open.spotify.com/album/1rGRETNJb2AWShJesptEBL"
-      },
-      "artists": [
-        {
-          "name": "Lecx Stacy",
-          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "With You, I'd be Closer to God",
-      "url": "https://open.spotify.com/track/3ay3F1iJr7496skgJL8fb6"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "Serious (feat. The Teenagers)",
         "url": "https://open.spotify.com/album/28p2nPkSV5JUEJGzEpmHWs"
       },
@@ -1579,26 +1647,6 @@
       "duration_ms": 246442,
       "name": "So What?",
       "url": "https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Lie Forever",
-        "url": "https://open.spotify.com/album/0qjKdJIK6BT0fgI2ppelzD"
-      },
-      "artists": [
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        },
-        {
-          "name": "sennoh",
-          "url": "https://open.spotify.com/artist/67LhwXEg9noC6G6kge5ANj"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Lie Forever",
-      "url": "https://open.spotify.com/track/61I2iTsZc92eMO1bmNpjsM"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1683,22 +1731,6 @@
       "duration_ms": 108600,
       "name": "MAKE IT RIGHT",
       "url": "https://open.spotify.com/track/2yXyDFCnB6qcAmMZA2HfEl"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/0S2YJJ3NcEt6lAo9b4t00I"
-      },
-      "artists": [
-        {
-          "name": "Yazida",
-          "url": "https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw"
-        }
-      ],
-      "duration_ms": 151172,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/0Bn68XW81Y4iwKnOADzszO"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1811,22 +1843,6 @@
       "duration_ms": 204093,
       "name": "Me forever :(",
       "url": "https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "DAYCLUB",
-        "url": "https://open.spotify.com/album/4RBGOO7pNVe76lC1ecS3hw"
-      },
-      "artists": [
-        {
-          "name": "Ethanplus",
-          "url": "https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "It's Nothing",
-      "url": "https://open.spotify.com/track/5SAMrLkb2yfCAE1tQO6jTs"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -2079,22 +2095,6 @@
       "duration_ms": 219749,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Sleazy",
-        "url": "https://open.spotify.com/album/4cF938Qm270hJg30XOrO75"
-      },
-      "artists": [
-        {
-          "name": "Tracey",
-          "url": "https://open.spotify.com/artist/46JnIrUyPdpvYFPpPgRFSb"
-        }
-      ],
-      "duration_ms": 217278,
-      "name": "Sleazy",
-      "url": "https://open.spotify.com/track/0xH0sFCdbn4LshJBcCAa28"
     },
     {
       "added_at": "2026-03-27 04:00:20",

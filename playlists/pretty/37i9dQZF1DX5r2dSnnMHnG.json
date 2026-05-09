@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 15596,
+  "num_followers": 15601,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        },
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
         "name": "WALK - The 6th Album",
         "url": "https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        },
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "HONEY",
-      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 156000,
       "name": "With You",
       "url": "https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Like a dream",
-      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Our Universe (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 211000,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Like a dream",
+      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Ten Reasons I Love You(2021)",
-        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        },
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Ten Reasons I Love You(2021)",
-      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "WONDO Project : LOVE RECIPE, Vol.1",
         "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 231386,
       "name": "LOVE RECIPE",
       "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Ten Reasons I Love You(2021)",
+        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Ten Reasons I Love You(2021)",
+      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "\uc0ac\ub791\ud55c\ub300",
-        "url": "https://open.spotify.com/album/6nLFj1hXgkR7nal3Kcet6E"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 291902,
-      "name": "\uc0ac\ub791\ud55c\ub300",
-      "url": "https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
         "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "\uc0ac\ub791\ud55c\ub300",
+        "url": "https://open.spotify.com/album/6nLFj1hXgkR7nal3Kcet6E"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 291902,
+      "name": "\uc0ac\ub791\ud55c\ub300",
+      "url": "https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
+        "name": "\uc720\uc2e4\ubb3c \ubcf4\uad00\uc18c",
+        "url": "https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "\uc720\ucc44\uaf43",
+      "url": "https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
         "name": "because I'm stupid? (feat. KIXO)",
         "url": "https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 124080,
       "name": "because I'm stupid? (feat. KIXO)",
       "url": "https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
-        "name": "\uc720\uc2e4\ubb3c \ubcf4\uad00\uc18c",
-        "url": "https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA"
-      },
-      "artists": [
-        {
-          "name": "Epitone Project",
-          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "\uc720\ucc44\uaf43",
-      "url": "https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa"
     },
     {
       "added_at": "2026-04-25 04:24:32",

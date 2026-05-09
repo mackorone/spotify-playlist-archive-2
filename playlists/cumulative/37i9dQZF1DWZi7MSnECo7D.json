@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Exclusive Os Cabides",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Jambu",
   "name": "alt BR",
   "tracks": [
     {
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 90756,
       "name": "bater asas",
       "url": "https://open.spotify.com/track/0nMYsdvBsoHfql3MQRjd86"
@@ -5156,7 +5156,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 239253,
       "name": "emocionado",
       "url": "https://open.spotify.com/track/4uCH6RwQDCsAkJKXTjjtkC"
@@ -5308,6 +5308,28 @@
       "duration_ms": 176437,
       "name": "Entre na \u00c1gua",
       "url": "https://open.spotify.com/track/6RA2QfzU3X9OgcXlD8HmDm"
+    },
+    {
+      "album": {
+        "name": "Ainda aprendendo a lidar",
+        "url": "https://open.spotify.com/album/2Fw76SOb68k0RtNTWA5TKv"
+      },
+      "artists": [
+        {
+          "name": "Vitor Campos Scabbia",
+          "url": "https://open.spotify.com/artist/6MroesEATvDBEtsp0mpx5R"
+        },
+        {
+          "name": "Cronistas",
+          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Entre o trem e a plataforma",
+      "url": "https://open.spotify.com/track/0IRUazz8KtNHIiyf5ezOGX"
     },
     {
       "album": {
@@ -6417,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/3gzq2cXMfBjN5oJxC8K05M"
+      },
+      "artists": [
+        {
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163670,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/2rNO2pDk2R1WK3YApUmR8J"
+    },
+    {
+      "album": {
         "name": "flutuar",
         "url": "https://open.spotify.com/album/0c24C6da48f4vE1PXDkxFs"
       },
@@ -6770,7 +6810,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185333,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/09fGTMBFiOZ6HaJxKA0t84"
@@ -8563,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "Me Deixe Estar",
+        "url": "https://open.spotify.com/album/5QY7Wb95tBrj2I67ziAhJX"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241596,
+      "name": "Me Deixe Estar",
+      "url": "https://open.spotify.com/track/6Cqw1DqoQOkrFGCX2uTc3d"
+    },
+    {
+      "album": {
         "name": "Me Diz Que Vai Ficar Tudo Bem",
         "url": "https://open.spotify.com/album/777j9m7iXB8jagtOqxPqIR"
       },
@@ -8762,6 +8820,24 @@
       "duration_ms": 181458,
       "name": "MEDOFOBIA",
       "url": "https://open.spotify.com/track/4AlDBt1ip59pJIWfKrud1L"
+    },
+    {
+      "album": {
+        "name": "meia volta",
+        "url": "https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W"
+      },
+      "artists": [
+        {
+          "name": "ursamenor",
+          "url": "https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225456,
+      "name": "meia volta",
+      "url": "https://open.spotify.com/track/3uPnhYJOAw1lvwRewOLS8U"
     },
     {
       "album": {
@@ -10570,7 +10646,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 191000,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/1VQtdb1sHsB2wglv7wKTQB"
@@ -10610,7 +10686,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 293451,
       "name": "O Ar nos Meus Pulm\u00f5es",
       "url": "https://open.spotify.com/track/7bIf4vCBuI3bjgy3alkvEV"
@@ -15600,6 +15676,32 @@
       "duration_ms": 226341,
       "name": "TUDO vai dar p\u00e9",
       "url": "https://open.spotify.com/track/3Ks5m4nEvjGZgyN6gpLQUo"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 Foda",
+        "url": "https://open.spotify.com/album/2j3ATjDBr3H0LgUiOyhUkN"
+      },
+      "artists": [
+        {
+          "name": "Samuel Amaro",
+          "url": "https://open.spotify.com/artist/3uMaKOdv7ETFrGMVceaz3z"
+        },
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Qumma",
+          "url": "https://open.spotify.com/artist/4FzMoW9tx9zfyW91EbHrkv"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171589,
+      "name": "T\u00e1 Foda",
+      "url": "https://open.spotify.com/track/4NmGGeaEyyfv69VxfXjdRH"
     },
     {
       "album": {

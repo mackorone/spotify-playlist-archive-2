@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2026. Hit shuffle for a mixed listening experience. Cover: Carlos Vives",
+  "description": "Descubre los nuevos \u00e1lbumes del 2026. Hit shuffle for a mixed listening experience. Cover: Rels B",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -3697,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "La Belleza De Las Flores",
+        "url": "https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181018,
+      "name": "A\u00f1o Nuclear",
+      "url": "https://open.spotify.com/track/1lD77neswGeI2dmQoSB8XK"
+    },
+    {
+      "album": {
         "name": "Spanish Leather",
         "url": "https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV"
       },
@@ -4729,6 +4747,28 @@
     },
     {
       "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn"
+    },
+    {
+      "album": {
         "name": "BITCH3",
         "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
       },
@@ -5750,6 +5790,28 @@
       "duration_ms": 139534,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/0Z7lETQwwP29L80mKnOuuN"
+    },
+    {
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Carranga",
+      "url": "https://open.spotify.com/track/7rjAVT8ZZiAKTT5FmIu0Q2"
     },
     {
       "album": {
@@ -8819,6 +8881,28 @@
     },
     {
       "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Dalmation",
+      "url": "https://open.spotify.com/track/0vKudmr3zHkdAsBMoKXa3L"
+    },
+    {
+      "album": {
         "name": "Trap Vibes",
         "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
       },
@@ -11851,6 +11935,24 @@
     },
     {
       "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "EL MUNDO X TI",
+      "url": "https://open.spotify.com/track/1ZOmlA4iKIeoVxO6ZDlxbo"
+    },
+    {
+      "album": {
         "name": "TQ+",
         "url": "https://open.spotify.com/album/136gXSHLFKP4WwV9QbRuK1"
       },
@@ -12534,6 +12636,24 @@
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/18nR6OK2Kj0CxRcaWbpOF6"
+    },
+    {
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "En La Misma Cama",
+      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
     },
     {
       "album": {
@@ -15064,6 +15184,24 @@
       "duration_ms": 174029,
       "name": "Gato Perdido",
       "url": "https://open.spotify.com/track/6o3LIPxgDWa0l5z9Kr9hz7"
+    },
+    {
+      "album": {
+        "name": "La Belleza De Las Flores",
+        "url": "https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196949,
+      "name": "Gatos",
+      "url": "https://open.spotify.com/track/6e2eHkfWumZ2yNtxIGK3jj"
     },
     {
       "album": {
@@ -19613,6 +19751,24 @@
     },
     {
       "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119546,
+      "name": "LLEVA AL SOL",
+      "url": "https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB"
+    },
+    {
+      "album": {
         "name": "ANTOLOG\u00cdA 20 A\u00d1OS",
         "url": "https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9"
       },
@@ -22427,6 +22583,28 @@
     },
     {
       "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144943,
+      "name": "Melo",
+      "url": "https://open.spotify.com/track/3vbRWf9dqDdVudRIsXKEt6"
+    },
+    {
+      "album": {
         "name": "COSTA RICA",
         "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
       },
@@ -24729,6 +24907,24 @@
     },
     {
       "album": {
+        "name": "El Amante",
+        "url": "https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG"
+      },
+      "artists": [
+        {
+          "name": "Dariel Amant",
+          "url": "https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181628,
+      "name": "New Things",
+      "url": "https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5"
+    },
+    {
+      "album": {
         "name": "Next",
         "url": "https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW"
       },
@@ -25575,6 +25771,24 @@
     },
     {
       "album": {
+        "name": "El Amante",
+        "url": "https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG"
+      },
+      "artists": [
+        {
+          "name": "Dariel Amant",
+          "url": "https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "No Te Puedo Perder",
+      "url": "https://open.spotify.com/track/49NQnWZfffHDqbpO4V4QzJ"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
       },
@@ -26010,6 +26224,24 @@
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "album": {
+        "name": "La Belleza De Las Flores",
+        "url": "https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197376,
+      "name": "Nueva Era",
+      "url": "https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S"
     },
     {
       "album": {
@@ -27369,6 +27601,24 @@
     },
     {
       "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156256,
+      "name": "PANIKI",
+      "url": "https://open.spotify.com/track/0fF5mK8NIiMOehvmg0Xqq9"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -27762,6 +28012,24 @@
       "duration_ms": 195426,
       "name": "Pauta & Flow",
       "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
+    },
+    {
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131712,
+      "name": "PA\u00d1UELITO DE SEDA",
+      "url": "https://open.spotify.com/track/2EobCyeDCcozA1qD1iFjDO"
     },
     {
       "album": {
@@ -30161,6 +30429,28 @@
     },
     {
       "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201033,
+      "name": "PUES YA NI PEDO",
+      "url": "https://open.spotify.com/track/3N7BmCgSASJ9WWYqhzT5uJ"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -32192,6 +32482,24 @@
       "duration_ms": 209826,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/4EWjOrWmd1UlS2cmRUDA7s"
+    },
+    {
+      "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199686,
+      "name": "SANA SANA",
+      "url": "https://open.spotify.com/track/2gn4oseEBtFa1b8UKl3uEK"
     },
     {
       "album": {
@@ -37777,6 +38085,28 @@
     },
     {
       "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Una A La Vez",
+      "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
+    },
+    {
+      "album": {
         "name": "1 1 1",
         "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
       },
@@ -40268,6 +40598,24 @@
       "duration_ms": 165866,
       "name": "Yo Primero",
       "url": "https://open.spotify.com/track/70jYTVG7ppnpCxOMWEf4Ww"
+    },
+    {
+      "album": {
+        "name": "El Amante",
+        "url": "https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG"
+      },
+      "artists": [
+        {
+          "name": "Dariel Amant",
+          "url": "https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150291,
+      "name": "Yo Se Que",
+      "url": "https://open.spotify.com/track/6lVt7Bi5i4ttZcsITENeQF"
     },
     {
       "album": {

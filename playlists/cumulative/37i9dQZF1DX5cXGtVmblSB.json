@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/5hLehfzqDwHrlV732ZPaxg"
+      },
+      "artists": [
+        {
+          "name": "Calmatic",
+          "url": "https://open.spotify.com/artist/4pnzDhLyf7keokIDeCTVVJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/2qPGoHev2zabmZOczb3YOU"
+    },
+    {
+      "album": {
         "name": "Attributes",
         "url": "https://open.spotify.com/album/54aH4SIh1TEqKOsbCn4Xpe"
       },
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160540,
       "name": "Night of a Thousand Stars",
       "url": "https://open.spotify.com/track/2AoQCv8DQbTH8uaBLfcKhr"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 201173,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5"

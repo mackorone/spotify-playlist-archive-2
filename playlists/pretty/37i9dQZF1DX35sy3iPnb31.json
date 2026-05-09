@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1502,
+  "num_followers": 1516,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 200623,
+      "name": "Rest Of My",
+      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Bother Me (feat. Victony)",
         "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 180959,
       "name": "Bother Me (feat. Victony)",
       "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "In The Feeling",
-        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 200623,
-      "name": "Rest Of My",
-      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "SUGAR WATER",
-        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 190248,
-      "name": "SUGAR WATER",
-      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "HOME WAS ALWAYS ME",
         "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 137538,
       "name": "midnight moon",
       "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "SUGAR WATER",
+        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 190248,
+      "name": "SUGAR WATER",
+      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "Pain (Lonesome Version)",
+        "url": "https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Pain - Lonesome Version",
+      "url": "https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Mercy on the Skyline",
         "url": "https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 282341,
       "name": "Mercy on the Skyline",
       "url": "https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Pain (Lonesome Version)",
-        "url": "https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Pain - Lonesome Version",
-      "url": "https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF"
     },
     {
       "added_at": "2026-05-01 04:04:33",

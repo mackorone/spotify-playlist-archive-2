@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Dayo Bello and music for your soul.",
+  "description": "PJ Morton and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -8177,6 +8177,24 @@
     },
     {
       "album": {
+        "name": "dog eyed",
+        "url": "https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137767,
+      "name": "dog eyed",
+      "url": "https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN"
+    },
+    {
+      "album": {
         "name": "A Voyager's Motion",
         "url": "https://open.spotify.com/album/5OFEhomkrh40bqO3VcQU22"
       },
@@ -9102,7 +9120,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 226052,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
@@ -10738,6 +10756,24 @@
       "duration_ms": 259310,
       "name": "Fix Yo' Crown",
       "url": "https://open.spotify.com/track/6kRNTMM1UZ3FvqC3BSiErH"
+    },
+    {
+      "album": {
+        "name": "FIYAH",
+        "url": "https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192783,
+      "name": "FIYAH",
+      "url": "https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl"
     },
     {
       "album": {
@@ -15991,6 +16027,28 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        },
+        {
+          "name": "C The Reason",
+          "url": "https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207114,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU"
+    },
+    {
+      "album": {
         "name": "Didn't Start With You",
         "url": "https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr"
       },
@@ -16286,6 +16344,24 @@
       "duration_ms": 103735,
       "name": "itkanbe[sonice]",
       "url": "https://open.spotify.com/track/0WywlY00pAWlwsjAOFzUAr"
+    },
+    {
+      "album": {
+        "name": "It\u2019s A Shame",
+        "url": "https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221386,
+      "name": "It\u2019s A Shame",
+      "url": "https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB"
     },
     {
       "album": {
@@ -26974,6 +27050,24 @@
       "duration_ms": 192705,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
+    },
+    {
+      "album": {
+        "name": "Sell My Soul",
+        "url": "https://open.spotify.com/album/6UOHX5m2GCTmu0ShSw1lj7"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223872,
+      "name": "Sell My Soul",
+      "url": "https://open.spotify.com/track/5HoZIKWxMmV7N8GPBxc0k8"
     },
     {
       "album": {

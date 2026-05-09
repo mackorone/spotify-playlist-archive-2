@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Radhika Bhide, Tanmay Deochake, Utsavi Jha, Kanishk Seth and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Ronit Vinta, Rahgir, Aneesh  and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -4239,6 +4239,32 @@
     },
     {
       "album": {
+        "name": "Billori",
+        "url": "https://open.spotify.com/album/2D6A0cHO9i9UHdqgYgI6eR"
+      },
+      "artists": [
+        {
+          "name": "Aneesh",
+          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
+        },
+        {
+          "name": "Kritin Kay",
+          "url": "https://open.spotify.com/artist/37qiYtCn1lU5lF35H4lBOQ"
+        },
+        {
+          "name": "Jackswan",
+          "url": "https://open.spotify.com/artist/3ci8vJ8RGrLm2tIhylbpop"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "Billori",
+      "url": "https://open.spotify.com/track/5SIkHcIoALVqyFIRiD5vhF"
+    },
+    {
+      "album": {
         "name": "Bin Tere",
         "url": "https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp"
       },
@@ -7567,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Hemlock",
+        "url": "https://open.spotify.com/album/2UxLQoW9GriBFkV4wQCzZG"
+      },
+      "artists": [
+        {
+          "name": "Rahgir",
+          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Ek Haath Mein Teen Kangan",
+      "url": "https://open.spotify.com/track/1K9bB7nZUVwd5EOrwJjHSK"
+    },
+    {
+      "album": {
         "name": "Ek Martaba Phir",
         "url": "https://open.spotify.com/album/6NUuU4Euu64fPd9nK7MJig"
       },
@@ -10018,7 +10062,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 171969,
       "name": "Hum Tum Miley",
       "url": "https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d"
@@ -11756,7 +11800,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 287732,
       "name": "Jhini Jhini",
       "url": "https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn"
@@ -15009,6 +15053,32 @@
     },
     {
       "album": {
+        "name": "Koyaliya",
+        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
+      },
+      "artists": [
+        {
+          "name": "Apurva Nisshad",
+          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
+        },
+        {
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        },
+        {
+          "name": "Pranav Barange",
+          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Koyaliya",
+      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
+    },
+    {
+      "album": {
         "name": "Kuch Na Rahe",
         "url": "https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi"
       },
@@ -18184,7 +18254,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 282000,
       "name": "Mora Saawan Sookh Gaya",
       "url": "https://open.spotify.com/track/6oDSJGlPT8lLAKAqQ7PKiu"
@@ -23377,6 +23447,24 @@
     },
     {
       "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/7pkVDv913F7gePnIuGnY60"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160365,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/3OtCeLB2QjnhckmkdpTuUo"
+    },
+    {
+      "album": {
         "name": "Saiban",
         "url": "https://open.spotify.com/album/7weSTdjfhRpSbt5uS9C5TE"
       },
@@ -23750,6 +23838,32 @@
       "duration_ms": 141333,
       "name": "Sapno Ki Nagri",
       "url": "https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk"
+    },
+    {
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/0J2LzthCjjSrl2TnAef2Pu"
+      },
+      "artists": [
+        {
+          "name": "Shye Ben Tzur",
+          "url": "https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf"
+        },
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        },
+        {
+          "name": "The Rajasthan Express",
+          "url": "https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269551,
+      "name": "Saqi",
+      "url": "https://open.spotify.com/track/29lea1IAFPvQ079hMAAeOf"
     },
     {
       "album": {
@@ -27634,7 +27748,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 220239,
       "name": "Tu Jo Mile",
       "url": "https://open.spotify.com/track/7BtqmdC0eLzFheoUM2Mumm"
@@ -28920,7 +29034,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 242000,
       "name": "Waqt",
       "url": "https://open.spotify.com/track/2CHJGXI9cbp16WLpz3ohdj"

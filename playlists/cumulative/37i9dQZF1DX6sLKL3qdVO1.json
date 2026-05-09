@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Joss ML y  Loyaltty en portada",
+  "description": "Shawty lo que necesitas es darle flow. J Balvin y Ryan Castro en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 240000,
       "name": "66 am",
       "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 180214,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/68mJvII29H8wlKpyGyeP7x"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 214093,
       "name": "Caducaste",
       "url": "https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z"
@@ -8495,6 +8495,28 @@
     },
     {
       "album": {
+        "name": "JUGUETONA",
+        "url": "https://open.spotify.com/album/0Ms0xhiXWFmLDJqRIlPT2d"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "flackoloyal",
+          "url": "https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155984,
+      "name": "JUGUETONA",
+      "url": "https://open.spotify.com/track/2He0lOqVbHGlX05dYqQqcj"
+    },
+    {
+      "album": {
         "name": "Julietota",
         "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
       },
@@ -11600,6 +11622,28 @@
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
+    },
+    {
+      "album": {
+        "name": "Me Gustas M\u00e1s",
+        "url": "https://open.spotify.com/album/5l926ct1ciBqFwpK06cClM"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "YOHEL MADI",
+          "url": "https://open.spotify.com/artist/5PvNcxuOlCBfSmQoStnmGR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Me Gustas M\u00e1s",
+      "url": "https://open.spotify.com/track/2B5kNPkUoZJAYoiJdeFEUU"
     },
     {
       "album": {
@@ -20714,6 +20758,28 @@
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
+    },
+    {
+      "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Una A La Vez",
+      "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
     },
     {
       "album": {

@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Jeep",
+        "url": "https://open.spotify.com/album/4ktNXlFfaU5AckDtYUmB3S"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209613,
+      "name": "Jeep",
+      "url": "https://open.spotify.com/track/2NePND1BuFcrVdrDFR2HsS"
+    },
+    {
+      "album": {
         "name": "Feed The Beast",
         "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
       },

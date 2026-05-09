@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: La Bronze",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Katrine Sansregret",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 268559,
       "name": "1999",
       "url": "https://open.spotify.com/track/5diLSr4cPJIgopAGt2MWlw"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 170149,
       "name": "Amour Reptile",
       "url": "https://open.spotify.com/track/1U66WYXYcwVq1DtSewHAKa"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Comme la gr\u00eale",
+        "url": "https://open.spotify.com/album/0lz26PdK5PhGX9k5UyA0vv"
+      },
+      "artists": [
+        {
+          "name": "Philippe Maurice",
+          "url": "https://open.spotify.com/artist/44XRqF4u8TNCRGzk6NUQ3N"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "Comme la gr\u00eale",
+      "url": "https://open.spotify.com/track/5YIZ8Fowm0Esx9qbf8gBd4"
+    },
+    {
+      "album": {
         "name": "Comme la mer",
         "url": "https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8"
       },
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 233709,
       "name": "Comme un Train",
       "url": "https://open.spotify.com/track/0JTGupsaWlcOHyI41Xn7Xk"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 190871,
       "name": "Coule douce",
       "url": "https://open.spotify.com/track/1ixXxv3cM3N1fj0dlMdePT"
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 269375,
       "name": "Coup de vent",
       "url": "https://open.spotify.com/track/55wBGo1kOr3ISMHTTJR28I"
@@ -1566,6 +1584,24 @@
       "duration_ms": 245506,
       "name": "Cours, Cora, cours",
       "url": "https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk"
+    },
+    {
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "album": {
@@ -2048,7 +2084,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 138290,
       "name": "Don't you let me down",
       "url": "https://open.spotify.com/track/6S3i2fFEDY00rw4p9bV7Qf"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 279956,
       "name": "D\u00e9sol\u00e9 pour la vaisselle",
       "url": "https://open.spotify.com/track/1csotXOSD2LpEAI8hhO1Bo"
@@ -2470,7 +2506,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208504,
       "name": "Flocons",
       "url": "https://open.spotify.com/track/26TV5erxGmc924vwFoJ5b0"
@@ -2510,6 +2546,24 @@
       "duration_ms": 288232,
       "name": "Fond d'pichet sale de sangria",
       "url": "https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3"
+    },
+    {
+      "album": {
+        "name": "Fous de nous deux",
+        "url": "https://open.spotify.com/album/0SXQw0b0sVz0LTGv7t6Utb"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169358,
+      "name": "Fous de nous deux",
+      "url": "https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n"
     },
     {
       "album": {
@@ -3322,7 +3376,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 193616,
       "name": "Je sais pas",
       "url": "https://open.spotify.com/track/6b5WP5ZPGlKXOlhUpnCTUj"
@@ -3401,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Je te quitte",
+        "url": "https://open.spotify.com/album/100mxYJvDZsSQ3PAOBt0mu"
+      },
+      "artists": [
+        {
+          "name": "Jade Lessard",
+          "url": "https://open.spotify.com/artist/11DkMTZq0ntaKyLicVyjf6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "Je te quitte",
+      "url": "https://open.spotify.com/track/7JJJw1c5NbmN6GO2OjHvMR"
+    },
+    {
+      "album": {
         "name": "Est-ce que quelqu'un me voit ?",
         "url": "https://open.spotify.com/album/47JLynKKW2wWCpc21eaceH"
       },
@@ -3448,7 +3520,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 237761,
       "name": "Johanne et Johanne",
       "url": "https://open.spotify.com/track/2HtjiQwfiThxqD3qarDrEr"
@@ -3690,7 +3762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 253897,
       "name": "L'Eldorado",
       "url": "https://open.spotify.com/track/4JNSwi0Ianf7GehfFSQACX"
@@ -3946,7 +4018,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 249516,
       "name": "La mani\u00e8re",
       "url": "https://open.spotify.com/track/0FUy5rYDhD8QCPCl48tdC2"
@@ -4090,7 +4162,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 218823,
       "name": "La vie \u00e0 2",
       "url": "https://open.spotify.com/track/33UTe7RVKclt1SMnDqZxq0"
@@ -4250,6 +4322,28 @@
       "duration_ms": 135275,
       "name": "Le bon choix",
       "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
+    },
+    {
+      "album": {
+        "name": "l'enfant au briquet (DELUXE)",
+        "url": "https://open.spotify.com/album/6q6ezzpYraHKh57chAzV0L"
+      },
+      "artists": [
+        {
+          "name": "Fovelle",
+          "url": "https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS"
+        },
+        {
+          "name": "CHOEUR CHOEUR CLUB",
+          "url": "https://open.spotify.com/artist/2UGLcwVMEnw2NZXvjtGSGI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167033,
+      "name": "le briquet et l'\u00e9ther",
+      "url": "https://open.spotify.com/track/6kOMHhdV82LTGu8l8csN8e"
     },
     {
       "album": {
@@ -4520,7 +4614,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198813,
       "name": "Le Restaurant",
       "url": "https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf"
@@ -5022,7 +5116,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208847,
       "name": "L\u00e9vesque",
       "url": "https://open.spotify.com/track/7CgpMII0Dpx8ySRHQMYExD"
@@ -5644,7 +5738,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 143684,
       "name": "Naked Pictures",
       "url": "https://open.spotify.com/track/3g3ghs1pdHaEe3FExsx7lY"
@@ -5734,7 +5828,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 235694,
       "name": "Ni Dieu ni ma\u00eetre",
       "url": "https://open.spotify.com/track/2Te3XX0nnlY8JdEQlfrWz0"
@@ -6192,7 +6286,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 216007,
       "name": "Pas besoin d'se mentir",
       "url": "https://open.spotify.com/track/3gNYFWLJ1xIXW4ay1dbyNC"
@@ -6228,7 +6322,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 323834,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/3sRCcwcIRRCaMwoRem3HrY"
@@ -6272,6 +6366,24 @@
       "duration_ms": 197323,
       "name": "Perdu la t\u00eate",
       "url": "https://open.spotify.com/track/6AXxV0lvClwXZxqf73k86m"
+    },
+    {
+      "album": {
+        "name": "Petit papillon blanc",
+        "url": "https://open.spotify.com/album/6SnLH2dX31iF172s9pylYf"
+      },
+      "artists": [
+        {
+          "name": "Moindre Mal",
+          "url": "https://open.spotify.com/artist/30BtBeDtNxVUNJQtly9vFo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Petit papillon blanc",
+      "url": "https://open.spotify.com/track/6MN0IrzMfXcxq9SYL3SW8A"
     },
     {
       "album": {
@@ -6348,7 +6460,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 271320,
       "name": "porcelaine",
       "url": "https://open.spotify.com/track/18ymUE8BDQDnJIzebhk2PZ"
@@ -6460,7 +6572,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 144888,
       "name": "propri\u00e9terre",
       "url": "https://open.spotify.com/track/40jF4QZrA6OHgxZNVejrFw"
@@ -6478,7 +6590,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 209122,
       "name": "Pu jamais",
       "url": "https://open.spotify.com/track/0JONwFkv3DmiDwzBve45YQ"
@@ -6514,7 +6626,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 233500,
       "name": "Pygargues",
       "url": "https://open.spotify.com/track/03pk8SH9ed3ea4onLjxZaf"
@@ -6630,6 +6742,24 @@
       "duration_ms": 155954,
       "name": "Quand on aime on a tout",
       "url": "https://open.spotify.com/track/4rb6bmm62zrozmwJH9Ccaz"
+    },
+    {
+      "album": {
+        "name": "Quand vient le soir",
+        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225998,
+      "name": "Quand vient le soir",
+      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
     },
     {
       "album": {
@@ -6782,7 +6912,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 171176,
       "name": "Racine",
       "url": "https://open.spotify.com/track/38VMrEW609ZQSqJWBBObUE"
@@ -6800,7 +6930,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147272,
       "name": "rappelle-moi comme je t'aime",
       "url": "https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo"
@@ -7222,7 +7352,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 162702,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1QWjjncrqVWFXE9t7yCf0o"
@@ -7388,7 +7518,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 230968,
       "name": "Si y'a pu rien",
       "url": "https://open.spotify.com/track/2ca8GZaHaFjjR6019Qw3Id"
@@ -7424,7 +7554,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 225675,
       "name": "Sortie de secours",
       "url": "https://open.spotify.com/track/1cTE0B3UAdUeKvq9ni5aSC"
@@ -7936,7 +8066,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 272420,
       "name": "Toi mon unique d\u00e9sir",
       "url": "https://open.spotify.com/track/0Dam5xgPCZMrh24MH0wiNH"
@@ -8024,6 +8154,24 @@
       "duration_ms": 182106,
       "name": "Tout ce que je dis",
       "url": "https://open.spotify.com/track/4R0wdkiNyVehGsv4uMc58S"
+    },
+    {
+      "album": {
+        "name": "J\u2019\u00c9CRIS LES PROBL\u00c8MES QU\u2019ON EST EN TRAIN DE LAISSER \u00c0 NOS ENFANTS",
+        "url": "https://open.spotify.com/album/3LL6RAPzfh8HwSYu8Xbgvv"
+      },
+      "artists": [
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "tout ce qui m'arrive",
+      "url": "https://open.spotify.com/track/3j2RLn7aiBYVW6j5zXtG1l"
     },
     {
       "album": {
@@ -8186,7 +8334,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166000,
       "name": "Trop parl\u00e9",
       "url": "https://open.spotify.com/track/7DpQ1uCVvRGnP0ZhStpJ5k"
@@ -8240,7 +8388,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 321797,
       "name": "Tu seul",
       "url": "https://open.spotify.com/track/3H3x55M8uhodA1DVkdIWd5"
@@ -8414,7 +8562,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 231862,
       "name": "Varieties of Quiet",
       "url": "https://open.spotify.com/track/0K1J0oXAxshzqqVbwstqJS"
@@ -8748,10 +8896,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 227566,
       "name": "\u00c0 la pointe de l'idiocratie",
       "url": "https://open.spotify.com/track/08Gj96l9KtVwrVV2k0OPPj"
+    },
+    {
+      "album": {
+        "name": "\u00c0 moi-m\u00eame",
+        "url": "https://open.spotify.com/album/7M2bw2YeKkm6NW639qGKMQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Chanelle",
+          "url": "https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240502,
+      "name": "\u00c0 moi-m\u00eame",
+      "url": "https://open.spotify.com/track/06YgTAZNZ1jYThvRR02uCD"
     },
     {
       "album": {

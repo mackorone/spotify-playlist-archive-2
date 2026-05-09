@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "better and more",
+        "url": "https://open.spotify.com/album/2cYIT4PnWRqsU2olQ8CbD3"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158089,
+      "name": "better and more",
+      "url": "https://open.spotify.com/track/15JjCDBAdKJq1Zy3weXqTT"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc"
       },
@@ -7560,7 +7578,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 186706,
       "name": "Hope Is the Greatest Fuel",
       "url": "https://open.spotify.com/track/1KbKmr7nD74Y4p9zy88Qoi"
@@ -10384,6 +10402,24 @@
       "duration_ms": 197637,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney"
+    },
+    {
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196202,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe"
     },
     {
       "album": {
@@ -13866,7 +13902,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 229731,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E"

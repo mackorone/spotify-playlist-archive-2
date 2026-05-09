@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-22",
-  "description": "\ud83d\udcf8 Callejero Fino",
+  "description": "\ud83d\udcf8 LA JOAQUI",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185142,
       "name": "3 En 1",
       "url": "https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1"
@@ -1214,6 +1214,32 @@
       "duration_ms": 146000,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr"
+    },
+    {
+      "album": {
+        "name": "Chapa RKT",
+        "url": "https://open.spotify.com/album/1gjOA8cKY7TA8nF3dd3QS2"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "WHTEGOLD",
+          "url": "https://open.spotify.com/artist/2jqN3kjKQ51QM1cDcKNQYb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161758,
+      "name": "Chapa RKT",
+      "url": "https://open.spotify.com/track/00aOyjwbjRcElb4IQfh9yO"
     },
     {
       "album": {
@@ -2481,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "JAM\u00d3N",
+        "url": "https://open.spotify.com/album/2CGy70qKhGS3KyUw5uQjJp"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "JAM\u00d3N",
+      "url": "https://open.spotify.com/track/3TgyJSUjN3deqvxm3Vf1OG"
+    },
+    {
+      "album": {
         "name": "MEGA CALLEJERO FINO RKT 2",
         "url": "https://open.spotify.com/album/2bRlrx3pm1XGG13WnMWsbm"
       },
@@ -3060,7 +3108,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 272727,
       "name": "M.A - Remix",
       "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"

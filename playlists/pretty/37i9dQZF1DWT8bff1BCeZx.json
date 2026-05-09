@@ -1,13 +1,125 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 25272,
+  "num_followers": 25280,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOwCBnJMUBWGKnOpB1tQ6DsoNbSf",
+  "snapshot_id": "AAAAAAmuuS7g63KXdJX4xUS4pyEq6L9s",
   "tracks": [
+    {
+      "added_at": "2026-05-08 10:09:34",
+      "album": {
+        "name": "Count",
+        "url": "https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Testimony",
+          "url": "https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Count",
+      "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
+    },
+    {
+      "added_at": "2026-05-08 10:09:34",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/3ieKz8Z6wpc59Rc8N3sXPS"
+      },
+      "artists": [
+        {
+          "name": "Bodilezz",
+          "url": "https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb"
+        },
+        {
+          "name": "TGOD DaFlemSpitha",
+          "url": "https://open.spotify.com/artist/6ZMT1yC4USp2cyOsnKt2mb"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/0X8BqrR8DIZ3Z3j0sTYovx"
+    },
+    {
+      "added_at": "2026-05-08 10:09:34",
+      "album": {
+        "name": "Gloria a Dios",
+        "url": "https://open.spotify.com/album/3ddLAyHlOONlu6joe8di7E"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "duration_ms": 303567,
+      "name": "Gloria a Dios",
+      "url": "https://open.spotify.com/track/3sxrlHDD7Qd7hUoW5FUoek"
+    },
+    {
+      "added_at": "2026-05-08 10:09:34",
+      "album": {
+        "name": "PURE",
+        "url": "https://open.spotify.com/album/0pVgOjMKWVM5yFmjFMll4m"
+      },
+      "artists": [
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        },
+        {
+          "name": "faithchild",
+          "url": "https://open.spotify.com/artist/3vPPPINCRoRLmKSrpa5CwR"
+        }
+      ],
+      "duration_ms": 479413,
+      "name": "PURE",
+      "url": "https://open.spotify.com/track/0Th7LgMO6LBeRpI6do9pD5"
+    },
+    {
+      "added_at": "2026-05-08 10:09:34",
+      "album": {
+        "name": "Gbope",
+        "url": "https://open.spotify.com/album/2rywaYongdzg9D4gAUiQpj"
+      },
+      "artists": [
+        {
+          "name": "Olusegun Omobamibo",
+          "url": "https://open.spotify.com/artist/4bj7iVQUXxrhsyY3CK8EQO"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "duration_ms": 322296,
+      "name": "Gbope",
+      "url": "https://open.spotify.com/track/18lugVv4mlCGA6n3O5dYPs"
+    },
+    {
+      "added_at": "2026-05-08 10:09:34",
+      "album": {
+        "name": "Loved by You",
+        "url": "https://open.spotify.com/album/41iOYhHoBxpD7Wv7UkfuVu"
+      },
+      "artists": [
+        {
+          "name": "O'Tims",
+          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
+        }
+      ],
+      "duration_ms": 153513,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/5NSA2avgm4ObXCUcRksQGK"
+    },
     {
       "added_at": "2023-05-26 00:01:00",
       "album": {

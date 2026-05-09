@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per una primavera non proprio felice \(giuse the lizia in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,856 likes - 114 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,939 likes - 114 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 8 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
 | 9 | [occhi diavolo](https://open.spotify.com/track/5t1BsSC94tQfnAgYwav6Iv) | [opi](https://open.spotify.com/artist/2dApd5nlMJKpHGNUqWT1L2) | [occhi diavolo](https://open.spotify.com/album/02Ysk7wFmK6zZyd3YzAo6F) | 2:14 |
 | 10 | [Pillole](https://open.spotify.com/track/02awCaNU1SgRt1ol80wRDP) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 3:16 |
-| 11 | [Bianco](https://open.spotify.com/track/6PIqXyRc1YW9l2iasnQHvR) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Bianco](https://open.spotify.com/album/2nDOFu69Mo4FlRVRdfW2Cp) | 2:32 |
+| 11 | [Bianco \(feat\. chaze & DOXX\)](https://open.spotify.com/track/6PIqXyRc1YW9l2iasnQHvR) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Bianco \(feat\. chaze & DOXX\)](https://open.spotify.com/album/2nDOFu69Mo4FlRVRdfW2Cp) | 2:32 |
 | 12 | [Woo](https://open.spotify.com/track/228aFvxsFK3AKgS4jSNVeu) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 2:09 |
 | 13 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 |
 | 14 | [Eii](https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Eii](https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw) | 2:20 |

@@ -4383,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+    },
+    {
+      "album": {
         "name": "Do One",
         "url": "https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS"
       },
@@ -6916,6 +6934,24 @@
       "duration_ms": 137853,
       "name": "Heathen Days",
       "url": "https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb"
+    },
+    {
+      "album": {
+        "name": "LIVE FAST DIE YOUNG",
+        "url": "https://open.spotify.com/album/6Mg3wIvdPG9UJk6gJOtWn3"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199556,
+      "name": "HEAVY GLOW",
+      "url": "https://open.spotify.com/track/7Jl5sUyMCYycpnX2jbtEbg"
     },
     {
       "album": {
@@ -15508,24 +15544,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "LIVE FAST DIE YOUNG",
-        "url": "https://open.spotify.com/album/6Mg3wIvdPG9UJk6gJOtWn3"
-      },
-      "artists": [
-        {
-          "name": "Comastatic",
-          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7Jl5sUyMCYycpnX2jbtEbg"
     },
     {
       "album": {

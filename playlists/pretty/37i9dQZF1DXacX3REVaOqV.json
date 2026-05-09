@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 498576,
+  "num_followers": 498574,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 190078,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "In It",
         "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 190952,
       "name": "In It",
       "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/0ziM3QyHWTk0MBKQO3SZFQ"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4A5x3SuJdoP56UR3qXV3Dp"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
         "name": "With You (Tonight)",
         "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 200704,
       "name": "With You (Tonight)",
       "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/0ziM3QyHWTk0MBKQO3SZFQ"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/4A5x3SuJdoP56UR3qXV3Dp"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Dare You",
-        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Dare You",
-      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Remember EP",
         "url": "https://open.spotify.com/album/1cqv3d9Vr5IoSerR9sDMUz"
       },
@@ -1343,22 +1323,22 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Mali Spirit (Folamour Remix)",
-        "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
       },
       "artists": [
         {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         },
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 191617,
-      "name": "Mali Spirit - Folamour Remix",
-      "url": "https://open.spotify.com/track/4z0nAGmNM70ygVhxLLOylS"
+      "duration_ms": 182044,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1383,6 +1363,26 @@
       "duration_ms": 191208,
       "name": "Save Me No More",
       "url": "https://open.spotify.com/track/0Le9EaDBqEQbv7jjjpPxTO"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Mali Spirit (Folamour Remix)",
+        "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 191617,
+      "name": "Mali Spirit - Folamour Remix",
+      "url": "https://open.spotify.com/track/4z0nAGmNM70ygVhxLLOylS"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Some Time EP",
         "url": "https://open.spotify.com/album/0ayGMCf1QlDUFlm0cuNoOu"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 231627,
       "name": "Some Time",
       "url": "https://open.spotify.com/track/0SyvcPgEiq2ogFWmOZ7crs"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Till The Night",
-        "url": "https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "Till The Night",
-      "url": "https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Everything For You",
         "url": "https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 167208,
       "name": "Everything For You",
       "url": "https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Till The Night",
+        "url": "https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Till The Night",
+      "url": "https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Keeping Me Safe",
-        "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
-      },
-      "artists": [
-        {
-          "name": "Melsen",
-          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Keeping Me Safe",
-      "url": "https://open.spotify.com/track/5PnY7GVyXfy6fsMHFPFAGU"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Saving It All",
         "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 186268,
       "name": "Saving It All",
       "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Keeping Me Safe",
+        "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
+      },
+      "artists": [
+        {
+          "name": "Melsen",
+          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Keeping Me Safe",
+      "url": "https://open.spotify.com/track/5PnY7GVyXfy6fsMHFPFAGU"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Come To Me",
-        "url": "https://open.spotify.com/album/35D0vdADZhq3wiyrejju1d"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        }
-      ],
-      "duration_ms": 199248,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/2qWEfQHQsIjJKkZk3NYr2O"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Jazzin' The Way You Know (Francisco Allendes Remix)",
         "url": "https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 204375,
       "name": "Jazzin' The Way You Know - Francisco Allendes Remix",
       "url": "https://open.spotify.com/track/2VgMNEahVLNLzlQ9Mmlg4v"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/35D0vdADZhq3wiyrejju1d"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "duration_ms": 199248,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/2qWEfQHQsIjJKkZk3NYr2O"
     },
     {
       "added_at": "2026-05-07 22:04:02",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2026-05-07 22:04:02",
       "album": {
-        "name": "Backyard Galaxy",
-        "url": "https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 282051,
-      "name": "Backyard Galaxy",
-      "url": "https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H"
-    },
-    {
-      "added_at": "2026-05-07 22:04:02",
-      "album": {
         "name": "Dancing (Samm Remix)",
         "url": "https://open.spotify.com/album/4i9KcN0cSezrfYaI6T2sNm"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 240024,
       "name": "Dancing - Samm Remix",
       "url": "https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM"
+    },
+    {
+      "added_at": "2026-05-07 22:04:02",
+      "album": {
+        "name": "Backyard Galaxy",
+        "url": "https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 282051,
+      "name": "Backyard Galaxy",
+      "url": "https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H"
     },
     {
       "added_at": "2026-05-07 22:04:02",

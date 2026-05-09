@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
@@ -3166,6 +3166,24 @@
       "duration_ms": 325802,
       "name": "She Can't Love You",
       "url": "https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP"
+    },
+    {
+      "album": {
+        "name": "Nuda Propriet\u00e0",
+        "url": "https://open.spotify.com/album/16nWe1V9fqPFYuspfzt5Nn"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190959,
+      "name": "Signora",
+      "url": "https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d"
     },
     {
       "album": {

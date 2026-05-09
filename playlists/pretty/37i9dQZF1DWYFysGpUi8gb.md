@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring pigeon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,844 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,834 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Rifle](https://open.spotify.com/track/5soelceHlRGVKDrybGJo1U) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 4:31 |
 | 80 | [Play Pretend](https://open.spotify.com/track/3LxPW6GwjZYEMwDQfqLHkE) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [9Million](https://open.spotify.com/album/79py83N1md93QCNFPoSfQF) | 3:26 |
 
-Snapshot ID: `AAAAAOKlvSLkZRQGSnIC0PD0/6yASSlQ`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

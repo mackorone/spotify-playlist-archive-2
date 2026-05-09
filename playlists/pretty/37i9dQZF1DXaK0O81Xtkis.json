@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Daniel Seavey",
-  "num_followers": 229740,
+  "num_followers": 229744,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE5dnF93N8VMb3IIMnjSJnofdZd5",
+  "snapshot_id": "AAAAADgSMqtQ6E2EteIUmk2xbTjHV3oG",
   "tracks": [
     {
       "added_at": "2026-04-24 04:01:34",
@@ -39,6 +39,22 @@
       "duration_ms": 178477,
       "name": "no more regrets",
       "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
+    },
+    {
+      "added_at": "2026-05-08 04:02:28",
+      "album": {
+        "name": "in my body",
+        "url": "https://open.spotify.com/album/0YvWSPlxT18oUjmLbchLex"
+      },
+      "artists": [
+        {
+          "name": "ieuan",
+          "url": "https://open.spotify.com/artist/6t0xwGS4HEjHUuMIvRyKoh"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "in my body",
+      "url": "https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V"
     },
     {
       "added_at": "2026-05-04 17:05:27",
@@ -91,6 +107,22 @@
       "duration_ms": 208719,
       "name": "Clueless (feat. Aly & AJ)",
       "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
+    },
+    {
+      "added_at": "2026-05-08 04:02:28",
+      "album": {
+        "name": "Little Blue House",
+        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Little Blue House",
+      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
     },
     {
       "added_at": "2026-05-01 04:48:34",
@@ -927,38 +959,6 @@
       "duration_ms": 152720,
       "name": "moment",
       "url": "https://open.spotify.com/track/1F5G0Au0xfNSYnX7NCDnqC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "Girlhood",
-        "url": "https://open.spotify.com/album/05KNazpljahHfx1ElDNujj"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
-        }
-      ],
-      "duration_ms": 136225,
-      "name": "Girls Just Wanna",
-      "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
-    },
-    {
-      "added_at": "2026-02-06 10:00:13",
-      "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/5LHuSgAPwwcSsNqkyJtFrM"
-      },
-      "artists": [
-        {
-          "name": "Micah Dailey-White",
-          "url": "https://open.spotify.com/artist/0SSLcKlt82IAYAFVKljEZc"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/5y0RughFKGYIldQ8CGRXdW"
     },
     {
       "added_at": "2026-02-06 10:00:13",

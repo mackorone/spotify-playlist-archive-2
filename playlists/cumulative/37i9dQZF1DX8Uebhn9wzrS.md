@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,497 songs - 3 day 23 hr 3 min
+2,499 songs - 3 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [Feeling Myself](https://open.spotify.com/track/1ecJea7PNSjIRw6xW4uxvs) | [Swoozy](https://open.spotify.com/artist/5sP6S7dFC7D2jWt7ydbGJn), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Feeling Myself](https://open.spotify.com/album/2AZyjF7lRKKh0Q0CWsNPtN) | 2:29 | 2023-01-06 | 2023-03-09 |
 | [Feeling Relaxed](https://open.spotify.com/track/3Xs7hvI1tofJ5KAwcHKzoO) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Feeling Relaxed](https://open.spotify.com/album/76Het5EiAMnghGM3B14KtR) | 2:08 | 2022-08-12 | 2022-12-17 |
 | [Feelings](https://open.spotify.com/track/2WssIKerucCL8Y1OSW5Kpe) | [Max Rolls](https://open.spotify.com/artist/26y4jZ3fN6x7BxjhaBggE7) | [LoFi Chill Universe](https://open.spotify.com/album/5rz4xOfz5mMVZp1l37CI2T) | 1:51 | 2022-09-02 | 2022-12-24 |
+| [fell in love](https://open.spotify.com/track/14wcOAje2BxfsBzTCoKbBI) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [fell in love](https://open.spotify.com/album/2fleamHsfUsd3A9kH0dgaO) | 2:04 | 2026-05-08 |  |
 | [Fellow Friend](https://open.spotify.com/track/1SDv213wb1dZLlvnadfU5R) | [Toppis Tom](https://open.spotify.com/artist/5Wd9JTpUMvXCit3ugNv0FV) | [Fellow Friend](https://open.spotify.com/album/2jBg3GOh3xl7b49XY2npN6) | 2:03 | 2022-04-15 | 2022-06-25 |
 | [felt cute might delete later](https://open.spotify.com/track/2xb0RZbOMPKK1IYdiym40k) | [Lonny serenity](https://open.spotify.com/artist/0mdQEEcxlhORVzpDA05vRn) | [felt cute might delete later](https://open.spotify.com/album/4wh6HDqI6ZKQSBAQBNyflQ) | 2:19 | 2025-07-11 | 2025-11-26 |
 | [Felted Wool](https://open.spotify.com/track/1j51ge98kGmME62kKxFo4G) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Testdrive](https://open.spotify.com/album/04759YuUbVbnSkpoOO47rP) | 3:17 | 2022-04-15 | 2022-07-22 |
@@ -746,6 +747,7 @@
 | [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2023-02-13 | 2025-05-05 |
 | [Final Destination](https://open.spotify.com/track/5uaIokPB63EyNp2e0nbRpN) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Final Destination](https://open.spotify.com/album/0CFOKN17H7EWQ7dmtA5dpy) | 2:07 | 2023-02-06 | 2023-09-29 |
 | [find whats lost](https://open.spotify.com/track/2iDjJIo3TsomxvqSNd2k1i) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [find whats lost](https://open.spotify.com/album/0CXb8FVMWwuEcLZuVYTUGm) | 2:08 | 2024-11-08 | 2026-02-07 |
+| [finding the surface](https://open.spotify.com/track/2zCfxO5i0sZalxD36ydDZh) | [rasbora](https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF) | [finding the surface](https://open.spotify.com/album/1SrSia7EHV4lzAxRmT8FyZ) | 1:42 | 2026-05-08 |  |
 | [Findings](https://open.spotify.com/track/46dzk7cORXnFdegl7aNK3I) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Findings](https://open.spotify.com/album/5am6AqmZgScCkMkjWfoGs2) | 2:17 | 2024-01-19 | 2025-01-27 |
 | [finesse](https://open.spotify.com/track/4vHR6RgtHgcv2BvHmBMEED) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [finesse](https://open.spotify.com/album/3nDmwcQbQLrc3zCxAMFtXZ) | 2:08 | 2023-04-03 | 2024-02-09 |
 | [Finger Painting](https://open.spotify.com/track/3d0MPatL3b3jvmbjdcCFwo) | [Hillways](https://open.spotify.com/artist/4UHkYUJbceL48XowKrC4Mg) | [Finger Painting](https://open.spotify.com/album/0v85RUxCwvCBRYyiHDCxby) | 3:18 | 2025-05-23 | 2025-07-18 |
@@ -1311,7 +1313,7 @@
 | [Magic Portal](https://open.spotify.com/track/5TAtNSXkDodhcFOb0Skdei) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Magic Portal](https://open.spotify.com/album/2kGZ6lMnDXrD6TbkVL16rM) | 2:11 | 2025-05-16 | 2025-05-24 |
 | [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2022-11-11 | 2025-07-11 |
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2022-04-15 | 2022-08-19 |
-| [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-09-13 |  |
+| [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-09-13 | 2026-05-09 |
 | [Makes me smile](https://open.spotify.com/track/2zrVLM8J5exaoXrrKmRQWy) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:38 | 2022-04-15 | 2023-08-18 |
 | [Makin’ Headlines](https://open.spotify.com/track/7fXRjZ8E2EjErGJTiz2U8E) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:16 | 2022-04-22 | 2022-07-01 |
 | [makossa](https://open.spotify.com/track/6qEJJTi2E6Wm5V1WgZ5M2c) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [makossa](https://open.spotify.com/album/6xqbqYdVcOYWV5rls4OLVY) | 1:17 | 2022-12-16 | 2023-09-16 |
@@ -2060,7 +2062,7 @@
 | [stay closer](https://open.spotify.com/track/26d8n4MjhZNopkmZKqCHM0) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [stay closer](https://open.spotify.com/album/5pSHFnyIyAM9LWI2CtGXhJ) | 2:05 | 2025-01-31 | 2025-04-12 |
 | [stay here forever](https://open.spotify.com/track/7a6pu1aq2siFqMiLsLTcbB) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [stay here forever](https://open.spotify.com/album/4NLgYPTckHgyaiG3bZNqHP) | 2:14 | 2025-01-10 |  |
 | [Stellar Mood](https://open.spotify.com/track/0ZEzdu0ICYA1aVO9ANzSyj) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Stellar Mood](https://open.spotify.com/album/3M9MFOVJXXZafVstHH7TRO) | 2:07 | 2026-02-27 |  |
-| [Still There](https://open.spotify.com/track/3ubaTQbQBCTKAJzVAA7Nfo) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Still There](https://open.spotify.com/album/6KYMCWzus3n9itSNDOMWhm) | 2:21 | 2026-04-24 |  |
+| [Still There](https://open.spotify.com/track/3ubaTQbQBCTKAJzVAA7Nfo) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Still There](https://open.spotify.com/album/6KYMCWzus3n9itSNDOMWhm) | 2:21 | 2026-04-24 | 2026-05-09 |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2023-07-13 | 2024-09-07 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 |  |
 | [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 | 2025-11-26 |

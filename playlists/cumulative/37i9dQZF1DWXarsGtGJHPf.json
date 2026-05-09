@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Love Is Enough (From \"Sold Out On You\")",
+        "url": "https://open.spotify.com/album/0yybYpTUvgAzcWRTM36hUh"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176383,
+      "name": "Love Is Enough (From \"Sold Out On You\")",
+      "url": "https://open.spotify.com/track/2zwhPcm78NCb5C2SSDWo7H"
+    },
+    {
+      "album": {
         "name": "Love Me Like That",
         "url": "https://open.spotify.com/album/3Tj0UaVVkdPcGBEQObIVsF"
       },

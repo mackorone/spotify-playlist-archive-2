@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 39108,
+  "num_followers": 39105,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
         "name": "Silver Bells",
         "url": "https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 225560,
       "name": "Where The Snow Still Falls",
       "url": "https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
-        "name": "O Come, All Ye Faithful",
-        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
-      },
-      "artists": [
-        {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 154096,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Candy Canes and Silver Lanes",
         "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 223151,
       "name": "Candy Canes and Silver Lanes",
       "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 154096,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Tis the season",
-        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
-      },
-      "artists": [
-        {
-          "name": "Wonder Eve",
-          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
-        }
-      ],
-      "duration_ms": 214596,
-      "name": "Tis the season",
-      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "O Tannenbaum",
         "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 123173,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Deck the Halls",
-        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 99179,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Under My Christmas Tree",
         "url": "https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 186139,
       "name": "Under My Christmas Tree",
       "url": "https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 99179,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
     }
   ],
   "unique_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",

@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 298746,
       "name": "STAY TUNE",
       "url": "https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 164574,
       "name": "With Love feat. luv",
       "url": "https://open.spotify.com/track/5ZmDD0nqtQJBF11wXY9Kvl"
@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230900,
+      "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30f3\u30c0\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR"
       },
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 234833,
       "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/7szRe1COShmdjV3TLfz5OH"
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179733,
       "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af - EXPO Ver.",
       "url": "https://open.spotify.com/track/6DzJMmYinqYolgovmGRJYT"
@@ -1600,6 +1618,24 @@
       "duration_ms": 261013,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
+    },
+    {
+      "album": {
+        "name": "sakanaction",
+        "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302920,
+      "name": "\u591c\u306e\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
     },
     {
       "album": {
@@ -2003,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "\u6d77\u7537\u3068\u7460\u7483\u4e9c feat. \u7d30\u91ce\u6674\u81e3",
+        "url": "https://open.spotify.com/album/4iEw0per262Njk0Coh1LSQ"
+      },
+      "artists": [
+        {
+          "name": "Akiko Yano",
+          "url": "https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns"
+        },
+        {
+          "name": "\u7d30\u91ce\u6674\u81e3",
+          "url": "https://open.spotify.com/artist/2LUpsu2LbJcvlyfBYYzll0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "\u6d77\u7537\u3068\u7460\u7483\u4e9c feat. \u7d30\u91ce\u6674\u81e3",
+      "url": "https://open.spotify.com/track/6kLTgCH4gwjhnEhrNTSgbH"
+    },
+    {
+      "album": {
         "name": "\u6e07\u611b\u30a8\u30c1\u30e5\u30fc\u30c9",
         "url": "https://open.spotify.com/album/4KBFxaLgn0QSSPPiH9qITh"
       },
@@ -2144,6 +2202,24 @@
       "duration_ms": 266866,
       "name": "\u771f\u5b9f",
       "url": "https://open.spotify.com/track/2iRYzIJmIrANFCcJpGsu1V"
+    },
+    {
+      "album": {
+        "name": "\u7761\u308b\u541b",
+        "url": "https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248235,
+      "name": "\u7761\u308b\u541b",
+      "url": "https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0"
     },
     {
       "album": {

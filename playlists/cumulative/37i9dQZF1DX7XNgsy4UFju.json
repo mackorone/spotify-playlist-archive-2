@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The Best Indie Tracks of the Moment w/ Finn Wolfhard",
+  "description": "The Best Indie Tracks of the Moment w/ Broken Social Scene",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -5177,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Big Dog",
+        "url": "https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX"
+    },
+    {
+      "album": {
         "name": "Big Smoke",
         "url": "https://open.spotify.com/album/55jejAjtHUgzIbF2Lde861"
       },
@@ -9386,7 +9404,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 224674,
       "name": "Close Your Mouth",
       "url": "https://open.spotify.com/track/7CBKuVXLfkpblzE6d65Pyn"
@@ -9426,6 +9444,24 @@
       "duration_ms": 378102,
       "name": "Cloud Land",
       "url": "https://open.spotify.com/track/0HDhTmv35SU9n2uppSWKVP"
+    },
+    {
+      "album": {
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2Diqky5gHLlBs2A3X4UfRC"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208876,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb"
     },
     {
       "album": {
@@ -13321,6 +13357,24 @@
     },
     {
       "album": {
+        "name": "dog eyed",
+        "url": "https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137767,
+      "name": "dog eyed",
+      "url": "https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN"
+    },
+    {
+      "album": {
         "name": "Mika's Laundry",
         "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
       },
@@ -13630,6 +13684,24 @@
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "album": {
+        "name": "DooYaa",
+        "url": "https://open.spotify.com/album/6GsqpP0ninahTw13sGwitC"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121656,
+      "name": "DooYaa",
+      "url": "https://open.spotify.com/track/5FGPEPnoiNYn03xnF11XeK"
     },
     {
       "album": {
@@ -14280,6 +14352,24 @@
       "duration_ms": 97577,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
     },
     {
       "album": {
@@ -20384,7 +20474,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 209444,
       "name": "Hard to be Human",
       "url": "https://open.spotify.com/track/0d6wMI2L9O1h5mHySumYOF"
@@ -20530,6 +20620,24 @@
       "duration_ms": 260506,
       "name": "Have You Considered?",
       "url": "https://open.spotify.com/track/5HpJZ8oogq6EP1OsMD9W38"
+    },
+    {
+      "album": {
+        "name": "Haveluck Country",
+        "url": "https://open.spotify.com/album/7LyPXWmWi6lfuT862UHQFb"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290883,
+      "name": "Haveluck Country",
+      "url": "https://open.spotify.com/track/71IaDBix6TTuOWnnTVk9Eu"
     },
     {
       "album": {
@@ -28784,7 +28892,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 212571,
       "name": "Let's Kill Ourselves",
       "url": "https://open.spotify.com/track/0kxUpznSeIWT5F9aIResEX"
@@ -29278,6 +29386,24 @@
       "duration_ms": 182233,
       "name": "limbo",
       "url": "https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1"
+    },
+    {
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
       "album": {
@@ -30524,6 +30650,24 @@
       "duration_ms": 164480,
       "name": "Lover's Spit",
       "url": "https://open.spotify.com/track/0H4lTSvGqOj2xTWe43Awhx"
+    },
+    {
+      "album": {
+        "name": "Experiencing Feelings of Joy",
+        "url": "https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234292,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH"
     },
     {
       "album": {
@@ -32895,6 +33039,24 @@
     },
     {
       "album": {
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
+    },
+    {
+      "album": {
         "name": "Murder on the Dancefloor (triple j Like A Version)",
         "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
@@ -33162,7 +33324,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 189583,
       "name": "My House Divides",
       "url": "https://open.spotify.com/track/3aFrduOAwamwGOiyRkIP0T"
@@ -34791,6 +34953,24 @@
     },
     {
       "album": {
+        "name": "Total Cinema (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1R5377B7Qcdae9VYAYtFf0"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299306,
+      "name": "Northern Accent",
+      "url": "https://open.spotify.com/track/2BkLpn5X0p2tYVEjfZnQg8"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD"
       },
@@ -36132,6 +36312,24 @@
       "duration_ms": 203340,
       "name": "Only One I Want",
       "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
+    },
+    {
+      "album": {
+        "name": "Remember The Humans",
+        "url": "https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Only The Good I Keep",
+      "url": "https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD"
     },
     {
       "album": {
@@ -39272,7 +39470,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 211945,
       "name": "R3verse",
       "url": "https://open.spotify.com/track/06QzPn91srChnujaOnUN5A"
@@ -43987,6 +44185,24 @@
     },
     {
       "album": {
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
+    },
+    {
+      "album": {
         "name": "So Soon",
         "url": "https://open.spotify.com/album/1UZe6JrsMOefY2SUP71rhT"
       },
@@ -44831,6 +45047,28 @@
     },
     {
       "album": {
+        "name": "spill",
+        "url": "https://open.spotify.com/album/5tJVmhPFxlPvt6XBN9lCuW"
+      },
+      "artists": [
+        {
+          "name": "shane",
+          "url": "https://open.spotify.com/artist/328tDiwMTmuvnBGudZtb4o"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "spill",
+      "url": "https://open.spotify.com/track/6hnS1s3LCpOhIIeutpoGGp"
+    },
+    {
+      "album": {
         "name": "The Shark in Your Water",
         "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
@@ -45492,6 +45730,24 @@
       "duration_ms": 178406,
       "name": "steer",
       "url": "https://open.spotify.com/track/4H6koInIFUq2k2qaSFPuWG"
+    },
+    {
+      "album": {
+        "name": "Stem the Flow",
+        "url": "https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Stem the Flow",
+      "url": "https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA"
     },
     {
       "album": {
@@ -46946,6 +47202,28 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "album": {
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/3lrUZeRSqIbRw79Ps8RWH2"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        },
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247202,
+      "name": "Take Heart",
+      "url": "https://open.spotify.com/track/2nLYQRnMrVzoSRb59V04kl"
     },
     {
       "album": {
@@ -49350,7 +49628,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 218800,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/5GuJ1ju9zTTH0IsKXK5eeZ"
@@ -50510,6 +50788,24 @@
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+    },
+    {
+      "album": {
+        "name": "To Be Lost in a Dream",
+        "url": "https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175599,
+      "name": "To Be Lost",
+      "url": "https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS"
     },
     {
       "album": {
@@ -53210,7 +53506,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 272196,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
@@ -56358,7 +56654,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166496,
       "name": "You've Got Everything - But A Smile (Theme from \"Dead Lover\")",
       "url": "https://open.spotify.com/track/6NrYRk0QcfZDSWrezlywEu"

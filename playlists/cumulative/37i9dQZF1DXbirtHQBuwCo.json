@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Olivia Marsh)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: DEAN & Anderson .Paak)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -612,6 +612,28 @@
       "duration_ms": 151746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2"
+    },
+    {
+      "album": {
+        "name": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
+        "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Aftertaste - from Original Motion Picture Soundtrack K-POPS!",
+      "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
       "album": {
@@ -5562,7 +5584,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198440,
       "name": "Feel It Too",
       "url": "https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp"
@@ -13182,7 +13204,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
@@ -17022,7 +17044,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"

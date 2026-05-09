@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari SIENNA SPIRO, BTS, Sal Priadi, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari enau, Ari Lesmana, BTS, Sal Priadi, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 388 songs - 1 day 0 hr 2 min
 

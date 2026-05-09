@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,093 songs - 2 day 8 hr 34 min
+1,094 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [El Dorado](https://open.spotify.com/track/0tGv6A7alg2EiRadi0b5TQ) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY), [Hamza](https://open.spotify.com/artist/6k9hwEEAQKRQsnjAf0ndt1) | [El Dorado](https://open.spotify.com/album/1gmhX0AHoc1cnC1M6FQOei) | 4:42 | 2024-04-26 | 2024-06-29 |
 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 | 2024-08-16 | 2025-04-05 |
 | [Ella, elle l'a \- Remasterisé en 2004](https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 4:51 | 2024-05-24 | 2024-07-27 |
-| [Elle](https://open.spotify.com/track/3fwHNOVQQIfzmeBLw63axG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [On s'promet](https://open.spotify.com/album/3Qj3KKyfPR5oRItnrMrn9K) | 3:31 | 2026-01-23 |  |
+| [Elle](https://open.spotify.com/track/3fwHNOVQQIfzmeBLw63axG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [On s'promet](https://open.spotify.com/album/3Qj3KKyfPR5oRItnrMrn9K) | 3:31 | 2026-01-23 | 2026-05-09 |
 | [ELLE](https://open.spotify.com/track/53L31wZaBGqyrTDExHsaJ9) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 2:50 | 2025-06-06 | 2025-07-01 |
 | [Elle a mal \(feat\. Niska\)](https://open.spotify.com/track/2ct8sYE8u8UZT229rWvXwL) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 3:13 | 2023-05-19 | 2024-07-27 |
 | [Elle m'a aimé](https://open.spotify.com/track/7nge1KGzvd36KljBjRb063) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Kendji](https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm) | 3:26 | 2025-03-28 | 2025-05-23 |
@@ -662,6 +662,7 @@
 | [MINUIT PILE](https://open.spotify.com/track/01kvKrTJRtr46q2SRW24yK) | [Braak's](https://open.spotify.com/artist/5lCApSCPniQPmRqWo12oG4) | [MINUIT PILE](https://open.spotify.com/album/0XEhUmLCMqTlWFyQMxwq9S) | 3:10 | 2024-10-04 | 2025-01-29 |
 | [Mirage](https://open.spotify.com/track/0KplBbjiVQ2oaPsx5TawwH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Mirage](https://open.spotify.com/album/0MEK1B5cx2RcBhNyjoKozb) | 2:49 | 2023-11-10 | 2024-02-03 |
 | [Miskine](https://open.spotify.com/track/1oAJcJ1Wqg5lkHHTdRGOld) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:00 | 2023-11-10 | 2024-01-27 |
+| [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-05-08 |  |
 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 | 2025-01-31 | 2025-02-22 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-20 | 2023-12-14 |
 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 | 2025-09-11 |  |

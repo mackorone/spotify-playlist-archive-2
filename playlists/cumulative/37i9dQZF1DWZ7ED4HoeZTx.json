@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 481378,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/4EouoYXPLTgO1v16BE8t4L"
@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
+        "url": "https://open.spotify.com/album/1tGGXTiU9sBCuOSy2Fuvi4"
+      },
+      "artists": [
+        {
+          "name": "Nakamura Hak",
+          "url": "https://open.spotify.com/artist/3dyQzEg20lVCIo245spjoT"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
+      "url": "https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9\u3078\u306e\u671f\u5f85\u306f",
         "url": "https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 286426,
       "name": "\u307f\u3061\u3057\u308b\u3079",
       "url": "https://open.spotify.com/track/3dRVzK0PsqrT2WUuAGvitu"
@@ -2070,6 +2088,24 @@
       "duration_ms": 232900,
       "name": "\u30c9\u30e9\u30e0\u5f0f\u63a2\u67fb\u6a5f",
       "url": "https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230900,
+      "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
     },
     {
       "album": {

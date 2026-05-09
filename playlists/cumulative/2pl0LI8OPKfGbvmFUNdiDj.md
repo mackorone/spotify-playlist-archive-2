@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-454 songs - 1 day 1 hr 27 min
+456 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Latente](https://open.spotify.com/track/3ujkaYSzU2tRuRCnyB5w8e) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Diana Tagle](https://open.spotify.com/artist/2S6LlZoAlTysVqqOluxHWW) | [Latente](https://open.spotify.com/album/4kbpB8ADo8Zb0HTaAKwDyy) | 2:23 | 2026-04-20 |  |
 | [Latina BB](https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8) | [cami santiz](https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S) | [Latina BB](https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3) | 2:17 | 2026-01-29 | 2026-03-03 |
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2025-10-19 | 2026-01-05 |
+| [Le corde della vita](https://open.spotify.com/track/4W6v9RtutrPDEnCCHM8Atx) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Le corde della vita](https://open.spotify.com/album/3jEZbbgSTP2vENSPoPfL9j) | 2:25 | 2026-05-08 |  |
 | [Leave Me Alone](https://open.spotify.com/track/58k6KdzzvSjfUWkRpvbFYi) | [Mitirikpwe Patricia](https://open.spotify.com/artist/0NEmwN7vYujcKPM4hs5cVh) | [Mitirikpwe](https://open.spotify.com/album/1UgRg1mzV72aE0VQPdtujP) | 3:26 | 2025-11-17 | 2026-01-05 |
 | [Let Me Be Me](https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75) | [Lilly Sweetness](https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu) | [Blessings](https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4) | 3:54 | 2026-02-28 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-01-29 | 2026-03-03 |
@@ -371,6 +372,7 @@
 | [Sunburned In Scotland](https://open.spotify.com/track/2gVum3evW4JCKUUh7udCvd) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Sunburned In Scotland](https://open.spotify.com/album/54I0EcPsLP0o51GZpHYeTQ) | 2:53 | 2025-11-03 | 2025-12-01 |
 | [Superstar](https://open.spotify.com/track/7KeNKunMRtD0kLDr0NpjDg) | [Valarie Hill](https://open.spotify.com/artist/5rPY7Ifiv1oaetOtv3vjid) | [Superstar](https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0) | 2:30 | 2025-11-01 | 2025-12-01 |
 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 | 2025-12-23 | 2026-01-15 |
+| [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-05-08 |  |
 | [Take Me There](https://open.spotify.com/track/0T540jldrQIbUy0WuZplnX) | [J.Soul](https://open.spotify.com/artist/5jdVWEJI1micvPRupftugZ) | [Take Me There](https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE) | 4:16 | 2025-12-23 | 2026-01-15 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |
 | [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-12-04 | 2026-01-05 |

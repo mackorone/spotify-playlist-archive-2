@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay & Aaron Blommaert
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,936 likes - 78 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,965 likes - 78 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 6 | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp) | 3:24 |
 | 7 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
 | 8 | [Jaar Na Jaar](https://open.spotify.com/track/2Yi9J5Z5U6a34l5enJgnkN) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Jaar Na Jaar](https://open.spotify.com/album/2bJHVGM3m64bOaxgWiFOy0) | 2:54 |
-| 9 | [Track 2](https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Wervelwind](https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT) | 0:00 |
+| 9 | [Wervelwind](https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Wervelwind](https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT) | 2:41 |
 | 10 | [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 |
 | 11 | [Los Vast](https://open.spotify.com/track/0J4y7Cg7IbNcje8MehpqSf) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Los Vast](https://open.spotify.com/album/0gZRLYSNDUMeIfzxrPoxWr) | 3:09 |
 | 12 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 |

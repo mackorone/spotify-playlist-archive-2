@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> Jensen McRae on the cover <3
+> Buffalo Traffic Jam on the cover <3
 
-797 songs - 2 day 0 hr 9 min
+803 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All Them Horses](https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:13 | 2026-04-24 |  |
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-10-06 | 2024-03-13 |
 | [Already \(On My Mind\)](https://open.spotify.com/track/4cyBtKUXd8wWVqgus5k0Mb) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Already \(On My Mind\)](https://open.spotify.com/album/3ovRHqssF6llmo4CXg4ZRW) | 2:52 | 2024-07-12 | 2025-03-13 |
+| [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 | 2026-05-08 |  |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-10-06 | 2024-05-25 |
 | [American Teenage Prophecy](https://open.spotify.com/track/3fGewiHyMYBWH3aGciSDJo) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [American Teenage Prophecy](https://open.spotify.com/album/480qaahln1j5C4hbuTvl2b) | 3:40 | 2026-02-13 |  |
 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 | 2024-10-11 | 2025-05-10 |
@@ -59,6 +60,7 @@
 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-06 | 2025-05-31 |
 | [Beholden to the Birds Murmuring Above](https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Nested in Tangles \(Deluxe\)](https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE) | 4:44 | 2026-04-24 |  |
 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 | 2025-06-13 | 2026-01-24 |
+| [Believing](https://open.spotify.com/track/7xaa764VHfmidbR2nKxQFE) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Believing](https://open.spotify.com/album/7FLiuqAY7i6ahQ5WekIJB4) | 4:00 | 2026-05-08 |  |
 | [Belly of the Whale](https://open.spotify.com/track/4bydArt0Ervz2Yfh5CBVHe) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:53 | 2026-01-30 |  |
 | [Best Guess](https://open.spotify.com/track/6b3VHyOfkhi6RnzDJuqceh) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 4:00 | 2025-03-18 | 2025-05-31 |
 | [Best Waitress \(v1\)](https://open.spotify.com/track/3DD0xdjiHAkNF87jf4YWzt) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Best Waitress \(v1\)](https://open.spotify.com/album/25DxXS2UHZlui1NW25r70X) | 2:45 | 2026-01-09 |  |
@@ -319,6 +321,7 @@
 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 | 2024-06-14 | 2024-10-19 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2025-01-18 |
 | [How to Dance Pt.2](https://open.spotify.com/track/1kHwK0eJjFkP1Ytp4EZBYb) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [For Then](https://open.spotify.com/album/2NdArO2qIfFZbgSl8Vgeiq) | 2:26 | 2026-03-27 |  |
+| [How to Forget](https://open.spotify.com/track/0F1J3RNup9k1kbkezKy0Eb) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 4:01 | 2026-05-08 |  |
 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 | 2023-10-06 | 2024-03-09 |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-10-06 | 2024-04-27 |
 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 | 2023-11-10 | 2023-12-09 |
@@ -522,6 +525,7 @@
 | [Persimmon](https://open.spotify.com/track/5k4k6yqihuv3mcgXzDISKQ) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Fruit For Flies](https://open.spotify.com/album/09XjI8xRCkYwwQouWsarak) | 2:49 | 2024-09-03 | 2025-03-13 |
 | [Personified](https://open.spotify.com/track/4yd4nDCAiHzeu0BsetmtFN) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Personified](https://open.spotify.com/album/4QjQZhAuJUSt7busfeDsrc) | 3:09 | 2025-12-12 |  |
 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 | 2025-11-14 | 2026-01-17 |
+| [Pictures of You](https://open.spotify.com/track/4uw8eVbfUdCAjLp3yt4Woe) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Pictures of You](https://open.spotify.com/album/63DzXorHF9MwDkDZKVkfaL) | 3:34 | 2026-05-08 |  |
 | [pieces](https://open.spotify.com/track/3T75q5HwEOMfZXZgCWnstl) | [brendon b](https://open.spotify.com/artist/6hU7BmY0hzSFRIt3szp3B5) | [pieces](https://open.spotify.com/album/6kdc2r3GV5eMRucsYQLtVT) | 3:13 | 2026-02-27 |  |
 | [pink moon](https://open.spotify.com/track/7ps6k8CDGZBh9201nz6UK7) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [pink moon](https://open.spotify.com/album/6obyaef6k16jbYn4EFhCuE) | 3:21 | 2026-04-10 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2024-10-12 |
@@ -585,6 +589,7 @@
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 | 2025-01-18 |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 | 2026-02-21 |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 | 2024-03-16 |
+| [See You Later, I'm Gone](https://open.spotify.com/track/79jGv17PjfApMbrMCrZ0OV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [See You Later, I'm Gone](https://open.spotify.com/album/4shbHhHop8TtPbbZAnfyeZ) | 4:31 | 2026-05-08 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-10-06 | 2024-03-16 |
 | [She Calls Me](https://open.spotify.com/track/1yUMO0WA3qrHItTdtCq3hl) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [She Calls Me](https://open.spotify.com/album/3Yi9nNzRpNOAX2JBZREY0r) | 2:24 | 2024-10-18 | 2025-05-10 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2023-12-09 |
@@ -805,5 +810,6 @@
 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 | 2024-02-16 | 2024-06-01 |
 | [Youth](https://open.spotify.com/track/6rN7TjmOYlaX5hWFVo9AYF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Youth](https://open.spotify.com/album/0R0Maf1eLnPMxhcFNvl83b) | 4:27 | 2024-05-10 | 2024-08-27 |
 | [Zinnias](https://open.spotify.com/track/67bSS4aLrasUNp3EQjdHTT) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 2:54 | 2023-10-06 | 2024-04-06 |
+| [Áine Greene](https://open.spotify.com/track/2W0SL0UPSRkSS9BckSiqgq) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Green 2](https://open.spotify.com/album/4ZRhLV4yNyTka6uNwnBj8B) | 2:45 | 2026-05-08 |  |
 
 \*This playlist was first scraped on 2023-10-07. Prior content cannot be recovered.

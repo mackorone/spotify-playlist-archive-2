@@ -39682,10 +39682,32 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208695,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/5RD2p6VgIUywa7GpoQ3lxg"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2fQwdyPID2ZJ1kyszUy4Pr"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        },
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/65oVVbbpt7AT6ImY2olX2y"
     },
     {
       "album": {

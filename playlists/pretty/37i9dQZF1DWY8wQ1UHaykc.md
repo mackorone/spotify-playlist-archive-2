@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,452 likes - 185 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,483 likes - 185 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 184 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 185 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2ZnMyljOhstLNMuzyGCnze) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/3tJ2FdfpXKoTJPPyXYEjZF) | 3:26 |
 
-Snapshot ID: `AAAAAK4JVEesjrw62whBQ2ScpZFhIIff`
+Snapshot ID: `AAAAAPawfK0HN6eUY91j5Nw0OWdUPFcZ`

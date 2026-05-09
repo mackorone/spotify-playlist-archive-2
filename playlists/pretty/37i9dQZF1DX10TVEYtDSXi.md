@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,163 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,165 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Komdu til baka](https://open.spotify.com/track/02CIbA3JKDCyi5Pa79mjfT) | [Kristmundur Axel](https://open.spotify.com/artist/2hZoJ9EKrV6YLfUKebCZCo), [Júlí Heiðar](https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT) | [Komdu til baka](https://open.spotify.com/album/6kjNxLt16geko9ZI6GYH43) | 2:56 |
 | 50 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 
-Snapshot ID: `AAAAABrPQ0b7sDDcSA2G74krzgFJt8qG`
+Snapshot ID: `AAAAAJXlnifxdRy7vZyHDnXZIEO78J+/`

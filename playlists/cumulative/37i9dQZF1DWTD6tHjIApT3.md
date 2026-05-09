@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: MoMo
 
-3,772 songs - 10 day 0 hr 14 min
+3,773 songs - 10 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,7 @@
 | [EASY MODE](https://open.spotify.com/track/4oXtBu13C6ta0Iqm8UJlKW) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD) | [EASY MODE](https://open.spotify.com/album/24kUGWGgUOb26O1hFIiSGk) | 2:15 | 2025-02-11 | 2025-02-19 |
 | [ebi](https://open.spotify.com/track/4l0n7YEXB9KQSV0DR3SpcT) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 3:01 | 2023-02-14 | 2023-02-22 |
 | [Echo](https://open.spotify.com/track/4ErpMug3IL59t0RNlZpJHZ) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [GOODTIMES](https://open.spotify.com/album/24Xie0R7HhGmlgLTmgTYBe) | 2:59 | 2025-08-05 | 2025-08-13 |
-| [echo](https://open.spotify.com/track/1jSAiZwc8bVKSogXmfBSXt) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [echo](https://open.spotify.com/album/1QByVVCDffthpL7GtzZ24I) | 3:50 | 2026-01-20 |  |
+| [echo](https://open.spotify.com/track/1jSAiZwc8bVKSogXmfBSXt) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [echo](https://open.spotify.com/album/1QByVVCDffthpL7GtzZ24I) | 3:50 | 2026-01-20 | 2026-05-09 |
 | [Echoes](https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP) | [芦田菜名子](https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4) | [Echoes](https://open.spotify.com/album/2Zt36TQLYR245njjr3rR0l) | 3:35 | 2025-06-11 | 2025-07-19 |
 | [Eclipse](https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Eclipse](https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt) | 3:55 | 2025-04-29 | 2025-10-15 |
 | [EDEN](https://open.spotify.com/track/1OqhdM5mUZ5fJeh4s5vhxg) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [EDEN](https://open.spotify.com/album/3vQHDzTYpr08HLbHprAInT) | 3:54 | 2023-09-12 | 2023-11-01 |
@@ -2350,6 +2350,7 @@
 | [ただ いま](https://open.spotify.com/track/2fpTYjPcYWxelCaiOITCAb) | [HIROBA](https://open.spotify.com/artist/2U0L6kjA28sfPtOpKtuH3Q), [Ai Hashimoto](https://open.spotify.com/artist/2DZVuKlWpZ0dHBLqqCP2gl) | [ただ いま](https://open.spotify.com/album/0R9hccMLPlfMHkESg8HmSB) | 6:29 | 2023-02-14 | 2023-02-16 |
 | [ただ いま](https://open.spotify.com/track/2vfYo7BN2GvsJh83NpprIx) | [HIROBA](https://open.spotify.com/artist/2U0L6kjA28sfPtOpKtuH3Q), [Ai Hashimoto](https://open.spotify.com/artist/2DZVuKlWpZ0dHBLqqCP2gl) | [HIROBA](https://open.spotify.com/album/5s0belplxdkwtyTQkBoR4t) | 6:29 | 2023-02-14 | 2023-02-22 |
 | [ただララバイ](https://open.spotify.com/track/2Y5AV1RaxjdpA3hK8XQnMf) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [脳内魔法](https://open.spotify.com/album/1wedojCzVS3Z9q6OT3vHO2) | 5:17 | 2023-10-10 | 2023-10-18 |
+| [ただ美しい呪い](https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq) | [Nakamura Hak](https://open.spotify.com/artist/3dyQzEg20lVCIo245spjoT) | [ただ美しい呪い](https://open.spotify.com/album/1tGGXTiU9sBCuOSy2Fuvi4) | 4:37 | 2026-05-05 |  |
 | [たぶん、きっと、ぜったい](https://open.spotify.com/track/1T241oWXMrqwaa7vVn1VZk) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [たぶん、きっと、ぜったい](https://open.spotify.com/album/3CwENF30PIMJt42GnY9sY7) | 3:20 | 2023-08-22 | 2023-08-30 |
 | [たゆたう](https://open.spotify.com/track/5qDRRbzn9voHdVHhFxF56s) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/3lkQnrcHp6BTqVfkUT5ktU) | 4:22 | 2023-11-28 | 2023-12-06 |
 | [たゆたうままに](https://open.spotify.com/track/0CChuQNcBctCFFC17znqRd) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [たゆたうままに](https://open.spotify.com/album/0UMRde9b3pNBHXTXUKDS3K) | 3:58 | 2025-07-08 | 2025-10-12 |

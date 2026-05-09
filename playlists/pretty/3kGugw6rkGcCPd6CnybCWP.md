@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 89 songs - 5 hr 5 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 91 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 87 | [PRETTY GIRL DONT CRY \- Haunted Version](https://open.spotify.com/track/5rFRRf4T1trKJRn4iR4Vgr) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [PRETTY GIRL DONT CRY \(Haunted Version\)](https://open.spotify.com/album/5hGSXhqlqNrBsDHHODFkip) | 3:55 |
 | 88 | [fade away](https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fade away](https://open.spotify.com/album/0zETxreVMiB64USyET4cZI) | 2:31 |
 | 89 | [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 |
+| 90 | [Bored](https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya) | [Duvin](https://open.spotify.com/artist/3pWchKdjhpRAGDfdzxLup7) | [Bored](https://open.spotify.com/album/2w9wbLlzxGAVKYo2rWE4Wj) | 3:52 |
+| 91 | [Canada](https://open.spotify.com/track/2pmyjfzB8zWvPxbMFAVlDm) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Canada](https://open.spotify.com/album/5gMGhKRzw3LGTxlK0J2fk4) | 3:23 |
 
-Snapshot ID: `AAAOvSS7Uwu2QIt0g/vI+ztk214pbxNp`
+Snapshot ID: `AAAOv7lBOht4I6PR7Uoin0J4/5XMQpNa`

@@ -6296,7 +6296,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 122363,
       "name": "Chica Baila",
       "url": "https://open.spotify.com/track/0ayDGpeamuHKkx4H8qhJcX"
@@ -8832,7 +8832,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 244675,
       "name": "Daikoku",
       "url": "https://open.spotify.com/track/6g1c531586S5DzdWYraRzv"
@@ -13906,7 +13906,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 168659,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/6PnXTyFIJIW16j9ut633vJ"
@@ -16504,7 +16504,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 114407,
       "name": "Hagan De To Meno Da\u00f1o",
       "url": "https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD"
@@ -19152,7 +19152,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 133120,
       "name": "L NAMA",
       "url": "https://open.spotify.com/track/4P49dOJLCHJh0HPYorW5IF"
@@ -28344,7 +28344,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -30981,6 +30981,24 @@
     },
     {
       "album": {
+        "name": "Cordelia",
+        "url": "https://open.spotify.com/album/3QrBjOkMByv3gWF7FXlqNO"
+      },
+      "artists": [
+        {
+          "name": "Natax Beat",
+          "url": "https://open.spotify.com/artist/7g5ZEviM2IkEaqkLhO72bx"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Piel Morena",
+      "url": "https://open.spotify.com/track/4l9qLfwUOLpmCP8JOEanMF"
+    },
+    {
+      "album": {
         "name": "Pikete",
         "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
       },
@@ -31770,7 +31788,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 177662,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"

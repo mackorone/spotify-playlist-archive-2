@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Magda
 
-1,760 songs - 3 day 10 hr 55 min
+1,760 songs - 3 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Halb leeres Glas](https://open.spotify.com/track/4WKP1YJZgeTcbUjvjSN94o) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Halb leeres Glas](https://open.spotify.com/album/5cT4TWtEaaPtJdnPlcylfb) | 2:04 | 2025-04-10 | 2025-05-09 |
 | [halb mensch halb tv](https://open.spotify.com/track/4RDulVhSmKz7Cnx3CXIL7L) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [halb mensch halb tv](https://open.spotify.com/album/2D1CzrBdHpQY5tWbD1Wr3S) | 2:27 | 2026-01-15 | 2026-01-30 |
 | [Halb So Schön Wie Du](https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Halb So Schön Wie Du](https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS) | 3:25 | 2026-01-15 | 2026-04-17 |
+| [Halb So Wild](https://open.spotify.com/track/3SKR6SsypiYeajZ4H2pDZJ) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Sternstunde](https://open.spotify.com/album/6zI1kM64SlTmN97nLHOQwO) | 2:51 | 2026-05-07 |  |
 | [Halber Mensch](https://open.spotify.com/track/7IjEqBeWU91apSbm2cgJuv) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [Halber Mensch](https://open.spotify.com/album/5g0IMmKl7om2YnZqNbNrkx) | 2:39 | 2025-07-24 | 2025-08-15 |
 | [halbes herz](https://open.spotify.com/track/69LgQSF4ZNUaY0t7omohPB) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [halbes herz](https://open.spotify.com/album/6BhcbDHEvSVvKYrd4z98iy) | 2:06 | 2024-11-29 | 2025-03-07 |
 | [Halbtrocken](https://open.spotify.com/track/1xUKrHw31rFv7w3vxRK6mH) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Gib her was dich kaputt macht](https://open.spotify.com/album/7bKpJIBdA4OUzgQdDLHOze) | 2:33 | 2024-03-21 | 2024-04-26 |
@@ -1487,8 +1488,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 2](https://open.spotify.com/track/3SKR6SsypiYeajZ4H2pDZJ) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Sternstunde](https://open.spotify.com/album/6zI1kM64SlTmN97nLHOQwO) | 0:00 | 2026-05-07 |  |
-| [Track 5](https://open.spotify.com/track/30YonV3sLjut7kp72bwUNG) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/album/3tXhASty0nK3P7Nydlq1OO) | 0:00 | 2026-05-07 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |
@@ -1660,6 +1659,7 @@
 | [Wenn nichts von nichts kommt](https://open.spotify.com/track/26R4D50bcdoF6BovA5zh76) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [100.000](https://open.spotify.com/album/3L2zUdbkiqfjcoBmHeqyUZ) | 4:34 | 2025-02-13 | 2025-02-15 |
 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 | 2023-08-24 | 2024-02-02 |
 | [wennichandichdenk](https://open.spotify.com/track/7pspNXyzR1ZOuq8pl8j1rn) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [wennichandichdenk](https://open.spotify.com/album/7FIdUKLpRHdKUMpxJyMISx) | 2:33 | 2025-09-05 | 2025-10-24 |
+| [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/track/30YonV3sLjut7kp72bwUNG) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/album/3tXhASty0nK3P7Nydlq1OO) | 2:37 | 2026-05-07 |  |
 | [Wesley](https://open.spotify.com/track/6hA2CnNyOzZvTYYyoNAAEr) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Wesley](https://open.spotify.com/album/6FDLSM3w5pANkTnQsxaaUb) | 2:41 | 2025-07-24 | 2025-08-09 |
 | [wie du](https://open.spotify.com/track/0h1d2sv6RIxB8e0xiEIJ45) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [wie du \(EP\)](https://open.spotify.com/album/6VxVDrypCYjs9l4GqSEWTN) | 2:35 | 2024-02-13 | 2024-02-16 |
 | [Wie Du](https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Wie Du](https://open.spotify.com/album/6dkH0Z1f411BzyjcHuZk9I) | 2:50 | 2023-04-06 | 2023-05-12 |

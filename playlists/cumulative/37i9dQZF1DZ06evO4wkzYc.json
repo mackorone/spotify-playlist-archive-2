@@ -1192,10 +1192,28 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 188074,
       "name": "Mingo",
       "url": "https://open.spotify.com/track/6poGqH4EycO2RXBFElcK5w"
+    },
+    {
+      "album": {
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188197,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR"
     },
     {
       "album": {
@@ -1600,10 +1618,28 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 255401,
       "name": "Si Es Posible",
       "url": "https://open.spotify.com/track/1zQhxXlnXqWk3KpUBhPpQC"
+    },
+    {
+      "album": {
+        "name": "Si Es Posible",
+        "url": "https://open.spotify.com/album/3VPdPXUegcU1wILBLinF5U"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255419,
+      "name": "Si Es Posible",
+      "url": "https://open.spotify.com/track/4F6PxAv3P7WmDUiFknmRBp"
     },
     {
       "album": {

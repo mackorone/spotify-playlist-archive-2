@@ -9730,10 +9730,6 @@
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
           "name": "Rick Hyde",
           "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
         },
@@ -9744,6 +9740,10 @@
         {
           "name": "DJ Access",
           "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         }
       ],
       "date_added": "2026-05-07",
@@ -60194,6 +60194,32 @@
       "duration_ms": 166315,
       "name": "surf",
       "url": "https://open.spotify.com/track/2emiJqUH47wO0YC4xvtvMW"
+    },
+    {
+      "album": {
+        "name": "Doe Or Die III",
+        "url": "https://open.spotify.com/album/3de0kqL5ePdhqh0Nf3eWsS"
+      },
+      "artists": [
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168530,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/7wxT1CkqG6JrPzEfFza5vL"
     },
     {
       "album": {

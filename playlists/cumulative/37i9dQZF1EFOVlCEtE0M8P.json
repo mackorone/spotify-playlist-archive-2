@@ -4386,10 +4386,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 206698,
       "name": "Party Trick",
       "url": "https://open.spotify.com/track/1IVf3ltB6zHIxMGBWpRnFn"
+    },
+    {
+      "album": {
+        "name": "Marginalia",
+        "url": "https://open.spotify.com/album/3Q7npjBOWlKQHJiIewOHsR"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206698,
+      "name": "Party Trick",
+      "url": "https://open.spotify.com/track/2mNURUBKcMGfLK3NfhCOOv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Josylvio & Yung Felix
 
-1,722 songs - 3 day 4 hr 24 min
+1,722 songs - 3 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,6 +873,7 @@
 | [Liever Mezelf Niet](https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6) | [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Liever Mezelf Niet](https://open.spotify.com/album/0tRorJVriSuBjHYih4ytee) | 2:43 | 2024-04-04 | 2024-04-26 |
 | [Life Is A Beach](https://open.spotify.com/track/3Z0WcZvat8eH1kn4mLer8s) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Life Is A Beach](https://open.spotify.com/album/4TK5pOkXCTXDqgtC6E7g0H) | 2:23 | 2023-12-14 | 2024-01-26 |
 | [Life Issa Motion](https://open.spotify.com/track/4Fbkoh21Oi2W2onabj9B5t) | [Tamika Naomi](https://open.spotify.com/artist/2n1mMxsGOKnQ19vNJmoBW1), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7) | [Life Issa Motion](https://open.spotify.com/album/6Peguict87qCfCdiNL1Ukl) | 2:29 | 2025-08-07 | 2025-08-29 |
+| [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 | 2026-05-07 |  |
 | [Lifestyle \(feat\. KNALLER\)](https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Lifestyle \(feat\. KNALLER\)](https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP) | 2:30 | 2024-11-21 | 2025-03-07 |
 | [Lights, Camera & Action \(feat\. Chivv\)](https://open.spotify.com/track/2XnNq2RNONrZyRRqg8Ty9V) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Mi Boi](https://open.spotify.com/album/5Ap7HrLvJpd1mte45yMUb1) | 2:52 | 2025-03-27 | 2025-07-05 |
 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 | 2026-01-29 |  |
@@ -1524,7 +1525,6 @@
 | [Toxic Love \(feat\. DYSTINCT\)](https://open.spotify.com/track/30oXsnwOMmvpzzEErBvr1B) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Love Stories](https://open.spotify.com/album/00wQC7GhtjQjSMuPQWEJsw) | 2:35 | 2023-05-11 | 2023-07-21 |
 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 | 2023-01-23 | 2023-03-03 |
 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 | 2025-06-05 | 2025-08-15 |
-| [Track 1](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 0:00 | 2026-05-07 |  |
 | [Trainingspak](https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Trainingspak](https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc) | 2:25 | 2023-06-08 | 2023-06-30 |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 | 2026-03-13 |
 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 | 2023-08-17 | 2023-12-15 |

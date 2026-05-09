@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77612,
+  "num_followers": 77606,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Do Velho Testamento",
-        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "MPC (M\u00fasica Popular Carioca)",
         "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 154350,
       "name": "CONJUNT\u00c3O DE TIME",
       "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Do Velho Testamento",
+        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
     },
     {
       "added_at": "2025-09-17 15:00:09",

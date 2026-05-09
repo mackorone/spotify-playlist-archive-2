@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 352717,
+  "num_followers": 352793,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1779,26 +1779,18 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "The Catastrophists EP",
-        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
+        "name": "Hi!",
+        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         }
       ],
-      "duration_ms": 251707,
-      "name": "Lightning Over Mexico",
-      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+      "duration_ms": 142250,
+      "name": "Hi!",
+      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1867,18 +1859,26 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Hi!",
-        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
+        "name": "The Catastrophists EP",
+        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
       "artists": [
         {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 142250,
-      "name": "Hi!",
-      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
+      "duration_ms": 251707,
+      "name": "Lightning Over Mexico",
+      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
     },
     {
       "added_at": "2026-04-24 18:45:09",

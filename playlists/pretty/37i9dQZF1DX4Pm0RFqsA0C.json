@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 10175,
+  "num_followers": 10186,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 265116,
-      "name": "\uc120\ubb3c",
-      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Let Me Love",
         "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240653,
       "name": "\ub2e4\uc9d0",
       "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 265116,
+      "name": "\uc120\ubb3c",
+      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Exchange Kg. M4",
-        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "The day we broke up",
-      "url": "https://open.spotify.com/track/6dGU0sWrIvjpwaxdc7CYAf"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Turbo - Reboot : The Best",
         "url": "https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 235769,
       "name": "Love Is...",
       "url": "https://open.spotify.com/track/49UtZk0vHW4tOmZFhZWGNb"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Exchange Kg. M4",
+        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "The day we broke up",
+      "url": "https://open.spotify.com/track/6dGU0sWrIvjpwaxdc7CYAf"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr"
-      },
-      "artists": [
-        {
-          "name": "Lee Sun Hee",
-          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
-        }
-      ],
-      "duration_ms": 213764,
-      "name": "A City Hunter",
-      "url": "https://open.spotify.com/track/65FKjFdvrEOCJczzDEODAn"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Turbo - Reboot : The Best",
         "url": "https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 192719,
       "name": "\uac80\uc740 \uace0\uc591\uc774",
       "url": "https://open.spotify.com/track/2RlZIAQAldmT3ZXzczks59"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "duration_ms": 213764,
+      "name": "A City Hunter",
+      "url": "https://open.spotify.com/track/65FKjFdvrEOCJczzDEODAn"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
-        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 237963,
-      "name": "Unreasonable Reason",
-      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Baby V.O.X Special Album",
         "url": "https://open.spotify.com/album/501RC0O9MGg2BudvYd9xyh"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "The blue color",
-        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
+        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
+        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
       },
       "artists": [
         {
-          "name": "\uc5b8\ud0c0\uc774\ud2c0",
-          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
         }
       ],
-      "duration_ms": 226716,
-      "name": "\ub0a0\uac1c",
-      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
+      "duration_ms": 237963,
+      "name": "Unreasonable Reason",
+      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1595,6 +1579,22 @@
       "duration_ms": 253426,
       "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
       "url": "https://open.spotify.com/track/77YoqCURhIcsoJRm0LefeM"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "The blue color",
+        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
+      },
+      "artists": [
+        {
+          "name": "\uc5b8\ud0c0\uc774\ud2c0",
+          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
+        }
+      ],
+      "duration_ms": 226716,
+      "name": "\ub0a0\uac1c",
+      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
     },
     {
       "added_at": "2024-04-04 20:06:12",

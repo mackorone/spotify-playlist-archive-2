@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,104 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,106 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [V2](https://open.spotify.com/track/7kjjQTHaQpHrnbQaoGb0hO) | [祝福/ZHUFU](https://open.spotify.com/artist/1VYCukwxdk6nB3f42bmhSl) | [V2](https://open.spotify.com/album/2sOkZ2H41vgl02IjFPsWd1) | 3:03 |
 | 40 | [この生活が終わる日に](https://open.spotify.com/track/2udHvsTWO8eWJrw9JF8VXA) | [HIBARI](https://open.spotify.com/artist/5p2CdM9dKNsGfdbhg0OwmK) | [ambient](https://open.spotify.com/album/0NyXQ80AJdjbIX71tRPNwC) | 3:16 |
 
-Snapshot ID: `AAAAALVsaK2Xr/F6A/txGGDeJZHVgxhp`
+Snapshot ID: `AAAAAGUqm2YU574SdZxjQ2ZDhrbsMUJE`

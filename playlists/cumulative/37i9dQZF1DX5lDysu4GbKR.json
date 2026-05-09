@@ -5519,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Wide Eyed",
+        "url": "https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/2G7ZBcGZqgE0zkJ53pGGs2"
+    },
+    {
+      "album": {
         "name": "Wait for You",
         "url": "https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY"
       },

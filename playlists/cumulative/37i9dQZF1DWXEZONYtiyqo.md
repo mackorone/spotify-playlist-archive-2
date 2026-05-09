@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: Eva Timush
 
-474 songs - 22 hr 20 min
+474 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Seara Noastră](https://open.spotify.com/track/00k4y4u4v7NJds7QaRUdSU) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Seara Noastră](https://open.spotify.com/album/27YVdiGBPp4eD96KbslCqk) | 2:38 | 2026-02-26 | 2026-03-27 |
 | [SEMI](https://open.spotify.com/track/6bSAI6njO6pHeqBifVzJdj) | [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [SEMI](https://open.spotify.com/album/10XqQ6LEbAf1aWjmvAZVsr) | 2:57 | 2025-11-13 | 2025-12-12 |
 | [Semnal în Rai](https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Semnal în Rai](https://open.spotify.com/album/2gUCiwX9iA0HbyC4Y4diuS) | 3:16 | 2025-12-11 | 2026-01-16 |
+| [Serial Killer](https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [mp3.](https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh) | 2:21 | 2026-05-07 |  |
 | [Sexy](https://open.spotify.com/track/7tXT5UAE0PpUdeHGsfumW7) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Sexy](https://open.spotify.com/album/6ThmwbTVi9mBtsBFRRSuum) | 2:51 | 2026-05-07 |  |
 | [She Cries](https://open.spotify.com/track/2945dZg7fQvMFMOBEiRj0L) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [She Cries](https://open.spotify.com/album/10ElgZGmH6P9jbisDfoUaz) | 2:54 | 2025-03-27 | 2025-05-16 |
 | [Sin Amor](https://open.spotify.com/track/24QvixjF0eEu0QE6oExPMa) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Sin Amor](https://open.spotify.com/album/0q6CRSUecNeX8lG9IwJa2D) | 2:27 | 2025-05-15 | 2025-06-06 |
@@ -431,7 +432,6 @@
 | [Toate pozele](https://open.spotify.com/track/7d7RjxJNY4ELK37cQLWIhT) | [Vlad Musta](https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR) | [Toate pozele](https://open.spotify.com/album/405OtLdSR5FwBvgybe1qpq) | 2:56 | 2024-08-29 | 2024-09-20 |
 | [Tot ce avem e azi](https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Tot ce avem e azi](https://open.spotify.com/album/27BVcJO95WD5VYpr45XrCE) | 3:03 | 2025-07-10 | 2025-08-22 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |
-| [Track 2](https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [mp3.](https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh) | 0:00 | 2026-05-07 |  |
 | [Trandafiri](https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Trandafiri](https://open.spotify.com/album/4eRTS8WqCqG7gBwlywa4J5) | 2:22 | 2025-05-15 | 2025-08-22 |
 | [Trecător](https://open.spotify.com/track/6CwoQ1l8yrUBNlK6PPZNd3) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Trecător](https://open.spotify.com/album/1I591aeaK1BoL8MEbxoVmy) | 2:57 | 2025-09-18 | 2026-02-27 |
 | [Tricoul](https://open.spotify.com/track/5PGEjoxC9efpeBPFzTztNY) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Antifragil](https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC) | 2:33 | 2024-11-28 | 2025-04-25 |

@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Alla Blues / Alla Turc Movement",
+        "url": "https://open.spotify.com/album/2NdqarpzyoRjVmR1JxwRlw"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170032,
+      "name": "Alla Blues",
+      "url": "https://open.spotify.com/track/61zuxthywiFCabkXjZ81aN"
+    },
+    {
+      "album": {
         "name": "My History of Jazz",
         "url": "https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85"
       },
@@ -783,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Built on Bach EP",
+        "url": "https://open.spotify.com/album/3HkktPKWjkJf06XnwZBOPI"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley Trio",
+          "url": "https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "Clever Clogs",
+      "url": "https://open.spotify.com/track/1ulrg8u1Ju78sa85XM8Br3"
+    },
+    {
+      "album": {
         "name": "Maelstr\u00f6m",
         "url": "https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz"
       },
@@ -1215,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2uvSo83blLp3rRg5LlR4bI"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3b9pwJPLz2Icq8ziym6eMz"
+    },
+    {
+      "album": {
         "name": "Piano Starts Here: Live at The Shrine Zenph Re-performance",
         "url": "https://open.spotify.com/album/2pTubaEQI3lnCTLJMh6vSy"
       },
@@ -1373,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Late on Earth",
+        "url": "https://open.spotify.com/album/63CbMzRTlGlHhpanS4BAvZ"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252066,
+      "name": "Late on Earth",
+      "url": "https://open.spotify.com/track/5ChFjKFdxwHXDYdfOcfF5r"
+    },
+    {
+      "album": {
         "name": "Laufey: What Love Will Do to you",
         "url": "https://open.spotify.com/album/7qlvvRi1G3HFm35RqhY1Pr"
       },
@@ -1528,7 +1600,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 254600,
       "name": "Mazurka No. 1",
       "url": "https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg"
@@ -1612,7 +1684,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 409000,
       "name": "Moonlight Sonata",
       "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
@@ -1876,7 +1948,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 186440,
       "name": "Nutcracker Suite (Arr. Ellington & Strayhorn): Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
       "url": "https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE"

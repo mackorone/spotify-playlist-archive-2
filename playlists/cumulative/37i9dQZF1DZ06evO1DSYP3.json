@@ -1029,6 +1029,32 @@
     },
     {
       "album": {
+        "name": "She Wanna (feat. P-Lo)",
+        "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205124,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
+    },
+    {
+      "album": {
         "name": "I Love Myself",
         "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
       },
@@ -1202,7 +1228,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 143551,
       "name": "Kaseya",
       "url": "https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR"

@@ -2,12 +2,13 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Isaiah Kaleo
+> late night vibes – notifications off\. cover: Lancey Foux
 
-328 songs - 15 hr 6 min
+330 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1:11](https://open.spotify.com/track/5WvqtTv4HfxL5nQSRNCYu1) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [1:11](https://open.spotify.com/album/6ahQcLyQVBECP9fdBlMjS1) | 2:21 | 2026-05-08 |  |
 | [21](https://open.spotify.com/track/40dowkPicYLsLrVJgce4bj) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Torrential](https://open.spotify.com/album/4dLdtItbaaUw3KNALG3c2b) | 1:59 | 2025-06-13 | 2026-04-18 |
 | [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 | 2024-02-02 | 2025-10-18 |
 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-01-24 |  |
@@ -45,6 +46,7 @@
 | [blind side](https://open.spotify.com/track/15YcOL6ddhowfTU165l46C) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 2:56 | 2024-10-18 |  |
 | [BLUSH](https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [BLUSH](https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K) | 1:46 | 2024-08-30 | 2025-11-08 |
 | [Bodies](https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST \(Deluxe\)](https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI) | 2:02 | 2024-02-02 |  |
+| [BODY](https://open.spotify.com/track/13Fc5CBDFgpV1rwPuGZIXv) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [BODY](https://open.spotify.com/album/4FzW2ufo7lLqf7rJzmBU13) | 3:02 | 2026-05-08 |  |
 | [body2body](https://open.spotify.com/track/7fF0vAuRH2Pt1LsllMGtaf) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [body2body](https://open.spotify.com/album/1bGOog5wRSuYtXR4pYxggJ) | 2:43 | 2024-12-20 |  |
 | [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 | 2025-11-21 |  |
 | [Breathe](https://open.spotify.com/track/0TJDXaB0yYkfJogxqa7ilA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Breathe](https://open.spotify.com/album/1jt5IPhxTMUvnXBC4KHzKW) | 3:08 | 2025-04-25 |  |

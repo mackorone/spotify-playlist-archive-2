@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-415 songs - 1 day 2 hr 24 min
+416 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Blame \(Dance Mix\)](https://open.spotify.com/track/2DOxfaZZFMRjFeoCYYL8m3) | [DJ ReMix Workout](https://open.spotify.com/artist/4gJtt2PtDWnlu7Eg0mp3wT) | [EDM 2015 Workout](https://open.spotify.com/album/6qKuMSqequzQSolxUwAU6U) | 4:32 | 2025-05-16 | 2026-02-20 |
 | [Blame \(Remix\)](https://open.spotify.com/track/2ciXjiKntdCiG8tDcrODcj) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/1UvM5bMUPoNldI7vI3lc1M) | 4:23 | 2026-02-19 | 2026-04-25 |
 | [Blame \(Workout Mix\)](https://open.spotify.com/track/2bBqnSxwAW06xXnoY3cWfn) | [Workout Buddy](https://open.spotify.com/artist/7JfutRemdlJGyQsIZ7wWQ9) | [100 Ultimate Workout Hits! 2016](https://open.spotify.com/album/4RVETsLJtXPDPuqGWUqHCW) | 4:23 | 2025-05-14 | 2025-05-17 |
-| [Blame \(Workout Mix\)](https://open.spotify.com/track/7eVdJTlLLuO8O87JxmYdM4) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [250 Workout Hits! Over 20 Hours of Workout Music!](https://open.spotify.com/album/0wnci6HQpZNsE0cK4gMCvH) | 4:23 | 2026-04-24 |  |
+| [Blame \(Workout Mix\)](https://open.spotify.com/track/7eVdJTlLLuO8O87JxmYdM4) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [250 Workout Hits! Over 20 Hours of Workout Music!](https://open.spotify.com/album/0wnci6HQpZNsE0cK4gMCvH) | 4:23 | 2026-04-24 | 2026-05-09 |
 | [Blame \- Acoustic Version](https://open.spotify.com/track/3KM8Z6TdBUEzYTzOic47JL) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs \- Vol.5](https://open.spotify.com/album/6u5gO8wt9C1HC9ONvbnk20) | 3:24 | 2023-12-30 | 2025-05-15 |
+| [Blame \- Remix](https://open.spotify.com/track/4YpFggSyngPlmanTE8N1wx) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/2dtcOB8BUBr0QPjTBvn2VF) | 4:23 | 2026-05-08 |  |
 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 | 2023-12-30 |  |
 | [Blank Page](https://open.spotify.com/track/1n8rXiAQYmZ5D45WmqGTpM) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:04 | 2023-12-30 |  |
 | [Blinded By Love](https://open.spotify.com/track/44UyKnqSL7aNRxOCBWduzW) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:41 | 2023-12-30 |  |
@@ -405,7 +406,7 @@
 | [Where I Belong](https://open.spotify.com/track/6CfKKiBm6iRgNCqVITrmtO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:43 | 2023-12-30 |  |
 | [Who Am I?](https://open.spotify.com/track/732QOzrBUFi0gGWNU9gB7d) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Cameron Diaz](https://open.spotify.com/artist/1lrL3Lwyoyij9dFwSayDsV), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:20 | 2023-12-30 |  |
 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 | 2024-08-03 |  |
-| [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2023-12-30 |  |
+| [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2023-12-30 | 2026-05-09 |
 | [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:01 | 2023-12-30 |  |
 | [Wonderful](https://open.spotify.com/track/2St9phLphjLD3e0tpZV4tH) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Phases](https://open.spotify.com/album/5dAuovYBdntbFoq6xFScts) | 3:12 | 2023-12-30 |  |
 | [Wrapped Up](https://open.spotify.com/track/536LtAJlONCorMQe539cKy) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1), [Vox Lux](https://open.spotify.com/artist/7cTvNYz4p7LDVwfGEsBDji) | [Wrapped Up / Alive \(Vox Lux Original Motion Picture Soundtrack\)](https://open.spotify.com/album/344A3w5aYjSEPkBNRUj2Md) | 4:29 | 2023-12-30 |  |

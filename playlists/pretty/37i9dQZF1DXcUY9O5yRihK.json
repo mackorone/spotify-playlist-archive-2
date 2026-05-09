@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: aron!",
-  "num_followers": 186769,
+  "num_followers": 186783,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtZoJHTedMFnlwP7tdH3doFaQ3d",
+  "snapshot_id": "AAAAAEkW3QeaYVTgh2jKldgKU6g/vlhS",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:08",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
     },
     {
+      "added_at": "2026-05-08 04:01:04",
+      "album": {
+        "name": "Baccarat Rouge",
+        "url": "https://open.spotify.com/album/2VF3BSEMw6jGdgWBauItIQ"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 163557,
+      "name": "Baccarat Rouge",
+      "url": "https://open.spotify.com/track/444zT9uwxx7sbqkNrqt7kC"
+    },
+    {
       "added_at": "2026-02-20 05:00:31",
       "album": {
         "name": "nobody cares",
@@ -39,6 +55,26 @@
       "duration_ms": 173206,
       "name": "letters to my lover",
       "url": "https://open.spotify.com/track/4TnM1esvGsvK9XpP88aGNN"
+    },
+    {
+      "added_at": "2026-05-08 04:01:04",
+      "album": {
+        "name": "Kurage",
+        "url": "https://open.spotify.com/album/3yVmqvEgVdwZjzzQNP9u1B"
+      },
+      "artists": [
+        {
+          "name": "Don Semones",
+          "url": "https://open.spotify.com/artist/4lLBXt5fWPW0pE6FxbahmB"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 204514,
+      "name": "Kurage",
+      "url": "https://open.spotify.com/track/7GYfqzl4xuQkzCWPx9WtnW"
     },
     {
       "added_at": "2026-02-27 05:00:26",
@@ -1243,74 +1279,6 @@
       "duration_ms": 224680,
       "name": "In A Good Way",
       "url": "https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Uno Dos",
-      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "Vanilla Tobacco",
-        "url": "https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Vanilla Tobacco",
-      "url": "https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "I Can't Get Over You",
-        "url": "https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara"
-      },
-      "artists": [
-        {
-          "name": "Leo Sun",
-          "url": "https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW"
-        }
-      ],
-      "duration_ms": 261899,
-      "name": "I Can't Get Over You",
-      "url": "https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "AFTER DINNER WE TALK DREAMS",
-        "url": "https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx"
     }
   ],
   "unique_name": "bossa pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Ine Güemes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,925 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,928 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 27 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
 | 28 | [Reminiscencia](https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10) | [Lu Ferreyra](https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO) | [Reminiscencia](https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu) | 3:40 |
 | 29 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 |
-| 30 | [Vendría Bien](https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE) | [LAIA](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Vendría Bien](https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt) | 3:21 |
-| 31 | [Música de Computadora](https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Paraíso Corazón](https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ) | 3:26 |
+| 30 | [Música de Computadora](https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Paraíso Corazón](https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ) | 3:26 |
+| 31 | [Vendría Bien](https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE) | [LAIA](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Vendría Bien](https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt) | 3:21 |
 | 32 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
 | 33 | [Noche](https://open.spotify.com/track/1Blb2LWFnWEolYrBxEYMDh) | [Loli Cosmica](https://open.spotify.com/artist/4yDQsYGzevEpvJ9wfCCgkf), [Kren Organico](https://open.spotify.com/artist/5nDTov9cpo3TvqGjV64EfD) | [Noche](https://open.spotify.com/album/2D433GdpGuWT66rJZjCaTM) | 6:14 |
 | 34 | [Como una Ola](https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Como una Ola](https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL) | 3:52 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 72 | [El rey del yuyal](https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym) | [Pensé que era viernes](https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1) | [El rey del yuyal](https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk) | 2:54 |
 | 73 | [Un amor](https://open.spotify.com/track/3IL3mklv4NTLUANPgg9G9O) | [Ihara](https://open.spotify.com/artist/5HMSeEkN5TBGd50gdBNPL2) | [Un amor](https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL) | 3:14 |
 | 74 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 |
-| 75 | [Camino libre medio](https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp) | [Delairë](https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [Camino libre medio](https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd) | 3:09 |
-| 76 | [Me Fui](https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Me Fui](https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w) | 4:45 |
+| 75 | [Me Fui](https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Me Fui](https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w) | 4:45 |
+| 76 | [Camino libre medio](https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp) | [Delairë](https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [Camino libre medio](https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd) | 3:09 |
 | 77 | [Eres](https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx) | [Karen Franjola](https://open.spotify.com/artist/3PH36TxbnnpSN9b51PJn5z), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Eres](https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD) | 3:01 |
 | 78 | [Corazón de Metal](https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ) | [Bárbara Jorcin](https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6) | [Corazón de Metal](https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns) | 2:55 |
 | 79 | [Sentado Esperando](https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9) | [Sentado Esperando](https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2) | 4:17 |

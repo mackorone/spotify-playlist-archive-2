@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "A Friend In The Stars",
+        "url": "https://open.spotify.com/album/0BSBLlEIL1T7MQRE3IFJZ8"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115125,
+      "name": "A Friend In The Stars",
+      "url": "https://open.spotify.com/track/2D5av9jXu717YdMgf0j6HZ"
+    },
+    {
+      "album": {
         "name": "A Friend Like You",
         "url": "https://open.spotify.com/album/48s2eCCUzsLCDMu7oDAw4A"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 104560,
       "name": "A Soft Morning",
       "url": "https://open.spotify.com/track/3XWPbydiRn9kl6DMWtw33O"
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 119801,
       "name": "Calm for Little Ones",
       "url": "https://open.spotify.com/track/3K3Z5UGpBGa9INUBDjlMyX"
@@ -7385,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Go to Sleep, Little Koala",
+        "url": "https://open.spotify.com/album/0M5VU4U91XwW1MFGpZsocL"
+      },
+      "artists": [
+        {
+          "name": "Amaya Ailey",
+          "url": "https://open.spotify.com/artist/3pjyHVhKVU2FW9R9bCGUVq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111088,
+      "name": "Go to Sleep, Little Koala",
+      "url": "https://open.spotify.com/track/0cl32vm9bhJjaOkct14tEu"
+    },
+    {
+      "album": {
         "name": "Godnat min skat",
         "url": "https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw"
       },
@@ -10139,6 +10175,24 @@
     },
     {
       "album": {
+        "name": "Jolly Joy",
+        "url": "https://open.spotify.com/album/2Z7usRCR25VPEPtVNBAoGW"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Teofil",
+          "url": "https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105781,
+      "name": "Jolly Joy",
+      "url": "https://open.spotify.com/track/4HeXVYH646U7ysS6QTXDkf"
+    },
+    {
+      "album": {
         "name": "Joyful Dreams",
         "url": "https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp"
       },
@@ -10478,6 +10532,24 @@
       "duration_ms": 83277,
       "name": "Lavender's Blue",
       "url": "https://open.spotify.com/track/2D4Tf9ESriW2ZqHfeAxTHn"
+    },
+    {
+      "album": {
+        "name": "Lavender's Blue",
+        "url": "https://open.spotify.com/album/2M1zYoAIkas2hfKu5vgjG8"
+      },
+      "artists": [
+        {
+          "name": "Miles Hartfield",
+          "url": "https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81151,
+      "name": "Lavender's Blue",
+      "url": "https://open.spotify.com/track/7qPHRvDQPLUOM5JAGZAose"
     },
     {
       "album": {
@@ -12548,6 +12620,24 @@
       "duration_ms": 169388,
       "name": "Moonlight Dreams",
       "url": "https://open.spotify.com/track/5YEHnmJoqb37fX5CARqbt0"
+    },
+    {
+      "album": {
+        "name": "Moonlight Ride",
+        "url": "https://open.spotify.com/album/165y9Xb7ImTC40szHNXjtS"
+      },
+      "artists": [
+        {
+          "name": "Ottie Koenigstein",
+          "url": "https://open.spotify.com/artist/5XTVJdtSZKxMeNUeFzU8bz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92932,
+      "name": "Moonlight Ride",
+      "url": "https://open.spotify.com/track/7BzGmZMQvjFYYT6tkFMxYy"
     },
     {
       "album": {
@@ -15208,7 +15298,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 111497,
       "name": "Peek-A-Boo",
       "url": "https://open.spotify.com/track/5GhvoxrfFeTfEdGGSqqjA1"
@@ -15694,7 +15784,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 90382,
       "name": "Puffin\u2019s Pillow",
       "url": "https://open.spotify.com/track/48e2Gp4FNGmdPD76HFBrWj"
@@ -20795,6 +20885,24 @@
     },
     {
       "album": {
+        "name": "The Quiet Window",
+        "url": "https://open.spotify.com/album/4QtL1N93oy9ev3qEgCMqOn"
+      },
+      "artists": [
+        {
+          "name": "Valero Truer",
+          "url": "https://open.spotify.com/artist/1RmLEsGbtxGpxAlA3UU9w8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100060,
+      "name": "The Quiet Window",
+      "url": "https://open.spotify.com/track/5XYVl0EkXNK6rsB4Kcbnca"
+    },
+    {
+      "album": {
         "name": "The Red Little House",
         "url": "https://open.spotify.com/album/5PcZ9EhVGTTcQHi8J2JHav"
       },
@@ -21256,7 +21364,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 78624,
       "name": "The Wind-flowers In The Field",
       "url": "https://open.spotify.com/track/5zP8jGE09Px8ID1ZWcvjxZ"
@@ -24154,7 +24262,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 139144,
       "name": "Yellow & Blue",
       "url": "https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd"

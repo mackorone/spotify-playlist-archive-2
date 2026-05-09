@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
+  "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
   "name": "Latin Folk",
   "tracks": [
     {
@@ -164,6 +164,28 @@
       "duration_ms": 235531,
       "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
       "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+    },
+    {
+      "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176580,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
     },
     {
       "album": {
@@ -830,7 +852,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 188000,
       "name": "El Faro",
       "url": "https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od"
@@ -1022,7 +1044,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
@@ -1640,7 +1662,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205767,
       "name": "Lila Alel\u00ed",
       "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
@@ -2210,6 +2232,24 @@
       "duration_ms": 190380,
       "name": "Norte",
       "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
+    },
+    {
+      "album": {
+        "name": "(nostalgia)",
+        "url": "https://open.spotify.com/album/7Jc36cWAbQI2NpvcmBik5A"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/16kZ7Y8zNwrVJXXoo9lYeR"
     },
     {
       "album": {
@@ -2942,7 +2982,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 216271,
       "name": "Todo Es Falso",
       "url": "https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew"

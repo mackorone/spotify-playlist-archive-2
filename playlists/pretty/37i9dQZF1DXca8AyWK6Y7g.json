@@ -1,13 +1,61 @@
 {
-  "description": "on repeat for a reason. cover: Mikayla Geier",
-  "num_followers": 1551394,
+  "description": "on repeat for a reason. cover: Tiffany Stringer",
+  "num_followers": 1551277,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJtKsq+LuLS3LDGuH3GP9QdQvTb",
+  "snapshot_id": "AAAAAFjuF3BUW9oqXmvZz0zrEkmC1hnE",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:04:36",
+      "album": {
+        "name": "The Lone Starlet",
+        "url": "https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "duration_ms": 155729,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
+    },
+    {
+      "added_at": "2026-05-08 04:04:36",
+      "album": {
+        "name": "depressed on the internet",
+        "url": "https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "depressed on the internet",
+      "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
+    },
+    {
+      "added_at": "2026-05-08 04:04:36",
+      "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
     {
       "added_at": "2026-05-01 04:52:22",
       "album": {
@@ -41,6 +89,38 @@
       "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
     },
     {
+      "added_at": "2026-03-27 05:09:53",
+      "album": {
+        "name": "Male Validation and Other Drugs",
+        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "Sex, Etc.",
+      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
+    },
+    {
+      "added_at": "2026-05-01 04:52:22",
+      "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
       "added_at": "2026-04-03 04:03:41",
       "album": {
         "name": "Night at the Opera",
@@ -55,6 +135,22 @@
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
+    {
+      "added_at": "2026-05-08 04:04:36",
+      "album": {
+        "name": "locket deluxe",
+        "url": "https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 201294,
+      "name": "lovergirl",
+      "url": "https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7"
     },
     {
       "added_at": "2026-05-01 04:52:22",
@@ -105,22 +201,6 @@
       "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
-      "added_at": "2026-05-01 04:52:22",
-      "album": {
-        "name": "Kingdom of Fear",
-        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "Kingdom of Fear",
-      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
-    },
-    {
       "added_at": "2026-04-24 04:02:35",
       "album": {
         "name": "Wishful Thinker",
@@ -139,6 +219,22 @@
       "duration_ms": 166015,
       "name": "Wishful Thinker",
       "url": "https://open.spotify.com/track/4ixOrGaJGSvx1D2RecrjnG"
+    },
+    {
+      "added_at": "2026-04-17 04:11:42",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242517,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
     },
     {
       "added_at": "2026-04-24 04:02:35",
@@ -219,38 +315,6 @@
       "duration_ms": 205225,
       "name": "Piece of Your Love",
       "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Male Validation and Other Drugs",
-        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "Sex, Etc.",
-      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
-    },
-    {
-      "added_at": "2026-04-17 04:11:42",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242517,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
     },
     {
       "added_at": "2026-05-01 04:52:22",
@@ -1141,26 +1205,6 @@
       "url": "https://open.spotify.com/track/2h9MUJQ62325E0G0dJs5Wl"
     },
     {
-      "added_at": "2025-06-20 04:00:44",
-      "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
-    },
-    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
@@ -1175,22 +1219,6 @@
       "duration_ms": 149137,
       "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
       "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:26",
-      "album": {
-        "name": "Vespa",
-        "url": "https://open.spotify.com/album/57Bnn8VObqPexezSOXGAsM"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "Vespa",
-      "url": "https://open.spotify.com/track/1O0LDELRqSQDp6fJ33IdY8"
     },
     {
       "added_at": "2026-03-13 04:00:49",
@@ -1211,22 +1239,6 @@
     {
       "added_at": "2026-02-20 05:20:43",
       "album": {
-        "name": "Cherry Red Balloon",
-        "url": "https://open.spotify.com/album/2gEE29RM7xDqWrhFcEio9P"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 157567,
-      "name": "Cherry Red Balloon",
-      "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
-    },
-    {
-      "added_at": "2026-02-20 05:20:43",
-      "album": {
         "name": "Stupid Bitches",
         "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
       },
@@ -1239,22 +1251,6 @@
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
-    },
-    {
-      "added_at": "2026-02-20 05:20:43",
-      "album": {
-        "name": "Blame it on You",
-        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 185318,
-      "name": "Blame it on You",
-      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
     },
     {
       "added_at": "2026-03-13 04:00:49",

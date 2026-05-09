@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: blueberryclub\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,336 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,333 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Love me private](https://open.spotify.com/track/6IjrtcCPJ2m19zXoutpYsF) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [Love me private](https://open.spotify.com/album/7vmpcid9pYmXnIJUqrtNBz) | 3:16 |
 | 50 | [Quantum Physics](https://open.spotify.com/track/3QidtOi1QqRuY2jvLITZSz) | [TheyNeverChange](https://open.spotify.com/artist/4oalJyHnbSzzPCoV0XUt2h) | [Quantum Physics](https://open.spotify.com/album/1uM9bplx4TOjvIdxHTx0Ke) | 3:24 |
 
-Snapshot ID: `AAAAAMj15OC6JL+bguTML5j03P4MYOWZ`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213904,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/6x84cOoTHrCnO8RBfE9Bb4"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 312267,
       "name": "Control Your Destiny (feat. Aktual)",
       "url": "https://open.spotify.com/track/5DhAWr9YOcbqk7077Dcxi5"
@@ -1046,6 +1046,32 @@
       "duration_ms": 271986,
       "name": "Emancipation (feat. Hussein Fatal, Edi Don)",
       "url": "https://open.spotify.com/track/6Dew9YiluiJs37C7kFCALb"
+    },
+    {
+      "album": {
+        "name": "Watch the Signs",
+        "url": "https://open.spotify.com/album/2s0i0w7Lnv63uxDMrOOMxd"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        },
+        {
+          "name": "Faith Walker",
+          "url": "https://open.spotify.com/artist/3Ws2cYN7jKbWKpOajZf2cy"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148167,
+      "name": "Energy (feat. Faith Walker)",
+      "url": "https://open.spotify.com/track/08PrnEvGAtNXtBQDGqJBCL"
     },
     {
       "album": {
@@ -1542,7 +1568,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -1714,7 +1740,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "HEAL (feat. Audrey A)",
       "url": "https://open.spotify.com/track/5pqoEUIYMUO2eVcBzq1cEx"
@@ -2244,7 +2270,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 174812,
       "name": "Letter To DMX",
       "url": "https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3"
@@ -2576,7 +2602,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 211285,
       "name": "Music Ease The Pain",
       "url": "https://open.spotify.com/track/29G4yYOzGYxTMZ21AKsbf7"
@@ -3604,7 +3630,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"
@@ -3996,7 +4022,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/3E1EgF2oFqpTJT6T2ybRGt"
@@ -4330,7 +4356,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 301581,
       "name": "UMotherfuckerU",
       "url": "https://open.spotify.com/track/4kaNicV2wiezVeeyPL498c"
@@ -4659,6 +4685,28 @@
     },
     {
       "album": {
+        "name": "Watch the Signs",
+        "url": "https://open.spotify.com/album/2s0i0w7Lnv63uxDMrOOMxd"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189011,
+      "name": "Won't Be Easy",
+      "url": "https://open.spotify.com/track/7zn0LtYsDiscdQGGemSZ6l"
+    },
+    {
+      "album": {
         "name": "Wounds (feat. Young Noble)",
         "url": "https://open.spotify.com/album/14j4g5RAyY1PFpl7K4j1W3"
       },
@@ -4674,7 +4722,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 188074,
       "name": "Wounds (feat. Young Noble)",
       "url": "https://open.spotify.com/track/38Q3yhF4CYwMNe6lQ9Gzi1"

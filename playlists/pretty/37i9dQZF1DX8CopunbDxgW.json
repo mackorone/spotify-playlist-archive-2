@@ -1,12 +1,12 @@
 {
   "description": "No mixed emotions here, we love Collect 200's debut album \ud83c\udf1e metropolis is your home for the best indie dance",
-  "num_followers": 872191,
+  "num_followers": 872148,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK77WiEDwsujsEzgfAXu4gybuSMH",
+  "snapshot_id": "AAAAAFrSpOnpURNWaEnzTA4/cT1pCmsv",
   "tracks": [
     {
       "added_at": "2026-05-01 04:01:44",
@@ -39,6 +39,30 @@
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "Get A Grip (Make A Dance Remix)",
+        "url": "https://open.spotify.com/album/6oYCZ0JR0fVNwTJkmy8aWr"
+      },
+      "artists": [
+        {
+          "name": "Fundido",
+          "url": "https://open.spotify.com/artist/1to9uaFDyrcHAbK8PUhXfh"
+        },
+        {
+          "name": "Emma Dufaux",
+          "url": "https://open.spotify.com/artist/2VfDnBw9HnZveo8RcQOyya"
+        },
+        {
+          "name": "Make A Dance",
+          "url": "https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP"
+        }
+      ],
+      "duration_ms": 392013,
+      "name": "Get A Grip - Make A Dance Remix",
+      "url": "https://open.spotify.com/track/1t8ZZYDtprPhRtXU3977NH"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -85,6 +109,38 @@
       "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
     },
     {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "There\u2019s Something Here for Us Both",
+        "url": "https://open.spotify.com/album/2fly09UtlyJaGY4Tt1UaOM"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "There\u2019s Something Here for Us Both",
+      "url": "https://open.spotify.com/track/310bPg4gYgXqHKolfGS3Sr"
+    },
+    {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "Sd-3",
+        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Pink Bape Lighter",
+      "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
+    },
+    {
       "added_at": "2026-04-10 04:02:28",
       "album": {
         "name": "Be Loved",
@@ -121,6 +177,22 @@
       "url": "https://open.spotify.com/track/41gQlJxSCJ87c3M5ycS1jh"
     },
     {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "stick to me like glue",
+        "url": "https://open.spotify.com/album/6OjkAqWGllXZAwcEqkfEqN"
+      },
+      "artists": [
+        {
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+        }
+      ],
+      "duration_ms": 203817,
+      "name": "stick to me like glue",
+      "url": "https://open.spotify.com/track/18PNwB15m5RdHri6nUofMc"
+    },
+    {
       "added_at": "2026-04-10 04:02:28",
       "album": {
         "name": "I Don't Wanna Stop",
@@ -141,6 +213,30 @@
       "url": "https://open.spotify.com/track/5mLybISpqBigKI2dXM3Yl5"
     },
     {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "Strike a Fire (feat. Cults)",
+        "url": "https://open.spotify.com/album/1T0cVlBVyApDqBM4SGs7KZ"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 227326,
+      "name": "Strike a Fire (feat. Cults)",
+      "url": "https://open.spotify.com/track/2TZBden0i5zcEM7B2te0Wx"
+    },
+    {
       "added_at": "2026-04-24 04:02:18",
       "album": {
         "name": "C'MON",
@@ -155,6 +251,22 @@
       "duration_ms": 217249,
       "name": "C'MON",
       "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
+    },
+    {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "Chalk",
+        "url": "https://open.spotify.com/album/3SNghymPlD6CJg7qLj14QY"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        }
+      ],
+      "duration_ms": 322346,
+      "name": "Chalk",
+      "url": "https://open.spotify.com/track/5HdeMdzAlNKwCM4L9cjehN"
     },
     {
       "added_at": "2026-05-01 04:01:44",
@@ -191,6 +303,26 @@
       "duration_ms": 232131,
       "name": "Kelsier",
       "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
+    },
+    {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6MAjiisN6QMWW8lHbsyIb3"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT"
     },
     {
       "added_at": "2026-04-24 04:02:18",
@@ -259,6 +391,22 @@
       "duration_ms": 169630,
       "name": "We Go So Good Together",
       "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
+    },
+    {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-05-01 04:01:44",
@@ -383,6 +531,22 @@
       "duration_ms": 187965,
       "name": "Lots of Love",
       "url": "https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4"
+    },
+    {
+      "added_at": "2026-05-08 04:04:16",
+      "album": {
+        "name": "It's All About The Music",
+        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "It's All About The Music",
+      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -705,26 +869,6 @@
       "url": "https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"
     },
     {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
-        "name": "Loom Trace",
-        "url": "https://open.spotify.com/album/2OsIO8tumBU5axgAoeGCUq"
-      },
-      "artists": [
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        },
-        {
-          "name": "YAYME",
-          "url": "https://open.spotify.com/artist/6hxgdnoPfOE2ag75ltz84E"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/7c4MrL6p5YpBq7NpvQqeAF"
-    },
-    {
       "added_at": "2026-04-10 04:02:28",
       "album": {
         "name": "The Cocktail Hour",
@@ -743,22 +887,6 @@
       "duration_ms": 211653,
       "name": "Supercolor (feat. CECI)",
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Always With A Remix",
-        "url": "https://open.spotify.com/album/23PksvTJUKwBAFOZFnsz4m"
-      },
-      "artists": [
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 301042,
-      "name": "My Melody - TEED Club Mix",
-      "url": "https://open.spotify.com/track/2f6NEdZijB2Fuys4DrRCHh"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -811,70 +939,6 @@
       "duration_ms": 161152,
       "name": "Do I Like You Like That?",
       "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "never give up",
-        "url": "https://open.spotify.com/album/197DTP7OcCykyHRiQy64rt"
-      },
-      "artists": [
-        {
-          "name": "wes mills",
-          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
-        }
-      ],
-      "duration_ms": 159323,
-      "name": "never give up",
-      "url": "https://open.spotify.com/track/5H5sYcp6yF5gRIbLlCYVSD"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Dying To Know",
-        "url": "https://open.spotify.com/album/6GCwhZP4QmlHNOvW0MvPU6"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 159111,
-      "name": "Dying To Know",
-      "url": "https://open.spotify.com/track/2iVs3TXOPad8n7YWY5pzqg"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "ROOM TO BREATHE",
-        "url": "https://open.spotify.com/album/0XQvuJsvfhVND2t9tvXJau"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 157667,
-      "name": "ROOM TO BREATHE",
-      "url": "https://open.spotify.com/track/5PzUMGvesjj0Waf2U9a0o5"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1123,50 +1187,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "JOY (This One)",
-        "url": "https://open.spotify.com/album/0cCdQCrrpTdgKeJkhTt7VY"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        },
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "JOY (This One)",
-      "url": "https://open.spotify.com/track/188ciRFWgwvGO63WwTRcfm"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Far Too Long",
         "url": "https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv"
       },
@@ -1267,30 +1287,6 @@
       "duration_ms": 200761,
       "name": "Loverr",
       "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/1HOKLWsqE0Oq5oACgRCk3T"
-      },
-      "artists": [
-        {
-          "name": "Togetherness",
-          "url": "https://open.spotify.com/artist/32GNunodYuJPL8C1m3XfQW"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 190296,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/24ywd2iYsIrfEaHIOCEhm1"
     },
     {
       "added_at": "2026-04-10 04:02:28",

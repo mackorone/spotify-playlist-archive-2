@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,428 songs - 9 day 20 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,429 songs - 9 day 20 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4436,5 +4436,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4426 | [All For You \- Radio Edit](https://open.spotify.com/track/6qBRb8iTUDsGTG4sKjsXCb) | [Wizherd](https://open.spotify.com/artist/15jWXXO0ak2h8ghq57jsBu) | [All For You \(Radio Edit\)](https://open.spotify.com/album/2fzjIqftxuaTQFvD4mU4aI) | 1:54 |
 | 4427 | [All For You \- Radio Edit](https://open.spotify.com/track/6qBRb8iTUDsGTG4sKjsXCb) | [Wizherd](https://open.spotify.com/artist/15jWXXO0ak2h8ghq57jsBu) | [All For You \(Radio Edit\)](https://open.spotify.com/album/2fzjIqftxuaTQFvD4mU4aI) | 1:54 |
 | 4428 | [Broken Halo](https://open.spotify.com/track/07m65vDnp9nyg0M3svezos) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Broken Halo](https://open.spotify.com/album/3rA4nFGj402ZObYu82odH3) | 3:13 |
+| 4429 | [fire dance](https://open.spotify.com/track/2p4eekPqqxAFfqLUWrjbi3) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [fire dance](https://open.spotify.com/album/3TUCJNsXgl08T9rx4kP4f7) | 3:37 |
 
-Snapshot ID: `AAAIjPXZigtCtiXZY4Ipiu3W4UzoSI8d`
+Snapshot ID: `AAAIje4UurSLT5UjqAcYqOxa5Yfv+Siv`

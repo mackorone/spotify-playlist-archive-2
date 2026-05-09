@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAACZJk9xVuZKezU67CjyUlye",
+  "snapshot_id": "afvWAAAAAAAuFffH8rOUHBCpBzo/5Dm6",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senti",
+        "url": "https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "DESI TRILL",
+          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Senti",
+      "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Four More Shots Please! (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5tPTepsnKKIx3wFoqX3dxt"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 243884,
       "name": "Haule Haule",
       "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senti",
-        "url": "https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "DESI TRILL",
-          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
-        }
-      ],
-      "duration_ms": 173222,
-      "name": "Senti",
-      "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 147822,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
       },
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
       },
       "artists": [
         {
@@ -640,29 +656,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 147822,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Jungle",
-        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "David Arkwright",
-          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "King Of The Jungle",
-      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
+      "duration_ms": 188571,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
     },
     {
       "added_at": null,
@@ -695,8 +691,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
+        "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can I Be Ur Friend?",
+        "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
       },
       "artists": [
         {
@@ -704,9 +720,49 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
+      "duration_ms": 217699,
+      "name": "Can I Be Ur Friend?",
+      "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know It All",
+        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 263575,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
+      },
+      "artists": [
+        {
+          "name": "Parth Parekh",
+          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
     },
     {
       "added_at": null,
@@ -739,78 +795,6 @@
       "duration_ms": 144557,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
-      },
-      "artists": [
-        {
-          "name": "Parth Parekh",
-          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Mikey McCleary",
-          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Know It All",
-        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Know It All",
-      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can I Be Ur Friend?",
-        "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 217699,
-      "name": "Can I Be Ur Friend?",
-      "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
     },
     {
       "added_at": null,
@@ -876,25 +860,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 156686,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Jump To It",
-      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
+      "duration_ms": 147967,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
     },
     {
       "added_at": null,
@@ -924,9 +892,57 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
+      "duration_ms": 154983,
+      "name": "Jump To It",
+      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 156686,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
       "duration_ms": 165738,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 179224,
+      "name": "Yay Yay Yay",
+      "url": "https://open.spotify.com/track/4XcHes4yJeduDIh6ndkHq6"
     }
   ],
   "unique_name": "This Is Natania",

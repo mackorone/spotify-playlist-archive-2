@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo and Adrien Nunez\n",
+  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Two Friends\n",
   "name": "Country EDM",
   "tracks": [
     {
@@ -1483,6 +1483,32 @@
     },
     {
       "album": {
+        "name": "Big Boots",
+        "url": "https://open.spotify.com/album/4EmuD8QXF5QzsjDcSWxI1i"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223456,
+      "name": "Don't You Blink",
+      "url": "https://open.spotify.com/track/5wzWnclLk0dNnd405P0pM0"
+    },
+    {
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT"
       },
@@ -2640,6 +2666,28 @@
       "duration_ms": 167880,
       "name": "Hot Honey",
       "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
+    },
+    {
+      "album": {
+        "name": "HOT OUT",
+        "url": "https://open.spotify.com/album/6Epo3NcdP4dLQIqlbwChzN"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145971,
+      "name": "HOT OUT",
+      "url": "https://open.spotify.com/track/1D9w5ApMEMNEdMwPoobAoP"
     },
     {
       "album": {

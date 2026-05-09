@@ -4,7 +4,7 @@
 
 > Soft music to calm down cats, kittens and their humans.
 
-335 songs - 17 hr 46 min
+336 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Astral Glow](https://open.spotify.com/track/3opm8VzOdGcjXlqyxT9pLk) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Astral Glow](https://open.spotify.com/album/0GM5VPTyNsSirZAFBJN6O6) | 2:57 | 2025-11-27 |  |
 | [Astral Harp](https://open.spotify.com/track/04187uVRiaudzaTvBXLPGp) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Astral Harp](https://open.spotify.com/album/1zN7jjcVw4TusA9A3eBqkA) | 2:37 | 2025-07-15 |  |
 | [Astro Light](https://open.spotify.com/track/4X0e5rinKHiewZLcIekqEX) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Astro Light](https://open.spotify.com/album/2mbirmoYjyzFSzrTyVIJdC) | 2:51 | 2025-11-27 |  |
+| [At Last](https://open.spotify.com/track/2qPGoHev2zabmZOczb3YOU) | [Calmatic](https://open.spotify.com/artist/4pnzDhLyf7keokIDeCTVVJ) | [At Last](https://open.spotify.com/album/5hLehfzqDwHrlV732ZPaxg) | 2:57 | 2026-05-08 |  |
 | [Attributes](https://open.spotify.com/track/0VrWfZ6DXqfSxwDACugGUo) | [Molnen](https://open.spotify.com/artist/3XcViLMjxgKWbdC7bBvHQd) | [Attributes](https://open.spotify.com/album/54aH4SIh1TEqKOsbCn4Xpe) | 2:37 | 2025-11-27 |  |
 | [Aurora](https://open.spotify.com/track/5r1R36YxcmcKRac1vPwa5W) | [Nimara](https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ) | [Aurora](https://open.spotify.com/album/5IKk9LN6n9Xta1ie41sfFh) | 3:04 | 2025-05-06 |  |
 | [Aurora Sky](https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Aurora Sky](https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL) | 2:56 | 2025-01-09 |  |
@@ -211,7 +212,7 @@
 | [Neurostream Quietude](https://open.spotify.com/track/0jYyEO9AeHUOIxsHDZShFF) | [inner lights](https://open.spotify.com/artist/0T1NRjKwzJ0vxN68RYKvna) | [Neurostream Quietude](https://open.spotify.com/album/0dOrxW1INQesL4BYUxrMiO) | 2:37 | 2025-07-15 |  |
 | [Night Angels \(432 Hz\)](https://open.spotify.com/track/0mqCFRRx3Xio6cLL1hB48l) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Night Angels \(432 Hz\)](https://open.spotify.com/album/1v3Jr68gJqyBaAHXCPRT94) | 2:53 | 2023-11-07 | 2024-07-19 |
 | [Night Continuum](https://open.spotify.com/track/1anTYYqoKu5WSQrhNtTOMp) | [Moon Whisperer](https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4) | [Night Continuum](https://open.spotify.com/album/2mlTTT0CH0Fi2DlyzG0BZQ) | 2:36 | 2024-12-03 |  |
-| [Night of a Thousand Stars](https://open.spotify.com/track/2AoQCv8DQbTH8uaBLfcKhr) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Fast Asleep: Powered by Myndstream](https://open.spotify.com/album/7wNxnnqx9c6PJSglDjpzXU) | 2:40 | 2024-07-18 |  |
+| [Night of a Thousand Stars](https://open.spotify.com/track/2AoQCv8DQbTH8uaBLfcKhr) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Fast Asleep: Powered by Myndstream](https://open.spotify.com/album/7wNxnnqx9c6PJSglDjpzXU) | 2:40 | 2024-07-18 | 2026-05-09 |
 | [Nightfall](https://open.spotify.com/track/6WIEEPyVKDWA2w5tkQ3gmq) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Nightfall](https://open.spotify.com/album/6xLcEAqQ0l0SxrUB6ZT7Rx) | 3:00 | 2025-02-13 |  |
 | [Nightfall](https://open.spotify.com/track/1jD1a2D3qMnH1Y9ie7glPO) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Nightfall](https://open.spotify.com/album/0BNHRJBjDyRn7CwqzefaKv) | 2:48 | 2025-09-04 |  |
 | [Nimara](https://open.spotify.com/track/5geE9VTGRmGIngJ9E6Vj8S) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Nimara](https://open.spotify.com/album/23xw0JpSXrvFQm7FhbCAfO) | 2:49 | 2025-06-11 | 2025-11-28 |
@@ -259,7 +260,7 @@
 | [Returning](https://open.spotify.com/track/3gxLUyChsjMqr6qCMWoFaH) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Returning](https://open.spotify.com/album/1c29mbJXmLbYE5nWOQ9667) | 2:57 | 2025-11-27 |  |
 | [Returning Gently](https://open.spotify.com/track/0szLXWwlIPhE6QzdzJkGaG) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Returning Gently](https://open.spotify.com/album/1foJInQP4GkHHqtqA0s05v) | 2:47 | 2025-08-20 |  |
 | [Right Path 852 Hz](https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Right Path 852 Hz](https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7) | 3:01 | 2023-07-03 | 2024-08-29 |
-| [Rosemary](https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5) | [Laurence Furr](https://open.spotify.com/artist/24tme04aimWOpZKvAcKogM) | [Portraits](https://open.spotify.com/album/4OJyeOfgd44Byen2ENCjnN) | 3:21 | 2024-11-07 |  |
+| [Rosemary](https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5) | [Laurence Furr](https://open.spotify.com/artist/24tme04aimWOpZKvAcKogM) | [Portraits](https://open.spotify.com/album/4OJyeOfgd44Byen2ENCjnN) | 3:21 | 2024-11-07 | 2026-05-09 |
 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 | 2020-01-10 | 2023-07-04 |
 | [Safely](https://open.spotify.com/track/4f5wnhK4dLrW2XuYZBOkQD) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Safely](https://open.spotify.com/album/4cCJFKKcOP5f7fa1jzeZLZ) | 3:35 | 2025-02-13 |  |
 | [Sana](https://open.spotify.com/track/63pIgIp1N1E6gMR4vPI3Qe) | [Cerulean Sky](https://open.spotify.com/artist/0vmL1scMiwQBMPeC9SSXVm) | [Sana](https://open.spotify.com/album/6d6OF37z3u4Cg02rGjqSvS) | 3:14 | 2023-05-19 | 2025-09-25 |

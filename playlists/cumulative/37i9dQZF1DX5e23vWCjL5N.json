@@ -6534,7 +6534,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 259919,
-      "name": "PERCH\u00c8 PIANGO (feat. Kid Yugi)",
+      "name": "PERCH\u00c9 PIANGO (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d"
     },
     {
@@ -8327,24 +8327,6 @@
     },
     {
       "album": {
-        "name": "L'IMPERATRICE",
-        "url": "https://open.spotify.com/album/3HPN1r26IBZSl2UE1dW3fY"
-      },
-      "artists": [
-        {
-          "name": "Beba",
-          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3lGDNCiVZjsK2vTE9ehKRQ"
-    },
-    {
-      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q"
       },
@@ -8398,6 +8380,28 @@
       "duration_ms": 183285,
       "name": "TRE (feat. Salmo, Low Kidd, Nitro)",
       "url": "https://open.spotify.com/track/5XAJzu72otPTtWWjZX6XOZ"
+    },
+    {
+      "album": {
+        "name": "L'IMPERATRICE",
+        "url": "https://open.spotify.com/album/3HPN1r26IBZSl2UE1dW3fY"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137234,
+      "name": "TRINITY",
+      "url": "https://open.spotify.com/track/3lGDNCiVZjsK2vTE9ehKRQ"
     },
     {
       "album": {

@@ -86,7 +86,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213214,
       "name": "123 (the longest dream)",
       "url": "https://open.spotify.com/track/6XiU3wbMaKkL9vYYj9EgjM"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 191129,
       "name": "BRAINDEAD (feat. Toby Morse)",
       "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "COME SAY SUM",
+        "url": "https://open.spotify.com/album/05quqi2QPlESRpPPcMShfQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "COME SAY SUM",
+      "url": "https://open.spotify.com/track/4s0xKRDzWDrTGjGpJg6xvR"
+    },
+    {
+      "album": {
         "name": "Confessions Of The Fallen",
         "url": "https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9"
       },
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 194848,
       "name": "Dance Like That",
       "url": "https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A"
@@ -2810,6 +2828,24 @@
       "duration_ms": 186511,
       "name": "Golden Gloves",
       "url": "https://open.spotify.com/track/16hBAjGngSlOCzTZEn5Atw"
+    },
+    {
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4EHga18hgk4gEygwuAaD8q"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
     },
     {
       "album": {
@@ -5736,6 +5772,28 @@
       "duration_ms": 191439,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
+    },
+    {
+      "album": {
+        "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243996,
+      "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
     },
     {
       "album": {

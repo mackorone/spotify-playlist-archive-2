@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 88805,
+  "num_followers": 88826,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAABIFVSsXYtCGcBWUpUYV2M1",
+  "snapshot_id": "afvWAAAAAAAJn8jzCQQrpk3AnvRGjEc4",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Nihilist",
-      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Forever // Lost Together",
         "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 245299,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Nihilist",
+      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
     },
     {
       "added_at": null,

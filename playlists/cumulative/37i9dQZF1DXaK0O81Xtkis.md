@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Daniel Seavey
 
-1,590 songs - 3 day 7 hr 27 min
+1,592 songs - 3 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-08-20 |
 | [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-07-05 | 2024-11-26 |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-25 | 2022-04-29 |
-| [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 | 2026-02-13 |  |
+| [Girls Just Wanna](https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Girlhood](https://open.spotify.com/album/05KNazpljahHfx1ElDNujj) | 2:16 | 2026-02-13 | 2026-05-09 |
 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 | 2025-06-13 | 2025-08-23 |
 | [Girls Like You](https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt) | [Songs About Girls Like You](https://open.spotify.com/album/6onQxxLCtldrdnQUkhAzHE) | 2:43 | 2022-03-18 | 2022-06-11 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-12 | 2022-10-29 |
@@ -745,6 +745,7 @@
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-18 | 2022-06-25 |
 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 | 2026-01-23 | 2026-04-18 |
 | [In His Room](https://open.spotify.com/track/22O3nWcyenKVftNJrJdJK6) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/5lHGdSSI9etvLGqCnuw5eb) | 2:47 | 2024-09-13 | 2024-12-14 |
+| [in my body](https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V) | [ieuan](https://open.spotify.com/artist/6t0xwGS4HEjHUuMIvRyKoh) | [in my body](https://open.spotify.com/album/0YvWSPlxT18oUjmLbchLex) | 3:40 | 2026-05-08 |  |
 | [IN THE CLOUDS](https://open.spotify.com/track/3A1r88bLPBHsWW4JCdFyHl) | [DMAD](https://open.spotify.com/artist/4pjMa1uBw63lY4eoVqrfyX) | [IN THE CLOUDS](https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA) | 2:48 | 2023-03-31 | 2023-06-24 |
 | [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 | 2022-09-02 | 2023-07-22 |
 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 | 2023-03-24 | 2024-01-05 |
@@ -845,6 +846,7 @@
 | [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 | 2023-07-14 | 2024-01-05 |
 | [lips](https://open.spotify.com/track/2wQ7cDLALd9OlYMEkhtgwx) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lips](https://open.spotify.com/album/4E8mMaltzJAmoAPciU7S3b) | 2:38 | 2025-05-30 | 2025-08-02 |
 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 | 2024-12-13 | 2025-02-15 |
+| [Little Blue House](https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Little Blue House](https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y) | 2:59 | 2026-05-08 |  |
 | [Little Dance](https://open.spotify.com/track/3ZqUF40oZLspAMaygqY6L9) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/055AC8EnLHj4BCuQZfKaQU) | 4:04 | 2022-02-25 | 2022-04-29 |
 | [little piece](https://open.spotify.com/track/3I9wslCcu33OnpMfyQY2bI) | [SHOOP](https://open.spotify.com/artist/5PbXbjuSwJlEhKN3nmneuq) | [never better](https://open.spotify.com/album/0Ke8aK03gxiiq1SpDcNBjN) | 2:27 | 2025-11-21 | 2026-02-21 |
 | [Live For You, Die With You](https://open.spotify.com/track/6AK6tQ5MZUbA7MI8tcq606) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane \(Deluxe\)](https://open.spotify.com/album/5JOOOZyK4GYTkxWgZbn0o9) | 3:26 | 2022-02-11 | 2022-04-09 |
@@ -1405,7 +1407,7 @@
 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 | 2025-05-17 |
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-01-29 |
 | [think about it](https://open.spotify.com/track/6XxJy5zej9U5Cb4BWuTJdQ) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [a matter of perspective](https://open.spotify.com/album/6MKuBYANCNnVaAANQjQO0j) | 2:56 | 2024-05-17 | 2024-07-19 |
-| [Think About It](https://open.spotify.com/track/5y0RughFKGYIldQ8CGRXdW) | [Micah Dailey\-White](https://open.spotify.com/artist/0SSLcKlt82IAYAFVKljEZc) | [Think About It](https://open.spotify.com/album/5LHuSgAPwwcSsNqkyJtFrM) | 3:03 | 2026-02-06 |  |
+| [Think About It](https://open.spotify.com/track/5y0RughFKGYIldQ8CGRXdW) | [Micah Dailey\-White](https://open.spotify.com/artist/0SSLcKlt82IAYAFVKljEZc) | [Think About It](https://open.spotify.com/album/5LHuSgAPwwcSsNqkyJtFrM) | 3:03 | 2026-02-06 | 2026-05-09 |
 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-06 | 2023-03-25 |
 | [Think That You're Lonely](https://open.spotify.com/track/2GA5B8SPVzJzcUM0BskVXW) | [Summer Hoop](https://open.spotify.com/artist/5bJpzOPrVuGyusOODkFeIM) | [Think That You're Lonely](https://open.spotify.com/album/546p326ke1CQwiEda6E9ZL) | 3:26 | 2024-01-12 | 2024-02-17 |
 | [THINKIN BOUT YOU](https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [THINKIN BOUT YOU](https://open.spotify.com/album/1xGuSADsstny1TgJRQFz1e) | 3:08 | 2025-08-05 | 2026-01-17 |

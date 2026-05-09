@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAB5xwR9lIEzZONcgV63YcrK",
+  "snapshot_id": "afvWAAAAAAApbp1jGz31yGF66pvF4oSB",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time To Say Goodbye",
-        "url": "https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY"
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 188468,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy"
+      "duration_ms": 217131,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 217131,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
+      "duration_ms": 188468,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 202848,
-      "name": "Suddenly Strangers",
-      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+      "duration_ms": 258598,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 258598,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+      "duration_ms": 202848,
+      "name": "Suddenly Strangers",
+      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
     },
     {
       "added_at": null,

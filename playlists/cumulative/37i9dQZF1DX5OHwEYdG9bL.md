@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: CORTIS\) \(Enjoy a playlist of songs that support music video features!\)
 
-218 songs - 12 hr 1 min
+219 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [CEREMONY](https://open.spotify.com/track/5b6isns0yhJT6A5W2dExb9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/6o9wjgySRts32qfi7CQBQP) | 2:51 | 2025-10-24 |  |
 | [CHA CHA CHA](https://open.spotify.com/track/25H9SitJmkod39X0L2j5h2) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/2pHZQcpWYyboipOtpVJ2Am) | 3:03 | 2025-10-24 |  |
 | [CHILLER](https://open.spotify.com/track/4ztqZCC6kYkshTDDXt2Bnl) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [CHILLER](https://open.spotify.com/album/5r3paKTtXGBsiVthC5sDE1) | 3:15 | 2025-07-15 |  |
+| [CHOOM](https://open.spotify.com/track/4EH8PeZlzPMHZTJ0JrHhJJ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/1tyixf7aOJCaV4RfGJrDMq) | 3:24 | 2026-05-08 |  |
 | [CINEMA](https://open.spotify.com/track/5RefOHPdLibMCTIJoCDMK8) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [CINEMA](https://open.spotify.com/album/6NASe3UYSlKk8R15VM0Zoj) | 3:00 | 2025-07-15 |  |
 | [CINEMA \(Lee Know & Seungmin\)](https://open.spotify.com/track/19151BgYNGYqw2ugEtwIUq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CINEMA \(Lee Know & Seungmin\)](https://open.spotify.com/album/5lBq2I0mOmdTIcA2rSV696) | 3:59 | 2025-07-15 | 2025-08-20 |
 | [CLIK CLAK](https://open.spotify.com/track/73csuvlBLsqkP1N2F7pmFL) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CLIK CLAK](https://open.spotify.com/album/5fetQAo0NE59oLCW9YhuEV) | 2:54 | 2025-07-15 | 2025-08-20 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,582 songs - 3 day 19 hr 8 min
+1,584 songs - 3 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Forever](https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [By My Side \(Retrospective\)](https://open.spotify.com/album/3LBTIeX3u0zodXW4Hu7qXQ) | 3:25 | 2019-08-09\* | 2019-08-27 |
 | [Forever](https://open.spotify.com/track/5pNs6lPWpytU3rp7k5m9YN) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Forever](https://open.spotify.com/album/2evfxJ4FdqTp65s05zfVFQ) | 3:00 | 2026-05-01 |  |
 | [Forever](https://open.spotify.com/track/1iXulY4UeMdoYQHf6A2SFz) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Forever](https://open.spotify.com/album/6bh0rnLAnNDQAssyhHHVdy) | 3:25 | 2022-01-21 | 2023-06-17 |
+| [Forever](https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Forever](https://open.spotify.com/album/6MAjiisN6QMWW8lHbsyIb3) | 3:31 | 2026-05-08 |  |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2024-09-20 |  |
 | [Forever \(with Kid Cudi\)](https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Forever \(with Kid Cudi\)](https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul) | 4:11 | 2025-04-18 |  |
 | [Forever And A Day](https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Forever And A Day](https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj) | 2:46 | 2022-08-19 | 2024-05-25 |
@@ -848,6 +849,7 @@
 | [Love Is A Feeling](https://open.spotify.com/track/58Hifha3MJmYBa3vj7vHN8) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Love Is A Feeling](https://open.spotify.com/album/1DtWeVAnfWNDbFT6c0hzOO) | 3:14 | 2025-04-25 | 2026-01-15 |
 | [Love Is Alive](https://open.spotify.com/track/1uf5f99kLdlmUBEvVqrFyy) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Love Is Alive](https://open.spotify.com/album/0i7gI9SlKIZxdz2Jl2dyfp) | 2:50 | 2019-08-09\* | 2019-09-14 |
 | [Love Is Bigger Than Anything In Its Way \- U2 X Cheat Codes](https://open.spotify.com/track/1jHg7bUEfa67jzcayP2SvK) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Love Is Bigger Than Anything In Its Way \(U2 X Cheat Codes\)](https://open.spotify.com/album/090CggjP6XmuIbQpvhTkHl) | 3:10 | 2019-08-09\* | 2019-09-14 |
+| [Love Is Kind](https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love Is Kind](https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU) | 4:07 | 2026-05-08 |  |
 | [Love Is on Our Side](https://open.spotify.com/track/2PLRrQ8oASLJIxw2mwOvh6) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Love Is on Our Side](https://open.spotify.com/album/0yYhkVzDvpHYckwcrAOFJO) | 3:19 | 2019-08-09\* | 2020-02-26 |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-08 |  |
 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2021-08-31 | 2022-05-14 |

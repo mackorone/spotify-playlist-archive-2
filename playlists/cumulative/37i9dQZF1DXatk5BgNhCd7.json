@@ -25015,6 +25015,24 @@
     },
     {
       "album": {
+        "name": "Soy Afro 23",
+        "url": "https://open.spotify.com/album/4dZMGzEZEl5khuRfRvazf7"
+      },
+      "artists": [
+        {
+          "name": "Afro 23",
+          "url": "https://open.spotify.com/artist/6gsQcKSLUgofZyE4IhGFSB"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173781,
+      "name": "Dushi",
+      "url": "https://open.spotify.com/track/69P1dAqGVjJSt3xI1BQpni"
+    },
+    {
+      "album": {
         "name": "D\u00e1ndole",
         "url": "https://open.spotify.com/album/7f9DJeyeKELnjHUSFh2QL7"
       },
@@ -35867,7 +35885,7 @@
     },
     {
       "album": {
-        "name": "Golpe con golpe",
+        "name": "Golpe con Golpe",
         "url": "https://open.spotify.com/album/2qRjjAY5GqIruEXocyt4li"
       },
       "artists": [
@@ -72457,6 +72475,24 @@
     },
     {
       "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/2qrZgoHY6zId9Feixr6k0N"
+      },
+      "artists": [
+        {
+          "name": "Grupo Controversia",
+          "url": "https://open.spotify.com/artist/2HaFbAOPIHQbvFbxho9Zgh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270481,
+      "name": "Que Se Vaya",
+      "url": "https://open.spotify.com/track/1vU1Dt6GD8lYv9QGHjx2kC"
+    },
+    {
+      "album": {
         "name": "QUE SED",
         "url": "https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG"
       },
@@ -87853,42 +87889,6 @@
     },
     {
       "album": {
-        "name": "Soy Afro 23",
-        "url": "https://open.spotify.com/album/4dZMGzEZEl5khuRfRvazf7"
-      },
-      "artists": [
-        {
-          "name": "Afro 23",
-          "url": "https://open.spotify.com/artist/6gsQcKSLUgofZyE4IhGFSB"
-        }
-      ],
-      "date_added": "2026-05-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/69P1dAqGVjJSt3xI1BQpni"
-    },
-    {
-      "album": {
-        "name": "Bachata En La Plazoleta",
-        "url": "https://open.spotify.com/album/60fOziNQKgsdrzYnnXNWt0"
-      },
-      "artists": [
-        {
-          "name": "Mario Baro",
-          "url": "https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP"
-        }
-      ],
-      "date_added": "2026-05-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/6P7TCdBhj7cxqYs0v4VcI2"
-    },
-    {
-      "album": {
         "name": "Traemos Alegr\u00eda",
         "url": "https://open.spotify.com/album/5XETq4o7BJAOsIUai2bN6L"
       },
@@ -88828,6 +88828,24 @@
       "duration_ms": 226848,
       "name": "Tu Condena",
       "url": "https://open.spotify.com/track/2pI144hqxaMfrBMKgcC3Ra"
+    },
+    {
+      "album": {
+        "name": "Bachata En La Plazoleta",
+        "url": "https://open.spotify.com/album/60fOziNQKgsdrzYnnXNWt0"
+      },
+      "artists": [
+        {
+          "name": "Mario Baro",
+          "url": "https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185672,
+      "name": "Tu Copia de la Llave",
+      "url": "https://open.spotify.com/track/6P7TCdBhj7cxqYs0v4VcI2"
     },
     {
       "album": {

@@ -9584,7 +9584,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136225,
       "name": "Girls Just Wanna",
       "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
@@ -13559,6 +13559,24 @@
     },
     {
       "album": {
+        "name": "in my body",
+        "url": "https://open.spotify.com/album/0YvWSPlxT18oUjmLbchLex"
+      },
+      "artists": [
+        {
+          "name": "ieuan",
+          "url": "https://open.spotify.com/artist/6t0xwGS4HEjHUuMIvRyKoh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "in my body",
+      "url": "https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V"
+    },
+    {
+      "album": {
         "name": "IN THE CLOUDS",
         "url": "https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA"
       },
@@ -15404,6 +15422,24 @@
       "duration_ms": 170840,
       "name": "Little Acts Of Violence",
       "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
+    },
+    {
+      "album": {
+        "name": "Little Blue House",
+        "url": "https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179727,
+      "name": "Little Blue House",
+      "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
     },
     {
       "album": {
@@ -25722,7 +25758,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183186,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/5y0RughFKGYIldQ8CGRXdW"

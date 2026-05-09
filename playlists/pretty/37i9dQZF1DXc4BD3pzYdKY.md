@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,952 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,003 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [INFLUENCER$](https://open.spotify.com/track/7oTqtx0H1pivN32cEqMBNQ) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [COULD BE TONIGHT](https://open.spotify.com/album/0Ujfh65wzIk5dRJQ4pIiLf) | 3:20 |
-| 2 | [GO!](https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [GO!](https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81) | 2:03 |
+| 2 | [GO!](https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [GO!](https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81) | 2:00 |
 | 3 | [Keep Ya Head Up](https://open.spotify.com/track/2nSHEOD88Yv4WyaFF3p9sq) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Keep Ya Head Up](https://open.spotify.com/album/7JQCfiJ4JK9ibIf674Ntqj) | 3:12 |
 | 4 | [HOLY GIRLS! \(WERK\)](https://open.spotify.com/track/35Mcvp5mlZY0r9fWxbnzvo) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HOLY GIRLS! \(WERK\)](https://open.spotify.com/album/20GX20u3QhSvaxxRgHHYcV) | 2:34 |
 | 5 | [Big Brother \- Remix](https://open.spotify.com/track/2EVJ3XFbgJUYpr6EHGuDaG) | [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Big Brother \(Remix\)](https://open.spotify.com/album/7k5oIQc1ZTtpL1Y5v03UJC) | 3:07 |

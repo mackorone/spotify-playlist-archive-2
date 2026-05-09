@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Kayla Pichichero
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,772 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,818 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Passing By](https://open.spotify.com/track/1LjJhtaJdQJZ7jPHV94UpH) | [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Cécile Lacharme](https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Tramuntana Tapes I](https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh) | 5:33 |
 | 100 | [Suosan](https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:38 |
 
-Snapshot ID: `AAAAAPOECyGvqKIeubIYOVxiPJ0A+wcj`
+Snapshot ID: `AAAAAE8UzHOchwGqoueMiF4WT0eXK10/`

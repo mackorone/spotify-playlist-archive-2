@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Karan Kanchan, Raga & Ikka
+> Best of Hindi Hip\-Hop! Cover: Naam Sujal, Siyaahi & Dhanji
 
-322 songs - 16 hr 19 min
+323 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Ankurit Moong](https://open.spotify.com/track/1tjarvG7EoJRYL7etWdJgo) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP) | [Ankurit Moong](https://open.spotify.com/album/6lLwAajj5CmVJeNtrSZJGk) | 2:46 | 2025-09-19 |  |
 | [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 | 2025-01-06 | 2025-09-20 |
 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 | 2023-08-28 | 2025-05-24 |
-| [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 | 2026-01-23 |  |
+| [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 | 2026-01-23 | 2026-05-09 |
 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 | 2025-01-17 |  |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2025-01-06 | 2026-03-28 |
 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 | 2023-03-10 | 2023-09-02 |
@@ -144,6 +144,7 @@
 | [IMMORALS](https://open.spotify.com/track/08l2EihRm3z5I6cO39yM5D) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP) | [IMMORALS](https://open.spotify.com/album/0zvBLdhThhfuhZ6mhPldcL) | 2:46 | 2024-07-19 | 2024-08-21 |
 | [Inner Circle](https://open.spotify.com/track/1yJyVPkov6bAAFV9jEXdEH) | [BAWA](https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR) | [Inner Circle](https://open.spotify.com/album/0Cgye1OU6oXhSqVC2JjWmX) | 2:31 | 2024-09-17 | 2024-12-15 |
 | [Intoxicated](https://open.spotify.com/track/2TZtnl1vySd2CUyMmfmbia) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Intoxicated](https://open.spotify.com/album/2iBHiQcmhvK8yABIMkMBUn) | 2:29 | 2023-11-06 | 2024-08-30 |
+| [It's About Time](https://open.spotify.com/track/1ZG8BI4Mdgdgg1g4KgBikU) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP), [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb), [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV) | [It's About Time](https://open.spotify.com/album/5Y1poQGKqhVmKt05GccZwg) | 4:19 | 2026-05-08 |  |
 | [JAANE JAA](https://open.spotify.com/track/59UjekP5VpkJBxVkWIeOaW) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [JAANE JAA](https://open.spotify.com/album/2BirRj76HwJSkwTqkZi1bC) | 3:00 | 2026-05-01 |  |
 | [JAANEJAANA](https://open.spotify.com/track/2T6twxFVaatlhg5Ocz08Bw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [JAANEJAANA](https://open.spotify.com/album/3QU9SPkAgpuBQMAGnuAPwN) | 2:35 | 2024-09-17 | 2024-12-15 |
 | [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2023-03-10 | 2025-05-24 |

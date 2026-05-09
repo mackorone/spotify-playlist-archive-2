@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Canvas",
+        "url": "https://open.spotify.com/album/38kHgXkxUZmFE5vQ8Yw2qt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "Beyond the Canvas",
+      "url": "https://open.spotify.com/track/16evbqH9kBXWHHUa4NSG0i"
+    },
+    {
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw"
       },
@@ -13219,6 +13237,36 @@
     },
     {
       "album": {
+        "name": "Petit Adagio Variation (After The Seasons, Op. 67: No. 15, Petit Adagio)",
+        "url": "https://open.spotify.com/album/4ARVjMdN4m44cjyYHXkcnI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        },
+        {
+          "name": "Moritzburg Ensemble",
+          "url": "https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Petit Adagio Variation (After The Seasons, Op. 67: No. 15, Petit Adagio)",
+      "url": "https://open.spotify.com/track/6Y9fbpTvUuisTa0ndrPgPO"
+    },
+    {
+      "album": {
         "name": "Pian Perduto",
         "url": "https://open.spotify.com/album/3FtdxPCdRpNGFNXPLrGPld"
       },
@@ -15894,6 +15942,24 @@
       "duration_ms": 185591,
       "name": "Snowman - Solo Piano Version",
       "url": "https://open.spotify.com/track/01ZChj1Qy8mpmTYLbpSt4J"
+    },
+    {
+      "album": {
+        "name": "Soglia",
+        "url": "https://open.spotify.com/album/2JRm3nGkmyz6wBFCpkEJ3X"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "Soglia",
+      "url": "https://open.spotify.com/track/754YO0HqOWBbksx2vmWTAj"
     },
     {
       "album": {

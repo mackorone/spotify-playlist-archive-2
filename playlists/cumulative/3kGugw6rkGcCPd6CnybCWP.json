@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/2w9wbLlzxGAVKYo2rWE4Wj"
+      },
+      "artists": [
+        {
+          "name": "Duvin",
+          "url": "https://open.spotify.com/artist/3pWchKdjhpRAGDfdzxLup7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya"
+    },
+    {
+      "album": {
         "name": "Bruise (made of glass version)",
         "url": "https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD"
       },
@@ -618,6 +636,24 @@
       "duration_ms": 164038,
       "name": "Can I See U Again?",
       "url": "https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW"
+    },
+    {
+      "album": {
+        "name": "Canada",
+        "url": "https://open.spotify.com/album/5gMGhKRzw3LGTxlK0J2fk4"
+      },
+      "artists": [
+        {
+          "name": "Pondlife",
+          "url": "https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203191,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/2pmyjfzB8zWvPxbMFAVlDm"
     },
     {
       "album": {

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment avec Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,393 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,397 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Le but \- Version CH](https://open.spotify.com/track/373ZGWf421SNGD4xh4WqJM) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Le but](https://open.spotify.com/album/2dteg9SlN9kCSE5v6Z8GHM) | 1:44 |
-| 2 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
+| 1 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 2 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 |
 | 3 | [Dansons](https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Dansons](https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5) | 3:26 |
-| 4 | [Chance](https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Chance](https://open.spotify.com/album/3aS2BgGCVSbHwCFNcf5Qvl) | 2:46 |
-| 5 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 6 | [The Way We Touch](https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [The Way We Touch](https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12) | 3:09 |
-| 7 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
-| 8 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 |
-| 9 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
+| 4 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
+| 5 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
+| 6 | [Chance](https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Chance](https://open.spotify.com/album/3aS2BgGCVSbHwCFNcf5Qvl) | 2:46 |
+| 7 | [Le but \- Version CH](https://open.spotify.com/track/373ZGWf421SNGD4xh4WqJM) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Le but](https://open.spotify.com/album/2dteg9SlN9kCSE5v6Z8GHM) | 1:44 |
+| 8 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
+| 9 | [The Way We Touch](https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [The Way We Touch](https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12) | 3:09 |
 | 10 | [GOAT](https://open.spotify.com/track/06csBJCLcIQJbR113EuURC) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [GOAT](https://open.spotify.com/album/1ih1sEDRvMpNRUbInc6hfD) | 4:36 |
 | 11 | [EVIL WORLD](https://open.spotify.com/track/3p7Xlyos3h0Ua6XNe2LviD) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [EVIL WORLD](https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR) | 3:14 |
 | 12 | [MONTRÉAL 25](https://open.spotify.com/track/0NbNlydNs5JITOvtirFgKi) | [Lunaire](https://open.spotify.com/artist/2utqlnLLPdrTcaohqgDLCS) | [MONTRÉAL 25](https://open.spotify.com/album/0KLvAjUQy4XuJ93MOWTbjs) | 1:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 49 | [Extraordinaire](https://open.spotify.com/track/4rLtn4lxJDI40eDFIY78TY) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:45 |
 | 50 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
 
-Snapshot ID: `AAAAAGtikHiZFMpHpPZk5yUuUcRCfVqT`
+Snapshot ID: `AAAAAItCugBkgxCiswzofHpgrOtfHJJu`

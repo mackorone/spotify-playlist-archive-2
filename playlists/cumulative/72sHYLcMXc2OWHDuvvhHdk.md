@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,337 songs - 5 day 16 hr 23 min
+2,344 songs - 5 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Careful](https://open.spotify.com/track/70b2wxeezuLyR8F8F9GrNp) | [Newhalem](https://open.spotify.com/artist/2NJqVGXYGPDC5HoPdZEO5A) | [Careful](https://open.spotify.com/album/3sILmbXNMpozMZOOqQrkx4) | 3:56 | 2025-04-08 |  |
 | [Carelessly \- Radio Edit](https://open.spotify.com/track/004983z6Au8ey19LDfWpcY) | [Axelbreeze](https://open.spotify.com/artist/6xmaU17fJf3CJbBzAJHZC6), [Pamela Yulo](https://open.spotify.com/artist/6LdGMCyNlc7ZkIpuoXAMBQ) | [Carelessly](https://open.spotify.com/album/6NUfxzSttWjnMFUla2qwiM) | 3:28 | 2025-06-20 |  |
 | [Carole est partie](https://open.spotify.com/track/5LagDEZJamFpYDHBfCUlGB) | [Jibb Valley](https://open.spotify.com/artist/4QAMcP1l4n3nw5vuXXTNUe) | [Carole est partie](https://open.spotify.com/album/4AwqBbKS8JCvmx3G7rtt7M) | 2:06 | 2025-09-22 |  |
+| [Carpe Diem](https://open.spotify.com/track/0PtVu60gJJpRjU7nQC52Dv) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:43 | 2026-05-08 |  |
 | [Carta inedita](https://open.spotify.com/track/7u0qA2nkFWFq7jbNXZspTa) | [Benjamin Pujols](https://open.spotify.com/artist/4MElKrdyigZbArae4Na3TS) | [Carta inedita](https://open.spotify.com/album/0vSjvTv66ok7HpHeeG9IBf) | 4:06 | 2025-12-13 |  |
 | [Casablanca](https://open.spotify.com/track/08hAMaUo21TlZ5jL4CSnu6) | [David Laiton](https://open.spotify.com/artist/4QT0Wnd8dioPe84X8pSFR2) | [Casablanca](https://open.spotify.com/album/7choE5NSDhFojK7hkdR4mO) | 3:22 | 2024-08-01 |  |
 | [CATARSE](https://open.spotify.com/track/7yAcAGzm1gryX3GxLPqJOY) | [João do Tocantins](https://open.spotify.com/artist/4S0iia9OzFepeyshW2GfqQ) | [CATARSE](https://open.spotify.com/album/1g0h7zPlPP0ewwCnzpXGeL) | 3:33 | 2025-10-13 |  |
@@ -576,6 +577,7 @@
 | [Esfera estelar](https://open.spotify.com/track/1sM0yol9qxkgL9bspKcGE1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera estelar](https://open.spotify.com/album/5U1dydCsI3g37wy6KQmJOd) | 2:52 | 2025-08-21 |  |
 | [espada e a parede](https://open.spotify.com/track/3Tg3yR2uNPB7j0aBZ4Qlkm) | [Davinex](https://open.spotify.com/artist/2FLbDrWS8mJvp5zPUWufi9) | [espada e a parede](https://open.spotify.com/album/2LfWz4tkyLgZ25xlm2z9w9) | 2:35 | 2024-08-03 |  |
 | [Espero](https://open.spotify.com/track/3hKdvKTsoMu9cpmOfNV2s4) | [Treem](https://open.spotify.com/artist/3PoYJKZXsQwoU916dTOY3B) | [Espero](https://open.spotify.com/album/3N5hCsR1uO5YoSTrdDxhtK) | 4:49 | 2026-01-08 |  |
+| [Esto no es un cuento](https://open.spotify.com/track/5cRxFWd9jzAp7Z9XxGL9Ai) | [Reina Cruda](https://open.spotify.com/artist/3iHQ05Da99Bi0pNSzJaRV2) | [Esto no es un cuento](https://open.spotify.com/album/4hfn831mOUQrEeRcL0OS5T) | 2:50 | 2026-05-08 |  |
 | [ETHNIQUE](https://open.spotify.com/track/6ljj9H04l1RqkCyBFFExI3) | [CLOCHARD](https://open.spotify.com/artist/4L9iQ7DX2akecVGFEF3pgu) | [ETHNIQUE](https://open.spotify.com/album/1tl33O8yD0ufO9q3HkWEaI) | 3:55 | 2024-08-23 |  |
 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-06 |  |
 | [Euthanasia](https://open.spotify.com/track/6UwyXsOW9qNrHwpBsbuPkO) | [Morwëna](https://open.spotify.com/artist/2vG7p8ihVMYrJibA9rhs6U) | [Morwëna](https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm) | 2:48 | 2025-07-08 |  |
@@ -610,6 +612,7 @@
 | [Fall Like Rain](https://open.spotify.com/track/4okl3ndjrfVdBcBjsh7LNz) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx) | [Growing Up](https://open.spotify.com/album/5UkoMQKGss3s6TIerlJFzf) | 2:47 | 2024-08-26 |  |
 | [Fallen Angel \(Mild Abomination\)](https://open.spotify.com/track/6nt6GFSIFNcMYgjeWz2Quk) | [Daniel Horton](https://open.spotify.com/artist/4sVUM23ROHtFuQgj03qSw7) | [Pleading for Judas.](https://open.spotify.com/album/40ivNxDtuYSFdmLoJ7O1aY) | 3:07 | 2024-05-20 |  |
 | [Falling Apart](https://open.spotify.com/track/6kMZHZFL24X8WFbjvpHj0h) | [Stranger In The Room](https://open.spotify.com/artist/5qwZlRW1t0uj8vJP99ow83) | [Falling Apart](https://open.spotify.com/album/7rb1CZSyg8BFa6j39wCqd2) | 4:06 | 2026-01-04 |  |
+| [Falling Awake](https://open.spotify.com/track/0uHNCSz5OhlFgAELOTz1Ag) | [Bløødmøøn](https://open.spotify.com/artist/4bNmsvjqjj7mCtDdFUwka2) | [Falling Awake](https://open.spotify.com/album/5OlpmEjr0Vy4K1lZq7nTaN) | 3:23 | 2026-05-08 |  |
 | [falling down](https://open.spotify.com/track/1bTcxU52JVMIOaxKTTiuqD) | [StarAV](https://open.spotify.com/artist/3WGUrAeuOzuLleeIuyg9Na) | [falling down](https://open.spotify.com/album/3zHvjsJ5xkcjwxO0JPlSV7) | 2:29 | 2026-04-13 |  |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2025-12-09 |  |
 | [Falling Petals](https://open.spotify.com/track/641nzVqym9Ika5Kgxaxcgn) | [Sleeping Fox](https://open.spotify.com/artist/540u2i9eC0MQvVy45YVqDa) | [Falling Petals](https://open.spotify.com/album/3tJfVKvDvc1rLovb8fUpZc) | 3:06 | 2025-06-20 |  |
@@ -1633,6 +1636,7 @@
 | [Rocking Chair](https://open.spotify.com/track/0sh4adWH9y62eG9JXszK6n) | [The Penske File](https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh) | [Reprieve](https://open.spotify.com/album/4VRJmVGdgogDC3UHY1iS9Q) | 3:48 | 2025-11-17 |  |
 | [Rockin’ the ’55 Dodge](https://open.spotify.com/track/6hhlyikaBWY2JWZJQzV1bA) | [Classe & Bultknäckarna](https://open.spotify.com/artist/3OwyOJOnNsGkQCjuMlIrb0) | [Rockin’ the ’55 Dodge](https://open.spotify.com/album/5jkVyTXSsjSXlAu3zJb1IZ) | 3:24 | 2025-11-06 |  |
 | [Roll The Seminole](https://open.spotify.com/track/55nOMhek906L21n5E38fZE) | [Gavin Burch](https://open.spotify.com/artist/3qBnOfpyN6zcVZshy4HWkG) | [Hairball](https://open.spotify.com/album/4M2jPZ9TMb3S1jrHR5kWhp) | 2:16 | 2025-09-01 |  |
+| [Ron Para Dos](https://open.spotify.com/track/1L2TXfrBMxh9cNIR65nsCi) | [Beta Surf](https://open.spotify.com/artist/3yIfgsG4NczWN3DjwXI9Ws) | [Ron Para Dos](https://open.spotify.com/album/3LeM0ekNot9JVuqb3pIn9p) | 2:26 | 2026-05-08 |  |
 | [Roosters](https://open.spotify.com/track/6SPv408aAfbsGqb2Fvic8B) | [Travis Feutz and The Stardust Cowboys](https://open.spotify.com/artist/5prevHb6g0UVn5uIoLqbjs) | [Country Gold](https://open.spotify.com/album/3NgPR3THQboh5Uc9pAowOK) | 4:27 | 2026-03-30 |  |
 | [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-06-20 |  |
 | [Rosie Said](https://open.spotify.com/track/4p6qymqebAQWqzLghZdBic) | [Parker](https://open.spotify.com/artist/0BmuwRNzKZ8DBg7DEMebdE) | [Rosie Said](https://open.spotify.com/album/7BbAyg9GhsvbIkgAnZvt3r) | 3:13 | 2025-06-26 |  |
@@ -1784,6 +1788,7 @@
 | [Song Four \(The Romance Is Over\)](https://open.spotify.com/track/7x0JAxeGzZ2bzg74OTn5UB) | [Camille Delaquise](https://open.spotify.com/artist/0xNUOkexhRT1OJkQz7xpwr) | [Song Four \(The romance is over\)](https://open.spotify.com/album/5Ak7udXRJM47NNCZ8LD4pY) | 3:38 | 2025-06-03 |  |
 | [Song of the Week \- \(Album Version\)](https://open.spotify.com/track/4Hh3cYCCSHebeaHB49YGsB) | [Kenny Mehler](https://open.spotify.com/artist/4N1Sigw37UfElIUUR981QS) | [Cornbread and Whiskey](https://open.spotify.com/album/5lGPPVdraaU7RikytucTCg) | 2:39 | 2025-06-23 |  |
 | [Songs That a Ghost Might Like](https://open.spotify.com/track/2ALCFagrDCXxTESqySPqF6) | [Brandon Birdwell](https://open.spotify.com/artist/0AhCptHCR9jOUnM5nYzVSi) | [Songs That a Ghost Might Like](https://open.spotify.com/album/5GCYNEwTCuuDRoLSWSY1Au) | 3:01 | 2025-08-30 |  |
+| [Sorites Paradox](https://open.spotify.com/track/2LNkqF7Lr1mMA8K9xhsnE4) | [Morning Haze](https://open.spotify.com/artist/49vfSJBSQWYwVfJxLBCrRq) | [Fractures](https://open.spotify.com/album/4OlCxBsIXa9CdDjMeHusmU) | 2:16 | 2026-05-08 |  |
 | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/4n5libhkvlx0vZnti57cTW) | [Richard Rolando](https://open.spotify.com/artist/17Xn5qixruvHy4b8qdta8H), [Laura Molinas](https://open.spotify.com/artist/51sryT8knRzEjtAZiCHUPY) | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/album/5pPBxUEW9Z50FVzxvBz070) | 3:07 | 2025-06-23 |  |
 | [SOTTOMARINI](https://open.spotify.com/track/64CkptZ0a6rjIon86EANMj) | [ROOD!](https://open.spotify.com/artist/6QwZaBjMSO6y4tdUz7NFPU) | [COLPAMIA/SOTTOMARINI](https://open.spotify.com/album/1jrawEl9DKkpKiogUIT30u) | 1:34 | 2024-09-23 |  |
 | [Soul Horizon](https://open.spotify.com/track/1wzcYJVC0d80oyhtZ4J5Zm) | [BoogaTronic](https://open.spotify.com/artist/1l9I8K5ejxgEiVwxMCwXzs) | [Soul Horizon](https://open.spotify.com/album/3wclxdmvp9ftfcKzufWxZQ) | 3:44 | 2025-04-14 |  |
@@ -2144,6 +2149,7 @@
 | [Wait for Me](https://open.spotify.com/track/7Fb08iEFnGsuGfcAcWW5Lf) | [Rufus Beckett](https://open.spotify.com/artist/0AuymUdyDnEfryqJuyChJW) | [Wait for Me](https://open.spotify.com/album/6yi5kiWbCHWVD7yVGAW5ew) | 3:26 | 2025-07-21 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2024-09-16 |  |
 | [Waited All Night](https://open.spotify.com/track/3uu1oz6GsJQRRZAMNcDSi3) | [The Bankes Brothers](https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o) | [Where Do We Go From Here?](https://open.spotify.com/album/0f9eQEIi5Gi2cN4kk3s7Hv) | 2:54 | 2025-10-09 |  |
+| [Waiting for the wolf](https://open.spotify.com/track/7dTPTFriLh1IFWvc18nZyp) | [Gopal Martin](https://open.spotify.com/artist/11EPUXkIepKcr9ThxGY4EV) | [basscontact volume 2](https://open.spotify.com/album/3mvcybYNmUMjiksY3UDxtD) | 3:42 | 2026-05-08 |  |
 | [Waiting for You \- Radio Edit](https://open.spotify.com/track/0nF0U2n8t52evziL2LdwHf) | [Ayoona Bay](https://open.spotify.com/artist/3w1N70ai2u9Vfrpc3bO4eq) | [Waiting for You \(Radio Edit\)](https://open.spotify.com/album/0ORBTVlls7sw1egY3Jwumd) | 3:20 | 2025-10-16 |  |
 | [Wake Me](https://open.spotify.com/track/79VEA2wF65Igb7ZzkyPqub) | [OdoBangs](https://open.spotify.com/artist/04gUqOXG2LTsnef3y4IRgm) | [Wake Me](https://open.spotify.com/album/14rUNYbYCdtnzwZsqjzBJi) | 2:30 | 2025-12-29 |  |
 | [Wake Up](https://open.spotify.com/track/4jxod21Hy3lVRoOymyf6FU) | [Skelton](https://open.spotify.com/artist/1atVSpc9xqy2BDSoK4gN5c) | [Wake Up](https://open.spotify.com/album/5EVXa0VAJ04BeD9eX15egm) | 4:08 | 2025-09-04 |  |
@@ -2263,6 +2269,7 @@
 | [Yesterday > Tomorrow](https://open.spotify.com/track/3fjMmRTUetKvTVC3oP4zgd) | [Vividbluesun](https://open.spotify.com/artist/735pkA4IUZDztXYtWLrycM) | [Yesterday > Tomorrow](https://open.spotify.com/album/1uyljuEY7PUon79NDiWxzw) | 3:53 | 2025-11-25 |  |
 | [Yesterday's Bread](https://open.spotify.com/track/4b9lQHfzORtihnoyfrjRdb) | [Anna Searight](https://open.spotify.com/artist/7gLO6oVqDUJ93e1FqpJkII) | [Yesterday's Bread](https://open.spotify.com/album/5YKhKjqyuWXVOIQFJXxJa4) | 3:13 | 2025-07-28 |  |
 | [Yeti](https://open.spotify.com/track/1QkzEOEWdjDPEzHO4dCD7M) | [NAHO](https://open.spotify.com/artist/41uWslIMyRwwThLcprJvNb) | [Yeti](https://open.spotify.com/album/7rtEUrBcxU8Nq4vagIh3YG) | 3:04 | 2026-01-19 |  |
+| [Yin:Yang](https://open.spotify.com/track/4B0UCLlMIrItb7b4snndYW) | [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD), [Era 51](https://open.spotify.com/artist/3vxacLf1tP9PILySz0wgY0) | [Don't Run From the Rain](https://open.spotify.com/album/4UQlvsO5uEIr7qhr0fxsPg) | 2:26 | 2026-05-08 |  |
 | [Yoko Tsuno](https://open.spotify.com/track/3EkDoQtSVMudQwuwwqYtiG) | [Yves Paquet](https://open.spotify.com/artist/7rIXWoVhS7nzMxupPhKmum) | [Yoko Tsuno](https://open.spotify.com/album/5PBEuNVLktklnIrZbtzn4M) | 3:34 | 2025-02-03 |  |
 | [You](https://open.spotify.com/track/6NH9VLOKZNxxVsVsuvnQVb) | [KN\_Tini](https://open.spotify.com/artist/4O5Of6pRjTlXZ3pdWGJdOc), [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [Breathe, Love's in the Air](https://open.spotify.com/album/2wDxJHbJTwfcB1Frv2Gb5H) | 2:27 | 2025-06-02 |  |
 | [You](https://open.spotify.com/track/2gyi33qwr02EV8Wo08t1vE) | [Skelton](https://open.spotify.com/artist/1atVSpc9xqy2BDSoK4gN5c) | [The Day After](https://open.spotify.com/album/4zt4TXr3sXEthktCoiGZLU) | 4:06 | 2025-06-30 |  |

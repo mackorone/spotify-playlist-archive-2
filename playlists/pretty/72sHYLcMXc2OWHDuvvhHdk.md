@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,622 songs - 6 day 8 hr 53 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 570 likes - 2,631 songs - 6 day 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2630,5 +2630,14 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2620 | [Kiss Your Ass Goodbye](https://open.spotify.com/track/1lxA3HEY10vUObzqN8u2g7) | [LORELEY](https://open.spotify.com/artist/02cidh7gdYOQN7NlZPmhuE) | [Kiss Your Ass Goodbye](https://open.spotify.com/album/0OMDvjCh93dG1Ku68Tixoc) | 3:31 |
 | 2621 | [Run Like a Child](https://open.spotify.com/track/5ud980arYWMmbeChicUNsK) | [Bella Cutts](https://open.spotify.com/artist/3dOOFRnuA57426A2SGgAl8) | [Run Like a Child](https://open.spotify.com/album/3BVBIV0Wk8N6OKu49te2NH) | 4:09 |
 | 2622 | [23 de Maio](https://open.spotify.com/track/18Lw7AUnhUT646LdPFMvni) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz), [Jess.](https://open.spotify.com/artist/00PMCgBFFMXLtUO1prdXTI) | [23 de Maio](https://open.spotify.com/album/4bTJKqCamfHhSnsomTxKEd) | 1:43 |
+| 2623 | [Ron Para Dos](https://open.spotify.com/track/1L2TXfrBMxh9cNIR65nsCi) | [Beta Surf](https://open.spotify.com/artist/3yIfgsG4NczWN3DjwXI9Ws) | [Ron Para Dos](https://open.spotify.com/album/3LeM0ekNot9JVuqb3pIn9p) | 2:26 |
+| 2624 | [Falling Awake](https://open.spotify.com/track/0uHNCSz5OhlFgAELOTz1Ag) | [Bløødmøøn](https://open.spotify.com/artist/4bNmsvjqjj7mCtDdFUwka2) | [Falling Awake](https://open.spotify.com/album/5OlpmEjr0Vy4K1lZq7nTaN) | 3:23 |
+| 2625 | [Flare](https://open.spotify.com/track/2OYUWhuiTQ2pBESGZYzrgQ) | [Deep Shoq](https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5) | [Libra](https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK) | 3:20 |
+| 2626 | [Sorites Paradox](https://open.spotify.com/track/2LNkqF7Lr1mMA8K9xhsnE4) | [Morning Haze](https://open.spotify.com/artist/49vfSJBSQWYwVfJxLBCrRq) | [Fractures](https://open.spotify.com/album/4OlCxBsIXa9CdDjMeHusmU) | 2:16 |
+| 2627 | [Carpe Diem](https://open.spotify.com/track/0PtVu60gJJpRjU7nQC52Dv) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:43 |
+| 2628 | [Titanium](https://open.spotify.com/track/68ZVSBWI4xsWV2DP3feLSr) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm), [Nox Quartet](https://open.spotify.com/artist/4PyleKtYj9aWfygn3BCSbF) | [Ghost Town and Haunted Love](https://open.spotify.com/album/0jL0TKspnlMs5F4zlEBm2c) | 4:16 |
+| 2629 | [Waiting for the wolf](https://open.spotify.com/track/7dTPTFriLh1IFWvc18nZyp) | [Gopal Martin](https://open.spotify.com/artist/11EPUXkIepKcr9ThxGY4EV) | [basscontact volume 2](https://open.spotify.com/album/3mvcybYNmUMjiksY3UDxtD) | 3:42 |
+| 2630 | [Esto no es un cuento](https://open.spotify.com/track/5cRxFWd9jzAp7Z9XxGL9Ai) | [Reina Cruda](https://open.spotify.com/artist/3iHQ05Da99Bi0pNSzJaRV2) | [Esto no es un cuento](https://open.spotify.com/album/4hfn831mOUQrEeRcL0OS5T) | 2:50 |
+| 2631 | [Yin:Yang](https://open.spotify.com/track/4B0UCLlMIrItb7b4snndYW) | [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD), [Era 51](https://open.spotify.com/artist/3vxacLf1tP9PILySz0wgY0) | [Don't Run From the Rain](https://open.spotify.com/album/4UQlvsO5uEIr7qhr0fxsPg) | 2:26 |
 
-Snapshot ID: `AAAK1333LFTYnZMNxWDv9U2Q63MUQ8i/`
+Snapshot ID: `AAAK4IafrqwEVmiosqo/7VwaTCdRGqJP`

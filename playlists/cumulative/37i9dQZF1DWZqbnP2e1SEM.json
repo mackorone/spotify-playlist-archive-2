@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "All Of Me",
+        "url": "https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1"
+      },
+      "artists": [
+        {
+          "name": "MONOH",
+          "url": "https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133842,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
+    },
+    {
+      "album": {
         "name": "All Over Again (Edit)",
         "url": "https://open.spotify.com/album/7zL9HCdO1aB7B4kAeJuW6r"
       },
@@ -1788,7 +1810,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"

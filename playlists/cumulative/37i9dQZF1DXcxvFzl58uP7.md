@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: girlsweetvoiced
 
-1,031 songs - 2 day 5 hr 26 min
+1,032 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Cleaner Air](https://open.spotify.com/track/3RNHSxHnAIdMAHtMsVNqlS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/2DSu8njxwzY0bNvc029jNf) | 2:08 | 2019-07-30\* | 2020-04-24 |
 | [Clear Water](https://open.spotify.com/track/4VkcLBrVk0rjcbSvEIjyix) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Phlowerie](https://open.spotify.com/artist/4gnXAbCkJgPL3Pd2D79B5A) | [Pretty Boy](https://open.spotify.com/album/327jlRWWT2vjxbTIHGVWFX) | 2:22 | 2021-10-25 | 2022-04-19 |
 | [Clementine](https://open.spotify.com/track/2odYMaZmkYcfcuIaxIZGlR) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [Clementine](https://open.spotify.com/album/10Zs0dh8IWO0Ztahybh90K) | 2:08 | 2024-01-12 | 2024-04-24 |
-| [closest i could get](https://open.spotify.com/track/1NeLtbdl8PGNX0MlVuLjbu) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [closest i could get](https://open.spotify.com/album/2fhf44KjFkWIPhVVyuTvXT) | 1:26 | 2026-03-06 |  |
+| [closest i could get](https://open.spotify.com/track/1NeLtbdl8PGNX0MlVuLjbu) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [closest i could get](https://open.spotify.com/album/2fhf44KjFkWIPhVVyuTvXT) | 1:26 | 2026-03-06 | 2026-05-09 |
 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 | 2021-06-04 | 2023-08-26 |
 | [Cloudy Days](https://open.spotify.com/track/5BlY7WtI52hx9FlMGcM8Wm) | [Sam Plant](https://open.spotify.com/artist/4yJhpF6wzsv1nH7ZUQDx1w), [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Cloudy Days](https://open.spotify.com/album/68hKxVlOw3iq3WaGiPeHC7) | 3:38 | 2019-07-31 | 2021-03-23 |
 | [Clueless](https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:47 | 2023-09-29 | 2024-04-19 |
@@ -609,6 +609,7 @@
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:27 | 2023-09-29 |  |
 | [moviestar](https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [moviestar](https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW) | 2:18 | 2024-05-10 |  |
 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 | 2026-02-27 | 2026-04-18 |
+| [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 | 2026-05-08 |  |
 | [Mushroom](https://open.spotify.com/track/6bF20uauKV4HUXp5mKdx82) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mushroom](https://open.spotify.com/album/2VVDnRJ9hsMcH8qLfPL4rf) | 2:46 | 2019-07-30\* | 2021-05-27 |
 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 | 2024-05-10 |  |
 | [My Jinji](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/23fJtVCer8xdqYluyK8Rh9) | 6:40 | 2020-10-08 | 2022-12-15 |

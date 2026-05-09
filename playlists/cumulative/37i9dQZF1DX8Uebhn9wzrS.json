@@ -13721,6 +13721,24 @@
     },
     {
       "album": {
+        "name": "fell in love",
+        "url": "https://open.spotify.com/album/2fleamHsfUsd3A9kH0dgaO"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124730,
+      "name": "fell in love",
+      "url": "https://open.spotify.com/track/14wcOAje2BxfsBzTCoKbBI"
+    },
+    {
+      "album": {
         "name": "Fellow Friend",
         "url": "https://open.spotify.com/album/2jBg3GOh3xl7b49XY2npN6"
       },
@@ -13938,6 +13956,24 @@
       "duration_ms": 128888,
       "name": "find whats lost",
       "url": "https://open.spotify.com/track/2iDjJIo3TsomxvqSNd2k1i"
+    },
+    {
+      "album": {
+        "name": "finding the surface",
+        "url": "https://open.spotify.com/album/1SrSia7EHV4lzAxRmT8FyZ"
+      },
+      "artists": [
+        {
+          "name": "rasbora",
+          "url": "https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "finding the surface",
+      "url": "https://open.spotify.com/track/2zCfxO5i0sZalxD36ydDZh"
     },
     {
       "album": {
@@ -24554,7 +24590,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 118153,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
@@ -38596,7 +38632,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 141052,
       "name": "Still There",
       "url": "https://open.spotify.com/track/3ubaTQbQBCTKAJzVAA7Nfo"

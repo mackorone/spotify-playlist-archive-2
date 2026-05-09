@@ -4,7 +4,7 @@
 
 > 
 
-205 songs - 10 hr 42 min
+206 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [No Lover](https://open.spotify.com/track/37V9X9p9qwOarHwCjsCSRr) | [Haryx](https://open.spotify.com/artist/3KyoaBJkZoxcSSuFnuv9lA) | [No Lover](https://open.spotify.com/album/4TAfyJTinnMVPLUfnEz6gX) | 2:30 | 2025-11-03 |  |
 | [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 | 2026-01-07 |  |
 | [Not The Daddy](https://open.spotify.com/track/1PDVvDWwRCdKq2iRT6Y1fM) | [JTJ](https://open.spotify.com/artist/0PkAEfOeWDtQBlL4W0NsZv) | [Not The Daddy](https://open.spotify.com/album/4aLpx4ebbNid4AyS0C3Wj4) | 3:20 | 2025-08-14 |  |
+| [NOW THAT I’M UP](https://open.spotify.com/track/4fMExohtJgou8vc2nV9QSI) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [NOW THAT I’M UP](https://open.spotify.com/album/5E3haJjBqElPzW9nR5Q0i2) | 2:25 | 2026-05-09 |  |
 | [Nowhere to Ride](https://open.spotify.com/track/3Ax6hg04Pp7kauGmqlyuzq) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/6PcEqIVCtKe9bSZYHD314w) | 2:22 | 2025-04-06 |  |
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-04-10 |  |
 | [Old Soul](https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 3:18 | 2026-01-07 |  |

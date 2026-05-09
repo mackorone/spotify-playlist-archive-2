@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,893 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,897 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -375,15 +375,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 365 | [Don't Care About Me](https://open.spotify.com/track/5Rfo9DsoKWTJTbq77VNStM) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [Blast From The Past](https://open.spotify.com/album/7rHZCf6NdEpBseFNpiZMGH) | 3:29 |
 | 366 | [Mr.Love](https://open.spotify.com/track/2cNDYm1m7yfZUcZnc5mWmj) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [Blast From The Past](https://open.spotify.com/album/7rHZCf6NdEpBseFNpiZMGH) | 3:26 |
 | 367 | [Cosmos](https://open.spotify.com/track/6zPeYgilv2VJ59RxvgK5h1) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [If We Live Without Romance](https://open.spotify.com/album/7fesRqtaaba08iyXUvBXew) | 5:00 |
-| 368 | [Bones](https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:36 |
-| 369 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
-| 370 | [Chaos Calls](https://open.spotify.com/track/7x3Y4n4rKC1NP3I1iCRuwv) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:58 |
-| 371 | [Pluto Bay](https://open.spotify.com/track/6cw77FKdWDNsaNNDKUuDoU) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
-| 372 | [Once Upon The End](https://open.spotify.com/track/1t538pG42o0sZHmXyZD26t) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:44 |
+| 368 | [Bones](https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:36 |
+| 369 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
+| 370 | [Chaos Calls](https://open.spotify.com/track/7x3Y4n4rKC1NP3I1iCRuwv) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:58 |
+| 371 | [Pluto Bay](https://open.spotify.com/track/6cw77FKdWDNsaNNDKUuDoU) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
+| 372 | [Once Upon The End](https://open.spotify.com/track/1t538pG42o0sZHmXyZD26t) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:44 |
 | 373 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
-| 374 | [Days Are Nights](https://open.spotify.com/track/0CCmBlFjeBoley1JV76fXa) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:38 |
-| 375 | [What \(I Wish\) He Said](https://open.spotify.com/track/6lvxzgNz39yLPEvCtvp0Ig) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 2:41 |
-| 376 | [Have You Ever](https://open.spotify.com/track/5BLt9DwbEkCdtHA3YSYgR2) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:52 |
+| 374 | [Days Are Nights](https://open.spotify.com/track/0CCmBlFjeBoley1JV76fXa) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:38 |
+| 375 | [What \(I Wish\) He Said](https://open.spotify.com/track/6lvxzgNz39yLPEvCtvp0Ig) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 2:41 |
+| 376 | [Have You Ever](https://open.spotify.com/track/5BLt9DwbEkCdtHA3YSYgR2) | [mindfreakk!](https://open.spotify.com/artist/0Uhj9btlR2MFPmpr8XJktj) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:52 |
 | 377 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 378 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
 | 379 | [Haven’t Ever?](https://open.spotify.com/track/3Y2F2Vc3rEmajru0RBK1cs) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Remembering](https://open.spotify.com/album/4xZnp0byuBiJzFiYUbOaCr) | 2:12 |

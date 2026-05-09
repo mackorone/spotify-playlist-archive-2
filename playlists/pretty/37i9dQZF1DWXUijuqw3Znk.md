@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 712 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 714 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 67 | [GANGSHIN](https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:00 |
 | 68 | [1LL Recognize 1LL \- Bonus Track](https://open.spotify.com/track/7vBMlFHfDoZqHCf7sWLWu5) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 3:11 |
 | 69 | [Green Ideology](https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Green Ideology](https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN) | 3:27 |
-| 70 | [BLACKBOX](https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 3:04 |
-| 71 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 |
+| 70 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 |
+| 71 | [BLACKBOX](https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 3:04 |
 | 72 | [진저리 \(Feat\. 릴러말즈 \(Leellamarz\), 제네 더 질라\(ZENE THE ZILLA\)\)](https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 3:43 |
 | 73 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 |
 | 74 | [Survivor](https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:40 |

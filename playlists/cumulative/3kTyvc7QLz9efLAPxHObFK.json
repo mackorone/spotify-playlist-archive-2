@@ -36516,6 +36516,24 @@
     {
       "album": {
         "name": "MOVE IT",
+        "url": "https://open.spotify.com/album/6teylFgvMQveVLHiaNgiA0"
+      },
+      "artists": [
+        {
+          "name": "Ixper",
+          "url": "https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104557,
+      "name": "MOVE IT",
+      "url": "https://open.spotify.com/track/0a3OY8RJtxD50MBtPIBLdb"
+    },
+    {
+      "album": {
+        "name": "MOVE IT",
         "url": "https://open.spotify.com/album/59zfhqCvoHXFbd2EkP7kxc"
       },
       "artists": [
@@ -61884,24 +61902,6 @@
       "duration_ms": 266599,
       "name": "You Got My Lovin' - Extrended Mix",
       "url": "https://open.spotify.com/track/2nCnqncBb1UpTmmpS4Exng"
-    },
-    {
-      "album": {
-        "name": "YOU LIKE 2 MOVE IT (Uptempo Remix)",
-        "url": "https://open.spotify.com/album/6teylFgvMQveVLHiaNgiA0"
-      },
-      "artists": [
-        {
-          "name": "AAVRIX",
-          "url": "https://open.spotify.com/artist/4WKtlIMMHbZ71SaHeUy6WU"
-        }
-      ],
-      "date_added": "2024-05-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 104557,
-      "name": "YOU LIKE 2 MOVE IT - Uptempo Remix",
-      "url": "https://open.spotify.com/track/0a3OY8RJtxD50MBtPIBLdb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! COSME TADEO \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Corona del Rey \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Alergico Al Amor",
+        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190767,
+      "name": "Alergico Al Amor",
+      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
+    },
+    {
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -928,7 +946,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 161228,
       "name": "Armando Aguirre",
       "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 194000,
       "name": "Besos Y Copas (En Vivo)",
       "url": "https://open.spotify.com/track/0lGxEUBHCr0zWUo2Ny7tqq"
@@ -2719,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/1wqqRDPHO9xCNFeb77SUYX"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181388,
+      "name": "Dame Felicidad",
+      "url": "https://open.spotify.com/track/4D400kaUvocUR8tnPXmK0F"
+    },
+    {
+      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -3072,7 +3108,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 216157,
       "name": "Directo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
@@ -5226,6 +5262,28 @@
     {
       "album": {
         "name": "Fuiste Mi Todo",
+        "url": "https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        },
+        {
+          "name": "Israel Cienfuegos",
+          "url": "https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146221,
+      "name": "Fuiste Mi Todo",
+      "url": "https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91"
+    },
+    {
+      "album": {
+        "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
       },
       "artists": [
@@ -5922,7 +5980,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183565,
       "name": "La Dama",
       "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
@@ -6086,6 +6144,24 @@
       "duration_ms": 218282,
       "name": "La Llamada De Mi Ex (En Vivo)",
       "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
+    },
+    {
+      "album": {
+        "name": "Mayo 2026 (En Vivo)",
+        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136086,
+      "name": "La Mas Bonita De Todas - En Vivo",
+      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
     },
     {
       "album": {
@@ -7866,7 +7942,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 194750,
       "name": "Mi Talisman (En Vivo)",
       "url": "https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL"
@@ -9627,6 +9703,28 @@
     },
     {
       "album": {
+        "name": "Por Salud Mental",
+        "url": "https://open.spotify.com/album/5daCtEvl4hwiozKbCQxc9h"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Por Salud Mental",
+      "url": "https://open.spotify.com/track/3scDoFYqOF2LxyN066Dp5s"
+    },
+    {
+      "album": {
         "name": "De Coraz\u00f3n Cabal",
         "url": "https://open.spotify.com/album/0YmBUlD9ACR65vEp7SoqtY"
       },
@@ -10601,6 +10699,24 @@
     },
     {
       "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
+      },
+      "artists": [
+        {
+          "name": "Los Ex de la Banda",
+          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213777,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
+    },
+    {
+      "album": {
         "name": "Retiro Lo Dicho",
         "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
       },
@@ -11040,7 +11156,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 206521,
       "name": "Se Va A Querer Morir",
       "url": "https://open.spotify.com/track/7r3pnWG7rIYnr9ipn7viBa"
@@ -11200,7 +11316,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 235250,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/6RMd5GlWb5DW4G0eT0VNZ2"
@@ -11276,10 +11392,32 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 206193,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
+    },
+    {
+      "album": {
+        "name": "Si Por Casualidad",
+        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
+      },
+      "artists": [
+        {
+          "name": "Banda Tradicion Sinaloense",
+          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156990,
+      "name": "Si Por Casualidad",
+      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
     },
     {
       "album": {
@@ -12637,6 +12775,24 @@
     },
     {
       "album": {
+        "name": "Todo Que Ver",
+        "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl"
+    },
+    {
+      "album": {
         "name": "Traguitos De Licor",
         "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
       },
@@ -12732,6 +12888,24 @@
       "duration_ms": 155818,
       "name": "Tronando Ligas",
       "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
+    },
+    {
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244650,
+      "name": "Tu Ex Amigo",
+      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
     },
     {
       "album": {
@@ -13294,7 +13468,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 197610,
       "name": "Vamos a Platicar",
       "url": "https://open.spotify.com/track/2W6LOI1qPL1o14Y8BJqtfH"

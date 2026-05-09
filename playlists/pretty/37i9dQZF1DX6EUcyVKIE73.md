@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,346 likes - 50 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,354 likes - 50 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 2 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
 | 3 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 |
 | 4 | [Rut Badle](https://open.spotify.com/track/1V16KVo3SNhjsasMgHH7LQ) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Om Bongane](https://open.spotify.com/artist/5CbfjjzYQsnMAIBUBFuL0q) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:16 |
-| 5 | [Ab Mori Baat \- Live](https://open.spotify.com/track/0GtOIkzvHqCXgbXoa4Lmq6) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Ab Mori Baat \(Live\)](https://open.spotify.com/album/4iYc0qimMEangahJLGYaNB) | 7:12 |
-| 6 | [Raga khafi](https://open.spotify.com/track/5kTOAXrd7nPiNtbTeiCXXb) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD) | [Inde du Nord \- North India: Season and Time / Les heures et les saisons](https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp) | 6:38 |
+| 5 | [Raga khafi](https://open.spotify.com/track/5kTOAXrd7nPiNtbTeiCXXb) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD) | [Inde du Nord \- North India: Season and Time / Les heures et les saisons](https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp) | 6:38 |
+| 6 | [Ab Mori Baat \- Live](https://open.spotify.com/track/0GtOIkzvHqCXgbXoa4Lmq6) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Ab Mori Baat \(Live\)](https://open.spotify.com/album/4iYc0qimMEangahJLGYaNB) | 7:12 |
 | 7 | [Raga Jhinjhoti \- Raga Jhinjhoti \- Matta Taal](https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Pandit Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Roopak Kulkarni](https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0) | [Celebrating the Legend \- Pt\. Hari Prasad Chaurasia](https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt) | 14:45 |
 | 8 | [Raga Tilak Kamod](https://open.spotify.com/track/0xyEZc2ntQg5ss0i8vJ8PF) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 15:05 |
 | 9 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |

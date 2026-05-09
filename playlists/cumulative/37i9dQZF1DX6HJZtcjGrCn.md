@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Isaura
 
-496 songs - 1 day 5 hr 22 min
+496 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-20 |  |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-20 | 2024-08-29 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2025-09-12 |
-| [Track 2](https://open.spotify.com/track/2t9weDEeOjqpijj5jnF8CH) | [Isaura](https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F) | [Primavera](https://open.spotify.com/album/0ma3xHuSUNkNIL4qbP5P0s) | 0:00 | 2026-05-07 |  |
 | [Traz\-me o Verão a Casa](https://open.spotify.com/track/11CKxyt74nFUG36rxtKpx6) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Traz\-me o Verão a Casa](https://open.spotify.com/album/6LNBH6sYVUG4XfpaDS5Quv) | 3:20 | 2026-04-23 |  |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2024-06-20 | 2024-10-04 |
 | [Trópico Paranóia](https://open.spotify.com/track/0RBiY7ty9QrIvCAubAebmI) | [Expresso Transatlântico](https://open.spotify.com/artist/28CpaXrJBEFMEupemdtiGB) | [Trópico Paranóia](https://open.spotify.com/album/11HXbdEbnmWDcOdOxWWd61) | 4:05 | 2026-01-30 | 2026-03-27 |
@@ -468,6 +467,7 @@
 | [Um Amor Qualquer](https://open.spotify.com/track/053UvS5JYixV2S6cTntNMX) | [Afonso Rodrigues](https://open.spotify.com/artist/5Cvl9dc6SCBd6s1zTK40cN) | [Areia Branca](https://open.spotify.com/album/58FnACRCyaGiwS5l3mPpH9) | 3:11 | 2025-03-07 | 2025-03-21 |
 | [Um Lugar na Mouraria \- Gémea Analógica](https://open.spotify.com/track/3Vro2KGZpxVvfaJrkQYdnk) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Gémea Analógica](https://open.spotify.com/album/5TMIMSgK7lYHX3LO51vvJG) | 3:18 | 2025-01-31 | 2025-03-14 |
 | [Um Passo ao Lado](https://open.spotify.com/track/2ZTjggEs13dJkJcGGIA66g) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r), [Jorge Palma](https://open.spotify.com/artist/5uOMOTzmfhliUjnyiJh0kn) | [Ana Márcia](https://open.spotify.com/album/1lsQWgwkr3SVJTOmTmEAfW) | 4:20 | 2025-07-04 | 2025-11-07 |
+| [unfinished ballad](https://open.spotify.com/track/2t9weDEeOjqpijj5jnF8CH) | [Isaura](https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F) | [Primavera](https://open.spotify.com/album/0ma3xHuSUNkNIL4qbP5P0s) | 2:42 | 2026-05-07 |  |
 | [Unlocks Me](https://open.spotify.com/track/59z7gCZXcS4O2CFsUuzzGy) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Unlocks Me](https://open.spotify.com/album/1fXWUMbvnd1ZpGvfUbLtwa) | 3:24 | 2025-12-12 | 2026-02-26 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-07-18 | 2026-01-16 |
 | [V\-VOADOR](https://open.spotify.com/track/350eyZhLqKeBBGI6fpreEf) | [CELSO](https://open.spotify.com/artist/3PCBbWR92UoUvHNYqf4N27) | [V\-VOADOR](https://open.spotify.com/album/2S6pVBcJBNYI90LLVI2WlB) | 2:46 | 2026-02-06 | 2026-02-13 |

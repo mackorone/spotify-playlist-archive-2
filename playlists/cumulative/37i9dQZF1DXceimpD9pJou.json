@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Rubinsky Rbk y Apache",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Samuel Troc ",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 470000,
       "name": "12 Discipulos",
       "url": "https://open.spotify.com/track/2ClupMWE8ebE5DhWEQtnl3"
@@ -268,6 +268,28 @@
       "duration_ms": 191186,
       "name": "158",
       "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
+    },
+    {
+      "album": {
+        "name": "28/7",
+        "url": "https://open.spotify.com/album/54zgw38RZLRw101jkCj5XL"
+      },
+      "artists": [
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/6lIRkKmnZ25epKsY56ZkRm"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170508,
+      "name": "28/7",
+      "url": "https://open.spotify.com/track/35TQtIH1DNOqPJYKG5cmkZ"
     },
     {
       "album": {
@@ -1893,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Acto III - Sirena al aire",
+        "url": "https://open.spotify.com/album/3xc8WzSB6lO2hmVTcCxG9O"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131071,
+      "name": "Acto III - Sirena al aire",
+      "url": "https://open.spotify.com/track/6WOPGn4NrKfA9PxgUQ3bUr"
+    },
+    {
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/1CeAWuFll0nPiVbnsjSf79"
       },
@@ -3256,6 +3300,24 @@
       "duration_ms": 346857,
       "name": "ALABEN",
       "url": "https://open.spotify.com/track/1rfWvmkzXbUj0gqzro2vi9"
+    },
+    {
+      "album": {
+        "name": "ALABEN A YAHWEH",
+        "url": "https://open.spotify.com/album/0x3r6Tt67GqnMBwc0DG2vv"
+      },
+      "artists": [
+        {
+          "name": "World Worship",
+          "url": "https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540000,
+      "name": "ALABEN A YAHWEH",
+      "url": "https://open.spotify.com/track/3xM1ZboW9SQ6bE4mPRlycx"
     },
     {
       "album": {
@@ -6278,7 +6340,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 228506,
       "name": "ARANCELES",
       "url": "https://open.spotify.com/track/0qIqwQQphALH45RFoKak8a"
@@ -11357,6 +11419,24 @@
     },
     {
       "album": {
+        "name": "Cintur\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/3d7dnQmDqvoaUkqlm7M32f"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166817,
+      "name": "Cintur\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/1AGYIU2PsPYD5dkj4lyRW0"
+    },
+    {
+      "album": {
         "name": "Ciza\u00f1a",
         "url": "https://open.spotify.com/album/5Frf4Ve331jDVLDmUh3f2l"
       },
@@ -11568,7 +11648,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183428,
       "name": "Color",
       "url": "https://open.spotify.com/track/3bWD27DuonhJW2Z54RGxa6"
@@ -13392,7 +13472,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 258556,
       "name": "Contigo Padre",
       "url": "https://open.spotify.com/track/1qKlNxxYJkFjJdYIRyiEsa"
@@ -14094,7 +14174,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 172784,
       "name": "Coronao",
       "url": "https://open.spotify.com/track/4shbpacNwx4HA2S3oHMR5I"
@@ -15124,7 +15204,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159506,
       "name": "Crop Tee",
       "url": "https://open.spotify.com/track/308bZ1L9oG2gW5ue9UiaQY"
@@ -19773,6 +19853,28 @@
     },
     {
       "album": {
+        "name": "UN\u00c1NIMES",
+        "url": "https://open.spotify.com/album/65jOUWwYfFrFX431zvoi7T"
+      },
+      "artists": [
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        },
+        {
+          "name": "Meyn Nova",
+          "url": "https://open.spotify.com/artist/0nmmSCikOFAhu3UIQFKG8m"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237753,
+      "name": "Dones",
+      "url": "https://open.spotify.com/track/6zx1xG0BiBNQkXycZ6962a"
+    },
+    {
+      "album": {
         "name": "DOPAMINA",
         "url": "https://open.spotify.com/album/3uP6mMENaK75PeQvmEzYux"
       },
@@ -21553,6 +21655,28 @@
     },
     {
       "album": {
+        "name": "El Hijo De Dios",
+        "url": "https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347128,
+      "name": "El Hijo De Dios",
+      "url": "https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F"
+    },
+    {
+      "album": {
         "name": "El Jard\u00edn (Live)",
         "url": "https://open.spotify.com/album/0SwGzAADcdGlHBXLasD06F"
       },
@@ -22042,7 +22166,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208301,
       "name": "El Protagonista",
       "url": "https://open.spotify.com/track/6qzmHgpx3pSKnOq27FtgK0"
@@ -29518,6 +29642,24 @@
     {
       "album": {
         "name": "Gloria a Dios",
+        "url": "https://open.spotify.com/album/3ddLAyHlOONlu6joe8di7E"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303567,
+      "name": "Gloria a Dios",
+      "url": "https://open.spotify.com/track/3sxrlHDD7Qd7hUoW5FUoek"
+    },
+    {
+      "album": {
+        "name": "Gloria a Dios",
         "url": "https://open.spotify.com/album/6nVxjm56rxX7Yvbv500KwY"
       },
       "artists": [
@@ -33913,6 +34055,24 @@
     },
     {
       "album": {
+        "name": "Hoy Quiero Entregar (Latin Pop)",
+        "url": "https://open.spotify.com/album/6Hm4YqZZjH5OTNGZSVrlqS"
+      },
+      "artists": [
+        {
+          "name": "Cindy Esparza",
+          "url": "https://open.spotify.com/artist/1vsexuwY24xd5fHx9XBXew"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Hoy Quiero Entregar - Latin Pop",
+      "url": "https://open.spotify.com/track/1gWN3Oc8zEF9Gz8Xdwu4jB"
+    },
+    {
+      "album": {
         "name": "Hoy Recibo Tu Poder",
         "url": "https://open.spotify.com/album/6MV7AwQXfKYS88reBRviTE"
       },
@@ -35140,7 +35300,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 187391,
       "name": "Irreconocible - Sesi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/05cFkMajvhq8YT7YqQ9NDw"
@@ -35198,7 +35358,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 158400,
       "name": "IT'S A CELEBRATION!",
       "url": "https://open.spotify.com/track/3IlVZPtWYsANcM3YXxCRcf"
@@ -41507,6 +41667,32 @@
     },
     {
       "album": {
+        "name": "SOBRE TODO",
+        "url": "https://open.spotify.com/album/25MpGTQMBXqk7AdnH6uyIf"
+      },
+      "artists": [
+        {
+          "name": "Legacy Worship",
+          "url": "https://open.spotify.com/artist/3DyDt0wDrNdfjv75uFl25I"
+        },
+        {
+          "name": "Legacy Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/2ZgbxhvD15ovcx7MfI3lhd"
+        },
+        {
+          "name": "Lauren Koltvedt",
+          "url": "https://open.spotify.com/artist/1x3FdfdmbpjrsauZH2gjfW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263865,
+      "name": "Luz de Tu Amor",
+      "url": "https://open.spotify.com/track/627iIPkZkij2LMt9onMsoU"
+    },
+    {
+      "album": {
         "name": "Luz del Mundo",
         "url": "https://open.spotify.com/album/4DMzIfDwDPSgJPPRLiSe6n"
       },
@@ -44246,7 +44432,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 195529,
       "name": "Mi Alabanza",
       "url": "https://open.spotify.com/track/0Tk0OGqUti0FZrE6Dn5wkV"
@@ -49088,7 +49274,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 260054,
       "name": "NECESITO",
       "url": "https://open.spotify.com/track/0WaGIxrQCLrXn4zCxEFeQR"
@@ -49796,7 +49982,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 201379,
       "name": "No Hay Imposibles",
       "url": "https://open.spotify.com/track/4fo9VfkHgQCKzPyO0z8cql"
@@ -50954,6 +51140,24 @@
       "duration_ms": 187981,
       "name": "No S\u00e9",
       "url": "https://open.spotify.com/track/2hn1HsIVyF4NRh9AzOA1SW"
+    },
+    {
+      "album": {
+        "name": "Perfume Agradable (En Vivo)",
+        "url": "https://open.spotify.com/album/7fNc6S23BmASAF5RsPGRk1"
+      },
+      "artists": [
+        {
+          "name": "Franco Figueroa",
+          "url": "https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408083,
+      "name": "No S\u00e9 Por Qu\u00e9 / Me Has Librado (En Vivo)",
+      "url": "https://open.spotify.com/track/4iKrvMrVZlcabmoxhNPWyl"
     },
     {
       "album": {
@@ -53179,6 +53383,32 @@
     },
     {
       "album": {
+        "name": "Otro Pana Ma",
+        "url": "https://open.spotify.com/album/181ACKoRGngMLI6h4rBkW7"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Carlito Codigo",
+          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
+        },
+        {
+          "name": "Dr. Roca",
+          "url": "https://open.spotify.com/artist/5gHzgHg9sEAWIClpJNgZ2J"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Otro Pana Ma",
+      "url": "https://open.spotify.com/track/4CDBPBeYeD3Twigx5lGxyL"
+    },
+    {
+      "album": {
         "name": "Otro Planeta",
         "url": "https://open.spotify.com/album/6YLb4V0y4H9yYodx0uk7gs"
       },
@@ -53954,6 +54184,28 @@
       "duration_ms": 215730,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3o0ASteEuzlvOEENMtCZO1"
+    },
+    {
+      "album": {
+        "name": "Para Siempre (Soft Version)",
+        "url": "https://open.spotify.com/album/4c3yBVv0lgVRdIqwp5KraN"
+      },
+      "artists": [
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "RITMO",
+          "url": "https://open.spotify.com/artist/3eA3kWMicWtqf9zJDCNYJa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229376,
+      "name": "Para Siempre - Soft Version",
+      "url": "https://open.spotify.com/track/4lSTOOZY00j5vXFukUY2Xz"
     },
     {
       "album": {
@@ -54784,7 +55036,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 243299,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/3beC5sz0LLv4G6Idihzdif"
@@ -57421,6 +57673,24 @@
     },
     {
       "album": {
+        "name": "Puedo Ver El Sol",
+        "url": "https://open.spotify.com/album/0T8zqmf7qsBrFvfblXkeBM"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262916,
+      "name": "Puedo Ver El Sol",
+      "url": "https://open.spotify.com/track/02paUXh27sHPBFVVhcE29q"
+    },
+    {
+      "album": {
         "name": "Puedo Verte",
         "url": "https://open.spotify.com/album/4qkMc3bEsadCOFDK5dmwpk"
       },
@@ -58292,7 +58562,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 291000,
       "name": "Quien Vive",
       "url": "https://open.spotify.com/track/1yAvWGZuqaK6nbbfLi38cn"
@@ -61031,6 +61301,28 @@
     },
     {
       "album": {
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/3IjiKZLySa4ue5BplJE6tc"
+      },
+      "artists": [
+        {
+          "name": "Carlito Codigo",
+          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
+        },
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204504,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/3zCqJHBfMcgOEY9zfZAUmf"
+    },
+    {
+      "album": {
         "name": "LA NUEVA OLA",
         "url": "https://open.spotify.com/album/0MCUMzddJTCTHGM4tXFzDg"
       },
@@ -62263,6 +62555,36 @@
     },
     {
       "album": {
+        "name": "Santo Por Siempre",
+        "url": "https://open.spotify.com/album/3hDWnVdQNC26HdP0ZleYe4"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Luis Morales",
+          "url": "https://open.spotify.com/artist/41AVVAadqOdbLyVK4J14s4"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504302,
+      "name": "Santo Por Siempre",
+      "url": "https://open.spotify.com/track/2MBF9uj8RlHkIuvan6QbzP"
+    },
+    {
+      "album": {
         "name": "Santo Por Siempre (Sesi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6jxC6QK203kwI59yM3vjAP"
       },
@@ -62620,7 +62942,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 281149,
       "name": "SEAMOS UN CUERPO",
       "url": "https://open.spotify.com/track/7mwQ5xZ8sfV76IhqC1CMYj"
@@ -63168,7 +63490,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 187058,
       "name": "Si Jes\u00fas Rapeara (Sermon del Monte)",
       "url": "https://open.spotify.com/track/4lal4GYjud5ljuZvR2kYEY"
@@ -70252,7 +70574,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 194611,
       "name": "Toda Mi Alma",
       "url": "https://open.spotify.com/track/6j081dz8YMlE4ieKNwLDxC"
@@ -73551,6 +73873,24 @@
     },
     {
       "album": {
+        "name": "Tus Pasos",
+        "url": "https://open.spotify.com/album/0CwE8SBgsQJHhkKysdD7JI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121706,
+      "name": "Tus Pasos",
+      "url": "https://open.spotify.com/track/35D8s8FB6pl5a1UxbCDn9q"
+    },
+    {
+      "album": {
         "name": "TUS PLANES",
         "url": "https://open.spotify.com/album/1xASlxtXjrQCvwBWnEDCt8"
       },
@@ -75776,6 +76116,24 @@
       "duration_ms": 225542,
       "name": "Vamos a Cantar",
       "url": "https://open.spotify.com/track/2Br9dGiApsxGbh6B1OGJA8"
+    },
+    {
+      "album": {
+        "name": "Vamos A Cantar",
+        "url": "https://open.spotify.com/album/0cYAFum2dQFV3sJp4imSKg"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284707,
+      "name": "Vamos A Cantar",
+      "url": "https://open.spotify.com/track/4uFpzCg9cdWpwXQC4g9CIq"
     },
     {
       "album": {
@@ -78006,6 +78364,28 @@
       "duration_ms": 245274,
       "name": "Vivo de Verdad",
       "url": "https://open.spotify.com/track/0aZqOlfQsUFi2zHxiQuZcR"
+    },
+    {
+      "album": {
+        "name": "Vivo la Vida",
+        "url": "https://open.spotify.com/album/1WP896TlqAKzTKM2llhBgl"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        },
+        {
+          "name": "Dave Bola\u00f1o",
+          "url": "https://open.spotify.com/artist/6kfMprr3qI5Bg2JNSGU7l7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169396,
+      "name": "Vivo la Vida",
+      "url": "https://open.spotify.com/track/3ugW4PZsWeAjdiu92zZL0N"
     },
     {
       "album": {

@@ -8517,6 +8517,24 @@
     },
     {
       "album": {
+        "name": "BOGOTA",
+        "url": "https://open.spotify.com/album/4z3Bb6klPzOJM241TxiJSh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "BOGOTA",
+      "url": "https://open.spotify.com/track/0RVZgyIzq2mg3dboVj6up9"
+    },
+    {
+      "album": {
         "name": "BOLIVIA",
         "url": "https://open.spotify.com/album/6qVp3nUlN9DnGgKRPqMz4k"
       },
@@ -22580,7 +22598,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136363,
       "name": "Gucci Bag",
       "url": "https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3"
@@ -23240,6 +23258,36 @@
       "duration_ms": 139127,
       "name": "HENNESSY (interlude)",
       "url": "https://open.spotify.com/track/7CsuAYCBJPfiZM0Me7yN86"
+    },
+    {
+      "album": {
+        "name": "HENNY",
+        "url": "https://open.spotify.com/album/1FVSzUegRkpVHSuShyr4Qt"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "HENNY",
+      "url": "https://open.spotify.com/track/3dxdL00ifuoBZLvslo0uMV"
     },
     {
       "album": {
@@ -57506,7 +57554,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 167741,
       "name": "VROXI",
       "url": "https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin"

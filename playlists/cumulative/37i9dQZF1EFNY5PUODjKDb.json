@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
@@ -4214,6 +4214,32 @@
       "duration_ms": 229773,
       "name": "Close Every Door - Orchestral Version",
       "url": "https://open.spotify.com/track/0kEuu9xKsXdj3W8Vb0Q83h"
+    },
+    {
+      "album": {
+        "name": "Joseph and the Amazing Technicolor Dreamcoat (1991 London Cast Recording) [2005 Remaster]",
+        "url": "https://open.spotify.com/album/4EpnF7nHf7SYM7y67qQdYt"
+      },
+      "artists": [
+        {
+          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1991 London Cast",
+          "url": "https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Close Every Door to Me",
+      "url": "https://open.spotify.com/track/4lhg775Buc8qyxzBRuANpE"
     },
     {
       "album": {
@@ -18892,7 +18918,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "Requiem: VII. Pie Jesu",
       "url": "https://open.spotify.com/track/0Xm46GVlQM2SMK4hsZYk04"

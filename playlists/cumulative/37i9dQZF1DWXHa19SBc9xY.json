@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 217241,
       "name": "Em Outro Lugar",
       "url": "https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY"
@@ -3410,6 +3410,28 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+    },
+    {
+      "album": {
+        "name": "X\u00ea Dama",
+        "url": "https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160943,
+      "name": "X\u00ea Dama",
+      "url": "https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us"
     },
     {
       "album": {

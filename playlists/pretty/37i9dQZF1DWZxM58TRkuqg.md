@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Ariel NOAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,764 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,810 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ancika \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Ancika \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8) | 3:18 |
 | 2 | [Sederhana](https://open.spotify.com/track/03s6vDyVEunObMIbnd5Naj) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sederhana](https://open.spotify.com/album/62Rt09IpnlZPyqkpQaXQTa) | 4:05 |
-| 3 | [Track 1](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 0:00 |
+| 3 | [I Love You](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 4:20 |
 | 4 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
 | 5 | [seketika](https://open.spotify.com/track/432AvgkVqNjwXiN5xjuOuu) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [RnBoyz\*](https://open.spotify.com/artist/2bM5A9TJgQx73gk2f7dNbK), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [seketika](https://open.spotify.com/album/2A7jRtmtLimeOUVAKRlaog) | 2:50 |
 | 6 | [Lama Tak Bermalam Minggu](https://open.spotify.com/track/5EyLkB6SSiKPgDHZJE2MW3) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Lama Tak Bermalam Minggu](https://open.spotify.com/album/6pyeBXxRVlFHukNTtTmrkI) | 3:41 |

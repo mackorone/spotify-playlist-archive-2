@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > The Rolling Stones au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,567 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,578 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 |
 | 50 | [Poupée parfaite](https://open.spotify.com/track/7reHRGk8Gg83RNp7h8a7V7) | [WEB](https://open.spotify.com/artist/0vpkGPve4zar394BIrZOGh) | [Poupée parfaite](https://open.spotify.com/album/11Epp3z7D7YaTiXzZKwebB) | 2:49 |
 
-Snapshot ID: `AAAAADU2gQxW5akscWxP9MIXHhrdtkQi`
+Snapshot ID: `AAAAANByVoELKd9U2Jdvz8whNvTJnbFd`

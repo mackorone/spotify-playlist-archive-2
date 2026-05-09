@@ -26151,6 +26151,24 @@
     },
     {
       "album": {
+        "name": "fire dance",
+        "url": "https://open.spotify.com/album/3TUCJNsXgl08T9rx4kP4f7"
+      },
+      "artists": [
+        {
+          "name": "Love me machine!",
+          "url": "https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "fire dance",
+      "url": "https://open.spotify.com/track/2p4eekPqqxAFfqLUWrjbi3"
+    },
+    {
+      "album": {
         "name": "Fire emoji (Deluxe)",
         "url": "https://open.spotify.com/album/0OG53iSQPwcJ5lg2rUQytm"
       },

@@ -4,7 +4,7 @@
 
 > Stank face activated\. Cover: Rezz
 
-998 songs - 2 day 5 hr 44 min
+999 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,6 +845,7 @@
 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-07-15 | 2022-12-03 |
 | [Submit](https://open.spotify.com/track/6J66tZw5bpW7V3xBbpZsCo) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Submit](https://open.spotify.com/album/2R86HHKKU9H1jUG1AnMAzQ) | 3:10 | 2022-01-14 | 2022-04-02 |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-03-10 | 2023-05-20 |
+| [Sun Goes Down \(feat\. Camden Cox\)](https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Sun Goes Down \(feat\. Camden Cox\)](https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k) | 5:46 | 2026-05-08 |  |
 | [Sunshine](https://open.spotify.com/track/1sFInK6pKCVa9Tx5Vc3TMo) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Sunshine](https://open.spotify.com/album/1tWIe3X9NYn4cfjc8PCujy) | 3:17 | 2022-07-22 | 2022-10-29 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-01 | 2026-02-21 |
 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 | 2022-12-09 | 2023-06-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 373377,
+  "num_followers": 373417,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAABUm3RXNRNrVEBjunO2yG5M",
+  "snapshot_id": "afvWAAAAAABW+mEiv04Y0oDuKe+j8JeA",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 260173,
-      "name": "C\u00f3mo Olvidar",
-      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
+      "duration_ms": 228826,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 228826,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
+      "duration_ms": 260173,
+      "name": "C\u00f3mo Olvidar",
+      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
     },
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
       "artists": [
         {
           "name": "Ana Gabriel",
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
+      "duration_ms": 220320,
+      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
       "artists": [
         {
           "name": "Ana Gabriel",
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 220320,
-      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+      "duration_ms": 201506,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
     },
     {
       "added_at": null,

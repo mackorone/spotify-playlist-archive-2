@@ -3325,6 +3325,32 @@
     },
     {
       "album": {
+        "name": "Europa Favela",
+        "url": "https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Chahid",
+          "url": "https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194341,
+      "name": "Europa Favela",
+      "url": "https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v"
+    },
+    {
+      "album": {
         "name": "EUROSTAR",
         "url": "https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT"
       },

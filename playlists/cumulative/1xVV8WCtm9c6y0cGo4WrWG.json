@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "[PRESS]",
+        "url": "https://open.spotify.com/album/3YSbgJLv2pCcqObMDD7vtv"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100595,
+      "name": "[PRESS]",
+      "url": "https://open.spotify.com/track/54JVCqT5dwUc9QRvKuonWW"
+    },
+    {
+      "album": {
         "name": "ABYSS",
         "url": "https://open.spotify.com/album/00PI9lD8u2PYXKfnAMxS3V"
       },
@@ -588,6 +606,28 @@
       "duration_ms": 240916,
       "name": "As We Speak (feat. Drake)",
       "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
+    },
+    {
+      "album": {
+        "name": "Ashin' the Blunt (with Young Thug)",
+        "url": "https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Ashin' the Blunt (with Young Thug)",
+      "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
     },
     {
       "album": {
@@ -1284,7 +1324,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 190638,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW"
@@ -1828,7 +1868,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 222184,
       "name": "Can\u2019t Be Crete Boy",
       "url": "https://open.spotify.com/track/6azLIBwMsR99vcd360aoGE"
@@ -2056,7 +2096,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 131248,
       "name": "Close The Door",
       "url": "https://open.spotify.com/track/7iUb5lNWRXFqtEiDTSr1ac"
@@ -4565,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "La Cumbia De Virgil",
+        "url": "https://open.spotify.com/album/725hLNSjmqBjOIYPG89hN3"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156451,
+      "name": "La Cumbia De Virgil",
+      "url": "https://open.spotify.com/track/2r9OniMnG9dXIPCvLtjuwf"
+    },
+    {
+      "album": {
         "name": "Lace It (with Eminem & benny blanco)",
         "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
       },
@@ -4784,7 +4842,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 138413,
       "name": "LIFT SERVICE",
       "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
@@ -6546,10 +6604,40 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 138346,
       "name": "POP DAT THANG",
       "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
+    },
+    {
+      "album": {
+        "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
+        "url": "https://open.spotify.com/album/1w388FR5FmKmAa6Ju1lrW1"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) - Official Remix",
+      "url": "https://open.spotify.com/track/5tfpyQ5BVk6NoVxPoeZ7Eq"
     },
     {
       "album": {
@@ -7112,7 +7200,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 173502,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
@@ -9438,7 +9526,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 141538,
       "name": "WHIM WHAMIEE",
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"

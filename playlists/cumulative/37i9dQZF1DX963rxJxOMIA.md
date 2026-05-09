@@ -2,9 +2,9 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como Sky Rompiendo, Kris R y Maluma.
+> Fino y elegante, como Ryan Castro y J Balvin.
 
-425 songs - 22 hr 21 min
+426 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 | 2024-01-26 | 2024-03-01 |
 | [Sueños Perdidos \- Remix](https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Sueños Perdidos \(Remix\)](https://open.spotify.com/album/4H0XsgmB5TYrfKdZP0qWNg) | 4:58 | 2024-04-10 | 2025-01-18 |
 | [Sunsex](https://open.spotify.com/track/6zYR297VMSF0bujuWvTmIN) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blow Music](https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW) | [Sunsex](https://open.spotify.com/album/7CVWItsip1IG2HHZD9XQE4) | 2:21 | 2026-03-18 | 2026-03-27 |
-| [SUPERSTAR](https://open.spotify.com/track/7rbUoVsxRtX2t5nzXhJcX0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [SUPERSTAR](https://open.spotify.com/album/41J20QpusXwXJmrsIKKyez) | 3:14 | 2026-05-01 |  |
+| [SUPERSTAR](https://open.spotify.com/track/7rbUoVsxRtX2t5nzXhJcX0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [SUPERSTAR](https://open.spotify.com/album/41J20QpusXwXJmrsIKKyez) | 3:14 | 2026-05-01 | 2026-05-09 |
 | [Sustancias](https://open.spotify.com/track/2YaVFDJS8rdDJpzLOAzomE) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [La nena tiene una estrella](https://open.spotify.com/album/6DEzGosQWS0rCSlvhhPoVt) | 2:35 | 2026-03-18 | 2026-03-27 |
 | [Súper Potente](https://open.spotify.com/track/4gzcygviLbCLVZNN1VwOAq) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Nave Madre](https://open.spotify.com/album/0yRE7ChpNLLQrcZGdB72au) | 3:46 | 2025-11-28 |  |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2022-10-13 | 2023-03-03 |
@@ -408,6 +408,7 @@
 | [Un Chance](https://open.spotify.com/track/7Ks7DH30EOvM88u2XKptIy) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [Un Chance](https://open.spotify.com/album/3TDKC8cMJlGJiMCvs4tk5I) | 3:30 | 2022-09-30 | 2022-10-14 |
 | [UN CUARTICO](https://open.spotify.com/track/2WYjLEYwE1vIWC6XNMN94z) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TODO PUEDE SUCEDER](https://open.spotify.com/album/19DbwnDUWS0CuJF92sc4Wn) | 2:47 | 2024-08-30 | 2024-11-16 |
 | [UN PORRITO](https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [UN PORRITO](https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v) | 3:24 | 2026-03-18 | 2026-03-27 |
+| [Una A La Vez](https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 2:32 | 2026-05-08 |  |
 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/2tKVinInf0PJS1iG04zzqi) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 2:44 | 2025-10-10 | 2026-04-11 |
 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/7sEVEZcZHbglN1RsxMoQMV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 2:44 | 2025-06-13 | 2025-10-11 |
 | [Una Nota](https://open.spotify.com/track/0oMzHGuxjumkW4S4LdClhZ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE \(Deluxe Edition\)](https://open.spotify.com/album/0FY6R5PCvGh0VmKzuCNFkx) | 2:49 | 2022-09-06 | 2023-08-26 |

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Abundant Ground",
+        "url": "https://open.spotify.com/album/2ejB68NFuj4A9M7yTnqQ1f"
+      },
+      "artists": [
+        {
+          "name": "Melvin Hull",
+          "url": "https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153604,
+      "name": "Abundant Ground",
+      "url": "https://open.spotify.com/track/6UquSbo53JtYCpvh2KCwdN"
+    },
+    {
+      "album": {
         "name": "Afterlight",
         "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
       },
@@ -693,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Cozy County",
+        "url": "https://open.spotify.com/album/1aiRYlgzx5KZvwOu3OIdnf"
+      },
+      "artists": [
+        {
+          "name": "Calm Halo",
+          "url": "https://open.spotify.com/artist/6rEgbtBAFavZcCuJPdVEZN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125455,
+      "name": "Cozy County",
+      "url": "https://open.spotify.com/track/24mv2UqcfwVedaCJdzcKgT"
+    },
+    {
+      "album": {
         "name": "Springtime Improvisations",
         "url": "https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D"
       },
@@ -744,6 +780,24 @@
       "duration_ms": 132954,
       "name": "Dear Buddy",
       "url": "https://open.spotify.com/track/4XhZgQHy6yNEB5M3NhZXAG"
+    },
+    {
+      "album": {
+        "name": "Departure Lounge",
+        "url": "https://open.spotify.com/album/00ORj0D9eLBHCHkTGL5RtA"
+      },
+      "artists": [
+        {
+          "name": "JS Casa",
+          "url": "https://open.spotify.com/artist/6Y8NoOdl0Z6s2nu8EuNKhQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160107,
+      "name": "Departure Lounge",
+      "url": "https://open.spotify.com/track/4Ne88Z9rkTQWBeEdwG9FGQ"
     },
     {
       "album": {
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 193228,
       "name": "For Asher",
       "url": "https://open.spotify.com/track/3HJImjLAcnltzIkexQIsJR"
@@ -1774,7 +1828,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 175394,
       "name": "Naked",
       "url": "https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM"
@@ -1832,6 +1886,24 @@
       "duration_ms": 142912,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy"
+    },
+    {
+      "album": {
+        "name": "Nightfly",
+        "url": "https://open.spotify.com/album/7MXK7X20h63Om7R5T4RDKQ"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Nightfly",
+      "url": "https://open.spotify.com/track/5Z7VBFFWp1eJk554ZqpOFC"
     },
     {
       "album": {
@@ -2026,7 +2098,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 123862,
       "name": "Prados",
       "url": "https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv"
@@ -2732,7 +2804,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147072,
       "name": "Solumn",
       "url": "https://open.spotify.com/track/6NTynu96oI1nXRWHm10Agr"
@@ -2970,6 +3042,24 @@
       "duration_ms": 151041,
       "name": "teunok",
       "url": "https://open.spotify.com/track/382bYUbYKAIfyhZ0CQ9gek"
+    },
+    {
+      "album": {
+        "name": "The Gilded Orchard",
+        "url": "https://open.spotify.com/album/2RGz0JfVslB2jdqFj6vMIZ"
+      },
+      "artists": [
+        {
+          "name": "Quentin Noire",
+          "url": "https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140985,
+      "name": "The Gilded Orchard",
+      "url": "https://open.spotify.com/track/1KwYk5OxdkR9gKMhX3YR9K"
     },
     {
       "album": {
@@ -3276,6 +3366,24 @@
       "duration_ms": 109768,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd"
+    },
+    {
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/77NGXPrBPoUa0FLyLEq0P8"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Undercurrent",
+      "url": "https://open.spotify.com/track/2eExQ6QNjZgFiEnBZItml8"
     },
     {
       "album": {

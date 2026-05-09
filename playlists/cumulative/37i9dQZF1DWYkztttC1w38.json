@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/0BRkAiSHGoVquScO2TDd4Q"
+      },
+      "artists": [
+        {
+          "name": "Claudio Constantini",
+          "url": "https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156668,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/2GOh8bn862HKDOyMxc4UUf"
+    },
+    {
+      "album": {
         "name": "aubades",
         "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
       },
@@ -434,6 +452,24 @@
       "duration_ms": 187386,
       "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
       "url": "https://open.spotify.com/track/0JfyYfgvs29zZTFiKpDaMX"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1ESK1VoaCrfdkzazq6cufl"
+      },
+      "artists": [
+        {
+          "name": "Nora Johansson",
+          "url": "https://open.spotify.com/artist/2hwoCXDt2JywaFumOkWHH2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0yi3QXNmrRtpvc75ViVCMn"
     },
     {
       "album": {
@@ -1136,6 +1172,24 @@
       "duration_ms": 173626,
       "name": "hurt",
       "url": "https://open.spotify.com/track/08hCu7Zd4PCgZ458xeyzFV"
+    },
+    {
+      "album": {
+        "name": "I Am Weary, Don't Let Me Rest (Nowhere Sessions)",
+        "url": "https://open.spotify.com/album/1MexLgESN6mzGjvhw7g7tj"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303714,
+      "name": "I Am Weary, Don't Let Me Rest - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/1x1yABBUh4TWmu9HEJ4wi2"
     },
     {
       "album": {
@@ -2798,6 +2852,24 @@
       "duration_ms": 509960,
       "name": "Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto",
       "url": "https://open.spotify.com/track/53cPJbrpzupoDEhQ5X60lf"
+    },
+    {
+      "album": {
+        "name": "the dreamer",
+        "url": "https://open.spotify.com/album/2ndAxEV1BdAFGO7TxT7mNY"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129693,
+      "name": "the dreamer",
+      "url": "https://open.spotify.com/track/4YkOAaRZgupnL77J1tUrNz"
     },
     {
       "album": {

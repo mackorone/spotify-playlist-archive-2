@@ -1,6 +1,6 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Silvana Estrada, pablopablo",
-  "num_followers": 847355,
+  "num_followers": 847381,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-05-08 03:03:40",
       "album": {
+        "name": "nada para nadie :(:",
+        "url": "https://open.spotify.com/album/6B2AIgocZxQd7iQsO69s0o"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 142007,
+      "name": "nada para nadie :(:",
+      "url": "https://open.spotify.com/track/34vEg8VafGWSWPnNTpjhOv"
+    },
+    {
+      "added_at": "2026-05-08 03:03:40",
+      "album": {
         "name": "DILE A TU GATO - REMIX",
         "url": "https://open.spotify.com/album/6cehthswQrUMKVpnTc4bTg"
       },
@@ -1038,10 +1058,14 @@
         {
           "name": "Jhosy",
           "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        },
+        {
+          "name": "Koffee el Kafetero",
+          "url": "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 208888,
+      "name": "La Champeta",
       "url": "https://open.spotify.com/track/4MbVt6iZ9JF3bFnbvTBuSy"
     },
     {
@@ -1111,7 +1135,7 @@
     {
       "added_at": "2026-05-08 03:03:40",
       "album": {
-        "name": "El Descanso",
+        "name": "el descanso",
         "url": "https://open.spotify.com/album/0HH5Zq7ZYkVIVRrZH3Fmmi"
       },
       "artists": [
@@ -1121,7 +1145,7 @@
         }
       ],
       "duration_ms": 187000,
-      "name": "El Descanso",
+      "name": "el descanso",
       "url": "https://open.spotify.com/track/0kKek43A5UOaCABkFVe4cn"
     },
     {

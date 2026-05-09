@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Chxrry and Mariah The Scientist",
+  "description": "R&B of the moment by the artists of the future. Cover: Mack Keane",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -3376,6 +3376,24 @@
     {
       "album": {
         "name": "Better Days",
+        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
+    },
+    {
+      "album": {
+        "name": "Better Days",
         "url": "https://open.spotify.com/album/4BBpdqlRq8hF7MRZhFSLyY"
       },
       "artists": [
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 233824,
       "name": "bits + pieces",
       "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
@@ -5524,6 +5542,24 @@
       "duration_ms": 143960,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kZFUJrhhy6JwHUnd3M1jD"
+    },
+    {
+      "album": {
+        "name": "Charge It To The Game",
+        "url": "https://open.spotify.com/album/5phLTnxRrroGzM4e5A1Iae"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173424,
+      "name": "Charge It To The Game",
+      "url": "https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU"
     },
     {
       "album": {
@@ -7626,7 +7662,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 225800,
       "name": "Desire - Spotify Singles",
       "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
@@ -13984,7 +14020,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202608,
       "name": "Honest",
       "url": "https://open.spotify.com/track/04pDLouxkwPk1PBW2FlqJA"
@@ -14270,6 +14306,28 @@
       "duration_ms": 194320,
       "name": "Hvn High",
       "url": "https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad"
+    },
+    {
+      "album": {
+        "name": "CRYSALIS (CODA)",
+        "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "Hvnly (feat. JIHYO)",
+      "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
     },
     {
       "album": {
@@ -14688,6 +14746,24 @@
       "duration_ms": 254377,
       "name": "I Think That I Love You",
       "url": "https://open.spotify.com/track/3gG6Yuezs45BE0A8YULmmL"
+    },
+    {
+      "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/5eYl7iDIe77e2BaqfVpApg"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214390,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
     },
     {
       "album": {
@@ -16068,7 +16144,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 230644,
       "name": "Journey To The Sun (feat. Ariel J.)",
       "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
@@ -16811,6 +16887,28 @@
     },
     {
       "album": {
+        "name": "Laugh Later, Cry Now",
+        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130235,
+      "name": "Laugh Later, Cry Now",
+      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
+    },
+    {
+      "album": {
         "name": "Lay With Me",
         "url": "https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA"
       },
@@ -17472,7 +17570,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 182001,
       "name": "Lil' Obsession (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/7r5vzUiBPrYlfGjkdnj1MX"
@@ -20287,6 +20385,24 @@
     },
     {
       "album": {
+        "name": "Nature's Perfume",
+        "url": "https://open.spotify.com/album/73ixc6to7QEhJcagNXiTtB"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202732,
+      "name": "Nature's Perfume",
+      "url": "https://open.spotify.com/track/1XiFKTspnnZQQUG8XNiBsB"
+    },
+    {
+      "album": {
         "name": "Need 2 Know",
         "url": "https://open.spotify.com/album/618hLEFqLhd2F5pkf3MOsk"
       },
@@ -20320,7 +20436,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
@@ -20422,7 +20538,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 172376,
       "name": "NEVER BE THE SAME",
       "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
@@ -20886,7 +21002,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/36jgline0lR83kGP9YFXcE"
@@ -21528,7 +21644,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 174551,
       "name": "OG",
       "url": "https://open.spotify.com/track/5msH0hur2XpjhbLkbGvW8p"
@@ -23909,6 +24025,24 @@
     },
     {
       "album": {
+        "name": "Rain in July / Be the One",
+        "url": "https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180070,
+      "name": "Rain in July",
+      "url": "https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N"
+    },
+    {
+      "album": {
         "name": "Rain On Me",
         "url": "https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy"
       },
@@ -23920,7 +24054,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 180313,
       "name": "Rain On Me",
       "url": "https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN"
@@ -26194,7 +26328,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146363,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
@@ -26382,7 +26516,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 195569,
       "name": "Situation",
       "url": "https://open.spotify.com/track/5nK4QbQn1hslWhpDVOnqW2"
@@ -30610,7 +30744,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 125954,
       "name": "Touch bby",
       "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
@@ -31168,7 +31302,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 176020,
       "name": "Typical",
       "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
@@ -31270,6 +31404,28 @@
       "duration_ms": 213458,
       "name": "Undefeated (feat. Eric Bellinger)",
       "url": "https://open.spotify.com/track/30zrJrdkyp0lXMr1KP1rTN"
+    },
+    {
+      "album": {
+        "name": "Undeniable (feat. Aitch)",
+        "url": "https://open.spotify.com/album/12CHRueGMTjPpZ5smrigUr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136739,
+      "name": "Undeniable (feat. Aitch)",
+      "url": "https://open.spotify.com/track/0V8u1Al9dqSA7f7m3yambp"
     },
     {
       "album": {
@@ -32732,7 +32888,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 174757,
       "name": "Who\u2019s Better",
       "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
@@ -32910,6 +33066,24 @@
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"
+    },
+    {
+      "album": {
+        "name": "Wide Eyed",
+        "url": "https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202911,
+      "name": "Wide Eyed",
+      "url": "https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7"
     },
     {
       "album": {
@@ -33316,6 +33490,24 @@
       "duration_ms": 160018,
       "name": "Wouldn't Do",
       "url": "https://open.spotify.com/track/6OpcPfVV00tJvmYXAFb3ML"
+    },
+    {
+      "album": {
+        "name": "Wrapped Around",
+        "url": "https://open.spotify.com/album/7c2VWCwL3Cv1JDOvHtAdSM"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Wrapped Around",
+      "url": "https://open.spotify.com/track/2GJoaZtUC01huAEcKuxtTF"
     },
     {
       "album": {

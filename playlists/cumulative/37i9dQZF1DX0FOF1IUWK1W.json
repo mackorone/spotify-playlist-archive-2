@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Mc Livnho, Mc Pedrinho, Perera DJ, DJ JB Mix o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Z\u00e9 Neto & Cristiano o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1458,6 +1458,28 @@
       "duration_ms": 147860,
       "name": "Aproveita - Ao Vivo",
       "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
+    },
+    {
+      "album": {
+        "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
+        "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156579,
+      "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
     },
     {
       "album": {
@@ -5422,6 +5444,28 @@
       "duration_ms": 158769,
       "name": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
       "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M"
+    },
+    {
+      "album": {
+        "name": "Eu Duvido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AXeDo14SQnBuv28Ayiekr"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170658,
+      "name": "Eu Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg"
     },
     {
       "album": {
@@ -9930,7 +9974,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 224223,
       "name": "Neon - Spotify Sessions",
       "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
@@ -16918,7 +16962,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150449,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Adekunle Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,729 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,070 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 0:00 |
+| 1 | [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 |
 | 2 | [Back Outside](https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Back Outside](https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ) | 3:31 |
 | 3 | [Sans Forcer \(feat\. SenSey'\)](https://open.spotify.com/track/6ftgnU8hLEcdlFdfVcCQrw) | [Papi Del Sol](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Sans Forcer \(feat\. SenSey'\)](https://open.spotify.com/album/4S04qJ8pWyspdEOzZ6FQKL) | 3:13 |
 | 4 | [CANADA BREEZE](https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 2:42 |

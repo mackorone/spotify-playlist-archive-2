@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Rawme Hooda",
+  "description": "Best of Haryanvi Hip-Hop! Cover: DG IMMORTALS",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Badmashi",
+        "url": "https://open.spotify.com/album/2Ms9hd7uZhisVIyhkC3K6S"
+      },
+      "artists": [
+        {
+          "name": "Parth Kamboj",
+          "url": "https://open.spotify.com/artist/3nPa0lkAwrXNg0ceAhUDlF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146782,
+      "name": "Badmashi",
+      "url": "https://open.spotify.com/track/74Cwgcktpr4kXbO8FvpLiT"
+    },
+    {
+      "album": {
         "name": "Mtv Hustle 2.0",
         "url": "https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 92185,
       "name": "Caish Vaish",
       "url": "https://open.spotify.com/track/4ojN7NFKwJ5ZRsbpIR0pFW"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 124531,
       "name": "Chore Brown",
       "url": "https://open.spotify.com/track/7aAIXitbPvI9mSlAUj1k2Z"
@@ -7292,7 +7310,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 175199,
       "name": "Koi Shaq",
       "url": "https://open.spotify.com/track/2ZibWzE4NnlLuYxLlbAnji"
@@ -7964,6 +7982,24 @@
       "duration_ms": 148363,
       "name": "Mashooka",
       "url": "https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5"
+    },
+    {
+      "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/0FUyPCI1ti2lcjCvsSdVZo"
+      },
+      "artists": [
+        {
+          "name": "Garudbox",
+          "url": "https://open.spotify.com/artist/0E2xTHavf1mxMWN5oUf0UA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185554,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/0gS7d5TiiD5HhBCG7CLqGK"
     },
     {
       "album": {
@@ -9891,6 +9927,32 @@
     },
     {
       "album": {
+        "name": "Psyco Jaatni",
+        "url": "https://open.spotify.com/album/10CLAtoUbv2JHL5F6SP75l"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        },
+        {
+          "name": "Abhishek Raina",
+          "url": "https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U"
+        },
+        {
+          "name": "Reet Gill",
+          "url": "https://open.spotify.com/artist/5pQBIiTBIJGixnzZepUk36"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Psyco Jaatni",
+      "url": "https://open.spotify.com/track/0LrOz07K5MKNKAfTj9Rgbp"
+    },
+    {
+      "album": {
         "name": "Punja Daab",
         "url": "https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s"
       },
@@ -9954,7 +10016,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 212307,
       "name": "Quality",
       "url": "https://open.spotify.com/track/1BtOqx2PbYwhrFRFdo4Ldc"
@@ -12566,6 +12628,32 @@
       "duration_ms": 174300,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/1AJJ89QS4Iegh7ifstG7J5"
+    },
+    {
+      "album": {
+        "name": "WDYM",
+        "url": "https://open.spotify.com/album/39LHau1J0pyMPhw2z4PtJU"
+      },
+      "artists": [
+        {
+          "name": "Deep Chahal",
+          "url": "https://open.spotify.com/artist/7tpwNSE7qK9uq8kkQegSHJ"
+        },
+        {
+          "name": "Ameet Choudhary",
+          "url": "https://open.spotify.com/artist/20EwH0GSloJWTSeJ36V6tm"
+        },
+        {
+          "name": "Dj Sky",
+          "url": "https://open.spotify.com/artist/0Y2IOTveRF8n7j99WXxgmK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180416,
+      "name": "WDYM",
+      "url": "https://open.spotify.com/track/6UAIRuK4m5UpdVw9RQHLoF"
     },
     {
       "album": {

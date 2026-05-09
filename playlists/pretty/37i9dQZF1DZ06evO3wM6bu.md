@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,058 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,152 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 27 | [Unbreakable \- Single Remix](https://open.spotify.com/track/0r8f1b392aTgZa8KXINlkw) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:33 |
 | 28 | [What About Now](https://open.spotify.com/track/2pSUpHpEOWgy0YJZO0tP5D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 4:10 |
 | 29 | [Bop Bop Baby](https://open.spotify.com/track/7dHldWPBFycgIl14iuItAi) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 4:21 |
-| 30 | [All Out of Love \(feat\. Delta Goodrem\)](https://open.spotify.com/track/6vEYWB5s3zslHY0J4fa3Rm) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:44 |
-| 31 | [Tonight](https://open.spotify.com/track/0WuxeaNneRSYdRtjyIWs93) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:31 |
-| 32 | [Hard to Say I'm Sorry](https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [B\-Sides, Rarities and Remixes](https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD) | 3:59 |
-| 33 | [Amazing](https://open.spotify.com/track/0yehfLw05bDDKHS4Tdl01G) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 2:48 |
-| 34 | [Your Love Amazes Me](https://open.spotify.com/track/0bBOzWvJ2CEladtqVDnfWI) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Your Love Amazes Me](https://open.spotify.com/album/2G4KocgpFjTfcVxGAlQUTm) | 2:51 |
+| 30 | [Your Love Amazes Me](https://open.spotify.com/track/0bBOzWvJ2CEladtqVDnfWI) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Your Love Amazes Me](https://open.spotify.com/album/2G4KocgpFjTfcVxGAlQUTm) | 2:51 |
+| 31 | [All Out of Love \(feat\. Delta Goodrem\)](https://open.spotify.com/track/6vEYWB5s3zslHY0J4fa3Rm) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:44 |
+| 32 | [Tonight](https://open.spotify.com/track/0WuxeaNneRSYdRtjyIWs93) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:31 |
+| 33 | [Hard to Say I'm Sorry](https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [B\-Sides, Rarities and Remixes](https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD) | 3:59 |
+| 34 | [Amazing](https://open.spotify.com/track/0yehfLw05bDDKHS4Tdl01G) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 2:48 |
 | 35 | [The Rose](https://open.spotify.com/track/1kAC8QX4meGZhEbtXtqF1o) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:38 |
 | 36 | [Us Against the World](https://open.spotify.com/track/6wzgVq5ziHmiqOF9GZpljh) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 4:00 |
 | 37 | [Written in the Stars](https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 49 | [The Dance](https://open.spotify.com/track/3dVTwiTpjWCdtlq9tcsf91) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:58 |
 | 50 | [How to Break a Heart](https://open.spotify.com/track/6k0AzDwTLJhMgkuYzhzSzJ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 4:04 |
 
-Snapshot ID: `afqEgAAAAAAdA9WjzErp1TcKyEJDHjSY`
+Snapshot ID: `afvWAAAAAABG5v/sMiPy9VB7Nk8nSHjZ`

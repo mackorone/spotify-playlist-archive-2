@@ -1566,10 +1566,28 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 196639,
       "name": "Per sempre si",
       "url": "https://open.spotify.com/track/5lzOrsEUpdwykAnwRyoigL"
+    },
+    {
+      "album": {
+        "name": "Per sempre si",
+        "url": "https://open.spotify.com/album/3ltueIHwQNpAuBNE5fIX60"
+      },
+      "artists": [
+        {
+          "name": "Joseph Messina",
+          "url": "https://open.spotify.com/artist/55hWEabWXznMkaXLDQT2TC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Per sempre si",
+      "url": "https://open.spotify.com/track/1ePROwpZ6DzqGzN2do7r0u"
     },
     {
       "album": {

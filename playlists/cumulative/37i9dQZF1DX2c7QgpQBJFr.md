@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹 cover: marzo
 
-1,319 songs - 2 day 14 hr 54 min
+1,321 songs - 2 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [BERLINO](https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:55 | 2025-09-18 | 2026-01-15 |
 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 | 2024-06-27 | 2024-08-02 |
 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 | 2025-05-13 | 2025-07-18 |
-| [Bianco](https://open.spotify.com/track/6PIqXyRc1YW9l2iasnQHvR) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Bianco](https://open.spotify.com/album/2nDOFu69Mo4FlRVRdfW2Cp) | 2:32 | 2026-05-07 |  |
+| [Bianco \(feat\. chaze & DOXX\)](https://open.spotify.com/track/6PIqXyRc1YW9l2iasnQHvR) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Bianco \(feat\. chaze & DOXX\)](https://open.spotify.com/album/2nDOFu69Mo4FlRVRdfW2Cp) | 2:32 | 2026-05-07 |  |
 | [BIANCO E NERO](https://open.spotify.com/track/4tkqku6p04KXf7ymoL7Q06) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [BIANCO E NERO](https://open.spotify.com/album/1BXUBdFESMkB8cVJXv9IEh) | 3:09 | 2025-04-17 | 2025-05-23 |
 | [Bilico](https://open.spotify.com/track/3LZKyb5d0kulP7Envw2gUV) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Bilico](https://open.spotify.com/album/19r79Fj3p0L9T9kGROEnxf) | 2:44 | 2025-02-06 | 2025-04-04 |
 | [Birre + Onestà](https://open.spotify.com/track/1Y5FMhosK2u1ZbqyEZhuMV) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt), [Dj MS](https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa) | [Birre + Onestà](https://open.spotify.com/album/53slxqUuCuAVZwjbKWqiRq) | 2:43 | 2025-07-24 | 2025-09-26 |
@@ -785,6 +785,7 @@
 | [nevischio su ande](https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp) | [tinai](https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP) | [girammo tutto in una macchina](https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq) | 2:49 | 2024-10-17 | 2024-12-06 |
 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 | 2024-10-24 | 2024-12-13 |
 | [niente](https://open.spotify.com/track/4jsFobVLotgBfwt668zjw1) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [quel che resta](https://open.spotify.com/album/1nJLGimuFDWndkY2IfscSj) | 2:18 | 2025-03-20 | 2025-05-16 |
+| [NIENTE \- di Sara Gioielli](https://open.spotify.com/track/0IeBpmyCLOSdvDMqsgxM7q) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW), [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [RADIO LIBERATO](https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6) | 2:35 | 2026-05-08 |  |
 | [Niente di particolare](https://open.spotify.com/track/3azkH8zt6JVM0ckeww7r3i) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Niente di particolare](https://open.spotify.com/album/6Aw1yTEFMFyLOhQGAMCvKk) | 2:54 | 2025-10-23 | 2026-02-25 |
 | [NINA](https://open.spotify.com/track/7uLElasp3c9Q9iprdQiZ7f) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [NINA](https://open.spotify.com/album/286q43PjSnVCswMRFofJDm) | 3:10 | 2025-05-15 | 2025-06-20 |
 | [ninna nanna](https://open.spotify.com/track/1KGCqzJ6wkwpSxQlHPvl8E) | [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [ninna nanna](https://open.spotify.com/album/5NPFUAs7ZJsXSu9d6jECfr) | 2:27 | 2025-01-02 | 2025-02-07 |
@@ -862,6 +863,7 @@
 | [Orbita](https://open.spotify.com/track/65Z5r2lQMIZkAmjdap5xkh) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw), [Daniele Germani](https://open.spotify.com/artist/0YbAEM99fLHGGQETEJqwwM) | [LUNA PIENA](https://open.spotify.com/album/7jWOlLgPDo2EANEgwWaZc7) | 3:39 | 2026-03-26 | 2026-04-24 |
 | [ORE ORE ORE](https://open.spotify.com/track/6FJfsnvnoAk7QfdSvh2SzF) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [ORE ORE ORE](https://open.spotify.com/album/5aHW7ZOyYjWBtZidDnOCuV) | 2:19 | 2025-09-04 | 2025-10-10 |
 | [ore piccole](https://open.spotify.com/track/6ULSNICmI6BIpU0QwTwa5V) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [ore piccole](https://open.spotify.com/album/5L7jhagCdYR3eecPXVtaXJ) | 2:41 | 2025-10-30 | 2025-11-14 |
+| [Origami](https://open.spotify.com/track/3KfPZ2pP4TWmR3F05Zbpio) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Origami](https://open.spotify.com/album/7qCQXLaZD8c15FtBPFaLE4) | 3:16 | 2026-05-08 |  |
 | [Oro + Rosa](https://open.spotify.com/track/0syEbxtsn4yvIZmcWRplls) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/3yqQhXmHd7SKnz4pBOjApa) | 2:42 | 2025-01-09 | 2025-02-14 |
 | [Orsetti](https://open.spotify.com/track/7edoSlGNEW9DsmFtLxrILm) | [sonoalaska](https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP) | [Orsetti](https://open.spotify.com/album/0jGHjafj5a7Pa6ISpKFkBI) | 2:45 | 2026-01-29 | 2026-03-13 |
 | [ORU](https://open.spotify.com/track/5O1QKc2e9ZbosFXRVPCqXk) | [IDDA](https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK) | [ORU](https://open.spotify.com/album/1bWILWhzl4XVaTHG2EoqqA) | 2:05 | 2025-07-24 | 2025-09-19 |

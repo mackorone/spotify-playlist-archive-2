@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Diamante El\u00e9ctrico en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Branbel en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176580,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
+    },
+    {
+      "album": {
         "name": "Aprend\u00ed",
         "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
       },
@@ -412,7 +434,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150419,
       "name": "Aviones de Papel",
       "url": "https://open.spotify.com/track/27KURlRxgWQwU6of0oXdY0"
@@ -706,7 +728,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 196444,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/35FPNzYRm2WpIt6rr1WZv6"
@@ -1495,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/38lYPyZ8I8dh6ait2uWoH8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        },
+        {
+          "name": "Vale Garz\u00f3n",
+          "url": "https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141383,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3TsGo10L6SoXNZUVxabxIZ"
+    },
+    {
+      "album": {
         "name": "el Alquimista (versi\u00f3n piano)",
         "url": "https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g"
       },
@@ -1640,7 +1684,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 215893,
       "name": "El Fondo Del Mar",
       "url": "https://open.spotify.com/track/0IZDehr1gLrSW8KnqSA4Xb"
@@ -1662,7 +1706,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 217148,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32"
@@ -1904,6 +1948,28 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "album": {
+        "name": "FA-TAL!",
+        "url": "https://open.spotify.com/album/0dqT5jHobeFyFokLG4VsFj"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "FA-TAL!",
+      "url": "https://open.spotify.com/track/6nd4ow9awpeLLY1m7mlTVu"
     },
     {
       "album": {
@@ -3051,6 +3117,28 @@
     },
     {
       "album": {
+        "name": "MALASNOTICIAS.",
+        "url": "https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "MALASNOTICIAS.",
+      "url": "https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ"
+    },
+    {
+      "album": {
         "name": "Mango",
         "url": "https://open.spotify.com/album/3clTKY9OQcm7aX83a3Aa3K"
       },
@@ -3084,6 +3172,24 @@
       "duration_ms": 201797,
       "name": "Mas Que El Promedio",
       "url": "https://open.spotify.com/track/6ApvB7HaMhoVNCwLJdgaka"
+    },
+    {
+      "album": {
+        "name": "Se Es Feliz Sin Mucho",
+        "url": "https://open.spotify.com/album/0Y10z2L6Hw3ptR4biyl8bL"
+      },
+      "artists": [
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152164,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/3vghaAmejoL6hQz1Hb4sRB"
     },
     {
       "album": {
@@ -5344,7 +5450,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 219663,
       "name": "Turromantik",
       "url": "https://open.spotify.com/track/2GTjkdvq8IdPehULadTahj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 316 likes - 2,271 songs - 5 day 14 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 316 likes - 2,273 songs - 5 day 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2279,5 +2279,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2269 | [Sunset](https://open.spotify.com/track/7q2tGlNrMRbalI3Mh62LHv) | [iLLUSTRATXR](https://open.spotify.com/artist/6MP5w45VyaoA8JjbpnsN6d) | [Sunset](https://open.spotify.com/album/2IzAqn4qJAOBBumZ68NqQ0) | 2:15 |
 | 2270 | [90 Style Beat](https://open.spotify.com/track/4N1mNsjZUSIKDTvBDIHQk6) | [Kento](https://open.spotify.com/artist/0vjUtQS6oymGeehfZsSaGJ) | [90 Style Beat](https://open.spotify.com/album/1aSliHnaMgwa1UUbYxgcDx) | 3:28 |
 | 2271 | [Easy Peasy](https://open.spotify.com/track/2WXcctKPq3LCwD3elZW5ab) | [Mats Skimmelå](https://open.spotify.com/artist/3ff8WCVNd542FKA32N1yO2) | [Easy Peasy](https://open.spotify.com/album/6ap6PsFZkGU52yC7fUt7Je) | 3:34 |
+| 2272 | [Last Night](https://open.spotify.com/track/7tnhmN304sF7ezswPDklxP) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:39 |
+| 2273 | [DOG DAG BAU BAU](https://open.spotify.com/track/4V9lYkf9gujT8zaRiUInXZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [DOG DAG BAU BAU](https://open.spotify.com/album/6CLNMEMnfF1OgvLo9Sbjwq) | 2:06 |
 
-Snapshot ID: `AAAJiHPxxVr/o1yFuYUjEJTFOIvv8Nfz`
+Snapshot ID: `AAAJirAMmsanbE1Cjxi5nBE6YhSohRgA`

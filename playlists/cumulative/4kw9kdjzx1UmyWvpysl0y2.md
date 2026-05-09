@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,225 songs - 2 day 20 hr 11 min
+1,226 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
 | [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 | 2022-09-09 |
 | [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 | 2023-01-10 |
+| [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 | 2026-05-08 |  |
 | [GOOME](https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb) | [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [GOOME](https://open.spotify.com/album/4kmRKz6oAadBMXckMwJYse) | 3:12 | 2024-08-26 | 2024-11-16 |
 | [GOOP](https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 2:40 | 2024-07-19 | 2024-10-11 |
 | [Got A Feeling](https://open.spotify.com/track/4gWxLRxRhMWQSo4gBXMQe4) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Got A Feeling](https://open.spotify.com/album/1T4RZyOiEUKpSoY6zUAleQ) | 3:31 | 2023-06-19 | 2023-09-26 |

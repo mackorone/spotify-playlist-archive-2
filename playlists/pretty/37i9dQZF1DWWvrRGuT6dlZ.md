@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Glen Wee\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 16 songs - 50 min 43 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,047 likes - 16 songs - 50 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

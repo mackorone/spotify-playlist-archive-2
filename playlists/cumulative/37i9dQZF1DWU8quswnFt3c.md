@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Maria Bethânia
 
-2,985 songs - 6 day 21 hr 17 min
+2,986 songs - 6 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -879,7 +879,7 @@
 | [Forever Young](https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH) | [Forever Young](https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb) | 2:58 | 2023-07-05 | 2023-08-03 |
 | [forget](https://open.spotify.com/track/0DF8IsRDJFYtyv1DWi5j8N) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [stuck](https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT) | 2:45 | 2024-07-03 | 2024-07-18 |
 | [Forgószél](https://open.spotify.com/track/06OeIucohzd2Rpga5x5l1p) | [Törőcsik Kristóf](https://open.spotify.com/artist/3U5uVFWteCLoiynKMs3MSM), [Végh Janka](https://open.spotify.com/artist/6kbB0irTQJC0AOkmNbhYub) | [Forgószél](https://open.spotify.com/album/0sDviTdBGe0XQL5GDlsE6j) | 2:54 | 2025-07-16 | 2025-08-21 |
-| [Forog idebent](https://open.spotify.com/track/7KcNQAIwksvtj4kTk10oiZ) | [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED), [ezidáig](https://open.spotify.com/artist/388k9gk41w2195ZolN8mmA), [So\-Ma](https://open.spotify.com/artist/6pSazeJX4l2oEaI0Ws70Fh) | [Forog idebent](https://open.spotify.com/album/0vZm9xkjQsbCM1YARNClNA) | 2:04 | 2026-05-06 |  |
+| [Forog idebent](https://open.spotify.com/track/7KcNQAIwksvtj4kTk10oiZ) | [Blansch](https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED), [ezidáig](https://open.spotify.com/artist/388k9gk41w2195ZolN8mmA), [So\-Ma](https://open.spotify.com/artist/6pSazeJX4l2oEaI0Ws70Fh) | [Forog idebent](https://open.spotify.com/album/0vZm9xkjQsbCM1YARNClNA) | 2:04 | 2026-05-06 | 2026-05-09 |
 | [Fragile](https://open.spotify.com/track/2AaXBwfmZahVmPitxP1zFE) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Fragile](https://open.spotify.com/album/1mFALEv1ffKshIAb5T3Db0) | 3:01 | 2022-11-02 | 2022-12-01 |
 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-05-02 | 2024-06-06 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-10-04 | 2022-11-03 |
@@ -1224,6 +1224,7 @@
 | [IRON BEAT](https://open.spotify.com/track/42viWQggsj8HppF6bm5JmS) | [Ruslana](https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa) | [БУЙНА/IRON BEAT](https://open.spotify.com/album/5yX9JXQaJYFyKLLnY6RfVZ) | 3:52 | 2024-07-03 | 2024-07-18 |
 | [Is It a Crime](https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 6:21 | 2024-11-20 | 2024-12-05 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2024-03-06 | 2024-04-04 |
+| [Isa, Dalawa, Tatlo, Cha](https://open.spotify.com/track/2RBTnmRliLzyXmTapebwEH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Isa, Dalawa, Tatlo, Cha](https://open.spotify.com/album/6ratSC6J0LoJZx6LegrqOE) | 2:49 | 2026-05-08 |  |
 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 | 2022-08-03 | 2022-09-09 |
 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 | 2025-01-22 | 2025-04-03 |
 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 | 2022-08-03 | 2022-09-01 |

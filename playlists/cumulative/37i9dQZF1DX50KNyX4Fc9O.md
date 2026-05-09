@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: aleksiah
 
-2,723 songs - 5 day 20 hr 49 min
+2,726 songs - 5 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [After The Opera](https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [After The Opera](https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR) | 3:00 | 2025-01-23 | 2025-03-21 |
 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-08-31 | 2023-10-13 |
 | [aftermath](https://open.spotify.com/track/1jiYhAdponEYSRlus8xGNc) | [Josh Hannan](https://open.spotify.com/artist/54dBfGibZ5l4z3EsrPaNmF) | [aftermath](https://open.spotify.com/album/1ZR0ceHsFlDCTcVoAVyWAl) | 2:55 | 2024-09-19 | 2024-10-11 |
+| [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 | 2026-05-08 |  |
 | [Aint It Such A Bitch](https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Aint It Such A Bitch](https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p) | 3:26 | 2026-03-05 | 2026-04-17 |
 | [Airbnb](https://open.spotify.com/track/6PQxVt63yl1ThgmyrpI2W6) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Airbnb](https://open.spotify.com/album/6vmVejqOWapT7mtmflMHCk) | 2:23 | 2024-09-05 | 2024-10-04 |
 | [airplane mode](https://open.spotify.com/track/322FQbCsyErVJEtZksCSta) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [unfinished business](https://open.spotify.com/album/7uMxeSRcrmsaj0VNUi5fVi) | 2:27 | 2025-08-21 | 2025-09-26 |
@@ -1747,6 +1748,7 @@
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-07 | 2025-03-28 |
 | [Ordinary Girl](https://open.spotify.com/track/3PstsCDCVAdTaPUauGS1fR) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB), [Chantel](https://open.spotify.com/artist/3qZ9DxnCiqZ0WPrypZFhkx) | [Ordinary Girl](https://open.spotify.com/album/4ihF0Au6FTBrJtJjVrVKUE) | 2:59 | 2023-07-20 | 2023-09-01 |
 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 | 2025-02-20 | 2025-04-04 |
+| [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 | 2026-05-08 |  |
 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-15 | 2024-03-22 |
 | [Other Side Of The Room](https://open.spotify.com/track/2TS5JVVFYqmc0jTwTdMscS) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [The Chronicles of a Serial Idealist](https://open.spotify.com/album/1peNK8gW6fNrc2ENiYUO4u) | 3:27 | 2026-04-16 |  |
 | [Our Last Fight](https://open.spotify.com/track/3IOI9dRbnGy9olByG8I5eM) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Our Last Fight](https://open.spotify.com/album/0x9VEJW5HA3TIPwCaiPYWL) | 3:02 | 2026-04-16 |  |
@@ -1920,6 +1922,7 @@
 | [Rivers on Rivers](https://open.spotify.com/track/56mTYVQpSMvBsgN6BGjaYW) | [Ilan Kidron](https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT) | [Rivers on Rivers](https://open.spotify.com/album/2FFpu3pfDtYBsHVv4LtPgn) | 3:05 | 2025-10-23 | 2025-11-28 |
 | [rock hudson](https://open.spotify.com/track/45hEUx8ywENLrB13nEfntt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:22 | 2023-06-22 | 2023-07-21 |
 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 | 2023-11-02 | 2023-12-22 |
+| [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 | 2026-05-08 |  |
 | [Role Model](https://open.spotify.com/track/2q1Dl9vObO5jblIg17pVYL) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [In Between](https://open.spotify.com/album/6J2scajtvmcJXFMRrLxVPy) | 3:51 | 2023-07-06 | 2023-08-18 |
 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-16 |  |
 | [Rollercoaster](https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Rollercoaster](https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP) | 3:06 | 2025-02-13 | 2025-03-21 |

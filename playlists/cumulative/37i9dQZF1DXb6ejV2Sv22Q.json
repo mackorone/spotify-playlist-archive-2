@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "ati!",
+        "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "ati!",
+      "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
+    },
+    {
+      "album": {
         "name": "ATIZALE",
         "url": "https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv"
       },
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 215531,
       "name": "Corre, mi vida",
       "url": "https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9"
@@ -9642,7 +9660,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159227,
       "name": "Soy Tuyo",
       "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
@@ -11194,6 +11212,32 @@
       "duration_ms": 221500,
       "name": "Young Girl A",
       "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
+    },
+    {
+      "album": {
+        "name": "Yuzu",
+        "url": "https://open.spotify.com/album/0AO6NxVUSX9K7LdreE7F8H"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Zavalah",
+          "url": "https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Yuzu",
+      "url": "https://open.spotify.com/track/7uDlSSOTrXYaz48GzkT24f"
     },
     {
       "album": {

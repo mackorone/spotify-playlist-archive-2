@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-451 songs - 23 hr 9 min
+453 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,8 +185,10 @@
 | [Horizon \(Back To Life\)](https://open.spotify.com/track/6SRtJnv0NAEIMRLYoCKgoP) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Horizon \(Back To Life\)](https://open.spotify.com/album/3691z7i95UrIWjzxtmIxWL) | 3:20 | 2022-02-03 | 2022-09-15 |
 | [Howling \- Andromedik Remix](https://open.spotify.com/track/6XwnkMuCSCu46Q4BS5nGNL) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Howling \(Andromedik Remix\)](https://open.spotify.com/album/4E49F2usk6BHyPc4yMGjVY) | 3:40 | 2022-02-03 | 2022-09-15 |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-08-11 |
+| [HYDRA](https://open.spotify.com/track/74c4euNPZscdPRHlg3Pkav) | [Cyazon](https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8) | [HYDRA](https://open.spotify.com/album/4pt1TlcZuY7g9V7NfBkYzX) | 2:33 | 2026-05-08 |  |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-08-11 |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-08-11 |
+| [I Still Hear Your Voice](https://open.spotify.com/track/7e1BhpbWuryOe0PAGpghQp) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [johnny joined](https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt) | [I Still Hear Your Voice](https://open.spotify.com/album/7K4Qfj3RU88KHufjZj6JyO) | 2:18 | 2026-05-08 |  |
 | [I'll Be Here](https://open.spotify.com/track/41rBNwBLvu3uxpBOVYac0w) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT), [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP), [Noctilucent](https://open.spotify.com/artist/1HE19EVn5Xs4qlNY4JCuJJ) | [I'll Be Here](https://open.spotify.com/album/3MRc4ibAnktBiUQdgJvUPs) | 2:36 | 2022-02-03 | 2022-09-15 |
 | [If You](https://open.spotify.com/track/3h4E7keqAPmuXviymrmDF6) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Evergreen](https://open.spotify.com/album/1IGqbM5ixtd5OSXgkMolWs) | 2:48 | 2022-02-03 | 2022-07-12 |
 | [Ignite](https://open.spotify.com/track/4KucTjdHBmBQnWDuBEkx5x) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe), [22 Void Beats](https://open.spotify.com/artist/7HSsXPuibnpm1vpFZLQPIL), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Ignite](https://open.spotify.com/album/5TIQMdZH1peU8YK8tTyAdm) | 2:50 | 2023-08-10 | 2024-11-20 |

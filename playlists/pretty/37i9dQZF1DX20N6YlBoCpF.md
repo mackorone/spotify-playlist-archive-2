@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Marno van der Merwe, Chris Steyn, Tamlyn Wessels, Loufi en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,442 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,475 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 8 | [DOOD](https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [DOOD](https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC) | 3:25 |
 | 9 | [Wil Jy Bly \- SENSASIE Remix](https://open.spotify.com/track/4uvIDGoQh4q8rhtDiNSxdG) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Wil Jy Bly \(SENSASIE Remix\)](https://open.spotify.com/album/6jmoZVhOls3BiLGeDAzere) | 3:18 |
 | 10 | [Lambertsbaai](https://open.spotify.com/track/7wjW8OipCe7S0CD0VkxFGk) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Lambertsbaai](https://open.spotify.com/album/7BZswkjBi9JV7WHSPq5vKd) | 3:23 |
-| 11 | [Track 2](https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Tot Daar Waar Die Lig Is](https://open.spotify.com/album/013qVYf9nNuJKQvELYzgh9) | 0:00 |
+| 11 | [Beautiful Jy](https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Tot Daar Waar Die Lig Is](https://open.spotify.com/album/013qVYf9nNuJKQvELYzgh9) | 3:02 |
 | 12 | [Amper](https://open.spotify.com/track/2Uazorm44jMSQYlI3b3Jzl) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Amper](https://open.spotify.com/album/2AtfWGeq4gd5ryBzU1dC2o) | 3:35 |
 | 13 | [Spook](https://open.spotify.com/track/0NfRcVnaGjvhkgLO3pPJQy) | [Arthur Steele](https://open.spotify.com/artist/3O9AmjJB7AdzGrnornCxVb) | [Spook](https://open.spotify.com/album/2wbK1g6jyQhQex90jZd4mM) | 4:05 |
 | 14 | [Kaal Sigarette](https://open.spotify.com/track/1M4Lvjm4uxKwChEota82mg) | [FRANCO](https://open.spotify.com/artist/0qsDqYiHyBmzLQZkEGygKc) | [Kaal Sigarette](https://open.spotify.com/album/5ehNnB81LPjMxxZRkRJZbm) | 3:41 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 21 | [Ry](https://open.spotify.com/track/7Anno9ubrX11HdYN3n6VMC) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Ry](https://open.spotify.com/album/3e6SJnLbreXFFXlbeBKwsu) | 2:43 |
 | 22 | [Swaartekrag](https://open.spotify.com/track/1ow1s5FcO29MuIBebhwi4I) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Swaartekrag](https://open.spotify.com/album/4Rm7IRKiNHe0FgE4LlGQN9) | 2:40 |
 | 23 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
-| 24 | [Track 2](https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [VYFTIG APOKRIEWE](https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4) | 0:00 |
+| 24 | [Port St\. Johns](https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [VYFTIG APOKRIEWE](https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4) | 3:26 |
 | 25 | [Alternatief Verlief](https://open.spotify.com/track/3ZobNV4vdQwjomjVd1mbvb) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [Alternatief Verlief](https://open.spotify.com/album/1dA8lRfceHHp2zpW2PPVG4) | 3:04 |
 | 26 | [Engele](https://open.spotify.com/track/6nOPAhDqeM1ikG6UBDnJqA) | [Tjokker](https://open.spotify.com/artist/7icU7bNZ5IhaQOBb4rmWBS) | [Engele](https://open.spotify.com/album/7rsLa1ptJozw3S7bDyrHur) | 3:49 |
 | 27 | [Die Digter](https://open.spotify.com/track/0X1lOgLfhj4zlV1RZMQkU2) | [Christi van Niekerk](https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4) | [Die Digter](https://open.spotify.com/album/4rcru4SArS2lO1jFSQgQ6e) | 3:02 |

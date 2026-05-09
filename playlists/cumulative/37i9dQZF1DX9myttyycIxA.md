@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Accessory
 
-1,897 songs - 4 day 13 hr 41 min
+1,901 songs - 4 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Dirty Dog](https://open.spotify.com/track/14vi6EqoDOaItrJP8cAJcE) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [Dirty Dog](https://open.spotify.com/album/07mJ2NSNMYeLN5paQcdoFi) | 3:20 | 2025-08-29 | 2026-01-24 |
 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 | 2024-06-14 | 2024-07-19 |
 | [Disgusting](https://open.spotify.com/track/2DMRnS3fHz9535ksqM99aI) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Disgusting](https://open.spotify.com/album/4r5arvVxG5RfSUzzgpea3r) | 2:53 | 2021-10-22 | 2022-04-19 |
+| [dishes](https://open.spotify.com/track/1pDAD5oxIPPRh7xFD3Hn7Y) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [home sweet home](https://open.spotify.com/album/5nsEtgI8LuyXHbhvp5p1Cg) | 3:03 | 2026-05-08 |  |
 | [Dissolve / Resolve](https://open.spotify.com/track/1PziOPbOgzoCNuPrZ1Xz5i) | [Margaux](https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp) | [Inside the Marble](https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN) | 3:06 | 2024-06-07 | 2024-11-09 |
 | [distance](https://open.spotify.com/track/5gBzMkmAtyn1WhZcCz7mk3) | [miicah](https://open.spotify.com/artist/2aB4Le4Kw8PHghlMJ2T2oi) | [distance](https://open.spotify.com/album/0PM03cPbWRSe0rTTY9sqXm) | 3:19 | 2023-12-08 | 2024-05-11 |
 | [Diva](https://open.spotify.com/track/6ynQk8NlYeRv0KnrCU0ppi) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Diva](https://open.spotify.com/album/0JV0FSaxRPredegMlY1tYi) | 4:16 | 2025-04-25 | 2025-07-19 |
@@ -836,6 +837,7 @@
 | [I hope that u think of me](https://open.spotify.com/track/6z2EwIB2wTLdXJZ6LdYAPm) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope that you think of me](https://open.spotify.com/album/1V4vQajofq6f3vlSQBziJa) | 2:08 | 2021-03-05 | 2022-04-05 |
 | [I Know Why](https://open.spotify.com/track/4Rp7XbUyJJOuVZNUyzCLYZ) | [Tombstones in Their Eyes](https://open.spotify.com/artist/15nZziu6BOdIcHkcZdLQk5) | [A Higher Place](https://open.spotify.com/album/18PS14LfqdWwcg2AB38M8f) | 3:41 | 2022-07-08 | 2022-08-27 |
 | [I Know You Know](https://open.spotify.com/track/5uA4X62i0diH2aEjhJ1Gmu) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [I Know You Know](https://open.spotify.com/album/1XHH1yi59VWoo68blXLzvc) | 3:46 | 2025-02-14 | 2025-05-24 |
+| [I Know You’re The Moon](https://open.spotify.com/track/0A5NxbzzhobzSSyc0Ki6ci) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [I Know You’re The Moon](https://open.spotify.com/album/6fBlt8MRglY79C0k5IjVlb) | 3:23 | 2026-05-08 |  |
 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-02-27 |  |
 | [I Like You A Lot](https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [I Like You A Lot](https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk) | 4:07 | 2026-02-20 |  |
 | [I Love My Boyfriend](https://open.spotify.com/track/2IIFeudT6BVFwiwydHK4BM) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [The Loneliest Girl](https://open.spotify.com/album/37waqzLFCA6XQtWlODc1Zq) | 4:06 | 2022-03-26 | 2022-04-30 |
@@ -1275,6 +1277,7 @@
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-10-28 | 2023-01-18 |
 | [Pen Pal](https://open.spotify.com/track/6qPBfBsWoiHOclo2JmWh9q) | [Winona Forever](https://open.spotify.com/artist/3ZwhWiGw3XTJThOjEmuFAT) | [Pen Pal](https://open.spotify.com/album/00x78QGmfNFIqwkq7BGSnd) | 2:25 | 2023-02-17 | 2023-03-25 |
 | [Peppermint](https://open.spotify.com/track/61tq7exFoWDrsBsmPWehFg) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Tender](https://open.spotify.com/album/6AfMCuvhy0cHegHgxHzpyN) | 3:18 | 2023-09-22 | 2024-03-02 |
+| [Perfect](https://open.spotify.com/track/6H2hI3Bcc07HMEMAhPBLnH) | [People I Love](https://open.spotify.com/artist/5gsyST1rZJu9HulDyu0seJ) | [Window to Another World](https://open.spotify.com/album/7KxSHTqsD4oqus1iU0gSY3) | 3:46 | 2026-05-08 |  |
 | [Perfect Hand](https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Perfect Hand](https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr) | 4:08 | 2024-06-14 | 2025-04-05 |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-09-10 | 2022-04-29 |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-05-13 | 2022-07-09 |
@@ -1407,6 +1410,7 @@
 | [Scene for an Exit](https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Scene for an Exit](https://open.spotify.com/album/78yVjuxGNVvAqdFcLvn4GF) | 2:39 | 2023-08-11 | 2024-02-24 |
 | [Scream from New York, NY](https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:29 | 2024-06-21 | 2025-02-01 |
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-21 | 2023-09-30 |
+| [Screwdark](https://open.spotify.com/track/6jDEJCBicEVTQGK0N91iuU) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Screwdark](https://open.spotify.com/album/42P3ZVoYKElog78pE5qFFS) | 2:39 | 2026-05-08 |  |
 | [Screwdriver](https://open.spotify.com/track/7DlxlzEqL01TZlQkZaeyyY) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Screwdriver](https://open.spotify.com/album/3Q9HugaWNezpdxJ1Eoqs0P) | 3:22 | 2024-01-19 | 2024-04-06 |
 | [Sea Song](https://open.spotify.com/track/09QzSazgCpWGzYc1jxH4Cp) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Sea Song](https://open.spotify.com/album/6pGKVJyRmucB7uAknxt4e8) | 3:38 | 2025-08-22 | 2026-01-17 |
 | [Secrecies \- feat\. Sam Austins](https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Secrecies \(feat\. Sam Austins\)](https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl) | 2:18 | 2023-01-13 | 2023-02-15 |

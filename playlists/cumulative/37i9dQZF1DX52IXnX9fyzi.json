@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/6BLdGo6pIgQdsnccbKONUy"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131591,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/3icdgUYKNEjolWofGMB9yr"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/3OAhdqxBWtmLJGEUheN5Pj"
       },
@@ -862,7 +880,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 145387,
       "name": "Be Calm",
       "url": "https://open.spotify.com/track/6wiLWEodqWGK2ycSuW4kkl"
@@ -938,6 +956,24 @@
       "duration_ms": 160624,
       "name": "Belle Chose",
       "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
+    },
+    {
+      "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/3TNncWRfLhbEEbaE2hv9mf"
+      },
+      "artists": [
+        {
+          "name": "Lux Tigon",
+          "url": "https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141240,
+      "name": "Below",
+      "url": "https://open.spotify.com/track/0a6NunoxjMrKqADaSV0ofx"
     },
     {
       "album": {
@@ -1791,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Countless Times",
+        "url": "https://open.spotify.com/album/1gE4sAhBVFpI7z1tFZtleA"
+      },
+      "artists": [
+        {
+          "name": "Olavi Heed",
+          "url": "https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133245,
+      "name": "Countless Times",
+      "url": "https://open.spotify.com/track/1b2ugGvSllRjW5CFA2uBWH"
+    },
+    {
+      "album": {
         "name": "Crimson Reds, Yellow Hue",
         "url": "https://open.spotify.com/album/4LsUKsgXS3PE5y68qFXXDi"
       },
@@ -2508,6 +2562,24 @@
       "duration_ms": 136770,
       "name": "Escarpment",
       "url": "https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/38EFAvK6CWguarCBV0DmHd"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lull",
+          "url": "https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4NGx8Qjm9zxctOe0l9yFy9"
     },
     {
       "album": {
@@ -4906,7 +4978,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 156372,
       "name": "Luce Stellare",
       "url": "https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk"
@@ -5086,7 +5158,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 161391,
       "name": "Mellow Moonlit Melody",
       "url": "https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd"
@@ -6700,7 +6772,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 141000,
       "name": "Roku",
       "url": "https://open.spotify.com/track/128pMqpJNmJjl3T82dsC7U"
@@ -7234,6 +7306,24 @@
       "duration_ms": 159473,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT"
+    },
+    {
+      "album": {
+        "name": "Slow Residue",
+        "url": "https://open.spotify.com/album/5pkvG8DJkWhFvD5YWxdyPD"
+      },
+      "artists": [
+        {
+          "name": "Nazomi",
+          "url": "https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133250,
+      "name": "Slow Residue",
+      "url": "https://open.spotify.com/track/45jCX65Kp7XGNMJNXwTFVt"
     },
     {
       "album": {
@@ -8160,7 +8250,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159596,
       "name": "The Optimist",
       "url": "https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ"
@@ -8236,6 +8326,24 @@
       "duration_ms": 150250,
       "name": "The Persistence of Memory",
       "url": "https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl"
+    },
+    {
+      "album": {
+        "name": "The Process",
+        "url": "https://open.spotify.com/album/7fTw3bhYXF8j9Z5D6mNR89"
+      },
+      "artists": [
+        {
+          "name": "Jean Dalmont",
+          "url": "https://open.spotify.com/artist/0wUsHCiEBi5gnLotxgzJvX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "The Process",
+      "url": "https://open.spotify.com/track/2cRl2V6gswQF6Y5BNXmRk4"
     },
     {
       "album": {
@@ -9564,7 +9672,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 140000,
       "name": "When the leaves start to fall",
       "url": "https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI"
@@ -9582,7 +9690,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 135000,
       "name": "Wherever I go",
       "url": "https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn"

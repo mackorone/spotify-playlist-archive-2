@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, Safety Trance,  Glayden + more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, DJ_Dave, Safety Trance, &amp; more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179986,
       "name": "Ashley",
       "url": "https://open.spotify.com/track/09xawpsoP99JGP32qd91oS"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 84062,
       "name": "canada",
       "url": "https://open.spotify.com/track/06Efwoa4Woh4AzRdLwDESt"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 276000,
       "name": "Daysa",
       "url": "https://open.spotify.com/track/1P5dM8HEgjyG1pGQTqfT0J"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 206960,
       "name": "DEMBOTRONIC",
       "url": "https://open.spotify.com/track/4OmwYlWTnSMuHhTkPZBkud"
@@ -4218,6 +4218,28 @@
       "duration_ms": 143353,
       "name": "DESIGNER DRUGZ",
       "url": "https://open.spotify.com/track/06JXQfPKLhTAQNpCLCLJXC"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161194,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw"
     },
     {
       "album": {
@@ -4480,7 +4502,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 269614,
       "name": "Doesn't Really Matter",
       "url": "https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl"
@@ -5437,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "everyone was talking about you last night (CFCF remix)",
+        "url": "https://open.spotify.com/album/71yRjNWycSntccqwLduFx4"
+      },
+      "artists": [
+        {
+          "name": "dance arts center",
+          "url": "https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP"
+        },
+        {
+          "name": "CFCF",
+          "url": "https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331615,
+      "name": "everyone was talking about you last night - CFCF remix",
+      "url": "https://open.spotify.com/track/0a0bypjWNDPshetjw2HSIN"
+    },
+    {
+      "album": {
         "name": "Everything Comes True",
         "url": "https://open.spotify.com/album/6m3K8LjG7jJDtAhJ4FkWPS"
       },
@@ -5736,6 +5780,24 @@
       "duration_ms": 167291,
       "name": "FAF",
       "url": "https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT"
+    },
+    {
+      "album": {
+        "name": "Fail-safe",
+        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207434,
+      "name": "Fail-safe",
+      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
     },
     {
       "album": {
@@ -8734,7 +8796,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 169856,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
@@ -10935,6 +10997,32 @@
     },
     {
       "album": {
+        "name": "sacrificio",
+        "url": "https://open.spotify.com/album/4YxkFeWq5LNXZiWgsDDaKX"
+      },
+      "artists": [
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        },
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "most of me (is elsewhere)",
+      "url": "https://open.spotify.com/track/2YisZHJZM6Zix26Qb8VwxK"
+    },
+    {
+      "album": {
         "name": "Subtle Body Dawn",
         "url": "https://open.spotify.com/album/40yTWgIauuUIJ5ccGSphDs"
       },
@@ -11278,6 +11366,24 @@
       "duration_ms": 112094,
       "name": "Nausia",
       "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
+    },
+    {
+      "album": {
+        "name": "Ne Plus Ultra",
+        "url": "https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Ne Plus Ultra",
+      "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
     },
     {
       "album": {
@@ -15263,6 +15369,32 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Solitary",
+      "url": "https://open.spotify.com/track/34d3Ecpxkiw67mJmDxSsiF"
+    },
+    {
+      "album": {
         "name": "These Things Will Come To Be (LSDXOXO Remix)",
         "url": "https://open.spotify.com/album/4OyQfqNVWeDqRSJY7S38uj"
       },
@@ -15408,7 +15540,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 120294,
       "name": "SSRI",
       "url": "https://open.spotify.com/track/2F6WDzqAk24IvRtfj7A6Lm"
@@ -18594,7 +18726,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 132064,
       "name": "\u9634\u6697B",
       "url": "https://open.spotify.com/track/2a8q7i7CkOL5PyrlIA1i9H"

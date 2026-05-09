@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Ariel NOAH
 
-656 songs - 1 day 18 hr 35 min
+656 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo) | 4:23 | 2026-01-08 | 2026-03-14 |
 | [I Don’t Wanna Go Back Home](https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [I Don’t Wanna Go Back Home](https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu) | 4:24 | 2024-01-26 | 2024-04-12 |
 | [I Don’t Wanna Hate the World](https://open.spotify.com/track/3l3djcnaZrqsfQTWXcofY7) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [I Don’t Wanna Hate the World](https://open.spotify.com/album/6Dqo1Hw8LpEhH7KtSIL9Kg) | 3:31 | 2025-10-30 | 2026-02-13 |
+| [I Love You](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 4:20 | 2026-05-07 |  |
 | [I'm on My Way](https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [I'm on My Way](https://open.spotify.com/album/3K8KlJNK2SOgM8NyDWMrre) | 4:14 | 2025-10-16 | 2025-11-28 |
 | [Ibu](https://open.spotify.com/track/7703o7Xvt7e5qxzjCEZJUy) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA) | [Ibu](https://open.spotify.com/album/5kEHqV6mLQ2JSrJ34hQLlu) | 2:52 | 2025-11-06 | 2026-01-15 |
 | [Iman Tak Restui](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 3:51 | 2025-09-25 | 2025-11-28 |
@@ -639,7 +640,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-04 | 2025-10-17 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-06-07 |
-| [Track 1](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 0:00 | 2026-05-07 |  |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |

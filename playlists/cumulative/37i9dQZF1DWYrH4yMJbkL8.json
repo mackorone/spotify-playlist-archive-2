@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "These are some of Tanya Tagaq's favourite songs by Indigenous artists.",
+  "description": "These are some of Cat Clyde's favourite songs by Indigenous artists.",
   "name": "Indigenous",
   "tracks": [
     {
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Nasgino Inage Nidayulenvi (It Started in the Woods)",
+        "url": "https://open.spotify.com/album/2skgWEWI01fzUwDKvhzm7d"
+      },
+      "artists": [
+        {
+          "name": "Agalisiga",
+          "url": "https://open.spotify.com/artist/3I2gWxBYCCVQBxg6MpVBHQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172749,
+      "name": "Ahyvdawalohi (Thunder)",
+      "url": "https://open.spotify.com/track/7sqBTtGHz0hRaSZqkHmu6R"
+    },
+    {
+      "album": {
         "name": "AIAMIEU",
         "url": "https://open.spotify.com/album/21gQTPoUz7nPidsyDwHB5L"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 226600,
       "name": "Anaanaga",
       "url": "https://open.spotify.com/track/3591441FU1jJnsgnlzoedG"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 232906,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/791fyC48ULtJwgBOD8Tuyx"
@@ -1847,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Good Buddy",
+        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Body Double",
+      "url": "https://open.spotify.com/track/5EewQq5LmalL8a9NiWXIGh"
+    },
+    {
+      "album": {
         "name": "When It's Cold - Cree Round Dance Songs",
         "url": "https://open.spotify.com/album/76TnX0qOWM4Kobec3B9MZE"
       },
@@ -1910,6 +1946,24 @@
       "duration_ms": 248571,
       "name": "Bombalaya - Blooom Remix",
       "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
+    },
+    {
+      "album": {
+        "name": "Sings: With a Heart - With a Beat",
+        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
+      },
+      "artists": [
+        {
+          "name": "Marvin Rainwater",
+          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105253,
+      "name": "Boo Hoo",
+      "url": "https://open.spotify.com/track/1Y7hBVxs7Vx3UCaxPBUh2G"
     },
     {
       "album": {
@@ -2443,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "His Complete King Recordings",
+        "url": "https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC"
+      },
+      "artists": [
+        {
+          "name": "Charlie Feathers",
+          "url": "https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169986,
+      "name": "Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1YXG5DwZwjS7xhnjBXYAPH"
+    },
+    {
+      "album": {
         "name": "Can't Trust Myself",
         "url": "https://open.spotify.com/album/5kqrJ28ONr1BIIaOTUv4dV"
       },
@@ -2476,7 +2548,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 177692,
       "name": "Canadian Destroyer",
       "url": "https://open.spotify.com/track/4vdQ0zMpt3ZBgymPU3nMHx"
@@ -2997,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Comanche / White Lightning (Japan Stereo Mix 2026)",
+        "url": "https://open.spotify.com/album/2iQRKWmm7WkxanayZMrR53"
+      },
+      "artists": [
+        {
+          "name": "Link Wray",
+          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123341,
+      "name": "Comanche (Japan Stereo Mix 2026)",
+      "url": "https://open.spotify.com/track/6ndUiNseNU1ar5vZeYt4Ms"
+    },
+    {
+      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -3008,7 +3098,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "Come and Get Your Love - Single Version",
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
@@ -3252,6 +3342,28 @@
       "duration_ms": 145160,
       "name": "Cover My Shoulders",
       "url": "https://open.spotify.com/track/18kuriPV1L1yXHdnwj3CoA"
+    },
+    {
+      "album": {
+        "name": "Cruel Joke",
+        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        },
+        {
+          "name": "John Moreland",
+          "url": "https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230059,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/1ERgZKcOl3XCimALNr5VVw"
     },
     {
       "album": {
@@ -3899,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Gypsy Blues",
+        "url": "https://open.spotify.com/album/3QrMkRlHBBIaJJdwzoLZEP"
+      },
+      "artists": [
+        {
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "Double Barrel Blues",
+      "url": "https://open.spotify.com/track/5ENjX7EFTnKdMG6OeeEImy"
+    },
+    {
+      "album": {
         "name": "Campus Beats",
         "url": "https://open.spotify.com/album/0mHQVDPgbKf85wK5w0WogG"
       },
@@ -4426,7 +4556,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 155187,
       "name": "Eqqissineq",
       "url": "https://open.spotify.com/track/4UOmYoGgKUtvTk3UvBYJp7"
@@ -4574,7 +4704,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 292680,
       "name": "Facebook Drama",
       "url": "https://open.spotify.com/track/3vu21930oxxeGE4BT5biWM"
@@ -4676,6 +4806,24 @@
       "duration_ms": 214632,
       "name": "Fallen Soldier (feat. Fawn Wood)",
       "url": "https://open.spotify.com/track/7dMhQQM8waDYuMWcjWzi0B"
+    },
+    {
+      "album": {
+        "name": "Link Wray",
+        "url": "https://open.spotify.com/album/6NYyr8iHYfYxCRrvFu0Xfi"
+      },
+      "artists": [
+        {
+          "name": "Link Wray",
+          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Fallin' Rain",
+      "url": "https://open.spotify.com/track/64dByZjmB5NN5PiWZQdM2X"
     },
     {
       "album": {
@@ -4936,7 +5084,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 176300,
       "name": "Flowers on the Dash",
       "url": "https://open.spotify.com/track/2saySH2zRgmNq16TFZS27W"
@@ -5218,7 +5366,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 93248,
       "name": "Foxtrot",
       "url": "https://open.spotify.com/track/1PP6yLal9zwPqIdftfeZIn"
@@ -5360,7 +5508,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205093,
       "name": "Fuck War",
       "url": "https://open.spotify.com/track/0oczSVnoLio3Em0UD3pRoc"
@@ -5816,7 +5964,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 199613,
       "name": "Gone Baby Gone",
       "url": "https://open.spotify.com/track/3oKBUb6PiBsOvHl3zBKfDo"
@@ -5838,6 +5986,24 @@
       "duration_ms": 204124,
       "name": "Gone Long Gone",
       "url": "https://open.spotify.com/track/4GUajvtgltALao5ZxiX6fL"
+    },
+    {
+      "album": {
+        "name": "Good Buddy",
+        "url": "https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ"
+      },
+      "artists": [
+        {
+          "name": "FONTINE",
+          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "Good Buddy",
+      "url": "https://open.spotify.com/track/7s3LXB2IecZ0E3pijltHKu"
     },
     {
       "album": {
@@ -5928,6 +6094,24 @@
       "duration_ms": 214706,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/28rferE61pjOeG0zbCjRpN"
+    },
+    {
+      "album": {
+        "name": "Sings: With a Heart - With a Beat",
+        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
+      },
+      "artists": [
+        {
+          "name": "Marvin Rainwater",
+          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132560,
+      "name": "Gotta Go Get My Baby",
+      "url": "https://open.spotify.com/track/1AGVitdA8VBXpi0Z2G0Uvi"
     },
     {
       "album": {
@@ -6401,6 +6585,24 @@
     },
     {
       "album": {
+        "name": "Woman in Color",
+        "url": "https://open.spotify.com/album/5O8UYOmXvdRfMTuh3gQYRe"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "He Calls Me River",
+      "url": "https://open.spotify.com/track/0NL25XcyfMwUAM2T3tEdvJ"
+    },
+    {
+      "album": {
         "name": "He Venido al Mar",
         "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
       },
@@ -6806,7 +7008,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 246240,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0Kd2ykH8GJbC3VEckRZ4Uz"
@@ -6904,7 +7106,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 196226,
       "name": "Home Right Here",
       "url": "https://open.spotify.com/track/1igYV6bfAibN26GqVNNOGt"
@@ -7638,7 +7840,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202788,
       "name": "Ikiaqqik (Levitating)",
       "url": "https://open.spotify.com/track/5nYGItF671hLOfrPIRXRCb"
@@ -7696,7 +7898,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 264617,
       "name": "Imiq",
       "url": "https://open.spotify.com/track/14zrw64jSJMEVy9coM91xN"
@@ -8108,7 +8310,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 158504,
       "name": "Inuuneq",
       "url": "https://open.spotify.com/track/1is5JPbCUPsY0y0uPuqVkH"
@@ -10369,6 +10571,24 @@
     },
     {
       "album": {
+        "name": "Sings: With a Heart - With a Beat",
+        "url": "https://open.spotify.com/album/7eeVrjFmABcDANgdi5t3RF"
+      },
+      "artists": [
+        {
+          "name": "Marvin Rainwater",
+          "url": "https://open.spotify.com/artist/0io243tshqbvutIxj44rMy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127773,
+      "name": "Moanin' the Blues",
+      "url": "https://open.spotify.com/track/5h9gvmiwID0ozVcFGXatU6"
+    },
+    {
+      "album": {
         "name": "Modern Warriors",
         "url": "https://open.spotify.com/album/7fsV92wYBsjOiP3I52m7or"
       },
@@ -10615,6 +10835,24 @@
     },
     {
       "album": {
+        "name": "Mud Blood Bone",
+        "url": "https://open.spotify.com/album/3Jmb3wYx7WLoiUGn7WIeZS"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1pPwsE5d14EzDagRhuS68o"
+    },
+    {
+      "album": {
         "name": "Nothing Is Meaningless",
         "url": "https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW"
       },
@@ -10702,6 +10940,24 @@
       "duration_ms": 143447,
       "name": "M\u00e1ze",
       "url": "https://open.spotify.com/track/2GKG7ViAwDQ3y4S8ATKB0R"
+    },
+    {
+      "album": {
+        "name": "Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology",
+        "url": "https://open.spotify.com/album/5TEMjTAfk1m4ByGwDj7794"
+      },
+      "artists": [
+        {
+          "name": "Willie Dunn",
+          "url": "https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "M\u00e9tis Red River Song",
+      "url": "https://open.spotify.com/track/7AYfvCft2ambgSuxTi0Pxs"
     },
     {
       "album": {
@@ -10854,7 +11110,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 374981,
       "name": "Nice and Clean",
       "url": "https://open.spotify.com/track/3f9qn2gThwxoN3Oo6Is28Y"
@@ -10974,6 +11230,24 @@
       "duration_ms": 154366,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/5DT0jQZU4c7kqx2O7mFqyu"
+    },
+    {
+      "album": {
+        "name": "Plight of the Redman",
+        "url": "https://open.spotify.com/album/63Um3BFScFfIuxrsjTn1oc"
+      },
+      "artists": [
+        {
+          "name": "Xit",
+          "url": "https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429120,
+      "name": "Nihaa Shil Hozh, I\u2019m Happy About You",
+      "url": "https://open.spotify.com/track/6Ld2yaY7s4XMyt5GFvo8Ik"
     },
     {
       "album": {
@@ -11192,7 +11466,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 268823,
       "name": "No Pride In Genocide",
       "url": "https://open.spotify.com/track/7HHYLHmq3f8gLr7N6adoYG"
@@ -11420,7 +11694,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 272520,
       "name": "Nutaraullunga",
       "url": "https://open.spotify.com/track/5RswswesQagfWH31ZzCwGx"
@@ -12125,6 +12399,24 @@
     },
     {
       "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/3SaOC7YKiYYtVSTww9SuTx"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145913,
+      "name": "Papa Took My Totems",
+      "url": "https://open.spotify.com/track/5nr0o4m0shbFB4KCO0tCq2"
+    },
+    {
+      "album": {
         "name": "Deep Snow",
         "url": "https://open.spotify.com/album/3K5waztJmPmPxsMnpuCenO"
       },
@@ -12663,6 +12955,28 @@
     },
     {
       "album": {
+        "name": "Put Your Feathers On",
+        "url": "https://open.spotify.com/album/51p944Re7VpiQylcRVMbMr"
+      },
+      "artists": [
+        {
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        },
+        {
+          "name": "Northern Cree",
+          "url": "https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "Put Your Feathers On",
+      "url": "https://open.spotify.com/track/0mD9244Msu3YUuDuRZrfU4"
+    },
+    {
+      "album": {
         "name": "Qanormita ippa !?",
         "url": "https://open.spotify.com/album/3mqMWGfh3LhiS0gcP6VyVY"
       },
@@ -12764,7 +13078,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 65013,
       "name": "Qimmiluarpik (Poor Little Dog)",
       "url": "https://open.spotify.com/track/29Qr4a3lah9uZdNYocwikc"
@@ -13183,6 +13497,24 @@
     },
     {
       "album": {
+        "name": "Silent Warrior",
+        "url": "https://open.spotify.com/album/1Qfmkij2s40dh2BQ5JCNPa"
+      },
+      "artists": [
+        {
+          "name": "Xit",
+          "url": "https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359480,
+      "name": "Reservation of Education",
+      "url": "https://open.spotify.com/track/5tr1woX2TVOHfVcevcX8Vb"
+    },
+    {
+      "album": {
         "name": "Kina'mu, A Mi'kmaw Journey",
         "url": "https://open.spotify.com/album/7vls6SktQEYqbS9tmdctRI"
       },
@@ -13550,6 +13882,28 @@
       "duration_ms": 210857,
       "name": "Rock Your World - Handsome Tiger Remix",
       "url": "https://open.spotify.com/track/3vMZvXjkzFvjnS7pj1efgF"
+    },
+    {
+      "album": {
+        "name": "Rollin' & Tumblin'",
+        "url": "https://open.spotify.com/album/0zH3VfkDhdbBBTl80Q5Lyz"
+      },
+      "artists": [
+        {
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        },
+        {
+          "name": "Northern Cree",
+          "url": "https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "Rollin' & Tumblin'",
+      "url": "https://open.spotify.com/track/33yETwxlok0VSSUqCKPwiK"
     },
     {
       "album": {
@@ -14071,6 +14425,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1cPNmlx4bKWmVgqcJC6dcb"
+      },
+      "artists": [
+        {
+          "name": "Kalyn Fay",
+          "url": "https://open.spotify.com/artist/2ojhmBnnR44AHdtGGK8f9q"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247906,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/6XJMZ8XIm5WehJTY4B7hoj"
+    },
+    {
+      "album": {
         "name": "Canada: Inuit Games and Songs",
         "url": "https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX"
       },
@@ -14270,7 +14642,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 188421,
       "name": "Sila",
       "url": "https://open.spotify.com/track/2Xsd6YL0DyLvlTyxXdpeAi"
@@ -14476,7 +14848,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 267125,
       "name": "Sinnatuumait (Dreams)",
       "url": "https://open.spotify.com/track/3UpUHD3UvRpOY6F3OAJntj"
@@ -16327,6 +16699,24 @@
     },
     {
       "album": {
+        "name": "Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology",
+        "url": "https://open.spotify.com/album/5TEMjTAfk1m4ByGwDj7794"
+      },
+      "artists": [
+        {
+          "name": "Willie Dunn",
+          "url": "https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/7vtB525Mw0sXGk6WHPYybX"
+    },
+    {
+      "album": {
         "name": "The Pacific",
         "url": "https://open.spotify.com/album/7bh8vwM5JEvM3mbybA2V5S"
       },
@@ -16468,6 +16858,24 @@
       "duration_ms": 179725,
       "name": "The Lucky Ones - THE LAUNCH",
       "url": "https://open.spotify.com/track/7lHLe9ZyA55dTRWcd6a6Y4"
+    },
+    {
+      "album": {
+        "name": "The Legendary Sun Classics",
+        "url": "https://open.spotify.com/album/3NVX14fsKVOBt8mPbUMgwj"
+      },
+      "artists": [
+        {
+          "name": "Charlie Feathers",
+          "url": "https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113950,
+      "name": "The Man In Love",
+      "url": "https://open.spotify.com/track/1yDAzE81UefB7767FQktZw"
     },
     {
       "album": {
@@ -17086,7 +17494,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 252533,
       "name": "Tonkori Monimahpo",
       "url": "https://open.spotify.com/track/12tfo95opItMR3uMRRuJKN"
@@ -17346,7 +17754,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 179850,
       "name": "Tupiq",
       "url": "https://open.spotify.com/track/1FON1EK7OZ1XaFOdLAadPb"
@@ -17486,7 +17894,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207899,
       "name": "Tx\u00fck\u00fcr",
       "url": "https://open.spotify.com/track/6Beu68LPxy6n5OmLYAJyt9"
@@ -18062,6 +18470,24 @@
       "duration_ms": 175531,
       "name": "War Club (feat. Snotty Nose Rez Kids)",
       "url": "https://open.spotify.com/track/6TL5wswOlpK0Xgzgxpp1PN"
+    },
+    {
+      "album": {
+        "name": "Plight of the Redman",
+        "url": "https://open.spotify.com/album/63Um3BFScFfIuxrsjTn1oc"
+      },
+      "artists": [
+        {
+          "name": "Xit",
+          "url": "https://open.spotify.com/artist/0ppPnaWRcLheRWisYSTyPC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "War Cry",
+      "url": "https://open.spotify.com/track/5qCAJzQ1tqpEPd9FMKAyqv"
     },
     {
       "album": {
@@ -18675,6 +19101,24 @@
     },
     {
       "album": {
+        "name": "Comanche / White Lightning (Japan Stereo Mix 2026)",
+        "url": "https://open.spotify.com/album/2iQRKWmm7WkxanayZMrR53"
+      },
+      "artists": [
+        {
+          "name": "Link Wray",
+          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119071,
+      "name": "White Lightning (Japan Stereo Mix 2026)",
+      "url": "https://open.spotify.com/track/3SuY2tZ56hlHmzAlfAz8yj"
+    },
+    {
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/1eiZbWfiKknG2HbkzcOciL"
       },
@@ -18708,6 +19152,24 @@
       "duration_ms": 258781,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/3WDIUJ4e2ykpd44ZMbn1Nq"
+    },
+    {
+      "album": {
+        "name": "Mud Blood Bone",
+        "url": "https://open.spotify.com/album/3Jmb3wYx7WLoiUGn7WIeZS"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142596,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/3VM4XZuEsP9GCxuH4zydNa"
     },
     {
       "album": {

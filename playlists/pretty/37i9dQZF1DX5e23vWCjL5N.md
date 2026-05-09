@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Diss Gacha in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,386 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,374 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 15 | [Good Vibes Only](https://open.spotify.com/track/71I3pTi8nQkJbirnFO5Fk8) | [Gallas](https://open.spotify.com/artist/0trWmturcmhrIVeVWbn1OT) | [Good Vibes Only](https://open.spotify.com/album/0aAXS6H1ZBGp7RAhzACara) | 3:46 |
 | 16 | [Che Fine Hai Fatto Fibra? \(Red Bull 64 Bars\)](https://open.spotify.com/track/7yhNfdwemomRUQjgSOcgw8) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Zef](https://open.spotify.com/artist/7JL4DyVnKVldvwWoSnLtCM) | [Che Fine Hai Fatto Fibra? \(Red Bull 64 Bars\)](https://open.spotify.com/album/54aMJQ88Vyua8UeKijirW1) | 3:13 |
 | 17 | [V per Vangelo](https://open.spotify.com/track/4oMiCgeROySnMbUDwH9lt3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:29 |
-| 18 | [PERCHÈ PIANGO \(feat\. Kid Yugi\)](https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 4:19 |
+| 18 | [PERCHÉ PIANGO \(feat\. Kid Yugi\)](https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 4:19 |
 | 19 | [Per te che Lotto](https://open.spotify.com/track/70600tukZat0m8rM0yqDoD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:08 |
 | 20 | [L'astronauta](https://open.spotify.com/track/5SKziDfyRfyHgqjvDFWcJ9) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [io Individuo](https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY) | 3:20 |
-| 21 | [Track 5](https://open.spotify.com/track/3lGDNCiVZjsK2vTE9ehKRQ) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [L'IMPERATRICE](https://open.spotify.com/album/3HPN1r26IBZSl2UE1dW3fY) | 0:00 |
+| 21 | [TRINITY](https://open.spotify.com/track/3lGDNCiVZjsK2vTE9ehKRQ) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [L'IMPERATRICE](https://open.spotify.com/album/3HPN1r26IBZSl2UE1dW3fY) | 2:17 |
 | 22 | [Spendin \(feat\. Marracash\)](https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:42 |
 | 23 | [Smith & Wesson Freestyle \(feat\. Marracash\)](https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:10 |
 | 24 | [ROSSO COME IL FANGO](https://open.spotify.com/track/7d8hSEH3UBc0phpisP1fh9) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ROSSO COME IL FANGO](https://open.spotify.com/album/1lxCspGT29F9wNy6dI9bKe) | 2:50 |

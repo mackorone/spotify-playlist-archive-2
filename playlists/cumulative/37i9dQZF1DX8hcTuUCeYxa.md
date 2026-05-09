@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Lykke Li
 
-2,843 songs - 6 day 19 hr 33 min
+2,843 songs - 6 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1522,6 +1522,7 @@
 | [Love You Like a Rainbow](https://open.spotify.com/track/5n2yojSdwu1ClUByBFp24R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean \(Extended Version\)](https://open.spotify.com/album/5CnkossieD4tmC9sYwUNRV) | 3:01 | 2025-12-04 | 2026-01-16 |
 | [lovedrunk](https://open.spotify.com/track/73HM4oXqEBDbeKn8GexF3c) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [lovedrunk](https://open.spotify.com/album/46a91eZfO06sfLJiTOdvcd) | 2:20 | 2026-03-19 | 2026-04-03 |
 | [Lovesick](https://open.spotify.com/track/2HLozrMrP9kSZTjRPWWlyF) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Lovesick](https://open.spotify.com/album/1KBbXD1cmVf0Xgyqptyl1F) | 3:19 | 2025-07-17 | 2025-07-25 |
+| [Lovesick](https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Experiencing Feelings of Joy](https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F) | 3:54 | 2026-05-07 |  |
 | [Loving Tree](https://open.spotify.com/track/5JQ82Ln6st0fZiqKNTj8KJ) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Loving Tree](https://open.spotify.com/album/6YKOe0o3mAqehf399jquVz) | 3:56 | 2024-06-28 | 2024-07-12 |
 | [Lower Back Tattoo](https://open.spotify.com/track/3jj4GvNpJqOeW3O8wFfWg9) | [Naked Cameo](https://open.spotify.com/artist/6tzSR1jkVo43Y3r4EFA6df) | [Lower Back Tattoo](https://open.spotify.com/album/1bZYdnLdroCRloa9vg7GIL) | 3:09 | 2026-04-09 | 2026-05-08 |
 | [Lucidity](https://open.spotify.com/track/0y6MhmGw45TNC9crJqZsCd) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Lucidity](https://open.spotify.com/album/6ailra1YamTmzRyWsJkyLn) | 2:28 | 2026-02-12 | 2026-03-13 |
@@ -2566,7 +2567,6 @@
 | [Tougher Than the Rest](https://open.spotify.com/track/7t0MtBzJwoYBkdyeFDlzYS) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Tougher Than the Rest](https://open.spotify.com/album/00psl1omSGzV4KlAiR9kLA) | 5:10 | 2026-04-16 | 2026-05-08 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 8](https://open.spotify.com/track/4ElRe4gQlyrwhItxgIdQhH) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Experiencing Feelings of Joy](https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F) | 0:00 | 2026-05-07 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

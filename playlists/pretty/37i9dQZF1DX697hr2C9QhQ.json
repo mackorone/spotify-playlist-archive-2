@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 62040,
+  "num_followers": 62052,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "Vagabonds Of The Western World",
+        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The Rocker",
+      "url": "https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "Songs For The Tempted",
         "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 213573,
       "name": "Mary",
       "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "Vagabonds Of The Western World",
-        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The Rocker",
-      "url": "https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Trains, Boats and Planes",
-        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
+        "name": "Aaagh!",
+        "url": "https://open.spotify.com/album/4ew7a5WNxErs5FDpF4H2eV"
       },
       "artists": [
         {
-          "name": "The Frank And Walters",
-          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
+          "name": "Republic Of Loose",
+          "url": "https://open.spotify.com/artist/0t6MU9jroaufCbqZF6UpSU"
         }
       ],
-      "duration_ms": 189560,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
+      "duration_ms": 202173,
+      "name": "You Know It",
+      "url": "https://open.spotify.com/track/4gks3Iym1kXtPRHMSITkMk"
     }
   ],
   "unique_name": "Irish Rock Classics",

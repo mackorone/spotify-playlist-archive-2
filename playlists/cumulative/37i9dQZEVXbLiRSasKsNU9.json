@@ -10868,7 +10868,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -11840,7 +11840,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 169090,
       "name": "Beni Al",
       "url": "https://open.spotify.com/track/5iMubxU4DwNpW3JOAN4PGF"
@@ -17158,6 +17158,24 @@
     {
       "album": {
         "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3l7rEp8JiQDyrM8WHVw6vo"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/1UcCAYT16qXS2Tts2NdHhM"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/3ggKdQGatbrPLhmOPxfX4W"
       },
       "artists": [
@@ -17168,7 +17186,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -26139,6 +26157,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/1iZxQqbalIOYwcMWw4NccR"
+    },
+    {
+      "album": {
         "name": "Dry Spell",
         "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
       },
@@ -27460,7 +27496,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149971,
       "name": "Ela Quer Viver No Pantanal",
       "url": "https://open.spotify.com/track/6Jal5aUvxKmglaFcCsIVxT"
@@ -53563,6 +53599,24 @@
     },
     {
       "album": {
+        "name": "demain c'est vide",
+        "url": "https://open.spotify.com/album/3Tv5VLxck3h3VkUlKW359T"
+      },
+      "artists": [
+        {
+          "name": "Willylancien",
+          "url": "https://open.spotify.com/artist/3gzMRa6kszVHxXUiTpHFWb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "magique",
+      "url": "https://open.spotify.com/track/0ffrrCB5IKs1oOLAr16c0D"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -69520,7 +69574,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 133563,
       "name": "Pe\u00e3o Todo Tatuado",
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
@@ -75986,7 +76040,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
@@ -99526,7 +99580,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 316026,
       "name": "You Never Even Called Me by My Name",
       "url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"

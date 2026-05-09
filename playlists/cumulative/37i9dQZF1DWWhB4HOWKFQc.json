@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Pamungkas",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Olivia Rodrigo",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -7381,6 +7381,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "MY EYES OPEN VVIDE",
         "url": "https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8"
       },
@@ -7490,6 +7508,24 @@
       "duration_ms": 129391,
       "name": "Dua Rasa Jadi Satu",
       "url": "https://open.spotify.com/track/3jUSRri5r4jIQ63EoeCRMP"
+    },
+    {
+      "album": {
+        "name": "Dulu Kita Masih Remaja (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
     },
     {
       "album": {
@@ -12163,6 +12199,24 @@
     },
     {
       "album": {
+        "name": "EUNOIA",
+        "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259242,
+      "name": "Jalan Keluar",
+      "url": "https://open.spotify.com/track/3pPtbTaTyh6zGJjAYT8Crr"
+    },
+    {
+      "album": {
         "name": "Jalan Pulang",
         "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
       },
@@ -15428,6 +15482,24 @@
       "duration_ms": 217253,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/5lYN6iWRzaWm08s0Fhw6eM"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Celebration",
+          "url": "https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi"
     },
     {
       "album": {
@@ -20952,6 +21024,24 @@
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
+    },
+    {
+      "album": {
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163001,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
       "album": {

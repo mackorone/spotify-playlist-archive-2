@@ -11385,6 +11385,24 @@
     },
     {
       "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/32vyjIQOl0Wcq6hMtR7Qlg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180799,
+      "name": "KIN",
+      "url": "https://open.spotify.com/track/50I9JvDgzGl6OQft3TwEQL"
+    },
+    {
+      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/3VzalDyO27VRVRsuukDl9a"
       },
@@ -20250,6 +20268,32 @@
       "duration_ms": 179076,
       "name": "Take Over Control (feat. Eva Simons) [Matt Sassari Remix]",
       "url": "https://open.spotify.com/track/3vEjnhXApqkwci11kJZFHE"
+    },
+    {
+      "album": {
+        "name": "Take Over Control (feat. Eva Simons) [Nitefreak Remix]",
+        "url": "https://open.spotify.com/album/6KJlUZV14PvCPLRro2r4nU"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Take Over Control (feat. Eva Simons) [Nitefreak Remix]",
+      "url": "https://open.spotify.com/track/5zEu5pr4yPqwH1ysi6rswB"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
-  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 396024,
+  "description": "A new take on a classic sound. Cover: The Womack Sisters",
+  "num_followers": 396091,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhjyULE3lmqUm43Zj9E9R/5QCUO",
+  "snapshot_id": "AAAAAFqDxmB7l/9M2oOPiub6nXn1pmCz",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:01:02",
+      "album": {
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "duration_ms": 276786,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq"
+    },
+    {
+      "added_at": "2026-05-08 04:01:02",
+      "album": {
+        "name": "It\u2019s A Shame",
+        "url": "https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "It\u2019s A Shame",
+      "url": "https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB"
+    },
     {
       "added_at": "2026-05-01 04:00:17",
       "album": {
@@ -127,22 +159,6 @@
       "duration_ms": 261946,
       "name": "Maybe I'm A Fool (But I'm In Love Again)",
       "url": "https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "You Went Away Too Long",
-        "url": "https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD"
-      },
-      "artists": [
-        {
-          "name": "The Womack Sisters",
-          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
-        }
-      ],
-      "duration_ms": 199081,
-      "name": "You Went Away Too Long",
-      "url": "https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1643,22 +1659,6 @@
       "duration_ms": 197120,
       "name": "Fools Expectation",
       "url": "https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-03-29 04:01:00",

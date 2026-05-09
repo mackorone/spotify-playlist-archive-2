@@ -4827,6 +4827,24 @@
     },
     {
       "album": {
+        "name": "pode me gravar :)",
+        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
+      },
+      "artists": [
+        {
+          "name": "Perigato",
+          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "pode me gravar :)",
+      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
+    },
+    {
+      "album": {
         "name": "Poema Sujo",
         "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },

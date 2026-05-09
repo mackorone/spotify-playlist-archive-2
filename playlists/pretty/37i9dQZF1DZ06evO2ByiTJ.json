@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAC2mBtRjYRvdWa0k87moVzi",
+  "snapshot_id": "afvWAAAAAADLi9uE5C2NmiUNki6XFBin",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Samba Adorador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
+      },
+      "artists": [
+        {
+          "name": "Waguinho",
+          "url": "https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
+      "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Samba Adorador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
-      },
-      "artists": [
-        {
-          "name": "Waguinho",
-          "url": "https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
-      "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muda o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 309150,
       "name": "Muda o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Linda Flor",
+        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 215899,
+      "name": "Linda Flor",
+      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rompendo",
         "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 247756,
       "name": "O Melhor da Festa",
       "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Segredo Pra Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "O Segredo Pra Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Segredo Pra Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 258239,
+      "name": "O Segredo Pra Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cartas Vivas (Ao Vivo)",
         "url": "https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 220733,
       "name": "Cartas Vivas (Ao Vivo)",
       "url": "https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Linda Flor",
-        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 215899,
-      "name": "Linda Flor",
-      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
     },
     {
       "added_at": null,

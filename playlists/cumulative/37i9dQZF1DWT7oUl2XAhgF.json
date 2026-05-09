@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
+  "description": "A new take on a classic sound. Cover: The Womack Sisters",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -1230,6 +1230,24 @@
       "duration_ms": 198200,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb"
+    },
+    {
+      "album": {
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276786,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq"
     },
     {
       "album": {
@@ -4810,6 +4828,24 @@
       "duration_ms": 170000,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/0J682N2n8YoOFq3z02ItvK"
+    },
+    {
+      "album": {
+        "name": "It\u2019s A Shame",
+        "url": "https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221386,
+      "name": "It\u2019s A Shame",
+      "url": "https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB"
     },
     {
       "album": {
@@ -11034,7 +11070,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
@@ -11284,7 +11320,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 199081,
       "name": "You Went Away Too Long",
       "url": "https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz"

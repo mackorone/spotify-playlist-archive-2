@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 158053,
       "name": "Change",
       "url": "https://open.spotify.com/track/08xjvKLz3RDTANr5YCCr91"
@@ -4008,6 +4008,24 @@
       "duration_ms": 244780,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/1CZXdJLXpC5ZwFl2caa3sV"
+    },
+    {
+      "album": {
+        "name": "Control / Dive",
+        "url": "https://open.spotify.com/album/1GSmVAeubLoT1V2zm5jkhJ"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0GJgeq1nKM4wGT8CLahiL1"
     },
     {
       "album": {
@@ -5728,6 +5746,24 @@
       "duration_ms": 232800,
       "name": "Far Country",
       "url": "https://open.spotify.com/track/71LzlUgNhw641BBrZQkJgq"
+    },
+    {
+      "album": {
+        "name": "FATHER'S HOUSE",
+        "url": "https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360173,
+      "name": "FATHER'S HOUSE",
+      "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
     },
     {
       "album": {
@@ -9543,6 +9579,28 @@
     },
     {
       "album": {
+        "name": "Hold Me Up",
+        "url": "https://open.spotify.com/album/6Y7YankyJF0H9HUoofcRHm"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        },
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152481,
+      "name": "Hold Me Up",
+      "url": "https://open.spotify.com/track/5hfOwP6REbZckEZjMhxDAA"
+    },
+    {
+      "album": {
         "name": "Give It More Time",
         "url": "https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld"
       },
@@ -11336,7 +11394,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 210485,
       "name": "I'd Do It Again",
       "url": "https://open.spotify.com/track/48aI2KwHVCEXyK7vUQ8nJX"
@@ -13040,7 +13098,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 211388,
       "name": "judas",
       "url": "https://open.spotify.com/track/6m8jy0dNtYqVi5c4EtLZdM"
@@ -14332,7 +14390,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 129535,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/7yYf4UIKpToCCggs40VZeu"
@@ -14938,6 +14996,24 @@
       "duration_ms": 220838,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/4x2uqkTk7Lb2zTdgAA8GEj"
+    },
+    {
+      "album": {
+        "name": "make heaven crowded",
+        "url": "https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179407,
+      "name": "make heaven crowded",
+      "url": "https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF"
     },
     {
       "album": {
@@ -16069,6 +16145,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0tcvwKhazLe9u1KSdhjZWH"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "Never Mine",
+      "url": "https://open.spotify.com/track/4E6fyhkICWzHTSEuREHQ2q"
+    },
+    {
+      "album": {
         "name": "Never Running Out",
         "url": "https://open.spotify.com/album/7vuS5c3aTSY2zobQ1cwGoA"
       },
@@ -17066,6 +17160,24 @@
       "duration_ms": 252407,
       "name": "Oh, Can You See It",
       "url": "https://open.spotify.com/track/5UkICwSpvTckm7XsfQ1tnB"
+    },
+    {
+      "album": {
+        "name": "OKAY!",
+        "url": "https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "OKAY!",
+      "url": "https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW"
     },
     {
       "album": {
@@ -20096,7 +20208,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 233708,
       "name": "Silence",
       "url": "https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN"
@@ -20356,6 +20468,24 @@
       "duration_ms": 255233,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0"
+    },
+    {
+      "album": {
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/1EEEcNiUVewEsBrn8omWIh"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "So Good To Me",
+      "url": "https://open.spotify.com/track/53kIJzbqlx3KxGZwvenCc9"
     },
     {
       "album": {
@@ -22346,7 +22476,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 304584,
       "name": "THANK GOD I'M FREE",
       "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
@@ -22498,7 +22628,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136458,
       "name": "THANKFUL",
       "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"

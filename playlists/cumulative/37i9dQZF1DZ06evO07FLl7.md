@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-165 songs - 10 hr 8 min
+166 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Força do Meu Santo](https://open.spotify.com/track/4xFHUeXu3DybuZZFUgPYlY) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [A Força do Meu Santo](https://open.spotify.com/album/2pipDTNotVs0Tb7GvIc4a4) | 3:48 | 2026-04-17 | 2026-04-18 |
 | [A Ordem das Árvores \- Remix](https://open.spotify.com/track/1qCayfOvLmESzyZpWeuwbF) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Gustavo Ruiz](https://open.spotify.com/artist/3R7LNfdkoaPU5CkklJwkhz) | [Efêmera \(Remix\)](https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G) | 3:47 | 2023-09-18 | 2025-11-28 |
 | [Abaixo do Radar](https://open.spotify.com/track/3avSwfBE4PjSLBMUGQ0jXi) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [As Incríveis Histórias De: Underground Superhero Vs o Terrível Ladrão de Loops \(Deluxe\)](https://open.spotify.com/album/3yZh6sqDa0RQzQgwciIhZa) | 3:01 | 2024-06-02 |  |
+| [Agora Que Eu Quero Ver](https://open.spotify.com/track/7KlUUKDSmDaydfFFq3cQ8w) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Douglas Sã](https://open.spotify.com/artist/3dpBMPqv6q7CtmfpNaO4AH) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:05 | 2026-05-09 |  |
 | [Agora Que Eu Quero Ver](https://open.spotify.com/track/0CzlyK5mPIZDktZeeIYIJB) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Douglas Sã](https://open.spotify.com/artist/3dpBMPqv6q7CtmfpNaO4AH) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:05 | 2025-11-17 | 2026-04-17 |
 | [Agora Que Eu Quero Ver](https://open.spotify.com/track/1RShRN08PjU20gFysZQDDX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Douglas Sã](https://open.spotify.com/artist/02UytBDvw7HUUzB28LWydz) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:05 | 2023-09-18 | 2025-11-17 |
 | [Ansiejazz](https://open.spotify.com/track/0tZVFCC60EASRBcdv9OTjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:59 | 2023-09-18 | 2025-11-22 |
@@ -38,7 +39,7 @@
 | [Brecha](https://open.spotify.com/track/3nixNBTnBcJQ2OupAaowCc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 3:01 | 2025-11-20 | 2026-04-17 |
 | [Bêbada de Feriado](https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 3:54 | 2023-09-18 | 2025-11-20 |
 | [Bêbada de Feriado](https://open.spotify.com/track/3TXSn2cIKZJaVuJk3Q2zTV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz) | 3:54 | 2025-11-22 | 2026-04-04 |
-| [Calma Preta](https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:09 | 2026-04-18 |  |
+| [Calma Preta](https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:09 | 2026-04-18 | 2026-05-09 |
 | [Calma Preta](https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:09 | 2025-11-21 | 2026-04-17 |
 | [Calma Preta](https://open.spotify.com/track/75igikg3xWQPFhHHVj3jdT) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:09 | 2023-09-18 | 2025-11-07 |
 | [Contramão](https://open.spotify.com/track/1V3FaAOYea3Hxw5SYvi8tl) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Emmily Barreto](https://open.spotify.com/artist/4682txRR20t1JBUHiHpMGz) | [Contramão](https://open.spotify.com/album/6CjxDtHwR2tTnYKw1x9xv1) | 4:54 | 2023-09-18 |  |

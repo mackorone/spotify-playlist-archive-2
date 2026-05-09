@@ -6730,7 +6730,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
@@ -8404,6 +8404,24 @@
       "duration_ms": 197996,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
+    },
+    {
+      "album": {
+        "name": "Verger",
+        "url": "https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213599,
+      "name": "Roi de verre",
+      "url": "https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy"
     },
     {
       "album": {

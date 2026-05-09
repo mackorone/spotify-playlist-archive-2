@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- KR$NA & Dhanda Nyoliwala
 
-396 songs - 21 hr 13 min
+397 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 | 2024-07-19 | 2024-08-03 |
 | [Poothiri](https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [Poothiri](https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5) | 4:00 | 2025-07-11 | 2025-08-30 |
 | [Powerplay](https://open.spotify.com/track/304NwJLBI13meQEv2gvoB0) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Powerplay](https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE) | 3:24 | 2024-09-13 | 2024-10-22 |
+| [Praying Mantis](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Praying Mantis](https://open.spotify.com/album/0FZoOvzYo8La6K82yKnjIn) | 3:12 | 2026-05-08 |  |
 | [PROUD](https://open.spotify.com/track/6AChsI87cjRwq1fOkaRXyf) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [PROUD](https://open.spotify.com/album/2obchBgPXVqhBoF9mCvsgF) | 4:56 | 2026-02-27 |  |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 | 2023-04-20 |
 | [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-04-19 | 2023-12-13 |
@@ -321,7 +322,7 @@
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-06-08 | 2024-09-26 |
 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 | 2025-03-07 |  |
 | [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 | 2024-09-12 | 2026-03-07 |
-| [Sad Gaana](https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:29 | 2025-09-19 |  |
+| [Sad Gaana](https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:29 | 2025-09-19 | 2026-05-09 |
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-27 | 2023-06-02 |
 | [Sawaal Puchdi \(From "51 GLORIOUS DAYS"\)](https://open.spotify.com/track/4IzMinx3nSlP47jCDtUrvf) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Sawaal Puchdi \(From "51 GLORIOUS DAYS"\)](https://open.spotify.com/album/103CIQWajdTOzqoG3DXMIr) | 4:09 | 2025-09-26 | 2025-10-15 |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-27 | 2023-06-02 |

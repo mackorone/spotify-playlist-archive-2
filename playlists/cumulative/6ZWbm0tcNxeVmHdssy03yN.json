@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "A Heart Doesn't Hurt Itself",
+        "url": "https://open.spotify.com/album/5TuTiHg5WAxfrXcQ14IVmR"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198366,
+      "name": "A Heart Doesn't Hurt Itself",
+      "url": "https://open.spotify.com/track/1N4pzCqYLJpeqhB4BLFrqk"
+    },
+    {
+      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -11892,7 +11910,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
@@ -11914,7 +11932,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 140093,
       "name": "BEYONCE BRAZILIAN REMIX",
       "url": "https://open.spotify.com/track/05qLiGA86ANJYuZdJT4iLS"
@@ -13998,7 +14016,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 138000,
       "name": "BONITA BONITA",
       "url": "https://open.spotify.com/track/5HCXEEQnHgdmvsoFw7PCII"
@@ -14622,6 +14640,24 @@
       "duration_ms": 213187,
       "name": "Boyfriend Part 2",
       "url": "https://open.spotify.com/track/4SsIeCA9MAggzaX78P7OhL"
+    },
+    {
+      "album": {
+        "name": "boys club",
+        "url": "https://open.spotify.com/album/6SLMo0Iz2U7NqkvBVBB0bR"
+      },
+      "artists": [
+        {
+          "name": "Emma Yue",
+          "url": "https://open.spotify.com/artist/3cc1hCCUelDAL7Dn5Bj06r"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240298,
+      "name": "boys club",
+      "url": "https://open.spotify.com/track/3DZKlKqlGDy3U1Q1CMJHIE"
     },
     {
       "album": {
@@ -18026,7 +18062,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160000,
       "name": "Caro",
       "url": "https://open.spotify.com/track/2hK9U3dHcGi4ogJHGLmnNJ"
@@ -23734,7 +23770,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 279010,
       "name": "Cuando quieras volver",
       "url": "https://open.spotify.com/track/53mzXeeUiYc2rlJSgB3I6C"
@@ -30513,6 +30549,24 @@
     },
     {
       "album": {
+        "name": "easier to stare",
+        "url": "https://open.spotify.com/album/26va7PoLwSz0LOrEC0f0yg"
+      },
+      "artists": [
+        {
+          "name": "Heath Lancaster",
+          "url": "https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169484,
+      "name": "easier to stare",
+      "url": "https://open.spotify.com/track/2x4DdNTxdZBHs0ceMpucXN"
+    },
+    {
+      "album": {
         "name": "Eden.",
         "url": "https://open.spotify.com/album/0ZaptZltxEL0pVv7vvhQiT"
       },
@@ -32314,7 +32368,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 170266,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/4u9BoD6nebGmMXMUX1ipLn"
@@ -35014,7 +35068,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 139805,
       "name": "feel some",
       "url": "https://open.spotify.com/track/5Vztdm0uDnZ6ytYD5VVtgA"
@@ -36356,6 +36410,28 @@
       "duration_ms": 183893,
       "name": "Float",
       "url": "https://open.spotify.com/track/1Ftf7WT4bDdteXIjQpmYXX"
+    },
+    {
+      "album": {
+        "name": "float",
+        "url": "https://open.spotify.com/album/6rdiPF65uqFoQPE7bzu8VE"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        },
+        {
+          "name": "Stevie Daniels",
+          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "float",
+      "url": "https://open.spotify.com/track/2KP5OMdD522Do5B5RHgrmZ"
     },
     {
       "album": {
@@ -38248,6 +38324,24 @@
       "duration_ms": 156631,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2NoP5Z53LQLuGYUUli2WSR"
+    },
+    {
+      "album": {
+        "name": "i asked the stars for this. x",
+        "url": "https://open.spotify.com/album/3KNYkyPYwSkUbHybeJVJzu"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185741,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/2wjc0DH5AhndXQQQd74wky"
     },
     {
       "album": {
@@ -41843,6 +41937,24 @@
     },
     {
       "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/7w5baej9p9W5s7e5KwjZ3z"
+      },
+      "artists": [
+        {
+          "name": "Lenka",
+          "url": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218024,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/73WXHSVnzDZRloTDaysTGM"
+    },
+    {
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc"
       },
@@ -43180,6 +43292,24 @@
       "duration_ms": 142222,
       "name": "Hagrid & Harry",
       "url": "https://open.spotify.com/track/7dlFNUEGOl35cVYIsqZZhZ"
+    },
+    {
+      "album": {
+        "name": "Influencer",
+        "url": "https://open.spotify.com/album/2rJASVBvdUJJeJsKdQA4Nf"
+      },
+      "artists": [
+        {
+          "name": "Adamn Killa",
+          "url": "https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146200,
+      "name": "Haha (feat Tia Corine)",
+      "url": "https://open.spotify.com/track/6owY8xiMe16Hcrvin3pU8D"
     },
     {
       "album": {
@@ -45672,6 +45802,24 @@
       "duration_ms": 188657,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7vNuWM68PF5O5rBWtWXvnl"
+    },
+    {
+      "album": {
+        "name": "Hold A Corner",
+        "url": "https://open.spotify.com/album/4SqP8MRnupSqTLCkG1sVoJ"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Hold A Corner",
+      "url": "https://open.spotify.com/track/6zsD8FFqTvXRlWeZOIpVDg"
     },
     {
       "album": {
@@ -54976,7 +55124,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 205477,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/1SeAAz1Umqadfs3KZTnN1Q"
@@ -64641,6 +64789,24 @@
     },
     {
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/36dUgdCKT5smxKTgRNtgSE"
+      },
+      "artists": [
+        {
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180812,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1VmhmFMQDpZ6FinxlfFB0U"
+    },
+    {
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi"
       },
@@ -67080,7 +67246,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 397000,
       "name": "Moon and Sand",
       "url": "https://open.spotify.com/track/6OTmEMZ6PwzpSQXwIxKmv6"
@@ -73910,7 +74076,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213176,
       "name": "Off To America",
       "url": "https://open.spotify.com/track/7lfLq3J2KKFUQyGYHmcXUp"
@@ -76160,7 +76326,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 170113,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/1a2RDs4MTsYmDyHLraKlCe"
@@ -95664,7 +95830,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 167767,
       "name": "Still On",
       "url": "https://open.spotify.com/track/5gAE1cqr45pkirbt8It9fg"
@@ -97242,7 +97408,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 251666,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/66PmY8JTnohjmLeV17jOvU"
@@ -97761,6 +97927,24 @@
     },
     {
       "album": {
+        "name": "Sweet Mother Surprise",
+        "url": "https://open.spotify.com/album/2LvU064XNudsTLrPMJJJk7"
+      },
+      "artists": [
+        {
+          "name": "Younique",
+          "url": "https://open.spotify.com/artist/1XfTwnIs2yeSkS9kQGPGRq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sweet Mother Surprise",
+      "url": "https://open.spotify.com/track/2i2O9isGASFIQIADm03ieS"
+    },
+    {
+      "album": {
         "name": "Sweet Nothing",
         "url": "https://open.spotify.com/album/2iPuepN0ZbNyOlqvVZhZg3"
       },
@@ -97964,6 +98148,32 @@
       "duration_ms": 205120,
       "name": "Symphonies",
       "url": "https://open.spotify.com/track/5qcGIt7DRYfVrAUSV50cAd"
+    },
+    {
+      "album": {
+        "name": "The Blue Lab Beats Show",
+        "url": "https://open.spotify.com/album/7605dOLvMswLPVTadD38oB"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "FourNine",
+          "url": "https://open.spotify.com/artist/4t5tP3pvrx50ONnbos94lz"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173444,
+      "name": "S\u00e3o Paulo to Motherland",
+      "url": "https://open.spotify.com/track/6rIDkjStbRb9uL4ZW2sppu"
     },
     {
       "album": {
@@ -101004,6 +101214,24 @@
       "duration_ms": 211333,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/0s2hMxWDYLJ3JdVE8EznKF"
+    },
+    {
+      "album": {
+        "name": "Time After Youth (TAY)",
+        "url": "https://open.spotify.com/album/5dRkKrmnTUSUqkcaVRy4E3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154853,
+      "name": "The Greatest (Far as I Can See)",
+      "url": "https://open.spotify.com/track/4A4mkcn4jpyDRsWLcdZ2IM"
     },
     {
       "album": {
@@ -108110,7 +108338,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 193717,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/6iz52f4hMYyH6WMF3ccgyJ"
@@ -109696,7 +109924,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 208529,
       "name": "Wakabaka",
       "url": "https://open.spotify.com/track/1fQDTWvo4u6VkbwJeSK3Im"
@@ -112847,6 +113075,28 @@
     },
     {
       "album": {
+        "name": "Whole Place Lift / Plus",
+        "url": "https://open.spotify.com/album/18RybKs2HWnRVUVdN79nWZ"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Eva Lazarus",
+          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146915,
+      "name": "Whole Place Lift",
+      "url": "https://open.spotify.com/track/5qBkr45TSiCMMsVrwicIFk"
+    },
+    {
+      "album": {
         "name": "whore",
         "url": "https://open.spotify.com/album/3Op6bwYWnbfwxH7WBXQl3E"
       },
@@ -115574,6 +115824,24 @@
       "duration_ms": 285000,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/5PAEiM5wC7WJgtLaQj1TJ9"
+    },
+    {
+      "album": {
+        "name": "these are just my thoughts",
+        "url": "https://open.spotify.com/album/06Vf41ffN3DhBINXyPe4Wn"
+      },
+      "artists": [
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190970,
+      "name": "YOUNGCHILD",
+      "url": "https://open.spotify.com/track/6UldAmwjOsuCLNEZEiFXpD"
     },
     {
       "album": {

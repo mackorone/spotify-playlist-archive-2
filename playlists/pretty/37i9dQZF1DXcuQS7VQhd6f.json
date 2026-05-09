@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P. Kee",
-  "num_followers": 54940,
+  "num_followers": 55008,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-03-23 06:03:35",
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/6a93AkkgChGuCFDY2U4e0S"
+      },
+      "artists": [
+        {
+          "name": "Maurette Brown Clark",
+          "url": "https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p"
+        }
+      ],
+      "duration_ms": 411840,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/7bGft4bG3evhX1ptBtSclF"
+    },
+    {
+      "added_at": "2026-03-23 06:03:35",
+      "album": {
         "name": "Introducing DeWayne Woods & When Singers Meet",
         "url": "https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 209061,
       "name": "Won't He Do It",
       "url": "https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W"
-    },
-    {
-      "added_at": "2026-03-23 06:03:35",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/6a93AkkgChGuCFDY2U4e0S"
-      },
-      "artists": [
-        {
-          "name": "Maurette Brown Clark",
-          "url": "https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p"
-        }
-      ],
-      "duration_ms": 411840,
-      "name": "It Ain't Over",
-      "url": "https://open.spotify.com/track/7bGft4bG3evhX1ptBtSclF"
     },
     {
       "added_at": "2026-03-23 06:03:35",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-23 06:03:35",
       "album": {
-        "name": "I Told The Storm",
-        "url": "https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR"
-      },
-      "artists": [
-        {
-          "name": "Greg O'Quin 'N Joyful Noyze",
-          "url": "https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "I Told The Storm",
-      "url": "https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL"
-    },
-    {
-      "added_at": "2026-03-23 06:03:35",
-      "album": {
         "name": "Praise Is What I Do",
         "url": "https://open.spotify.com/album/4DgFkFk3fDbknJ8MRDgIO8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 552760,
       "name": "Praise Is What I Do",
       "url": "https://open.spotify.com/track/3prZxvQe9PF1PKBZJM3L3u"
+    },
+    {
+      "added_at": "2026-03-23 06:03:35",
+      "album": {
+        "name": "I Told The Storm",
+        "url": "https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR"
+      },
+      "artists": [
+        {
+          "name": "Greg O'Quin 'N Joyful Noyze",
+          "url": "https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "I Told The Storm",
+      "url": "https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL"
     },
     {
       "added_at": "2026-03-23 06:03:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-23 06:03:35",
       "album": {
-        "name": "God's Property from Kirk Franklin's Nu Nation",
-        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
-      },
-      "artists": [
-        {
-          "name": "Gods Property",
-          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "More Than I Can Bear",
-      "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
-    },
-    {
-      "added_at": "2026-03-23 06:03:35",
-      "album": {
         "name": "Mountain High Valley Low",
         "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 417706,
       "name": "In the Midst of It All",
       "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+    },
+    {
+      "added_at": "2026-03-23 06:03:35",
+      "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "More Than I Can Bear",
+      "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
     },
     {
       "added_at": "2026-03-23 06:03:35",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-23 06:03:35",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
-      },
-      "artists": [
-        {
-          "name": "SINACH",
-          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
-        }
-      ],
-      "duration_ms": 286742,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
-    },
-    {
-      "added_at": "2026-03-23 06:03:35",
-      "album": {
         "name": "I'll See You In The Rapture",
         "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 406160,
       "name": "When I Rose This Morning",
       "url": "https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE"
+    },
+    {
+      "added_at": "2026-03-23 06:03:35",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
+      },
+      "artists": [
+        {
+          "name": "SINACH",
+          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
+        }
+      ],
+      "duration_ms": 286742,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
     },
     {
       "added_at": "2026-03-23 06:03:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-03-23 06:03:35",
       "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "God Blocked It",
-      "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
-    },
-    {
-      "added_at": "2026-03-23 06:03:35",
-      "album": {
         "name": "I Won\u2019t Complain",
         "url": "https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 292800,
       "name": "I Won\u2019t Complain",
       "url": "https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB"
+    },
+    {
+      "added_at": "2026-03-23 06:03:35",
+      "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "God Blocked It",
+      "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
     },
     {
       "added_at": "2026-03-23 06:03:35",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-03-23 06:03:35",
       "album": {
-        "name": "Stax Profiles: Rance Allen",
-        "url": "https://open.spotify.com/album/4Xr5nKSwjfiUX7f0vksm8P"
-      },
-      "artists": [
-        {
-          "name": "The Rance Allen Group",
-          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/5jhFCeJJ1bKZW0UunvVBgM"
-    },
-    {
-      "added_at": "2026-03-23 06:03:35",
-      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 353400,
       "name": "Who Would've Thought (feat. Marvin Winans)",
       "url": "https://open.spotify.com/track/3Pp3efMD2VNkwIlCDUhlYP"
+    },
+    {
+      "added_at": "2026-03-23 06:03:35",
+      "album": {
+        "name": "Stax Profiles: Rance Allen",
+        "url": "https://open.spotify.com/album/4Xr5nKSwjfiUX7f0vksm8P"
+      },
+      "artists": [
+        {
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/5jhFCeJJ1bKZW0UunvVBgM"
     },
     {
       "added_at": "2026-03-23 06:03:35",

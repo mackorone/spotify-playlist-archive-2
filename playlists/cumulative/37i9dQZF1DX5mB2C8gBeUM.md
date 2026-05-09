@@ -2,9 +2,9 @@
 
 ### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Graham Barham
+> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Russell Dickerson
 
-526 songs - 1 day 2 hr 4 min
+527 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2022-07-01 | 2022-09-17 |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-04-25 |  |
 | [Bonfire](https://open.spotify.com/track/35Wg7qEpf5Ai1c6PDm5v4Q) | [Greg Keys](https://open.spotify.com/artist/026BdhMiLdezQFhx6zujEa), [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Bonfire](https://open.spotify.com/album/0jChumoxm3xtMlxFNlBR1A) | 3:37 | 2021-12-10 | 2022-06-18 |
+| [Boots \(feat\. Fetty Wap\)](https://open.spotify.com/track/6lD7t1tSSCcI1DqNCn2yAW) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Boots \(feat\. Fetty Wap\)](https://open.spotify.com/album/7pOYuMCG2jxOQ9nmLkODNV) | 2:39 | 2026-05-08 |  |
 | [Boots, Jeans, & Jesus](https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Boots, Jeans, & Jesus](https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8) | 2:37 | 2023-07-28 | 2025-06-30 |
 | [Bottle Go Down](https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Bottle Go Down](https://open.spotify.com/album/1MNfcfYPbHA955TYtA6ttP) | 2:17 | 2024-08-09 |  |
 | [Bottled Up](https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Bottled Up](https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu) | 2:37 | 2022-01-28 | 2024-04-13 |

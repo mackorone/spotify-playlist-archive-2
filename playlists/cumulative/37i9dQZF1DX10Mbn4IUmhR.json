@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla & Zara Larsson",
+  "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Ben Rodrigues",
   "name": "pop fm",
   "tracks": [
     {
@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/6OVeXNQHYeRWkRtnEcm9EC"
+      },
+      "artists": [
+        {
+          "name": "Ben Rodrigues",
+          "url": "https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0fe3svhDknO3X0F2Cy3KXP"
+    },
+    {
+      "album": {
         "name": "Bad As The Rest",
         "url": "https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136888,
       "name": "Burn",
       "url": "https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB"
@@ -5469,6 +5487,24 @@
     },
     {
       "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+    },
+    {
+      "album": {
         "name": "Hold On You",
         "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
       },
@@ -6380,7 +6416,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 214205,
       "name": "IDWGOT",
       "url": "https://open.spotify.com/track/3p1yIvdlKxWRqZtvBjP4jA"
@@ -7206,6 +7242,24 @@
       "duration_ms": 195669,
       "name": "Liar",
       "url": "https://open.spotify.com/track/2lWgENmedXJTX1NEAugxuJ"
+    },
+    {
+      "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
       "album": {

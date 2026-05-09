@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Le Makeup
 
-3,354 songs - 8 day 19 hr 45 min
+3,355 songs - 8 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1668,7 +1668,7 @@
 | [Slow Motion Perception](https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Slow Motion Perception](https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk) | 3:36 | 2024-12-10 | 2025-01-15 |
 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 | 2024-11-13 | 2025-01-24 |
 | [Smile](https://open.spotify.com/track/1Td0MRk0Udpx3tcgkr3a0x) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Smile](https://open.spotify.com/album/07PwF2iHUjoUPYBfkxQyUj) | 3:28 | 2024-02-13 | 2024-03-21 |
-| [Smiles](https://open.spotify.com/track/3gBEN9z6fT7zPUZ4DWN59o) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Smiles](https://open.spotify.com/album/37RhN3R6x7dxXVOVSgAuRz) | 3:40 | 2026-04-08 |  |
+| [Smiles](https://open.spotify.com/track/3gBEN9z6fT7zPUZ4DWN59o) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Smiles](https://open.spotify.com/album/37RhN3R6x7dxXVOVSgAuRz) | 3:40 | 2026-04-08 | 2026-05-09 |
 | [Smooth](https://open.spotify.com/track/3wGNAOCHbHwkhHhxbdp6uU) | [Nerd in Disco](https://open.spotify.com/artist/3FO1TjJvSHtO141dRWkq5l) | [Smooth](https://open.spotify.com/album/2KY32E8TeTIEDXm7eiiY4d) | 3:05 | 2025-05-06 | 2025-05-21 |
 | [Smooth](https://open.spotify.com/track/0tpQcdzMmyVyOgH5zP7TWR) | [踊る！ディスコ室町](https://open.spotify.com/artist/0zOXaa6lzmLjtp5mbRV37p) | [Smooth](https://open.spotify.com/album/7wd3WUX16z0NCouCLvcRCN) | 4:04 | 2023-09-26 | 2023-10-18 |
 | [Smoothly ride on](https://open.spotify.com/track/5i22LR1eGb3KHWrRvZscCt) | [Cosmic Mauve](https://open.spotify.com/artist/1wZ94pPs4LoyElTDF3Wz7s) | [Smoothly ride on](https://open.spotify.com/album/46pakrC45PIEBJIZqmstV9) | 3:47 | 2024-07-26 | 2024-07-31 |
@@ -2408,6 +2408,7 @@
 | [もしもまた集まれれば](https://open.spotify.com/track/046AC9qQPulAogS72hGCNj) | [Pome Shih Tzu](https://open.spotify.com/artist/2h0gmNMVi41YZ0P0TFg9my) | [もしもまた集まれれば](https://open.spotify.com/album/7c7wk14lYjZJRVnd3NXB4r) | 3:36 | 2025-05-13 | 2025-05-28 |
 | [もちもち](https://open.spotify.com/track/4jTi6dAHuebFmXXxP80gYR) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [もちもち](https://open.spotify.com/album/2q4S1j03cG4zpnFZ2cvOo9) | 5:05 | 2023-07-20 | 2023-08-07 |
 | [もの](https://open.spotify.com/track/0JL8LkKPoF6NsfWE00FuPt) | [T.V.NOT JANUARY](https://open.spotify.com/artist/0HjSv6roo4DAPPjjbB9bbv) | [もの](https://open.spotify.com/album/0gnp0fQZ1sjmoZS5fif6Kl) | 4:23 | 2025-08-19 | 2025-09-04 |
+| [ものわかりのいい人](https://open.spotify.com/track/1tRnMQlo3sudqlopxNyKxm) | [岩崎桃子](https://open.spotify.com/artist/0Yb6qJAprge68CFUcfIYu6) | [ものわかりのいい人](https://open.spotify.com/album/0O2grmRkV7ttHE88mvVicD) | 4:05 | 2026-05-08 |  |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-04-16 | 2024-04-24 |
 | [やまびこ](https://open.spotify.com/track/06KDNECOOn9JH6fZZO1Avt) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [飛来者](https://open.spotify.com/album/0rr9ugtCHxyFtnTv8wsdFF) | 3:30 | 2024-02-27 | 2024-03-06 |

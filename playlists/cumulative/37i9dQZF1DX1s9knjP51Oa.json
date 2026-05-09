@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 122445,
       "name": "A quiet river",
       "url": "https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 197750,
       "name": "Balloon",
       "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
@@ -3084,7 +3084,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 178634,
       "name": "Cygne Noir",
       "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 158374,
       "name": "Elegy Of Solace",
       "url": "https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u"
@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136658,
       "name": "Fall a hundred times",
       "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
@@ -6206,7 +6206,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 121504,
       "name": "Himlen",
       "url": "https://open.spotify.com/track/08athgGdqnRmET0kInHb8n"
@@ -7740,7 +7740,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147098,
       "name": "Le Recueillement",
       "url": "https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9"
@@ -8788,7 +8788,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 126750,
       "name": "Met Her at a Bar",
       "url": "https://open.spotify.com/track/4xMHvbwPvXHFRKjbij64eM"
@@ -9130,7 +9130,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 120894,
       "name": "Mystical State",
       "url": "https://open.spotify.com/track/5ZX0EY0qNRf1oF3q1cyzJ0"
@@ -11316,7 +11316,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 123344,
       "name": "Romanzo",
       "url": "https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC"
@@ -11784,7 +11784,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 165176,
       "name": "Seasonal mother",
       "url": "https://open.spotify.com/track/2zVMhbaUO3mBXZ16YFtOoP"
@@ -12475,6 +12475,24 @@
     },
     {
       "album": {
+        "name": "Soft Horizon",
+        "url": "https://open.spotify.com/album/7zmqui1Gme9Kl9dMhVKpN7"
+      },
+      "artists": [
+        {
+          "name": "Jen Arrott",
+          "url": "https://open.spotify.com/artist/2uoEFPvcMadcuqShvVAqut"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124928,
+      "name": "Soft Horizon",
+      "url": "https://open.spotify.com/track/3MbUvX3wTmSuJsjzuE5nPP"
+    },
+    {
+      "album": {
         "name": "Soft Rain",
         "url": "https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y"
       },
@@ -12558,7 +12576,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 129373,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0y4oznUeCBGiTZou3hmimL"
@@ -14578,7 +14596,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 128500,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/7hpSoEf1bBMtJyFiq8xQyp"
@@ -15374,7 +15392,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 154500,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3ba6NWOSK30h8CTXyJSmLv"

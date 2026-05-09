@@ -4,7 +4,7 @@
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-398 songs - 23 hr 59 min
+399 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [La Rigola](https://open.spotify.com/track/5UpGVIYJvPyyMtH0IOnIya) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 3:11 | 2024-11-01 | 2025-01-24 |
 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2023-11-09 | 2024-04-19 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-11-09 | 2024-04-19 |
+| [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 | 2026-02-23 |  |
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-02-03 |  |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2023-11-09 | 2026-02-24 |
 | [La Yerbita](https://open.spotify.com/track/5pGhOX0wMnLlTNt24lSQmW) | [Los Corraleros del Majagual](https://open.spotify.com/artist/1LwOYG7BXK00xst0F5LrGn) | [2 Estilos Colombianos](https://open.spotify.com/album/1itueHqAKtSBJAcGbvV0sO) | 2:48 | 2025-09-09 | 2025-10-04 |
@@ -378,7 +379,7 @@
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2023-11-09 | 2024-04-19 |
 | [Tierra Mala](https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:48 | 2023-12-20 | 2024-08-28 |
 | [Tierra Mala](https://open.spotify.com/track/4TTYsYuhG7W8JpM1tBrwwI) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amín Martínez](https://open.spotify.com/artist/4rrusW2YNQ5PMDRDOXaGXz) | [Mano a Mano Vallenato](https://open.spotify.com/album/40iM1VcdPsIaAJu1Ox0tmd) | 4:48 | 2024-09-01 | 2025-02-07 |
-| [Tiro al Blanco \- Instrumental](https://open.spotify.com/track/7KBvlBOCGbJb45wLTStG0i) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 2:52 | 2023-02-03 |  |
+| [Tiro al Blanco \- Instrumental](https://open.spotify.com/track/7KBvlBOCGbJb45wLTStG0i) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 2:52 | 2023-02-03 | 2026-05-09 |
 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 | 2023-12-20 | 2026-02-24 |
 | [Todo Es Amor](https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA) | [Ibarra y Medina](https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM) | [Clasicas de la Cancion Popular, Vol\. 5](https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq) | 3:00 | 2023-02-03 |  |
 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 | 2023-12-20 | 2025-11-23 |

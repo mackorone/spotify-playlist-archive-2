@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: FYORE",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: VioleTT Pi",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 241280,
       "name": "Accident",
       "url": "https://open.spotify.com/track/2TO7vvluSBxNRCBBSR34B5"
+    },
+    {
+      "album": {
+        "name": "Acid Nine",
+        "url": "https://open.spotify.com/album/03GijOWQz5bB7MkOq4zE54"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181043,
+      "name": "Acid Nine",
+      "url": "https://open.spotify.com/track/3786wxOSINUx0aounTnzMB"
     },
     {
       "album": {
@@ -1319,6 +1337,42 @@
     },
     {
       "album": {
+        "name": "CashCash",
+        "url": "https://open.spotify.com/album/1OdB65XeDTURCXF2XVczRT"
+      },
+      "artists": [
+        {
+          "name": "Will Scott III",
+          "url": "https://open.spotify.com/artist/6K3jWTMwwlx3Fww59I8KOt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195065,
+      "name": "CashCash",
+      "url": "https://open.spotify.com/track/5LwCGDHsiuGfDvRhPGiKEZ"
+    },
+    {
+      "album": {
+        "name": "CASTLE WALLS",
+        "url": "https://open.spotify.com/album/3sXHEUHO8NLFxZMdcpJz4D"
+      },
+      "artists": [
+        {
+          "name": "Coutchou",
+          "url": "https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "CASTLE WALLS",
+      "url": "https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS"
+    },
+    {
+      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -1810,7 +1864,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 242483,
       "name": "Conflagration Mindset",
       "url": "https://open.spotify.com/track/6iW3I5wTLxsTL2CVmfeIcH"
@@ -2128,6 +2182,24 @@
       "duration_ms": 176091,
       "name": "Dent de lait",
       "url": "https://open.spotify.com/track/5RI0Fux0bYInk8D95nITGc"
+    },
+    {
+      "album": {
+        "name": "Deny",
+        "url": "https://open.spotify.com/album/6eIuKHR7K1367VfCJaNYVj"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "Deny",
+      "url": "https://open.spotify.com/track/3qNDAjV6W5COkDXypYdkk7"
     },
     {
       "album": {
@@ -2747,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5CoKdAus6n1xJ9duVI03oy"
+      },
+      "artists": [
+        {
+          "name": "Museums",
+          "url": "https://open.spotify.com/artist/6AojHY3vDiUeA0OWCkFDt6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290525,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5UCjDCLC3kvnQZwqMmOYxe"
+    },
+    {
+      "album": {
         "name": "Attention, c'est chaud !",
         "url": "https://open.spotify.com/album/7qHAOGsqV3KomiSPNc9ESU"
       },
@@ -2758,7 +2848,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 272920,
       "name": "Fais attention",
       "url": "https://open.spotify.com/track/5rga2KuC0vXYDZVuRX7JKk"
@@ -3010,7 +3100,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 273010,
       "name": "Fuck that shit",
       "url": "https://open.spotify.com/track/5TYHTMqKSiPG03EvWaHXJD"
@@ -3122,6 +3212,24 @@
       "duration_ms": 268544,
       "name": "Glam",
       "url": "https://open.spotify.com/track/4eguSwduvRXYMcHuPf6zYO"
+    },
+    {
+      "album": {
+        "name": "Glissade",
+        "url": "https://open.spotify.com/album/0vEvbDlfN0kO4LT4LOny8J"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208300,
+      "name": "Glissade",
+      "url": "https://open.spotify.com/track/1oQcZneuoL162DbxY4jzm6"
     },
     {
       "album": {
@@ -3248,6 +3356,24 @@
       "duration_ms": 155240,
       "name": "hana",
       "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
+    },
+    {
+      "album": {
+        "name": "Haveluck Country",
+        "url": "https://open.spotify.com/album/7LyPXWmWi6lfuT862UHQFb"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290883,
+      "name": "Haveluck Country",
+      "url": "https://open.spotify.com/track/71IaDBix6TTuOWnnTVk9Eu"
     },
     {
       "album": {
@@ -3450,6 +3576,24 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+    },
+    {
+      "album": {
+        "name": "I Love the World",
+        "url": "https://open.spotify.com/album/2KoUHCUV9tR3QVZt7rCKUn"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "I Love the World",
+      "url": "https://open.spotify.com/track/5CJAHB0gl6eg8a08Ukgl59"
     },
     {
       "album": {
@@ -4010,7 +4154,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 234874,
       "name": "Just like Him",
       "url": "https://open.spotify.com/track/2QUBCzN1FdP07E8rszVO9l"
@@ -6337,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "PERSONNE NE LE SAIT",
+        "url": "https://open.spotify.com/album/0y4IAzgVlHEnLziXPKTNZg"
+      },
+      "artists": [
+        {
+          "name": "Haliz\u00e9",
+          "url": "https://open.spotify.com/artist/45xvTR0bFEpIdEUoh9QOyu"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247430,
+      "name": "PERSONNE NE LE SAIT",
+      "url": "https://open.spotify.com/track/196IGLLDKa3fzwQeVUNBZB"
+    },
+    {
+      "album": {
         "name": "Visite du temple inn\u00e9",
         "url": "https://open.spotify.com/album/4VXFe4n0b6ufCwbtIUxrMM"
       },
@@ -6374,6 +6536,24 @@
       "duration_ms": 164735,
       "name": "Petit canari",
       "url": "https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0"
+    },
+    {
+      "album": {
+        "name": "Petit papillon blanc",
+        "url": "https://open.spotify.com/album/6SnLH2dX31iF172s9pylYf"
+      },
+      "artists": [
+        {
+          "name": "Moindre Mal",
+          "url": "https://open.spotify.com/artist/30BtBeDtNxVUNJQtly9vFo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Petit papillon blanc",
+      "url": "https://open.spotify.com/track/6MN0IrzMfXcxq9SYL3SW8A"
     },
     {
       "album": {
@@ -6883,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "Regular Looking Man",
+        "url": "https://open.spotify.com/album/0A8fUT2dkywOWLnR3fz6f2"
+      },
+      "artists": [
+        {
+          "name": "Starcrusher",
+          "url": "https://open.spotify.com/artist/7oBx2L5mOGWX6mAqXgc6lJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "Regular Looking Man",
+      "url": "https://open.spotify.com/track/4BZhgjzRhZyqcKpViR9TaN"
+    },
+    {
+      "album": {
         "name": "Rester dehors",
         "url": "https://open.spotify.com/album/4C5gG0vXCfFTcwrkFB8r1h"
       },
@@ -7222,7 +7420,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 109968,
       "name": "Sens",
       "url": "https://open.spotify.com/track/2MAkBjNLgokaHdFO8bPmXW"
@@ -7489,6 +7687,24 @@
     },
     {
       "album": {
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
+    },
+    {
+      "album": {
         "name": "\u00c9ther",
         "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
       },
@@ -7576,6 +7792,24 @@
       "duration_ms": 256600,
       "name": "Squelette",
       "url": "https://open.spotify.com/track/5T4o6yqeF1GV6Q8rcX7Rvp"
+    },
+    {
+      "album": {
+        "name": "La lune comme boussole",
+        "url": "https://open.spotify.com/album/02OSYJ6Arb8HugqwOhccik"
+      },
+      "artists": [
+        {
+          "name": "Filet D\u00e9sert",
+          "url": "https://open.spotify.com/artist/66TuokqhrXm3UqePgTyjvK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300563,
+      "name": "St-Herm\u00e9n\u00e9gilde",
+      "url": "https://open.spotify.com/track/6ERrQl9CZpVyixIAT6rYrQ"
     },
     {
       "album": {
@@ -7824,7 +8058,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 193247,
       "name": "Te garder",
       "url": "https://open.spotify.com/track/3DJHI0lXLHiXFFnj3cPVQM"
@@ -7878,7 +8112,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 247679,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/72saKsaBaeNVtxaYPl2nS7"
@@ -8538,7 +8772,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 197333,
       "name": "WAIT 2 LONG",
       "url": "https://open.spotify.com/track/4sFh6Mps17QPQwXsIKbuVK"

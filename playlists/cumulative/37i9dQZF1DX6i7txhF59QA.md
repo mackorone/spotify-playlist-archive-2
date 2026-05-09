@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 박지현\)<br/>Let's party with cheerful Korean trot medley.
 
-1,087 songs - 2 day 14 hr 11 min
+1,088 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [Jjiniya](https://open.spotify.com/track/0rQJA3W3c58WQLJRQYr4Tg) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:11 | 2022-04-22 |  |
 | [Jongno 3\-ga](https://open.spotify.com/track/4rOEMKWP3XjNw6u2UF6tgY) | [Park Seo Jin](https://open.spotify.com/artist/0mnHyTjHaxIAHVlAidU4tH) | [Music Source of Mr.Lotto Best PART60](https://open.spotify.com/album/43gIF2IkJkoB6UivawLjAE) | 2:58 | 2024-08-13 | 2024-10-25 |
 | [Journey of Life](https://open.spotify.com/track/4yFYLVqyx0MBBAfDhXqnN8) | [김범룡](https://open.spotify.com/artist/3MZvm7q6VKYUPElvBNeZt5) | [Kim Bum Ryoung 9th](https://open.spotify.com/album/5rxhwvD2QQ58xXFDG2UC4M) | 3:48 | 2022-05-03 |  |
-| [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/track/6IicnvlkFBPB2vYnzxpByc) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM YONJA](https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK) | [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/album/6buBgMl4YH6fLnbXnHogsp) | 2:53 | 2025-07-23 |  |
+| [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/track/6IicnvlkFBPB2vYnzxpByc) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM YONJA](https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK) | [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/album/6buBgMl4YH6fLnbXnHogsp) | 2:53 | 2025-07-23 | 2026-05-09 |
 | [Junsunyagok](https://open.spotify.com/track/1xPsx53LoJVnN35OflnP4k) | [Han Taeung](https://open.spotify.com/artist/1ktROtaPwiUP0ZndJhlj47) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:07 | 2024-08-13 | 2024-08-21 |
 | [Just Gamma](https://open.spotify.com/track/0Mj7y6L9MSZIZgRIdXiCgJ) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Just Gamma](https://open.spotify.com/album/4EClamVkLzBmPjhD0SgIc4) | 2:58 | 2022-04-22 | 2022-07-25 |
 | [Just Like First Sight](https://open.spotify.com/track/2BlBbt4NcYfDep0N2pCkJy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 3:18 | 2022-04-07 | 2022-07-19 |
@@ -851,6 +851,7 @@
 | [Wait a minute](https://open.spotify.com/track/4qcb0Uv1ZSfoUIKFC0gs71) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:46 | 2022-04-21 | 2022-07-12 |
 | [Waiting Is Nothing \(Prod\. KT PARK\)](https://open.spotify.com/track/1MU4dGWZ2435JeyHmIr6vH) | [Jung Seo Joo](https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00) | [Waiting Is Nothing](https://open.spotify.com/album/3IaG5IrC8LxoJ0JlKT5KhU) | 4:35 | 2024-10-16 | 2025-08-20 |
 | [Walking with](https://open.spotify.com/track/2iLyBC6cJtU88a6a1HZ6Dg) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART6](https://open.spotify.com/album/6KGaEQMf5pYF7NEpw9DWco) | 3:42 | 2022-05-03 | 2022-07-22 |
+| [Wanna go get some abalone](https://open.spotify.com/track/1lqpNH8LG7mzaRTxdUEyIC) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Wanna go get some abalone](https://open.spotify.com/album/50juRxfU3TtyC7CTEHgtIT) | 2:45 | 2026-02-25 |  |
 | [Want love](https://open.spotify.com/track/3wbgJysA8aFbasRJfX2lCf) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART24](https://open.spotify.com/album/5mGrSafaWHAkJ6sCzY8nmG) | 3:10 | 2022-04-07 | 2022-07-03 |
 | [Warning of the eve](https://open.spotify.com/track/0FBCca3S65Q5qY49obuqOK) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 2:35 | 2022-07-22 | 2022-07-29 |
 | [Was it a real love](https://open.spotify.com/track/0nMoRyYOHYCEQRJ5Iy0twO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Choi Hyeonsang](https://open.spotify.com/artist/6ALjJAXxqk08xe0ziGT1zT), [소유찬](https://open.spotify.com/artist/1pX4UK3NQUgV4w7SKRifh4) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 4:30 | 2022-04-07 | 2022-05-30 |

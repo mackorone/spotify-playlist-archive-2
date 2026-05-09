@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 484000,
       "name": "Es\u00e9 O",
       "url": "https://open.spotify.com/track/0DlKSCYyP3nPYgI9HnJ6Al"
@@ -8101,6 +8101,28 @@
     },
     {
       "album": {
+        "name": "Ko Le Baje II",
+        "url": "https://open.spotify.com/album/3tolOQi728XdH4e4SZVK6R"
+      },
+      "artists": [
+        {
+          "name": "John Cohen",
+          "url": "https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T"
+        },
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Ko Le Baje II",
+      "url": "https://open.spotify.com/track/20z25vY1zdO2VqOSYsRpoU"
+    },
+    {
+      "album": {
         "name": "Koseunti",
         "url": "https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z"
       },
@@ -8744,7 +8766,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 244986,
       "name": "Maberumo (This Is Morning)",
       "url": "https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa"
@@ -15214,7 +15236,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 722000,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/7A9tLnXKOViEouTjNuAPpS"

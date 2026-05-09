@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 142200,
       "name": "Afternoon in May",
       "url": "https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147328,
       "name": "Always With You",
       "url": "https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 138028,
       "name": "Dreams Forever",
       "url": "https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5"
@@ -6181,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/65dN0mVsCpm4tTxjPSY6GH"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172181,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/54qiKEEXk33ZHR0SXlVzJ3"
+    },
+    {
+      "album": {
         "name": "Homestead",
         "url": "https://open.spotify.com/album/66UkkdvSmgLSC2wk5X3wdO"
       },
@@ -6912,7 +6930,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 154119,
       "name": "Ischia",
       "url": "https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4"
@@ -11571,6 +11589,24 @@
     },
     {
       "album": {
+        "name": "Recoleta",
+        "url": "https://open.spotify.com/album/0vZ0mWdfR68MwqZVvEdGXa"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125582,
+      "name": "Recoleta",
+      "url": "https://open.spotify.com/track/7EQttqyTbQugOvlRJA0CGE"
+    },
+    {
+      "album": {
         "name": "Red Lava",
         "url": "https://open.spotify.com/album/3hv5Apc4dgS9cVVKmmDqQH"
       },
@@ -13497,6 +13533,24 @@
     },
     {
       "album": {
+        "name": "Sound of Speech",
+        "url": "https://open.spotify.com/album/52s99fPzTKKNcNbggc1bJG"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147725,
+      "name": "Sound of Speech",
+      "url": "https://open.spotify.com/track/7JW97t2t5VSwnInDKb9KaK"
+    },
+    {
+      "album": {
         "name": "Source of Life",
         "url": "https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV"
       },
@@ -15334,6 +15388,24 @@
       "duration_ms": 114242,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/45o2hX8j0DBnSBOUW07z3d"
+    },
+    {
+      "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/5TMmO5vxumbNfkVNzCGUYy"
+      },
+      "artists": [
+        {
+          "name": "Ansel Leo",
+          "url": "https://open.spotify.com/artist/0ZGzQZpKm8vUaLk7QooDgq"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156525,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/0phG3SYvbnB6jaGv0No5XW"
     },
     {
       "album": {

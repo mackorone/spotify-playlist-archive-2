@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-546 songs - 1 day 4 hr 53 min
+547 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All I Know \(with Khalid\)](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know \(with Khalid\)](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 | 2025-05-08 |  |
 | [All My Ladies](https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [All My Ladies](https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d) | 2:33 | 2024-06-14 | 2025-05-09 |
 | [All Night](https://open.spotify.com/track/20gJD9mjmNzzN5XJDkvmx9) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [All Night](https://open.spotify.com/album/1PdaxE6A89ym486RrW5gIj) | 2:31 | 2021-07-09 | 2022-04-28 |
+| [All Of Me](https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B) | [MONOH](https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [All Of Me](https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1) | 2:13 | 2026-05-01 |  |
 | [All Over Again \- Edit](https://open.spotify.com/track/2yGJDfOKuFlEDxqJGUOT62) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [All Over Again \(Edit\)](https://open.spotify.com/album/7zL9HCdO1aB7B4kAeJuW6r) | 3:32 | 2021-07-09 | 2022-05-11 |
 | [All That You Need \(feat\. Caroline Byrne\)](https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [All That You Need \(feat\. Caroline Byrne\)](https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV) | 2:58 | 2024-06-14 | 2025-05-09 |
 | [All The Mels](https://open.spotify.com/track/1d2NuaC27YWPW7gPcZxSJe) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [All The Mels](https://open.spotify.com/album/3YGiEYfrVpzFeL8ea6GYc8) | 4:31 | 2024-06-21 | 2024-07-05 |
@@ -92,7 +93,7 @@
 | [Brothers & Sisters](https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Brothers & Sisters](https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm) | 3:05 | 2024-08-02 | 2024-12-09 |
 | [Burn This City](https://open.spotify.com/track/5NeeU7IPXNRtpxFGKIoHf1) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [JOSEFINA](https://open.spotify.com/artist/3jBxJe3QHScYuEPo86Zeu5) | [Burn This City](https://open.spotify.com/album/7u2KDsylqBH7oGhHdWLxZ9) | 4:00 | 2024-07-26 | 2025-05-09 |
 | [Burning](https://open.spotify.com/track/37mG6IjvmVd0bKf83D7ZGt) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Burning](https://open.spotify.com/album/21aYxAH1YpxxBW6XfnBz0b) | 3:03 | 2021-07-09 | 2022-05-05 |
-| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-03 |  |
+| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-03 | 2026-05-09 |
 | [Can You Hear Me? \(ayayaya\) \(feat\. Skepta, JME & Ms D\)](https://open.spotify.com/track/6i8w8Zdud22ehgJrrzqIVi) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Ms D](https://open.spotify.com/artist/0vLuSGSqHYveeNnOt3HwWF), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [The Ascent](https://open.spotify.com/album/7G0kWbJcGHJYNt9rBfq0Wl) | 3:52 | 2021-07-09 | 2022-05-11 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-29 |  |
 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 | 2024-08-02 | 2025-05-09 |

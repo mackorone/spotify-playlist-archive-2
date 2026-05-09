@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,304 songs - 2 day 8 hr 17 min
+1,305 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Am I Wrong For This](https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Am I Wrong For This](https://open.spotify.com/album/1eSVsKnlEtggIZuNXE0qU6) | 2:07 | 2025-04-24 |  |
 | [American Girls](https://open.spotify.com/track/4y1qev4GVoplYv7ArLPJVc) | [Léne](https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [American Girls](https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH) | 2:31 | 2026-05-03 |  |
 | [Angel Face Disaster](https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Charlie Besso](https://open.spotify.com/artist/0ZD6XaZ97qhpiN4t0xdnJ6), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [Angel Face Disaster](https://open.spotify.com/album/3jonmw2qK26V8cButEMhUe) | 2:44 | 2024-08-02 | 2025-02-15 |
+| [Another Dawn](https://open.spotify.com/track/1dZCHJ0AoiMXqeftKI1J6u) | [Baked Moon](https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K) | [Another Dawn](https://open.spotify.com/album/44uROEG8TUpQEwDX5CTpNE) | 2:28 | 2026-05-08 |  |
 | [Another Love](https://open.spotify.com/track/7dTsAhklIRJhId49ayybZx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Another Love](https://open.spotify.com/album/0xOTDrruNGZiRnCcWOup9D) | 2:44 | 2023-12-03 | 2025-07-14 |
 | [Another Love](https://open.spotify.com/track/7slFkdJoxNJ2NAvp98MauA) | [Solayne](https://open.spotify.com/artist/1OSYviDPXQTukysazHRPdh), [Her Majesty](https://open.spotify.com/artist/4a8Lrkd7Ca9gdqytlXXU6X) | [Another Love](https://open.spotify.com/album/5mkNjSe4l9sdmOKf3Tn91h) | 3:35 | 2026-02-01 |  |
 | [Another Night](https://open.spotify.com/track/5fc1tca544MPaPJ1ng7Q8T) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Spagbo](https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Another Night](https://open.spotify.com/album/3V4qu83f9ZoDOe1uvQ6tUy) | 2:57 | 2024-02-25 | 2024-04-16 |

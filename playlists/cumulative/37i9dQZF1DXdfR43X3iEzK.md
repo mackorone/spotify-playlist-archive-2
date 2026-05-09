@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: girli
 
-666 songs - 1 day 11 hr 51 min
+667 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 | 2025-06-06 | 2025-07-18 |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-02-14 | 2025-03-28 |
 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 | 2025-08-21 | 2026-03-13 |
+| [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 | 2026-05-08 |  |
 | [ROCKSTAR BABY](https://open.spotify.com/track/033qWC3y06qRnxnNdF66uX) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [ROCKSTAR BABY](https://open.spotify.com/album/0Gec1yIvCKN6ASC1sQMPtf) | 2:55 | 2025-06-06 | 2025-07-25 |
 | [Rorschach Baby](https://open.spotify.com/track/0O2RsuGEalMk2zUGoBAAKp) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Rorschach Baby](https://open.spotify.com/album/4YpKVvfqpCMdO3A3wI4DGu) | 3:26 | 2025-08-07 | 2026-04-10 |
 | [Roses Are Dead](https://open.spotify.com/track/0RfsaqlFHvOC3zGI04X5hL) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Roses Are Dead](https://open.spotify.com/album/74C5tSVreMQxLqm91rH6ba) | 2:38 | 2026-04-30 |  |

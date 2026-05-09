@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 274 | [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 |
 | 275 | [Danada](https://open.spotify.com/track/36eFHUFM0ycLpEORndVcYC) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente \(Parte 2\)](https://open.spotify.com/album/4PdV8B612SJmygmqYFbyqA) | 2:18 |
 | 276 | [Solterência](https://open.spotify.com/track/2pEuFV37eGKMDxYRFzr3WB) | [Jardel Santos](https://open.spotify.com/artist/5ll70vhv9FCvHFGPamZtsd), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Solterência](https://open.spotify.com/album/0zGPgaqp2CnSnmsf0etO5h) | 2:47 |
-| 277 | [Calvin Klein](https://open.spotify.com/track/3ahdCDpGyEYA4Ge4f3Owpk) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:34 |
-| 278 | [Sem Querer Bebendo](https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM) | [Mateuz M7](https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww) | [Do Piseiro ao Pagodin](https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw) | 2:48 |
+| 277 | [Sem Querer Bebendo](https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM) | [Mateuz M7](https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww) | [Do Piseiro ao Pagodin](https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw) | 2:48 |
+| 278 | [Calvin Klein](https://open.spotify.com/track/3ahdCDpGyEYA4Ge4f3Owpk) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:34 |
 | 279 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 |
 | 280 | [Forte Candidata \- Ao Vivo](https://open.spotify.com/track/0ArhfmiDFGqmEZE33xXH1S) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 2:35 |
 | 281 | [Tira o Olho](https://open.spotify.com/track/0PiEYXPvlMj0rL9S2Ihv3a) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gabriel Gava](https://open.spotify.com/album/3KWrWyF0nrj6SL77zlutWr) | 2:50 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 307 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 308 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcQ4/AAAAABvdUnx3ytNV0HnFORRWFk9`
+Snapshot ID: `AcQ+nAAAAAA6Se7zf3YUfHFrLZeYLaQ1`

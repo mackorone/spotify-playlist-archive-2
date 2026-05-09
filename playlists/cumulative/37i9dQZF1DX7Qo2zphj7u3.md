@@ -4,7 +4,7 @@
 
 > Las románticas de hoy con las de siempre\. Cover: Kany García & Juan Luis Guerra
 
-511 songs - 1 day 9 hr 42 min
+512 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ) | 2:30 | 2025-01-10 |  |
 | [En Tus Planes](https://open.spotify.com/track/5fmXWEFh8vMXzKTHN9ezKV) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 2:52 | 2022-01-25 | 2024-05-11 |
 | [Enamorado de Ti](https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:09 | 2022-08-05 | 2023-01-07 |
-| [Encima De La Mesa](https://open.spotify.com/track/1bXqMSi9Qzg11PvZDjPdoe) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Encima De La Mesa](https://open.spotify.com/album/6D2kxgMmRP4T1299mxqVUj) | 2:54 | 2026-02-20 |  |
+| [Encima De La Mesa](https://open.spotify.com/track/1bXqMSi9Qzg11PvZDjPdoe) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Encima De La Mesa](https://open.spotify.com/album/6D2kxgMmRP4T1299mxqVUj) | 2:54 | 2026-02-20 | 2026-05-09 |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2024-02-01 | 2025-05-31 |
 | [Entrégate](https://open.spotify.com/track/4F4iZn4IqiP7fhsNzyDUlw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 4:23 | 2022-01-25 | 2022-07-29 |
 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 | 2022-01-25 | 2023-10-13 |
@@ -222,6 +222,7 @@
 | [Llegaste Tú](https://open.spotify.com/track/7cvw9YXDn35Ra6xCrIqVNZ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8 \(Deluxe\)](https://open.spotify.com/album/0dvRfMmbJAqW7D3AhbvbCM) | 3:41 | 2022-01-25 | 2022-07-24 |
 | [Llorar \(feat\. Mario Domm\)](https://open.spotify.com/track/7KffKVdLO4P8e4Yx8gDYgw) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:45 | 2022-01-25 |  |
 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 | 2022-01-25 | 2026-04-22 |
+| [Lo Arriesgo Todo](https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lo Arriesgo Todo](https://open.spotify.com/album/04HQFUF2ZerH9UAu5Lo6bP) | 3:24 | 2026-05-08 |  |
 | [Lo Intenté Todo](https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Lo Intenté Todo](https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2) | 3:24 | 2022-01-25 | 2022-07-16 |
 | [Lo Niego Todo](https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 4:41 | 2022-01-25 | 2024-05-11 |
 | [Lo Nuestro](https://open.spotify.com/track/63qL41dI1yAMAB2zvMd22u) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [90 Millas](https://open.spotify.com/album/36Rw48nFdDg5lh2o5y9Fdz) | 4:14 | 2022-01-25 | 2024-04-22 |

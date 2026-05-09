@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Netherlands.",
-  "num_followers": 67323,
+  "num_followers": 67317,
   "original_name": "Viral 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MZAE0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MZFT+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/3ggKdQGatbrPLhmOPxfX4W"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Cheerio",
         "url": "https://open.spotify.com/album/4KvVW8CGca1BNCr6zmLPq2"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2FkLUk8woeuqqmVADmxsDn"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "demain c'est vide",
         "url": "https://open.spotify.com/album/3Tv5VLxck3h3VkUlKW359T"
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/0ffrrCB5IKs1oOLAr16c0D"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "VALHALLA CALLING",
-        "url": "https://open.spotify.com/album/4k5z9pJyqTx5ia7F9BH1Ss"
+        "url": "https://open.spotify.com/album/4qzbDpY0sqXz4Ad2bvwrpl"
       },
       "artists": [
         {
@@ -68,12 +68,12 @@
           "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
         }
       ],
-      "duration_ms": 195599,
+      "duration_ms": 195744,
       "name": "VALHALLA CALLING",
-      "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
+      "url": "https://open.spotify.com/track/6Y5LQvR2wXKKaOANW7OUzW"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Mama Blijft Sterk",
         "url": "https://open.spotify.com/album/4fvbMHCFW5USMNCx3HcvFQ"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6Ewp2kreLRADhYBEdXd6PA"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Six Seven",
         "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
@@ -117,7 +117,23 @@
       "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/2aR8CBHDKTRZ82u74jbO4F"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/117e6ebJhoucK8Cz6wO2cD"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
@@ -137,23 +153,7 @@
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Feeling Good Today",
-        "url": "https://open.spotify.com/album/2aR8CBHDKTRZ82u74jbO4F"
-      },
-      "artists": [
-        {
-          "name": "IngaRose",
-          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Feeling Good Today",
-      "url": "https://open.spotify.com/track/117e6ebJhoucK8Cz6wO2cD"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Another Day Old",
         "url": "https://open.spotify.com/album/6ysOe0wZAYtjLBwU5z0jzc"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2eRLna0nT0yyJw8MyYBDMw"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "LET ME BE",
         "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Eller \u00dczer",
         "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
@@ -217,75 +217,7 @@
       "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "REDRED",
-        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "REDRED",
-      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Druk Je Lijf Tegen Dat Van Mij",
-        "url": "https://open.spotify.com/album/7cChHB5Ul0CqIjxe1CYxBQ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Velking",
-          "url": "https://open.spotify.com/artist/52xTkaAFoManmwH5iqDU1L"
-        }
-      ],
-      "duration_ms": 236879,
-      "name": "Druk Je Lijf Tegen Dat Van Mij",
-      "url": "https://open.spotify.com/track/4oozHh004NPr5MPErcFMip"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Mo\u00ebt Dat Nou",
-        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        }
-      ],
-      "duration_ms": 154691,
-      "name": "Mo\u00ebt Dat Nou",
-      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Freakin\u2019 Out",
-        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 217897,
-      "name": "Freakin\u2019 Out",
-      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Nala (Bring Me Home)",
         "url": "https://open.spotify.com/album/2NCNwg4IvvPE2AVHlpyFES"
@@ -301,39 +233,23 @@
       "url": "https://open.spotify.com/track/2HpOwVx31rNUQFT8CexxOB"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
-        "name": "The Years Between",
-        "url": "https://open.spotify.com/album/7zxeGAqygFnfWcpvjzqZrm"
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
       },
       "artists": [
         {
-          "name": "Eddie Dalton",
-          "url": "https://open.spotify.com/artist/52m47pf0V2dFVHZndwnzTi"
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         }
       ],
-      "duration_ms": 228202,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/547UwOpSMdGG0hdxOYrK59"
+      "duration_ms": 163001,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/5idIpPylcHvSsVNoK6wMx5"
@@ -349,23 +265,23 @@
       "url": "https://open.spotify.com/track/5eh2pLJmBVjgtUzKl7Ambt"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/1xYTgBgzeRPFvfxNuRQkGl"
+        "name": "Druk Je Lijf Tegen Dat Van Mij",
+        "url": "https://open.spotify.com/album/7cChHB5Ul0CqIjxe1CYxBQ"
       },
       "artists": [
         {
-          "name": "Boy named Phil",
-          "url": "https://open.spotify.com/artist/6oaFdgccB6xyvAaYGK1EoH"
+          "name": "Ricky Velking",
+          "url": "https://open.spotify.com/artist/52xTkaAFoManmwH5iqDU1L"
         }
       ],
-      "duration_ms": 138672,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0ABFNHwvoIm3VzPbpLPyuN"
+      "duration_ms": 236879,
+      "name": "Druk Je Lijf Tegen Dat Van Mij",
+      "url": "https://open.spotify.com/track/4oozHh004NPr5MPErcFMip"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Do You Mind (Remix)",
         "url": "https://open.spotify.com/album/61Z1B5MUoFjCftYWIsQDr4"
@@ -389,7 +305,75 @@
       "url": "https://open.spotify.com/track/69UOKg0ctcOcYNfyH0BKt9"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "The Years Between",
+        "url": "https://open.spotify.com/album/7zxeGAqygFnfWcpvjzqZrm"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dalton",
+          "url": "https://open.spotify.com/artist/52m47pf0V2dFVHZndwnzTi"
+        }
+      ],
+      "duration_ms": 228202,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/547UwOpSMdGG0hdxOYrK59"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Mo\u00ebt Dat Nou",
+        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "duration_ms": 154691,
+      "name": "Mo\u00ebt Dat Nou",
+      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "NOBLE",
         "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
@@ -405,7 +389,23 @@
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Talk To You",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
@@ -425,7 +425,23 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/1xYTgBgzeRPFvfxNuRQkGl"
+      },
+      "artists": [
+        {
+          "name": "Boy named Phil",
+          "url": "https://open.spotify.com/artist/6oaFdgccB6xyvAaYGK1EoH"
+        }
+      ],
+      "duration_ms": 138672,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0ABFNHwvoIm3VzPbpLPyuN"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
@@ -441,10 +457,42 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
-        "name": "No reward",
-        "url": "https://open.spotify.com/album/74uUoKvGLER1p2sxAAjSeh"
+        "name": "Badkamerkraan",
+        "url": "https://open.spotify.com/album/7G8QSYvpr4OZrjCXymmZyG"
+      },
+      "artists": [
+        {
+          "name": "Pascal Redeker",
+          "url": "https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub"
+        }
+      ],
+      "duration_ms": 192271,
+      "name": "Badkamerkraan",
+      "url": "https://open.spotify.com/track/4Rgu5vBdoJEL76NsGiE9tH"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Actin' Tough",
+        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Actin' Tough",
+      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "No Reward",
+        "url": "https://open.spotify.com/album/23J8tCRduOKnLoh37ERnbv"
       },
       "artists": [
         {
@@ -452,12 +500,12 @@
           "url": "https://open.spotify.com/artist/5nOOqSDk24pTv1VUdK2cW7"
         }
       ],
-      "duration_ms": 199947,
-      "name": "No reward",
-      "url": "https://open.spotify.com/track/3hNjvaa1uMTtHr2JIKtaai"
+      "duration_ms": 199950,
+      "name": "No Reward",
+      "url": "https://open.spotify.com/track/2TsjcVSHeEX2FkimexEsuY"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Go (I Don't Wanna)",
         "url": "https://open.spotify.com/album/7ts8h3snVDrf6fkppi6ejw"
@@ -477,55 +525,7 @@
       "url": "https://open.spotify.com/track/0lmbuGRNm5u7yvQsZLzwnM"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Actin' Tough",
-        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Turnley",
-          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Actin' Tough",
-      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Badkamerkraan",
-        "url": "https://open.spotify.com/album/7G8QSYvpr4OZrjCXymmZyG"
-      },
-      "artists": [
-        {
-          "name": "Pascal Redeker",
-          "url": "https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub"
-        }
-      ],
-      "duration_ms": 192271,
-      "name": "Badkamerkraan",
-      "url": "https://open.spotify.com/track/4Rgu5vBdoJEL76NsGiE9tH"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "S\u00e9 Miimii",
         "url": "https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "My Choice",
         "url": "https://open.spotify.com/album/502PnjJIm8y17wJqtWmShD"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/3ryFNcyiv9QCs3MldJGjux"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Shinjuku",
         "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "So Much To Tell You",
         "url": "https://open.spotify.com/album/28JEdFG4Mk0D0QGkL5vUxG"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "drop dead (taken that eurostar to france video)",
         "url": "https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD"
@@ -609,7 +609,119 @@
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Shadow Of Your Love",
+        "url": "https://open.spotify.com/album/2U12PSs7ZMDqkqYgaOnhfL"
+      },
+      "artists": [
+        {
+          "name": "Saint Point",
+          "url": "https://open.spotify.com/artist/0HRzyi2ALvq5EpsT4Gdkgd"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Shadow Of Your Love",
+      "url": "https://open.spotify.com/track/5TbXXdFGLeCQegxSfANqq3"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Bar-Mitzvah",
+        "url": "https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "duration_ms": 127382,
+      "name": "Bar-Mitzvah",
+      "url": "https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "duration_ms": 191687,
+      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 221572,
+      "name": "Trapped - Radio-Edit",
+      "url": "https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Jij Brak Mij Eerst",
+        "url": "https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo"
+      },
+      "artists": [
+        {
+          "name": "VALERIE",
+          "url": "https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe"
+        }
+      ],
+      "duration_ms": 177166,
+      "name": "Jij Brak Mij Eerst",
+      "url": "https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Zij Hoort Bij Mij",
         "url": "https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o"
@@ -633,103 +745,7 @@
       "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Bar-Mitzvah",
-        "url": "https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        }
-      ],
-      "duration_ms": 127382,
-      "name": "Bar-Mitzvah",
-      "url": "https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
-      },
-      "artists": [
-        {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
-        }
-      ],
-      "duration_ms": 191687,
-      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Jij Brak Mij Eerst",
-        "url": "https://open.spotify.com/album/3JdXDVYJfpB1iJoPE64yoo"
-      },
-      "artists": [
-        {
-          "name": "VALERIE",
-          "url": "https://open.spotify.com/artist/5ezjMqj9XmWro3bbvSP4qe"
-        }
-      ],
-      "duration_ms": 177166,
-      "name": "Jij Brak Mij Eerst",
-      "url": "https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Jane!",
-        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
-      },
-      "artists": [
-        {
-          "name": "The Long Faces",
-          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Jane!",
-      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Beretta (De Los Cerros La Escuela)",
-      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "What Did You Come For ?",
-        "url": "https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 221572,
-      "name": "Trapped - Radio-Edit",
-      "url": "https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
@@ -749,7 +765,39 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "101 barz Lentesessie 2009",
+        "url": "https://open.spotify.com/album/63oY6puDznqraDYzHLUoEC"
+      },
+      "artists": [
+        {
+          "name": "Skiezo",
+          "url": "https://open.spotify.com/artist/5VL1Dsii72aph9qChrkuJC"
+        }
+      ],
+      "duration_ms": 372448,
+      "name": "101 barz Lentesessie 2009",
+      "url": "https://open.spotify.com/track/1zvBSS7Exk4UbmmZnhUS2C"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
+    },
+    {
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "MONTAGEM PEGADORA",
         "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
@@ -773,39 +821,7 @@
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "101 barz Lentesessie 2009",
-        "url": "https://open.spotify.com/album/63oY6puDznqraDYzHLUoEC"
-      },
-      "artists": [
-        {
-          "name": "Skiezo",
-          "url": "https://open.spotify.com/artist/5VL1Dsii72aph9qChrkuJC"
-        }
-      ],
-      "duration_ms": 372448,
-      "name": "101 barz Lentesessie 2009",
-      "url": "https://open.spotify.com/track/1zvBSS7Exk4UbmmZnhUS2C"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Jongen van de Zon",
         "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
@@ -825,47 +841,23 @@
       "url": "https://open.spotify.com/track/0NkD2FOK6NGY0CsnY8NQRJ"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
-        "name": "Weer Een Dagje Ouder",
-        "url": "https://open.spotify.com/album/6LnQrnCrmTKTilEhLk8gWF"
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
       },
       "artists": [
         {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
-        },
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 163653,
-      "name": "Weer Een Dagje Ouder",
-      "url": "https://open.spotify.com/track/2OJqHtJ7dYVsQH3JYabhiy"
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-05-07 15:33:58",
-      "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
-    },
-    {
-      "added_at": "2026-05-07 15:33:58",
+      "added_at": "2026-05-08 14:41:17",
       "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/3g8e3UOV31B5WrD7GekgHs"

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 48876,
+  "num_followers": 48873,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Lealt\u00e0 e rispetto",
-        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Capeesh",
-      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Lealt\u00e0 e rispetto",
+        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Capeesh",
+      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Teoria Del Contrario",
         "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 171942,
       "name": "Heart",
       "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1759,6 +1759,22 @@
       "duration_ms": 199600,
       "name": "Buste di Figu",
       "url": "https://open.spotify.com/track/3vUZOWEfzbWawRLZQdN54o"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1807,22 +1823,6 @@
       "duration_ms": 166288,
       "name": "Magico - RMX",
       "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "duration_ms": 143892,
+      "name": "Caramelle da uno sconosciuto",
+      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Las Vegas Freestyle",
         "url": "https://open.spotify.com/album/1oqSHf9Qc8sJThpm6lpX2K"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 134857,
       "name": "Las Vegas Freestyle",
       "url": "https://open.spotify.com/track/2XA12liYHYjmYfGS9dx4zT"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        }
-      ],
-      "duration_ms": 143892,
-      "name": "Caramelle da uno sconosciuto",
-      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "A volte ritorno",
+        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
+      },
+      "artists": [
+        {
+          "name": "Lou X",
+          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
+        }
+      ],
+      "duration_ms": 342933,
+      "name": "Cinque minuti di paura",
+      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Fuoco Sacro",
         "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 193122,
       "name": "Quante Notti (feat. Franco126)",
       "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "A volte ritorno",
-        "url": "https://open.spotify.com/album/5jSqRzW2LuzCdyUW6gmrsS"
-      },
-      "artists": [
-        {
-          "name": "Lou X",
-          "url": "https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx"
-        }
-      ],
-      "duration_ms": 342933,
-      "name": "Cinque minuti di paura",
-      "url": "https://open.spotify.com/track/1hd9E8Agd4xAazyksqzjYO"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "SEI TU",
         "url": "https://open.spotify.com/album/5kBACwZpm4UpVEbzAb1ucl"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 186750,
       "name": "Modus Operandi",
       "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Parole",
-        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Parole",
-      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2359,6 +2343,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Parole",
+        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Parole",
+      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Guns & Butter",
         "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
       },
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 275202,
+      "name": "Chi Paga",
+      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Il Battesimo (feat. Inoki)",
         "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 147357,
       "name": "Il Battesimo (feat. Inoki)",
       "url": "https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 275202,
-      "name": "Chi Paga",
-      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2639,22 +2639,26 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "L'Unico Compromesso",
-        "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
+        "name": "Tom Waits",
+        "url": "https://open.spotify.com/album/20w9EPYvfsEohr19Y8xup9"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
         },
         {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        },
+        {
+          "name": "Ice One",
+          "url": "https://open.spotify.com/artist/6Fa7NNjFGrHEEsUdvln23o"
         }
       ],
-      "duration_ms": 239974,
-      "name": "Pistorius",
-      "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
+      "duration_ms": 231076,
+      "name": "Tom Waits",
+      "url": "https://open.spotify.com/track/0JTZlRQOjceOdAR82InuCe"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2691,26 +2695,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Tom Waits",
-        "url": "https://open.spotify.com/album/20w9EPYvfsEohr19Y8xup9"
+        "name": "L'Unico Compromesso",
+        "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
       },
       "artists": [
         {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        },
-        {
-          "name": "Ice One",
-          "url": "https://open.spotify.com/artist/6Fa7NNjFGrHEEsUdvln23o"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
         }
       ],
-      "duration_ms": 231076,
-      "name": "Tom Waits",
-      "url": "https://open.spotify.com/track/0JTZlRQOjceOdAR82InuCe"
+      "duration_ms": 239974,
+      "name": "Pistorius",
+      "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2755,22 +2755,18 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
+        "name": "Malastrada",
+        "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
       },
       "artists": [
         {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         }
       ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
+      "duration_ms": 191053,
+      "name": "Malastrada",
+      "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2807,18 +2803,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Malastrada",
-        "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
       },
       "artists": [
         {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
+        },
+        {
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Malastrada",
-      "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2907,6 +2907,30 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Ora Che La Musica Non C'\u00e8",
+        "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Ze in the Clouds",
+          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
+        }
+      ],
+      "duration_ms": 262338,
+      "name": "Ora Che La Musica Non C'\u00e8",
+      "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Blocchi Di Marmo",
         "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
@@ -2931,30 +2955,6 @@
       "duration_ms": 219069,
       "name": "Blocchi Di Marmo",
       "url": "https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Ora Che La Musica Non C'\u00e8",
-        "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Ze in the Clouds",
-          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
-        }
-      ],
-      "duration_ms": 262338,
-      "name": "Ora Che La Musica Non C'\u00e8",
-      "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -3011,22 +3011,30 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "BLOOD IN BLOOD OUT",
-        "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
       "artists": [
         {
-          "name": "Sace",
-          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
         },
         {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Dave_Zeta",
+          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
         }
       ],
-      "duration_ms": 156090,
-      "name": "ONION",
-      "url": "https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3"
+      "duration_ms": 242758,
+      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
+      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
     }
   ],
   "unique_name": "Radici Hip-Hop",

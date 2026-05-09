@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166624,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1JzEaFfl0dVSHV3KlzhA5E"
@@ -5197,6 +5197,28 @@
     },
     {
       "album": {
+        "name": "Before I Let You Go",
+        "url": "https://open.spotify.com/album/5Wp1FEPvAOgjDBzyTXtx9H"
+      },
+      "artists": [
+        {
+          "name": "Kromow",
+          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
+        },
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196517,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/7Ago4ajJ3JPaycqhIx8Pnj"
+    },
+    {
+      "album": {
         "name": "Being Honest",
         "url": "https://open.spotify.com/album/6Mp175aGm3sE5zMxyG6KID"
       },
@@ -5492,7 +5514,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183529,
       "name": "best. (feat. Kalan.FrFr & CUZZOS)",
       "url": "https://open.spotify.com/track/6QYm0rw6lKf5auaxhW9Ebz"
@@ -5946,7 +5968,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 172008,
       "name": "Big Homie",
       "url": "https://open.spotify.com/track/2ZPYbVLJ9Nrjzsild0RQ7p"
@@ -7150,7 +7172,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207724,
       "name": "BOAT",
       "url": "https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i"
@@ -8632,7 +8654,7 @@
       },
       "artists": [
         {
-          "name": "Hardnard",
+          "name": "Fatt Smaxk",
           "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
         }
       ],
@@ -10572,6 +10594,24 @@
       "duration_ms": 156097,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/1ZfewkEU3CwEjBwVzYkNRP"
+    },
+    {
+      "album": {
+        "name": "Coconut Water",
+        "url": "https://open.spotify.com/album/50rJrnieqMH6EScNI6BgXB"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117624,
+      "name": "Coconut Water",
+      "url": "https://open.spotify.com/track/0mgnFP2bLDhkG4NvlIDW41"
     },
     {
       "album": {
@@ -12808,6 +12848,24 @@
       "duration_ms": 135384,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/6pi85Qq6rwDaTMKY6MapIV"
+    },
+    {
+      "album": {
+        "name": "Mastiff",
+        "url": "https://open.spotify.com/album/5Sxl3D4IsY5XBm81k6CghM"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "Dialect",
+      "url": "https://open.spotify.com/track/6D3g1KZXFrwwJ9H3Q1fhxe"
     },
     {
       "album": {
@@ -18941,6 +18999,28 @@
     },
     {
       "album": {
+        "name": "GEEKIN (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "GEEKIN (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q"
+    },
+    {
+      "album": {
         "name": "GEEZER",
         "url": "https://open.spotify.com/album/12GaNnRBeuMDTpgXrkFnBY"
       },
@@ -21623,6 +21703,24 @@
     },
     {
       "album": {
+        "name": "HEAD BUSSAS",
+        "url": "https://open.spotify.com/album/7v25LA5e60QruaSZXEChKO"
+      },
+      "artists": [
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111046,
+      "name": "HEAD BUSSAS",
+      "url": "https://open.spotify.com/track/59vjhJEMmqgdgiDz61YaVi"
+    },
+    {
+      "album": {
         "name": "Head Doctor (with Lil Tecca)",
         "url": "https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY"
       },
@@ -22500,7 +22598,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 199666,
       "name": "Hit and Run (feat. AZ Chike)",
       "url": "https://open.spotify.com/track/2OggmjtPsUJ2nz8KbsybIB"
@@ -24094,6 +24192,24 @@
       "duration_ms": 167107,
       "name": "I THINK",
       "url": "https://open.spotify.com/track/2fBtXmhDF9JDCMmHS2a8Zc"
+    },
+    {
+      "album": {
+        "name": "I Wanna Rock",
+        "url": "https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k"
     },
     {
       "album": {
@@ -25788,7 +25904,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 118500,
       "name": "Jezebel",
       "url": "https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC"
@@ -26271,6 +26387,24 @@
     },
     {
       "album": {
+        "name": "THE PRELUDE",
+        "url": "https://open.spotify.com/album/2qM8KDElZ8OM6PxxhGG7xg"
+      },
+      "artists": [
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81126,
+      "name": "KASKET",
+      "url": "https://open.spotify.com/track/2jMmQZ0snsFqJZVd3X4NDP"
+    },
+    {
+      "album": {
         "name": "GAULTIER (Bonus Version)",
         "url": "https://open.spotify.com/album/2vPzsbsJmgu7HmexuicDHM"
       },
@@ -26708,7 +26842,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 164760,
       "name": "KEY3VA",
       "url": "https://open.spotify.com/track/0Ad4QbdDI0VrX5B653HLLX"
@@ -27129,6 +27263,24 @@
     },
     {
       "album": {
+        "name": "La Cumbia De Virgil",
+        "url": "https://open.spotify.com/album/725hLNSjmqBjOIYPG89hN3"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156451,
+      "name": "La Cumbia De Virgil",
+      "url": "https://open.spotify.com/track/2r9OniMnG9dXIPCvLtjuwf"
+    },
+    {
+      "album": {
         "name": "La La",
         "url": "https://open.spotify.com/album/0zuIOZtBXLHXWx2rotMBTt"
       },
@@ -27144,6 +27296,24 @@
       "duration_ms": 144827,
       "name": "La La",
       "url": "https://open.spotify.com/track/0Rr9sn5uXwBMTgccdDXsbZ"
+    },
+    {
+      "album": {
+        "name": "The Ville",
+        "url": "https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138208,
+      "name": "LA Nights",
+      "url": "https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf"
     },
     {
       "album": {
@@ -32550,7 +32720,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 103186,
       "name": "MVP",
       "url": "https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk"
@@ -35786,7 +35956,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 127804,
       "name": "OH",
       "url": "https://open.spotify.com/track/3BK0DfyqsvHbgsaempT8Bq"
@@ -38999,6 +39169,24 @@
     },
     {
       "album": {
+        "name": "Play This",
+        "url": "https://open.spotify.com/album/53p6iXTDbZIcIBRIEjYa7s"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153218,
+      "name": "Play This",
+      "url": "https://open.spotify.com/track/3zMDPyL6qy6DZUi5xKT7Io"
+    },
+    {
+      "album": {
         "name": "Play This At My Funeral (feat. Polo G)",
         "url": "https://open.spotify.com/album/1fQPG4pKNciAdSXZUeMqFA"
       },
@@ -41995,6 +42183,28 @@
     },
     {
       "album": {
+        "name": "Rich Migos (feat. OHGEESY)",
+        "url": "https://open.spotify.com/album/1NnKmMx1ZJxLMx8g1se6rH"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118028,
+      "name": "Rich Migos (feat. OHGEESY)",
+      "url": "https://open.spotify.com/track/5r3OKTOM8gGw8abZlGvRU1"
+    },
+    {
+      "album": {
         "name": "Rich Minion",
         "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
       },
@@ -42094,7 +42304,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 137369,
       "name": "Rich Thang",
       "url": "https://open.spotify.com/track/6rW8WmRDCFvhuYt9lsaJFz"
@@ -44212,7 +44422,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 90045,
       "name": "SGA",
       "url": "https://open.spotify.com/track/17vu0Ttn2ArNqfX1pnNNYW"
@@ -48134,7 +48344,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 142506,
       "name": "Supreme Sanders",
       "url": "https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9"
@@ -49022,7 +49232,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146666,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/11S1sUabJj7rArvWDFb491"
@@ -52717,6 +52927,28 @@
     },
     {
       "album": {
+        "name": "Vibe Responsibly (feat. Isaiah Rashad)",
+        "url": "https://open.spotify.com/album/0OTfsrTHJQZf2ZVSn7oHUx"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175401,
+      "name": "Vibe Responsibly (feat. Isaiah Rashad)",
+      "url": "https://open.spotify.com/track/160MxLeneesHJlfptjX0Ia"
+    },
+    {
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/5sEE0c7IkiLvOCYIfxDici"
       },
@@ -53558,7 +53790,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 113824,
       "name": "Wata",
       "url": "https://open.spotify.com/track/6zuBr0T4FNsaqT0ThVRDZF"
@@ -55524,7 +55756,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 165088,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4pACtAVffmWj3KHWb2MXvM"
@@ -56764,7 +56996,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166956,
       "name": "Yoppenheimer - Remix",
       "url": "https://open.spotify.com/track/39tC2YIcSYKqA5kdpL5ZqP"
@@ -56924,7 +57156,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 128102,
       "name": "Young & Dumb",
       "url": "https://open.spotify.com/track/50FcprycJSr9xzDcDqxFsj"

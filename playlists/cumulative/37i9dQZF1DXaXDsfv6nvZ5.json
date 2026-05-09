@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Alexia Jayy",
+  "description": "The soulful tunes to ease you into your day. Cover: The War and Treaty",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -3903,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/5VKpSf694X1in1chfqdm9Z"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273530,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/0hGLohyTSf7m8MN3HyjnKn"
+    },
+    {
+      "album": {
         "name": "JAGUAR II : Deluxe",
         "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
       },
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198831,
       "name": "Fear (Hey Friend)",
       "url": "https://open.spotify.com/track/3zmvft4eR9t60iTGnCtRcg"
@@ -7096,7 +7114,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 219078,
       "name": "How Much Will It Take",
       "url": "https://open.spotify.com/track/06x8K7S6w6M318VvWUg5GA"
@@ -7184,6 +7202,24 @@
       "duration_ms": 176070,
       "name": "I AM",
       "url": "https://open.spotify.com/track/4TKWbdarHEWUccmJBoUhMN"
+    },
+    {
+      "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "I Believe (Selfish)",
+      "url": "https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y"
     },
     {
       "album": {
@@ -9716,7 +9752,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146250,
       "name": "LOW TIDE",
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
@@ -11283,6 +11319,24 @@
     },
     {
       "album": {
+        "name": "Nature's Perfume",
+        "url": "https://open.spotify.com/album/73ixc6to7QEhJcagNXiTtB"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202732,
+      "name": "Nature's Perfume",
+      "url": "https://open.spotify.com/track/1XiFKTspnnZQQUG8XNiBsB"
+    },
+    {
+      "album": {
         "name": "Need Nothing",
         "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
       },
@@ -11294,7 +11348,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147825,
       "name": "Need Nothing",
       "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
@@ -13953,6 +14007,24 @@
     },
     {
       "album": {
+        "name": "Sell My Soul",
+        "url": "https://open.spotify.com/album/6UOHX5m2GCTmu0ShSw1lj7"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223872,
+      "name": "Sell My Soul",
+      "url": "https://open.spotify.com/track/5HoZIKWxMmV7N8GPBxc0k8"
+    },
+    {
+      "album": {
         "name": "Sometimes, I'm Speechless",
         "url": "https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE"
       },
@@ -14146,6 +14218,28 @@
       "duration_ms": 214235,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D"
+    },
+    {
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186112,
+      "name": "Shoulda Never (feat. USHER)",
+      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
     },
     {
       "album": {
@@ -16214,7 +16308,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208696,
       "name": "The Present",
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
@@ -17034,7 +17128,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 204033,
       "name": "Two Ships",
       "url": "https://open.spotify.com/track/2yMzgNJml0Vlp41r3gYSSw"
@@ -18646,6 +18740,24 @@
       "duration_ms": 224420,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF"
+    },
+    {
+      "album": {
+        "name": "You Got Your Wings",
+        "url": "https://open.spotify.com/album/5ajBGJKn4boiZhb5jwIP4s"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184056,
+      "name": "You Got Your Wings",
+      "url": "https://open.spotify.com/track/7rPbOAUtzDHUO7HwrAtQ61"
     },
     {
       "album": {

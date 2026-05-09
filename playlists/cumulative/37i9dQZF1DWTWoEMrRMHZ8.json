@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "A vida se revela",
+        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
+      },
+      "artists": [
+        {
+          "name": "O Teatro M\u00e1gico",
+          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+        },
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216153,
+      "name": "A vida se revela",
+      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
+    },
+    {
+      "album": {
         "name": "ANNA",
         "url": "https://open.spotify.com/album/5w4Zt58N4RsDrJuGGJjHPz"
       },
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 240000,
       "name": "Ainda",
       "url": "https://open.spotify.com/track/7eruJrFFk6bToBSxEzC1x7"
@@ -5864,7 +5886,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159127,
       "name": "Deixe-me Ir",
       "url": "https://open.spotify.com/track/3GOQjDG5AxA8pcphzefPRf"
@@ -9241,6 +9263,28 @@
     },
     {
       "album": {
+        "name": "G\u00e9rbera",
+        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166236,
+      "name": "G\u00e9rbera",
+      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
+    },
+    {
+      "album": {
         "name": "Habilidades Extraordin\u00e1rias",
         "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
       },
@@ -9730,7 +9774,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 244000,
       "name": "Intergal\u00e1ctica Miss\u00e3o (Balada Interdimensional)",
       "url": "https://open.spotify.com/track/18wHdF7isgfRrL61gnhkV2"
@@ -12162,7 +12206,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149770,
       "name": "MINHA DONA",
       "url": "https://open.spotify.com/track/6HH3crASyfANv6O2rHaLe2"
@@ -14546,7 +14590,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213810,
       "name": "O Que Ser\u00e1 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/45bFBXL8loxclYoIhCtpWG"
@@ -17453,6 +17497,28 @@
     },
     {
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259406,
+      "name": "Quando Chego",
+      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
+    },
+    {
+      "album": {
         "name": "Quando o Ver\u00e3o Chegar",
         "url": "https://open.spotify.com/album/1PuAhd3UK50GiH3JENkWhr"
       },
@@ -17490,6 +17556,24 @@
       "duration_ms": 167338,
       "name": "Quando Vai Chegar",
       "url": "https://open.spotify.com/track/0nGysyZRtz89sFfbjlpwaD"
+    },
+    {
+      "album": {
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/3PQ0ob3ei1Y7IsLhJ02BoB"
+      },
+      "artists": [
+        {
+          "name": "R\u00ea Gugli",
+          "url": "https://open.spotify.com/artist/4i61oiNj2OuvVp2wMvZxp8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240083,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/79IHRZdPtOQ0jek0OHTwHp"
     },
     {
       "album": {
@@ -18486,6 +18570,28 @@
       "duration_ms": 234695,
       "name": "Rio Dentro do Mar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6h0iqGTROlfbH2RSjyPDrZ"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276459,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
     },
     {
       "album": {
@@ -20572,7 +20678,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 225890,
       "name": "S\u00f3 Tenho Um",
       "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"

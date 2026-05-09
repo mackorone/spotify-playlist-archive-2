@@ -531,6 +531,36 @@
     },
     {
       "album": {
+        "name": "Alphabeats",
+        "url": "https://open.spotify.com/album/4PJqf9qffXDT1hybkMvif2"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132746,
+      "name": "Alphabeats",
+      "url": "https://open.spotify.com/track/4jk32Ve2bRdVaYaBj64Nea"
+    },
+    {
+      "album": {
         "name": "Alphabet Rhyme",
         "url": "https://open.spotify.com/album/0UYsaQb7WRd0C0ua1biEJC"
       },
@@ -818,7 +848,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 115000,
       "name": "Ask For Help!",
       "url": "https://open.spotify.com/track/7hsjnCQkQdIJNvLfiao6zP"
@@ -1048,6 +1078,24 @@
       "duration_ms": 139915,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/0m7501AvgJi0zbEOKz27jO"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Farm Animal Drawing Songs",
+        "url": "https://open.spotify.com/album/4UqNTl3DrpfsTxM8wPvagv"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58844,
+      "name": "Baa-Baa Baby Lamb",
+      "url": "https://open.spotify.com/track/551Lygz5E3eWxfDV2Ceeym"
     },
     {
       "album": {
@@ -3188,7 +3236,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 363017,
       "name": "Clean Up (6 Minute Timer)",
       "url": "https://open.spotify.com/track/6MlAXZGNM8fJsHKcrdxGuf"
@@ -4475,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Down By The Park With Tootson",
+        "url": "https://open.spotify.com/album/4N1iwruStNEJUx0lF4ADhi"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125993,
+      "name": "Down By The Park With Tootson",
+      "url": "https://open.spotify.com/track/1jLWFDNZXaJj4uxfuaxi7p"
+    },
+    {
+      "album": {
         "name": "Kids Sing Hits of the 80s!",
         "url": "https://open.spotify.com/album/51oAWPFE55kmjRhuHNNKtO"
       },
@@ -4824,6 +4890,28 @@
       "duration_ms": 152440,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1ONGzVWyVsahvw7uRUxFFC"
+    },
+    {
+      "album": {
+        "name": "Enjoy The Ride",
+        "url": "https://open.spotify.com/album/7LhVsXpFyWytiZWssXXfoD"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69120,
+      "name": "Enjoy The Ride",
+      "url": "https://open.spotify.com/track/5NkzSyB3GwgAt9NjYreuKw"
     },
     {
       "album": {
@@ -8518,7 +8606,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 163188,
       "name": "I Have a Heart (Kindness Song)",
       "url": "https://open.spotify.com/track/2LPW3L725waS83PQ9yeDcu"
@@ -9239,6 +9327,28 @@
     },
     {
       "album": {
+        "name": "If You Love to Dance & Move",
+        "url": "https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209132,
+      "name": "If You Love to Dance & Move",
+      "url": "https://open.spotify.com/track/6sWc6IeS6ImN1Yr6Nfe2oG"
+    },
+    {
+      "album": {
         "name": "If You Try (You Can Do It)",
         "url": "https://open.spotify.com/album/3sT3vCdHCp5KaFHDTtDMIc"
       },
@@ -9890,7 +10000,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 111548,
       "name": "Jungle Picnic",
       "url": "https://open.spotify.com/track/5PW0PPtYxNcb1iumUUN3eR"
@@ -12944,7 +13054,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 62896,
       "name": "O-T-T-E-R",
       "url": "https://open.spotify.com/track/5z8kaz3xKZJ51BBNR7AREf"
@@ -14682,7 +14792,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 172384,
       "name": "Rock Paper Scissors",
       "url": "https://open.spotify.com/track/47NW8rBrM35hszwILhoypI"
@@ -16057,6 +16167,24 @@
     },
     {
       "album": {
+        "name": "Sparkle!",
+        "url": "https://open.spotify.com/album/55q5eEBG6FWauedZhGGzRC"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180006,
+      "name": "Sparkle!",
+      "url": "https://open.spotify.com/track/0HTS1PnNolqh6ERbVP2Dfl"
+    },
+    {
+      "album": {
         "name": "Rainbow World",
         "url": "https://open.spotify.com/album/17f4iLy3L9xursZXbCv28q"
       },
@@ -16258,6 +16386,24 @@
       "duration_ms": 207103,
       "name": "Starlight Starbright",
       "url": "https://open.spotify.com/track/3SPfWqSECcugB1J2JSMRrj"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 53",
+        "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188247,
+      "name": "Stateside",
+      "url": "https://open.spotify.com/track/1ufT1mPGuqMR3p8IhUDDZk"
     },
     {
       "album": {
@@ -16500,7 +16646,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202405,
       "name": "Stronger (Peppa's Version)",
       "url": "https://open.spotify.com/track/7wuzARagxYWnZxUz6vZJqM"
@@ -17565,6 +17711,24 @@
     },
     {
       "album": {
+        "name": "The Family Tree",
+        "url": "https://open.spotify.com/album/0p4n9kgPdm2OiLajjBxXZs"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122739,
+      "name": "The Family Tree",
+      "url": "https://open.spotify.com/track/0G9R4kEYVT4yLINMrm5n8v"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 52",
         "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
       },
@@ -18548,6 +18712,24 @@
       "duration_ms": 124370,
       "name": "This is My Face",
       "url": "https://open.spotify.com/track/5c5PPNBpmWLCLQy4VLIi27"
+    },
+    {
+      "album": {
+        "name": "CoComelon Lane, Vol. 7 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/4CEv6R9CqeCVLm8B7LAxam"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "This Is The Way We Build A Float - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0EhvFemRiGSn5azqth5lkQ"
     },
     {
       "album": {
@@ -20294,7 +20476,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150453,
       "name": "What's Inside the Toybox?",
       "url": "https://open.spotify.com/track/1JuAGIYes8RiOfTMoUEDsm"
@@ -20910,7 +21092,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 119541,
       "name": "Yoga Song",
       "url": "https://open.spotify.com/track/5QEZ8kZXCtA5F3J5Dh6HAI"

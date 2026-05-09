@@ -31316,7 +31316,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 220333,
       "name": "Smiles",
       "url": "https://open.spotify.com/track/3gBEN9z6fT7zPUZ4DWN59o"
@@ -45230,6 +45230,24 @@
       "duration_ms": 263958,
       "name": "\u3082\u306e",
       "url": "https://open.spotify.com/track/0JL8LkKPoF6NsfWE00FuPt"
+    },
+    {
+      "album": {
+        "name": "\u3082\u306e\u308f\u304b\u308a\u306e\u3044\u3044\u4eba",
+        "url": "https://open.spotify.com/album/0O2grmRkV7ttHE88mvVicD"
+      },
+      "artists": [
+        {
+          "name": "\u5ca9\u5d0e\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/0Yb6qJAprge68CFUcfIYu6"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245750,
+      "name": "\u3082\u306e\u308f\u304b\u308a\u306e\u3044\u3044\u4eba",
+      "url": "https://open.spotify.com/track/1tRnMQlo3sudqlopxNyKxm"
     },
     {
       "album": {

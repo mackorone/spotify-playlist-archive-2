@@ -2,9 +2,9 @@
 
 ### [Bass Lounge](https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj)
 
-> Future & melodic bass ❤️‍🔥 featuring Virtual Riot
+> Future & melodic bass 🛸 featuring Gryffin
 
-881 songs - 2 day 4 hr 38 min
+882 songs - 2 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Frame Shift](https://open.spotify.com/track/2s0fgCwxXrT8awuqdaT5bA) | [Jade Cicada](https://open.spotify.com/artist/6HFxqZ6WaTb7TQUhNsK25o) | [Frame Shift](https://open.spotify.com/album/6Ph74ZITqgKZAZBr3xtzks) | 3:12 | 2024-12-13 | 2025-02-03 |
 | [Free](https://open.spotify.com/track/2fI8duj2PRrFtBjuZ56Ukz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Free](https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX) | 2:47 | 2025-09-05 |  |
 | [Free Again](https://open.spotify.com/track/4byboliQX2Dd8d5VIhROdt) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Free Again](https://open.spotify.com/album/35S1D6sqt5KPIQCIffwdZy) | 3:23 | 2023-04-21 | 2023-06-18 |
-| [Free Your Mind](https://open.spotify.com/track/5IfDKPGTYicNZTCScvg7wh) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF), [Kenzie Gross](https://open.spotify.com/artist/3yYjNaKj8CA20cZrf3kwxa) | [Caught In The Current EP](https://open.spotify.com/album/3abOwnzK8eqBOEQUuUZnGK) | 3:07 | 2025-04-11 |  |
+| [Free Your Mind](https://open.spotify.com/track/5IfDKPGTYicNZTCScvg7wh) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF), [Kenzie Gross](https://open.spotify.com/artist/3yYjNaKj8CA20cZrf3kwxa) | [Caught In The Current EP](https://open.spotify.com/album/3abOwnzK8eqBOEQUuUZnGK) | 3:07 | 2025-04-11 | 2026-05-09 |
 | [FRENCH DREAM](https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS) | 4:08 | 2024-06-07 | 2024-11-22 |
 | [Friends \(feat\. Linney\)](https://open.spotify.com/track/1EwVDjVhYD5ynVOYLNU65g) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Friends \(feat\. Linney\)](https://open.spotify.com/album/6QkCFMcpBdQmYIbCZHHtoh) | 3:16 | 2025-10-10 |  |
 | [From Ashes To Love](https://open.spotify.com/track/1gnYZJ13MLIRFexETWGDEo) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [From Ashes To Love](https://open.spotify.com/album/1ZDr9iC66zHjnAfaMdp3Ew) | 4:25 | 2023-02-10 | 2024-06-01 |
@@ -870,6 +870,7 @@
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
 | [Without Me](https://open.spotify.com/track/48fvMOyYDflTCbRSNJVglq) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Concrete Castles](https://open.spotify.com/artist/1Cexar57ALO1nZIiKoIUuo) | [Without Me](https://open.spotify.com/album/3UVTbzNQzm5UWhs7Hltghz) | 3:12 | 2024-02-06 | 2024-07-27 |
 | [Without You](https://open.spotify.com/track/6lx0nNHGV82zak7aO2JNWz) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Without You](https://open.spotify.com/album/28NpcJHOCvuYdr0c0DDmwF) | 4:22 | 2023-09-15 | 2025-08-10 |
+| [Without You \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Without You \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk) | 2:56 | 2026-05-08 |  |
 | [WONDER](https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj) | [WONDER](https://open.spotify.com/album/5Zc3rYRTlGvzTUaN9AYSgl) | 2:44 | 2024-12-20 | 2025-08-10 |
 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 | 2024-08-23 | 2025-08-10 |
 | [Worlds Apart](https://open.spotify.com/track/4tUX1aYiThsz8JBrq7Tfj5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Worlds Apart](https://open.spotify.com/album/5NlYWL5uGUoCnoEwTIqSsa) | 2:46 | 2025-03-29 |  |

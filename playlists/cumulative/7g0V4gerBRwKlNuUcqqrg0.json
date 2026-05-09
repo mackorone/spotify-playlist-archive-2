@@ -3009,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "Waar Ben Jij",
+        "url": "https://open.spotify.com/album/6hlHpnyjty0fwvPT3Ro7Fp"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223588,
+      "name": "Waar Ben Jij",
+      "url": "https://open.spotify.com/track/5MfppCV3LbvXdQV6UXx7Xp"
+    },
+    {
+      "album": {
         "name": "Wacht Op Mij",
         "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
       },

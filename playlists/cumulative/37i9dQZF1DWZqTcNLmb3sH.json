@@ -20513,6 +20513,36 @@
     },
     {
       "album": {
+        "name": "Kadak Maal (From \"Mango Pachcha\")",
+        "url": "https://open.spotify.com/album/4Cg9xQSCyNr0fdXODtEKPe"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Pavan Sadhak",
+          "url": "https://open.spotify.com/artist/4DBOw4KYrtv6oywAEYE5hI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Kadak Maal (From \"Mango Pachcha\")",
+      "url": "https://open.spotify.com/track/3NSGztwAW5NLu0QLvkfw1T"
+    },
+    {
+      "album": {
         "name": "9 Sullu Kathegalu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1t5FsnyyDLJOJZHKq6BCV2"
       },
@@ -41420,7 +41450,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 266972,
       "name": "Sikkare Sikkare (From \"Life Today\")",
       "url": "https://open.spotify.com/track/75sZa5R4ew9UraNgAWr6CB"

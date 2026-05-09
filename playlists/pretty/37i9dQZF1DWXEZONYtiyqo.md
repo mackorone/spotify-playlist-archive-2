@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Eva Timush
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,853 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,867 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [mp3.](https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh) | 0:00 |
+| 1 | [Serial Killer](https://open.spotify.com/track/2oyoOJW6rVBElL29gRVKj7) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [mp3.](https://open.spotify.com/album/2WBW0J3POnRLGisvVp7Fkh) | 2:21 |
 | 2 | [Apus de soare](https://open.spotify.com/track/6Xy52ktg6FlcuLueKHUNzf) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Apus de soare](https://open.spotify.com/album/5yCUtIrrw70tgDcubK8nys) | 2:57 |
 | 3 | [Mor după tine](https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mor după tine](https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K) | 2:17 |
 | 4 | [Sexy](https://open.spotify.com/track/7tXT5UAE0PpUdeHGsfumW7) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Sexy](https://open.spotify.com/album/6ThmwbTVi9mBtsBFRRSuum) | 2:51 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5689,
+  "num_followers": 5699,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAK8vDC8vDz39Hy08uH6KKc",
+  "snapshot_id": "afvWAAAAAADTSI6Msp5WpITt+KWfsZ2T",
   "tracks": [
     {
       "added_at": null,
@@ -271,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+        "name": "Instrucciones Para Ser Feliz",
+        "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
       },
       "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 227053,
-      "name": "A Tiempo",
-      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
+      "duration_ms": 149312,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
     },
     {
       "added_at": null,
@@ -299,6 +303,22 @@
       "duration_ms": 166875,
       "name": "La Colombiana",
       "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 227053,
+      "name": "A Tiempo",
+      "url": "https://open.spotify.com/track/0l7o1qoJ754BKRlH7uBf2q"
     },
     {
       "added_at": null,
@@ -335,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrucciones Para Ser Feliz",
-        "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 149312,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Submarino",
-      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 207946,
       "name": "Pendejada feat. Mabiland",
       "url": "https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Submarino",
+      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 147490,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 147490,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juliana",
         "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 175286,
       "name": "Presiento",
       "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 208090,
+      "name": "Coraz\u00f3n en Crisis",
+      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
       "duration_ms": 179820,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 208090,
-      "name": "Coraz\u00f3n en Crisis",
-      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
     },
     {
       "added_at": null,

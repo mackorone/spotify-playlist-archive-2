@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,001 songs - 2 day 12 hr 43 min
+1,003 songs - 2 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [How Will We Turn Out?](https://open.spotify.com/track/4ERRwUZX0RlrRqOfsZdCJE) | [The Motifs](https://open.spotify.com/artist/4DMtkuaW5UoOXwNLJey0r3) | [I'm the One You Love...](https://open.spotify.com/album/4KhCaWzxeX8qIMlv6Xpwc0) | 2:36 | 2024-10-30 | 2024-11-14 |
 | [Hydra](https://open.spotify.com/track/3VNAzep1H7LuLJWWd7oeVX) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Peel Sessions](https://open.spotify.com/album/4GdnUQHVxyRlZpJJ6xIi07) | 4:01 | 2026-02-22 | 2026-03-13 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2025-04-10 | 2025-05-09 |
+| [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 | 2026-05-08 |  |
 | [I B Yours](https://open.spotify.com/track/6fDyAzbpFIEyE9g4LoqlDD) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 4:14 | 2025-01-26 | 2025-03-02 |
 | [I Can Dream](https://open.spotify.com/track/56NDW2C9TPog81aDwasskH) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Half Price at 3:30](https://open.spotify.com/album/7hMopyoxOXaZuKhSKKclUC) | 3:57 | 2024-06-12 | 2024-07-12 |
 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:22 | 2024-04-20 | 2024-05-16 |
@@ -416,6 +417,7 @@
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-08 | 2024-03-10 |
 | [Idiot In The Park](https://open.spotify.com/track/4t5LaEd5Q3J6BBmSoIZP3F) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 3:19 | 2025-08-23 | 2025-09-11 |
 | [If I Am](https://open.spotify.com/track/7vO8kQ5RVYQdmdApypvjAi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [If I Am](https://open.spotify.com/album/6SRNDhfOZNAKR1d9qkYARJ) | 2:22 | 2024-11-17 | 2025-01-12 |
+| [If Lady Does It](https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:12 | 2026-05-08 |  |
 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 | 2025-03-09 | 2025-05-09 |
 | [Illuminated](https://open.spotify.com/track/1JztDxD2ZZbobc8jpQHI1n) | [Arto Lindsay](https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF) | [Encyclopedia of Arto](https://open.spotify.com/album/55nZEg76zaFu1xLEU8MAgz) | 3:38 | 2025-09-16 | 2025-11-15 |
 | [Images](https://open.spotify.com/track/1uaY7sON2Hi95MRVnWmZ0v) | [Mikey Enwright](https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn) | [Images](https://open.spotify.com/album/1ZijTOVIDEYinWZ9Wy0JRk) | 2:59 | 2024-04-25 | 2024-05-16 |

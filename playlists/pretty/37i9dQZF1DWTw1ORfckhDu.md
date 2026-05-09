@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,429 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,424 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 5 | [Mun City \(feat\. Elastinen\)](https://open.spotify.com/track/3zCADw2BvaqbSb5EAMfO9v) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Mun City \(feat\. Elastinen\)](https://open.spotify.com/album/4zFv894pEq3UEdQfAWuJMz) | 2:14 |
 | 6 | [Mannerheim](https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 2:48 |
 | 7 | [Poitsu](https://open.spotify.com/track/5W14lDIUvUFfHtuC2JabRu) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Poitsu](https://open.spotify.com/album/63mnly1kjGNJyXMb2fp7hV) | 2:31 |
-| 8 | [Poikaystävä](https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Poikaystävä](https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF) | 2:19 |
-| 9 | [Tyhjää](https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Tyhjää](https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192) | 2:13 |
+| 8 | [Tyhjää](https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Tyhjää](https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192) | 2:13 |
+| 9 | [Poikaystävä](https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Poikaystävä](https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF) | 2:19 |
 | 10 | [Reiluu](https://open.spotify.com/track/5aYkP4rn8xiLPKzQT57qce) | [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee), [Hukas](https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf) | [Reiluu](https://open.spotify.com/album/63MioOhUpARMl3Bk4tqUof) | 2:26 |
 | 11 | [MALIBU](https://open.spotify.com/track/2R28PFx1v4P3V2LBjRzzR3) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [MALIBU](https://open.spotify.com/album/4kxfsGfEsTFutA8S78riAr) | 2:47 |
 | 12 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 37 | [tää ei vaan oo sulle](https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [tää ei vaan oo sulle](https://open.spotify.com/album/768j9sCaqohBMnuDgmKc6u) | 2:25 |
 | 38 | [Mr Nice Guy](https://open.spotify.com/track/1CsetC97QEMS2pLWPsZSAc) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [The Chemodan](https://open.spotify.com/artist/6kHqXdtT1ojaXisSUA4mby) | [Mr Nice Guy](https://open.spotify.com/album/2VqOCv4B0TT1wvj67aSqEX) | 2:34 |
 | 39 | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Fake Love \(feat\. Sicario Jr\)](https://open.spotify.com/album/3ppByEXeXULRFFXYhflemr) | 2:38 |
-| 40 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |
-| 41 | [YLHÄÄL JA ALHAAL](https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo) | [VITUN ISO ROTSI](https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv), [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Käsipuoli](https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU) | [YLHÄÄL JA ALHAAL](https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb) | 2:37 |
+| 40 | [YLHÄÄL JA ALHAAL](https://open.spotify.com/track/74f1QXdjm1K48LP3Ad7CRo) | [VITUN ISO ROTSI](https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv), [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Käsipuoli](https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU) | [YLHÄÄL JA ALHAAL](https://open.spotify.com/album/1YIkfXlSAehrQYitabH0Mb) | 2:37 |
+| 41 | [HENKIVAKUUS](https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OBJ / HENKIVAKUUS](https://open.spotify.com/album/74pox3WjGLeYTUv83zA4fK) | 2:11 |
 | 42 | [Hämmästyttävää \(feat\. Hukas\)](https://open.spotify.com/track/7hewnnWdbcbUWh7erWsGpK) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Hukas](https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf) | [Hämmästyttävää / Myönnä](https://open.spotify.com/album/2SU66jDtApUFcTFNf6IZ5d) | 2:45 |
 | 43 | [Hudano x OFF THE BOOTH \(Hundow Section\)](https://open.spotify.com/track/1CFYlGAFt4MiJmrLaj4WmY) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Hudano](https://open.spotify.com/artist/5osTJ60y6Z6sZUFXAF3A19) | [Hudano x OFF THE BOOTH \(Hundow Section\)](https://open.spotify.com/album/1szqMdXFX9zTGztvRFdzdT) | 3:08 |
 | 44 | [Ringside](https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Ringside](https://open.spotify.com/album/6unsEZgvoHkSk8LyvVRhuc) | 2:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 47 | [Turvasatama](https://open.spotify.com/track/3a44ANm1GszUeUDe3sDa7k) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Turvasatama](https://open.spotify.com/album/4oDeKn7NHJTURvQQAsdFX1) | 2:22 |
 | 48 | [Sä Kannoit Mua](https://open.spotify.com/track/7LF0RYLBxYCWrkHqhDTDVl) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Kristiina Brask](https://open.spotify.com/artist/5L0xsQmR0XRypu4bkbyoz9) | [Sä Kannoit Mua](https://open.spotify.com/album/5p3AJrgUcHGQ4RfD3AAV6K) | 4:12 |
 | 49 | [Mikä diili ?](https://open.spotify.com/track/0mrfIQ6eWa2YatHnzI5Sb0) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Mikä diili ?](https://open.spotify.com/album/1NzQNEtKYOT918g1wN5nCl) | 3:32 |
-| 50 | [Harhakuva](https://open.spotify.com/track/1SEZl6iA6FXsGwqZyHWuEZ) | [Nyrkki\-Kyllikki](https://open.spotify.com/artist/5Vptno5IcVmVtIKqb6jd7F) | [Harhakuva](https://open.spotify.com/album/2p9km079Xz8EhfvQgGlAkx) | 3:02 |
+| 50 | [mä <3 mä](https://open.spotify.com/track/6dPFo2kfpysF2bgpVj5cvf) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [mä <3 mä](https://open.spotify.com/album/5ZRhPtui7bSrPJqHiRFz6H) | 2:31 |
 
 Snapshot ID: `AAAAAC3Iu/Nw5uetszW5ZRYUyJH/+Lo2`

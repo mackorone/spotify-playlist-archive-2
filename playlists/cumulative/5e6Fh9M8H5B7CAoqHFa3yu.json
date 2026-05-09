@@ -8785,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "DOG DAG BAU BAU",
+        "url": "https://open.spotify.com/album/6CLNMEMnfF1OgvLo9Sbjwq"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126904,
+      "name": "DOG DAG BAU BAU",
+      "url": "https://open.spotify.com/track/4V9lYkf9gujT8zaRiUInXZ"
+    },
+    {
+      "album": {
         "name": "Dolomiti Soul",
         "url": "https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR"
       },
@@ -19964,6 +19982,28 @@
       "duration_ms": 193268,
       "name": "Last Chance - Dub",
       "url": "https://open.spotify.com/track/2ae3Yjpstd6kq9Ss0ZWOXd"
+    },
+    {
+      "album": {
+        "name": "Hello Wrld",
+        "url": "https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC"
+      },
+      "artists": [
+        {
+          "name": "$T Money$",
+          "url": "https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4"
+        },
+        {
+          "name": "Luh Rocket Bang",
+          "url": "https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159855,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7tnhmN304sF7ezswPDklxP"
     },
     {
       "album": {

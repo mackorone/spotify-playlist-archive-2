@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,502 likes - 403 songs - 22 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,506 likes - 403 songs - 22 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 190 | [Send Me A Picture](https://open.spotify.com/track/5Rb2UR9gKQ0FaySYbsr4Xy) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:35 |
 | 191 | [How Did We](https://open.spotify.com/track/6sVMWWwqpVRA6KD8Jb1YTB) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [Everything, Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vCnfRymNflFa4Zx9mZCwZ) | 3:43 |
 | 192 | [Lying To You](https://open.spotify.com/track/5WEFOKbWxFlEYG0gGKmhjo) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:27 |
-| 193 | [You're My Favorite](https://open.spotify.com/track/6MluqlVvOmetSUiwZRoQzM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 2:56 |
-| 194 | [Tied to You \(feat\. Justin Tranter\)](https://open.spotify.com/track/07J6tb56U6KWPDsqoiOuIv) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Justin Tranter](https://open.spotify.com/artist/3D7L8f9VRhsXHHNPiTBioz) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:20 |
+| 193 | [Tied to You \(feat\. Justin Tranter\)](https://open.spotify.com/track/07J6tb56U6KWPDsqoiOuIv) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Justin Tranter](https://open.spotify.com/artist/3D7L8f9VRhsXHHNPiTBioz) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:20 |
+| 194 | [You're My Favorite](https://open.spotify.com/track/6MluqlVvOmetSUiwZRoQzM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 2:56 |
 | 195 | [War Paint](https://open.spotify.com/track/7FzMcPwWshq9KvSJCgycHv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:44 |
 | 196 | [My Best Friend's Weddings](https://open.spotify.com/track/6LxBEoDS5uUGZ6aAovHuvc) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:18 |
 | 197 | [Truth](https://open.spotify.com/track/5aB3hpEAE1hDSQ2wZdrtsi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:34 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 213 | [Touch Myself](https://open.spotify.com/track/5pLF4Gf07VZTg8QqX3wDHi) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings](https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ) | 3:09 |
 | 214 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
 | 215 | [Good Day To Have A Great Day](https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Good Day To Have A Great Day](https://open.spotify.com/album/1VY1VTUW4pUigvEKOBwJex) | 3:01 |
-| 216 | [I Still Do](https://open.spotify.com/track/1LZZo0JZZ65g5VN3FR0qw4) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 3:09 |
-| 217 | [Bully](https://open.spotify.com/track/1p5qUDJr3cuyh1X3H1ToeS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:13 |
+| 216 | [Bully](https://open.spotify.com/track/1p5qUDJr3cuyh1X3H1ToeS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:13 |
+| 217 | [I Still Do](https://open.spotify.com/track/1LZZo0JZZ65g5VN3FR0qw4) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 3:09 |
 | 218 | [Words](https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:38 |
 | 219 | [Edibles.](https://open.spotify.com/track/5pMXGENa0LbcXSNXDeWHMb) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:49 |
 | 220 | [Young Man](https://open.spotify.com/track/3Dp2kZ4749xnDo1DTpRvMM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:09 |
@@ -344,8 +344,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 334 | [More](https://open.spotify.com/track/2QV01elahKsS8dhNO0BNCT) | [Maria Z](https://open.spotify.com/artist/7tbZXUnNoZJYdn7uMYzxEq) | [Two Fifty Two](https://open.spotify.com/album/6YroKoqcfDt6EvAm5LbpWU) | 2:53 |
 | 335 | [The End Is Now](https://open.spotify.com/track/3dyEfrSncBi1RPk9pASrwY) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/7CUOT7Gu8DnqK9UsOOYdLS) | 3:58 |
 | 336 | [Keisha Complexion](https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Keisha Complexion](https://open.spotify.com/album/2F8Fdmv6gXkewLOgTWD57R) | 3:18 |
-| 337 | [Good Pressure](https://open.spotify.com/track/4b0kEZNJuWwS8bXFsxCERP) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Seen It All](https://open.spotify.com/album/74HQxS0XPt6DKTGBMYn7EN) | 3:10 |
-| 338 | [Cinnamon](https://open.spotify.com/track/1S74z8DNPyyZlN2xs3OpgD) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:09 |
+| 337 | [Cinnamon](https://open.spotify.com/track/1S74z8DNPyyZlN2xs3OpgD) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:09 |
+| 338 | [Good Pressure](https://open.spotify.com/track/4b0kEZNJuWwS8bXFsxCERP) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Seen It All](https://open.spotify.com/album/74HQxS0XPt6DKTGBMYn7EN) | 3:10 |
 | 339 | [Look To The Stars](https://open.spotify.com/track/3tMX0VFh3k3gFPOLZkIkQg) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 4:34 |
 | 340 | [Mind Blown \(feat\. Future, Waka Flocka\)](https://open.spotify.com/track/6TBboQO46XROTn2NNtZRER) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Different World](https://open.spotify.com/album/6WtNWoJQqSWkha9uv8Qst5) | 4:17 |
 | 341 | [LIME \(I'm So\)](https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [LIME \(I'm So\)](https://open.spotify.com/album/0aprCwpiI13bDJeQ5JRL40) | 2:10 |
@@ -412,4 +412,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 402 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 403 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcQ4/AAAAADKLTyrVkAIzrXHiyPVa9Pu`
+Snapshot ID: `AcQ+nAAAAAAcMb1Mf3kwTdq3hRQqGqNw`

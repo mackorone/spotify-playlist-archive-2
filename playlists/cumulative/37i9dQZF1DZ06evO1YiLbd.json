@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u6f06",
+        "url": "https://open.spotify.com/album/0ucLLOtixqZbos8Si4DqV9"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Fruzel Cardeneia",
+      "url": "https://open.spotify.com/track/77TFlCNN1Hx4AFq09FseXc"
+    },
+    {
+      "album": {
         "name": "\u300eMy Hero Academia: Vigilantes\u300fOriginal Soundtrack",
         "url": "https://open.spotify.com/album/2VMxBBULdDPTebig7v0oX9"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 232666,
       "name": "Next, it's our turn!",
       "url": "https://open.spotify.com/track/6TajSVdj5kaPGQ8ucMhM6V"
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 78680,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 132866,
       "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
       "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"

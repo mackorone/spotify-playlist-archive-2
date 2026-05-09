@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Patricia Mage, Die Mannequin, The Donnas and more",
+  "description": "With Die Mannequin, The Donnas, Patricia Mage and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Beat Me Up",
       "url": "https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 230480,
       "name": "Become a Star",
       "url": "https://open.spotify.com/track/0AkU8bq2NoY9ykLlTCeq1m"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Bite Your Kiss - Single",
+        "url": "https://open.spotify.com/album/589DTf3yQ810bueqCC3dTO"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Bite Your Kiss",
+      "url": "https://open.spotify.com/track/5QsheJokkVxMHE560aBZJN"
+    },
+    {
+      "album": {
         "name": "smartsass",
         "url": "https://open.spotify.com/album/5UFD98AJL2DSFNcmGWjmUc"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 218504,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/7zQh6nveBLiJqy6BgIAZZW"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205401,
       "name": "Bright Side",
       "url": "https://open.spotify.com/track/1iz0iPGl5wBK440W2ceXFe"
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 216461,
       "name": "doghouse",
       "url": "https://open.spotify.com/track/2Qpq2tED2PFhkF7V01c2XM"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 243281,
       "name": "Doll",
       "url": "https://open.spotify.com/track/6nxxyAxIg1B4RAaWg09j0C"
@@ -2044,6 +2062,24 @@
       "duration_ms": 170399,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7J8MjmBpR2g4NAgg4GEueW"
+    },
+    {
+      "album": {
+        "name": "Lessons To Be Learned",
+        "url": "https://open.spotify.com/album/24mdmYfLkOYeM65OVV97Iz"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Don't Wanna Go To Bed Now - New Version",
+      "url": "https://open.spotify.com/track/00914fQv9854t2yzDKp8QI"
     },
     {
       "album": {
@@ -2364,7 +2400,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 168855,
       "name": "Hell and Everything Between",
       "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
@@ -3200,7 +3236,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -3218,7 +3254,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 209386,
       "name": "Hey School Boy",
       "url": "https://open.spotify.com/track/6nuLMQ9g3NAObKgdZ9YLbu"
@@ -3366,7 +3402,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183048,
       "name": "Hourglass Sand",
       "url": "https://open.spotify.com/track/7GKsGHwrYYeocWOImH1CMU"
@@ -3676,7 +3712,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166588,
       "name": "I DONT WANT YOU",
       "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
@@ -4314,7 +4350,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 125831,
       "name": "Last Message",
       "url": "https://open.spotify.com/track/3iezZMzkcKTzZk31ggXVxE"
@@ -5064,7 +5100,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 180022,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/5XVGaEkX15Rza4c9L6p2GN"
@@ -5154,7 +5190,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -5381,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/4rCvO4SvFd81ISFZqgxT22"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Flow play",
+          "url": "https://open.spotify.com/artist/7p81FYSyyDdu5zi0a3eSy7"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153293,
+      "name": "No Shame",
+      "url": "https://open.spotify.com/track/44a2Gxxj1yZB71GdGzJeJJ"
+    },
+    {
+      "album": {
         "name": "\"This Isn't Real\" Mixtape",
         "url": "https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ"
       },
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 227681,
       "name": "Not Cool With It",
       "url": "https://open.spotify.com/track/5npbs2bidYyfRqE6SpPIcD"
@@ -5561,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "Snakehouse",
+        "url": "https://open.spotify.com/album/6OI9XpMYaADDjf2Wd81eVM"
+      },
+      "artists": [
+        {
+          "name": "The Cliks",
+          "url": "https://open.spotify.com/artist/6a0bu1Ny5ju60p348R5jwc"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/4v8kjJp1Edvtlimosy7nNF"
+    },
+    {
+      "album": {
         "name": "On My Wave",
         "url": "https://open.spotify.com/album/5OaCwkYRMkpAKt3kcjICFn"
       },
@@ -5630,6 +5702,24 @@
       "duration_ms": 198959,
       "name": "One Bad Bitch",
       "url": "https://open.spotify.com/track/5r58Ylbb1PRTCVkAJ4N3uL"
+    },
+    {
+      "album": {
+        "name": "Holy Smoke",
+        "url": "https://open.spotify.com/album/0YSYH2O7M9HwAE7ZSd9dKu"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156880,
+      "name": "One Last Look",
+      "url": "https://open.spotify.com/track/4U6TFI3BWvYy1REXC2EeTs"
     },
     {
       "album": {
@@ -6058,7 +6148,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -6328,7 +6418,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 218200,
       "name": "Rich and Filthy",
       "url": "https://open.spotify.com/track/5VEDnh2r5F5st6psB40wdf"
@@ -6674,7 +6764,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184848,
       "name": "So Many Bullets",
       "url": "https://open.spotify.com/track/1hshqnEYT4A3dX1UVvtyQO"
@@ -6818,7 +6908,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -6948,7 +7038,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 182786,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/61hpwV8EiNGOHCgkSL3cxc"
@@ -7168,7 +7258,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 133773,
       "name": "The Gold Medal",
       "url": "https://open.spotify.com/track/0eCumdc2LPmsI0XSsqNlAY"
@@ -7186,7 +7276,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -7464,7 +7554,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 192560,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/5ypKgGv59JUNgZAkomGo1V"
@@ -7968,7 +8058,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -8058,7 +8148,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "Whyyawannabringmedown",
       "url": "https://open.spotify.com/track/1jGNjpHdQVaMBeSnpCv5Jy"
@@ -8170,6 +8260,24 @@
       "duration_ms": 223530,
       "name": "You don't answer your phone",
       "url": "https://open.spotify.com/track/5ikq1d9lj9zxxzdYeFhSY9"
+    },
+    {
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/4CaDpxdeAQMrhuS5jBfEhE"
+      },
+      "artists": [
+        {
+          "name": "Allison Iraheta",
+          "url": "https://open.spotify.com/artist/48E5csclQ92SrzSRQmEeC4"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154386,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/5rmvHsh0W46tZWioPDNlwa"
     },
     {
       "album": {

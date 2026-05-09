@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,333 likes - 48 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,413 likes - 48 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CADDEBOSTAN](https://open.spotify.com/track/3SYOo45VXHJyoacpLQVEfb) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:02 |
 | 2 | [\#işbirliği](https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 1:59 |
-| 3 | [alışmak zor](https://open.spotify.com/track/76vHk22vx3DI1StPdIgN10) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Waxy](https://open.spotify.com/artist/1qkM9IWEp394cxqKcO1wex) | [alışmak zor](https://open.spotify.com/album/1hIt5OIABG2HuN9UhaYaxQ) | 2:12 |
+| 3 | [alışmak zor](https://open.spotify.com/track/76vHk22vx3DI1StPdIgN10) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Waxy](https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi) | [alışmak zor](https://open.spotify.com/album/1hIt5OIABG2HuN9UhaYaxQ) | 2:12 |
 | 4 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
 | 5 | [Yoktu](https://open.spotify.com/track/60ElzXtShuFeEEvNrLsEsd) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Yoktu](https://open.spotify.com/album/3WpXJvWZCPVs1H4WlqTl0y) | 2:18 |
 | 6 | [Sevdin mi en berbat halimi?](https://open.spotify.com/track/2hsJGGz9VifPmGvYX5lDIa) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Duru](https://open.spotify.com/artist/30f7VIGbxoWl9QzGj9HJql) | [Sevdin mi en berbat halimi?](https://open.spotify.com/album/0Kqwg92cX4pSxVvmVxfjKE) | 2:45 |

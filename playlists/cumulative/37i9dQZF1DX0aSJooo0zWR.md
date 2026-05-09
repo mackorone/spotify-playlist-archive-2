@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-174 songs - 16 hr 42 min
+175 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bismillah Bebop](https://open.spotify.com/track/10QbQoe99MuYC23CZIFbhs) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Bismillah Bebop](https://open.spotify.com/album/5egX3imy3hgSB4k4FyGDfo) | 2:26 | 2023-08-14 |  |
 | [Black Cat Shuffle](https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Electric Rendezvous](https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi) | 3:00 | 2021-02-12 |  |
 | [Black Market](https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Black Market](https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd) | 6:30 | 2021-02-12 |  |
+| [blue](https://open.spotify.com/track/495YLDmUD0s9rRjfeLeKwx) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [1000](https://open.spotify.com/album/4ErALntKQwa4uxLpMUWzVi) | 5:05 | 2026-05-08 |  |
 | [Blue Macaw](https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Blue Macaw](https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU) | 4:34 | 2021-10-29 |  |
 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 | 2021-02-12 |  |
 | [Blues for Tony](https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Jimmy Haslip](https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb), [Chad Wackerman](https://open.spotify.com/artist/3L0mpjwIigLw233miBhjEm) | [Blues for Tony](https://open.spotify.com/album/6qcxk9oihNAODxDkVBV8kS) | 11:12 | 2021-02-12 | 2024-04-19 |

@@ -7224,7 +7224,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 168000,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/2bbMeEUhF9uiFSONDUBMWr"
@@ -17976,6 +17976,24 @@
       "duration_ms": 288306,
       "name": "Slave Mill",
       "url": "https://open.spotify.com/track/4hvhYBWFbNfBHk5OGAFqmw"
+    },
+    {
+      "album": {
+        "name": "SLiDE",
+        "url": "https://open.spotify.com/album/5Vs1bARehxJBSjPYy1piOj"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182545,
+      "name": "SLiDE",
+      "url": "https://open.spotify.com/track/3jfWO9owdGpkNFq0gtHszK"
     },
     {
       "album": {

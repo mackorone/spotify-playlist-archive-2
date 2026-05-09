@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Triggerfinger",
+  "description": "Nieuwe alternative & rock releases. Cover: Eloi Youssef",
   "name": "New Alternative",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 241100,
       "name": "2515",
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
+    },
+    {
+      "album": {
+        "name": "5 YEAR PLAN",
+        "url": "https://open.spotify.com/album/3OBUJYvFujaztYbD8PqJFQ"
+      },
+      "artists": [
+        {
+          "name": "BERTHAJU",
+          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "5 YEAR PLAN",
+      "url": "https://open.spotify.com/track/4jit6ooqU6veoMQ7L0exFW"
     },
     {
       "album": {
@@ -971,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Argument",
+        "url": "https://open.spotify.com/album/7mP1uHPvTKtPNfCaj0od4k"
+      },
+      "artists": [
+        {
+          "name": "Kameyo",
+          "url": "https://open.spotify.com/artist/1UWl04dBeDTvbXxxfvE5X8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184639,
+      "name": "Argument",
+      "url": "https://open.spotify.com/track/6ywMzvO67KZ2wh1ZUrYXCe"
+    },
+    {
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU"
       },
@@ -1483,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Big Dog",
+        "url": "https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX"
+    },
+    {
+      "album": {
         "name": "Big Dreams",
         "url": "https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL"
       },
@@ -1938,6 +1992,24 @@
       "duration_ms": 143600,
       "name": "Busman",
       "url": "https://open.spotify.com/track/5AIJbLjMulhq1IT8Do7Aep"
+    },
+    {
+      "album": {
+        "name": "Call It In",
+        "url": "https://open.spotify.com/album/4yZfZba6ljI8hxYge9Awf2"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213794,
+      "name": "Call It In",
+      "url": "https://open.spotify.com/track/6g5oAr4QtYRYOdWUihyiK4"
     },
     {
       "album": {
@@ -2638,7 +2710,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 203060,
       "name": "Cold Sun",
       "url": "https://open.spotify.com/track/0R03DkSad23jyYw6lecBsG"
@@ -2656,7 +2728,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 210021,
       "name": "Coltrane & XTC",
       "url": "https://open.spotify.com/track/3Mc3jLtz7VddclKW6waMoY"
@@ -3020,7 +3092,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 219986,
       "name": "Dance The Pain Away",
       "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
@@ -3392,7 +3464,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 164913,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/5yIw0En27egoFDElyJULwH"
@@ -3720,7 +3792,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 169373,
       "name": "Dracula_",
       "url": "https://open.spotify.com/track/5XcXhHt2riVDm3htIIwnM6"
@@ -4314,7 +4386,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 135730,
       "name": "Flinch",
       "url": "https://open.spotify.com/track/1a6WaZ08ESI5JibXxKqYzo"
@@ -4466,6 +4538,24 @@
       "duration_ms": 205155,
       "name": "For the Better",
       "url": "https://open.spotify.com/track/6JzfYu6EOgqmGRFF64undK"
+    },
+    {
+      "album": {
+        "name": "Boys Cry Too",
+        "url": "https://open.spotify.com/album/1dNC3LocONxgz5YiSE6yzG"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "forget me",
+      "url": "https://open.spotify.com/track/4NiS0gmFzaou8wBy9AnxeE"
     },
     {
       "album": {
@@ -5234,7 +5324,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147186,
       "name": "Heart Out",
       "url": "https://open.spotify.com/track/48Vck5TbJhVFKWtE8NftiS"
@@ -5562,6 +5652,24 @@
       "duration_ms": 223124,
       "name": "Hit My Head All Day - Edit",
       "url": "https://open.spotify.com/track/271A8RDdBhRCOo8mHtyrNB"
+    },
+    {
+      "album": {
+        "name": "Hold Me (Mantra)",
+        "url": "https://open.spotify.com/album/6DofcBKOe3Cf4Z0wgdkWdC"
+      },
+      "artists": [
+        {
+          "name": "Eloi Youssef",
+          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "Hold Me (Mantra)",
+      "url": "https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg"
     },
     {
       "album": {
@@ -6700,7 +6808,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
@@ -7847,6 +7955,24 @@
     },
     {
       "album": {
+        "name": "Maintained Love",
+        "url": "https://open.spotify.com/album/7eS4jH7Wv2KH03M6ts7spF"
+      },
+      "artists": [
+        {
+          "name": "Mauro Pawlowski",
+          "url": "https://open.spotify.com/artist/2PkKZewLFg57QduOcj97NQ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Maintained Love",
+      "url": "https://open.spotify.com/track/1ePjZbeDuE2UhK9cOGlzbL"
+    },
+    {
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv"
       },
@@ -7880,6 +8006,24 @@
       "duration_ms": 192186,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/1EDoiOif8rHbeeR5zHfUqf"
+    },
+    {
+      "album": {
+        "name": "Make It Rain (27 Tapes)",
+        "url": "https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395370,
+      "name": "Make It Rain - 27 Tapes",
+      "url": "https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn"
     },
     {
       "album": {
@@ -9115,6 +9259,24 @@
     },
     {
       "album": {
+        "name": "okaydokay_",
+        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
+      },
+      "artists": [
+        {
+          "name": "Magazines",
+          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160517,
+      "name": "okaydokay_",
+      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
+    },
+    {
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/1esrwMzV3jEz0760LlIFU6"
       },
@@ -9893,6 +10055,24 @@
     },
     {
       "album": {
+        "name": "Punch Drunk Love",
+        "url": "https://open.spotify.com/album/3gdjfeujw5iMPpPfIN8Ryw"
+      },
+      "artists": [
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202056,
+      "name": "Punch Drunk Love",
+      "url": "https://open.spotify.com/track/4Wjkr8CJNktlfHz3iA2Dwu"
+    },
+    {
+      "album": {
         "name": "\u2060\u2060Q&A with Myself",
         "url": "https://open.spotify.com/album/2CpsLBoJm2fNEeHVmJjrG9"
       },
@@ -10344,7 +10524,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 250044,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9"
@@ -11972,7 +12152,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 192125,
       "name": "Sunny Day (Deadline)",
       "url": "https://open.spotify.com/track/14BHhhBdtJS4wTHuX3L4Co"
@@ -12084,6 +12264,24 @@
       "duration_ms": 185915,
       "name": "Switch Over",
       "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+    },
+    {
+      "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215375,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
     },
     {
       "album": {
@@ -12224,7 +12422,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 190631,
       "name": "Tardigrades",
       "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
@@ -12743,6 +12941,24 @@
     },
     {
       "album": {
+        "name": "The Last Day",
+        "url": "https://open.spotify.com/album/3OSA0tuOuO9idSIs1JvjZi"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198475,
+      "name": "The Last Day",
+      "url": "https://open.spotify.com/track/2o83HgqlvV0MAidC4wSdip"
+    },
+    {
+      "album": {
         "name": "The Palace",
         "url": "https://open.spotify.com/album/5zXhsrNS994uhqarZGlbaR"
       },
@@ -12886,6 +13102,24 @@
       "duration_ms": 343655,
       "name": "The Others",
       "url": "https://open.spotify.com/track/30J1M6E3h8s6fMKCJ7GbFX"
+    },
+    {
+      "album": {
+        "name": "The Payoff",
+        "url": "https://open.spotify.com/album/5w0KujrYWAir96O9ZhCW1Q"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351536,
+      "name": "The Payoff",
+      "url": "https://open.spotify.com/track/3jPynNG4zK7VbbWrnbQYib"
     },
     {
       "album": {
@@ -14820,7 +15054,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 234971,
       "name": "you and forever",
       "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
@@ -14896,7 +15130,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"

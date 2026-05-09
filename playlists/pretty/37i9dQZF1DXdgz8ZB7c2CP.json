@@ -1,48 +1,28 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\uddd1\u200d\ud83e\ude70 featuring jigitz",
-  "num_followers": 844557,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udd4a\ufe0f featuring nimino",
+  "num_followers": 844540,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAuiCKz6OtLt8rdggbqB4yOb4XVC",
+  "snapshot_id": "AAAAAKqogsJjE6NIgzCWt//6F3pgCH2n",
   "tracks": [
     {
-      "added_at": "2026-04-24 04:02:20",
+      "added_at": "2026-05-08 04:04:13",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
         }
       ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-03-27 04:00:17",
@@ -65,6 +45,42 @@
       "url": "https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn"
     },
     {
+      "added_at": "2026-04-24 04:02:20",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "\"Not Found\" (EP)",
+        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
+    },
+    {
       "added_at": "2026-05-01 04:02:39",
       "album": {
         "name": "Gloss (feat. y3kfae)",
@@ -83,6 +99,90 @@
       "duration_ms": 112325,
       "name": "Gloss (feat. y3kfae)",
       "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+    },
+    {
+      "added_at": "2026-03-20 15:46:35",
+      "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-04-10 04:03:08",
+      "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/3pExh5ZPT1vAgNpHUgSaRD"
+      },
+      "artists": [
+        {
+          "name": "2XT",
+          "url": "https://open.spotify.com/artist/3l5WfQg5rEqCbvLZSyuvVi"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/3qKmaSnePGCYCfybNDuxG1"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "turbine / frog",
+        "url": "https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz"
+      },
+      "artists": [
+        {
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
+        }
+      ],
+      "duration_ms": 154167,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
+    },
+    {
+      "added_at": "2026-01-16 19:10:38",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "don't call",
+        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+      },
+      "artists": [
+        {
+          "name": "bufr.",
+          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
+        }
+      ],
+      "duration_ms": 110139,
+      "name": "don't call",
+      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
     },
     {
       "added_at": "2026-04-17 04:04:00",
@@ -105,36 +205,24 @@
       "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
     },
     {
-      "added_at": "2026-05-01 04:02:39",
+      "added_at": "2026-05-08 04:04:13",
       "album": {
-        "name": "don't call",
-        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+        "name": "Ur Way",
+        "url": "https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu"
       },
       "artists": [
         {
-          "name": "bufr.",
-          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
-        }
-      ],
-      "duration_ms": 110139,
-      "name": "don't call",
-      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
-    },
-    {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        },
         {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
         }
       ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+      "duration_ms": 198776,
+      "name": "Ur Way",
+      "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
     },
     {
       "added_at": "2026-04-24 04:02:20",
@@ -181,6 +269,26 @@
       "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
     },
     {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "Original Style",
+        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "Original Style",
+      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
+    },
+    {
       "added_at": "2026-05-01 04:02:39",
       "album": {
         "name": "Do It",
@@ -201,26 +309,6 @@
       "url": "https://open.spotify.com/track/2QVDRuSI5SWMmmQBdSAUYy"
     },
     {
-      "added_at": "2026-04-10 04:03:08",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/3pExh5ZPT1vAgNpHUgSaRD"
-      },
-      "artists": [
-        {
-          "name": "2XT",
-          "url": "https://open.spotify.com/artist/3l5WfQg5rEqCbvLZSyuvVi"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/3qKmaSnePGCYCfybNDuxG1"
-    },
-    {
       "added_at": "2026-04-17 04:04:00",
       "album": {
         "name": "ur world",
@@ -239,6 +327,22 @@
       "duration_ms": 188702,
       "name": "ur world",
       "url": "https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "Best You've Had",
+        "url": "https://open.spotify.com/album/54VaM9smrOaAMvOSVN3Fzx"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Best You've Had",
+      "url": "https://open.spotify.com/track/1wP2hXRlB3KddjkzcAH6Xb"
     },
     {
       "added_at": "2026-04-24 04:02:20",
@@ -279,6 +383,22 @@
       "duration_ms": 204000,
       "name": "BEAUTIFUL COLORS",
       "url": "https://open.spotify.com/track/7dcWYju9Kv7WpdNx3oTi8L"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "CINNAMON",
+        "url": "https://open.spotify.com/album/6ZrFXTZvm9OkFXO603Bxb3"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 170704,
+      "name": "CINNAMON",
+      "url": "https://open.spotify.com/track/1kSt8cCMkpvYJAlLCSl5Fh"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -367,6 +487,26 @@
       "duration_ms": 147431,
       "name": "Panta Rhei (feat. LORA)",
       "url": "https://open.spotify.com/track/4kTfmtKo0VjWqga4sW0WwZ"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "You Aint Got It",
+        "url": "https://open.spotify.com/album/7kigpraGoahgBPjlpo4Onc"
+      },
+      "artists": [
+        {
+          "name": "Know Good",
+          "url": "https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "You Aint Got It",
+      "url": "https://open.spotify.com/track/0PMMUuluiRSTYv3mrvyH1d"
     },
     {
       "added_at": "2026-04-17 04:04:00",
@@ -459,6 +599,22 @@
       "duration_ms": 270455,
       "name": "Feelin' This Way",
       "url": "https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "Crybaby (why do i feel so sad?)",
+        "url": "https://open.spotify.com/album/7wCUDIpR3A4CII7oh3nIjU"
+      },
+      "artists": [
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Crybaby (why do i feel so sad?)",
+      "url": "https://open.spotify.com/track/5sHTYfLEPlMMPpXOIH12q9"
     },
     {
       "added_at": "2026-04-24 04:02:20",
@@ -837,26 +993,6 @@
       "url": "https://open.spotify.com/track/5ADhevsfCte2OEoI7c5VQi"
     },
     {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
-        "name": "BACK2LIFE",
-        "url": "https://open.spotify.com/album/3hnrBmgnBChDxegenX7hMc"
-      },
-      "artists": [
-        {
-          "name": "bauti",
-          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
-        },
-        {
-          "name": "Rico 56",
-          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "BACK2LIFE",
-      "url": "https://open.spotify.com/track/1nTtAystVLB5UGcv09FKMI"
-    },
-    {
       "added_at": "2026-04-03 04:37:00",
       "album": {
         "name": "PULL ME CLOSER",
@@ -977,30 +1113,6 @@
       "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
     },
     {
-      "added_at": "2026-01-30 05:01:12",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "ZOHARA",
-          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
-    },
-    {
       "added_at": "2026-03-20 15:46:35",
       "album": {
         "name": "2 u",
@@ -1015,26 +1127,6 @@
       "duration_ms": 136170,
       "name": "2 u",
       "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
-    },
-    {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
-        "name": "Where's My Mind",
-        "url": "https://open.spotify.com/album/4zaxvkGuzJ7VqrHZBLY1wj"
-      },
-      "artists": [
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        },
-        {
-          "name": "GGL Music Group",
-          "url": "https://open.spotify.com/artist/4FBtwaYlP86hGtmJ7nDldP"
-        }
-      ],
-      "duration_ms": 136010,
-      "name": "Where's My Mind",
-      "url": "https://open.spotify.com/track/04EWrxHR0sAUyVZkWoHTH1"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1123,22 +1215,6 @@
       "duration_ms": 147145,
       "name": "ON MY OWN",
       "url": "https://open.spotify.com/track/5LF0HcriJbkj0YU6Phe834"
-    },
-    {
-      "added_at": "2026-03-24 16:57:06",
-      "album": {
-        "name": "Asking 4",
-        "url": "https://open.spotify.com/album/4UWOCBtyqvmsZ6NIa49tCM"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        }
-      ],
-      "duration_ms": 208005,
-      "name": "Asking 4",
-      "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -1305,26 +1381,6 @@
       "url": "https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4"
     },
     {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Ehiorobo",
-          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
-    },
-    {
       "added_at": "2026-03-13 04:00:47",
       "album": {
         "name": "I WANNA GO BACK",
@@ -1375,26 +1431,6 @@
       "duration_ms": 165590,
       "name": "Ima go down",
       "url": "https://open.spotify.com/track/541YFrrcNpsGHVreeXla9V"
-    },
-    {
-      "added_at": "2026-03-06 05:00:25",
-      "album": {
-        "name": "FOREVER, forever",
-        "url": "https://open.spotify.com/album/7wIg26kwkxGKymr30MKf9S"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "FOREVER, forever",
-      "url": "https://open.spotify.com/track/5G6eAyYEfhH694fEPRlO8I"
     },
     {
       "added_at": "2026-02-13 05:00:47",
@@ -1643,38 +1679,6 @@
     {
       "added_at": "2026-01-16 19:10:38",
       "album": {
-        "name": "SAY SOMETHING",
-        "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
-      },
-      "artists": [
-        {
-          "name": "Klo",
-          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "SAY SOMETHING",
-      "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
-    },
-    {
-      "added_at": "2026-02-04 02:41:11",
-      "album": {
-        "name": "Vandal EP",
-        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
-      },
-      "artists": [
-        {
-          "name": "MARTHA",
-          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
-        }
-      ],
-      "duration_ms": 245273,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
         "name": "Kora",
         "url": "https://open.spotify.com/album/5LJIb62zNdiTj6Y5tz0JET"
       },
@@ -1703,22 +1707,6 @@
       "duration_ms": 168400,
       "name": "Someone Said",
       "url": "https://open.spotify.com/track/24ltepHLO6VaSjnrWUqwn3"
-    },
-    {
-      "added_at": "2026-01-16 19:10:38",
-      "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/6uGNQgs7iiKY8nS9p8Z1BG"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/4EVJkMkeEXOpvHBRe3JO6E"
     },
     {
       "added_at": "2026-01-16 19:10:38",

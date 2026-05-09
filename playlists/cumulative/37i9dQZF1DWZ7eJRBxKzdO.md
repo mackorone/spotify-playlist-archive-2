@@ -2,7 +2,7 @@
 
 ### [Summer Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ7eJRBxKzdO)
 
-> thawing from the winter and feeling a little bit of sun \- it's time for some summer dance hits 😎☀️
+> the summer needs dance hits 😎☀️
 
 540 songs - 1 day 3 hr 4 min
 

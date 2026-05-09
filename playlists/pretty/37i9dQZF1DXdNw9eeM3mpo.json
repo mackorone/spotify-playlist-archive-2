@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Vicente Cifuentes y Joselo Osses en portada.",
-  "num_followers": 488339,
+  "num_followers": 488354,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
         "name": "Masacrados Por La Felicidad",
         "url": "https://open.spotify.com/album/2ShR2NhAnFCSzyoTADk3tS"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 203695,
       "name": "Golpes En El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/09uXwwlVhiRpSpmcRoLJFP"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "Contigo Me Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
-      },
-      "artists": [
-        {
-          "name": "Negros Vivos",
-          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Contigo Me Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "Me enamor\u00e9",
-        "url": "https://open.spotify.com/album/204ETzAtCnvJcsuMDN1bd3"
-      },
-      "artists": [
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        },
-        {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        }
-      ],
-      "duration_ms": 168920,
-      "name": "Me enamor\u00e9",
-      "url": "https://open.spotify.com/track/0TNUbpsxCcCwf6n87XugNh"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
+        "name": "Me enamor\u00e9",
+        "url": "https://open.spotify.com/album/204ETzAtCnvJcsuMDN1bd3"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        },
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        }
+      ],
+      "duration_ms": 168920,
+      "name": "Me enamor\u00e9",
+      "url": "https://open.spotify.com/track/0TNUbpsxCcCwf6n87XugNh"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
         "name": "Voy a curarme de ti",
         "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 253285,
       "name": "Voy a curarme de ti",
       "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1307,22 +1323,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
+        "name": "No Te Apartes de M\u00ed",
+        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+        }
+      ],
+      "duration_ms": 197659,
+      "name": "No Te Apartes de M\u00ed",
+      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
         "name": "PASO AL AIRE",
         "url": "https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 184666,
       "name": "Corrupci\u00f3n Ska",
       "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
-        "name": "No Te Apartes de M\u00ed",
-        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
-      },
-      "artists": [
-        {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
-        }
-      ],
-      "duration_ms": 197659,
-      "name": "No Te Apartes de M\u00ed",
-      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/1lcAhCLAEM0CJyxlSANSzU"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 249215,
       "name": "La Locura",
       "url": "https://open.spotify.com/track/5uIMadseIX9NkZN6lX6UrM"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2026-05-01 06:00:35",

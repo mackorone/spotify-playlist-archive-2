@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11639353,
+  "num_followers": 11642202,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALkNRuKnPv+IctzFTXjGctr23TPD",
+  "snapshot_id": "AAAAAPmor4sJVWRF9rt4GFLic/8tzF2+",
   "tracks": [
     {
       "added_at": "2026-02-13 15:58:36",
@@ -31,6 +31,30 @@
       "duration_ms": 96004,
       "name": "MONTAGEM ALQUIMIA",
       "url": "https://open.spotify.com/track/0Wms5IftbzNzmrAyXx4A33"
+    },
+    {
+      "added_at": "2026-04-17 10:47:02",
+      "album": {
+        "name": "MONTAGEM PEGADORA",
+        "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
+      },
+      "artists": [
+        {
+          "name": "Rubikdice",
+          "url": "https://open.spotify.com/artist/6l3xqTokYcPPqrFhTlq9qQ"
+        },
+        {
+          "name": "Chilx",
+          "url": "https://open.spotify.com/artist/1kqRQGby2asyPEdtliZYOG"
+        },
+        {
+          "name": "WAA",
+          "url": "https://open.spotify.com/artist/1hh8WeCk9LjfJBUaEPS643"
+        }
+      ],
+      "duration_ms": 102048,
+      "name": "MONTAGEM PEGADORA - Slowed",
+      "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
       "added_at": "2025-11-17 15:48:56",
@@ -67,6 +91,26 @@
       "duration_ms": 88615,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        }
+      ],
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
     },
     {
       "added_at": "2025-08-01 17:05:50",
@@ -131,30 +175,6 @@
       "duration_ms": 93066,
       "name": "NO ERA AMOR - Slowed",
       "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-04-17 10:47:02",
-      "album": {
-        "name": "MONTAGEM PEGADORA",
-        "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
-      },
-      "artists": [
-        {
-          "name": "Rubikdice",
-          "url": "https://open.spotify.com/artist/6l3xqTokYcPPqrFhTlq9qQ"
-        },
-        {
-          "name": "Chilx",
-          "url": "https://open.spotify.com/artist/1kqRQGby2asyPEdtliZYOG"
-        },
-        {
-          "name": "WAA",
-          "url": "https://open.spotify.com/artist/1hh8WeCk9LjfJBUaEPS643"
-        }
-      ],
-      "duration_ms": 102048,
-      "name": "MONTAGEM PEGADORA - Slowed",
-      "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
       "added_at": "2025-07-25 18:46:04",
@@ -305,26 +325,6 @@
       "url": "https://open.spotify.com/track/7EyTAAgH5jME3tKxbr8W12"
     },
     {
-      "added_at": "2026-02-06 17:42:53",
-      "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
-      },
-      "artists": [
-        {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
-        },
-        {
-          "name": "SALIMA CHICA",
-          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
-        }
-      ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
-    },
-    {
       "added_at": "2025-05-14 19:31:19",
       "album": {
         "name": "LUNA BALA",
@@ -471,6 +471,34 @@
       "duration_ms": 138116,
       "name": "FUNK SIGILO - ULTRA SLOWED",
       "url": "https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj"
+    },
+    {
+      "added_at": "2026-05-08 11:59:14",
+      "album": {
+        "name": "MONTAGEM ELDER",
+        "url": "https://open.spotify.com/album/0pMVU10qsFfwHu8fLpl6Ml"
+      },
+      "artists": [
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        },
+        {
+          "name": "John Bis.T",
+          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 100541,
+      "name": "MONTAGEM ELDER - SLOWED",
+      "url": "https://open.spotify.com/track/2MzMxS2bByjQdbxt4tmkzI"
     },
     {
       "added_at": "2026-02-06 17:42:53",
@@ -857,26 +885,6 @@
       "url": "https://open.spotify.com/track/4NH7KpFmBfE5yskuVRDqce"
     },
     {
-      "added_at": "2025-09-26 14:24:18",
-      "album": {
-        "name": "DYSTOPIA",
-        "url": "https://open.spotify.com/album/7q0apDCjqhsTvu0i3zbmhJ"
-      },
-      "artists": [
-        {
-          "name": "DudePlaya",
-          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
-        },
-        {
-          "name": "N!GHTvisi\u00f8n",
-          "url": "https://open.spotify.com/artist/069iCiM0s1UEgnn7jJorJ4"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "DYSTOPIA - SLOWED",
-      "url": "https://open.spotify.com/track/5fqKGpnhBVKy2ymIkqS6k0"
-    },
-    {
       "added_at": "2026-02-06 17:42:53",
       "album": {
         "name": "ACIDO III",
@@ -915,34 +923,6 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
-    },
-    {
-      "added_at": "2025-11-17 15:48:56",
-      "album": {
-        "name": "NO REPLY",
-        "url": "https://open.spotify.com/album/3vlYdF6pldcScpnudZqXJ2"
-      },
-      "artists": [
-        {
-          "name": "NTPV",
-          "url": "https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ"
-        },
-        {
-          "name": "Sei Lean",
-          "url": "https://open.spotify.com/artist/6V2yd0Ru6yTlI9nEPaWcaO"
-        },
-        {
-          "name": "GodDamn",
-          "url": "https://open.spotify.com/artist/0IGg2CHxFOsEvxt5ZY1Xj3"
-        },
-        {
-          "name": "Phonk King",
-          "url": "https://open.spotify.com/artist/3SZ90ANlXjdw2hmDT4ULaW"
-        }
-      ],
-      "duration_ms": 128047,
-      "name": "NO REPLY",
-      "url": "https://open.spotify.com/track/7oVgRICO5xflAGdRc8UIp9"
     },
     {
       "added_at": "2024-11-15 15:00:00",
@@ -1187,30 +1167,6 @@
       "duration_ms": 92384,
       "name": "MONTAGEM RUGADA",
       "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
-    },
-    {
-      "added_at": "2025-09-19 23:37:49",
-      "album": {
-        "name": "MONTAGEM DIRE\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/229QzVCN20ePbPd1o2R7QL"
-      },
-      "artists": [
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "farofinat beats",
-          "url": "https://open.spotify.com/artist/2uCcj0lTsdhbdZfVSQ7OTM"
-        },
-        {
-          "name": "Dj Samir",
-          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
-        }
-      ],
-      "duration_ms": 80442,
-      "name": "MONTAGEM DIRE\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/1KuF0vl4lKo1EQNAJIlnZM"
     },
     {
       "added_at": "2025-11-17 15:48:56",
@@ -1521,26 +1477,6 @@
       "url": "https://open.spotify.com/track/4bRgPiewooIntAQfPx4sCG"
     },
     {
-      "added_at": "2026-02-20 13:00:04",
-      "album": {
-        "name": "COSMO",
-        "url": "https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf"
-      },
-      "artists": [
-        {
-          "name": "nashi",
-          "url": "https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I"
-        },
-        {
-          "name": "MC Fluup",
-          "url": "https://open.spotify.com/artist/5HgsNSjZkPGDfSfAzKUhlm"
-        }
-      ],
-      "duration_ms": 125850,
-      "name": "COSMO",
-      "url": "https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud"
-    },
-    {
       "added_at": "2026-04-17 10:47:02",
       "album": {
         "name": "MONTAGEM SETHRON",
@@ -1563,22 +1499,6 @@
       "duration_ms": 100235,
       "name": "MONTAGEM SETHRON - Super Slowed",
       "url": "https://open.spotify.com/track/4HsZFyw4DxL0VPl924UFfd"
-    },
-    {
-      "added_at": "2024-10-25 15:19:02",
-      "album": {
-        "name": "UH VEI VEI",
-        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
-      },
-      "artists": [
-        {
-          "name": "KREZUS",
-          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "UH VEI VEI",
-      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
     },
     {
       "added_at": "2025-08-29 15:35:59",
@@ -1651,6 +1571,22 @@
       "duration_ms": 96527,
       "name": "AKAI - Slowed",
       "url": "https://open.spotify.com/track/4Td5Zqi4XzkMdesiBJRZTh"
+    },
+    {
+      "added_at": "2024-10-25 15:19:02",
+      "album": {
+        "name": "UH VEI VEI",
+        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
+      },
+      "artists": [
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "UH VEI VEI",
+      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
     },
     {
       "added_at": "2025-02-07 17:17:30",
@@ -2131,6 +2067,54 @@
       "duration_ms": 126942,
       "name": "ECOS DO ABISMO - Super Slowed",
       "url": "https://open.spotify.com/track/0lZSad8ojli0h9SAwcyIS5"
+    },
+    {
+      "added_at": "2025-11-17 15:48:56",
+      "album": {
+        "name": "NO REPLY",
+        "url": "https://open.spotify.com/album/3vlYdF6pldcScpnudZqXJ2"
+      },
+      "artists": [
+        {
+          "name": "NTPV",
+          "url": "https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ"
+        },
+        {
+          "name": "Sei Lean",
+          "url": "https://open.spotify.com/artist/6V2yd0Ru6yTlI9nEPaWcaO"
+        },
+        {
+          "name": "GodDamn",
+          "url": "https://open.spotify.com/artist/0IGg2CHxFOsEvxt5ZY1Xj3"
+        },
+        {
+          "name": "Phonk King",
+          "url": "https://open.spotify.com/artist/3SZ90ANlXjdw2hmDT4ULaW"
+        }
+      ],
+      "duration_ms": 128047,
+      "name": "NO REPLY",
+      "url": "https://open.spotify.com/track/7oVgRICO5xflAGdRc8UIp9"
+    },
+    {
+      "added_at": "2025-09-26 14:24:18",
+      "album": {
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/7q0apDCjqhsTvu0i3zbmhJ"
+      },
+      "artists": [
+        {
+          "name": "DudePlaya",
+          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
+        },
+        {
+          "name": "N!GHTvisi\u00f8n",
+          "url": "https://open.spotify.com/artist/069iCiM0s1UEgnn7jJorJ4"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "DYSTOPIA - SLOWED",
+      "url": "https://open.spotify.com/track/5fqKGpnhBVKy2ymIkqS6k0"
     }
   ],
   "unique_name": "phonk",

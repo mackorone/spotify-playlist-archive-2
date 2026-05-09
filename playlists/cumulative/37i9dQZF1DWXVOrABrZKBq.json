@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: La Mano 1.9",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Lost",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -1133,6 +1133,32 @@
     },
     {
       "album": {
+        "name": "Avion de chasse",
+        "url": "https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136809,
+      "name": "Avion de chasse",
+      "url": "https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1"
+    },
+    {
+      "album": {
         "name": "Ayenne",
         "url": "https://open.spotify.com/album/15UWoGQBrHIVSb8fWRihZd"
       },
@@ -1859,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE DU GHETTO",
+        "url": "https://open.spotify.com/album/7fpVPlhJgiLE3wtgAkEigb"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137296,
+      "name": "BOUNCE DU GHETTO",
+      "url": "https://open.spotify.com/track/2C9rQ7lvy67hvaIa7XEEcu"
+    },
+    {
+      "album": {
         "name": "Bout It",
         "url": "https://open.spotify.com/album/55WiBmKfgd4qjBwdrrWaRf"
       },
@@ -1874,6 +1918,24 @@
       "duration_ms": 206557,
       "name": "Bout It",
       "url": "https://open.spotify.com/track/19zIXx8M3skiiKCa7PlNdw"
+    },
+    {
+      "album": {
+        "name": "BPM 93",
+        "url": "https://open.spotify.com/album/1BjpX0eTfNui9H281tDDiY"
+      },
+      "artists": [
+        {
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109677,
+      "name": "BPM 93",
+      "url": "https://open.spotify.com/track/6fSV5KjzOgG6AMTwN6cDN9"
     },
     {
       "album": {
@@ -2928,7 +2990,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 126857,
       "name": "CROOKS",
       "url": "https://open.spotify.com/track/5OGWKGisTn3Nwjzls198qz"
@@ -3678,7 +3740,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 199218,
       "name": "D\u00e9luge",
       "url": "https://open.spotify.com/track/6VKViODSQDgDmgpuTsChdZ"
@@ -4730,6 +4792,24 @@
       "duration_ms": 181786,
       "name": "GOAL VOLANT",
       "url": "https://open.spotify.com/track/4Pm7mFJZ0nxOUO4IKu9UXa"
+    },
+    {
+      "album": {
+        "name": "GOSSIP",
+        "url": "https://open.spotify.com/album/4Ikeh2zbiDILaOKnOvbYVf"
+      },
+      "artists": [
+        {
+          "name": "Cshmr",
+          "url": "https://open.spotify.com/artist/4ZNir8YWJxjx6xcZ2xOMak"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "GOSSIP",
+      "url": "https://open.spotify.com/track/414qJ6J7fntJyWzTylZTMo"
     },
     {
       "album": {
@@ -6085,6 +6165,28 @@
     },
     {
       "album": {
+        "name": "le gun de mamie",
+        "url": "https://open.spotify.com/album/4LHwJympZogGxckSh9yErL"
+      },
+      "artists": [
+        {
+          "name": "Neimo",
+          "url": "https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm"
+        },
+        {
+          "name": "Jheny",
+          "url": "https://open.spotify.com/artist/2q9d1D7l5Fz8Rd1ra5PHrY"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "LA TEMPE",
+      "url": "https://open.spotify.com/track/0YYQ89ecrZkCvhr5qEmEU9"
+    },
+    {
+      "album": {
         "name": "La vie qu'on m\u00e8ne",
         "url": "https://open.spotify.com/album/4iPpgK53s9GyINfegUKaVb"
       },
@@ -6208,6 +6310,24 @@
       "duration_ms": 146440,
       "name": "LE PLAN",
       "url": "https://open.spotify.com/track/7ugQiR4wf4Eez3klbl5ItJ"
+    },
+    {
+      "album": {
+        "name": "Le Sevranais",
+        "url": "https://open.spotify.com/album/0NiRTw2uz5qypTiggDtXfO"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Le Sevranais",
+      "url": "https://open.spotify.com/track/2bBoDgglbHPxFHh1oP5A6q"
     },
     {
       "album": {
@@ -8020,7 +8140,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 154000,
       "name": "Opps",
       "url": "https://open.spotify.com/track/64w194RfaOBL7bJr2uD2Zg"
@@ -8126,6 +8246,24 @@
       "duration_ms": 171682,
       "name": "Papa n'\u00e9tait plus l\u00e0",
       "url": "https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv"
+    },
+    {
+      "album": {
+        "name": "GAMAN",
+        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179820,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7"
     },
     {
       "album": {
@@ -8410,6 +8548,24 @@
       "duration_ms": 216093,
       "name": "Patek Philippe (feat. Lazza)",
       "url": "https://open.spotify.com/track/6sukW44PrvVzeko9KZlqen"
+    },
+    {
+      "album": {
+        "name": "PAY NOW",
+        "url": "https://open.spotify.com/album/1erYkeHhbuMp58oQui2fEK"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125865,
+      "name": "PAY NOW",
+      "url": "https://open.spotify.com/track/2aBkxq5Sa43dHNQcpd47EX"
     },
     {
       "album": {
@@ -9977,6 +10133,24 @@
     },
     {
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
+    },
+    {
+      "album": {
         "name": "Script (feat. 2L)",
         "url": "https://open.spotify.com/album/5rcERDsf8w982QDz219hmC"
       },
@@ -9992,7 +10166,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 196071,
       "name": "Script (feat. 2L)",
       "url": "https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD"
@@ -10084,6 +10258,28 @@
       "duration_ms": 166922,
       "name": "Sex Model",
       "url": "https://open.spotify.com/track/4YiP42tiEfZ1blOnzJ6fRr"
+    },
+    {
+      "album": {
+        "name": "Sexy Nana",
+        "url": "https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156254,
+      "name": "Sexy Nana",
+      "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"
     },
     {
       "album": {

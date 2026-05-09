@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren &amp; Olive Anguz
 
-1,800 songs - 3 day 23 hr 23 min
+1,801 songs - 3 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Dominator](https://open.spotify.com/track/15nzxd500PXcD64XkELix4) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t) | [Dominator](https://open.spotify.com/album/05PHiqM8fM00nYmYjDprzp) | 3:16 | 2024-12-20 |  |
 | [Dominator \- Just\_us Remix](https://open.spotify.com/track/4LsQiTorLGwj3QAcRf5RbZ) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Dominator \(Just\_us Remix\)](https://open.spotify.com/album/1KKn69XFx4jAr4Yo4jG24O) | 3:25 | 2025-02-13 | 2025-04-25 |
 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 | 2026-05-04 | 2026-05-08 |
+| [Domino \- Rework](https://open.spotify.com/track/7DaPAWBO3fHQXtmHKpTvCJ) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino](https://open.spotify.com/album/2rcGNtZ5AtAOeH3GiwKj92) | 3:42 | 2026-05-08 |  |
 | [Dominos](https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos](https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL) | 2:30 | 2024-01-18 | 2024-10-04 |
 | [Dominos \- Friction Remix](https://open.spotify.com/track/22dsfbjCdIarRPGXy7Un9l) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Dominos \(Friction Remix\)](https://open.spotify.com/album/2gPgmHX8GIV0qJWm7vDVBk) | 2:59 | 2024-03-07 | 2024-09-06 |
 | [Dominos \- Parsa Nani Remix](https://open.spotify.com/track/5y49z7kFyN7CKJ8yjqTVI2) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR), [Parsa Nani](https://open.spotify.com/artist/2G65CJBA0fcdrz49ekglYp) | [Dominos \(Parsa Nani Remix\)](https://open.spotify.com/album/3Uh9m8hsXqm1esnW6Uqc0u) | 2:25 | 2024-04-04 | 2024-10-11 |

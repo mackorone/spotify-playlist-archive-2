@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 318053,
       "name": "Costa del Soul",
       "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
@@ -1204,6 +1204,24 @@
       "duration_ms": 241306,
       "name": "Givin\u2019 It Up",
       "url": "https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/54RpcdBLgMwKUGp3gctg8A"
+      },
+      "artists": [
+        {
+          "name": "Montreux Stay-Behinds",
+          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211124,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/4wrtUe9qECKed9kfHXDUIK"
     },
     {
       "album": {
@@ -2881,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "simply delicious",
+        "url": "https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV"
+      },
+      "artists": [
+        {
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193937,
+      "name": "simply delicious",
+      "url": "https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n"
+    },
+    {
+      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -3826,7 +3862,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 270025,
       "name": "Working Buttons",
       "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123973,
+  "num_followers": 123968,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVXgrM+qrLEHn83LiebqmjHG+/DKaA",
+  "snapshot_id": "AAAVX591tJ+XQdn1BPrMXjuiKY7IXnhO",
   "tracks": [
+    {
+      "added_at": "2026-05-08 12:23:53",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+    },
     {
       "added_at": "2026-05-07 12:15:23",
       "album": {

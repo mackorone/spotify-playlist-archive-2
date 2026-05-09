@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Josylvio & Yung Felix
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,023 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,036 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 11 | [Lemonade](https://open.spotify.com/track/5vEmp91Mv1X3ZW2AnpxpC3) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lemonade](https://open.spotify.com/album/65qJlvvVCf44wnTqKMeaxq) | 2:09 |
 | 12 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 |
 | 13 | [CHANEL](https://open.spotify.com/track/0aYju2nURQU2ppYrXpEzi7) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [DE HOOP VAN G](https://open.spotify.com/album/3WKGqmaJVVTnrXuD6ZkTHI) | 2:29 |
-| 14 | [Track 1](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 0:00 |
+| 14 | [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 |
 | 15 | [Lean Back](https://open.spotify.com/track/4NzPYZIZa0K7NhNl3oKZ1A) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [Marrabeatsz](https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5) | [Lean Back](https://open.spotify.com/album/4tC0xcFh0l5OP2eJr1NqO7) | 2:33 |
 | 16 | [Body Tuff](https://open.spotify.com/track/5lLEyQO1zpGLDbDbiKX7uP) | [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Fab!o](https://open.spotify.com/artist/1zStD8XLqTBq6I4HvQVVFO), [Mózes](https://open.spotify.com/artist/46FJ6ETl4UlCBVsHOEuFbR) | [Body Tuff](https://open.spotify.com/album/2dp6mQ5x07scyIwS4nvlJy) | 2:20 |
 | 17 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |

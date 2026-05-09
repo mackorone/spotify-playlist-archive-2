@@ -4,7 +4,7 @@
 
 > Stripped back vibes\. Cover:  James Savage
 
-315 songs - 18 hr 15 min
+316 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Until It's Dust](https://open.spotify.com/track/616o0X9kcvy732UKKnL68j) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 2:35 | 2024-11-08 |  |
 | [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 | 2022-05-04 |
 | [Video Game](https://open.spotify.com/track/7HmoOrC8B7YUG3XXPizxRp) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Video Game](https://open.spotify.com/album/4Ts5SXRtH4FJuMo104aZv1) | 2:44 | 2023-08-15 |  |
+| [Violence](https://open.spotify.com/track/2G7ZBcGZqgE0zkJ53pGGs2) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 2:58 | 2026-05-08 |  |
 | [Wait for You](https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Wait for You](https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY) | 4:34 | 2021-12-09 | 2022-01-14 |
 | [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [SICKOFTHEINTERNET](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 | 2024-03-21 |  |
 | [WAVER \(Till it All Makes Sense\)](https://open.spotify.com/track/1xfNozfur1x0R12FzSeEIl) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [AUTUMN BOON](https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF) | 5:04 | 2022-11-03 |  |

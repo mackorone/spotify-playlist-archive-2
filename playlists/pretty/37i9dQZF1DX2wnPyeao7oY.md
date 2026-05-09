@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: 5hy
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,063 likes - 56 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,137 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,29 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 30 | [SEVERANCE](https://open.spotify.com/track/3wZA7CDRqut6aSxvW6tRew) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [SEVERANCE](https://open.spotify.com/album/2HRM6K0oPUvL5lHA1kVSr3) | 3:15 |
 | 31 | [Rip](https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Rip](https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7) | 3:12 |
 | 32 | [Hourglass](https://open.spotify.com/track/5zxllKP6BctpNXNUSn8Uwp) | [Midwinter](https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J) | [A Love I Hope Will Haunt Me Forever](https://open.spotify.com/album/2cl6ZM8bBiMerOxDfbN87j) | 4:27 |
-| 33 | [Cowboys Of Doom](https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k), [Jay Smith](https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO) | [Cowboys Of Doom](https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB) | 4:59 |
-| 34 | [Make Us Whole Again](https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Make Us Whole Again](https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i) | 3:52 |
-| 35 | [Split Brow](https://open.spotify.com/track/7BoMPwr6gxukuRukhU1zpO) | [Renesans](https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr) | [Split Brow](https://open.spotify.com/album/4I7jNE9Ymz4H9AhD4TiJFT) | 3:40 |
-| 36 | [Starless](https://open.spotify.com/track/1WXm0f8OCIKsz3doSo5tZk) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [Starless](https://open.spotify.com/album/1lxoaqYe9BA1fiIWn97lL3) | 2:39 |
-| 37 | [Sucker Punch](https://open.spotify.com/track/2KHKREFlFgNiPSEiyZR4P7) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [Sucker Punch](https://open.spotify.com/album/1za5pWXT62Ul5qIlCmihGQ) | 3:50 |
-| 38 | [I Thought I Could Hide But You Caught Me](https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [I Thought I Could Hide But You Caught Me](https://open.spotify.com/album/3XrjRCydo3E8TqwgNnClw8) | 3:47 |
-| 39 | [Mirrorborn](https://open.spotify.com/track/7HXn3gBVIc92JiACznbsDE) | [By the Thousands](https://open.spotify.com/artist/7jbkCD5BIRbdCLOz5J6S1Y) | [Mirrorborn](https://open.spotify.com/album/7w5Kf2PfmCJAaWsVIBhwNQ) | 3:57 |
-| 40 | [VANILLA LATTE](https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [VANILLA LATTE](https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC) | 2:24 |
-| 41 | [XXXL](https://open.spotify.com/track/7jrplzFgXDcm5u1tYTTggc) | [Resistor](https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA) | [BITE THIS!](https://open.spotify.com/album/569CdzjfXOZS5ny6zrZqkh) | 2:32 |
-| 42 | [Furious Icon](https://open.spotify.com/track/0SSzPYBUXms4ZzIguZ4nHo) | [PLUME](https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv) | [Furious Icon](https://open.spotify.com/album/6Q89PGh5FcySyEvL8mg8Di) | 3:50 |
-| 43 | [burning/bones](https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [burning/bones](https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh) | 3:48 |
-| 44 | [Moira \- Rerecorded](https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K) | [Sun Eater](https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M) | [Moira \(Rerecorded\)](https://open.spotify.com/album/6hVta7RA9EBIWyfVqvPbJA) | 4:33 |
-| 45 | [NO LIES.](https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7) | [paradise fell.](https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3) | [NO LIES.](https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh) | 3:26 |
-| 46 | [Eyes seeing eyes](https://open.spotify.com/track/5nXvE7eKXduCSSEYrbW9RI) | [Karmanjakah](https://open.spotify.com/artist/0FwKUhicEd5QdZMl5NIXF3) | [Eyes seeing eyes](https://open.spotify.com/album/6LzsZ4cvkuBSUSc5dVd6hp) | 5:56 |
-| 47 | [Gods of Glass & Wire](https://open.spotify.com/track/7wGrjVMCed0S0yeWS72T9L) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp) | [The Anatomy of Surviving](https://open.spotify.com/album/0h8yjW4Sh3ypDhZFWZnFWh) | 4:13 |
-| 48 | [Celebrity Culture Simp Farm](https://open.spotify.com/track/3bWfhHxw89M5mXdtoPI7J1) | [Doodseskader](https://open.spotify.com/artist/3NFvorn4wvIOqrDLJbXroK) | [Celebrity Culture Simp Farm](https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU) | 3:41 |
-| 49 | [HALF REMAIN](https://open.spotify.com/track/3NrTgAVCfkyctFBxZvpu9i) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [HALF REMAIN](https://open.spotify.com/album/1Qjmn3rFc9cFRqyfhhr9dK) | 3:18 |
-| 50 | [The Way Things Should End](https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1) | [Torn Open](https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX) | [The Way Things Should End](https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY) | 3:18 |
-| 51 | [You Gotta Get Through Me](https://open.spotify.com/track/1mJl55Ceupn9G9i1hU68dk) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [You Gotta Get Through Me](https://open.spotify.com/album/5j94Vs1E0Nbzb5N5k8COUB) | 3:57 |
-| 52 | [Seraphim](https://open.spotify.com/track/3MTwuLHJb492JIQ2KUrQxK) | [Dream on Dreamer](https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v) | [Seraphim](https://open.spotify.com/album/7fHuqMRthq6pARynhnwMmq) | 3:18 |
-| 53 | [Nothing Exists Beyond Me](https://open.spotify.com/track/6X6D9XpQZ83BCxhIlsoPHl) | [OBEYER](https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q) | [Nothing Exists Beyond Me](https://open.spotify.com/album/6SolmYJnmTXvEMuV7YoEoi) | 3:53 |
-| 54 | [Falling Away From Me](https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT) | [Overlaps](https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v) | [Falling Away From Me](https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN) | 4:25 |
-| 55 | [SUPERSONIC](https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC) | [SOULSLEEP](https://open.spotify.com/artist/3Sq9MmzOatcbubUEwnmX54) | [SUPERSONIC](https://open.spotify.com/album/10jecRuNiflwS8xc8kWLb7) | 3:11 |
-| 56 | [Spirited Away](https://open.spotify.com/track/3LgP0r3cK0XHSE4zogKtHu) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Lost](https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd) | 3:53 |
+| 33 | [Make Us Whole Again](https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Make Us Whole Again](https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i) | 3:52 |
+| 34 | [Split Brow](https://open.spotify.com/track/7BoMPwr6gxukuRukhU1zpO) | [Renesans](https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr) | [Split Brow](https://open.spotify.com/album/4I7jNE9Ymz4H9AhD4TiJFT) | 3:40 |
+| 35 | [Starless](https://open.spotify.com/track/1WXm0f8OCIKsz3doSo5tZk) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [Starless](https://open.spotify.com/album/1lxoaqYe9BA1fiIWn97lL3) | 2:39 |
+| 36 | [I Thought I Could Hide But You Caught Me](https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [I Thought I Could Hide But You Caught Me](https://open.spotify.com/album/3XrjRCydo3E8TqwgNnClw8) | 3:47 |
+| 37 | [Mirrorborn](https://open.spotify.com/track/7HXn3gBVIc92JiACznbsDE) | [By the Thousands](https://open.spotify.com/artist/7jbkCD5BIRbdCLOz5J6S1Y) | [Mirrorborn](https://open.spotify.com/album/7w5Kf2PfmCJAaWsVIBhwNQ) | 3:57 |
+| 38 | [VANILLA LATTE](https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [VANILLA LATTE](https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC) | 2:24 |
+| 39 | [XXXL](https://open.spotify.com/track/7jrplzFgXDcm5u1tYTTggc) | [Resistor](https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA) | [BITE THIS!](https://open.spotify.com/album/569CdzjfXOZS5ny6zrZqkh) | 2:32 |
+| 40 | [Furious Icon](https://open.spotify.com/track/0SSzPYBUXms4ZzIguZ4nHo) | [PLUME](https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv) | [Furious Icon](https://open.spotify.com/album/6Q89PGh5FcySyEvL8mg8Di) | 3:50 |
+| 41 | [burning/bones](https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [burning/bones](https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh) | 3:48 |
+| 42 | [Moira \- Rerecorded](https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K) | [Sun Eater](https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M) | [Moira \(Rerecorded\)](https://open.spotify.com/album/6hVta7RA9EBIWyfVqvPbJA) | 4:33 |
+| 43 | [NO LIES.](https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7) | [paradise fell.](https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3) | [NO LIES.](https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh) | 3:26 |
+| 44 | [Eyes seeing eyes](https://open.spotify.com/track/5nXvE7eKXduCSSEYrbW9RI) | [Karmanjakah](https://open.spotify.com/artist/0FwKUhicEd5QdZMl5NIXF3) | [Eyes seeing eyes](https://open.spotify.com/album/6LzsZ4cvkuBSUSc5dVd6hp) | 5:56 |
+| 45 | [Celebrity Culture Simp Farm](https://open.spotify.com/track/3bWfhHxw89M5mXdtoPI7J1) | [Doodseskader](https://open.spotify.com/artist/3NFvorn4wvIOqrDLJbXroK) | [Celebrity Culture Simp Farm](https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU) | 3:41 |
+| 46 | [HALF REMAIN](https://open.spotify.com/track/3NrTgAVCfkyctFBxZvpu9i) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [HALF REMAIN](https://open.spotify.com/album/1Qjmn3rFc9cFRqyfhhr9dK) | 3:18 |
+| 47 | [The Way Things Should End](https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1) | [Torn Open](https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX) | [The Way Things Should End](https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY) | 3:18 |
+| 48 | [Seraphim](https://open.spotify.com/track/3MTwuLHJb492JIQ2KUrQxK) | [Dream on Dreamer](https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v) | [Seraphim](https://open.spotify.com/album/7fHuqMRthq6pARynhnwMmq) | 3:18 |
+| 49 | [Nothing Exists Beyond Me](https://open.spotify.com/track/6X6D9XpQZ83BCxhIlsoPHl) | [OBEYER](https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q) | [Nothing Exists Beyond Me](https://open.spotify.com/album/6SolmYJnmTXvEMuV7YoEoi) | 3:53 |
+| 50 | [Spirited Away](https://open.spotify.com/track/3LgP0r3cK0XHSE4zogKtHu) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Lost](https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd) | 3:53 |
 
-Snapshot ID: `AAAAACwVVej36ygZhz8AyJyVIWLwEl1X`
+Snapshot ID: `AAAAAPTtbWq9ktg5X+RBbYQUFJJ+5Ru5`

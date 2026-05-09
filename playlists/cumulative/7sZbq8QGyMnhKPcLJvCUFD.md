@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-853 songs - 1 day 18 hr 17 min
+854 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-04-28 |
 | [I Like It With You](https://open.spotify.com/track/5P8vqkiF7Wek3iPOVJmqr0) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [I Like It With You](https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV) | 2:55 | 2024-01-12 | 2024-07-19 |
 | [I Like It With You](https://open.spotify.com/track/6rXoFj9Kc3B77t0h3asR5d) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [14/02](https://open.spotify.com/album/49L9LPfiRFp334a9If9igo) | 3:55 | 2023-12-13 | 2024-02-24 |
+| [I Still Hear Your Voice](https://open.spotify.com/track/7e1BhpbWuryOe0PAGpghQp) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [johnny joined](https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt) | [I Still Hear Your Voice](https://open.spotify.com/album/7K4Qfj3RU88KHufjZj6JyO) | 2:18 | 2026-05-08 |  |
 | [I Wanna Dance](https://open.spotify.com/track/3mUtoDRXAfnA2pPeBgwHIt) | [PYTI](https://open.spotify.com/artist/1Ddl7kLEFsOIYZSlWfTCWj) | [I Wanna Dance](https://open.spotify.com/album/2TPCAEvTDfZzc1PHpxnxhq) | 3:40 | 2024-04-16 | 2024-11-20 |
 | [i want u](https://open.spotify.com/track/1KUwEwWCtkY1wvLI7whez0) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [i want u](https://open.spotify.com/album/1UFdwl1RfQ0pVHbzFV1YLL) | 3:18 | 2024-11-05 |  |
 | [I'll Be There](https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [I'll Be There](https://open.spotify.com/album/6duTRqw2Ld0WnsqABtRCBr) | 2:14 | 2024-04-05 | 2024-12-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! \ud83d\udcf8 Chappell Roan is Lady Liberty",
-  "num_followers": 150827,
+  "num_followers": 150823,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
     },
     {
-      "added_at": "2025-10-03 04:00:34",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 152495,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
-    },
-    {
       "added_at": "2025-08-25 18:53:45",
       "album": {
         "name": "Thriller 25 Super Deluxe Edition",
@@ -355,6 +339,22 @@
       "duration_ms": 245560,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
+    },
+    {
+      "added_at": "2025-10-03 04:00:34",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
     },
     {
       "added_at": "2025-08-25 18:53:45",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-08-25 18:53:45",
       "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2025-08-25 18:53:45",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 395400,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
+    },
+    {
+      "added_at": "2025-08-25 18:53:45",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
     },
     {
       "added_at": "2025-08-25 18:53:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-08-25 18:53:45",
       "album": {
-        "name": "New Skin For The Old Ceremony",
-        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 188669,
-      "name": "Chelsea Hotel #2",
-      "url": "https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe"
-    },
-    {
-      "added_at": "2025-08-25 18:53:45",
-      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 229266,
       "name": "Angel Of Harlem",
       "url": "https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ"
+    },
+    {
+      "added_at": "2025-08-25 18:53:45",
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 188669,
+      "name": "Chelsea Hotel #2",
+      "url": "https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe"
     },
     {
       "added_at": "2025-08-25 18:53:45",

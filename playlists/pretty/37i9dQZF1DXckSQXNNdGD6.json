@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Martin.",
-  "num_followers": 21675,
+  "num_followers": 21715,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
         "name": "Miss Fatty Fairy",
         "url": "https://open.spotify.com/album/4vFTF4UAwgv94ZNH4SKs4G"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 125102,
       "name": "Caballona",
       "url": "https://open.spotify.com/track/1KNNQjYtiI34jErXIvE34e"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
-        "name": "TKM CNT XFA",
-        "url": "https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q"
-      },
-      "artists": [
-        {
-          "name": "Ladilla Rusa",
-          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
-        }
-      ],
-      "duration_ms": 212411,
-      "name": "TKM CNT XFA",
-      "url": "https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

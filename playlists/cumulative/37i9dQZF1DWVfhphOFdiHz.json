@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Acid Nine",
+        "url": "https://open.spotify.com/album/03GijOWQz5bB7MkOq4zE54"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181043,
+      "name": "Acid Nine",
+      "url": "https://open.spotify.com/track/3786wxOSINUx0aounTnzMB"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
       },
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 167000,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/2aAcT2candbjm9HghUotKF"
@@ -2248,10 +2266,28 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 230573,
       "name": "Eastside Girls",
       "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
+    },
+    {
+      "album": {
+        "name": "EAT U ALIVE",
+        "url": "https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171727,
+      "name": "EAT U ALIVE",
+      "url": "https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK"
     },
     {
       "album": {
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136922,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/5qGlVj7q8E5kJRznWOD12a"
@@ -3535,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2ghxbtWUK4TG3YvCahRsUO"
+      },
+      "artists": [
+        {
+          "name": "Future Teens",
+          "url": "https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224573,
+      "name": "Half Loser",
+      "url": "https://open.spotify.com/track/5TM30Ph7sQ0mbPRR8iUNhY"
+    },
+    {
+      "album": {
         "name": "E2E",
         "url": "https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd"
       },
@@ -3546,7 +3600,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 156067,
       "name": "HANDS",
       "url": "https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA"
@@ -3622,7 +3676,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 260571,
       "name": "Hanging Titties - River Moon Remix",
       "url": "https://open.spotify.com/track/0rqs2aycfiMP48gurCzaOO"
@@ -3720,7 +3774,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 260506,
       "name": "Have You Considered?",
       "url": "https://open.spotify.com/track/5HpJZ8oogq6EP1OsMD9W38"
@@ -3800,7 +3854,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 154500,
       "name": "Helen's Door",
       "url": "https://open.spotify.com/track/3vMX1vKzmkprqxRiKwDNfu"
@@ -4014,7 +4068,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 163870,
       "name": "Hospital Blue",
       "url": "https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs"
@@ -4054,6 +4108,24 @@
       "duration_ms": 188823,
       "name": "Hotel Room (Bang)",
       "url": "https://open.spotify.com/track/53Vth2nYeUpPJfHzgHhDo2"
+    },
+    {
+      "album": {
+        "name": "ARCADE",
+        "url": "https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241613,
+      "name": "How to Forget",
+      "url": "https://open.spotify.com/track/0F1J3RNup9k1kbkezKy0Eb"
     },
     {
       "album": {
@@ -5222,6 +5294,24 @@
       "duration_ms": 243474,
       "name": "Like I'm Young",
       "url": "https://open.spotify.com/track/6uHxrrCgsNTmFRH2ebIxbv"
+    },
+    {
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
       "album": {
@@ -8883,6 +8973,28 @@
     },
     {
       "album": {
+        "name": "Tied Up",
+        "url": "https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176107,
+      "name": "Tied Up",
+      "url": "https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws"
+    },
+    {
+      "album": {
         "name": "time & time again",
         "url": "https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu"
       },
@@ -8920,6 +9032,24 @@
       "duration_ms": 219413,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
+    },
+    {
+      "album": {
+        "name": "Time Is Up",
+        "url": "https://open.spotify.com/album/1cyz7jBODxQqDjcqdEBGdu"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131868,
+      "name": "Time Is Up",
+      "url": "https://open.spotify.com/track/1F9t0oeQnfbcTGD2QroYkA"
     },
     {
       "album": {

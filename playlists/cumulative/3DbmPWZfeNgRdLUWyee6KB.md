@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,028 songs - 2 day 12 hr 15 min
+1,032 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [BEARER OF BROKEN HEARTS](https://open.spotify.com/track/3x0tdYzRgbL40ug33BDlwh) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [BEARER OF BROKEN HEARTS](https://open.spotify.com/album/5dCSAArQXvpni9MaflvRFa) | 3:25 | 2026-02-16 | 2026-03-15 |
 | [Beautiful Baby](https://open.spotify.com/track/7pni0f9P5XEJ6YVf7yg3uY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Hodges, James & Smith](https://open.spotify.com/artist/6g6hZbf2pP8nHZAhPpsvA3) | [EZ Listens Songs Library](https://open.spotify.com/album/0LkQNSpF0OeXwxEdCXrwVw) | 3:57 | 2026-04-17 |  |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-27 | 2026-02-28 |
+| [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 | 2026-05-08 |  |
 | [BEFORE I CAN TELL](https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [BEFORE I CAN TELL](https://open.spotify.com/album/1xGCLvUXuxrlY6V7ZYLvwX) | 4:25 | 2026-03-02 | 2026-04-12 |
 | [Before You Go \- Cover](https://open.spotify.com/track/77LJibXZjnlnAlPkJWyE9o) | [Naham Nakrour](https://open.spotify.com/artist/4Y6NGFNQxsNe5RcN37DNfs) | [Before You Go \(Cover\)](https://open.spotify.com/album/3v1kIPgLbTTLN5wykaAzh3) | 2:26 | 2026-03-13 | 2026-04-12 |
 | [Ben Zelf Ook Bang](https://open.spotify.com/track/033unkA5mTh0HhibYAHqyo) | [Vain](https://open.spotify.com/artist/4tRzcUW6cv8dwq9ZzI4RAS) | [Ben Zelf Ook Bang](https://open.spotify.com/album/2uCOTLMVDmovHeAB634nUS) | 2:08 | 2026-04-07 | 2026-05-03 |
@@ -297,6 +298,7 @@
 | [Forse](https://open.spotify.com/track/3ntC3vnaj8bxxQOOSt1EFu) | [SlowlyMe](https://open.spotify.com/artist/21EPDLk3UH7IlOQccJBoVH) | [Forse](https://open.spotify.com/album/5z4E6o3AmQcATl52AMb3bM) | 2:55 | 2026-03-21 | 2026-04-22 |
 | [Found You](https://open.spotify.com/track/544K2IFaPh6sDYCI954Dyr) | [Giesel](https://open.spotify.com/artist/5NepTnAdzgR8EdjwN4Em3Y) | [Found You](https://open.spotify.com/album/2075Pot2GqMuQnoBC42ZkI) | 2:24 | 2026-04-20 |  |
 | [Freedom from no tomorrow](https://open.spotify.com/track/4fWkcMaxDkRfqhLGV6WhBf) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR), [Tatiana](https://open.spotify.com/artist/4DwDwWkbgmARkYrx6P2uFj) | [Freedom from no tomorrow](https://open.spotify.com/album/4BPdqSTglo6yeL7HGY5TG3) | 4:12 | 2025-12-24 | 2026-01-24 |
+| [Freedom Over Us](https://open.spotify.com/track/2rN906QcRLaoCNU0BLWKbx) | [LORIAN](https://open.spotify.com/artist/1FFOakr7SAJqq2yVHBHJ3d) | [Freedom Over Us](https://open.spotify.com/album/7yDNUYCavjlEcqXZ8YTOMc) | 3:44 | 2026-05-08 |  |
 | [Freeze the Moment](https://open.spotify.com/track/2Gcq7ptfslL7JZWQb80kxo) | [NuSkript](https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg) | [Freeze the Moment](https://open.spotify.com/album/5RjMIjmE7E6rPyPi9RNwpZ) | 4:45 | 2025-12-16 | 2026-01-15 |
 | [Frequency Rising](https://open.spotify.com/track/2Ixz3zGp3oSOz0XaCwKQzG) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Frequency Rising](https://open.spotify.com/album/7h1P6bCGqQYfrpu6kNGLfJ) | 3:09 | 2026-01-26 | 2026-02-28 |
 | [From First Day To Forever \(I'm Falling\) \- Acoustic](https://open.spotify.com/track/6eQWBtXs1IOUgCsVbeLBMk) | [Lyric official](https://open.spotify.com/artist/2i8zdGO7nanhaZfFKxWME4), [Kota](https://open.spotify.com/artist/2vI7jKFWv3dxJGfEd1roTC) | [From First Day To Forever \(I'm Falling\) \[Acoustic\]](https://open.spotify.com/album/5Er68t74OiZGRSSEZa4jlF) | 3:40 | 2026-03-05 | 2026-03-25 |
@@ -663,6 +665,7 @@
 | [Per lo Scoglio, Per il Rifugio, Per il Pianeta](https://open.spotify.com/track/0GZs32uL7rWpDLqJApdzKv) | [Xlofono](https://open.spotify.com/artist/5P29J1CH2yBHIVleAbVtwb) | [Per lo Scoglio, Per il Rifugio, Per il Pianeta](https://open.spotify.com/album/0GSsv7hJyp5k8cKacEPN1e) | 3:38 | 2025-12-20 | 2026-01-15 |
 | [Per Sempre Noi](https://open.spotify.com/track/02AlhDZDgOq5mR9Uqdpw9A) | [RYCKI](https://open.spotify.com/artist/5tlokK5dnH5D4qunFcA6ZE) | [Per Sempre Noi](https://open.spotify.com/album/6DaxUZvE65MuDKgQq4NUCP) | 2:55 | 2026-04-23 |  |
 | [Perdidos e Achados](https://open.spotify.com/track/4Tg4kLk0wjv5lgZhfcvyn0) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Perdidos e Achados](https://open.spotify.com/album/78pXXwgrlRJwiKWKM6DVKb) | 3:18 | 2026-04-27 |  |
+| [Perfect Paradise](https://open.spotify.com/track/0G2RueU8XoUokKD2pDWvVa) | [Jaco Muller](https://open.spotify.com/artist/5fYU4xr6F9OJecUbU2xHeo) | [Perfect Paradise](https://open.spotify.com/album/3GbHrP9cSd59SaLrvf1RZw) | 3:48 | 2026-05-08 |  |
 | [Phantom Weight](https://open.spotify.com/track/1d9W6uREzwaawiVwsUKfMT) | [Somehow Still](https://open.spotify.com/artist/2Aq4kxpeIpszxCKwgoJwae) | [Phantom Weight](https://open.spotify.com/album/17J9feK1my3d9695vldjVq) | 3:21 | 2025-12-22 | 2026-01-24 |
 | [Photographs](https://open.spotify.com/track/3IKbxWwUD73DWsEnC7JpMt) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Photographs](https://open.spotify.com/album/73mMrzIKfiutjKbQjCFfFi) | 6:06 | 2025-11-24 | 2026-01-05 |
 | [Pick a Side](https://open.spotify.com/track/6B4NPK1kymjumXhnJisVdP) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Pick a Side](https://open.spotify.com/album/1VBR04V2BOLxpeZLDaDw3f) | 2:52 | 2026-03-02 | 2026-03-25 |
@@ -765,6 +768,7 @@
 | [silver moon](https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa) | [Rob Linx](https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8) | [silver moon](https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b) | 3:23 | 2026-02-04 | 2026-03-07 |
 | [Simulation 1](https://open.spotify.com/track/41xuNZSih3uCTs0hpk1AEg) | [Rian KF](https://open.spotify.com/artist/12Dx6feH6TLh2qjXnxT5mu), [Holly Lee Jones](https://open.spotify.com/artist/1lhYuMgpOjrG7D1iBWD9Co) | [Simulation 1](https://open.spotify.com/album/5uVyeKGwTwVCaRBiKhJ7Rt) | 3:53 | 2025-12-22 | 2026-01-24 |
 | [Sinestesia](https://open.spotify.com/track/22ZInNn8F0DLbvrSuEGVwN) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Sinestesia](https://open.spotify.com/album/04kHKXMzCbtWplYIeJXaV8) | 3:16 | 2026-04-28 |  |
+| [Sing That Note](https://open.spotify.com/track/6agxfeIlKwBzmOTkqO3j2c) | [Justyn Cairo](https://open.spotify.com/artist/6Ej4tehqEWvLRd23RkS9a6) | [Heart of Gold](https://open.spotify.com/album/2ETuq1DDCZryjQQFNJxPLz) | 2:56 | 2026-05-08 |  |
 | [Sister Jump!](https://open.spotify.com/track/7LohvYSmaSusHptw1k5zjX) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Sister Jump!](https://open.spotify.com/album/0INugDX8i5DKES8W55FIEh) | 5:43 | 2023-04-27 | 2025-11-29 |
 | [Situazione complicata](https://open.spotify.com/track/08UX2BEhPxVX2TFBl1igwE) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Situazione complicata](https://open.spotify.com/album/6yKjEIz2nxP8dpTOfwwoZ9) | 3:42 | 2026-01-04 | 2026-02-03 |
 | [Six Years](https://open.spotify.com/track/2oKwFFkRhsqN2Ja8BZ0io7) | [hateclay](https://open.spotify.com/artist/3NQb1iQBV5F8gf03zwRfPX), [Clay Winters](https://open.spotify.com/artist/5dMclDZPP5Ng2HVspxz3ip) | [Repeat](https://open.spotify.com/album/2VI3dPgXtGqWbEvWmRcvwL) | 2:18 | 2026-03-09 | 2026-04-12 |

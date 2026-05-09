@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Sir Trill
 
-755 songs - 2 day 5 hr 32 min
+755 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Marry me](https://open.spotify.com/track/2SlFyZLbFhRXmqlLU2S87B) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Otherwise, uRight?](https://open.spotify.com/album/6znV0z4e94CXQeSemVjlLI) | 3:45 | 2025-10-10 |  |
 | [Masithandane](https://open.spotify.com/track/3WfwcQAHFWsrF8LnPz1QgJ) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [From My Soil To Yours](https://open.spotify.com/album/1nHbsCaPCVzmiYgztcKhyp) | 3:06 | 2023-11-16 | 2024-06-21 |
 | [Matla Sona](https://open.spotify.com/track/0w6RgRKqBro4Hg2t1s9p6r) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Siba Mrwebi](https://open.spotify.com/artist/4x5Paddc596KaUBlGYV6ZB) | [Matla Sona](https://open.spotify.com/album/5OFTJAMBYujoo1hDN1Nasa) | 1:56 | 2023-03-24 | 2023-04-28 |
+| [Mawungenamali](https://open.spotify.com/track/3XeOUWAT0xyskXvcZ5Pxmr) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Olified Khetha](https://open.spotify.com/artist/6zDxGwfsuL9LqWvA0mPm3I), [Okwanda](https://open.spotify.com/artist/3CUkDwGba5GzzVyw5fZ2SM) | [Yano Love](https://open.spotify.com/album/3o9ccq8tvyQziy5d2uUt4u) | 3:54 | 2026-05-07 |  |
 | [Mayeh](https://open.spotify.com/track/6rdNalE5HbMyBBoNovo5yN) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [Mayeh](https://open.spotify.com/album/6eiKlNiqxlp9kENJdsZmiu) | 4:24 | 2022-02-17 | 2022-07-01 |
 | [Mekaefete](https://open.spotify.com/track/24vksE7sA32jtOMa2oZg0f) | [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [P.DOT.O](https://open.spotify.com/artist/6BumyIdPXTqV9bGRHHMqpm), [Blaklez](https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H) | [Mekaefete](https://open.spotify.com/album/2mjvqpIXf5bxWpy5cCgOf4) | 2:58 | 2023-04-06 | 2023-04-28 |
 | [Messiah](https://open.spotify.com/track/2GKEV0xwrK8RBNP9CYJwoB) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Messiah](https://open.spotify.com/album/54hK43aedP5XOkeSIbJC9Z) | 4:33 | 2021-07-01 | 2022-07-29 |
@@ -634,7 +635,6 @@
 | [Thixo Wami](https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O) | [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thixo Wami](https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG) | 4:49 | 2023-06-22 | 2023-11-05 |
 | [Thixo Wethu](https://open.spotify.com/track/6DCwIC3eoEK7KNldnKscdd) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Unathi](https://open.spotify.com/artist/7tAS9oUzXf3pvOxi7wd0N7) | [Gemini](https://open.spotify.com/album/37qxe0qhdSUNTNCMtsawc1) | 3:31 | 2022-06-16 | 2022-08-26 |
 | [Tholakuwe \(feat\. Young Stunna\)](https://open.spotify.com/track/6Uf73Thps11shNFZs3yQa7) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Tholakuwe \(feat\. Young Stunna\)](https://open.spotify.com/album/6TjRzemaHPS7DpxZP1a3ZS) | 4:00 | 2024-06-20 | 2025-04-25 |
-| [Track 6](https://open.spotify.com/track/3XeOUWAT0xyskXvcZ5Pxmr) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Yano Love](https://open.spotify.com/album/3o9ccq8tvyQziy5d2uUt4u) | 0:00 | 2026-05-07 |  |
 | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/track/08gYg78uDP077plbPqkjbh) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw) | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/album/4oCw8xGOuT0iNPK6hWW20s) | 4:12 | 2026-03-12 |  |
 | [Truth](https://open.spotify.com/track/1VMWvfEnjTzgwSd6777xeR) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [Truth](https://open.spotify.com/album/5K3vyTejoGDuRHvjo4vFNH) | 3:33 | 2022-06-30 | 2022-07-08 |
 | [Tshinakaho](https://open.spotify.com/track/3yNVOs4QdKBY78EtpN2GJM) | [Vhudie](https://open.spotify.com/artist/2g6okkT5hxpgApgXesuDAV), [Thembo](https://open.spotify.com/artist/7FqpAaU3B56P2qPzU1hrwp) | [Tshinakaho](https://open.spotify.com/album/1WP4Sf052O2iHtOingnbUx) | 3:33 | 2022-08-25 | 2022-10-14 |

@@ -3627,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Tot Daar Waar Die Lig Is",
+        "url": "https://open.spotify.com/album/013qVYf9nNuJKQvELYzgh9"
+      },
+      "artists": [
+        {
+          "name": "Jan Blohm",
+          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Beautiful Jy",
+      "url": "https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p"
+    },
+    {
+      "album": {
         "name": "Bederf Jouself",
         "url": "https://open.spotify.com/album/7A1Qn3imELMi13Tc9N2Q8b"
       },
@@ -34047,6 +34065,24 @@
     },
     {
       "album": {
+        "name": "VYFTIG APOKRIEWE",
+        "url": "https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Port St. Johns",
+      "url": "https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2"
+    },
+    {
+      "album": {
         "name": "Potchefstroom",
         "url": "https://open.spotify.com/album/6AxBARYkXmA03xZ5A5qQwc"
       },
@@ -42198,42 +42234,6 @@
       "duration_ms": 164526,
       "name": "Totsiens",
       "url": "https://open.spotify.com/track/6BhA6x3RdgId5E8vrWGNHG"
-    },
-    {
-      "album": {
-        "name": "Tot Daar Waar Die Lig Is",
-        "url": "https://open.spotify.com/album/013qVYf9nNuJKQvELYzgh9"
-      },
-      "artists": [
-        {
-          "name": "Jan Blohm",
-          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p"
-    },
-    {
-      "album": {
-        "name": "VYFTIG APOKRIEWE",
-        "url": "https://open.spotify.com/album/2bcSfsnylNCaAkDU1GJ3F4"
-      },
-      "artists": [
-        {
-          "name": "Neil Sandilands",
-          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7Cq2QF8TF058u8LKrKCCq2"
     },
     {
       "album": {

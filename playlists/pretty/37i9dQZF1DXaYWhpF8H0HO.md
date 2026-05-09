@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Paul Partohap
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,350 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,372 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [YOU+ME](https://open.spotify.com/track/7c1ObmHu6H3WCOqx5xJVaS) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [YOU+ME](https://open.spotify.com/album/7ixj9po1vGQmN6twnww4en) | 3:41 |
-| 2 | [Track 4](https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 0:00 |
+| 2 | [On The Way Up](https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 3:06 |
 | 3 | [WHAT U WANT](https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [WHAT U WANT](https://open.spotify.com/album/10KM8rJzZR3CdlbNzNNEUD) | 5:40 |
 | 4 | [waiting \(come home\)](https://open.spotify.com/track/2LXksa3hvj46aQxe8ZabBY) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [waiting \(come home\)](https://open.spotify.com/album/0A0Sbrium6R309Ojvg6kSm) | 4:17 |
 | 5 | [Addiction](https://open.spotify.com/track/2ZUcV0Lh31FJGFc0ud8f9u) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Nocturne to Sunrise](https://open.spotify.com/album/6WKvMlOkR05XLpMGPVXf7K) | 2:25 |

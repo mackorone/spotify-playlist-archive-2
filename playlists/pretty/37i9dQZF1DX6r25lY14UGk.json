@@ -1,13 +1,177 @@
 {
   "description": "New releases for the kids. Cover: Blippi & Yellowcard",
-  "num_followers": 96926,
+  "num_followers": 96977,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVprjcRBdZ1H9/WCOZvM5R/N0Zk",
+  "snapshot_id": "AAAAAM9JkWok89hK3PQWH8frtNDtDwIX",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "Alphabeats",
+        "url": "https://open.spotify.com/album/4PJqf9qffXDT1hybkMvif2"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 132746,
+      "name": "Alphabeats",
+      "url": "https://open.spotify.com/track/4jk32Ve2bRdVaYaBj64Nea"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "The Family Tree",
+        "url": "https://open.spotify.com/album/0p4n9kgPdm2OiLajjBxXZs"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 122739,
+      "name": "The Family Tree",
+      "url": "https://open.spotify.com/track/0G9R4kEYVT4yLINMrm5n8v"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "Pinkfong Farm Animal Drawing Songs",
+        "url": "https://open.spotify.com/album/4UqNTl3DrpfsTxM8wPvagv"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 58844,
+      "name": "Baa-Baa Baby Lamb",
+      "url": "https://open.spotify.com/track/551Lygz5E3eWxfDV2Ceeym"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "KIDZ BOP 53",
+        "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 188247,
+      "name": "Stateside",
+      "url": "https://open.spotify.com/track/1ufT1mPGuqMR3p8IhUDDZk"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "If You Love to Dance & Move",
+        "url": "https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 209132,
+      "name": "If You Love to Dance & Move",
+      "url": "https://open.spotify.com/track/6sWc6IeS6ImN1Yr6Nfe2oG"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "CoComelon Lane, Vol. 7 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/4CEv6R9CqeCVLm8B7LAxam"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "This Is The Way We Build A Float - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/0EhvFemRiGSn5azqth5lkQ"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "Sparkle!",
+        "url": "https://open.spotify.com/album/55q5eEBG6FWauedZhGGzRC"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 180006,
+      "name": "Sparkle!",
+      "url": "https://open.spotify.com/track/0HTS1PnNolqh6ERbVP2Dfl"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "Enjoy The Ride",
+        "url": "https://open.spotify.com/album/7LhVsXpFyWytiZWssXXfoD"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 69120,
+      "name": "Enjoy The Ride",
+      "url": "https://open.spotify.com/track/5NkzSyB3GwgAt9NjYreuKw"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "Down By The Park With Tootson",
+        "url": "https://open.spotify.com/album/4N1iwruStNEJUx0lF4ADhi"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 125993,
+      "name": "Down By The Park With Tootson",
+      "url": "https://open.spotify.com/track/1jLWFDNZXaJj4uxfuaxi7p"
+    },
     {
       "added_at": "2026-05-01 04:00:57",
       "album": {
@@ -1655,158 +1819,6 @@
       "duration_ms": 122000,
       "name": "Wibble Wobble Jelly",
       "url": "https://open.spotify.com/track/0Lehtm9fU4uc6XowiUKfp1"
-    },
-    {
-      "added_at": "2026-01-30 05:06:46",
-      "album": {
-        "name": "I Have a Heart (Kindness Song)",
-        "url": "https://open.spotify.com/album/2P5kMOpfDt4Zw2rZeRuG52"
-      },
-      "artists": [
-        {
-          "name": "Itty Bitty Beats",
-          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
-        }
-      ],
-      "duration_ms": 163188,
-      "name": "I Have a Heart (Kindness Song)",
-      "url": "https://open.spotify.com/track/2LPW3L725waS83PQ9yeDcu"
-    },
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "Clean Up and Other Circle Time Songs",
-        "url": "https://open.spotify.com/album/77N82qBau717yoIlxLUhSw"
-      },
-      "artists": [
-        {
-          "name": "Kids Imagine Nation",
-          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
-        }
-      ],
-      "duration_ms": 363017,
-      "name": "Clean Up (6 Minute Timer)",
-      "url": "https://open.spotify.com/track/6MlAXZGNM8fJsHKcrdxGuf"
-    },
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "What's Inside the Toybox?",
-        "url": "https://open.spotify.com/album/0cWyqCEzMIxq5tMc6j9xYm"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 150453,
-      "name": "What's Inside the Toybox?",
-      "url": "https://open.spotify.com/track/1JuAGIYes8RiOfTMoUEDsm"
-    },
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "Jungle Picnic",
-        "url": "https://open.spotify.com/album/2kZJa8cqp9pvIHTF9lGUvy"
-      },
-      "artists": [
-        {
-          "name": "Emma Memma",
-          "url": "https://open.spotify.com/artist/2PS0ZMl0nYZdad60L9AXs2"
-        }
-      ],
-      "duration_ms": 111548,
-      "name": "Jungle Picnic",
-      "url": "https://open.spotify.com/track/5PW0PPtYxNcb1iumUUN3eR"
-    },
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "Toy Box Beats",
-        "url": "https://open.spotify.com/album/1aMrFKxYGPqcVT4CYmKRLJ"
-      },
-      "artists": [
-        {
-          "name": "Fisher-Price",
-          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 62896,
-      "name": "O-T-T-E-R",
-      "url": "https://open.spotify.com/track/5z8kaz3xKZJ51BBNR7AREf"
-    },
-    {
-      "added_at": "2026-01-23 05:00:22",
-      "album": {
-        "name": "CoComelon Playdates With Sanrio Friends",
-        "url": "https://open.spotify.com/album/6dUTHbEfhP3hRfVQqhmomu"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "Rock Paper Scissors",
-      "url": "https://open.spotify.com/track/47NW8rBrM35hszwILhoypI"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Ask For Help!",
-        "url": "https://open.spotify.com/album/7nMeYBSmyRowTQNWvfOpUV"
-      },
-      "artists": [
-        {
-          "name": "Snuggle Bunch",
-          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Ask For Help!",
-      "url": "https://open.spotify.com/track/7hsjnCQkQdIJNvLfiao6zP"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Stronger (Peppa's Version)",
-        "url": "https://open.spotify.com/album/2bltUVz7Qu8hEDrq2umLzS"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 202405,
-      "name": "Stronger (Peppa's Version)",
-      "url": "https://open.spotify.com/track/7wuzARagxYWnZxUz6vZJqM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Yoga Song",
-        "url": "https://open.spotify.com/album/60dVVamx0zbXeJPH7joKeg"
-      },
-      "artists": [
-        {
-          "name": "LooLoo Kids",
-          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
-        }
-      ],
-      "duration_ms": 119541,
-      "name": "Yoga Song",
-      "url": "https://open.spotify.com/track/5QEZ8kZXCtA5F3J5Dh6HAI"
     }
   ],
   "unique_name": "New Kids Music",

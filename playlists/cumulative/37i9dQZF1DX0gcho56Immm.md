@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Smerz
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: sadie
 
-285 songs - 16 hr 36 min
+288 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Encyclopedia](https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q) | 2:18 | 2025-03-13 | 2026-03-07 |
 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 | 2025-11-14 |  |
 | [Errr](https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Suisse air](https://open.spotify.com/artist/3aYP9prAwAH0eNSR4zMiZl) | [Errr](https://open.spotify.com/album/2y0oCsmZNt5cm9mxUvABFm) | 3:02 | 2026-04-30 |  |
-| [Ether](https://open.spotify.com/track/5KL7fD7g08Yagmi89FUfTi) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [100%WET](https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc) | 4:32 | 2025-06-26 |  |
+| [Ether](https://open.spotify.com/track/5KL7fD7g08Yagmi89FUfTi) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [100%WET](https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc) | 4:32 | 2025-06-26 | 2026-05-09 |
 | [Ethereal Security Guard](https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Ethereal Security Guard](https://open.spotify.com/album/2DM184JFwecL8z2s8F2moi) | 6:36 | 2025-05-22 | 2026-02-07 |
 | [Even God Gets Stuck In Devotion](https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp) | [Dagmar Zuniga](https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q), [Austyn Wohlers](https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB) | [in filth your mystery is kingdom / far smile peasant in yellow music](https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO) | 3:36 | 2026-03-05 |  |
 | [Exit Vendor](https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:04 | 2025-09-19 |  |
@@ -131,6 +131,7 @@
 | [Hey Girl](https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Corpus](https://open.spotify.com/album/3eX3zbQQylwOS1mX7Wp2ZO) | 4:01 | 2025-03-13 | 2026-01-17 |
 | [Hibiscus](https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R) | [Carré](https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Hibiscus](https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn) | 2:59 | 2026-01-30 |  |
 | [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 | 2026-02-12 |  |
+| [Hit & Run](https://open.spotify.com/track/1j75PTRIXXaObizbId3eoZ) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Better Angels](https://open.spotify.com/album/33mfAax2G5I4xIimwIxjnt) | 1:52 | 2026-05-08 |  |
 | [Honey Scented Soul](https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Strange Serenity](https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy) | 2:58 | 2025-05-01 |  |
 | [Honeysuckle](https://open.spotify.com/track/00L6NLpcJvIIx6gXcLgf1c) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna), [Mary Jane Dunphe](https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous) | [Honeysuckle](https://open.spotify.com/album/0hjxxXTbZ1L3UmdYhKsiGP) | 3:12 | 2025-03-13 | 2025-08-09 |
 | [Human Siren](https://open.spotify.com/track/0m4w9f4a7JTTMNg16wu3fl) | [Emma Acs](https://open.spotify.com/artist/6iLTh6Fhd16Cdq212BaS5c) | [Human Siren](https://open.spotify.com/album/0PEOUpjx1VTyesEx8K6igz) | 7:26 | 2025-03-13 | 2025-10-18 |
@@ -184,6 +185,7 @@
 | [not yet](https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [nightmare intercom](https://open.spotify.com/album/2ten2ozCkcuMgpWNYWwOBC) | 3:21 | 2026-01-16 |  |
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-03-13 | 2025-09-13 |
 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 | 2026-01-23 |  |
+| [nursed](https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [lure](https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg) | 3:00 | 2026-05-08 |  |
 | [Ocean Apart](https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 3:11 | 2025-06-26 |  |
 | [On God](https://open.spotify.com/track/0kBXdPTfwoxlmNJkDExPrZ) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 5:27 | 2025-09-05 |  |
 | [Open Air Backseat](https://open.spotify.com/track/1fJu2Da9yY5wdCWH8gHS4E) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Open Air Backseat](https://open.spotify.com/album/32QRugnY3lGwqLvBRCgtuQ) | 3:06 | 2025-07-25 | 2026-03-07 |
@@ -195,7 +197,7 @@
 | [Place Like Home](https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [I Love You](https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs) | 2:50 | 2026-04-23 |  |
 | [Play](https://open.spotify.com/track/4EbKAHT7I23BeXQFJ041Ls) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Play](https://open.spotify.com/album/6ftc3vTUK6umbu9YvAtXJo) | 4:34 | 2025-06-06 | 2025-09-06 |
 | [Player](https://open.spotify.com/track/2ijSauaN6TX94b8VRSdn1j) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 2:51 | 2025-03-13 | 2026-01-31 |
-| [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 | 2025-08-08 |  |
+| [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 | 2025-08-08 | 2026-05-09 |
 | [Please](https://open.spotify.com/track/4w1Cw49H99UkcQxArleOu4) | [Felt Out](https://open.spotify.com/artist/44tHklTOiPRFr70wX7iXDd) | [Please](https://open.spotify.com/album/65ZJRrU3TD812tnVp6yU48) | 3:05 | 2025-06-26 | 2026-03-07 |
 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 | 2025-05-08 |  |
 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-05 | 2026-05-01 |
@@ -247,10 +249,11 @@
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-26 |
 | [tears on his rings and chains](https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [tears on his rings and chains](https://open.spotify.com/album/5DXpvfvNrOTSM2nYL5YlyR) | 3:18 | 2025-08-19 | 2025-10-18 |
 | [Tell Me](https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [Tell Me](https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn) | 4:12 | 2026-01-30 |  |
+| [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 | 2026-05-08 |  |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 | 2026-04-24 |
 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 | 2025-10-03 |  |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
-| [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 |  |
+| [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 | 2026-05-09 |
 | [The Future \(Fig Tape Remix\)](https://open.spotify.com/track/1jA6V9HI58GarsaDX6k7Gj) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [The Future \(Fig Tape Remix\)](https://open.spotify.com/album/4lv9qQYlWxHto8vJhjpeye) | 4:14 | 2026-02-19 |  |
 | [The Longest Sleep](https://open.spotify.com/track/0rKK8Xj27S7L4tAB9EBYHX) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [I'm the One with No Soul](https://open.spotify.com/album/0yZpBY7dvRB4cUHtuvB0uQ) | 3:53 | 2025-07-15 | 2026-03-20 |
 | [The One in Front of the Sun](https://open.spotify.com/track/2axEsEvh4uIfPNgPrhxew5) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Violences](https://open.spotify.com/album/50fGBMmPLU994MXKGDUQN1) | 4:47 | 2025-03-13 | 2026-01-24 |

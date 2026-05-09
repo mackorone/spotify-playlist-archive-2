@@ -1069,6 +1069,36 @@
     },
     {
       "album": {
+        "name": "Angdayi (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/3qC3EEW6K8y9NW9azQTfdg"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151360,
+      "name": "Angdayi (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/6aczZarZ8ql6linl6spbbt"
+    },
+    {
+      "album": {
         "name": "Ankhiyaan",
         "url": "https://open.spotify.com/album/5ylQoX1qDVC3Bytw3TDSoM"
       },
@@ -2650,7 +2680,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 189717,
       "name": "Bulletproof (From \"Lukkhe\")",
       "url": "https://open.spotify.com/track/1jIIO95sVRWK97p6xYMx3b"
@@ -9536,7 +9566,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 278048,
       "name": "Mann Na Laage",
       "url": "https://open.spotify.com/track/1Tp0DeuFqlDWywpwTb3T7c"
@@ -15094,6 +15124,36 @@
       "duration_ms": 252857,
       "name": "Tera Aashiq (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/3gcdzpFSKeWB92Crc03gqZ"
+    },
+    {
+      "album": {
+        "name": "Tera Ho Jaun (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "url": "https://open.spotify.com/album/6dlroiIlnKYENWBIJygQVp"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160536,
+      "name": "Tera Ho Jaun (From \"Hai Jawani Toh Ishq Hona Hai\")",
+      "url": "https://open.spotify.com/track/4KrVfk5QMYwIvUC3q5p0la"
     },
     {
       "album": {

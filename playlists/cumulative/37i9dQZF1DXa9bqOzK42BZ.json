@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 165000,
       "name": "Dunia",
       "url": "https://open.spotify.com/track/6A8DkTvU2v7Z7UiHz76kwj"
@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/6KKwmrcFB74r4HaRQQMHS5"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Mdee",
+          "url": "https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332272,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/45HzEA9yfuBUZgLlDW5Tts"
+    },
+    {
+      "album": {
         "name": "Usifadhaike",
         "url": "https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2"
       },
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 230922,
       "name": "Katindili",
       "url": "https://open.spotify.com/track/50196UZ7IWgbUENtSVGMjN"
@@ -1824,6 +1842,24 @@
       "duration_ms": 276708,
       "name": "Kibali",
       "url": "https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY"
+    },
+    {
+      "album": {
+        "name": "Kila Kitu Kitakuwa Sawa",
+        "url": "https://open.spotify.com/album/7JBip5TLo2wmmslUmyXmw8"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Kila Kitu Kitakuwa Sawa",
+      "url": "https://open.spotify.com/track/1ZQv07GhXuM16IQuJZaGXC"
     },
     {
       "album": {
@@ -3380,7 +3416,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150303,
       "name": "Ni Ebeneza",
       "url": "https://open.spotify.com/track/14Zliz5ShIdwCLw6WEBlMM"
@@ -4116,7 +4152,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 204000,
       "name": "Number Moja",
       "url": "https://open.spotify.com/track/2CJ4148Frj191bX58vNNs3"
@@ -5250,7 +5286,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205790,
       "name": "The Way",
       "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
@@ -5730,7 +5766,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 307903,
       "name": "Ushuhuda",
       "url": "https://open.spotify.com/track/2xxqdDdIyDgNe4IorQ8B6D"
@@ -5988,7 +6024,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 316748,
       "name": "Wabwino",
       "url": "https://open.spotify.com/track/5inUTbWNv0Y1xhBAd54g4A"

@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 198937,
       "name": "BEAT UP CHANEL$",
       "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt"
@@ -6058,7 +6058,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 163236,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/63RftS1HUFL1RMOBuon2dk"
@@ -8654,6 +8654,24 @@
     {
       "album": {
         "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3l7rEp8JiQDyrM8WHVw6vo"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/1UcCAYT16qXS2Tts2NdHhM"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/52dfegL47n8MhAPEhagBcY"
       },
       "artists": [
@@ -8682,7 +8700,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -15938,10 +15956,28 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 193520,
       "name": "Feeling Good Today",
       "url": "https://open.spotify.com/track/117e6ebJhoucK8Cz6wO2cD"
+    },
+    {
+      "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/4Vnu314Dm9lM3IuOinUDXB"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193538,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/1hTDrAziXO5Pyw3Br9WH3l"
     },
     {
       "album": {
@@ -18364,7 +18400,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -18382,7 +18418,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -24436,7 +24472,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 160487,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/70HMyw5ZheaR4bxu6E7SSS"
@@ -37472,7 +37508,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -50533,6 +50569,24 @@
     },
     {
       "album": {
+        "name": "Unattainable Love",
+        "url": "https://open.spotify.com/album/2uhqflSyTyOL14Kja4oPzE"
+      },
+      "artists": [
+        {
+          "name": "Jahan Shokouhi",
+          "url": "https://open.spotify.com/artist/18EMiZkIyqQTFYBbEwztet"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358469,
+      "name": "Unattainable Love",
+      "url": "https://open.spotify.com/track/7A9ANCbJabIeVmcZkf9J8N"
+    },
+    {
+      "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
@@ -51702,7 +51756,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150133,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC"

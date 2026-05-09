@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,777 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,807 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [act your age](https://open.spotify.com/track/0zyojrljeU0HWxfpGtTWgC) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [act your age / suburbia](https://open.spotify.com/album/66P6me8R4qvi56i8BX4aUs) | 2:03 |
 | 60 | [chrysalis](https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [chrysalis](https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS) | 4:00 |
 
-Snapshot ID: `AAAAAAep1q7S30np24EjRX26Z983Ncnk`
+Snapshot ID: `AAAAANPHVCwvntqHyxwzRbrEumGDATAE`

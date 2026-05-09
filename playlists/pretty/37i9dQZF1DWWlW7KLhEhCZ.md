@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,107 likes - 74 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,105 likes - 74 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 46 | [GET RICH](https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO) | [GET RICH](https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm) | 2:19 |
 | 47 | [Fatos Reais](https://open.spotify.com/track/1bRZKPWiVdjC4jNQzJzk0f) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Fatos Reais](https://open.spotify.com/album/30lzqW1TGAtj0895NLmGb6) | 2:22 |
 | 48 | [Pequeno Planeta Pimp](https://open.spotify.com/track/6NSMeDQ8X6XnIT2ftvofFw) | [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Pequeno Planeta Pimp](https://open.spotify.com/album/0uZZSqb2wFG9KpeTg2jnLu) | 2:45 |
-| 49 | [Puta de Anime](https://open.spotify.com/track/06NAHRa7AAwN1D3dxXYzpi) | [luvdyann](https://open.spotify.com/artist/1DQ1Eo0J1P3KyCyMj8jG4Z), [lilgiela33](https://open.spotify.com/artist/141G7LiA4gY3uqZYFgJAz1) | [Antes ou Depois?](https://open.spotify.com/album/4IFJ3fHV7D5ghWPP21SZ36) | 2:54 |
+| 49 | [Puta de Anime](https://open.spotify.com/track/06NAHRa7AAwN1D3dxXYzpi) | [luvdyann](https://open.spotify.com/artist/1DQ1Eo0J1P3KyCyMj8jG4Z) | [Antes ou Depois?](https://open.spotify.com/album/4IFJ3fHV7D5ghWPP21SZ36) | 2:54 |
 | 50 | [NÃO POSSO DORMIR](https://open.spotify.com/track/7clXVWaOUE5JQ4kGVgLVsm) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [prodbyogxbriell](https://open.spotify.com/artist/6d4O3voH9FqIwws9qQKHms) | [MEDO](https://open.spotify.com/album/1wLplXoa2TGBz0NH5tMySC) | 2:08 |
 | 51 | [Mapss](https://open.spotify.com/track/0ZHzuOo5LzTBVgCP6EWSAE) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [Mapss](https://open.spotify.com/album/2zoXrcG52YKQvFSRxreIQY) | 2:09 |
 | 52 | [Mesma Cidade](https://open.spotify.com/track/1OrBzVcywWa5zqteiNqeTv) | [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [Mesma Cidade](https://open.spotify.com/album/0AYPju7PtttllhY0BEa4WP) | 3:03 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20554,
+  "num_followers": 20562,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "PLBBUU",
-        "url": "https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "BBUU!",
-      "url": "https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "PLBBUU",
+        "url": "https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "BBUU!",
+      "url": "https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Once a Day",
-        "url": "https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 212055,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "Once a Day",
+        "url": "https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 212055,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1"
     },
     {
       "added_at": "2026-04-21 03:38:48",

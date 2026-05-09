@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-400 songs - 21 hr 56 min
+401 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 | 2023-08-28 | 2024-12-14 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-28 | 2023-10-07 |
 | [Stains](https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Stains](https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e) | 2:53 | 2023-08-28 | 2024-06-15 |
+| [Stand By Me](https://open.spotify.com/track/2jhEkqJCX7QVfBVlpV4OUq) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [CINEMATIC](https://open.spotify.com/album/6ChlA5IzM9QgqhvlQRyaEd) | 2:58 | 2026-05-08 |  |
 | [Stand On This Hill](https://open.spotify.com/track/6f4M6XJjeoH922nRWWIbjp) | [rory o'neill](https://open.spotify.com/artist/26UCr0DSJQmIVTnNB5gwvw) | [Stand On This Hill](https://open.spotify.com/album/3nZnDqWsgvKZri4WovLdrq) | 3:09 | 2026-02-27 |  |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-02-17 |  |
 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-04-25 | 2025-09-27 |

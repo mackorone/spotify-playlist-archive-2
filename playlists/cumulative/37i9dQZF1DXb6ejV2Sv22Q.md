@@ -4,7 +4,7 @@
 
 > aquí está la nueva ola 🌊  Mi Compa el Chino en cover
 
-562 songs - 1 day 4 hr 52 min
+564 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [arena](https://open.spotify.com/track/1whs2eO84P6NRtmDQN2YTl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:27 | 2025-08-08 | 2025-09-06 |
 | [arrancame los labios](https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [MAYDAY](https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1) | 1:53 | 2025-08-08 | 2025-09-06 |
 | [Artistas](https://open.spotify.com/track/4OdK0uWyiSyhKP5TX4hGB7) | [Duck Fizz](https://open.spotify.com/artist/6sk1tzWevukbzNTIDTlhzy) | [Artistas](https://open.spotify.com/album/3A6azHr67ia0X7BoLEOhuV) | 3:09 | 2025-10-17 | 2026-01-31 |
+| [ati!](https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [ati!](https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc) | 2:28 | 2026-05-08 |  |
 | [ATIZALE](https://open.spotify.com/track/3OLDaypybBlk46CtasInNL) | [Refugee](https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx) | [ATIZALE](https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv) | 2:24 | 2025-09-05 | 2025-10-25 |
 | [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 | 2025-06-13 | 2025-09-06 |
 | [Auroras Boreales](https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg) | [EESCA](https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu) | [Auroras Boreales](https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E) | 4:38 | 2025-09-05 | 2025-10-18 |
@@ -120,7 +121,7 @@
 | [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 | 2026-02-28 |
 | [CORAZON PESAO](https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [CORAZON PESAO](https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L) | 2:22 | 2026-04-03 |  |
 | [Coronel](https://open.spotify.com/track/4O1PkdMNUAT53EMuv4PEmr) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Coronel](https://open.spotify.com/album/4yP6tr6iSQbIsyouDcWRWO) | 3:13 | 2025-09-19 | 2025-10-25 |
-| [Corre, mi vida](https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9) | [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Corre, mi vida](https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG) | 3:35 | 2026-02-13 |  |
+| [Corre, mi vida](https://open.spotify.com/track/5NA93E8nIKGU0CewHnBxw9) | [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Corre, mi vida](https://open.spotify.com/album/1eTi9JHapHWRTSmWrjRaOG) | 3:35 | 2026-02-13 | 2026-05-09 |
 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 | 2023-09-15 | 2024-07-12 |
 | [Crisis](https://open.spotify.com/track/1gJY719LKn133JORcLSQDz) | [Plazencia](https://open.spotify.com/artist/3LYRtUBx1UE0pz66d1s12x) | [Crisis](https://open.spotify.com/album/1vMSzg5GPVPlXz0aXW7I7g) | 2:44 | 2025-10-17 | 2026-02-14 |
 | [Crónica de una vida](https://open.spotify.com/track/1o5UADYohmOUBoqe38SNGk) | [Jaxho](https://open.spotify.com/artist/0KEOYaMwjec0pNYa19P8Gt), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Crónica de una vida](https://open.spotify.com/album/6SkRkWajha2kNA5yoOs96t) | 4:15 | 2025-07-11 | 2025-09-06 |
@@ -485,7 +486,7 @@
 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-10-11 | 2025-09-06 |
 | [souvenir](https://open.spotify.com/track/6S3rTIbe80fnR7m8Frm1No) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [souvenir](https://open.spotify.com/album/78mSCXWTEdTPt33WiuGQyJ) | 3:08 | 2026-04-24 |  |
 | [Soy la Más Mala de España](https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Soy la Más Mala de España](https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM) | 1:50 | 2024-05-31 | 2024-08-24 |
-| [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 | 2026-02-27 |  |
+| [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 | 2026-02-27 | 2026-05-09 |
 | [SPEED.](https://open.spotify.com/track/2ctGsO2BEmP6jrI9UzMavO) | [DEIIN](https://open.spotify.com/artist/3ChKSHdD8xLvHcPrt9lIS6) | [SPEED.](https://open.spotify.com/album/6eGlyrMWckHwO69SIRZMWW) | 2:27 | 2025-06-13 | 2025-09-06 |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-06-13 | 2025-09-06 |
 | [Sprawl II \(Mountains Beyond Mountains\)](https://open.spotify.com/track/0epAG0WWRlDMsMFJiE5c6I) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:25 | 2024-10-11 | 2025-06-14 |
@@ -564,6 +565,7 @@
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2024-10-11 | 2025-06-14 |
 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 | 2023-09-15 | 2024-10-11 |
 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2023-09-15 | 2024-10-11 |
+| [Yuzu](https://open.spotify.com/track/7uDlSSOTrXYaz48GzkT24f) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Zavalah](https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX) | [Yuzu](https://open.spotify.com/album/0AO6NxVUSX9K7LdreE7F8H) | 2:14 | 2026-05-08 |  |
 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 | 2023-09-15 | 2024-08-19 |
 | [¿A Quién Le Debo?](https://open.spotify.com/track/5gNj5Q9TmzzOIpgNRr37Ru) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿A Quién Le Debo?](https://open.spotify.com/album/3cfcLOKS1QoExbnqat3MBC) | 3:27 | 2025-09-12 | 2026-01-15 |
 | [¿Hoy a qué vamos a jugar?](https://open.spotify.com/track/6zQ3sTiUg5mDHcuWdTeKJz) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [¿Hoy a qué vamos a jugar?](https://open.spotify.com/album/3yDCar8MFsuUv10nYsD0km) | 2:32 | 2025-06-13 | 2025-09-06 |

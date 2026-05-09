@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,022 likes - 120 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,043 likes - 120 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 119 | [Prayer for Protection](https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:29 |
 | 120 | [Angelic Realms](https://open.spotify.com/track/59Exthh0eds9w6UpUdwt0v) | [LUCIANA](https://open.spotify.com/artist/6LEi9MSLaQmBgqWYZnorAo) | [Angelic Realms](https://open.spotify.com/album/6gqJ4w6y8GViQtLxAZTbyQ) | 8:25 |
 
-Snapshot ID: `AAAAANLme3LF7UoJagNpZExpdAkEk2ut`
+Snapshot ID: `AAAAABTdzQrjb7XClPojnlOffeIAwamX`

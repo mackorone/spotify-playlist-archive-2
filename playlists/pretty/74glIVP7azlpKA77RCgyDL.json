@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9121,
+  "num_followers": 9122,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAQBy81J9+jIfFeaPLKUxmHtg/d73pt",
+  "snapshot_id": "AAAQEwPXGxdjbgm/h9lVXcgb8vmOHuap",
   "tracks": [
+    {
+      "added_at": "2026-05-08 18:40:16",
+      "album": {
+        "name": "Playing God (feat. Corey Taylor)",
+        "url": "https://open.spotify.com/album/05WTokpw4rVSLReVc0OoEG"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 219536,
+      "name": "Playing God (feat. Corey Taylor)",
+      "url": "https://open.spotify.com/track/6EbyODHz4Pn3rkQXiMg1TQ"
+    },
+    {
+      "added_at": "2026-05-08 18:39:38",
+      "album": {
+        "name": "Roses & Rotting Corpses",
+        "url": "https://open.spotify.com/album/3YpRnWz4P3UibHGxzesHK9"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Roses & Rotting Corpses",
+      "url": "https://open.spotify.com/track/5rnyv9rngYQjobMUExlExu"
+    },
+    {
+      "added_at": "2026-05-08 18:39:53",
+      "album": {
+        "name": "Spit Out Into A Ditch.../ ...On The Side Of The New Jersey Turnpike",
+        "url": "https://open.spotify.com/album/4HqWd3IrRpcolIWdb1PbV2"
+      },
+      "artists": [
+        {
+          "name": "GILT",
+          "url": "https://open.spotify.com/artist/59nCDPMkSmF4iyBkMwzpzx"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "...On The Side Of The New Jersey Turnpike",
+      "url": "https://open.spotify.com/track/6jkMyhx1iJV8AXRof4CwQm"
+    },
+    {
+      "added_at": "2026-05-08 18:40:04",
+      "album": {
+        "name": "The Sword",
+        "url": "https://open.spotify.com/album/0tVkqXRLaWHYAHaQXdGWx1"
+      },
+      "artists": [
+        {
+          "name": "Melting",
+          "url": "https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF"
+        }
+      ],
+      "duration_ms": 66000,
+      "name": "The Sword",
+      "url": "https://open.spotify.com/track/05qT8gN3heAxK7Xl5gNtd9"
+    },
+    {
+      "added_at": "2026-05-08 18:40:27",
+      "album": {
+        "name": "Cloudfall",
+        "url": "https://open.spotify.com/album/1LmMZePgxxd8pnvUoUrf0X"
+      },
+      "artists": [
+        {
+          "name": "REZN",
+          "url": "https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Cloudfall",
+      "url": "https://open.spotify.com/track/1uEpwlrcgNuTLFYf8yQgfj"
+    },
+    {
+      "added_at": "2026-05-08 18:40:37",
+      "album": {
+        "name": "brutalist",
+        "url": "https://open.spotify.com/album/5k0agDstM0BzhWdKCRwyod"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 196353,
+      "name": "nepenthe",
+      "url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf"
+    },
     {
       "added_at": "2026-05-01 19:12:43",
       "album": {

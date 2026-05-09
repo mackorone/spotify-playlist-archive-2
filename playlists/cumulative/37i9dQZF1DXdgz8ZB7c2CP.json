@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\uddd1\u200d\ud83e\ude70 featuring jigitz",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udd4a\ufe0f featuring nimino",
   "name": "creamy",
   "tracks": [
     {
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208005,
       "name": "Asking 4",
       "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 135111,
       "name": "BACK2LIFE",
       "url": "https://open.spotify.com/track/1nTtAystVLB5UGcv09FKMI"
@@ -2220,6 +2220,24 @@
       "duration_ms": 191823,
       "name": "Best Part About You - camoufly Remix",
       "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
+    },
+    {
+      "album": {
+        "name": "Best You've Had",
+        "url": "https://open.spotify.com/album/54VaM9smrOaAMvOSVN3Fzx"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Best You've Had",
+      "url": "https://open.spotify.com/track/1wP2hXRlB3KddjkzcAH6Xb"
     },
     {
       "album": {
@@ -4301,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "CINNAMON",
+        "url": "https://open.spotify.com/album/6ZrFXTZvm9OkFXO603Bxb3"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "CINNAMON",
+      "url": "https://open.spotify.com/track/1kSt8cCMkpvYJAlLCSl5Fh"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP"
       },
@@ -5312,6 +5348,24 @@
       "duration_ms": 188197,
       "name": "CRUISIN",
       "url": "https://open.spotify.com/track/2GQI4Xj5hjT2wCp95W2U6R"
+    },
+    {
+      "album": {
+        "name": "Crybaby (why do i feel so sad?)",
+        "url": "https://open.spotify.com/album/7wCUDIpR3A4CII7oh3nIjU"
+      },
+      "artists": [
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Crybaby (why do i feel so sad?)",
+      "url": "https://open.spotify.com/track/5sHTYfLEPlMMPpXOIH12q9"
     },
     {
       "album": {
@@ -9040,7 +9094,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 195310,
       "name": "FOREVER, forever",
       "url": "https://open.spotify.com/track/5G6eAyYEfhH694fEPRlO8I"
@@ -9202,7 +9256,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 236291,
       "name": "Free",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
@@ -9312,6 +9366,24 @@
       "duration_ms": 145964,
       "name": "frenemy - clear eyes Remix",
       "url": "https://open.spotify.com/track/2duNaM5UOAFbkSYhHKcTjx"
+    },
+    {
+      "album": {
+        "name": "turbine / frog",
+        "url": "https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz"
+      },
+      "artists": [
+        {
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154167,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
     },
     {
       "album": {
@@ -10372,7 +10444,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 192000,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/4EVJkMkeEXOpvHBRe3JO6E"
@@ -18065,6 +18137,28 @@
     },
     {
       "album": {
+        "name": "Original Style",
+        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154566,
+      "name": "Original Style",
+      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
+    },
+    {
+      "album": {
         "name": "Original Ting",
         "url": "https://open.spotify.com/album/5e4ZyjJ0oDTCSjJTooyjdd"
       },
@@ -18296,6 +18390,24 @@
       "duration_ms": 138320,
       "name": "Out Of Touch",
       "url": "https://open.spotify.com/track/5FhepPAZpSH6wgFWYbeuxC"
+    },
+    {
+      "album": {
+        "name": "\"Not Found\" (EP)",
+        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188374,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
     },
     {
       "album": {
@@ -21122,7 +21234,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 171428,
       "name": "SAY SOMETHING",
       "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
@@ -23684,7 +23796,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 148943,
       "name": "stranger",
       "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
@@ -24284,6 +24396,24 @@
       "duration_ms": 212784,
       "name": "Take Me Under",
       "url": "https://open.spotify.com/track/6tcRvwmJSYjxJ1ERWaEWs4"
+    },
+    {
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "album": {
@@ -26651,6 +26781,28 @@
     },
     {
       "album": {
+        "name": "Ur Way",
+        "url": "https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198776,
+      "name": "Ur Way",
+      "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
+    },
+    {
+      "album": {
         "name": "ur world",
         "url": "https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny"
       },
@@ -26684,7 +26836,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 245273,
       "name": "Vandal",
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
@@ -28350,7 +28502,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 136010,
       "name": "Where's My Mind",
       "url": "https://open.spotify.com/track/04EWrxHR0sAUyVZkWoHTH1"
@@ -28988,6 +29140,28 @@
       "duration_ms": 209111,
       "name": "You & I - Bronze Whale Remix",
       "url": "https://open.spotify.com/track/3EoFSI9wMX95M2SKcnjztX"
+    },
+    {
+      "album": {
+        "name": "You Aint Got It",
+        "url": "https://open.spotify.com/album/7kigpraGoahgBPjlpo4Onc"
+      },
+      "artists": [
+        {
+          "name": "Know Good",
+          "url": "https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "You Aint Got It",
+      "url": "https://open.spotify.com/track/0PMMUuluiRSTYv3mrvyH1d"
     },
     {
       "album": {

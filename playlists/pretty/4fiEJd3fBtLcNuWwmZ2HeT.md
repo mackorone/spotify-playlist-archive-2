@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 482 songs - 1 day 3 hr 42 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 483 songs - 1 day 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -490,5 +490,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 480 | [ホワイトマインド \(feat\. 初音ミク\)](https://open.spotify.com/track/6zFiEUXgQbwOtOeYi8TJyB) | [Glue](https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85) | [ホワイトマインド](https://open.spotify.com/album/0d3l2BZ46eTTzl0ZBKNXbt) | 3:30 |
 | 481 | [yatsumeana](https://open.spotify.com/track/3mjDAKJ5wQeX3Qv2Jt3Uv3) | [XxXX](https://open.spotify.com/artist/6rimWLdviDbddrg9rmY88B) | [xxxx](https://open.spotify.com/album/7wNj1HwSTYsoCYKya1kZah) | 3:41 |
 | 482 | [パメラ](https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [パメラ](https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl) | 3:16 |
+| 483 | [Lotus eater \(feat\. Kaai Yuki\)](https://open.spotify.com/track/6oGEsHXy2eo8KOmHZGDIJq) | [Aoris](https://open.spotify.com/artist/3BHZU0TPDSxlbKFHflct6W), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [Lotus eater \(feat\. Kaai Yuki\)](https://open.spotify.com/album/1THxmV6O2zynUuZwyvptou) | 2:42 |
 
-Snapshot ID: `AAAKKt6uJWUPOzYobXOerXRaOtjy7kZ1`
+Snapshot ID: `AAAKK1YX4XX8smciQKi3mJ3M36LMhqcD`

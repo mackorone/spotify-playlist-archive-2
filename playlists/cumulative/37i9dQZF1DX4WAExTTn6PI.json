@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover:  Fancy Hagood\n",
+  "description": "Rising voices, enduring roots. Cover:  Alicia Blue\n",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/7KxLIn5un3SLddXUO9A9XL"
+      },
+      "artists": [
+        {
+          "name": "Caleb Caudle",
+          "url": "https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148565,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/6NrSL2lmoRE9srVemmBFcQ"
+    },
+    {
+      "album": {
         "name": "Appalachia",
         "url": "https://open.spotify.com/album/5bW3XCyWcder8Kg0GzpKnQ"
       },
@@ -482,6 +500,24 @@
       "duration_ms": 232289,
       "name": "Be Careful Throwing Stones",
       "url": "https://open.spotify.com/track/4O2PknDcSMKrFXWyN6FcfC"
+    },
+    {
+      "album": {
+        "name": "Believing",
+        "url": "https://open.spotify.com/album/7FLiuqAY7i6ahQ5WekIJB4"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240425,
+      "name": "Believing",
+      "url": "https://open.spotify.com/track/7xaa764VHfmidbR2nKxQFE"
     },
     {
       "album": {
@@ -824,6 +860,24 @@
       "duration_ms": 261493,
       "name": "Can't Hold A Candle To",
       "url": "https://open.spotify.com/track/6txJCnbb6w8y5zAqdWTW4M"
+    },
+    {
+      "album": {
+        "name": "Captain And Compass",
+        "url": "https://open.spotify.com/album/3mPSk5rAGgB04Uv9qaBnQf"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171782,
+      "name": "Captain And Compass",
+      "url": "https://open.spotify.com/track/468v2It3dyEgyQLHatb4O5"
     },
     {
       "album": {
@@ -1220,6 +1274,32 @@
       "duration_ms": 146933,
       "name": "Dreamer Dreamer",
       "url": "https://open.spotify.com/track/0VciKkrBcrbkuvckK315DI"
+    },
+    {
+      "album": {
+        "name": "E-350",
+        "url": "https://open.spotify.com/album/0xfHOLl0LPD96FsxZLWzCl"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Susto Stringband",
+          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
+        },
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "E-350",
+      "url": "https://open.spotify.com/track/1WNpKT5QYALA3YhzXlPxpI"
     },
     {
       "album": {
@@ -2272,7 +2352,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 254066,
       "name": "Heather",
       "url": "https://open.spotify.com/track/3VGcVbrGEdMbblaNiWBsyr"
@@ -2626,6 +2706,24 @@
       "duration_ms": 211533,
       "name": "I Still Believe in You",
       "url": "https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8"
+    },
+    {
+      "album": {
+        "name": "All I Want Is All of It",
+        "url": "https://open.spotify.com/album/5dxCpc0Ea190JhzQH706Ud"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "I Want the Milk",
+      "url": "https://open.spotify.com/track/6aPxQeKXniplK7r7a565i2"
     },
     {
       "album": {
@@ -3051,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Kentucky Cowboy",
+        "url": "https://open.spotify.com/album/1WZwkYPxGUvsF1gFsg1QJS"
+      },
+      "artists": [
+        {
+          "name": "Alicia Blue",
+          "url": "https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Kentucky Cowboy",
+      "url": "https://open.spotify.com/track/6Tz7XAq11bHMWPHwoWCqvt"
+    },
+    {
+      "album": {
         "name": "Later On",
         "url": "https://open.spotify.com/album/25hEJX6XH4IAGp9CHfipj9"
       },
@@ -3449,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/6Oq2uNmcgKdMSAdZSXG73j"
+      },
+      "artists": [
+        {
+          "name": "The Band Loula",
+          "url": "https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4qKwdtvtfuqCU9Pgveh79C"
+    },
+    {
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/6JCu27yMPYOhl4lUPe2KDh"
       },
@@ -3622,7 +3756,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 247125,
       "name": "Mellow War",
       "url": "https://open.spotify.com/track/0vWEwmCWLZ8QL3tPL7raD3"
@@ -4405,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "Pulverize",
+        "url": "https://open.spotify.com/album/6IJ34SLxxEXBVQ9ekiyUTn"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "Pulverize",
+      "url": "https://open.spotify.com/track/0XHLZNivQ9KbQ4RsdjESx9"
+    },
+    {
+      "album": {
         "name": "Queen of Spades",
         "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
       },
@@ -4542,7 +4694,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 208440,
       "name": "Riot of the Red",
       "url": "https://open.spotify.com/track/2VdbAia2Chh60vG85MCZ18"
@@ -4996,7 +5148,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 265320,
       "name": "Some Misty Morning [Feat. Erin Rae]",
       "url": "https://open.spotify.com/track/4uLLyixpzZjyvZRFDdIPEa"
@@ -5122,7 +5274,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 198221,
       "name": "String up a Necklace",
       "url": "https://open.spotify.com/track/7aJr9XiKIvkDROXrlrTib1"
@@ -5480,7 +5632,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 236864,
       "name": "Thank the Lord",
       "url": "https://open.spotify.com/track/1UQU5F0KBQokni2XIoY4De"
@@ -5754,7 +5906,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149600,
       "name": "The Wizard",
       "url": "https://open.spotify.com/track/6v9l9QG7fX9sLSp6TV15f2"
@@ -5870,7 +6022,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 217714,
       "name": "Time Well Spent For A Man (feat. Charles Wesley Godwin)",
       "url": "https://open.spotify.com/track/60WEp7uV5ib2pyijNm60s4"
@@ -6217,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/3oQ6b9z4HGqbICuM41XxHY"
+      },
+      "artists": [
+        {
+          "name": "Michaela Anne",
+          "url": "https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "We're All Good",
+      "url": "https://open.spotify.com/track/5OwsUX0ycNCeY39sxp0c81"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/75z7BsjM6xczGJ8GHEnsX7"
       },
@@ -6246,7 +6416,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 222468,
       "name": "What's Mine",
       "url": "https://open.spotify.com/track/4zYSaNGOSU7HOB5zZD7HSm"

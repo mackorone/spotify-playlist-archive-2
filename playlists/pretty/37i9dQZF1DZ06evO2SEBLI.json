@@ -1,12 +1,12 @@
 {
   "description": "This is iu takahashi. The essential tracks, all in one playlist.",
-  "num_followers": 41,
+  "num_followers": 40,
   "original_name": "This Is iu takahashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAxxm6H7RGpKseoVOf5Pz7A",
+  "snapshot_id": "afvWAAAAAABAhJcD1yf39Unfiot9a0Ek",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 337937,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+      "duration_ms": 380624,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 380624,
-      "name": "Dew",
-      "url": "https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj"
+      "duration_ms": 337937,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Left",
-        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
+        "name": "Late in life",
+        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Rustle",
-      "url": "https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn"
+      "duration_ms": 384249,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/1GRsoPEqDv649lZDFdya0G"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late in life",
-        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 384249,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/1GRsoPEqDv649lZDFdya0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Depthscape",
         "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Left",
+        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rustle",
+      "url": "https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "halfway",
         "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
       },
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 424000,
-      "name": "halfway",
-      "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
+      "duration_ms": 360000,
+      "name": "IDFA",
+      "url": "https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Depthscape",
         "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "halfway",
         "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
       },
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 360000,
-      "name": "IDFA",
-      "url": "https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4"
+      "duration_ms": 424000,
+      "name": "halfway",
+      "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
     },
     {
       "added_at": null,

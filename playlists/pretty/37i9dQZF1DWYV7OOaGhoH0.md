@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,802 likes - 117 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,666 likes - 117 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 116 | [classic love](https://open.spotify.com/track/7GyA0vOqLy36C8t9qd1J8S) | [Luke Roberts](https://open.spotify.com/artist/6wAZyC0IbyHiQ7yJrI15zb), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [classic love](https://open.spotify.com/album/41YF9kufWQPu6w5j80FFja) | 4:13 |
 | 117 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 
-Snapshot ID: `AAAAALPQzjRAeTXFLLswMl/FJ5QP/tRT`
+Snapshot ID: `AAAAAE5gQOBq9ysz0439lkADk4Qsvzoo`

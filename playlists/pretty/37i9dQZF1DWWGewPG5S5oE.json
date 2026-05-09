@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u633e\u9593\u7f8e\u5e06",
-  "num_followers": 49690,
+  "num_followers": 49696,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
       "artists": [
         {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        },
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP"
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -355,18 +347,26 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
         }
       ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+      "duration_ms": 134000,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
+        "name": "\u706b\u306e\u9ce5",
+        "url": "https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm"
+      },
+      "artists": [
+        {
+          "name": "EYRIE",
+          "url": "https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453"
+        }
+      ],
+      "duration_ms": 279173,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
         "name": "Wave - S\u00f3 Dan\u00e7o Samba - Samba de Uma Nota S\u00f3",
         "url": "https://open.spotify.com/album/7vfmIP4xrni7mSiHimadQT"
       },
@@ -539,18 +555,22 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "\u706b\u306e\u9ce5",
-        "url": "https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm"
+        "name": "Asleep Above Creatures",
+        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
       },
       "artists": [
         {
-          "name": "EYRIE",
-          "url": "https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453"
+          "name": "Misaki Umei",
+          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
+        },
+        {
+          "name": "Antonio Loureiro",
+          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
         }
       ],
-      "duration_ms": 279173,
-      "name": "Samsara",
-      "url": "https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj"
+      "duration_ms": 291040,
+      "name": "Go around in circles",
+      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -583,26 +603,6 @@
       "duration_ms": 215675,
       "name": "SS",
       "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "Asleep Above Creatures",
-        "url": "https://open.spotify.com/album/6O0Y4Ryzc3yApVKVSw5b6T"
-      },
-      "artists": [
-        {
-          "name": "Misaki Umei",
-          "url": "https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO"
-        },
-        {
-          "name": "Antonio Loureiro",
-          "url": "https://open.spotify.com/artist/68GFLV3RsMCGeWc3JFbijD"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Go around in circles",
-      "url": "https://open.spotify.com/track/2tJc9tvjkhmYlk191KcLJc"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "An Airship",
-        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        }
-      ],
-      "duration_ms": 279483,
-      "name": "\u304a\u9db4",
-      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX"
+        "name": "An Airship",
+        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
       },
       "artists": [
         {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
         }
       ],
-      "duration_ms": 349329,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v"
+      "duration_ms": 279483,
+      "name": "\u304a\u9db4",
+      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -747,22 +731,34 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Answer to Remember II",
-        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX"
       },
       "artists": [
         {
-          "name": "Answer to Remember",
-          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
-        },
-        {
-          "name": "Jua",
-          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 221813,
-      "name": "KIMOCHIS",
-      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
+      "duration_ms": 349329,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Lithium",
+        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
+      },
+      "artists": [
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -803,34 +799,22 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Lithium",
-        "url": "https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f"
+        "name": "Answer to Remember II",
+        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
       },
       "artists": [
         {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV"
-    },
-    {
-      "added_at": "2026-04-28 15:00:54",
-      "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        },
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "Jua",
+          "url": "https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk"
         }
       ],
-      "duration_ms": 187000,
-      "name": "15 Eunomia",
-      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+      "duration_ms": 221813,
+      "name": "KIMOCHIS",
+      "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -855,18 +839,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Manual",
-        "url": "https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r"
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
       "artists": [
         {
-          "name": "akiko",
-          "url": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
         }
       ],
-      "duration_ms": 239602,
-      "name": "Manual",
-      "url": "https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS"
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "10-6-12",
-        "url": "https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ"
+        "name": "Manual",
+        "url": "https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r"
       },
       "artists": [
         {
-          "name": "Okazaki Brothers",
-          "url": "https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d"
+          "name": "akiko",
+          "url": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
         }
       ],
-      "duration_ms": 286013,
-      "name": "10-6-12",
-      "url": "https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq"
+      "duration_ms": 239602,
+      "name": "Manual",
+      "url": "https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -919,26 +903,18 @@
     {
       "added_at": "2026-04-28 15:00:54",
       "album": {
-        "name": "Europic (for S.W.)",
-        "url": "https://open.spotify.com/album/0sbJM3bbDANHk0SmZ4lAo7"
+        "name": "10-6-12",
+        "url": "https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ"
       },
       "artists": [
         {
-          "name": "Marty Holoubek",
-          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
-        },
-        {
-          "name": "\u6e21\u8fba\u7fd4\u592a",
-          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+          "name": "Okazaki Brothers",
+          "url": "https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d"
         }
       ],
-      "duration_ms": 156630,
-      "name": "Europic (for S.W.)",
-      "url": "https://open.spotify.com/track/4x3ULI0Y52VAXtwr1X4TDS"
+      "duration_ms": 286013,
+      "name": "10-6-12",
+      "url": "https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq"
     },
     {
       "added_at": "2026-04-28 15:00:54",
@@ -975,6 +951,30 @@
       "duration_ms": 775840,
       "name": "Eclypso",
       "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
+    },
+    {
+      "added_at": "2026-04-28 15:00:54",
+      "album": {
+        "name": "Europic (for S.W.)",
+        "url": "https://open.spotify.com/album/0sbJM3bbDANHk0SmZ4lAo7"
+      },
+      "artists": [
+        {
+          "name": "Marty Holoubek",
+          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        }
+      ],
+      "duration_ms": 156630,
+      "name": "Europic (for S.W.)",
+      "url": "https://open.spotify.com/track/4x3ULI0Y52VAXtwr1X4TDS"
     }
   ],
   "unique_name": "Modern Jazz Japan",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Marty
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,774 likes - 98 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,787 likes - 98 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 78 | [DC3 x Fumez The Engineer \- Plugged In](https://open.spotify.com/track/0hpxowEgwmSJqjDfA5jIJA) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [DC3 x Fumez The Engineer \- Plugged In](https://open.spotify.com/album/2uY6HbsiAeUDLeDqvQcZFY) | 2:47 |
 | 79 | [New York Strip](https://open.spotify.com/track/53WyfKOJba2jUOWrRX4cP7) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [New York Strip](https://open.spotify.com/album/320ZathsGfcLCuJvzjmnHb) | 1:57 |
 | 80 | [Cole Palmer](https://open.spotify.com/track/1Ow7vaOAp5ZXx6lMF6JBGI) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:48 |
-| 81 | [GO!](https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [GO!](https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81) | 2:03 |
+| 81 | [GO!](https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [GO!](https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81) | 2:00 |
 | 82 | [Big Girl Big God Remix \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
 | 83 | [Outkast](https://open.spotify.com/track/7mWS0RXJKtDI4uowLiUaK2) | [Cyfë II](https://open.spotify.com/artist/0g4dqela7F6gOIk4wEOgOv), [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [The Renaissance Era](https://open.spotify.com/album/3FwMone2xbrog3Sn7A21kf) | 2:01 |
 | 84 | [HOLY GIRLS! \(WERK\)](https://open.spotify.com/track/35Mcvp5mlZY0r9fWxbnzvo) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HOLY GIRLS! \(WERK\)](https://open.spotify.com/album/20GX20u3QhSvaxxRgHHYcV) | 2:34 |

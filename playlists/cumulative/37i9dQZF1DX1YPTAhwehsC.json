@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Lil Tjay",
+  "description": "Up and down I-95. Cover: BIA",
   "name": "State of Mind",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 128056,
       "name": "10s",
       "url": "https://open.spotify.com/track/6vjWDWJyVxTFbjoUbQXslM"
@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Pray 4 Her (Deluxe)",
+        "url": "https://open.spotify.com/album/1bG78GpqSfxwOtXT5cMq91"
+      },
+      "artists": [
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132620,
+      "name": "4 The Code (feat. Chase Shakur)",
+      "url": "https://open.spotify.com/track/1HtLju5vuS4qbMmTUVdMoE"
+    },
+    {
+      "album": {
         "name": "40",
         "url": "https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt"
       },
@@ -1188,6 +1210,24 @@
       "duration_ms": 135569,
       "name": "9 LIVES",
       "url": "https://open.spotify.com/track/6YmH1TzEzZikOUJLNDKDZa"
+    },
+    {
+      "album": {
+        "name": "[PRESS]",
+        "url": "https://open.spotify.com/album/3YSbgJLv2pCcqObMDD7vtv"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100595,
+      "name": "[PRESS]",
+      "url": "https://open.spotify.com/track/54JVCqT5dwUc9QRvKuonWW"
     },
     {
       "album": {
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 87635,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/6uCgKChOCSxUBaF7fDClCm"
@@ -2754,7 +2794,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 140050,
       "name": "Baby I",
       "url": "https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49"
@@ -2812,7 +2852,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 147491,
       "name": "babygirl",
       "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
@@ -4402,7 +4442,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202500,
       "name": "Bet it All",
       "url": "https://open.spotify.com/track/5aPjCwBAsj1yT89rIwqzMN"
@@ -5930,6 +5970,36 @@
       "duration_ms": 112866,
       "name": "Born With It",
       "url": "https://open.spotify.com/track/2OoNh4KrWVJjmIeYU9chtF"
+    },
+    {
+      "album": {
+        "name": "Boss Thing",
+        "url": "https://open.spotify.com/album/1EppA9ixwZVDCMBAhtgn5z"
+      },
+      "artists": [
+        {
+          "name": "Rick Hyde",
+          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
+        },
+        {
+          "name": "Meeco",
+          "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168276,
+      "name": "Boss Thing",
+      "url": "https://open.spotify.com/track/1GxWQ0kLR8AOyw4raoqHKs"
     },
     {
       "album": {
@@ -11134,7 +11204,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 183092,
       "name": "Doremi",
       "url": "https://open.spotify.com/track/12IEodrxWaYRQ6jaA1ugjH"
@@ -11644,6 +11714,24 @@
       "duration_ms": 239355,
       "name": "DunnHill (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9"
+    },
+    {
+      "album": {
+        "name": "Dusky, Pt. 2",
+        "url": "https://open.spotify.com/album/3jGVEsI7iuYW9NG1AmRHMb"
+      },
+      "artists": [
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175071,
+      "name": "Dusky, Pt. 2",
+      "url": "https://open.spotify.com/track/45aLJ5Ng0xWO7y1tesOxsz"
     },
     {
       "album": {
@@ -13174,7 +13262,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 153700,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2M2nFPekII4HlqqqFaBlhO"
@@ -13894,7 +13982,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 192644,
       "name": "Free 40 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1J8nt6eE4WFkvK5EFCYIpK"
@@ -16086,7 +16174,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 107367,
       "name": "GShock",
       "url": "https://open.spotify.com/track/77Hap9qeiPEtTYe2doWeaM"
@@ -18166,7 +18254,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 207567,
       "name": "i know",
       "url": "https://open.spotify.com/track/1SmVZcy57ECqykPloyEaUQ"
@@ -18376,6 +18464,24 @@
       "duration_ms": 147691,
       "name": "I Should've Known (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL"
+    },
+    {
+      "album": {
+        "name": "I Wanna Rock",
+        "url": "https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224136,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k"
     },
     {
       "album": {
@@ -18880,7 +18986,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 130194,
       "name": "In Ya City",
       "url": "https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez"
@@ -19500,7 +19606,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 150769,
       "name": "Jewels",
       "url": "https://open.spotify.com/track/7izvftpzPaPH5wSSUu2PF1"
@@ -20719,6 +20825,24 @@
     },
     {
       "album": {
+        "name": "the greatest show on earth (director's cut)",
+        "url": "https://open.spotify.com/album/4nijgeDknQF6QAulW6jfCO"
+      },
+      "artists": [
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168491,
+      "name": "last time",
+      "url": "https://open.spotify.com/track/4CxPnuaHofVMvJeEZwXIio"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -21404,7 +21528,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 181969,
       "name": "Life on Edge",
       "url": "https://open.spotify.com/track/633PTzgYsWlR60qgBlShcl"
@@ -24800,7 +24924,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 159502,
       "name": "N*gga",
       "url": "https://open.spotify.com/track/3TWsKrNBbpunLwuHXxnuxT"
@@ -25904,7 +26028,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184532,
       "name": "No One Told Us - Extended Version",
       "url": "https://open.spotify.com/track/4FlDhT6FGCANjE3UKZMd4i"
@@ -26592,7 +26716,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 259111,
       "name": "NY LOVE",
       "url": "https://open.spotify.com/track/1HBM5oS7wogctLdibJRVNS"
@@ -31904,7 +32028,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 202105,
       "name": "Run It Back (feat. Mack Keane)",
       "url": "https://open.spotify.com/track/3EPhHsTOWJFEtG6sXUZNYr"
@@ -33875,6 +33999,32 @@
     },
     {
       "album": {
+        "name": "Smoking pt. 2",
+        "url": "https://open.spotify.com/album/6NsTk0mMFPriN6n1NVfRwd"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201467,
+      "name": "Smoking pt. 2",
+      "url": "https://open.spotify.com/track/53b8uZzAN04bh91gZzZt8O"
+    },
+    {
+      "album": {
         "name": "Smoochie Valentine",
         "url": "https://open.spotify.com/album/3z797ObItaoscc6vsoMrA5"
       },
@@ -35541,6 +35691,32 @@
     },
     {
       "album": {
+        "name": "Doe Or Die III",
+        "url": "https://open.spotify.com/album/3de0kqL5ePdhqh0Nf3eWsS"
+      },
+      "artists": [
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168530,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/7wxT1CkqG6JrPzEfFza5vL"
+    },
+    {
+      "album": {
         "name": "Survivors Guilt",
         "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
       },
@@ -36570,6 +36746,28 @@
       "duration_ms": 249600,
       "name": "The Louvre",
       "url": "https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs"
+    },
+    {
+      "album": {
+        "name": "The Main Line",
+        "url": "https://open.spotify.com/album/6yiijYl2UNga7ot3hJkADu"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178648,
+      "name": "The Main Line",
+      "url": "https://open.spotify.com/track/7BrBJUSNar65p4N6TxFynI"
     },
     {
       "album": {
@@ -37865,6 +38063,32 @@
     },
     {
       "album": {
+        "name": "TRICERATOPS",
+        "url": "https://open.spotify.com/album/3WcdAdYwV80ZtRiBwaRTSH"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "TRICERATOPS",
+      "url": "https://open.spotify.com/track/2OG0gKRIsTbtP2niZqpKs3"
+    },
+    {
+      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1"
       },
@@ -38214,7 +38438,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 153617,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/1EtOaxATYj7RVYUJyaTS5d"
@@ -39099,6 +39323,24 @@
     },
     {
       "album": {
+        "name": "War Over Land",
+        "url": "https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174068,
+      "name": "War Over Land",
+      "url": "https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4"
+    },
+    {
+      "album": {
         "name": "Warehouse 4 (feat. OT The Real & Rick Hyde)",
         "url": "https://open.spotify.com/album/4Vu9NCSr7nM4cqvqH4W9yM"
       },
@@ -39641,6 +39883,24 @@
     },
     {
       "album": {
+        "name": "WE ON GO PACK",
+        "url": "https://open.spotify.com/album/61Jgho7HYLLXJw6wmAjhJU"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6bhxyZAcD4vOEGONSdXaEP"
+    },
+    {
+      "album": {
         "name": "WE ON GO III (feat. TiaCorine)",
         "url": "https://open.spotify.com/album/7anCPgsODKsvaQqozZq00L"
       },
@@ -39656,7 +39916,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 165801,
       "name": "WE ON GO III (feat. TiaCorine)",
       "url": "https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58"
@@ -40862,7 +41122,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 258262,
       "name": "WISH ME WELL (feat. Max B)",
       "url": "https://open.spotify.com/track/204Ryu8Xr30ByJyJiXNh30"

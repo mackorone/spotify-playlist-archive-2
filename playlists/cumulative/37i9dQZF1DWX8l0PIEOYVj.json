@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \u2764\ufe0f\u200d\ud83d\udd25 featuring Virtual Riot",
+  "description": "Future & melodic bass \ud83d\udef8 featuring Gryffin",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -6230,7 +6230,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 187500,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/5IfDKPGTYicNZTCScvg7wh"
@@ -19250,6 +19250,32 @@
       "duration_ms": 262404,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6lx0nNHGV82zak7aO2JNWz"
+    },
+    {
+      "album": {
+        "name": "Without You (feat. Sasha Alex Sloan)",
+        "url": "https://open.spotify.com/album/7EAs7BfYqQ1vmzBzI529Nk"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176258,
+      "name": "Without You (feat. Sasha Alex Sloan)",
+      "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
     },
     {
       "album": {

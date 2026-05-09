@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 202475,
+  "num_followers": 202458,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,42 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 215276,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "Ralph Marterie",
+          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
+        },
+        {
+          "name": "Ralph Marterie and His Orchestra",
+          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Dig That Crazy Santa Claus",
+      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -619,18 +655,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Little Saint Nick",
-        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
         }
       ],
-      "duration_ms": 215276,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
+      "duration_ms": 198002,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -663,46 +703,6 @@
       "duration_ms": 180240,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
-      },
-      "artists": [
-        {
-          "name": "Ralph Marterie",
-          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
-        },
-        {
-          "name": "Ralph Marterie and His Orchestra",
-          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Dig That Crazy Santa Claus",
-      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/4AAqIoIry72zXyaCm9vm9u"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Liz Gillies",
-          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
-        }
-      ],
-      "duration_ms": 198002,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7ijbpqdujMMMbyV3sl6yIQ"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Mele Kalikimaka",
+      "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "Pretty/Groovy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 199773,
       "name": "Winter Wonderland - 78 Take",
       "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Mele Kalikimaka",
-      "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
     },
     {
       "added_at": "2025-12-19 14:06:32",

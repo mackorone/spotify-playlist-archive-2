@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-849 songs - 1 day 14 hr 46 min
+850 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-06-03 | 2022-06-18 |
 | [Ghost Town](https://open.spotify.com/track/39M5Ael30C0gwWxzM76K3a) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Ghost Town](https://open.spotify.com/album/5ThkyKRSPoNQc2neaiCXiW) | 2:42 | 2025-04-04 | 2025-08-23 |
 | [Ghosts](https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Ghosts](https://open.spotify.com/album/5MO6DsF9EtUMjOZuD9uVs5) | 3:27 | 2026-04-03 |  |
-| [gigolo](https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [gigolo](https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0) | 1:58 | 2025-10-05 |  |
+| [gigolo](https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [gigolo](https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0) | 1:58 | 2025-10-05 | 2026-05-09 |
 | [Girl U My Plug](https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Girl U My Plug](https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302) | 3:19 | 2022-04-22 | 2022-05-07 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2022-07-07 |
 | [girls like you](https://open.spotify.com/track/6rPwolS0uPBqqe2KGOSTcU) | [Obai](https://open.spotify.com/artist/54u3tnWEeHQ7UfY0FXJZ8h) | [girls like you](https://open.spotify.com/album/6LcODo6pn4vz9XokfBsmfN) | 2:17 | 2023-11-10 | 2024-06-01 |
@@ -763,6 +763,7 @@
 | [Throwing Parties](https://open.spotify.com/track/6EDJUMi6j6GwcOgkK3bICo) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Throwing Parties](https://open.spotify.com/album/5i7EkzpzKG2lfQn0gozp8d) | 3:02 | 2024-02-02 | 2024-06-01 |
 | [Tidal Wave](https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tidal Wave](https://open.spotify.com/album/3bRmPk6JsO9fXbCOhVsOEL) | 2:42 | 2022-04-15 | 2022-06-11 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-04-08 | 2022-05-20 |
+| [TNT](https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:02 | 2026-05-08 |  |
 | [Tokyo Drift](https://open.spotify.com/track/6X2S7ZNj1z8EoUa14uzdJF) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/1TgRgw9PAFAYqWw8PH9298) | 2:21 | 2022-12-02 | 2022-12-21 |
 | [Tokyo Drift](https://open.spotify.com/track/76A5wgXcn1uFnm2U1NfKMM) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/3D0aMA56sQOTU4HpbAqQvS) | 2:21 | 2022-12-02 | 2022-12-09 |
 | [Tom Brady](https://open.spotify.com/track/02cQm104XjRk0sQd1ZQb8y) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Tom Brady](https://open.spotify.com/album/24cmHXOPr2NLM6L1zIvrsA) | 2:16 | 2023-02-17 | 2024-05-25 |

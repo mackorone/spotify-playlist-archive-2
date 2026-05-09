@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: IKNOWFELIPE, Yuri Redicopa, Danzo, Oklin",
-  "num_followers": 134968,
+  "num_followers": 134975,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -459,94 +459,6 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ Yago",
-          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Modelo Brasileiro",
-      "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "Princ\u00edpios",
-        "url": "https://open.spotify.com/album/51awyzGDxNNDDVvTOCngZn"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Princ\u00edpios",
-      "url": "https://open.spotify.com/track/5A9Eib6BX6y8k2xPcWM5x8"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "DOIS Quebrada Inteligente Pro Max",
-        "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Mc Larisson",
-          "url": "https://open.spotify.com/artist/5NKSnEPwnQ6s7muiQE4EsK"
-        }
-      ],
-      "duration_ms": 237456,
-      "name": "PRINCESA MANDRAKA.",
-      "url": "https://open.spotify.com/track/20BRVZEog9m5rZGSv2UIGf"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
         "name": "Briga, Separa e Volta",
         "url": "https://open.spotify.com/album/33wIcwUUN0RrQbMJTixPm2"
       },
@@ -595,6 +507,62 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Modelo Brasileiro",
+      "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "DOIS Quebrada Inteligente Pro Max",
+        "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Larisson",
+          "url": "https://open.spotify.com/artist/5NKSnEPwnQ6s7muiQE4EsK"
+        }
+      ],
+      "duration_ms": 237456,
+      "name": "PRINCESA MANDRAKA.",
+      "url": "https://open.spotify.com/track/20BRVZEog9m5rZGSv2UIGf"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
         "name": "ADRENALINA",
         "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
       },
@@ -619,6 +587,38 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
+        "name": "Princ\u00edpios",
+        "url": "https://open.spotify.com/album/51awyzGDxNNDDVvTOCngZn"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Princ\u00edpios",
+      "url": "https://open.spotify.com/track/5A9Eib6BX6y8k2xPcWM5x8"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
         "name": "Psicol\u00f3gico 2",
         "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
       },
@@ -631,6 +631,70 @@
       "duration_ms": 146526,
       "name": "Psicol\u00f3gico 2",
       "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "loira de medicina",
+        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 153472,
+      "name": "loira de medicina",
+      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "99 no beat",
+          "url": "https://open.spotify.com/artist/4J4rtJoJeqy7Q1q2jfWJ2j"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "ODNUM ao Contr\u00e1rio!",
+      "url": "https://open.spotify.com/track/1N69vOh56cn1SXEA1pj7AR"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "Ecos do Sil\u00eancio",
+        "url": "https://open.spotify.com/album/3oiPHSVfWq4JunYpYnwxNK"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "tal do dias",
+          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
+        }
+      ],
+      "duration_ms": 174763,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7pi9Y5Dix1avrFQgvBWoa5"
     },
     {
       "added_at": "2026-05-01 03:02:13",
@@ -667,70 +731,6 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "99 no beat",
-          "url": "https://open.spotify.com/artist/4J4rtJoJeqy7Q1q2jfWJ2j"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "ODNUM ao Contr\u00e1rio!",
-      "url": "https://open.spotify.com/track/1N69vOh56cn1SXEA1pj7AR"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "loira de medicina",
-        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 153472,
-      "name": "loira de medicina",
-      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "Ecos do Sil\u00eancio",
-        "url": "https://open.spotify.com/album/3oiPHSVfWq4JunYpYnwxNK"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "tal do dias",
-          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
-        }
-      ],
-      "duration_ms": 174763,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7pi9Y5Dix1avrFQgvBWoa5"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
         "name": "MPC (M\u00fasica Popular Carioca)",
         "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
@@ -751,6 +751,34 @@
       "duration_ms": 144000,
       "name": "PIXAD\u00c3O NO BAILE",
       "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "Mistura de Sotaque",
+        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Mistura de Sotaque",
+      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
     },
     {
       "added_at": "2026-05-01 03:02:13",
@@ -811,34 +839,6 @@
       "duration_ms": 248997,
       "name": "Quarto 28",
       "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "Mistura de Sotaque",
-        "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Mistura de Sotaque",
-      "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
     },
     {
       "added_at": "2026-05-01 03:02:13",
@@ -1255,46 +1255,6 @@
     {
       "added_at": "2026-05-01 03:02:13",
       "album": {
-        "name": "Hiphop X Funk",
-        "url": "https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ Yas",
-          "url": "https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS"
-        }
-      ],
-      "duration_ms": 149176,
-      "name": "Hiphop X Funk",
-      "url": "https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
-      },
-      "artists": [
-        {
-          "name": "Tribo da Periferia",
-          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
-        },
-        {
-          "name": "Duckjay",
-          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Sensa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
-    },
-    {
-      "added_at": "2026-05-01 03:02:13",
-      "album": {
         "name": "Papeo de la Turra [Turreo Rkt]",
         "url": "https://open.spotify.com/album/1wJ61ZPG03Xu75vQU7LX7i"
       },
@@ -1323,6 +1283,46 @@
       "duration_ms": 174000,
       "name": "Papeo de la Turra [Turreo Rkt]",
       "url": "https://open.spotify.com/track/51RSFPLUrZbpXEoceGTfP0"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Sensa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
+    },
+    {
+      "added_at": "2026-05-01 03:02:13",
+      "album": {
+        "name": "Hiphop X Funk",
+        "url": "https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ Yas",
+          "url": "https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS"
+        }
+      ],
+      "duration_ms": 149176,
+      "name": "Hiphop X Funk",
+      "url": "https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

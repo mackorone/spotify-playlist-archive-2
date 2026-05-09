@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Leo Rizzi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,189 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,190 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [Espadas en guadañas](https://open.spotify.com/track/2MHaYiWEIIWVaStGwk02Do) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU), [Erik Urano](https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN) | [Espadas en guadañas](https://open.spotify.com/album/6VOGLFg6jfpSl5qOVwj1ZB) | 3:00 |
 | 12 | [Volver a casa \- 30 aniversario](https://open.spotify.com/track/6HBY8XWBqtffZyboJujDDl) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Volver a casa \(30 aniversario\)](https://open.spotify.com/album/4XxubEaUZ9gGokwBhl1JGo) | 6:35 |
 | 13 | [nostalgia](https://open.spotify.com/track/16kZ7Y8zNwrVJXXoo9lYeR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [\(nostalgia\)](https://open.spotify.com/album/7Jc36cWAbQI2NpvcmBik5A) | 3:24 |
-| 14 | [Track 2](https://open.spotify.com/track/200gGu9eIiTePAJEDvcobw) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [entre tu y yo](https://open.spotify.com/album/5E8g8BGv8LW19rcEzeZf4D) | 0:00 |
+| 14 | [otro año](https://open.spotify.com/track/200gGu9eIiTePAJEDvcobw) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [entre tu y yo](https://open.spotify.com/album/5E8g8BGv8LW19rcEzeZf4D) | 2:46 |
 | 15 | [Kinder Bueno & Lotus](https://open.spotify.com/track/7qcK6Udp3c3WZ81HhU59fz) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [GRAVY](https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql), [Piel Canala](https://open.spotify.com/artist/2gDERQi7c7SEWBzH1juZlS) | [Kinder Bueno & Lotus](https://open.spotify.com/album/39PSYED2szx6jiI44iBitp) | 3:08 |
 | 16 | [DIJE LO QUE DIJE PORQUE](https://open.spotify.com/track/2IHiO3gTE5VxmLOqAdVlZ4) | [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty), [Travv](https://open.spotify.com/artist/4ZtGg3jRJlcs9XyvNsgLRO) | [DIJE LO QUE DIJE PORQUE](https://open.spotify.com/album/2uzCyleiHkOEXfQnSxZh1a) | 2:38 |
 | 17 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |

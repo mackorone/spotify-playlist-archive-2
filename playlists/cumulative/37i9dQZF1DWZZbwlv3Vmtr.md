@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,192 songs - 1 day 21 hr 51 min
+1,193 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Feel It](https://open.spotify.com/track/5v5dGnAsmO0S2K06Rjf8DH) | [Ionized Beats Inc.](https://open.spotify.com/artist/5aa7iCxQ4ZZGlSBaSe9bXf) | [Feel It](https://open.spotify.com/album/6jUCDE1rASYEcpc1k42kUp) | 2:11 | 2024-03-22 | 2024-06-01 |
 | [Feel Something](https://open.spotify.com/track/3zSfNWdoWlvKylST7NXs1Y) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Feel Something](https://open.spotify.com/album/36z0xfW0euKDfGCfcbmDFy) | 2:02 | 2022-12-16 | 2023-11-24 |
 | [Feelin'](https://open.spotify.com/track/3CTAJlaC50aDkUUmZtewWp) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Feelin'](https://open.spotify.com/album/0OiKNfuaINRWoMkEBH8VhT) | 2:23 | 2022-05-13 | 2023-11-17 |
+| [fell in love](https://open.spotify.com/track/14wcOAje2BxfsBzTCoKbBI) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [fell in love](https://open.spotify.com/album/2fleamHsfUsd3A9kH0dgaO) | 2:04 | 2026-05-08 |  |
 | [Fifteen Past Sober](https://open.spotify.com/track/6Q9M5OEQLjFpBK9fMB7GGu) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [Fifteen Past Sober](https://open.spotify.com/album/5nQE6hIdoCA2GsDF4rZlSj) | 2:36 | 2025-09-19 |  |
 | [Fine Wine](https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Street Lights](https://open.spotify.com/album/0TeWAJONgq6SVHVd6KtwIb) | 2:53 | 2022-04-15 | 2022-09-03 |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-04-15 | 2025-05-24 |

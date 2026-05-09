@@ -1400,10 +1400,28 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 271933,
       "name": "Rocks Off",
       "url": "https://open.spotify.com/track/42o3gy9e8dzBHvQE991ad8"
+    },
+    {
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279635,
+      "name": "Rough And Twisted",
+      "url": "https://open.spotify.com/track/1ilnthAuHvDnqO5rshz0Wy"
     },
     {
       "album": {

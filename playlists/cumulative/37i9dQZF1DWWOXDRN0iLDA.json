@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Birds in the Quiet Light",
+        "url": "https://open.spotify.com/album/3KsmPM8jmHzYKZYWf3jvYv"
+      },
+      "artists": [
+        {
+          "name": "Silenced",
+          "url": "https://open.spotify.com/artist/4DIjHWtTuEdnc561jHAESJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132194,
+      "name": "Birds in the Quiet Light",
+      "url": "https://open.spotify.com/track/5IVb7mYYVrVdzL9t800o2L"
+    },
+    {
+      "album": {
         "name": "Birds Singing In The Park",
         "url": "https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV"
       },
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Forest Lullaby",
+        "url": "https://open.spotify.com/album/5TF6gS3Ftz1m1LDBpQ2Dtc"
+      },
+      "artists": [
+        {
+          "name": "Novera Rae",
+          "url": "https://open.spotify.com/artist/5YvhcITTw5wtc05jMTFCoR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Forest Lullaby",
+      "url": "https://open.spotify.com/track/6CSV0C26dA5QIhkaGGBGmj"
+    },
+    {
+      "album": {
         "name": "A Shared Pulse",
         "url": "https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F"
       },
@@ -544,6 +580,24 @@
       "duration_ms": 181333,
       "name": "Heart of nature",
       "url": "https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l"
+    },
+    {
+      "album": {
+        "name": "Kalon",
+        "url": "https://open.spotify.com/album/6GXbNBCi9K7sGEyOPSUgUb"
+      },
+      "artists": [
+        {
+          "name": "Delayed Dreams",
+          "url": "https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192374,
+      "name": "Kalon",
+      "url": "https://open.spotify.com/track/4lTYfckXObPwG01RVckXUT"
     },
     {
       "album": {
@@ -1037,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/25EYdPcPYIzHK9QVDux4pK"
+      },
+      "artists": [
+        {
+          "name": "MULVEY",
+          "url": "https://open.spotify.com/artist/2ekourkFZvlsBnDApaXeaf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/06986Kd5ue1wLI8pylwtJO"
+    },
+    {
+      "album": {
         "name": "What We Lost",
         "url": "https://open.spotify.com/album/4OucqQdIyWceXDGLiMRNbK"
       },
@@ -1091,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "The Zephyr's Embrace",
+        "url": "https://open.spotify.com/album/4Xr2Buq2FH26r7XXfzmEfW"
+      },
+      "artists": [
+        {
+          "name": "Far North",
+          "url": "https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "The Zephyr's Embrace",
+      "url": "https://open.spotify.com/track/5XJALzNYbEEZZryQrOIW09"
+    },
+    {
+      "album": {
         "name": "Thoughts Outside My Window",
         "url": "https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc"
       },
@@ -1106,6 +1196,28 @@
       "duration_ms": 147200,
       "name": "Thoughts Outside My Window",
       "url": "https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t"
+    },
+    {
+      "album": {
+        "name": "turn down the sun",
+        "url": "https://open.spotify.com/album/4lzwM59Q0iptlwnUIVhMIO"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        },
+        {
+          "name": "Memories of the Forgotten",
+          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "through the window",
+      "url": "https://open.spotify.com/track/3oBs2jHJmG330ROpV2W3dG"
     },
     {
       "album": {
@@ -1200,6 +1312,28 @@
       "duration_ms": 157812,
       "name": "Verdant Breath",
       "url": "https://open.spotify.com/track/1ELwtIRAPr3gLgprbWjsmm"
+    },
+    {
+      "album": {
+        "name": "we are free",
+        "url": "https://open.spotify.com/album/0rk8lxab2AXcs5zgwvcM1W"
+      },
+      "artists": [
+        {
+          "name": "Lore",
+          "url": "https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G"
+        },
+        {
+          "name": "Runaway Horses",
+          "url": "https://open.spotify.com/artist/1lHNqvzVo8By9u0C0pLwlh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172799,
+      "name": "we are free",
+      "url": "https://open.spotify.com/track/4c0cHlYLujTqIQUGVOhBED"
     },
     {
       "album": {

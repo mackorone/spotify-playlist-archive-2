@@ -1,12 +1,12 @@
 {
   "description": "This is John Rutter. The essential tracks, all in one playlist.",
-  "num_followers": 4844,
+  "num_followers": 4848,
   "original_name": "This Is John Rutter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAAAvVOgKJHZTJ65bjuEV3SUA",
+  "snapshot_id": "afvWAAAAAAArUTfpqrwSpnB/tM6O6XVc",
   "tracks": [
     {
       "added_at": null,
@@ -343,34 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rutter: Fancies",
-        "url": "https://open.spotify.com/album/0zfQc7xWWnexxPfE0tBy1x"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Duke Dobing",
-          "url": "https://open.spotify.com/artist/29IGwHD0BUR9FuQOKnYX1D"
-        },
-        {
-          "name": "Wayne Marshall",
-          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "III. Aria",
-      "url": "https://open.spotify.com/track/2E4XGXmyO40a3SJGLWX8f7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical Tranquillity",
         "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
       },
@@ -395,6 +367,34 @@
       "duration_ms": 145106,
       "name": "3 Gymnop\u00e9dies: No. 1, Lent et douloureux (Arr. for Clarinet & Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/6Smoze5m4ADBeW5AfovQre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rutter: Fancies",
+        "url": "https://open.spotify.com/album/0zfQc7xWWnexxPfE0tBy1x"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Duke Dobing",
+          "url": "https://open.spotify.com/artist/29IGwHD0BUR9FuQOKnYX1D"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "III. Aria",
+      "url": "https://open.spotify.com/track/2E4XGXmyO40a3SJGLWX8f7"
     },
     {
       "added_at": null,
@@ -479,30 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Sinfonia Cymru",
-          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Suite Lyrique: 5. Chanson",
-      "url": "https://open.spotify.com/track/4E9E8asqYXAqQRHsZHRk5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rutter: Requiem & Magnificat",
         "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 251053,
       "name": "Requiem: III. Pie Jesu",
       "url": "https://open.spotify.com/track/75iBAwqQySUE8SC51ktJTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        },
+        {
+          "name": "Sinfonia Cymru",
+          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Suite Lyrique: 5. Chanson",
+      "url": "https://open.spotify.com/track/4E9E8asqYXAqQRHsZHRk5H"
     },
     {
       "added_at": null,
@@ -1119,6 +1119,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "duration_ms": 406506,
+      "name": "Cantique de Jean Racine, Op. 11 (Arr. J. Rutter for Choir & Organ)",
+      "url": "https://open.spotify.com/track/6U9cTWvX7mc5ZZXOiwd6n6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rutter: Fancies",
         "url": "https://open.spotify.com/album/0zfQc7xWWnexxPfE0tBy1x"
       },
@@ -1171,34 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faur\u00e9: Requiem & Other Sacred Music",
-        "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "duration_ms": 406506,
-      "name": "Cantique de Jean Racine, Op. 11 (Arr. J. Rutter for Choir & Organ)",
-      "url": "https://open.spotify.com/track/6U9cTWvX7mc5ZZXOiwd6n6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices as One: Choral Songs",
         "url": "https://open.spotify.com/album/5BolPWQRafdZly1x57vIMU"
       },
@@ -1227,50 +1227,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hail, Gladdening Light: Music of the English Church",
-        "url": "https://open.spotify.com/album/02DSLzfBESd5hsdrugChj9"
+        "name": "John Rutter: Visions & Requiem",
+        "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
       },
       "artists": [
         {
-          "name": "Edward Bairstow",
-          "url": "https://open.spotify.com/artist/1F12kyzm3ZetBczIfRMpHW"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
         },
         {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         },
         {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          "name": "Thomas Barber",
+          "url": "https://open.spotify.com/artist/73kZPuuV8CvpSMhOBblHWz"
         }
       ],
-      "duration_ms": 109600,
-      "name": "I Sat Down Under His Shadow",
-      "url": "https://open.spotify.com/track/6l0y9izHxT4K3Bg9QAEfYO"
+      "duration_ms": 310800,
+      "name": "Requiem: VI. The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Sacred Flame",
-        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+        "name": "John Rutter: Magnificat",
+        "url": "https://open.spotify.com/album/4iKRav6EeD8tJ5WVuCtTVj"
       },
       "artists": [
         {
-          "name": "Hans Leo Hassler",
-          "url": "https://open.spotify.com/artist/1MY3DApYz8LBPtlHbFF8YG"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
         },
         {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 140346,
-      "name": "Dixit Maria ad angelum",
-      "url": "https://open.spotify.com/track/0gi1O7vXaFgsvye644ewTZ"
+      "duration_ms": 322733,
+      "name": "Magnificat: III. Quia fecit mihi magna",
+      "url": "https://open.spotify.com/track/2a8MbB3Z6i3plnPbLT2Np4"
     }
   ],
   "unique_name": "This Is John Rutter",

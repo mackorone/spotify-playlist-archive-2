@@ -2,9 +2,9 @@
 
 ### [pop fm](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla & Zara Larsson
+> Your frequency for today's hottest pop tracks in Mzansi\. Cover: Ben Rodrigues
 
-784 songs - 1 day 17 hr 34 min
+787 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Back in the Day](https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM) | [Nina Brand](https://open.spotify.com/artist/52xuRtfsFW0C8aBeDjc86a) | [Back in the Day](https://open.spotify.com/album/7CoECeuiiMHAxmV2W7vuM2) | 3:19 | 2025-03-13 | 2025-06-03 |
 | [Back to me](https://open.spotify.com/track/1yKzhjC2yTXFczSBVx1Ed6) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z) | [Back to me](https://open.spotify.com/album/6d5wQNK753jofsNtP7ywOM) | 2:13 | 2024-07-25 | 2025-03-14 |
 | [Back To The Future](https://open.spotify.com/track/3Jhy1g4W3ODoVAewdnAHqq) | [Rebel Bunny](https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX) | [Back To The Future](https://open.spotify.com/album/2mx9BB2J5uef0HxK0g5S9L) | 2:36 | 2024-08-02 | 2024-08-10 |
+| [Back To You](https://open.spotify.com/track/0fe3svhDknO3X0F2Cy3KXP) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Back To You](https://open.spotify.com/album/6OVeXNQHYeRWkRtnEcm9EC) | 3:14 | 2026-05-08 |  |
 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 | 2025-07-10 | 2025-07-18 |
 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 | 2026-01-23 |  |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-16 | 2025-01-24 |
@@ -112,7 +113,7 @@
 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 | 2025-04-04 | 2025-04-30 |
 | [Brand New Heart](https://open.spotify.com/track/06mkONZG5YWtvJKRcbnB0g) | [Chané](https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE) | [Brand New Heart](https://open.spotify.com/album/1826okx8WPWNogpGHbF3HE) | 3:50 | 2025-09-25 | 2026-01-24 |
 | [Break up Season](https://open.spotify.com/track/6wxdwkyu7rkYMJca8Ctq4L) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Less Trouble](https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp) | 4:10 | 2025-08-10 | 2025-08-30 |
-| [Burn](https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB) | [ARIS](https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8) | [Burn](https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO) | 2:16 | 2026-01-23 |  |
+| [Burn](https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB) | [ARIS](https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8) | [Burn](https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO) | 2:16 | 2026-01-23 | 2026-05-09 |
 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 | 2025-07-17 | 2025-08-15 |
 | [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 | 2025-06-12 | 2025-06-21 |
 | [Burning Up](https://open.spotify.com/track/0jFf0E5IwXuoa9VvfMGezJ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Burning Up](https://open.spotify.com/album/2ree99pgw7rfKASXNnx08q) | 2:06 | 2025-08-21 | 2025-08-30 |
@@ -298,6 +299,7 @@
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-13 | 2025-02-28 |
 | [high, high, high](https://open.spotify.com/track/4zezDZW6gxas6tCLcYjaT8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [high, high, high](https://open.spotify.com/album/00trTBqMdRTwVaw1HmYuT6) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [His Problem Instead](https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [His Problem Instead](https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7) | 2:43 | 2024-11-21 | 2025-03-14 |
+| [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 | 2026-05-08 |  |
 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 | 2025-07-03 | 2025-08-08 |
 | [Hold Tight](https://open.spotify.com/track/3OMB6N9U4DP4ek2KToyQ7r) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E), [Faker Streets](https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV) | [Hold Tight](https://open.spotify.com/album/5KTx8eF395MYJ8SX78jBUy) | 2:05 | 2024-08-02 | 2025-03-14 |
 | [HOLDING ON](https://open.spotify.com/track/6wDQ5MOKhL3ICkWXS0czmG) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl), [Kurt April](https://open.spotify.com/artist/6hboMI8XlDYKsSjXa2d6PP) | [HOLDING ON](https://open.spotify.com/album/7nxh0AO1cB5tvqtm6XzcXb) | 2:47 | 2024-07-18 | 2024-08-16 |
@@ -346,7 +348,7 @@
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-06-27 | 2024-07-12 |
 | [I'm with you](https://open.spotify.com/track/0fsJvbfxeuy4ai5NP4CNcb) | [Joseph Linley](https://open.spotify.com/artist/0v1jQlE1jpZkjOH3rCRjQg) | [I'm with you](https://open.spotify.com/album/00u2AM2ldlKOQvjayCJfnS) | 3:41 | 2025-01-30 | 2025-02-21 |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2025-04-04 | 2026-01-24 |
-| [IDWGOT](https://open.spotify.com/track/3p1yIvdlKxWRqZtvBjP4jA) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [IDWGOT](https://open.spotify.com/album/6mVtGTvJQt8PkGlSWRfGQr) | 3:34 | 2025-09-25 |  |
+| [IDWGOT](https://open.spotify.com/track/3p1yIvdlKxWRqZtvBjP4jA) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [IDWGOT](https://open.spotify.com/album/6mVtGTvJQt8PkGlSWRfGQr) | 3:34 | 2025-09-25 | 2026-05-09 |
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2024-06-27 | 2024-11-08 |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2025-04-17 | 2026-01-24 |
 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 | 2026-01-23 |  |
@@ -390,6 +392,7 @@
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-21 | 2025-10-04 |
 | [Let Me Love You Now](https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 | 2025-04-24 | 2025-05-02 |
 | [Liar](https://open.spotify.com/track/2lWgENmedXJTX1NEAugxuJ) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Liar](https://open.spotify.com/album/02kIBm2xpaplAqBJTOyQAH) | 3:15 | 2025-05-22 | 2025-05-30 |
+| [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 | 2026-05-08 |  |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 | 2025-08-21 | 2025-10-04 |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-29 | 2025-06-21 |

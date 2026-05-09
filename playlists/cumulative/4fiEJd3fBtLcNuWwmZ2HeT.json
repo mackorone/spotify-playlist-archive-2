@@ -3311,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "Lotus eater (feat. Kaai Yuki)",
+        "url": "https://open.spotify.com/album/1THxmV6O2zynUuZwyvptou"
+      },
+      "artists": [
+        {
+          "name": "Aoris",
+          "url": "https://open.spotify.com/artist/3BHZU0TPDSxlbKFHflct6W"
+        },
+        {
+          "name": "Yuki Kaai",
+          "url": "https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162271,
+      "name": "Lotus eater (feat. Kaai Yuki)",
+      "url": "https://open.spotify.com/track/6oGEsHXy2eo8KOmHZGDIJq"
+    },
+    {
+      "album": {
         "name": "Love I Need",
         "url": "https://open.spotify.com/album/7oQqmAf8OR0zfW5wbZIVH4"
       },

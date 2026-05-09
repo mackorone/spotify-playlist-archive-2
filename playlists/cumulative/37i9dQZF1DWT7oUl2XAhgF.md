@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Jalen Ngonda
+> A new take on a classic sound\. Cover: The Womack Sisters
 
-599 songs - 1 day 11 hr 55 min
+601 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Celeste](https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Celeste](https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m) | 3:15 | 2025-09-05 | 2025-09-27 |
 | [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-08-16 |  |
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
+| [Chauffeur](https://open.spotify.com/track/53XFu5ZXPyldc3MtfxEkDq) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Chauffeur](https://open.spotify.com/album/6YOqslVYEbfCZgRQQjSrYf) | 4:36 | 2026-05-08 |  |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |
 | [Cherry](https://open.spotify.com/track/3X68ExQpQzMCTCHsiqaQLI) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Cherry](https://open.spotify.com/album/0dVEDCqihLJ7o8eCxGg2Pu) | 4:26 | 2026-02-27 |  |
 | [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 | 2025-12-12 |  |
@@ -260,6 +261,7 @@
 | [It's Gonna Be Alright](https://open.spotify.com/track/74kOgrikSn2UQ8UptnRUxb) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/193sR0w8SGseTgMIEU6VKw) | 4:36 | 2022-07-29 | 2023-05-11 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 | 2023-05-20 |
 | [It's Time](https://open.spotify.com/track/0J682N2n8YoOFq3z02ItvK) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Wildman](https://open.spotify.com/artist/3cKiY3udEXBzVYO2Ce1PrQ) | [It's Time](https://open.spotify.com/album/1vAppHpW6mUSUIP4MbQUOv) | 2:50 | 2024-10-18 | 2025-07-19 |
+| [It’s A Shame](https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [It’s A Shame](https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ) | 3:41 | 2026-05-08 |  |
 | [I’ll Be Loving You](https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [I'll Be Loving You](https://open.spotify.com/album/0Am0k5KrvnhpwATTwPefgy) | 2:47 | 2023-10-20 | 2025-03-08 |
 | [Jean Leon](https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Jean Leon](https://open.spotify.com/album/1yxktlUWjFQb7EHerR7Wme) | 2:53 | 2022-02-15 | 2024-03-09 |
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 | 2022-07-29 |
@@ -589,7 +591,7 @@
 | [Workin' Man Blues](https://open.spotify.com/track/3oS3jewBr4kDcMbBe4XkSq) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 3:37 | 2022-05-06 | 2024-04-19 |
 | [Workin' Man Blues](https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Workin' Man Blues](https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK) | 3:37 | 2022-05-06 | 2024-08-17 |
 | [World Stand Still](https://open.spotify.com/track/4YXBQ8X4DNVTjco4lUpSFx) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [World Stand Still](https://open.spotify.com/album/08Onlx0pZL8It9PJG8zwgw) | 2:49 | 2023-09-29 | 2024-03-23 |
-| [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-21 |  |
+| [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-21 | 2026-05-09 |
 | [X Boyfriends](https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [Til It’s Gone](https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf) | 2:53 | 2022-09-02 | 2024-04-19 |
 | [X Boyfriends](https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [X Boyfriends](https://open.spotify.com/album/0ZEQ4W92SuEoXauwadG1UW) | 2:53 | 2022-08-26 | 2024-07-04 |
 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 | 2024-03-29 | 2025-10-18 |
@@ -602,7 +604,7 @@
 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 | 2023-06-02 | 2025-06-28 |
 | [You Deserve](https://open.spotify.com/track/3qv52G3oQ4MNcIib4KSRqH) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [You Deserve](https://open.spotify.com/album/4zk6KsexxbrABRXCSKfj7K) | 3:02 | 2026-01-16 | 2026-04-11 |
 | [You Know What It Do](https://open.spotify.com/track/1YPsvTzKTMsQjrdC88CRcT) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 3:07 | 2021-07-09 | 2022-06-11 |
-| [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 | 2026-02-27 |  |
+| [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 | 2026-02-27 | 2026-05-09 |
 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 | 2024-03-29 |  |
 | [Your Light](https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Your Light](https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3) | 3:54 | 2025-01-10 | 2025-02-15 |
 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 | 2023-11-10 | 2024-01-13 |

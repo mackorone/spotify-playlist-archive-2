@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "late night vibes \u2013 notifications off. cover: Isaiah Kaleo",
+  "description": "late night vibes \u2013 notifications off. cover: Lancey Foux",
   "name": "DND.",
   "tracks": [
+    {
+      "album": {
+        "name": "1:11",
+        "url": "https://open.spotify.com/album/6ahQcLyQVBECP9fdBlMjS1"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "1:11",
+      "url": "https://open.spotify.com/track/5WvqtTv4HfxL5nQSRNCYu1"
+    },
     {
       "album": {
         "name": "Torrential",
@@ -696,6 +714,24 @@
       "duration_ms": 122999,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa"
+    },
+    {
+      "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/4FzW2ufo7lLqf7rJzmBU13"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182279,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/13Fc5CBDFgpV1rwPuGZIXv"
     },
     {
       "album": {

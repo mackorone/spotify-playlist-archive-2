@@ -4,7 +4,7 @@
 
 > Nerissima Serpe in cover della playlist dello street rap italiano ⛓️
 
-1,055 songs - 1 day 23 hr 55 min
+1,056 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [BILLIONAIRE BOYS \(feat\. Artie 5ive, Faneto\)](https://open.spotify.com/track/5uJ8QiFan5VV6BKWtjU93T) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [RAPPER](https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF) | 2:33 | 2025-07-10 | 2025-09-20 |
 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 | 2023-11-23 | 2024-02-16 |
 | [Bimbo in quartiere](https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:15 | 2024-01-25 | 2024-06-14 |
+| [Bipolari Bilocali](https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2) | [Chef Adami](https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU) | [Bipolari Bilocali](https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU) | 2:25 | 2026-05-08 |  |
 | [BIRKIN](https://open.spotify.com/track/6B1rZ1iSEPfR9yynbvCuxd) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE), [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw) | [BIRKIN](https://open.spotify.com/album/3nafLxe3mBFih7KTz1TLoE) | 2:45 | 2025-01-17 | 2025-01-31 |
 | [BIRKIN \(feat\. Rondodasosa\)](https://open.spotify.com/track/7eA4sopBqbiwCfMvrU0504) | [Trenches Baby](https://open.spotify.com/artist/3q6fbAYooRJkfLgYgZrDX2), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [BIRKIN \(feat\. Rondodasosa\)](https://open.spotify.com/album/7uXB0wqBqrdSlsf06uHxM6) | 3:01 | 2022-05-11 | 2022-06-03 |
 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/5V5If9EDJrHSDpM5bkcALZ) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/album/3H37JmWNvnEu27FP6IEh32) | 2:37 | 2024-05-23 | 2024-06-07 |
@@ -878,7 +879,7 @@
 | [Snobbava](https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Snobbava](https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs) | 2:33 | 2023-03-24 | 2023-05-19 |
 | [SNTMNG](https://open.spotify.com/track/5t425GlIbSzzgZ6rMM4phJ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:12 | 2025-04-24 | 2025-11-21 |
 | [Società \(feat\. Shiva\)](https://open.spotify.com/track/0ffAQDy0hadsOsYycajB8u) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 3:15 | 2025-06-26 | 2025-11-28 |
-| [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-28 |  |
+| [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-28 | 2026-05-09 |
 | [SOLDATI](https://open.spotify.com/track/1SNjXnEMWjEYRLAteXJpTK) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:25 | 2023-04-06 | 2023-09-29 |
 | [SOLDI](https://open.spotify.com/track/1OqT2O7y9kxJXjWZn3btnV) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [SOLDI](https://open.spotify.com/album/0e7aOjwRECWV6wLVgV3C6y) | 2:09 | 2025-10-23 | 2025-11-14 |
 | [SOLDI & MUSICA \(feat\. Frezza\)](https://open.spotify.com/track/6tW2WTKCcvHHH0ueWKKz8W) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [SOLDI & MUSICA \(feat\. Frezza\)](https://open.spotify.com/album/6FBIkUjJ7ohJgOZBg199pA) | 2:24 | 2025-03-13 | 2025-04-04 |

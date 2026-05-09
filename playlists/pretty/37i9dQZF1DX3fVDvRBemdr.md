@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Tino Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,723 likes - 105 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,753 likes - 105 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 4 | [Tante Jetje](https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Tante Jetje](https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO) | 3:14 |
 | 5 | [Al Win Ik 10 Miljoen](https://open.spotify.com/track/6Lt1QW8Y7eO8rv2bdiTO1Q) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Al Win Ik 10 Miljoen](https://open.spotify.com/album/0NvmRdmQNK1iFfcSjGcl12) | 2:02 |
 | 6 | [Hoe De Liefde Gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe De Liefde Gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
-| 7 | [Mama Waar Ben Je Nou](https://open.spotify.com/track/7lt4KtDKN2eWPWSKoRIUub) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [John Dirne](https://open.spotify.com/artist/0OVGWNTg2sqbHYSbBzSWgY) | [Mama Waar Ben Je Nou](https://open.spotify.com/album/10wemntqRXgJWwM9OkePF4) | 3:27 |
+| 7 | [Mama Waar Ben Je Nou](https://open.spotify.com/track/7lt4KtDKN2eWPWSKoRIUub) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mama Waar Ben Je Nou](https://open.spotify.com/album/10wemntqRXgJWwM9OkePF4) | 3:27 |
 | 8 | [De Nacht Is Mijn Leven \- 2026](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven \(2026\)](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 |
 | 9 | [Gitana](https://open.spotify.com/track/4a3SC21Ou8t9kaaNESDhqp) | [Niels Korsuize](https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy) | [Gitana](https://open.spotify.com/album/3mhkWSPUbW7BBx6pwVz4yc) | 2:26 |
 | 10 | [Wat Heb Ik Te Verliezen](https://open.spotify.com/track/6eFq9ZXV2pCOpow76FIsRc) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Wat Heb Ik Te Verliezen](https://open.spotify.com/album/06tGRDY9ENtbF5PrW9xf2D) | 2:18 |

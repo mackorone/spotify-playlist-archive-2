@@ -4,7 +4,7 @@
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.
 
-412 songs - 1 day 0 hr 13 min
+413 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bet](https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 2:02 | 2026-04-10 |  |
 | [Bet](https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Bet](https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j) | 2:02 | 2026-01-30 | 2026-02-21 |
 | [Bet](https://open.spotify.com/track/75ke3sGD2JmxIOfTjoJxuX) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Foul](https://open.spotify.com/album/0RrCbYpd3E2UwH3i0K0n8i) | 2:02 | 2026-02-20 | 2026-04-11 |
+| [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 | 2026-05-08 |  |
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/2yb5Ao7Yk2nl9YFnNwKi5F) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:03 | 2024-04-12 | 2024-06-26 |
 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 | 2023-06-01 | 2024-04-19 |
 | [Big Dog \(feat\. Baka Not Nice\)](https://open.spotify.com/track/3FS71jpTrmy9QQF30BJlKv) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 2:25 | 2025-06-13 | 2026-04-11 |

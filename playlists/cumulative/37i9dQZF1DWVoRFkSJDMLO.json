@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Bolu Ajibade.",
+  "description": "The latest in world music. From the continent, to the islands with Asake.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 212500,
       "name": "Ancient Seed (#SaveSoil)",
       "url": "https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 180000,
       "name": "Away",
       "url": "https://open.spotify.com/track/0bwuidTGMZyJ1XGELGSFjl"
@@ -13839,6 +13839,32 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+        "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
+      "url": "https://open.spotify.com/track/7buuOG83BDx2R8dc36WAYn"
+    },
+    {
+      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/2XkpeftvnTgKcHdoAZIxxM"
       },
@@ -16898,6 +16924,32 @@
       "duration_ms": 192826,
       "name": "LIKE THAT (feat. Oxlade)",
       "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
+    },
+    {
+      "album": {
+        "name": "Pool Party 2.0",
+        "url": "https://open.spotify.com/album/5OUHXhY3Po1CqT2LpljHkB"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/5ys4jU7yYOhaa3hdefdz9s"
     },
     {
       "album": {
@@ -23860,7 +23912,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 156781,
       "name": "PopStar",
       "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
@@ -25284,6 +25336,24 @@
       "duration_ms": 158537,
       "name": "ROCK & SLIDE",
       "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
+    },
+    {
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "album": {

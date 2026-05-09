@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 271781,
       "name": "18",
       "url": "https://open.spotify.com/track/6hEyKkr5aTQAGV8U9SRuA9"
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Antes Que Me Vaya",
+        "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Antes Que Me Vaya",
+      "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
+    },
+    {
+      "album": {
         "name": "antonio banderas",
         "url": "https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 167584,
       "name": "Balandra",
       "url": "https://open.spotify.com/track/1yaqLkM1SZ87dTtVY3ttl6"
@@ -744,7 +762,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
@@ -3551,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Baile de m\u00e1scaras",
+        "url": "https://open.spotify.com/album/3ldewRa1ecb1okymIgoXis"
+      },
+      "artists": [
+        {
+          "name": "Landa",
+          "url": "https://open.spotify.com/artist/1LjCaKfQwZug2T5TzuT2G2"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241573,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2XlN3dgBO5bJWE3ryN9oYN"
+    },
+    {
+      "album": {
         "name": "MOMENTO",
         "url": "https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR"
       },
@@ -4634,7 +4670,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 209500,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/29oJaTMqGqyvhesh8kWttZ"
@@ -6027,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Pop Rock",
+        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Veneno y Arena",
+      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
+    },
+    {
+      "album": {
         "name": "Vidrio por Doquier",
         "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
       },
@@ -6136,6 +6190,24 @@
       "duration_ms": 186581,
       "name": "Vuelvo A Ti",
       "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
+    },
+    {
+      "album": {
+        "name": "Y Te Vas XX",
+        "url": "https://open.spotify.com/album/2oPRTPC2GKkLrHDY6o9iiP"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210966,
+      "name": "Y Te Vas XX",
+      "url": "https://open.spotify.com/track/1uQkWFX10IiTbGDVqQIdVP"
     },
     {
       "album": {

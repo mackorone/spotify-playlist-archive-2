@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,130 songs - 2 day 10 hr 12 min
+1,132 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Love Lift Me](https://open.spotify.com/track/6ihF045mQ2X4Je4YudZYi4) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu) | [Love Lift Me](https://open.spotify.com/album/1vdBwiAI49QQ60BThS94Hv) | 2:41 | 2025-01-16 |  |
 | [Love Like This \(Max Styler Remix\)](https://open.spotify.com/track/7tOy32q4yj3IDoJD1Lv6ym) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Robot Collective](https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Love Like This \(Max Styler Remix\)](https://open.spotify.com/album/4HzlJNuLjohScnSpIpRYDW) | 3:44 | 2023-03-31 | 2023-12-14 |
 | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/track/5o5A0Ww1nQsetGUelp5RJl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/album/7mSkA7d35tqJAddf4SBgeM) | 3:16 | 2024-12-05 | 2025-03-14 |
+| [lOve yoU](https://open.spotify.com/track/2sKWUsJ9CcfJP3yPrdykYH) | [BOY&GIRL](https://open.spotify.com/artist/5MdKfdsqNtmoCGcw9hXvzb) | [lOve yoU](https://open.spotify.com/album/1ZrKljhgvSk1V6yxqH3T5g) | 2:50 | 2026-05-08 |  |
 | [Love You Tomorrow](https://open.spotify.com/track/2RFWNKZFa6tS46Tz7fIvlj) | [Kieran Hemming](https://open.spotify.com/artist/0y7PZphnEbZAG2JHlPR4Pi), [Dorothea](https://open.spotify.com/artist/4WUpexcaF2O8ciLWziaNLQ) | [Love You Tomorrow](https://open.spotify.com/album/7vhtzN4JlgT8YV0Cko3mPM) | 3:49 | 2024-12-05 |  |
 | [luca \- Electronic Edit](https://open.spotify.com/track/0FrIAmdLMIYi0ipAMXRVG6) | [Alex S.Tsigkourakos](https://open.spotify.com/artist/1RXKejGLjB9BRnB7bihIsT) | [luca \(Electronic Edit\)](https://open.spotify.com/album/3zYcfNDS6kAGMztcxij98X) | 4:09 | 2024-12-05 |  |
 | [Lulo \- Radio Edit](https://open.spotify.com/track/1lpdkcCiyRAK7te9lqNRTW) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [Lulo \(Radio Edit\)](https://open.spotify.com/album/4Kop83GCe2lEqCDbNrr7mq) | 3:01 | 2023-02-12 | 2023-08-02 |
@@ -728,6 +729,7 @@
 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 | 2023-09-25 | 2023-12-14 |
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-04-14 | 2023-04-28 |
 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 | 2023-02-12 | 2023-04-13 |
+| [Only You](https://open.spotify.com/track/0pE3s89u5jvjXvKEtEdiJ3) | [SATNAV](https://open.spotify.com/artist/2aGwYvgsSuRhJXxFitdfXX), [Beau James](https://open.spotify.com/artist/6eiaPy1PcWNzcbJrROzWoz) | [ONLY YOU](https://open.spotify.com/album/5kctvEdj4qpgKUyJmoojaN) | 4:50 | 2026-05-08 |  |
 | [Open Up](https://open.spotify.com/track/1sj9pBqwuvZzI4ZB8vEVHD) | [Zephs](https://open.spotify.com/artist/731IvzuF44mJ4N3Ml4RwCx), [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol) | [Open Up](https://open.spotify.com/album/14KWNHPQGSzNJdXi7GMjX3) | 2:24 | 2023-08-04 | 2023-08-11 |
 | [Oracle](https://open.spotify.com/track/6LmX1HJkfTJgjqxwK7gJDR) | [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Oracle](https://open.spotify.com/album/4wKyAMtEeYBDl6BeRoAdRR) | 3:15 | 2023-08-17 | 2023-12-14 |
 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 | 2023-03-24 | 2023-04-13 |

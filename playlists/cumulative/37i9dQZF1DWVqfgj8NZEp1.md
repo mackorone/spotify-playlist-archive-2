@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-356 songs - 1 day 8 hr 4 min
+357 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 | 2020-10-09 | 2023-04-26 |
 | [Good Morning.Goodbye](https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 5:36 | 2020-10-09 | 2025-09-06 |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2020-10-09 | 2022-06-01 |
+| [Goodnight Stars](https://open.spotify.com/track/2KHkP6Djuct2KkKWqfWcDx) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Goodnight Stars](https://open.spotify.com/album/5cMfbFJDXjE7SWkVCSaUub) | 3:42 | 2026-05-08 |  |
 | [Gramercy Sunset](https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 4:15 | 2020-10-09 | 2022-06-08 |
 | [Habanera](https://open.spotify.com/track/1TKJu779sVM4bM1Kg0qNEF) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Habanera](https://open.spotify.com/album/1ifBHQSP0GZJx0H1GygeVQ) | 4:48 | 2022-08-11 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/5Iv2VlYp4ehVVPgjc3Lv25) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ) | [Here's That Rainy Day](https://open.spotify.com/album/0xrc4YKlUvxROIgmlmlSOf) | 5:21 | 2025-05-02 |  |
@@ -208,7 +209,7 @@
 | [Moonlight In Vermont](https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Moonlight In Vermont](https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg) | 3:23 | 2024-05-31 |  |
 | [Moons Ago](https://open.spotify.com/track/3c8MEEkKekl7BslWa83f55) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/13Ua0b5HRh4DtWdQa993oD) | 6:06 | 2024-03-15 | 2024-04-19 |
 | [Moons Ago](https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/5i1YDBZFg7sq2PmskQdzv3) | 6:06 | 2022-03-25 |  |
-| [Morning](https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Morning](https://open.spotify.com/album/1SR9pFDyApxSYP8cYpPTBJ) | 3:00 | 2026-01-16 |  |
+| [Morning](https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Morning](https://open.spotify.com/album/1SR9pFDyApxSYP8cYpPTBJ) | 3:00 | 2026-01-16 | 2026-05-09 |
 | [My Ideal](https://open.spotify.com/track/2LfXUjO4fzzG4Zp0CkATQs) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 3:39 | 2022-06-30 | 2024-04-19 |
 | [My Ideal](https://open.spotify.com/track/7zzaZggdFuadOs0R7SuJlp) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [My Ideal](https://open.spotify.com/album/2T8WUL1jRlaGIqj36oD5O5) | 3:39 | 2021-01-15 | 2025-09-06 |
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2022-06-30 | 2024-04-19 |

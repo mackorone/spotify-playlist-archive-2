@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Allo EP",
+        "url": "https://open.spotify.com/album/2If0tk8iEozYUbwr3dty4m"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176545,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/0KulM7tmm7fqNUORBooiXg"
+    },
+    {
+      "album": {
         "name": "Alone (Stephan Jolk Remix)",
         "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
       },
@@ -4261,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
+    },
+    {
+      "album": {
         "name": "Close To You (Meera (NO) Remix)",
         "url": "https://open.spotify.com/album/2JiDYxoDS7uopAESaih6Ov"
       },
@@ -5420,7 +5460,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 257419,
       "name": "Dirty Conga (feat. Kanis)",
       "url": "https://open.spotify.com/track/5DMZeSnioIjR2xaQGl9vCK"
@@ -9426,7 +9466,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205864,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Ladrones en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Son Rompe Pera en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 201333,
       "name": "Chale",
       "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 214758,
       "name": "Combinamos Bien",
       "url": "https://open.spotify.com/track/33Vcny4oWoN2OtKMlK9mkb"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 205288,
       "name": "Contento",
       "url": "https://open.spotify.com/track/5l6keYJuhf4mpSddXujSoh"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 211552,
       "name": "El Baile de los que Sobran",
       "url": "https://open.spotify.com/track/3exRD3fiAdmpQ4aaabdf5A"
@@ -3493,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Libres",
+        "url": "https://open.spotify.com/album/1z11VvsWxTjqQPZo1hF1Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Libres",
+      "url": "https://open.spotify.com/track/48BSYe2QHoEMSJuPflGV0i"
+    },
+    {
+      "album": {
         "name": "A 30 A\u00f1os",
         "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
       },
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 191006,
       "name": "Para Ser Sincero",
       "url": "https://open.spotify.com/track/7nkXCLuL4d0tA1fl7rBO11"
@@ -5394,6 +5412,24 @@
       "duration_ms": 247803,
       "name": "Recuerdo De Verano",
       "url": "https://open.spotify.com/track/5TEmvuQw6hZH9UX3mVG2T2"
+    },
+    {
+      "album": {
+        "name": "Reptilio",
+        "url": "https://open.spotify.com/album/41KdvGMG4db7ejC96eGXHz"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "Reptilio",
+      "url": "https://open.spotify.com/track/632SSSYdqwYXtqBSEC6yPx"
     },
     {
       "album": {
@@ -7086,6 +7122,24 @@
       "duration_ms": 235786,
       "name": "Voy a Volver",
       "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
+    },
+    {
+      "album": {
+        "name": "VOY DE NUEVO",
+        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "VOY DE NUEVO",
+      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-253 songs - 14 hr 19 min
+255 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Find a Way](https://open.spotify.com/track/1u8EM5bsBu0uXs2Zy1MB1p) | [Kozlow](https://open.spotify.com/artist/1Ms8hcf17jkqevIIRI0YkH), [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [Find a Way](https://open.spotify.com/album/201wt2tzqT7xTgNFvk7CJk) | 3:42 | 2025-10-31 | 2026-02-28 |
 | [Fine Day](https://open.spotify.com/track/09eWCNjHzXXOUcvLzXKvAq) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Fine Day](https://open.spotify.com/album/765HkHd46H8HL4NqQpkakp) | 3:38 | 2025-07-11 |  |
 | [Flootz](https://open.spotify.com/track/6ngGQFVyKXO1Aphp8psxkj) | [Scruby](https://open.spotify.com/artist/2uc7mjt20cr9HVnGiKDgzs) | [Flootz](https://open.spotify.com/album/4XKRv43lgPcwJuc22kstBj) | 2:59 | 2025-10-10 | 2026-01-17 |
+| [Flow](https://open.spotify.com/track/2jilkLzSDjF8swn6u87YbW) | [Lørean](https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4) | [Flow / Lockdown](https://open.spotify.com/album/0dDa745GKOXBwaYy05I7ua) | 3:38 | 2026-05-08 |  |
 | [Flustered](https://open.spotify.com/track/1AApZ7YFEkRGGIztqpR6LH) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg) | [Flustered](https://open.spotify.com/album/3mewVkqU5pRfLfvRovc8uk) | 2:19 | 2025-09-15 | 2025-11-01 |
 | [Free](https://open.spotify.com/track/4hop8KnUSBre41V0IDIbt0) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Raiku](https://open.spotify.com/artist/0X6oat1RJhoAYizMmEXAOq) | [Free](https://open.spotify.com/album/7HGnXodhePTyFj8gikSOZx) | 4:09 | 2025-07-11 | 2025-09-06 |
 | [Freedom \- Back To '96 Mix](https://open.spotify.com/track/4e3uABfoVuz1AwBlu8jEbN) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Freedom \(Back To '96 Mix\)](https://open.spotify.com/album/0ZcvpR6Bc6bZ6I018iF5rT) | 3:47 | 2025-12-05 | 2026-01-17 |
@@ -134,6 +135,7 @@
 | [Limit Break](https://open.spotify.com/track/68swxC7vKQrQjzJKq5k8PG) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 4:42 | 2025-07-11 |  |
 | [Little Love \- Icarus Remix](https://open.spotify.com/track/5GPyuNvvj1zZWih2pKXDjw) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Little Love \(Icarus Remix\)](https://open.spotify.com/album/5YJFJyH8Zo5rxMXqonmkeb) | 3:35 | 2025-07-11 |  |
 | [Living In A Dream](https://open.spotify.com/track/7ag73HpPAknMq1kY1bkNDd) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O) | [Living In A Dream](https://open.spotify.com/album/1FDVqEqLs8QoEYD8TDs07U) | 3:45 | 2025-07-11 | 2025-07-24 |
+| [Lockdown](https://open.spotify.com/track/7xqYYpk5yTfIQ3yVCHlMMR) | [Lørean](https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4) | [Flow / Lockdown](https://open.spotify.com/album/0dDa745GKOXBwaYy05I7ua) | 3:05 | 2026-05-08 |  |
 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 | 2025-07-11 | 2025-12-06 |
 | [Lonely Keys](https://open.spotify.com/track/5tjJBlyteIVYqJRj28GfSW) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Embrace](https://open.spotify.com/album/1j3gqj3dvXIrUPTxIk7tqg) | 3:33 | 2025-07-11 |  |
 | [Lose the Light](https://open.spotify.com/track/007rAVZ44QRKnWVimmdSpG) | [Mazro](https://open.spotify.com/artist/3MB0qmKdbLc7JCbcE2TWX7), [Florian Cassiede](https://open.spotify.com/artist/7naMaORlCT3FPSo5EoSCHz), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Lose the Light](https://open.spotify.com/album/5xSrogFUW1UqTTXOHjTyVZ) | 3:39 | 2026-04-17 |  |

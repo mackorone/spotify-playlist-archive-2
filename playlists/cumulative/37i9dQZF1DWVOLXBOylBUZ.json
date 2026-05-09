@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Sech.",
+  "description": "Latinoam\u00e9rica baila al ritmo de J Balvin y Ryan Castro.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 163369,
       "name": "96 AL REVES",
       "url": "https://open.spotify.com/track/49xk5mobx2iCwJMjOKrxCu"
@@ -11929,6 +11929,32 @@
     },
     {
       "album": {
+        "name": "Gata Linda",
+        "url": "https://open.spotify.com/album/11rpQdp2v4UnrEHtApgJUJ"
+      },
+      "artists": [
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        },
+        {
+          "name": "dn.aire",
+          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157874,
+      "name": "Gata Linda",
+      "url": "https://open.spotify.com/track/7aN0POF2WleqIKXFx39JDB"
+    },
+    {
+      "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/5qU46sCdXutaPCKYLEv0NJ"
       },
@@ -12120,7 +12146,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 206451,
       "name": "GRACIAS A MI DIOS",
       "url": "https://open.spotify.com/track/25dYNzELJtA1ZIqOaCsORe"
@@ -20967,6 +20993,24 @@
     },
     {
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/6T9uBQyAwPFlJU1KGUfT2x"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/7uMN0N0Wvq6kH9xJYQGZlG"
+    },
+    {
+      "album": {
         "name": "Orgullo",
         "url": "https://open.spotify.com/album/3w3CWE6op6O3h7rgmNN1gC"
       },
@@ -24732,7 +24776,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 141394,
       "name": "Safada",
       "url": "https://open.spotify.com/track/3Cy7EQSrpwENzbXGFSdGcb"
@@ -29392,6 +29436,28 @@
       "duration_ms": 213480,
       "name": "Un Zippy",
       "url": "https://open.spotify.com/track/0sIcCQxN1yOUSXyRZ1FPGY"
+    },
+    {
+      "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Una A La Vez",
+      "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
     },
     {
       "album": {

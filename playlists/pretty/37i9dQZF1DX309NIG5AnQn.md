@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Señorita Novio & Shitstem
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,686 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,684 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 84 | [Bosque Gris](https://open.spotify.com/track/5ROBySV5NOHHoLxZ9dLhK7) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Bosque Gris](https://open.spotify.com/album/0HOvdaietx0LNJodu9VOMy) | 5:23 |
 | 85 | [Astro](https://open.spotify.com/track/3QNSSw8L95xww3RAuirmIf) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Extrañamente](https://open.spotify.com/album/6I8NDFSZvbbuClrWCfzeIs) | 3:30 |
 
-Snapshot ID: `AAAAAPlBqJjIHG3EXD/sk+ABixbjERHc`
+Snapshot ID: `AAAAACXfw12N8AzL5Kn4H9WFVnjUM55G`

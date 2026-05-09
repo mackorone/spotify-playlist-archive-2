@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-482 songs - 1 day 6 hr 4 min
+486 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [For So Long](https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [For So Long](https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm) | 2:46 | 2026-05-05 |  |
 | [Forgive](https://open.spotify.com/track/5ytMfGDejFHiRfVmdjF78L) | [Death is a Bastard](https://open.spotify.com/artist/2sQoCJHOl4SChaJkymcsPY) | [Forgive](https://open.spotify.com/album/0zGmjvzjzdqKpdVa5iHVBB) | 5:46 | 2026-04-12 |  |
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-16 | 2026-04-21 |
+| [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-05-08 |  |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
 | [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 | 2026-03-22 | 2026-04-21 |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 | 2025-11-28 |
@@ -278,6 +279,7 @@
 | [Montague](https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi) | [New Juliet](https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K) | [Montague](https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V) | 3:46 | 2026-04-25 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2026-02-06 | 2026-03-18 |
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 | 2025-12-17 |
+| [Mosquito Bay](https://open.spotify.com/track/3hDErVZBcKlHcf0PHII7Zb) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Mosquito Bay](https://open.spotify.com/album/5OEDbzKVcblu7GdFGtGQUT) | 1:38 | 2026-05-08 |  |
 | [Mountain Voices](https://open.spotify.com/track/627K4bvCUl7zidwwiufN0Y) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 2:25 | 2026-03-23 | 2026-04-21 |
 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
@@ -437,8 +439,10 @@
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 | 2025-12-17 |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 | 2026-04-21 |
 | [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 |  |
+| [Too Late](https://open.spotify.com/track/7LEdMzwSF2nVOl6z5tmiDK) | [The Cellar Doors](https://open.spotify.com/artist/3p3yvQb5e3beH9kkk9iIve) | [The Cellar Doors II](https://open.spotify.com/album/7kgu4rRNCXT19dUEd84BZ4) | 3:33 | 2026-05-08 |  |
 | [Trainliner \- Sweet Country](https://open.spotify.com/track/423mrCTB07MUDpNAnGrjx7) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:39 | 2026-04-23 |  |
 | [Tren del Duende](https://open.spotify.com/track/7vWA6eNTUvjQvZx8HtmsId) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW) | [Barcaza Boreal Plus Ultra](https://open.spotify.com/album/28JDXeqpl4jxkA6iXv0OK1) | 4:19 | 2026-02-24 | 2026-03-18 |
+| [treni lividi](https://open.spotify.com/track/6Z6DKtpKdF3vu6ZAVIgg7K) | [Pendolari Roma Cassino](https://open.spotify.com/artist/0hvEATGbzeyvMBq65XwD3i) | [treni lividi](https://open.spotify.com/album/4R3lZKG1QWyJZciWWGfbjO) | 3:11 | 2026-05-08 |  |
 | [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 | 2026-04-01 | 2026-04-21 |
 | [Troubled](https://open.spotify.com/track/6Z5gGO33AtWMkI0W6gScTN) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Troubled](https://open.spotify.com/album/27e0SHGsIxErsW0wWTPjpY) | 3:21 | 2025-09-30 | 2025-12-17 |
 | [Twerkin' With A Twang](https://open.spotify.com/track/7hNtGfB2RKabvFy5d3pQp0) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 2:54 | 2025-12-04 | 2025-12-17 |

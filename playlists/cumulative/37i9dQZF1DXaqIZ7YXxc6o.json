@@ -70589,6 +70589,28 @@
     },
     {
       "album": {
+        "name": "EVERYTHING IS FUNNY",
+        "url": "https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O"
+      },
+      "artists": [
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        },
+        {
+          "name": "Ruby Rodgers",
+          "url": "https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164548,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0"
+    },
+    {
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/7p8eRIUEpYHG2X20d7q81J"
       },
@@ -76002,24 +76024,6 @@
       "duration_ms": 260194,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
-    },
-    {
-      "album": {
-        "name": "EVERYTHING IS FUNNY",
-        "url": "https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O"
-      },
-      "artists": [
-        {
-          "name": "Sweatbaby",
-          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0"
     },
     {
       "album": {

@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Beyond The Stars",
+        "url": "https://open.spotify.com/album/7s0v45oRSX2GkqoNHEWT25"
+      },
+      "artists": [
+        {
+          "name": "Levi Hollis",
+          "url": "https://open.spotify.com/artist/1qX2ZmbjKsrW9gAqmJXvJg"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304364,
+      "name": "Beyond The Stars",
+      "url": "https://open.spotify.com/track/7boJgwOmip6mQNKM0gyKmT"
+    },
+    {
+      "album": {
         "name": "Bird's Nest",
         "url": "https://open.spotify.com/album/2ysgbmRiW9qFW1mrKWSHk9"
       },
@@ -7222,7 +7240,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 299732,
       "name": "If Love Were True",
       "url": "https://open.spotify.com/track/4avAhF6hI8GUB6PAUlgHJc"
@@ -7654,7 +7672,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 213837,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
@@ -9706,7 +9724,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 149852,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/6VJYqWMZzlammTuuPSJC09"
@@ -10577,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "Moving Forward",
+        "url": "https://open.spotify.com/album/6HNOiK4iHy8BUDWnorRGoK"
+      },
+      "artists": [
+        {
+          "name": "Moondust Collective",
+          "url": "https://open.spotify.com/artist/1ExtSSH8fyrGj5DZhSSffk"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214966,
+      "name": "Moving Forward",
+      "url": "https://open.spotify.com/track/5ojBhZHpbkziedUxtXUO4j"
+    },
+    {
+      "album": {
         "name": "Moving on",
         "url": "https://open.spotify.com/album/6jUvo7NlpBWMVUyCPmBqto"
       },
@@ -10790,6 +10826,24 @@
       "duration_ms": 228186,
       "name": "My Reverie",
       "url": "https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP"
+    },
+    {
+      "album": {
+        "name": "My Road to You",
+        "url": "https://open.spotify.com/album/7dLRdVfsDKJNjzVMzVzg89"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234727,
+      "name": "My Road To You",
+      "url": "https://open.spotify.com/track/6UBtg0vFGs5CstvqGX63Wp"
     },
     {
       "album": {
@@ -11816,6 +11870,24 @@
       "duration_ms": 198553,
       "name": "Only Way To Play Is All In",
       "url": "https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI"
+    },
+    {
+      "album": {
+        "name": "Only You And I",
+        "url": "https://open.spotify.com/album/6tSGln4iSV896CFm2h3h20"
+      },
+      "artists": [
+        {
+          "name": "Thomas Bennett",
+          "url": "https://open.spotify.com/artist/5GuqShztxJJiHn0YWjjtyh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214247,
+      "name": "Only You And I",
+      "url": "https://open.spotify.com/track/3z30wW71F28C6hk1uUYo25"
     },
     {
       "album": {
@@ -13450,7 +13522,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 278402,
       "name": "Skyride",
       "url": "https://open.spotify.com/track/7dReJ8M48tmlKIWQcVFtFn"

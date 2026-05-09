@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 
 > Bu yıl yıldızı parlayanlar, editörlerimizin seçkisiyle\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,468 likes - 29 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,465 likes - 29 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

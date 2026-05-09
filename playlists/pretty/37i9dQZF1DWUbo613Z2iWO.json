@@ -1,32 +1,48 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Chxrry and Mariah The Scientist",
-  "num_followers": 59244,
+  "description": "R&B of the moment by the artists of the future. Cover: Mack Keane",
+  "num_followers": 59252,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAYr3jXEO3KMAg8pnqY6p6Ul53G",
+  "snapshot_id": "AAAAAEWVAMwj8q54hjudDd+th5XxRLRE",
   "tracks": [
     {
-      "added_at": "2026-05-01 04:52:34",
+      "added_at": "2026-05-08 05:09:15",
       "album": {
-        "name": "Bottles & Lights",
-        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
+        "name": "Wide Eyed",
+        "url": "https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn"
       },
       "artists": [
         {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Bottles & Lights",
-      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
+      "duration_ms": 202911,
+      "name": "Wide Eyed",
+      "url": "https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Laugh Later, Cry Now",
+        "url": "https://open.spotify.com/album/7kNkExIne21fch2RNJkvTJ"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 130235,
+      "name": "Laugh Later, Cry Now",
+      "url": "https://open.spotify.com/track/4i7sF4JEHhRzzBbokH1kIS"
     },
     {
       "added_at": "2026-04-24 04:03:03",
@@ -65,10 +81,26 @@
       "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
     },
     {
-      "added_at": "2026-03-13 04:59:14",
+      "added_at": "2026-05-08 05:09:15",
       "album": {
-        "name": "Your Loss",
-        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
+        "name": "Charge It To The Game",
+        "url": "https://open.spotify.com/album/5phLTnxRrroGzM4e5A1Iae"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 173424,
+      "name": "Charge It To The Game",
+      "url": "https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/5eYl7iDIe77e2BaqfVpApg"
       },
       "artists": [
         {
@@ -76,9 +108,29 @@
           "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
         }
       ],
-      "duration_ms": 193100,
-      "name": "Your Loss",
-      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
+      "duration_ms": 214390,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
+    },
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "Bottles & Lights",
+        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
     },
     {
       "added_at": "2026-04-24 04:03:03",
@@ -95,6 +147,42 @@
       "duration_ms": 207256,
       "name": "Love Ain't Shit",
       "url": "https://open.spotify.com/track/2UKa3EzviDMvdcAvlVNUo6"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "CRYSALIS (CODA)",
+        "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "Hvnly (feat. JIHYO)",
+      "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
     },
     {
       "added_at": "2026-05-01 04:52:34",
@@ -129,6 +217,42 @@
       "url": "https://open.spotify.com/track/2Ph4qrjAKjD3qDu7z5znjF"
     },
     {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Undeniable (feat. Aitch)",
+        "url": "https://open.spotify.com/album/12CHRueGMTjPpZ5smrigUr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 136739,
+      "name": "Undeniable (feat. Aitch)",
+      "url": "https://open.spotify.com/track/0V8u1Al9dqSA7f7m3yambp"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Wrapped Around",
+        "url": "https://open.spotify.com/album/7c2VWCwL3Cv1JDOvHtAdSM"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Wrapped Around",
+      "url": "https://open.spotify.com/track/2GJoaZtUC01huAEcKuxtTF"
+    },
+    {
       "added_at": "2026-04-24 04:03:03",
       "album": {
         "name": "sweet talk",
@@ -159,6 +283,38 @@
       "duration_ms": 170780,
       "name": "SOS",
       "url": "https://open.spotify.com/track/637vQG5nrmJkfbPDApSskv"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Nature's Perfume",
+        "url": "https://open.spotify.com/album/73ixc6to7QEhJcagNXiTtB"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 202732,
+      "name": "Nature's Perfume",
+      "url": "https://open.spotify.com/track/1XiFKTspnnZQQUG8XNiBsB"
+    },
+    {
+      "added_at": "2026-05-08 05:09:15",
+      "album": {
+        "name": "Rain in July / Be the One",
+        "url": "https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 180070,
+      "name": "Rain in July",
+      "url": "https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N"
     },
     {
       "added_at": "2026-05-01 04:52:34",
@@ -211,6 +367,22 @@
       "duration_ms": 173538,
       "name": "SPLINTER",
       "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
+    },
+    {
+      "added_at": "2026-03-13 04:59:14",
+      "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
     },
     {
       "added_at": "2026-04-17 07:13:10",
@@ -493,26 +665,6 @@
       "url": "https://open.spotify.com/track/62bd8QptwXeiU2JBioycbI"
     },
     {
-      "added_at": "2026-03-06 05:00:29",
-      "album": {
-        "name": "Need it Bad (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "Need it Bad (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
-    },
-    {
       "added_at": "2026-04-17 07:13:10",
       "album": {
         "name": "BLUEBOY",
@@ -719,22 +871,6 @@
       "duration_ms": 198493,
       "name": "Getaway Driver",
       "url": "https://open.spotify.com/track/0n4RvRmDQ88NLjhesbbDSx"
-    },
-    {
-      "added_at": "2026-04-03 06:54:20",
-      "album": {
-        "name": "Rain On Me",
-        "url": "https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 180313,
-      "name": "Rain On Me",
-      "url": "https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN"
     },
     {
       "added_at": "2026-04-03 06:54:20",
@@ -1089,22 +1225,6 @@
       "url": "https://open.spotify.com/track/5yGxrxtSMNFYCOpEfdWgvV"
     },
     {
-      "added_at": "2026-03-20 04:20:30",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4bUHERN8RD4z3vO6vxoxdR"
-      },
-      "artists": [
-        {
-          "name": "Ebony Riley",
-          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
-        }
-      ],
-      "duration_ms": 202608,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/04pDLouxkwPk1PBW2FlqJA"
-    },
-    {
       "added_at": "2026-03-27 05:45:45",
       "album": {
         "name": "Shame (feat. BunnaB)",
@@ -1211,22 +1331,6 @@
       "duration_ms": 159212,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/1iJF4mX0EnG6Pqfg91Vm7r"
-    },
-    {
-      "added_at": "2026-03-06 05:00:29",
-      "album": {
-        "name": "Desire - Spotify Singles",
-        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Desire - Spotify Singles",
-      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2026-03-06 05:00:29",
@@ -1405,22 +1509,6 @@
       "url": "https://open.spotify.com/track/3f3fJODVfB5gZKrkyNy5xg"
     },
     {
-      "added_at": "2026-02-20 05:05:10",
-      "album": {
-        "name": "bits + pieces",
-        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 233824,
-      "name": "bits + pieces",
-      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
-    },
-    {
       "added_at": "2026-03-13 04:59:14",
       "album": {
         "name": "The Fix",
@@ -1501,22 +1589,6 @@
       "url": "https://open.spotify.com/track/4ALENBl3OIYOSWaUk6ILXd"
     },
     {
-      "added_at": "2026-02-27 08:41:07",
-      "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 146363,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
-    },
-    {
       "added_at": "2026-03-06 05:00:29",
       "album": {
         "name": "Tough",
@@ -1535,26 +1607,6 @@
       "duration_ms": 195325,
       "name": "Tough",
       "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
-    },
-    {
-      "added_at": "2026-03-06 05:00:29",
-      "album": {
-        "name": "NEVER BE THE SAME",
-        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        },
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 172376,
-      "name": "NEVER BE THE SAME",
-      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
     },
     {
       "added_at": "2026-02-27 08:41:07",
@@ -1857,22 +1909,6 @@
       "url": "https://open.spotify.com/track/2K9I0bmmcNBrAfOfGWMOVX"
     },
     {
-      "added_at": "2026-02-20 05:05:10",
-      "album": {
-        "name": "Touch bby",
-        "url": "https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 125954,
-      "name": "Touch bby",
-      "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
-    },
-    {
       "added_at": "2026-02-13 05:19:20",
       "album": {
         "name": "Remedy",
@@ -2033,26 +2069,6 @@
       "url": "https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko"
     },
     {
-      "added_at": "2026-01-30 18:36:37",
-      "album": {
-        "name": "Typical",
-        "url": "https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 176020,
-      "name": "Typical",
-      "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
-    },
-    {
       "added_at": "2026-02-06 07:24:35",
       "album": {
         "name": "Sweet Nothings",
@@ -2203,54 +2219,6 @@
       "duration_ms": 245100,
       "name": "Gas Station Love - remix",
       "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
-    },
-    {
-      "added_at": "2026-02-01 02:47:24",
-      "album": {
-        "name": "NOBLE",
-        "url": "https://open.spotify.com/album/7kSO56we07fodbcyHOSCps"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/36jgline0lR83kGP9YFXcE"
-    },
-    {
-      "added_at": "2026-02-06 07:24:35",
-      "album": {
-        "name": "Who's Better",
-        "url": "https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ly",
-          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Who\u2019s Better",
-      "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
-    },
-    {
-      "added_at": "2026-01-16 05:00:39",
-      "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 174551,
-      "name": "OG",
-      "url": "https://open.spotify.com/track/5msH0hur2XpjhbLkbGvW8p"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -2463,26 +2431,6 @@
       "duration_ms": 200460,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/2kwszkUHGtCPgshacWrivq"
-    },
-    {
-      "added_at": "2026-01-16 05:00:39",
-      "album": {
-        "name": "Journey To The Sun (feat. Ariel J.)",
-        "url": "https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        },
-        {
-          "name": "Ariel J.",
-          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
-        }
-      ],
-      "duration_ms": 230644,
-      "name": "Journey To The Sun (feat. Ariel J.)",
-      "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
     },
     {
       "added_at": "2026-01-09 20:17:16",
@@ -2865,22 +2813,6 @@
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
     },
     {
-      "added_at": "2025-11-21 06:25:10",
-      "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/6zElPDBOuHK57Uo5g0OTRq"
-      },
-      "artists": [
-        {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
-        }
-      ],
-      "duration_ms": 195569,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/5nK4QbQn1hslWhpDVOnqW2"
-    },
-    {
       "added_at": "2025-10-10 06:44:24",
       "album": {
         "name": "Can't Explain It (with Girlfriend)",
@@ -2931,26 +2863,6 @@
       "duration_ms": 235000,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/2Knmf00ysVzsITSdghjxQx"
-    },
-    {
-      "added_at": "2025-11-14 09:43:17",
-      "album": {
-        "name": "Lil' Obsession (feat. Ambr\u00e9)",
-        "url": "https://open.spotify.com/album/73cXz39FnNfs7SKA5bvMPH"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 182001,
-      "name": "Lil' Obsession (feat. Ambr\u00e9)",
-      "url": "https://open.spotify.com/track/7r5vzUiBPrYlfGjkdnj1MX"
     },
     {
       "added_at": "2025-11-21 06:25:10",

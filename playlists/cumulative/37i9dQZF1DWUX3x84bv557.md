@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay & Aaron Blommaert
 
-1,312 songs - 2 day 14 hr 38 min
+1,312 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1098,7 +1098,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 2](https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Wervelwind](https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT) | 0:00 | 2026-05-07 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |
 | [Tranen Van Goud](https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb), [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Tranen Van Goud](https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB) | 2:21 | 2026-05-07 |  |
@@ -1236,6 +1235,7 @@
 | [Weerspiegelde Pijn](https://open.spotify.com/track/5I7Albio6CNHPM8uHoyWuF) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw) | [Weerspiegelde Pijn](https://open.spotify.com/album/2FdMP9V6my6LEpTZWM4thN) | 2:57 | 2023-11-16 | 2024-03-08 |
 | [Wees Niet Bang](https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Wees Niet Bang](https://open.spotify.com/album/3wT5djJDPFupycW30g3lob) | 3:22 | 2024-04-04 | 2024-06-01 |
 | [Welkom Bij Mij](https://open.spotify.com/track/1hXUCUtghj8SY82qc2nWJO) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Welkom Bij Mij](https://open.spotify.com/album/0G5ePOWQIL9b8hWuMpuoif) | 2:47 | 2025-05-22 | 2025-10-03 |
+| [Wervelwind](https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Wervelwind](https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT) | 2:41 | 2026-05-07 |  |
 | [Wie Ik Ben](https://open.spotify.com/track/07B6KYHiFPUYTUC5dK2LDN) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Wie Ik Ben](https://open.spotify.com/album/610ULNsmEtIaDVnHZru9vS) | 3:19 | 2024-10-03 | 2025-01-07 |
 | [Wie is zij](https://open.spotify.com/track/76RE1A1vlV8AsFWhAVnGbT) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Wie is zij](https://open.spotify.com/album/7qM0YRpQDSYHVFmcb6bpvr) | 2:55 | 2024-09-12 | 2024-10-11 |
 | [Wie We Waren \(with Lucas Nicholas\)](https://open.spotify.com/track/1ATxOdW5SrpzDuI6iZFyJr) | [Dominique de Bont](https://open.spotify.com/artist/2fYxLnbFdDBpgVs5Vaa4RO), [Lucas Nicholas](https://open.spotify.com/artist/60df08YRf2Oh7A2PUK24Vi) | [Wie We Waren \(with Lucas Nicholas\)](https://open.spotify.com/album/11iUfkqlm2hPxToQ5b7u2r) | 3:03 | 2025-02-07 | 2025-05-09 |

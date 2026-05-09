@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Gabriela Bee
 
-1,070 songs - 2 day 9 hr 39 min
+1,072 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-29 | 2024-02-14 |
 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 | 2024-02-09 | 2024-04-06 |
 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 | 2025-08-01 | 2025-11-22 |
+| [better and more](https://open.spotify.com/track/15JjCDBAdKJq1Zy3weXqTT) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [better and more](https://open.spotify.com/album/2cYIT4PnWRqsU2olQ8CbD3) | 2:38 | 2026-05-08 |  |
 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2024-04-12 | 2024-08-10 |
 | [Better Days](https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE) | 2:47 | 2023-11-10 | 2024-04-19 |
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-11 | 2025-09-27 |
@@ -424,7 +425,7 @@
 | [HOME](https://open.spotify.com/track/0Po4nPZoSyDf0GE8MXJgoo) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [HOME](https://open.spotify.com/album/44zCI5RAkDwK2fFJpqNvZ0) | 2:55 | 2025-06-27 | 2025-07-19 |
 | [Hope For The Best](https://open.spotify.com/track/1wFUpYmAa3bnxNp4UnQtBO) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Hope For The Best](https://open.spotify.com/album/2zLQANBXEfPCfB7DQcIpeS) | 3:30 | 2025-05-18 | 2025-08-09 |
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-10-19 |
-| [Hope Is the Greatest Fuel](https://open.spotify.com/track/1KbKmr7nD74Y4p9zy88Qoi) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Hope Is the Greatest Fuel](https://open.spotify.com/album/6jDG6jOD4AiuwVlDAhLyOz) | 3:06 | 2025-11-21 |  |
+| [Hope Is the Greatest Fuel](https://open.spotify.com/track/1KbKmr7nD74Y4p9zy88Qoi) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Hope Is the Greatest Fuel](https://open.spotify.com/album/6jDG6jOD4AiuwVlDAhLyOz) | 3:06 | 2025-11-21 | 2026-05-09 |
 | [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
 | [Hope You're Well](https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Hope You're Well](https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ) | 3:28 | 2022-11-04 | 2023-02-04 |
 | [Horror Movie](https://open.spotify.com/track/5yi8gmYXgvCTJtivjMtKAp) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Horror Movie](https://open.spotify.com/album/6T60F9RIEtDiyj6xDeyelH) | 3:18 | 2025-04-18 | 2025-09-06 |
@@ -581,6 +582,7 @@
 | [Listen To Me](https://open.spotify.com/track/2hj1pwxEQDh1Y5Fo9yZZjr) | [Glass Kinsman](https://open.spotify.com/artist/2r6hsDRBak5K0d2FWtgBSx) | [Listen To Me](https://open.spotify.com/album/1HYb34NcCRU2OgOgNxpfoP) | 3:54 | 2026-02-27 |  |
 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 | 2022-10-28 | 2022-12-24 |
 | [Little Things](https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Little Things](https://open.spotify.com/album/0nMEiut01f32QDCyKojM3N) | 3:17 | 2024-05-17 | 2024-07-27 |
+| [Living Proof](https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Living Proof](https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6) | 3:16 | 2026-05-08 |  |
 | [LOCK](https://open.spotify.com/track/2KdFMIMbLkQ0DbSZ3kR73H) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [LOCK](https://open.spotify.com/album/7ED6azlDo3agTJlhBVgD8a) | 3:22 | 2025-09-26 | 2026-03-07 |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-01-05 | 2024-07-13 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-07 | 2023-05-06 |
@@ -773,7 +775,7 @@
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr) | 3:09 | 2022-02-25 | 2022-04-09 |
 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 | 2023-11-10 | 2024-02-10 |
 | [Red Bandana](https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Red Bandana](https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0) | 3:47 | 2024-11-08 | 2025-04-08 |
-| [Remember Me](https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [It Will Never Be The Right Time](https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY) | 3:49 | 2026-03-20 |  |
+| [Remember Me](https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [It Will Never Be The Right Time](https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY) | 3:49 | 2026-03-20 | 2026-05-09 |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 | 2022-09-03 |
 | [remind me](https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [remind me](https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC) | 2:17 | 2023-04-07 | 2023-05-20 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-10-08 |

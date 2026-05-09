@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/29zZCKsncnM5eRXxvSfXRE"
+      },
+      "artists": [
+        {
+          "name": "Maarten Hogenhuis",
+          "url": "https://open.spotify.com/artist/3gSui7UKIDpeUjfeXj57kl"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/0wsIxlaGW3QOwi54iaSzis"
+    },
+    {
+      "album": {
         "name": "Just A Kid",
         "url": "https://open.spotify.com/album/2px5tlymZAQaQRHXXglaTc"
       },
@@ -3026,6 +3044,24 @@
       "duration_ms": 155830,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P"
+    },
+    {
+      "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
       "album": {

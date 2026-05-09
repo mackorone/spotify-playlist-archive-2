@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: Moses Bliss",
-  "num_followers": 56397,
+  "num_followers": 56499,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUnPk1Tskas9HsPcbHSqfW9KGKA",
+  "snapshot_id": "AAAAAJEB5oDFTxgU56rAkzD/P6PHMdC0",
   "tracks": [
     {
       "added_at": "2026-05-08 00:01:24",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/4rWoXTrNnYJV46WKCDjYcU"
     },
     {
+      "added_at": "2026-05-08 10:06:09",
+      "album": {
+        "name": "The Battle is Yours",
+        "url": "https://open.spotify.com/album/5DXvfgoEdncETfKWhR7HEs"
+      },
+      "artists": [
+        {
+          "name": "Ayo Olajide",
+          "url": "https://open.spotify.com/artist/58HNUu0M1dWp94r7Y448gQ"
+        }
+      ],
+      "duration_ms": 433368,
+      "name": "The Battle is Yours",
+      "url": "https://open.spotify.com/track/0HqzTB8qbdlH8cQOC2nuKk"
+    },
+    {
       "added_at": "2026-05-08 00:01:24",
       "album": {
         "name": "Aanu Ni",
@@ -238,10 +254,22 @@
         {
           "name": "Baby Momo",
           "url": "https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Ciniso",
+          "url": "https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw"
+        },
+        {
+          "name": "Swiss RSA",
+          "url": "https://open.spotify.com/artist/1IV2vKEBioPz7077QErHTz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 442543,
+      "name": "Uku Khuleka",
       "url": "https://open.spotify.com/track/0ZAbCcPmF3nReAcAM33ywe"
     },
     {

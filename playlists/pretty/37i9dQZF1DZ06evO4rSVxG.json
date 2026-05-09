@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afqEgAAAAABK36R/95kXLajKPxyvxHmK",
+  "snapshot_id": "afvWAAAAAACSCna2V6YOM3K03SPXErmb",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray Ray",
-        "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        },
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 258813,
-      "name": "Rifle Love",
-      "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
+      "duration_ms": 293733,
+      "name": "Little Walter",
+      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
     },
     {
       "added_at": null,
@@ -287,18 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+        "name": "Ray Ray",
+        "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
       },
       "artists": [
         {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 293733,
-      "name": "Little Walter",
-      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
+      "duration_ms": 258813,
+      "name": "Rifle Love",
+      "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Holy Smokes & Gee Whiz",
-      "url": "https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU"
+      "duration_ms": 335666,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 335666,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU"
+      "duration_ms": 301800,
+      "name": "Holy Smokes & Gee Whiz",
+      "url": "https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's a Beautiful Thing",
-        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 257790,
-      "name": "It's a Beautiful Thing - Sly Mix",
-      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
+      "duration_ms": 313093,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetic Justice: Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+        "name": "It's a Beautiful Thing",
+        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+      "duration_ms": 257790,
+      "name": "It's a Beautiful Thing - Sly Mix",
+      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
     },
     {
       "added_at": null,

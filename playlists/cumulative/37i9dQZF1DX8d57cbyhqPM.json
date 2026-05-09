@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Fally Ipupa et Wizkid.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Genezio.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -2070,6 +2070,24 @@
       "duration_ms": 148186,
       "name": "Boulot",
       "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
+    },
+    {
+      "album": {
+        "name": "BOUNCE DU GHETTO",
+        "url": "https://open.spotify.com/album/7fpVPlhJgiLE3wtgAkEigb"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137296,
+      "name": "BOUNCE DU GHETTO",
+      "url": "https://open.spotify.com/track/2C9rQ7lvy67hvaIa7XEEcu"
     },
     {
       "album": {
@@ -8254,7 +8272,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 225903,
       "name": "Makila : Wabl\u00e9",
       "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
@@ -9258,6 +9276,24 @@
       "duration_ms": 175475,
       "name": "Motema",
       "url": "https://open.spotify.com/track/6VWkqhuIWghoye62r47cpn"
+    },
+    {
+      "album": {
+        "name": "Motema",
+        "url": "https://open.spotify.com/album/07CF134yro8NwcjDSoGshx"
+      },
+      "artists": [
+        {
+          "name": "Odrey",
+          "url": "https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Motema",
+      "url": "https://open.spotify.com/track/5L1x4XXfemP6rbLn4svyLl"
     },
     {
       "album": {
@@ -12060,7 +12096,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 184960,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo"

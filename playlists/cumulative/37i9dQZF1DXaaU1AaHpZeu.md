@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español, con Leo Rizzi en portada.
 
-7,353 songs - 16 day 18 hr 52 min
+7,353 songs - 16 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5006,6 +5006,7 @@
 | [OTRA VUELTA](https://open.spotify.com/track/4nQ990Go1KLZc0vcAhOx1j) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [OTRA VUELTA](https://open.spotify.com/album/4GvycMj3fs42X8Jx4WaokH) | 2:05 | 2022-08-05 | 2022-08-20 |
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2022-11-11 | 2022-11-19 |
 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 | 2025-10-17 | 2025-11-08 |
+| [otro año](https://open.spotify.com/track/200gGu9eIiTePAJEDvcobw) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [entre tu y yo](https://open.spotify.com/album/5E8g8BGv8LW19rcEzeZf4D) | 2:46 | 2026-05-08 |  |
 | [Otro Chico +](https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Otro Chico +](https://open.spotify.com/album/35E2Korz5jlpPNjqUyTLts) | 2:26 | 2025-03-14 | 2025-03-22 |
 | [Otro Culito](https://open.spotify.com/track/5GbsTPypLz8xm3Y8jK8vk5) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Otro Culito](https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m) | 3:23 | 2025-10-03 | 2025-10-18 |
 | [Otro Destino](https://open.spotify.com/track/0boR8WL1PgGibYrGTKURSF) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Otro Destino](https://open.spotify.com/album/6CyVor7CWlZjX73i9mWeTP) | 3:42 | 2022-08-12 | 2022-08-20 |
@@ -6619,7 +6620,6 @@
 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 | 2025-10-17 | 2025-11-08 |
 | [tquiero](https://open.spotify.com/track/1qrVVl2xV3gBkMzNtEOIRW) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [tquiero](https://open.spotify.com/album/7jHQGXyamGThrpeUlhlBzk) | 2:33 | 2026-02-20 | 2026-02-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-30 |
-| [Track 2](https://open.spotify.com/track/200gGu9eIiTePAJEDvcobw) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [entre tu y yo](https://open.spotify.com/album/5E8g8BGv8LW19rcEzeZf4D) | 0:00 | 2026-05-08 |  |
 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 | 2023-03-31 | 2023-04-15 |
 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 | 2024-09-06 | 2024-09-14 |
 | [Traición](https://open.spotify.com/track/36ra3hMPRvKXvxRGwKwZSW) | [Barbacius](https://open.spotify.com/artist/6ammhQoFZnVNk5n8qqagyv), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Big Apple](https://open.spotify.com/artist/0A47yBLunNeq5dA5WYUjBe) | [3 Pasos Para Sanar un Corazón Roto](https://open.spotify.com/album/1tDZPLGY1uTtON1SLq8PHO) | 2:33 | 2026-02-27 | 2026-03-07 |

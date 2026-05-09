@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-248 songs - 13 hr 41 min
+250 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [It's A Beautiful Day Today](https://open.spotify.com/track/6wn3ZYA7XiXqfUCJCBo7q0) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Saving Grace](https://open.spotify.com/album/3E3qeXLdDtaX16OV4kbNoF) | 3:41 | 2025-09-26 | 2025-11-08 |
 | [It’s Easier Said Than Done](https://open.spotify.com/track/31MYlzWnbg53MGVdlTUq7v) | [Ch’aska Kroes](https://open.spotify.com/artist/6R9Q2Pl8dPPsfVkrVQpLQb) | [It’s Easier Said Than Done](https://open.spotify.com/album/2LoVhsCTrXGUzy4oKJgc7t) | 3:08 | 2026-02-06 |  |
 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 | 2025-11-21 | 2026-02-07 |
+| [Jupiter](https://open.spotify.com/track/0wsIxlaGW3QOwi54iaSzis) | [Maarten Hogenhuis](https://open.spotify.com/artist/3gSui7UKIDpeUjfeXj57kl) | [Jupiter](https://open.spotify.com/album/29zZCKsncnM5eRXxvSfXRE) | 3:25 | 2026-05-08 |  |
 | [Just A Kid](https://open.spotify.com/track/7LAiBcBZ7qKR4Y9I8KTMsZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Just A Kid](https://open.spotify.com/album/2px5tlymZAQaQRHXXglaTc) | 4:18 | 2026-03-27 |  |
 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-24 |  |
 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-03-20 | 2026-04-18 |
@@ -172,6 +173,7 @@
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 |  |
 | [Polo TSI](https://open.spotify.com/track/66bN4vvWaiZP1u8wVuYOiq) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Polo TSI](https://open.spotify.com/album/1YbtxQJz9kisYy5IwfPU8G) | 2:48 | 2025-10-31 | 2026-02-07 |
 | [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 | 2025-10-17 | 2025-12-07 |
+| [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-05-08 |  |
 | [Puzzle](https://open.spotify.com/track/1E1bsQ93htYPzHqKbakej9) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Puzzle](https://open.spotify.com/album/6o2y7CpR7xIBqHYyFIXOu5) | 3:00 | 2025-07-18 | 2025-08-23 |
 | [Pyramid Scheme](https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Pyramid Scheme](https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG) | 3:15 | 2025-07-18 | 2025-09-20 |
 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 | 2025-12-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Instrumentals from the North Indian school of music.",
-  "num_followers": 58011,
+  "num_followers": 58017,
   "original_name": "Hindustani Instrumental",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-04-06 06:56:48",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 835312,
-      "name": "Komal Rishabh Asavari - Jhaptaal",
-      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
-    },
-    {
-      "added_at": "2026-04-06 06:56:48",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 1105906,
       "name": "Celebration: Raga manj khamaj",
       "url": "https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9"
+    },
+    {
+      "added_at": "2026-04-06 06:56:48",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
     },
     {
       "added_at": "2026-04-06 06:56:48",

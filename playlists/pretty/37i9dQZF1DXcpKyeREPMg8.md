@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain]
 
 > Fine art in the form of UK Hip\-Hop\. Cover: Dave, Kano
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,176 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,175 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

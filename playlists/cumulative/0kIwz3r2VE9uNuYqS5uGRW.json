@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "NOW THAT I\u2019M UP",
+        "url": "https://open.spotify.com/album/5E3haJjBqElPzW9nR5Q0i2"
+      },
+      "artists": [
+        {
+          "name": "Sw\u00edzzy",
+          "url": "https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145285,
+      "name": "NOW THAT I\u2019M UP",
+      "url": "https://open.spotify.com/track/4fMExohtJgou8vc2nV9QSI"
+    },
+    {
+      "album": {
         "name": "Desolation and Radiation",
         "url": "https://open.spotify.com/album/6PcEqIVCtKe9bSZYHD314w"
       },

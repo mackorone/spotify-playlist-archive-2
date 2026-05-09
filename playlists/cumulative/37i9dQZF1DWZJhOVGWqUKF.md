@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Lina\-Mariah
 
-924 songs - 2 day 4 hr 24 min
+925 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Disconnected](https://open.spotify.com/track/2fhBazTvPdHa27az86vVui) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Disconnected](https://open.spotify.com/album/6kBdFPbSCU3kfzV1a2tXEj) | 3:14 | 2026-01-15 | 2026-03-08 |
 | [Disease](https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Disease](https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz) | 2:39 | 2024-12-12 | 2025-02-09 |
 | [Dissolve](https://open.spotify.com/track/6YG6RvvZiJYGmr69q68sti) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sundiver](https://open.spotify.com/album/3yEElJhMf5ZefKwMgvVRod) | 3:49 | 2024-09-05 | 2024-09-13 |
+| [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-07 |  |
 | [Do One](https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Do One](https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS) | 2:38 | 2025-07-17 | 2025-07-25 |
 | [Do Or Die](https://open.spotify.com/track/6YRmlncEmfgAii4f7F6tAF) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Entropy](https://open.spotify.com/album/6Hv27mfvRRJi1NMXkams3J) | 3:42 | 2025-10-02 | 2026-02-20 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2025-03-28 |
@@ -371,6 +372,7 @@
 | [HEAT ME UP](https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [HEAT ME UP](https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt) | 3:45 | 2024-07-04 | 2024-07-12 |
 | [Heathen](https://open.spotify.com/track/3zc7Jwhc1nkgtGmk2qTDjq) | [Odd Palace](https://open.spotify.com/artist/37uxqGJqY0W4XMMkrMFWwV), [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Heathen](https://open.spotify.com/album/3FoSgaXrhCv2qNQX9iuOJh) | 5:10 | 2025-02-13 | 2025-02-21 |
 | [Heathen Days](https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Heathen Days](https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP) | 2:17 | 2025-11-20 | 2026-03-15 |
+| [HEAVY GLOW](https://open.spotify.com/track/7Jl5sUyMCYycpnX2jbtEbg) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF) | [LIVE FAST DIE YOUNG](https://open.spotify.com/album/6Mg3wIvdPG9UJk6gJOtWn3) | 3:19 | 2026-05-07 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-12-05 |
 | [Heavy Lifting](https://open.spotify.com/track/5TwyfOdwtktWwmTXOXlJZV) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Heavy Lifting](https://open.spotify.com/album/4oalHp2b33wlbKuJCvW199) | 3:20 | 2024-09-12 | 2024-09-20 |
 | [Hell Is Empty](https://open.spotify.com/track/2iEgSrTskfVBlzoqOD9tll) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Hell Is Empty](https://open.spotify.com/album/4kom466zyrJDRfg0UIRl11) | 2:57 | 2024-10-10 | 2025-01-11 |
@@ -833,7 +835,6 @@
 | [too far gone](https://open.spotify.com/track/6hkp7TNulqDK5BruldgB6j) | [rosecoloredworld](https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF) | [too far gone](https://open.spotify.com/album/08mjFRr5oPWwWrlf4QR8Ro) | 3:04 | 2026-01-09 | 2026-01-16 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-12-05 |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 1](https://open.spotify.com/track/7Jl5sUyMCYycpnX2jbtEbg) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF) | [LIVE FAST DIE YOUNG](https://open.spotify.com/album/6Mg3wIvdPG9UJk6gJOtWn3) | 0:00 | 2026-05-07 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2025-12-12 |

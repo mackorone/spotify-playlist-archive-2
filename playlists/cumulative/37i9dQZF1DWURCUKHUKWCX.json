@@ -745,6 +745,46 @@
     },
     {
       "album": {
+        "name": "Beyond the Canvas",
+        "url": "https://open.spotify.com/album/38kHgXkxUZmFE5vQ8Yw2qt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "Beyond the Canvas",
+      "url": "https://open.spotify.com/track/16evbqH9kBXWHHUa4NSG0i"
+    },
+    {
+      "album": {
+        "name": "Awakening: The Stillness Within",
+        "url": "https://open.spotify.com/album/2salpedZAfs33O9ChRNMyI"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433576,
+      "name": "Bhairav Rising (feat. Purbayan Chatterjee)",
+      "url": "https://open.spotify.com/track/0K6fLzHP5Ypo2OKBs4Mfxc"
+    },
+    {
+      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/5FRfrI7027gNZX0iPeMmyu"
       },
@@ -1148,6 +1188,24 @@
       "duration_ms": 158560,
       "name": "Daydream ode",
       "url": "https://open.spotify.com/track/39RLWExt2tjulIrBUhxOQT"
+    },
+    {
+      "album": {
+        "name": "Dear Burt",
+        "url": "https://open.spotify.com/album/0OHiTzE0pCiRZSUJxOogjJ"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "Dear Burt",
+      "url": "https://open.spotify.com/track/30wGantdQs0oHsli7XwICC"
     },
     {
       "album": {
@@ -4171,6 +4229,28 @@
     },
     {
       "album": {
+        "name": "Reconciliation",
+        "url": "https://open.spotify.com/album/6qRQ36HIe3kFFXIugWnGzb"
+      },
+      "artists": [
+        {
+          "name": "still fades",
+          "url": "https://open.spotify.com/artist/72DZGHO1a2La98mzLBSovA"
+        },
+        {
+          "name": "Louise Spencer",
+          "url": "https://open.spotify.com/artist/4BT9SUkyKeyMlaMpgyZAKS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222644,
+      "name": "Reconciliation",
+      "url": "https://open.spotify.com/track/7iB6Bmbfx5ei2wrqAj0WVs"
+    },
+    {
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/1S1NDNkSeBF0ihhbNTyzcE"
       },
@@ -4620,6 +4700,24 @@
       "duration_ms": 152897,
       "name": "Small Falls",
       "url": "https://open.spotify.com/track/3F5fg5XwKVsD01TlnMxWfr"
+    },
+    {
+      "album": {
+        "name": "Soglia",
+        "url": "https://open.spotify.com/album/2JRm3nGkmyz6wBFCpkEJ3X"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "Soglia",
+      "url": "https://open.spotify.com/track/754YO0HqOWBbksx2vmWTAj"
     },
     {
       "album": {

@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Drops of Jupiter (Tell Me) [Live Session]",
+        "url": "https://open.spotify.com/album/3Wd0ypRVnpLmkQPhswiy9G"
+      },
+      "artists": [
+        {
+          "name": "We Three",
+          "url": "https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250709,
+      "name": "Drops of Jupiter (Tell Me) - Live Session",
+      "url": "https://open.spotify.com/track/3PMjN3V9Mwi0Alalx7I3sC"
+    },
+    {
+      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 176921,
       "name": "The Best",
       "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"

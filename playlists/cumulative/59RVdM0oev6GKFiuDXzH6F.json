@@ -12317,6 +12317,24 @@
     },
     {
       "album": {
+        "name": "lOve yoU",
+        "url": "https://open.spotify.com/album/1ZrKljhgvSk1V6yxqH3T5g"
+      },
+      "artists": [
+        {
+          "name": "BOY&GIRL",
+          "url": "https://open.spotify.com/artist/5MdKfdsqNtmoCGcw9hXvzb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170980,
+      "name": "lOve yoU",
+      "url": "https://open.spotify.com/track/2sKWUsJ9CcfJP3yPrdykYH"
+    },
+    {
+      "album": {
         "name": "Love You Tomorrow",
         "url": "https://open.spotify.com/album/7vhtzN4JlgT8YV0Cko3mPM"
       },
@@ -15114,6 +15132,28 @@
       "duration_ms": 169523,
       "name": "Only You",
       "url": "https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK"
+    },
+    {
+      "album": {
+        "name": "ONLY YOU",
+        "url": "https://open.spotify.com/album/5kctvEdj4qpgKUyJmoojaN"
+      },
+      "artists": [
+        {
+          "name": "SATNAV",
+          "url": "https://open.spotify.com/artist/2aGwYvgsSuRhJXxFitdfXX"
+        },
+        {
+          "name": "Beau James",
+          "url": "https://open.spotify.com/artist/6eiaPy1PcWNzcbJrROzWoz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290704,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/0pE3s89u5jvjXvKEtEdiJ3"
     },
     {
       "album": {

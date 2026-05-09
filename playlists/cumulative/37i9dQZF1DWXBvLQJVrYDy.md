@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-241 songs - 15 hr 33 min
+244 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,8 @@
 | [Balcony Blues](https://open.spotify.com/track/441cKPbK8JCwKRipUKJVCp) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Balcony Blues](https://open.spotify.com/album/7HLjNFPf97U76176Hy4RIW) | 3:27 | 2025-11-12 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-08-18 |  |
 | [Ballad Of The Sad Young Man](https://open.spotify.com/track/6jqTF5uYRWJjDklyCSJpX8) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Ballad Of The Sad Young Man](https://open.spotify.com/album/3vT3GZxPt08jfwZib4FEJ4) | 3:44 | 2022-08-18 | 2022-11-25 |
+| [Beneath the Velvet Sky](https://open.spotify.com/track/0vwzzAaMfMYdVXs6qtlBBL) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Beneath the Velvet Sky](https://open.spotify.com/album/5NAJD8BuPnTyoeg7yDa6RT) | 3:48 | 2026-05-08 |  |
+| [Between The Changes](https://open.spotify.com/track/7DO7EL2Ql4TkCu8BqLidG6) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Between the Changes](https://open.spotify.com/album/50BrIcq4GC60NRbhbDm4ig) | 3:21 | 2026-05-08 |  |
 | [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 | 2025-11-13 |
 | [Blame It On My Youth](https://open.spotify.com/track/1SxdVPyuUquWVcrxjHhQED) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth](https://open.spotify.com/album/4IGwxuImizLowHXCeZGke4) | 4:58 | 2022-08-18 | 2025-11-13 |
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-01-26 | 2025-11-13 |
@@ -83,7 +85,7 @@
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-08-18 | 2025-11-13 |
 | [Hazel](https://open.spotify.com/track/31xTgQQsM0etDnwb6ziLbW) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [Hazel](https://open.spotify.com/album/0kTzgg4yQiJKfDymYvvqh9) | 3:51 | 2024-02-09 |  |
 | [Hear Hear](https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Hear Hear](https://open.spotify.com/album/6WAila18C1NidEzseKeNee) | 3:58 | 2024-05-24 |  |
-| [Here Today](https://open.spotify.com/track/0qx0CusGlT0LHaKbvV1TG7) | [West Village Quartet](https://open.spotify.com/artist/0xh8Hbs6yzgtXrvcOYxckI) | [Here Today](https://open.spotify.com/album/6vj8aabAMbGdQfaUJQyRoD) | 3:47 | 2025-11-12 |  |
+| [Here Today](https://open.spotify.com/track/0qx0CusGlT0LHaKbvV1TG7) | [West Village Quartet](https://open.spotify.com/artist/0xh8Hbs6yzgtXrvcOYxckI) | [Here Today](https://open.spotify.com/album/6vj8aabAMbGdQfaUJQyRoD) | 3:47 | 2025-11-12 | 2026-05-09 |
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-08-18 | 2025-11-13 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-18 | 2025-11-13 |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 | 2025-11-13 |
@@ -151,8 +153,8 @@
 | [OD](https://open.spotify.com/track/41cORdbmswG9htvuswqSJP) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 6:58 | 2022-08-18 | 2023-01-27 |
 | [Oh, You Crazy Moon](https://open.spotify.com/track/0ev5ZUSI3YFByFX9EfRUWl) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [My Prayer](https://open.spotify.com/album/6YBq5EF3aq9VILtfLpr6bI) | 3:59 | 2022-08-18 | 2025-11-13 |
 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 | 2022-08-18 | 2025-11-13 |
-| [On a Cloudy Day](https://open.spotify.com/track/0E05arAZZMQFOLuXJBluXS) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [On a Cloudy Day](https://open.spotify.com/album/6c6HCoxkrVwcYo3TDcmNnu) | 3:28 | 2025-11-12 |  |
-| [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 | 2023-01-19 |  |
+| [On a Cloudy Day](https://open.spotify.com/track/0E05arAZZMQFOLuXJBluXS) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [On a Cloudy Day](https://open.spotify.com/album/6c6HCoxkrVwcYo3TDcmNnu) | 3:28 | 2025-11-12 | 2026-05-09 |
+| [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 | 2023-01-19 | 2026-05-09 |
 | [Once Again](https://open.spotify.com/track/6njul2LIdBRvxjoekr0mMr) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Once Again](https://open.spotify.com/album/16pxAAGup6qor08lI2z7KV) | 3:23 | 2023-05-25 | 2025-11-13 |
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 |  |
 | [One Fine Day](https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [One Fine Day](https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5) | 4:24 | 2022-11-10 | 2023-06-02 |
@@ -249,5 +251,6 @@
 | [You've Changed \- Remastered 2015](https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright \(Remastered\)](https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC) | 7:27 | 2022-08-18 | 2023-02-03 |
 | [Your Goodbye](https://open.spotify.com/track/23O9t0qs6YkUFIiRmxAXAV) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Your Goodbye](https://open.spotify.com/album/6ua5uLyEVWOz4e23b7TduX) | 3:40 | 2023-12-08 | 2025-11-13 |
 | [Your Smile](https://open.spotify.com/track/1j49Blzw3HDfZ3KUs88zzl) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Your Smile](https://open.spotify.com/album/7FHXsFk96blgIpAujGbNUT) | 3:21 | 2023-10-27 | 2025-11-13 |
+| [You´re My Everything](https://open.spotify.com/track/4Mxuicno48JqtIdh6ydQ1q) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [You´re My Everything](https://open.spotify.com/album/02bFmXy4A1CMr8x4PR0Awr) | 3:11 | 2026-05-08 |  |
 
 \*This playlist was first scraped on 2022-08-19. Prior content cannot be recovered.

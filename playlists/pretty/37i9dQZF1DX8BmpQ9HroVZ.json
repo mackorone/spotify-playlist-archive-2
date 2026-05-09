@@ -1,33 +1,13 @@
 {
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Abdul Hannan",
-  "num_followers": 191856,
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Zoha Waseem, Sheheryar Rehan",
+  "num_followers": 191948,
   "original_name": "Hot Hits Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN//NlWj1MooJlGuqnbWX1G25cSB",
+  "snapshot_id": "AAAAAJ3xkmUg24FGqcGdwWDzjiGDGRTK",
   "tracks": [
-    {
-      "added_at": "2026-05-06 10:39:38",
-      "album": {
-        "name": "Khasara",
-        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Samar Jafri",
-          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Khasara",
-      "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
-    },
     {
       "added_at": "2026-05-06 10:39:38",
       "album": {
@@ -47,6 +27,66 @@
       "duration_ms": 145333,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
+    },
+    {
+      "added_at": "2026-05-08 04:08:33",
+      "album": {
+        "name": "Dunya Bhula Ke",
+        "url": "https://open.spotify.com/album/4z0c3SD0uQxd7bl4C9tkdJ"
+      },
+      "artists": [
+        {
+          "name": "Raafay Israr",
+          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
+        },
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Dunya Bhula Ke",
+      "url": "https://open.spotify.com/track/0CiV8B60XBAidA3xbjvSou"
+    },
+    {
+      "added_at": "2026-05-08 04:08:33",
+      "album": {
+        "name": "Har Baar",
+        "url": "https://open.spotify.com/album/1oRAxwfxb55WuW7KjSx5uw"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Har Baar",
+      "url": "https://open.spotify.com/track/3VJpl4jrFSqY3Y6mAzqfux"
+    },
+    {
+      "added_at": "2026-05-06 10:39:38",
+      "album": {
+        "name": "Khasara",
+        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Khasara",
+      "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
     },
     {
       "added_at": "2026-05-06 10:39:38",
@@ -1495,50 +1535,6 @@
     {
       "added_at": "2026-05-06 10:39:38",
       "album": {
-        "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-        "url": "https://open.spotify.com/album/5FKHnXMAYzAkjMQviPEA74"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Sudhir Yaduvanshi",
-          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
-        },
-        {
-          "name": "Charanjit Ahuja",
-          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
-        },
-        {
-          "name": "Muhammad Sadiq",
-          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
-        },
-        {
-          "name": "Ranjit Kaur",
-          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
-        },
-        {
-          "name": "Babu Singh Maan",
-          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
-        }
-      ],
-      "duration_ms": 155590,
-      "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-      "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
-    },
-    {
-      "added_at": "2026-05-06 10:39:38",
-      "album": {
         "name": "Saiyaara (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
@@ -1639,30 +1635,6 @@
       "duration_ms": 296222,
       "name": "Khat",
       "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
-    },
-    {
-      "added_at": "2026-05-06 10:39:38",
-      "album": {
-        "name": "Dealer",
-        "url": "https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Da Future",
-          "url": "https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR"
-        },
-        {
-          "name": "Virk Andaaz",
-          "url": "https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l"
-        }
-      ],
-      "duration_ms": 110125,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
     },
     {
       "added_at": "2026-05-06 10:39:38",

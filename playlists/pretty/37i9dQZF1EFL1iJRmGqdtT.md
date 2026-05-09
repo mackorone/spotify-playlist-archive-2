@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 117 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 117 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 116 | [Afterparty](https://open.spotify.com/track/0ZeD7U7TTQECHW8bU3l0WM) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:16 |
 | 117 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `AcQ4/AAAAADHQWGNXFRa/WAf41uZNuC+`
+Snapshot ID: `AcQ+nAAAAABGSpWooTf5WeFBreHuk6ZC`

@@ -2259,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "Count",
+        "url": "https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Testimony",
+          "url": "https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Count",
+      "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
+    },
+    {
+      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/1WFmSE1Vs7Hm9CesZXdCDm"
       },
@@ -4331,6 +4353,28 @@
     },
     {
       "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/3tapPYQFcVWMkmq64Xdb9M"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Narabs",
+          "url": "https://open.spotify.com/artist/1EmLcUJU7ZYVBjYOFTOa1h"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/1z0IDytPQh2DfDMBRAmBWC"
+    },
+    {
+      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/5KpAcDbRYitZmaupiiVwU2"
       },
@@ -6102,7 +6146,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 164581,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/3Gs6YU18uwHoN72sMVJxI8"
@@ -6780,7 +6824,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 443614,
       "name": "Lifter Of Men - Higher",
       "url": "https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ"

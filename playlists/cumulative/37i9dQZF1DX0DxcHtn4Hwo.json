@@ -5632,7 +5632,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 71054,
       "name": "For My Friends",
       "url": "https://open.spotify.com/track/3nQmWfikKibsIt4eSoC2Tl"
@@ -9549,6 +9549,24 @@
     },
     {
       "album": {
+        "name": "Little Bear's Dream",
+        "url": "https://open.spotify.com/album/2DHg9D8tDsam7XETki5x1v"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129466,
+      "name": "Little Bear's Dream",
+      "url": "https://open.spotify.com/track/1s5v4EAWynwxU8f6TgobTb"
+    },
+    {
+      "album": {
         "name": "Little Bed",
         "url": "https://open.spotify.com/album/3fN93ZHVKps8om3wCoRQ0Q"
       },
@@ -12278,7 +12296,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 92272,
       "name": "My Village",
       "url": "https://open.spotify.com/track/29RA6Jwwksfnop8VKIlsPQ"
@@ -12537,6 +12555,24 @@
     },
     {
       "album": {
+        "name": "Night Falls",
+        "url": "https://open.spotify.com/album/4PTQ0lgeXhinoNZlFt8oSL"
+      },
+      "artists": [
+        {
+          "name": "Julia Luna Moreau",
+          "url": "https://open.spotify.com/artist/4Ey1uibY1hSPvyUELs7CNl"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90266,
+      "name": "Night Falls",
+      "url": "https://open.spotify.com/track/73NfSK0Ipla3XoJVF2quaN"
+    },
+    {
+      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/7e7q7EN2MBZ3efkL9rcbYA"
       },
@@ -12591,6 +12627,24 @@
     },
     {
       "album": {
+        "name": "Night-Night Song",
+        "url": "https://open.spotify.com/album/05zqm6LwlnZ8NXYBQQF8zF"
+      },
+      "artists": [
+        {
+          "name": "Cecil Lecroy",
+          "url": "https://open.spotify.com/artist/3ZgC4ktbITRLg6kVHkdkZp"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101818,
+      "name": "Night-Night Song",
+      "url": "https://open.spotify.com/track/2fHYALwtQpz7jQevizm1X1"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/47W6Rpxkj0Cxzx746cm6tE"
       },
@@ -12638,7 +12692,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 125454,
       "name": "Nightingales",
       "url": "https://open.spotify.com/track/6XAaEIck50dvq916jorgDQ"
@@ -16012,7 +16066,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 146179,
       "name": "Sleepy Panda's Hug",
       "url": "https://open.spotify.com/track/0YsG5hkVVNPeiB0iLyB1sz"
@@ -17153,6 +17207,24 @@
     },
     {
       "album": {
+        "name": "Springtime Swan",
+        "url": "https://open.spotify.com/album/30K7iXlD0cMZGp0VhWXNvb"
+      },
+      "artists": [
+        {
+          "name": "J. Sapphire",
+          "url": "https://open.spotify.com/artist/0PLfqGlz9ZVRugDUWZ22Jz"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140889,
+      "name": "Springtime Swan",
+      "url": "https://open.spotify.com/track/79AMMMZ4RHIFN63ObjUwGh"
+    },
+    {
+      "album": {
         "name": "Sprinkletoad",
         "url": "https://open.spotify.com/album/6b7sa9WVvqNJMihcXsonsy"
       },
@@ -17186,6 +17258,24 @@
       "duration_ms": 105727,
       "name": "Staircase Lullaby",
       "url": "https://open.spotify.com/track/74lpl3BCa6lLcAAlFxrb7L"
+    },
+    {
+      "album": {
+        "name": "Star Glow",
+        "url": "https://open.spotify.com/album/1I1AfZ9wIhKf8K2FJ1TaRS"
+      },
+      "artists": [
+        {
+          "name": "Calen Reed",
+          "url": "https://open.spotify.com/artist/4XTyX836IokggRqKClunu7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96792,
+      "name": "Star Glow",
+      "url": "https://open.spotify.com/track/71jEuIZeYM4QoLrgyPvpWu"
     },
     {
       "album": {
@@ -18071,6 +18161,24 @@
     },
     {
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/6nWVNWLnVuyumJWhmUzb6X"
+      },
+      "artists": [
+        {
+          "name": "Noel Cole",
+          "url": "https://open.spotify.com/artist/7o7NBMdWrzP5NxNbw37MAm"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/3J0MfUGbmhfN2iPZsFWpaV"
+    },
+    {
+      "album": {
         "name": "That Cute Button Nose",
         "url": "https://open.spotify.com/album/0EV8umuiZo4gSqvfVTQi5y"
       },
@@ -18658,7 +18766,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 124914,
       "name": "The Little Butterfly",
       "url": "https://open.spotify.com/track/0rCvYkI3IAtJD7uhoyM1mx"
@@ -18694,7 +18802,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-09",
       "duration_ms": 112733,
       "name": "The Little Inventor",
       "url": "https://open.spotify.com/track/04mLZZVe2RD55CmUdyoMRz"
