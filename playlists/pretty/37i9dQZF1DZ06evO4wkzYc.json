@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 193003,
+  "num_followers": 193026,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACUnhwPQ3zu67CAGjGWY+o5",
+  "snapshot_id": "af0ngAAAAADIEV56Vsj93/K+KfZ1xmqV",
   "tracks": [
     {
       "added_at": null,
@@ -168,7 +168,7 @@
       "added_at": null,
       "album": {
         "name": "Mi Amor Por Ti",
-        "url": "https://open.spotify.com/album/2CcT2BdRw18jS7SYZI10Nf"
+        "url": "https://open.spotify.com/album/4Qnoete3zlDYMEUBmGOc4P"
       },
       "artists": [
         {
@@ -176,15 +176,15 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 227380,
+      "duration_ms": 227403,
       "name": "Mi Amor Por Ti",
-      "url": "https://open.spotify.com/track/46oEwUHvlrd038HuB5EW8z"
+      "url": "https://open.spotify.com/track/7nk8wpOPZkA7beAENjDWt9"
     },
     {
       "added_at": null,
       "album": {
         "name": "La Fea",
-        "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
+        "url": "https://open.spotify.com/album/3n6DUly3Kcoc99f8qM9jxf"
       },
       "artists": [
         {
@@ -194,7 +194,7 @@
       ],
       "duration_ms": 245035,
       "name": "La Fea",
-      "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
+      "url": "https://open.spotify.com/track/6qRDRRc6ySs99VGB1KTNsf"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227184,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
       },
@@ -335,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq"
       },
       "artists": [
         {
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
+      "duration_ms": 188197,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR"
     },
     {
       "added_at": null,
@@ -371,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mingo",
-        "url": "https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188197,
-      "name": "Mingo",
-      "url": "https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
@@ -404,7 +404,7 @@
       "added_at": null,
       "album": {
         "name": "Zutano",
-        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
+        "url": "https://open.spotify.com/album/7JeL0u9W8PscUQKS4V0vtj"
       },
       "artists": [
         {
@@ -412,25 +412,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 181901,
+      "duration_ms": 181951,
       "name": "Zutano",
-      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 252821,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
+      "url": "https://open.spotify.com/track/1WBa4tWL35yvqCO42c2C1J"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 255132,
       "name": "Jimmy Neutron",
       "url": "https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/4N3szQ2TAQeozENZC7xou8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 252821,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuentes De Ortiz",
-        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 232216,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 214738,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuentes De Ortiz",
+        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 232216,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Todo Cambio",
-      "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 229584,
       "name": "Nestor (El Nini)",
       "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Todo Cambio",
+      "url": "https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ"
     },
     {
       "added_at": null,
@@ -656,7 +656,7 @@
       "added_at": null,
       "album": {
         "name": "El Proveedor",
-        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
+        "url": "https://open.spotify.com/album/0RFanvIBk0DNvJ1yxEFX4e"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 231402,
+      "duration_ms": 231471,
       "name": "El Proveedor",
-      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
+      "url": "https://open.spotify.com/track/2Gkth1SvX92CZSjofDFTrJ"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 216977,
       "name": "El Del Ice (Live)",
       "url": "https://open.spotify.com/track/2vZp1YjSsiKqQv2pgWfZ1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 238780,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
     },
     {
       "added_at": null,
@@ -719,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
       },
       "artists": [
         {
@@ -728,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 238780,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
+      "duration_ms": 147609,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "Amarte",
-      "url": "https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 265901,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "Amarte",
+      "url": "https://open.spotify.com/track/6YSaa2DOow4nMXj6zPiDqt"
     },
     {
       "added_at": null,

@@ -571,22 +571,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u6d6a\u6f2b\u4e3b\u610f",
-        "url": "https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo"
-      },
-      "artists": [
-        {
-          "name": "Ozone",
-          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
-        }
-      ],
-      "duration_ms": 211442,
-      "name": "\u6d6a\u6f2b\u4e3b\u610f",
-      "url": "https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u8de8\u6642\u4ee3",
         "url": "https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 252453,
       "name": "\u597d\u4e45\u4e0d\u898b",
       "url": "https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u6d6a\u6f2b\u4e3b\u610f",
+        "url": "https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo"
+      },
+      "artists": [
+        {
+          "name": "Ozone",
+          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
+        }
+      ],
+      "duration_ms": 211442,
+      "name": "\u6d6a\u6f2b\u4e3b\u610f",
+      "url": "https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "Take Off - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Let me love u",
-      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u8bf4\u7231\u4f60 (\u7537\u751f\u7248)",
         "url": "https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194705,
       "name": "\u8bf4\u7231\u4f60 - \u7537\u751f\u7248",
       "url": "https://open.spotify.com/track/5gP0jJMhvAtHXIn4bekkob"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "Take Off - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Let me love u",
+      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
+        "name": "\u8001\u516c\u516c\u8001\u5a46\u5a46",
+        "url": "https://open.spotify.com/album/3vSduIlZ6Y9sJGrt5q4Uw7"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u4e3b\u7231",
+          "url": "https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "\u8001\u516c\u516c\u8001\u5a46\u5a46",
+      "url": "https://open.spotify.com/track/3Iovz38Pe2gt6U2hKiL67A"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
         "name": "\u6211\u597d\u60f3\u4f60",
         "url": "https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq"
       },
@@ -1247,38 +1263,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u6162\u52d5\u4f5c\u544a\u767d",
-        "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
-      },
-      "artists": [
-        {
-          "name": "Sam Lin",
-          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
-        }
-      ],
-      "duration_ms": 159528,
-      "name": "\u6162\u52d5\u4f5c\u544a\u767d",
-      "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
-        "name": "\u8001\u516c\u516c\u8001\u5a46\u5a46",
-        "url": "https://open.spotify.com/album/3vSduIlZ6Y9sJGrt5q4Uw7"
-      },
-      "artists": [
-        {
-          "name": "\u6731\u4e3b\u7231",
-          "url": "https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "\u8001\u516c\u516c\u8001\u5a46\u5a46",
-      "url": "https://open.spotify.com/track/3Iovz38Pe2gt6U2hKiL67A"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u611b\u7684\u83dc\u5e02\u5834",
         "url": "https://open.spotify.com/album/3pvU1pLuTuOcpwm2ooVNip"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 179000,
       "name": "\u611b\u7684\u83dc\u5e02\u5834",
       "url": "https://open.spotify.com/track/75V4tdx9wBJWXAvgADroED"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u6162\u52d5\u4f5c\u544a\u767d",
+        "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
+      },
+      "artists": [
+        {
+          "name": "Sam Lin",
+          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
+        }
+      ],
+      "duration_ms": 159528,
+      "name": "\u6162\u52d5\u4f5c\u544a\u767d",
+      "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

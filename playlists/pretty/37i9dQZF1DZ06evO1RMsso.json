@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 230992,
+  "num_followers": 231023,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABZzTOuGYg8syPJlzYxjjN9",
+  "snapshot_id": "af0ngAAAAAAb18BciMIRug30+PSPxi1C",
   "tracks": [
     {
       "added_at": null,
@@ -639,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi-Wan Kenobi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
       },
       "artists": [
         {
           "name": "John Williams",
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 246520,
-      "name": "Obi-Wan",
-      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+      "duration_ms": 263226,
+      "name": "Princess Leia's Theme",
+      "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
     },
     {
       "added_at": null,
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
       },
       "artists": [
         {
           "name": "John Williams",
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 263226,
-      "name": "Princess Leia's Theme",
-      "url": "https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j"
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Anakin's Theme",
-      "url": "https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 324226,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Anakin's Theme",
+      "url": "https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z"
     },
     {
       "added_at": null,

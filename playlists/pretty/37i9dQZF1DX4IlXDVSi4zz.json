@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1016292,
+  "num_followers": 1016513,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,30 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+        "name": "Forever (feat. Malou & Yuna)",
+        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 148135,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+      "duration_ms": 140500,
+      "name": "Forever (feat. Malou & Yuna)",
+      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -647,30 +651,26 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Forever (feat. Malou & Yuna)",
-        "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Forever (feat. Malou & Yuna)",
-      "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "duration_ms": 173777,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
         "name": "Dancin (feat. Luvli) [Krono Remix]",
         "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 198053,
       "name": "Dancin (feat. Luvli) - Krono Remix",
       "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "Campe\u00f3n",
-        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        }
-      ],
-      "duration_ms": 173777,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1691,26 +1691,6 @@
       "duration_ms": 195625,
       "name": "Alameyo",
       "url": "https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 186116,
-      "name": "FVCK",
-      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1767,6 +1747,26 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186116,
+      "name": "FVCK",
+      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
         "name": "Let's Go (Magalenha)",
         "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
       },
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "ALGO T\u00da (Shimza Remix)",
         "url": "https://open.spotify.com/album/5s5oP0QaGU0s94niBLvPyG"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 214000,
       "name": "ALGO T\u00da - Shimza Remix",
       "url": "https://open.spotify.com/track/5j6ixxtMNVFLxkTzs6scjV"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "No Hesitating",
-        "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
-      },
-      "artists": [
-        {
-          "name": "Joe Rol\u00e9t",
-          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
-        }
-      ],
-      "duration_ms": 163890,
-      "name": "No Hesitating",
-      "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "La Samba",
         "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 150476,
       "name": "La Samba",
       "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "No Hesitating",
+        "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        }
+      ],
+      "duration_ms": 163890,
+      "name": "No Hesitating",
+      "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
+        "name": "Dame M\u00e1s (Gasolina)",
+        "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Dame M\u00e1s (Gasolina)",
+      "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -2059,26 +2079,6 @@
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "Dame M\u00e1s (Gasolina)",
-        "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Dame M\u00e1s (Gasolina)",
-      "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
     },
     {
       "added_at": "2026-05-01 04:01:38",

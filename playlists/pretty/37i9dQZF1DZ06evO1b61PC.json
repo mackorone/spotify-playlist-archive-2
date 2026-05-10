@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11381,
+  "num_followers": 11380,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAJC7PjGXuUNHnbylarWrs9",
+  "snapshot_id": "af0ngAAAAAB82Po8Gacul0cCEWWFezLT",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute Remixes",
-        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Drivin Thru the Night - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 241040,
       "name": "Lost (feat. Chelsea Jade)",
       "url": "https://open.spotify.com/track/74QUrsUibuADACTNB14F1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parachute Remixes",
+        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Drivin Thru the Night - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
     },
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "eye2eye (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
       },
       "artists": [
         {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 253714,
-      "name": "eye2eye - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
+      "duration_ms": 206769,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
     },
     {
       "added_at": null,
@@ -551,22 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
       "artists": [
         {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
         },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
     },
     {
       "added_at": null,
@@ -670,15 +670,11 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         }
       ],
-      "duration_ms": 283764,
-      "name": "Red Eye (feat. rei brown)",
-      "url": "https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS"
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
     },
     {
       "added_at": null,
@@ -742,11 +738,15 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
+      "duration_ms": 283764,
+      "name": "Red Eye (feat. rei brown)",
+      "url": "https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 100625,
-      "name": "3 Tattoos (Rishi\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
+      "duration_ms": 123692,
+      "name": "Flight Log 822",
+      "url": "https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 123692,
-      "name": "Flight Log 822",
-      "url": "https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7"
+      "duration_ms": 100625,
+      "name": "3 Tattoos (Rishi\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
     }
   ],
   "unique_name": "This Is Jai Wolf",

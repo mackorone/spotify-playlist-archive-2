@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5181,
+  "num_followers": 5183,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABLDgHzfTV2a05Q4if1dX1o",
+  "snapshot_id": "af0ngAAAAADhTwhCz9RHtPNx08LLflwL",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1E20YSwoi1SJMshPSQi4e1"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6xj6BppRbm4vTgVN8GaZEw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 192386,
       "name": "Boys Are From Mars (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/1E20YSwoi1SJMshPSQi4e1"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6xj6BppRbm4vTgVN8GaZEw"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 262178,
+      "name": "A Ballad for Homegirls (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sailor Moon (2.0)",
         "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 262178,
-      "name": "A Ballad for Homegirls (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 196154,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
     },
     {
       "added_at": null,

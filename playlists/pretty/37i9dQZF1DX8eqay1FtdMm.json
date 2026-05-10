@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da Il(\uc591\ub2e4\uc77c)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416027,
+  "num_followers": 416004,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,18 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
       },
       "artists": [
         {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
-        },
-        {
-          "name": "SULLYOON",
-          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+          "name": "Cho Jang Hyuck",
+          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
+      "duration_ms": 266292,
+      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -523,18 +519,22 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
       },
       "artists": [
         {
-          "name": "Cho Jang Hyuck",
-          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
         }
       ],
-      "duration_ms": 266292,
-      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
+      "duration_ms": 215000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
+        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
+        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 196953,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Not a Dream",
-        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
-      },
-      "artists": [
-        {
-          "name": "Song Sohee",
-          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Not a Dream",
-      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "Not a Dream",
+        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Not a Dream",
+      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1203,22 +1219,6 @@
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
-        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
-        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 196953,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Trip: Tape #01",
-        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Holding hands or walking together.",
-      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "LIE LIE LIE",
         "url": "https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 214000,
       "name": "LIE LIE LIE",
       "url": "https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "Trip: Tape #01",
+        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Holding hands or walking together.",
+      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
-        "name": "Still Here, Still Us",
-        "url": "https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv"
-      },
-      "artists": [
-        {
-          "name": "SeeYa",
-          "url": "https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Still Here, Still Us",
-      "url": "https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
         "name": "SUZUME",
         "url": "https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2026-04-30 10:16:32",
       "album": {
+        "name": "Still Here, Still Us",
+        "url": "https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv"
+      },
+      "artists": [
+        {
+          "name": "SeeYa",
+          "url": "https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Still Here, Still Us",
+      "url": "https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
-    },
-    {
-      "added_at": "2026-04-30 10:16:32",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
-      },
-      "artists": [
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
     },
     {
       "added_at": "2026-04-30 10:16:32",
@@ -1627,6 +1611,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2026-04-30 10:16:32",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
     },
     {
       "added_at": "2026-04-30 10:16:32",

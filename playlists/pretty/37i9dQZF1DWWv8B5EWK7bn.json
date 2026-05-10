@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 207515,
+  "num_followers": 207523,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 166228,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Sad Makeup",
         "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 230050,
       "name": "Sad Makeup",
       "url": "https://open.spotify.com/track/74eE402hFv13hLBw5iPQds"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 166228,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Slime Patrol 2",
-        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
-      },
-      "artists": [
-        {
-          "name": "Khadija Al Hanafi",
-          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
-        }
-      ],
-      "duration_ms": 214941,
-      "name": "You Know I Got That / Wont Stop Callin",
-      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Hablar de M\u00e1s",
         "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 214917,
       "name": "Hablar de M\u00e1s",
       "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Slime Patrol 2",
+        "url": "https://open.spotify.com/album/1i64oc4rRRTWQUI4iDSn2L"
+      },
+      "artists": [
+        {
+          "name": "Khadija Al Hanafi",
+          "url": "https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5"
+        }
+      ],
+      "duration_ms": 214941,
+      "name": "You Know I Got That / Wont Stop Callin",
+      "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Crispy Skin",
         "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 379400,
       "name": "Crispy Skin",
       "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Hay Veces",
         "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 186445,
       "name": "Hay Veces",
       "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 291771,
-      "name": "Lovegaze",
-      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Where To Put The Pain",
         "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
@@ -1259,26 +1243,6 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "artclubdiscotheque",
-        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 335433,
-      "name": "artclubdiscotheque",
-      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1303,18 +1267,38 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+      "duration_ms": 291771,
+      "name": "Lovegaze",
+      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "artclubdiscotheque",
+        "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 335433,
+      "name": "artclubdiscotheque",
+      "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1331,6 +1315,22 @@
       "duration_ms": 170737,
       "name": "La Roseraie",
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Life Drummer",
         "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "For You, Please",
         "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
       },
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "isomonstrosity",
         "url": "https://open.spotify.com/album/4Zu4oPIIukPnJaVSlOMBzr"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 223947,
       "name": "watch it burn",
       "url": "https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2025-11-18 17:38:22",

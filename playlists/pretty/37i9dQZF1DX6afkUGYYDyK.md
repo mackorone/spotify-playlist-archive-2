@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,573 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,586 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 74 | [Give Thanks](https://open.spotify.com/track/0htJRr9dFJJqCH8d9ETLSJ) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [Give Thanks](https://open.spotify.com/album/5bVCjApVZfaMMYdoeojjaz) | 3:45 |
 | 75 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
 | 76 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 |
-| 77 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
-| 78 | [Thank You](https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV) | 2:24 |
-| 79 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
-| 80 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
+| 77 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
+| 78 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
+| 79 | [Thank You](https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV) | 2:24 |
+| 80 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
 | 81 | [We Give You Thanks](https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 5:35 |
 | 82 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 |
 | 83 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |

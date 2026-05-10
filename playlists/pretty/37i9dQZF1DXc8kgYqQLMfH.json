@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1081153,
+  "num_followers": 1081246,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "mellow out",
-        "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
-      },
-      "artists": [
-        {
-          "name": "costa rossa",
-          "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
-        }
-      ],
-      "duration_ms": 122919,
-      "name": "mellow out",
-      "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "in a haze",
         "url": "https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 116923,
       "name": "in a haze",
       "url": "https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "mellow out",
+        "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
+      },
+      "artists": [
+        {
+          "name": "costa rossa",
+          "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
+        }
+      ],
+      "duration_ms": 122919,
+      "name": "mellow out",
+      "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -379,6 +379,26 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
+        "name": "your touch",
+        "url": "https://open.spotify.com/album/0FizTcx2RkNHAlWjTs2Dbt"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "jeppa.",
+          "url": "https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69"
+        }
+      ],
+      "duration_ms": 148872,
+      "name": "your touch",
+      "url": "https://open.spotify.com/track/4yMVLHxIKJT3s4vwReJCMJ"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
         "name": "Folded Rhythm",
         "url": "https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 131000,
       "name": "Cool Off",
       "url": "https://open.spotify.com/track/6fbviP6rquoNzsbYndjrEQ"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
-        "name": "your touch",
-        "url": "https://open.spotify.com/album/0FizTcx2RkNHAlWjTs2Dbt"
-      },
-      "artists": [
-        {
-          "name": "Kichiro",
-          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
-        },
-        {
-          "name": "jeppa.",
-          "url": "https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69"
-        }
-      ],
-      "duration_ms": 148872,
-      "name": "your touch",
-      "url": "https://open.spotify.com/track/4yMVLHxIKJT3s4vwReJCMJ"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "Banana Muffin",
-        "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
-      },
-      "artists": [
-        {
-          "name": "Cmd q",
-          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Banana Muffin",
-      "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "water lilies",
         "url": "https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 162711,
       "name": "water lilies",
       "url": "https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "Banana Muffin",
+        "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Banana Muffin",
+      "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
+        "name": "Lantern",
+        "url": "https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk"
+      },
+      "artists": [
+        {
+          "name": "L O K P I K",
+          "url": "https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Lantern",
+      "url": "https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 134400,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
-        "name": "Lantern",
-        "url": "https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk"
-      },
-      "artists": [
-        {
-          "name": "L O K P I K",
-          "url": "https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Lantern",
-      "url": "https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ"
-      },
-      "artists": [
-        {
-          "name": "Soulflu",
-          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "cicada",
         "url": "https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 127619,
       "name": "cicada",
       "url": "https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ"
+      },
+      "artists": [
+        {
+          "name": "Soulflu",
+          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "Days Gone By",
-        "url": "https://open.spotify.com/album/2Tf0wMMM9Nnp8gim2otLdY"
-      },
-      "artists": [
-        {
-          "name": "Ptr.",
-          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Days Gone By",
-      "url": "https://open.spotify.com/track/3UAOO82uM3ZExmkFCstUGW"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "Get Through",
         "url": "https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 118153,
       "name": "Get Through",
       "url": "https://open.spotify.com/track/2UZuQRrgCuoY2yYpoUaWGb"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "Days Gone By",
+        "url": "https://open.spotify.com/album/2Tf0wMMM9Nnp8gim2otLdY"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Days Gone By",
+      "url": "https://open.spotify.com/track/3UAOO82uM3ZExmkFCstUGW"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj"
-      },
-      "artists": [
-        {
-          "name": "Kuma",
-          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
-        }
-      ],
-      "duration_ms": 155578,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/3OxCF7LYaXs4gbvIrXNeAQ"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "Theoretical",
         "url": "https://open.spotify.com/album/6MAY4jpcIayBvRUd7dhfIp"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 153600,
       "name": "Theoretical",
       "url": "https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/66EAjNXod8ux4htXfWsXDj"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "duration_ms": 155578,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/3OxCF7LYaXs4gbvIrXNeAQ"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "passion",
-        "url": "https://open.spotify.com/album/5q6jCRB7axn9V3JbHKfdbW"
-      },
-      "artists": [
-        {
-          "name": "Zatsuma",
-          "url": "https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe"
-        }
-      ],
-      "duration_ms": 146821,
-      "name": "passion",
-      "url": "https://open.spotify.com/track/61gU1pAQvkVNk634ziWeAJ"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/45KoVoEqDqMBArWzy78lfO"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 121379,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4uLHZisb2folVt5JJam396"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "passion",
+        "url": "https://open.spotify.com/album/5q6jCRB7axn9V3JbHKfdbW"
+      },
+      "artists": [
+        {
+          "name": "Zatsuma",
+          "url": "https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe"
+        }
+      ],
+      "duration_ms": 146821,
+      "name": "passion",
+      "url": "https://open.spotify.com/track/61gU1pAQvkVNk634ziWeAJ"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
+        "name": "Floating Motion",
+        "url": "https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ"
+      },
+      "artists": [
+        {
+          "name": "Lazarus best for us",
+          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
+        }
+      ],
+      "duration_ms": 150051,
+      "name": "Turning Into Something Else",
+      "url": "https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
         "name": "take me to nowhere",
         "url": "https://open.spotify.com/album/1gNobdqJ8AzDZDYiw0vTfs"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 97587,
       "name": "take me to nowhere",
       "url": "https://open.spotify.com/track/0jF2RMGrau0IA7eCX2iKy3"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
-        "name": "Floating Motion",
-        "url": "https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ"
-      },
-      "artists": [
-        {
-          "name": "Lazarus best for us",
-          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
-        }
-      ],
-      "duration_ms": 150051,
-      "name": "Turning Into Something Else",
-      "url": "https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
-      },
-      "artists": [
-        {
-          "name": "Gloomey",
-          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
-        }
-      ],
-      "duration_ms": 190054,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 132705,
       "name": "Hope",
       "url": "https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4azzrrmrAvjDiRIk3ZZCEj"
+      },
+      "artists": [
+        {
+          "name": "Gloomey",
+          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
+        }
+      ],
+      "duration_ms": 190054,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/7y59bf74fnWo54y3cSLBvx"
     },
     {
       "added_at": "2026-05-07 09:15:01",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-05-07 09:15:01",
       "album": {
-        "name": "Staring Out The Window",
-        "url": "https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR"
-      },
-      "artists": [
-        {
-          "name": "LoWorld",
-          "url": "https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl"
-        }
-      ],
-      "duration_ms": 138082,
-      "name": "Staring Out The Window",
-      "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
-    },
-    {
-      "added_at": "2026-05-07 09:15:01",
-      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 128000,
       "name": "The Snake",
       "url": "https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6"
+    },
+    {
+      "added_at": "2026-05-07 09:15:01",
+      "album": {
+        "name": "Staring Out The Window",
+        "url": "https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR"
+      },
+      "artists": [
+        {
+          "name": "LoWorld",
+          "url": "https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl"
+        }
+      ],
+      "duration_ms": 138082,
+      "name": "Staring Out The Window",
+      "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
     },
     {
       "added_at": "2026-05-07 09:15:01",

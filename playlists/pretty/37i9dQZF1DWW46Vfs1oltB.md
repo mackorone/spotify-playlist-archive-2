@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Kid Milli & OKASHII\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,359 likes - 126 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,439 likes - 126 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 162 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 600 likes - 162 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 147 | [Stand Up And Fight](https://open.spotify.com/track/1C3X9PRRCYDu8P9Ys5ZDsm) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin on Screen III: "Strike Up The Band", "Broadway Rhythm", "Ziegfeld Follies" and "The Shocking Miss Pilgrim"](https://open.spotify.com/album/0rM6Pjficon2DjTIqrajTx) | 1:49 |
 | 148 | [Hooray for the U.S.A.](https://open.spotify.com/track/0NIuZl2eo3FHCMC4qb1Zbh) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Sally Wilfert](https://open.spotify.com/artist/4BAg51jG2nRh14hWH8dH3K), [Bethe Austin](https://open.spotify.com/artist/30TvnkCTJUGDxLcbDQwyvb) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:49 |
 | 149 | [Porgy and Bess: Concert Fantasie \(Arr\. G\. Pagel, S\. Asselhofen and J\. Vaisberg\)](https://open.spotify.com/track/5mvqq3mFZVo8yiYGYXcIos) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Gudrun Pagel](https://open.spotify.com/artist/6cwH3Dh0UoRfFYYYpn7dZh), [Julia Vaisberg](https://open.spotify.com/artist/52KsyMFUtxDTM4GRDiScNP) | [Piano Trios: Bernstein \- Schnyder \- Gershwin \- Kapustin \- Pritsker](https://open.spotify.com/album/2yoOmDD5QWGgYirElo9rQo) | 15:19 |
-| 150 | [The Pophams](https://open.spotify.com/track/7DvL140nbVHu0qiKbJYqyw) | [Murray Matheson](https://open.spotify.com/artist/29UpLxizw1xzz0588qT73J) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:12 |
-| 151 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 150 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 151 | [The Pophams](https://open.spotify.com/track/7DvL140nbVHu0qiKbJYqyw) | [Murray Matheson](https://open.spotify.com/artist/29UpLxizw1xzz0588qT73J) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:12 |
 | 152 | [Our Little Kitchenette](https://open.spotify.com/track/0AQlJlTXS8S812djx0LRJt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:22 |
 | 153 | [A Corner of Heaven with You](https://open.spotify.com/track/224N7d1XLDBbBgOZ6QmyBv) | [Earl Okin](https://open.spotify.com/artist/5NVqliGdTXQoIfOTTzAKxk) | [Songs from a Basement](https://open.spotify.com/album/4quNKedgvcKb3yepHw9OgS) | 3:54 |
 | 154 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 161 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 162 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcQ+ugAAAAA4Q02bxhpjTGfbBTUic7Rw`
+Snapshot ID: `AcREHgAAAABZOb7Fe1LRswmkFM7QvTIy`

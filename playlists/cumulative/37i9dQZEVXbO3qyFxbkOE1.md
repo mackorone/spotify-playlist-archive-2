@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-1,375 songs - 3 day 3 hr 12 min
+1,376 songs - 3 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,7 +998,8 @@
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-23 | 2023-02-13 |
 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 | 2024-02-04 | 2024-04-06 |
 | [PSL](https://open.spotify.com/track/6o4Gciys1ZIOQ2kDGnvKdm) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:55 | 2021-08-15 | 2021-08-21 |
-| [PUES QUE LE HAGO ?](https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [PUES QUE LE HAGO ?](https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT) | 2:21 | 2026-01-15 |  |
+| [PUES QUE LE HAGO ?](https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [PUES QUE LE HAGO ?](https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT) | 2:21 | 2026-01-15 | 2026-05-10 |
+| [PUES QUE LE HAGO ?](https://open.spotify.com/track/1qiWVzOApnT0lLLQofPr1S) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Los Locos Nunca Mueren](https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp) | 2:21 | 2026-05-09 |  |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-10-13 | 2022-11-13 |
 | [PUNTO 40](https://open.spotify.com/track/58cEG7FsVoipRiRKUMgOjo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:10 | 2022-11-12 | 2023-01-16 |
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2023-01-20 | 2023-01-22 |

@@ -4,13 +4,14 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-138 songs - 7 hr 52 min
+139 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ali for Cody](https://open.spotify.com/track/3Kxe8sGeC2fOSccZ2y6yy3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 4:02 | 2026-02-22 | 2026-03-08 |
 | [All the Best Cowboys Have Daddy Issues](https://open.spotify.com/track/11oio61wuQD1WZafQwgexO) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 4:05 | 2023-12-13 |  |
 | [All the Best Cowboys Have Daddy Issues](https://open.spotify.com/track/6N4aWCy7FKUMoTGQAGNP1V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 4:05 | 2023-05-09 | 2023-06-04 |
+| [Bastard Son](https://open.spotify.com/track/0iH6Xnuwci2ZYl1GuQlt1I) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Bastard Son](https://open.spotify.com/album/3vuiZU1CvGECwf3jtuGq7a) | 3:58 | 2026-05-10 |  |
 | [Bastard Son \- Re\-Imagined](https://open.spotify.com/track/2VTe3W1ZefaQdndjT8S7D2) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From the Depths of Dreams](https://open.spotify.com/album/6CjpSH4cfBIAYdA74RM1rQ) | 4:00 | 2023-07-29 | 2023-08-14 |
 | [Between the Mountains and the Sea](https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 4:53 | 2022-10-25 | 2023-12-14 |
 | [Between the Mountains and the Sea](https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 4:53 | 2023-12-13 |  |
@@ -30,7 +31,7 @@
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-25 | 2023-02-01 |
 | [Canine](https://open.spotify.com/track/7bvFWzATD9xN9F1QBvnUcd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:27 | 2025-04-15 | 2025-06-04 |
 | [Cinco De Mayo](https://open.spotify.com/track/2guzqF808fPJeTpVn4jhQH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 2:58 | 2026-05-05 |  |
-| [Closure / Rebirth](https://open.spotify.com/track/3CQbLTwoVMWPgVGNc1iEQu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:24 | 2026-04-24 |  |
+| [Closure / Rebirth](https://open.spotify.com/track/3CQbLTwoVMWPgVGNc1iEQu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:24 | 2026-04-24 | 2026-05-10 |
 | [Coward](https://open.spotify.com/track/1LRGDPUAo5HedSS7VT6UNA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:30 | 2026-03-11 | 2026-03-26 |
 | [Death by Water](https://open.spotify.com/track/2AX46RVDdKW6WL7gHQSFzx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:49 | 2022-10-25 | 2024-04-19 |
 | [Death by Water](https://open.spotify.com/track/6v2q6EnJqTD71x31OFMvXS) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:49 | 2025-04-21 |  |

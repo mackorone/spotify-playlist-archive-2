@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1% \(feat\. Phúc Nguyên\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. Phúc Nguyên\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 | 2026-04-23 |  |
+| [1% \(feat\. PN\)](https://open.spotify.com/track/5bU2BptxMCGcO5xFQxErBy) | [Show It All Vietnam \(Tân Binh Toàn Năng\)](https://open.spotify.com/artist/4SiNg3BrvdFycwTlO6HGKN), [PN](https://open.spotify.com/artist/0EfEWOpWEbf6WP8rsQMSDM) | [1% \(feat\. PN\)](https://open.spotify.com/album/101scFLXstcirHZmPVjgXF) | 4:20 | 2026-04-23 |  |
 | [Buông](https://open.spotify.com/track/2ZBi1KpCR0grEWRNgySqwg) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ) | [Buông](https://open.spotify.com/album/6ub8yuzsgJbYRdTd0ZgmLp) | 3:25 | 2026-04-23 |  |
 | [Bài Ca Em Viết \(feat\. Hustlang Robber\)](https://open.spotify.com/track/1a0pNJeGTKqnVjV2MN0WBT) | [Muộii](https://open.spotify.com/artist/0o3J7OHDa35b6AY7Ivj5j7), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv), [Lespace](https://open.spotify.com/artist/5VqJjr06RZ1ZSteos5sET2) | [Bài Ca Em Viết \(feat\. Hustlang Robber\)](https://open.spotify.com/album/76bEkP3pNdvS2KBPbloqBC) | 3:36 | 2026-04-23 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2026-04-23 |  |

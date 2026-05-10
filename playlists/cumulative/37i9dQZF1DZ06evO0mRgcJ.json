@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 160264,
       "name": "De aqu\u00ed pa all\u00e1",
       "url": "https://open.spotify.com/track/61DvcN30XR5Z7tE0nkbAn3"
@@ -948,6 +948,28 @@
       "duration_ms": 207500,
       "name": "Esta Llorando Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0g6SWqcXWn4jytXqPd4VIu"
+    },
+    {
+      "album": {
+        "name": "Gato Del Infierno",
+        "url": "https://open.spotify.com/album/32lMPL2qsmUvNMZA0rYFdl"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169726,
+      "name": "Gato Del Infierno",
+      "url": "https://open.spotify.com/track/1u5qaB4m4tA5iN6qPFKpGt"
     },
     {
       "album": {

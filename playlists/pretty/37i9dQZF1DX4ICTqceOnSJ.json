@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 408558,
+  "num_followers": 408407,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Club de fans de John Boy",
+      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "El Vuelo del Pez",
         "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 211319,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Club de fans de John Boy",
-      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 239644,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
         "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 337453,
       "name": "All\u00ed donde sol\u00edamos gritar",
       "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 239644,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Estalla",
-        "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 276893,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Detroit",
         "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 189360,
       "name": "Mira c\u00f3mo vuelo",
       "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Estalla",
+        "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 276893,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269691,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 263838,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269691,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pol\u00edtico",
-        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 226742,
-      "name": "M\u00e9xico",
-      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pol\u00edtico",
+        "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 226742,
+      "name": "M\u00e9xico",
+      "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 266925,
-      "name": "Espero",
-      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Rey Pila",
         "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 205346,
       "name": "No Longer Fun",
       "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 266925,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1575,42 +1575,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Canciones Sin Ropa",
-        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
-      },
-      "artists": [
-        {
-          "name": "Pedrina y Rio",
-          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 213487,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Who Me?",
-        "url": "https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 156563,
-      "name": "Todo Termin\u00f3",
-      "url": "https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Franco (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj"
       },
@@ -1631,6 +1595,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Who Me?",
+        "url": "https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 156563,
+      "name": "Todo Termin\u00f3",
+      "url": "https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 213040,
       "name": "Como Vez Primera",
       "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Canciones Sin Ropa",
+        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
+      },
+      "artists": [
+        {
+          "name": "Pedrina y Rio",
+          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 213487,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
     },
     {
       "added_at": "2024-06-14 04:59:00",

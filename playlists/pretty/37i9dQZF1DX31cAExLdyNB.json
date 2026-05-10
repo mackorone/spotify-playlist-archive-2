@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 84200,
+  "num_followers": 84211,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 219799,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
         "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219799,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
-      },
-      "artists": [
-        {
-          "name": "Floreana",
-          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Takotsubo",
-      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Vine Hasta Marte",
         "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 224353,
       "name": "Vine Hasta Marte",
       "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Cuadros",
+        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
+      },
+      "artists": [
+        {
+          "name": "Floreana",
+          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Takotsubo",
+      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 255217,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 255217,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/6iatTNK5ZX7RkhxgRPej9i"
       },
@@ -847,6 +863,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 256109,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -867,22 +899,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 256109,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "nu love",
         "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 209513,
       "name": "nu love",
       "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
     },
     {
       "added_at": "2024-06-28 21:13:36",

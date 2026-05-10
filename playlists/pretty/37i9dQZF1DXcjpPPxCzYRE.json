@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 441211,
+  "num_followers": 441263,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
+        "name": "(pablo)",
+        "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 198351,
+      "name": "(pablo)",
+      "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 214120,
       "name": "Srs Ice",
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
-        "name": "(pablo)",
-        "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 198351,
-      "name": "(pablo)",
-      "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
         "name": "Trist\u00e1n, Ahora Con Reloj",
         "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1023,6 +1023,26 @@
       "duration_ms": 186178,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
+        "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
+      "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1119,22 +1139,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "Boredom (Demo 2015)",
-        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
-      },
-      "artists": [
-        {
-          "name": "N\u00faria Graham",
-          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Boredom",
-      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1147,6 +1151,22 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "Boredom (Demo 2015)",
+        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
+      },
+      "artists": [
+        {
+          "name": "N\u00faria Graham",
+          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Boredom",
+      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1443,22 +1463,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "El final",
-        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
-      },
-      "artists": [
-        {
-          "name": "Verde Prato",
-          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
-        }
-      ],
-      "duration_ms": 198995,
-      "name": "La ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1475,6 +1479,22 @@
       "duration_ms": 200696,
       "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
       "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "El final",
+        "url": "https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD"
+      },
+      "artists": [
+        {
+          "name": "Verde Prato",
+          "url": "https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi"
+        }
+      ],
+      "duration_ms": 198995,
+      "name": "La ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1551,26 +1571,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
-      },
-      "artists": [
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "mai adeu",
         "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "1 Dolor",
-        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
       "artists": [
         {
-          "name": "Suave",
-          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
         },
         {
-          "name": "Junnio",
-          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
         }
       ],
-      "duration_ms": 186737,
-      "name": "1 Dolor",
-      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
+      "duration_ms": 229253,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1639,6 +1639,26 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "1 Dolor",
+        "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "Junnio",
+          "url": "https://open.spotify.com/artist/1sLvo7ClsDMTBrFe8aTzF6"
+        }
+      ],
+      "duration_ms": 186737,
+      "name": "1 Dolor",
+      "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1763,22 +1783,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
-      },
-      "artists": [
-        {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1803,6 +1807,22 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -1863,6 +1883,22 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
+        "name": "Algo F\u00edsico",
+        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Algo F\u00edsico",
+      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -1895,22 +1931,6 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -2043,22 +2063,6 @@
     {
       "added_at": "2026-04-30 22:02:38",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
       },
@@ -2071,6 +2075,22 @@
       "duration_ms": 212958,
       "name": "La herida que prefiero",
       "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
+    },
+    {
+      "added_at": "2026-04-30 22:02:38",
+      "album": {
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
     },
     {
       "added_at": "2026-04-30 22:02:38",
@@ -2119,22 +2139,6 @@
       "duration_ms": 156297,
       "name": "En el Puerto",
       "url": "https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ"
-    },
-    {
-      "added_at": "2026-04-30 22:02:38",
-      "album": {
-        "name": "La jugada maestra",
-        "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
-      },
-      "artists": [
-        {
-          "name": "Amateur",
-          "url": "https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "La jugada maestra",
-      "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
     }
   ],
   "unique_name": "Relax en casa",

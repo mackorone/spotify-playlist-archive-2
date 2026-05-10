@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Marno van der Merwe, Chris Steyn, Tamlyn Wessels, Loufi en meer!
 
-2,580 songs - 5 day 23 hr 28 min
+2,581 songs - 5 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Breek Ek Voor Jou](https://open.spotify.com/track/2oVCHt4OOVsuBpZ6b5xGbf) | [Charlize Hanekom](https://open.spotify.com/artist/3O4RcdAKTJIMDLrxF0YctX) | [Breek Ek Voor Jou](https://open.spotify.com/album/2pyND1t9FLkJ8Bc0mGpHwr) | 3:49 | 2023-02-16 | 2023-03-03 |
 | [Breek My Hart Oop](https://open.spotify.com/track/6r6YVKqUXMcTHxJYTJLJLO) | [Frikkie Van Biljon](https://open.spotify.com/artist/2hKj68eTf7yvPN1eJLEuM6) | [Breek My Hart Oop](https://open.spotify.com/album/09j44gAzmwxlrQkroyZFdK) | 3:00 | 2024-09-26 | 2024-10-04 |
 | [Breindood..!](https://open.spotify.com/track/1gbyJQQvxNH2rymfBoLtbW) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Hunter Kennedy](https://open.spotify.com/artist/4BTNdkDqhYHILE4Xq0nRkK) | [Breindood..!](https://open.spotify.com/album/1nJsnVOQ3lM7gE2cfIl4RW) | 3:16 | 2022-11-17 | 2022-12-09 |
+| [Brief aan my ma](https://open.spotify.com/track/52FTdKYdG7EBRfxwZhoVLO) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Brief aan my ma](https://open.spotify.com/album/0DdEwTqq11JnLHWIlhdpw0) | 3:59 | 2026-05-07 |  |
 | [Briefie vir Kersfees](https://open.spotify.com/track/4Rzf8IskXPEQvsJzrILvuE) | [Johan Anker](https://open.spotify.com/artist/3VawlZLcw70cya2MhFCj5b) | [Briefie vir Kersfees](https://open.spotify.com/album/3ypq23nLe1ZmVBiUiMBJ59) | 3:07 | 2024-11-07 | 2024-11-15 |
 | [Briefie Vir My Ma](https://open.spotify.com/track/5JB5DPTBSE1jIKlhm900i5) | [Daniel Wesley Africa](https://open.spotify.com/artist/4w3PTTbh4IqNnjzAYgpsoX) | [Briefie Vir My Ma](https://open.spotify.com/album/4gSsJYhoE4Mk4peb6u1glj) | 3:04 | 2022-11-24 | 2023-02-10 |
 | [Briewe \(Remix\)](https://open.spotify.com/track/0Uqnf5l81kC5AslHvnIRsk) | [Hartklop](https://open.spotify.com/artist/6CqWHUjfhUj6amb9pP60Ga), [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G) | [Briewe \(Remix\)](https://open.spotify.com/album/11b7ALTxjIsPkKL9XUWYWy) | 3:30 | 2025-04-17 | 2025-04-25 |

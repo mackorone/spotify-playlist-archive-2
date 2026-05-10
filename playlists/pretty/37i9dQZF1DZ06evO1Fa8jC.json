@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cafres. The essential tracks, all in one playlist.",
-  "num_followers": 172444,
+  "num_followers": 172461,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAzKSQ5Z9zSU0e6v+Xav89g",
+  "snapshot_id": "af0ngAAAAADiRfjvuyiKN0cVNWbr/nkx",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0"
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 227599,
-      "name": "La receta",
-      "url": "https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t"
+      "duration_ms": 288386,
+      "name": "Tu Meta",
+      "url": "https://open.spotify.com/track/7sU2dcP1FPM70V9TwGgjQL"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
-        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 288386,
-      "name": "Tu Meta",
-      "url": "https://open.spotify.com/track/7sU2dcP1FPM70V9TwGgjQL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Espejitos",
         "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 224490,
       "name": "Sin Gamul\u00e1n",
       "url": "https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 227599,
+      "name": "La receta",
+      "url": "https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classic Lover Covers",
-        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esclavo",
         "url": "https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barrilete",
-        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+        "name": "Classic Lover Covers",
+        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Verte Bien",
-      "url": "https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG"
+      "duration_ms": 216317,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 258213,
       "name": "Es la M\u00fasica - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Verte Bien",
+      "url": "https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 271183,
+      "name": "Se Va de M\u00ed",
+      "url": "https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barrilete",
         "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 232560,
       "name": "Corazoncito",
       "url": "https://open.spotify.com/track/5kfTTsve31mQ8zGwcoZIVc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
-        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 271183,
-      "name": "Se Va de M\u00ed",
-      "url": "https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 294053,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
         "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acto Salvaje",
-        "url": "https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
@@ -776,9 +760,25 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 248074,
-      "name": "Acto Salvaje",
-      "url": "https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5"
+      "duration_ms": 294053,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frecuencia Cafre",
+        "url": "https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "Sinsemilla",
+      "url": "https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frecuencia Cafre",
-        "url": "https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK"
+        "name": "Acto Salvaje",
+        "url": "https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 285826,
-      "name": "Sinsemilla",
-      "url": "https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf"
+      "duration_ms": 248074,
+      "name": "Acto Salvaje",
+      "url": "https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5"
     },
     {
       "added_at": null,

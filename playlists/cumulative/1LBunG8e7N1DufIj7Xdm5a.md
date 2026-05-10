@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,362 songs - 9 day 16 hr 42 min
+4,365 songs - 9 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,7 +713,7 @@
 | [Conexión Natural](https://open.spotify.com/track/4cEDD7xf3onlhLjWy7Xzrr) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR), [Francisco González](https://open.spotify.com/artist/6Yn9rdgRztxIG6DtHj6uOR) | [Conexión Natural](https://open.spotify.com/album/0O0FoY8EcKQcY7E9MbEQ03) | 4:06 | 2025-11-21 |  |
 | [Confess](https://open.spotify.com/track/3ZK9gGqQTvzre7gpuJYkpP) | [thairhys](https://open.spotify.com/artist/5qG6gO93CQcBIA65sWfHiq) | [Confess](https://open.spotify.com/album/5DRUvUs2Pk494TutgiDM2W) | 3:21 | 2025-10-01 |  |
 | [Confusion](https://open.spotify.com/track/07IpJejfJHgthisE62ZHQc) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh) | [What's love](https://open.spotify.com/album/4ZQSgR9ZPUFWwSmdLnIcOo) | 3:29 | 2025-06-05 |  |
-| [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 | 2026-04-30 |  |
+| [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:40 | 2026-04-30 |  |
 | [Conmigo](https://open.spotify.com/track/27GYP4UlgCfm8yrxuXeSjQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 3:14 | 2025-09-18 |  |
 | [Conmigo \(another\)](https://open.spotify.com/track/0ctLF1fhNq9tQU1SjNmMnW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 3:01 | 2025-09-18 |  |
 | [CONNECTED BY LOVE](https://open.spotify.com/track/5FwgfY9WUlSOMbAYBmjxee) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [CONNECTED BY LOVE](https://open.spotify.com/album/19xXvfgxjMK9M6NDbtC8cY) | 4:15 | 2025-05-28 |  |
@@ -3290,6 +3290,7 @@
 | [Shattered Voices \(another\)](https://open.spotify.com/track/4pYHHyFUavknNEkv9oNvZz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:55 | 2025-09-17 |  |
 | [She \- Radio Mix](https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [She](https://open.spotify.com/album/3K0S7jq6J4YZeOuB9at0J0) | 2:48 | 2026-04-18 |  |
 | [she say OMG](https://open.spotify.com/track/63MamNMm9iLqOkeY1OvYBg) | [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN) | [she say OMG](https://open.spotify.com/album/7pGs7hy3bHVXHFkkE2KaJj) | 1:46 | 2025-05-16 |  |
+| [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-05-09 |  |
 | [She's mine \(An Absinthe metal dream\)](https://open.spotify.com/track/2msLYQewP2aE1b3c9vCfY3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 2:55 | 2025-09-17 |  |
 | [She's My Poison](https://open.spotify.com/track/6hOC8kbaSGJr214qQoykzA) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:21 | 2026-01-31 |  |
 | [Sheep Among Wolves](https://open.spotify.com/track/08TJL0AVxpqr0FJdUSdCgg) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:59 | 2026-04-13 |  |
@@ -4015,6 +4016,7 @@
 | [URBAN BARBER](https://open.spotify.com/track/05gph1k0nTaz8hfZNmJWqn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [URBAN BARBER](https://open.spotify.com/album/3tp1YNuzYnM6i5iVZwBNpQ) | 3:50 | 2025-12-10 |  |
 | [Urban Jungle](https://open.spotify.com/track/3g2Ffhh7G1RjLcqpnwsX1o) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard 'n Pop Rock](https://open.spotify.com/album/2EO8bOHrgxO8jNPR7ASHcA) | 2:44 | 2025-09-17 |  |
 | [Urban Jungle \(another\)](https://open.spotify.com/track/3HBR3ilIfTdswGqzVJzOD2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard 'n Pop Rock](https://open.spotify.com/album/2EO8bOHrgxO8jNPR7ASHcA) | 2:24 | 2025-09-17 |  |
+| [V Prozu Nie Leziet](https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [V Prozu Nie Leziet](https://open.spotify.com/album/1Bb35YX1lZYnNoovFIyLsR) | 1:45 | 2026-05-09 |  |
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2025-04-09 |  |
 | [V1be](https://open.spotify.com/track/5JX5JRwufsmdNQEbFLSn11) | [S4HIB](https://open.spotify.com/artist/1WAijlfiS2rmiMlOOLboWY) | [V1be](https://open.spotify.com/album/0a6p8ndVUTZxmjbpEciSW2) | 5:34 | 2025-03-25 |  |
 | [Vacilando](https://open.spotify.com/track/56pXQI5zKpcgnJ87h5vGZ7) | [Xefab](https://open.spotify.com/artist/3BlzHve8NxzQGIDTYJJwHC) | [Vacilando](https://open.spotify.com/album/1V6NXy4zao3d3Bq3TakNiE) | 2:38 | 2025-12-18 |  |
@@ -4338,6 +4340,7 @@
 | [Космос ждёт!](https://open.spotify.com/track/0JPFXFDmQcoixLEcniPbsx) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:44 | 2026-02-23 |  |
 | [Космос ждёт!](https://open.spotify.com/track/3eI5TOZVCiR9F1UGgBunrq) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос ждёт!](https://open.spotify.com/album/3aEUPND51PH4Kw466Tw49M) | 4:44 | 2026-04-10 |  |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-15 |  |
+| [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 | 2026-05-09 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-05-22 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-11-16 |  |
 | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/track/7kpVQ2VRlYWhDBQjfhNu9r) | [S T O L I C A](https://open.spotify.com/artist/5SAai3KeQhtyfBIKpWAtaf) | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/album/6p7RGXtXeYmq9raQ3SDah9) | 2:27 | 2026-04-08 |  |

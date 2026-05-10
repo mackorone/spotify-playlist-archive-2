@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,549 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,564 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | ['Til I Die \- Remastered 2009](https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:33 |
 | 50 | [Wouldn't It Be Nice \- Stack\-O\-Vocals](https://open.spotify.com/track/6EYOGETanZ5WjMWIw3N3Y3) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Wouldn't It Be Nice](https://open.spotify.com/album/5uAAQ8lvOIqjpIZEGPb7zQ) | 2:37 |
 
-Snapshot ID: `afvWAAAAAABprVoW80Lzy40GZcMjPQGE`
+Snapshot ID: `af0ngAAAAAB/iyYFO7WhAWaad5y/0eWK`

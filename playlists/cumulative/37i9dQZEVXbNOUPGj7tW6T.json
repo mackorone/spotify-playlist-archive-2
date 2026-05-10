@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -6316,7 +6316,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6388,7 +6388,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -12462,6 +12462,36 @@
       "duration_ms": 128388,
       "name": "O Vei Chegou",
       "url": "https://open.spotify.com/track/4YpOeDO1lrhFQt7jfQ3X92"
+    },
+    {
+      "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/5ZJKNqIgvdf18LN1m12UI0"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 de Rico",
+          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Victor Magan",
+          "url": "https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO"
+        },
+        {
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197109,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/2Ps1M0KOSIReGSZq6x3WSQ"
     },
     {
       "album": {

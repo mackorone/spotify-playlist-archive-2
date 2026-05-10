@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 248496,
+  "num_followers": 248488,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,38 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 159886,
+      "name": "Amor Pilantra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -395,38 +427,6 @@
       "duration_ms": 140454,
       "name": "ME ALIMENTA",
       "url": "https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 159886,
-      "name": "Amor Pilantra - Ao Vivo",
-      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 186188,
-      "name": "Desculpa por Eu N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -471,30 +471,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
-        },
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "DISK NAMORADA",
-      "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "MAR\u00c9",
         "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 189015,
       "name": "Depois Da Meia Noite",
       "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        },
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "DISK NAMORADA",
+      "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "8 HORAS DE PRAZER",
-        "url": "https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 161777,
-      "name": "8 HORAS DE PRAZER",
-      "url": "https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "coisas triviais",
         "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 206037,
       "name": "quanto tempo tem o tempo?",
       "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "8 HORAS DE PRAZER",
+        "url": "https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 161777,
+      "name": "8 HORAS DE PRAZER",
+      "url": "https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "18 dias / 13 cm",
         "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 143333,
       "name": "18 dias / 13 cm",
       "url": "https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "nada s\u00e9rio",
+        "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "nada s\u00e9rio",
+      "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 151252,
       "name": "10 Minutos - Remix",
       "url": "https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "nada s\u00e9rio",
-        "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "nada s\u00e9rio",
-      "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1343,6 +1343,38 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "ALTA TENS\u00c3O",
+        "url": "https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 142889,
+      "name": "TE ODEIO",
+      "url": "https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -1367,38 +1399,6 @@
       "duration_ms": 233534,
       "name": "Quebrados",
       "url": "https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "ALTA TENS\u00c3O",
-        "url": "https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 142889,
-      "name": "TE ODEIO",
-      "url": "https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "S\u00e3o Amores",
-      "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     },
     {
       "added_at": "2026-03-27 03:00:31",

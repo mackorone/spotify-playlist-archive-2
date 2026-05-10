@@ -4,12 +4,13 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 47 min
+49 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A.M.P.](https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:22 | 2023-08-19 |  |
 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-23 |  |
+| [Back in My Ways](https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Back in My Ways](https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec) | 4:03 | 2026-05-10 |  |
 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 | 2022-09-19 |  |
 | [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 | 2022-09-16 |  |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-16 |  |
@@ -18,6 +19,7 @@
 | [Dance With Death](https://open.spotify.com/track/7AgM4wOE1gZrWSRvGDLNBf) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:23 | 2023-08-19 | 2023-09-10 |
 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 | 2022-09-16 |  |
 | [Deadly Dull](https://open.spotify.com/track/4qod43EImMolOovemD03is) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:47 | 2024-05-12 |  |
+| [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 | 2026-05-10 |  |
 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 | 2022-09-16 | 2026-02-11 |
 | [Fail You](https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:06 | 2023-08-28 | 2025-11-01 |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-27 | 2023-08-29 |

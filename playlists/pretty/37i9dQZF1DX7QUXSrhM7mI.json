@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 96364,
+  "num_followers": 96374,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
-        "name": "St. Helens Alpenglow",
-        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 246882,
-      "name": "St. Helens Alpenglow",
-      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-03-31 15:23:50",
       "album": {
+        "name": "St. Helens Alpenglow",
+        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 246882,
+      "name": "St. Helens Alpenglow",
+      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
         "name": "Music For People Who Believe In Love",
         "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
       },
@@ -835,6 +835,30 @@
       "duration_ms": 198460,
       "name": "Honey Blonde",
       "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
+    },
+    {
+      "added_at": "2026-03-31 15:23:50",
+      "album": {
+        "name": "The Moment (with KOKORO)",
+        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "KOKORO",
+          "url": "https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "The Moment (with KOKORO)",
+      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
     },
     {
       "added_at": "2026-03-31 15:23:50",
@@ -867,30 +891,6 @@
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
-    },
-    {
-      "added_at": "2026-03-31 15:23:50",
-      "album": {
-        "name": "The Moment (with KOKORO)",
-        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        },
-        {
-          "name": "PSYCHIC FEVER from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
-        },
-        {
-          "name": "KOKORO",
-          "url": "https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "The Moment (with KOKORO)",
-      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
     },
     {
       "added_at": "2026-03-31 15:23:50",

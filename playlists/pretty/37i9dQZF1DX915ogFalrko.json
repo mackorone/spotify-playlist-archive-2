@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187345,
+  "num_followers": 187484,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmNNASdORvtrcZ1saeDzkxMiwl6",
+  "snapshot_id": "AAAAAKrOxfNMmqJ+iwRZDA117oRP9Mgd",
   "tracks": [
     {
       "added_at": "2026-04-30 22:02:55",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "(((((ultraSOUND)))))+",
-        "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Lucky Again",
         "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "(((((ultraSOUND)))))+",
+        "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "La prima estate",
         "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 240435,
       "name": "La prima estate",
       "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "De Cara a la Pared",
-      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
         }
       ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+      "duration_ms": 255360,
+      "name": "De Cara a la Pared",
+      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1199,6 +1183,22 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
+        "name": "Jardin d'hiver",
+        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
         "name": "What's On Your Mind",
         "url": "https://open.spotify.com/album/3Zba9cZ8EP1DBcvjnVNrG6"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 252894,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
-        "name": "Jardin d'hiver",
-        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
-        "name": "Christina",
-        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt"
       },
@@ -1663,6 +1631,38 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/3iUULNrs4MKQVUphv0Pggk"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
       },
       "artists": [
         {
-          "name": "Kadebostany",
-          "url": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
-        },
-        {
-          "name": "Den Ze",
-          "url": "https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY"
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
         }
       ],
-      "duration_ms": 138039,
-      "name": "Something Inside Me",
-      "url": "https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks"
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     }
   ],
   "unique_name": "D\u00eener entre amis",

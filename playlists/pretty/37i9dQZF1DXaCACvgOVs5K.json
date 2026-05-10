@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 873548,
+  "num_followers": 873954,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,30 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 205975,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
         "name": "Crazy For It",
         "url": "https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1"
       },
@@ -187,30 +211,6 @@
       "duration_ms": 250578,
       "name": "Crazy For It",
       "url": "https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 205975,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "TESLA",
-        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "TESLA",
-      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 225247,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "Front 2 Back",
-        "url": "https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct"
-      },
-      "artists": [
-        {
-          "name": "Jordan Peak",
-          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
-        }
-      ],
-      "duration_ms": 179771,
-      "name": "Front 2 Back",
-      "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
         "name": "One Question",
         "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 184019,
       "name": "One Question",
       "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "Front 2 Back",
+        "url": "https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "duration_ms": 179771,
+      "name": "Front 2 Back",
+      "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "Just Like That EP",
-        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
         "name": "Love\u2019s Theme",
         "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 174081,
       "name": "Love\u2019s Theme",
       "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "Just Like That EP",
+        "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 285786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
         "name": "Marvellous",
         "url": "https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "That's a Vibe",
-        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
       },
       "artists": [
         {
-          "name": "Ossie",
-          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
         }
       ],
-      "duration_ms": 272681,
-      "name": "Are U Still Smiling?",
-      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
+      "duration_ms": 285786,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
+        "name": "That's a Vibe",
+        "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
+      },
+      "artists": [
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        }
+      ],
+      "duration_ms": 272681,
+      "name": "Are U Still Smiling?",
+      "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
         "name": "Girl On The Beat",
         "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1079,22 +1095,6 @@
       "duration_ms": 218869,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/60N8926UPMzZTFwxq1jTse"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
-        "name": "nothin lasts 4ever",
-        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "nothin lasts 4ever",
-      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
+        "name": "Watch Out Now",
+        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
         },
         {
-          "name": "Charlie Shell",
-          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         }
       ],
-      "duration_ms": 192272,
-      "name": "People Like Us",
-      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
+      "duration_ms": 163890,
+      "name": "Watch Out Now",
+      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1295,6 +1295,26 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Charlie Shell",
+          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+        }
+      ],
+      "duration_ms": 192272,
+      "name": "People Like Us",
+      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1367,26 +1387,6 @@
       "duration_ms": 184130,
       "name": "Got The Funk",
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
-        "name": "Watch Out Now",
-        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        }
-      ],
-      "duration_ms": 163890,
-      "name": "Watch Out Now",
-      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
+        "name": "Jazzy Glazzy",
+        "url": "https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC"
+      },
+      "artists": [
+        {
+          "name": "Jdr",
+          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Jazzy Glazzy",
+      "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
         "name": "My Wave",
         "url": "https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 150229,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
-        "name": "Jazzy Glazzy",
-        "url": "https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC"
-      },
-      "artists": [
-        {
-          "name": "Jdr",
-          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Jazzy Glazzy",
-      "url": "https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/6AkXJoBJfzVEiLESZs785K"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 210867,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/7kyRganwIohcGBSqiB0AYP"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 180109,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/6AkXJoBJfzVEiLESZs785K"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 210867,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/7kyRganwIohcGBSqiB0AYP"
     },
     {
       "added_at": "2026-04-30 23:01:09",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-04-30 23:01:09",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/69hh2tQ34vrWH6VnbOJ7OP"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "THELMA",
-          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/6NGgmMjUaqD8dAM2lszTPI"
-    },
-    {
-      "added_at": "2026-04-30 23:01:09",
-      "album": {
         "name": "Expressions (feat. Kosmo Kint)",
         "url": "https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 180962,
       "name": "Expressions (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap"
+    },
+    {
+      "added_at": "2026-04-30 23:01:09",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/69hh2tQ34vrWH6VnbOJ7OP"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/6NGgmMjUaqD8dAM2lszTPI"
     },
     {
       "added_at": "2026-04-30 23:01:09",

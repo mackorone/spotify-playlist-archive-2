@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYzTRoCVaxhb>Don Toliver</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIWEZ8ZxSQLXq>Ed Sheeran</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXwkdkoDV3G5>J. Cole</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 330933,
       "name": "202 feat. \u6cc9\u307e\u304f\u3089 - New Mix",
       "url": "https://open.spotify.com/track/75HcneiRhhR7rSz9wNp5I3"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 175346,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "AM2:00drive (feat. \u30e6\u30a8)",
       "url": "https://open.spotify.com/track/2qF1egtNOSgL0Wd6dpEEsC"
@@ -1408,6 +1408,36 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
+        "name": "\u732b\u76e4",
+        "url": "https://open.spotify.com/album/5NNN08eOYgJs1VaWaaQ9BD"
+      },
+      "artists": [
+        {
+          "name": "604",
+          "url": "https://open.spotify.com/artist/3iOSEwPWXoNhAiCetot7A6"
+        },
+        {
+          "name": "MAVEL",
+          "url": "https://open.spotify.com/artist/5qnrcieiD7n2Gc20XBAduq"
+        },
+        {
+          "name": "HANG",
+          "url": "https://open.spotify.com/artist/4dMOkrczQ57UCm8ef4w2AG"
+        },
+        {
+          "name": "TOCCHI",
+          "url": "https://open.spotify.com/artist/482miinoHCI8iYjETbUr79"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254970,
+      "name": "August (feat. MAVEL, Hang & TOCCHI)",
+      "url": "https://open.spotify.com/track/36TXHVdLNwShOYy4lKA5xc"
     },
     {
       "album": {
@@ -2140,7 +2170,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2259,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "SWING A SOUL",
+        "url": "https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150672,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2S8geKIkrLbO4y6xTxvAVB"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
       },
@@ -2346,6 +2394,24 @@
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
+    },
+    {
+      "album": {
+        "name": "The Beam",
+        "url": "https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh"
+      },
+      "artists": [
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242981,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0Wx7r7Zk6GrXy0sw2Ugq2W"
     },
     {
       "album": {
@@ -4162,7 +4228,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 222854,
       "name": "Dejavu (feat. Yo-Sea)",
       "url": "https://open.spotify.com/track/58fzK4yx68kZvuDJr53cf3"
@@ -4862,7 +4928,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -5838,7 +5904,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 203972,
       "name": "Flower",
       "url": "https://open.spotify.com/track/1L4Q0CO4Fdda77RC8FQVOS"
@@ -7712,7 +7778,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 184728,
       "name": "Hug (feat. kojikoji)",
       "url": "https://open.spotify.com/track/4cHB6U8fasfxq7XD8uNxuK"
@@ -10577,6 +10643,28 @@
     },
     {
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/6KNOWSz6PUmlPnz8ezAcLU"
+      },
+      "artists": [
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Made my day",
+      "url": "https://open.spotify.com/track/4krgsevgl3SugkV8Xk8nrP"
+    },
+    {
+      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -11908,7 +11996,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -12854,7 +12942,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -13438,7 +13526,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 224728,
       "name": "Recipe",
       "url": "https://open.spotify.com/track/3e0ffIWxVuyZj0HNy25sUn"
@@ -15886,7 +15974,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 212786,
       "name": "STRAND",
       "url": "https://open.spotify.com/track/61Vx7YHbVM6gUOcqdPJLY5"
@@ -16456,7 +16544,7 @@
       ],
       "date_added": "2025-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Sweet Boy",
       "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
@@ -19606,7 +19694,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 215323,
       "name": "Wonder Wall feat. 5lack",
       "url": "https://open.spotify.com/track/02d5vi1oeKdFz66cN98DBb"
@@ -19642,7 +19730,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 224786,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
@@ -20134,7 +20222,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 217037,
       "name": "\u3059\u304d\u306b\u3084\u308b",
       "url": "https://open.spotify.com/track/1zLe4IUbEVDYa1UudvdT9G"
@@ -20188,7 +20276,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 229553,
       "name": "\u30a6\u30a7\u30eb\u30c6\u30eb",
       "url": "https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi"
@@ -20242,7 +20330,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 269666,
       "name": "\u30ca\u30a4\u30c8\u30aa\u30f3\u30b6\u30d7\u30e9\u30cd\u30c3\u30c8",
       "url": "https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ"
@@ -20278,7 +20366,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 291880,
       "name": "\u30e1\u30eb\u30d8\u30f3\u3092\u6368\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo"
@@ -20314,7 +20402,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 201347,
       "name": "\u30ed\u30df\u30b8\u30e5\u30ea",
       "url": "https://open.spotify.com/track/2lxWuvatUl8gkmYvOt094B"
@@ -20368,7 +20456,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "\u4f1a\u3044\u305f\u3044\u308f",
       "url": "https://open.spotify.com/track/7nLAfMQtlDHII3wczJH9C2"
@@ -20408,7 +20496,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 294026,
       "name": "\u591c\u3092\u4f7f\u3044\u306f\u305f\u3057\u3066 feat. PUNPEE",
       "url": "https://open.spotify.com/track/5UxtXZBNTO1EDBVZH4I9Mf"
@@ -20498,7 +20586,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 263240,
       "name": "\u5e73\u71b1",
       "url": "https://open.spotify.com/track/5Df3SejzZrNvrIS3wnPWfD"
@@ -20538,7 +20626,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 266333,
       "name": "\u611b\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/3Z3ldilmAxJccTZv0GeUfq"
@@ -20596,6 +20684,28 @@
       "duration_ms": 166062,
       "name": "\u6700\u7d42\u5217\u8eca",
       "url": "https://open.spotify.com/track/722798wG2NwsGCf6DwoyJy"
+    },
+    {
+      "album": {
+        "name": "\u5207\u611b",
+        "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
+      },
+      "artists": [
+        {
+          "name": "BASI",
+          "url": "https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq"
+        },
+        {
+          "name": "\u7a7a\u97f3",
+          "url": "https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "\u6708\u3072\u3068\u3064",
+      "url": "https://open.spotify.com/track/0bKhnh3MTxrixDjAXCvpAI"
     },
     {
       "album": {
@@ -20672,6 +20782,24 @@
       "duration_ms": 243221,
       "name": "\u878d\u89e3sink",
       "url": "https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct"
+    },
+    {
+      "album": {
+        "name": "\u9053 -TAO- (Remasterd Edition)",
+        "url": "https://open.spotify.com/album/2eXAiEO8iNVGYWpw12w5t8"
+      },
+      "artists": [
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "\u9053 -TAO-",
+      "url": "https://open.spotify.com/track/2CkHKTRET1kCEaX3ZMCvab"
     },
     {
       "album": {

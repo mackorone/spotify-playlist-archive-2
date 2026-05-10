@@ -4,7 +4,7 @@
 
 > Special songs for mothers of all kinds.
 
-103 songs - 6 hr 25 min
+105 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Lullaby](https://open.spotify.com/track/5GWyNA4n9hx5rhkK0KvQ83) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 5:50 | 2022-05-03 | 2024-04-19 |
 | [Lullaby](https://open.spotify.com/track/1ZLgPA7AN0KJpn5XDKMHL5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 5:51 | 2022-05-03 | 2022-11-14 |
 | [Lullaby](https://open.spotify.com/track/6AWWwc1oTP2MzuedEYip4R) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/23lhO6xpHkEe2kOJULRcKI) | 5:51 | 2021-05-06 |  |
-| [Lullaby For Wyatt](https://open.spotify.com/track/0wZsSaaEpLEycIQ03h7rTE) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/6apXTwMlDLoTWhlkaR2rDw) | 4:07 | 2021-05-06 |  |
+| [Lullaby For Wyatt](https://open.spotify.com/track/0wZsSaaEpLEycIQ03h7rTE) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/6apXTwMlDLoTWhlkaR2rDw) | 4:07 | 2021-05-06 | 2026-05-10 |
 | [Lullaby For Wyatt](https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/245704RhuUXj2ty55RKoJh) | 4:07 | 2022-05-03 | 2024-04-19 |
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2022-05-03 | 2024-04-19 |
 | [Make You Feel My Love](https://open.spotify.com/track/6P7tTFzn6oNa0GL8w8oazE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/1ydnyXPdmHrWXqXDgtQCPf) | 3:32 | 2021-05-06 |  |
@@ -74,11 +74,12 @@
 | [Mother](https://open.spotify.com/track/51WLu8FjR1tiyIU1jUoWvm) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Mother](https://open.spotify.com/album/55FiEs3CNdmkmkzmkyHmYO) | 3:09 | 2021-05-06 |  |
 | [Mother Like Mine](https://open.spotify.com/track/3ELMe66YZ80vxG6RZvNFoC) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp) | 3:51 | 2023-05-02 | 2023-10-17 |
 | [Mother Like Mine](https://open.spotify.com/track/5CUuirqpnC9lOtudlcfh5Q) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:51 | 2023-05-02 |  |
-| [Mother Rose](https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Trampin'](https://open.spotify.com/album/3od0OdWDIIO8fF9Plb8Qiu) | 4:56 | 2021-05-06 |  |
+| [Mother Rose](https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Trampin'](https://open.spotify.com/album/3od0OdWDIIO8fF9Plb8Qiu) | 4:56 | 2021-05-06 | 2026-05-10 |
 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 | 2021-05-06 |  |
 | [Never Grow Up](https://open.spotify.com/track/74WBGgUnpKrJXt6TETfR6Z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 4:50 | 2021-05-06 |  |
 | [Oh! My Mama](https://open.spotify.com/track/1cqVLq0ZAuJ8xVTqygJZJ4) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 3:14 | 2021-05-06 |  |
 | [Oh, Mother Of Mine \- Single Version/Mono](https://open.spotify.com/track/15c7V7Oev2rjLUFJCnM8Fs) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:20 | 2023-05-02 |  |
+| [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2026-05-09 |  |
 | [PROTECTOR](https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Rumi Carter](https://open.spotify.com/artist/3wagsd3wjqjNVlMLPudipm) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:04 | 2024-03-29 |  |
 | [Scratching the Surface \(Mama's Song\)](https://open.spotify.com/track/5L0HpGJ4sZ1z8s5dHhumTf) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Scratching the Surface \(Mama's Song\)](https://open.spotify.com/album/3596716RtNbQ5ya9Qjihzl) | 3:17 | 2024-05-12 |  |
 | [Secret](https://open.spotify.com/track/34uHZgYc8LNN3iDv5JskUb) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Secret](https://open.spotify.com/album/2uK2i63leQLKuDpfvHcszh) | 3:21 | 2021-05-06 |  |
@@ -99,11 +100,12 @@
 | [The Sweetest Gift](https://open.spotify.com/track/24aHk8P9MuUYkL8DwsHJHH) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/2sLtjaUo7maVVpBAE4IyDk) | 2:18 | 2021-05-06 |  |
 | [The Sweetest Gift](https://open.spotify.com/track/2t17Hx0oopVsunzztM8IqT) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 2:18 | 2022-05-03 | 2024-04-19 |
 | [The Wish \- Studio Outtake \- 1987](https://open.spotify.com/track/4pEueOLwLhEoc96uSzmoOa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 5:13 | 2021-05-06 | 2022-05-02 |
-| [This Angel](https://open.spotify.com/track/5Q9MQEOoKXaIOVqmSW8CYn) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 3:31 | 2021-05-06 |  |
+| [This Angel](https://open.spotify.com/track/5Q9MQEOoKXaIOVqmSW8CYn) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 3:31 | 2021-05-06 | 2026-05-10 |
+| [This Is My Thank You \(Mommy’s Song\)](https://open.spotify.com/track/72xMx4bnIan9e1h4rI7wso) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Revive](https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP) | 4:27 | 2026-05-09 |  |
 | [To Zion](https://open.spotify.com/track/3FFuQ5eoLNQU3IgbZP6F13) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 6:09 | 2021-05-06 |  |
 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 | 2022-05-03 | 2024-04-19 |
 | [Turn To You \- \(Mother's Day Dedication\)](https://open.spotify.com/track/4xDbvfk975nr05ctWgS8Nq) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Turn To You \(Mother's Day Dedication\)](https://open.spotify.com/album/21z9FNiaJZpICt53krDAby) | 3:39 | 2022-05-03 |  |
-| [Two of Us \- Acoustic](https://open.spotify.com/track/79YGfoagW5Z75PDvnZK5vl) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Two of Us \(Acoustic\)](https://open.spotify.com/album/0penyAnXxURpEsSIvrlLcz) | 3:46 | 2024-05-12 |  |
+| [Two of Us \- Acoustic](https://open.spotify.com/track/79YGfoagW5Z75PDvnZK5vl) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Two of Us \(Acoustic\)](https://open.spotify.com/album/0penyAnXxURpEsSIvrlLcz) | 3:46 | 2024-05-12 | 2026-05-10 |
 | [Where You Lead I Will Follow](https://open.spotify.com/track/5htNlXFlMI6RMBHhJuGJJm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Love Makes the World](https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo) | 3:27 | 2021-05-06 |  |
 | [Wish for You](https://open.spotify.com/track/7wDV6VoKGEWLRmIAU4e8gC) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:28 | 2021-05-06 |  |
 | [You & The 6](https://open.spotify.com/track/2YaDRtIlQiZ5WDDB2YuEOC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:24 | 2021-05-06 |  |

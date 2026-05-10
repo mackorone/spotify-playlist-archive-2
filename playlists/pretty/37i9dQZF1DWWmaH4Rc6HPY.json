@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Ana Sofi W. en portada.",
-  "num_followers": 38493,
+  "num_followers": 38498,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
-        "name": "Se Me Va",
-        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Se Me Va",
-      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
         "name": "Los Paraca\u00eddas",
         "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 189429,
       "name": "Los Paraca\u00eddas",
       "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
+        "name": "Se Me Va",
+        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Se Me Va",
+      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -507,22 +507,18 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
-        "name": "qu\u00e9 ves en m\u00ed? / interesante",
-        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+        "name": "Coraz\u00f3n hinchado",
+        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        },
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 204257,
-      "name": "qu\u00e9 ves en m\u00ed?",
-      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
+      "duration_ms": 179040,
+      "name": "Coraz\u00f3n hinchado",
+      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -543,18 +539,22 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
-        "name": "Coraz\u00f3n hinchado",
-        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
         }
       ],
-      "duration_ms": 179040,
-      "name": "Coraz\u00f3n hinchado",
-      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
         "name": "Miel de Azar",
         "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
       },
@@ -603,6 +619,22 @@
       "duration_ms": 192197,
       "name": "Como Queremos",
       "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -627,38 +659,6 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
-        "name": "Hagamos Que",
-        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Hagamos Que",
-      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -715,6 +699,22 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
+        "name": "Hagamos Que",
+        "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Hagamos Que",
+      "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
         "name": "CUERPOS, Vol. 1",
         "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -759,22 +775,6 @@
       "duration_ms": 180960,
       "name": "MARIPOSA TECKNICOLOR",
       "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2026-05-08 06:00:07",
@@ -1095,6 +1095,42 @@
     {
       "added_at": "2026-05-08 06:00:07",
       "album": {
+        "name": "Contradicci\u00f3n",
+        "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Contradicci\u00f3n",
+      "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+    },
+    {
+      "added_at": "2026-05-08 06:00:07",
+      "album": {
         "name": "qu\u00e9 raro es ser normal",
         "url": "https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk"
       },
@@ -1123,42 +1159,6 @@
       "duration_ms": 202271,
       "name": "Gigantes",
       "url": "https://open.spotify.com/track/6DJ0XdK9lE9a4EkSaPf7mj"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
-    },
-    {
-      "added_at": "2026-05-08 06:00:07",
-      "album": {
-        "name": "Contradicci\u00f3n",
-        "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Rigoberta Bandini",
-          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Contradicci\u00f3n",
-      "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
     },
     {
       "added_at": "2026-05-08 06:00:07",

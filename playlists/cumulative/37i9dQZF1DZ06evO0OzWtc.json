@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225770,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
+    },
+    {
+      "album": {
         "name": "Bachata B\u00e9lica",
         "url": "https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02"
       },

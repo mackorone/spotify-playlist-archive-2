@@ -1,29 +1,13 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 455934,
+  "num_followers": 456004,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABQP4eHghX/WhbdLZXlqINd",
+  "snapshot_id": "af0ngAAAAAA3DtUYg92c1kyOP6d1Y3kW",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/5JszBwCeRc1Psl5RU5oG7j"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/6XQdhnSZJqvhE6LxHEswCU"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence",
-        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/5JszBwCeRc1Psl5RU5oG7j"
       },
       "artists": [
         {
@@ -84,9 +68,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 269160,
-      "name": "My Heart Is Broken",
-      "url": "https://open.spotify.com/track/1Ej0xptDBpBxUM1dIPcHlm"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/6XQdhnSZJqvhE6LxHEswCU"
     },
     {
       "added_at": null,
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anywhere But Home (Live)",
-        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
       },
       "artists": [
         {
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 256053,
-      "name": "Missing",
-      "url": "https://open.spotify.com/track/1kvuT0SqjPAUUqQJW4bxjo"
+      "duration_ms": 269160,
+      "name": "My Heart Is Broken",
+      "url": "https://open.spotify.com/track/1Ej0xptDBpBxUM1dIPcHlm"
     },
     {
       "added_at": null,
@@ -139,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence",
-        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 221360,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk"
+      "duration_ms": 256053,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/1kvuT0SqjPAUUqQJW4bxjo"
     },
     {
       "added_at": null,
@@ -171,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU"
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
       },
       "artists": [
         {
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/0TVPq3QIYUYaD2LytckdPD"
+      "duration_ms": 221360,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk"
     },
     {
       "added_at": null,
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence",
-        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+        "name": "Evanescence (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 222346,
-      "name": "The Change",
-      "url": "https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA"
+      "duration_ms": 186946,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0TVPq3QIYUYaD2LytckdPD"
     },
     {
       "added_at": null,
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Whispers",
-        "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 239037,
-      "name": "Farther Away",
-      "url": "https://open.spotify.com/track/63Yk0ZcjJSv37O8Vy7PFZi"
+      "duration_ms": 222346,
+      "name": "The Change",
+      "url": "https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA"
     },
     {
       "added_at": null,
@@ -267,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence",
-        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+        "name": "Lost Whispers",
+        "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
       },
       "artists": [
         {
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Made Of Stone",
-      "url": "https://open.spotify.com/track/28FTCznKZRfYwJVA9OmPif"
+      "duration_ms": 239037,
+      "name": "Farther Away",
+      "url": "https://open.spotify.com/track/63Yk0ZcjJSv37O8Vy7PFZi"
     },
     {
       "added_at": null,
@@ -299,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU"
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
       },
       "artists": [
         {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 226400,
-      "name": "A New Way To Bleed",
-      "url": "https://open.spotify.com/track/3UkDyGtriDY7NzOJbF0rIH"
+      "duration_ms": 213573,
+      "name": "Made Of Stone",
+      "url": "https://open.spotify.com/track/28FTCznKZRfYwJVA9OmPif"
     },
     {
       "added_at": null,
@@ -331,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evanescence",
-        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+        "name": "Evanescence (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU"
       },
       "artists": [
         {
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 282293,
-      "name": "Lost In Paradise",
-      "url": "https://open.spotify.com/track/7c8unZeNL9gI6Go9DgGYpb"
+      "duration_ms": 226400,
+      "name": "A New Way To Bleed",
+      "url": "https://open.spotify.com/track/3UkDyGtriDY7NzOJbF0rIH"
     },
     {
       "added_at": null,
@@ -359,6 +343,38 @@
       "duration_ms": 185440,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Lost In Paradise",
+      "url": "https://open.spotify.com/track/7c8unZeNL9gI6Go9DgGYpb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Weight Of The World",
+      "url": "https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp"
     },
     {
       "added_at": null,
@@ -383,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Open Door",
-        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
       "artists": [
         {
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Weight Of The World",
-      "url": "https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp"
+      "duration_ms": 264281,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
       "duration_ms": 229146,
       "name": "The End Of The Dream",
       "url": "https://open.spotify.com/track/39UzUACTcDknfjc7umPcuM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 264281,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anywhere But Home (Live)",
-        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 277106,
-      "name": "Thoughtless - Live From Le Z\u00e9nith,France/2004",
-      "url": "https://open.spotify.com/track/3FJQNtWFNNUlF2pi3razfk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 245470,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/11yL2znOQCOSNqiS7Sw6K1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "Thoughtless - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/3FJQNtWFNNUlF2pi3razfk"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synthesis",
-        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 263035,
-      "name": "Imperfection",
-      "url": "https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 230459,
       "name": "Broken Pieces Shine",
       "url": "https://open.spotify.com/track/6LmgYdsFplTB7GEuqYqTVF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synthesis",
+        "url": "https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 263035,
+      "name": "Imperfection",
+      "url": "https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 238971,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/74TiAd5cXM1vW5H7rCFBBI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hi-Lo (feat. Lindsey Stirling)",
         "url": "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 256347,
       "name": "Hi-Lo - feat. Lindsey Stirling",
       "url": "https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 238971,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/74TiAd5cXM1vW5H7rCFBBI"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Across The Universe",
-        "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 222274,
-      "name": "Across The Universe",
-      "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 262062,
       "name": "The Game Is Over",
       "url": "https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 222274,
+      "name": "Across The Universe",
+      "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
     },
     {
       "added_at": null,

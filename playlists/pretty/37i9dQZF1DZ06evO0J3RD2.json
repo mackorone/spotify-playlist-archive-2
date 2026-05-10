@@ -1,13 +1,29 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 9826,
+  "num_followers": 9837,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAC+sfZFiFJ2o5YDOwU9hi+c",
+  "snapshot_id": "af0ngAAAAAAydOtuL/AFlOsf407hK4GM",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
+    },
     {
       "added_at": null,
       "album": {
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protection (Demo)",
-        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
+        "name": "Back in My Ways",
+        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 209967,
-      "name": "Protection - Demo",
-      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
+      "duration_ms": 243286,
+      "name": "Back in My Ways",
+      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
     },
     {
       "added_at": null,
@@ -487,6 +503,22 @@
       "duration_ms": 281022,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Protection (Demo)",
+        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 209967,
+      "name": "Protection - Demo",
+      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
     },
     {
       "added_at": null,

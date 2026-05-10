@@ -1,33 +1,13 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45377,
+  "num_followers": 45385,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABS9aHCQ8E8hvefb6+KRtZc",
+  "snapshot_id": "af0ngAAAAABUe2sldST5M+iRgmMqd1RO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Bandera (Remix)",
-        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 160664,
-      "name": "La Bandera (Remix)",
-      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
-    },
     {
       "added_at": null,
       "album": {
@@ -287,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Bandera (Remix)",
+        "url": "https://open.spotify.com/album/5oGcK4Yz4zpnFkAUKXbjfE"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 160664,
+      "name": "La Bandera (Remix)",
+      "url": "https://open.spotify.com/track/17eoa5LPrYT2Y7tAi4Y8yL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pica",
         "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Can Be Somebody (feat. Erin McCarley)",
         "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 277500,
       "name": "I Can Be Somebody (feat. Erin McCarley)",
       "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "ME GUSTA",
-      "url": "https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Yee - Extended Mix",
-      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTAS & RAVE",
         "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 156000,
       "name": "SAKUDELO",
       "url": "https://open.spotify.com/track/2iGrZCkaOdmRgB4AtuGXU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Yee - Extended Mix",
+      "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"
     },
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 259708,
+      "name": "EL TOMATE",
+      "url": "https://open.spotify.com/track/7v9AJ3O6wedDJ4zSnlTQSB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep It Goin'",
         "url": "https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 175000,
       "name": "Keep It Goin'",
       "url": "https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 223741,
-      "name": "ZAPATEADO ELECTR\u00d3NICO",
-      "url": "https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 223741,
+      "name": "ZAPATEADO ELECTR\u00d3NICO",
+      "url": "https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 185076,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOTAS & RAVE",
-        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 259708,
-      "name": "EL TOMATE",
-      "url": "https://open.spotify.com/track/7v9AJ3O6wedDJ4zSnlTQSB"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belicosa",
-        "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Belicosa",
-      "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTAS & RAVE",
         "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 196800,
       "name": "SONI23BALL",
       "url": "https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belicosa",
+        "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Belicosa",
+      "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Evening",
         "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 229099,
       "name": "Turn Back Time (feat. Teemu)",
       "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABzImkE+GqhpYxsSdJrrAxM",
+  "snapshot_id": "af0ngAAAAADXJt+YDFBj7tf8CrVq2OEs",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 147453,
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+      "duration_ms": 169326,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 169326,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
     },
     {
       "added_at": null,
@@ -423,6 +423,38 @@
       "duration_ms": 264871,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Hail Mary (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Sunday Morning Comin' Down",
+      "url": "https://open.spotify.com/track/7MF59N5Uhql4yd68wzCraQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 230757,
+      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
     },
     {
       "added_at": null,
@@ -459,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Hail Mary (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak"
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
       "artists": [
         {
@@ -468,25 +500,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 272253,
-      "name": "Sunday Morning Comin' Down",
-      "url": "https://open.spotify.com/track/7MF59N5Uhql4yd68wzCraQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 230757,
-      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
-      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
+      "duration_ms": 238733,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/7DNGKD2lJcngjtffYpIY9C"
     },
     {
       "added_at": null,
@@ -611,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 192301,
+      "name": "The Pilgrim, Chapter 33",
+      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country State Of Mind",
         "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
       },
@@ -631,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 192301,
-      "name": "The Pilgrim, Chapter 33",
-      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Austin Sessions",
         "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 157733,
       "name": "Please Don't Tell Me How the Story Ends",
       "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/7tKThAWCTqEaksY09wViaq"
     },
     {
       "added_at": null,
@@ -1271,6 +1271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extras",
         "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 198193,
       "name": "Eye of the Storm (with Willie Nelson)",
       "url": "https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
     },
     {
       "added_at": null,

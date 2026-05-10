@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 157236,
+  "num_followers": 157269,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,26 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Abatido",
-        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
+        "name": "Alabar\u00e9",
+        "url": "https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
         },
         {
-          "name": "Makaco el Cerebro",
-          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 289043,
-      "name": "Abatido",
-      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
+      "duration_ms": 178413,
+      "name": "Alabar\u00e9",
+      "url": "https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -203,26 +207,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Alabar\u00e9",
-        "url": "https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2"
+        "name": "Abatido",
+        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
       },
       "artists": [
         {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Makaco el Cerebro",
+          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
         }
       ],
-      "duration_ms": 178413,
-      "name": "Alabar\u00e9",
-      "url": "https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t"
+      "duration_ms": 289043,
+      "name": "Abatido",
+      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "GRACIAS",
-        "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        }
-      ],
-      "duration_ms": 166310,
-      "name": "GRACIAS",
-      "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Cartelera",
         "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 195121,
       "name": "Cartelera",
       "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "GRACIAS",
+        "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "duration_ms": 166310,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Celebrar",
+        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 167176,
+      "name": "Celebrar",
+      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 206959,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Celebrar",
-        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 167176,
-      "name": "Celebrar",
-      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1339,6 +1339,38 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+      },
+      "artists": [
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Lo Mejor De La Vida (Cumbia Remix)",
+        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Lo Mejor De La Vida - Cumbia Remix",
+      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Jesucristo Me Toco (En Vivo)",
         "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
@@ -1355,50 +1387,6 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Pero Tengo a Cristo (Remix)",
-        "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        },
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        },
-        {
-          "name": "Arasay",
-          "url": "https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4"
-        }
-      ],
-      "duration_ms": 221350,
-      "name": "Pero Tengo a Cristo - Remix",
-      "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Lamento En Baile",
-        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
-      },
-      "artists": [
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
-        }
-      ],
-      "duration_ms": 222715,
-      "name": "Lamento En Baile",
-      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1467,18 +1455,30 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Lo Mejor De La Vida (Cumbia Remix)",
-        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
+        "name": "Pero Tengo a Cristo (Remix)",
+        "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
       "artists": [
         {
           "name": "R Nova",
           "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Arasay",
+          "url": "https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Lo Mejor De La Vida - Cumbia Remix",
-      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
+      "duration_ms": 221350,
+      "name": "Pero Tengo a Cristo - Remix",
+      "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Probar de Ti",
         "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 153366,
       "name": "Probar de Ti",
       "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Siempre y Nunca",
+        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Siempre y Nunca",
+      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Al Que Tenga O\u00eddos",
         "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 135737,
       "name": "TE ENCONTRE",
       "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Siempre y Nunca",
-        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
-      },
-      "artists": [
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Siempre y Nunca",
-      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Estar\u00e9",
         "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2026-04-25 04:59:02",

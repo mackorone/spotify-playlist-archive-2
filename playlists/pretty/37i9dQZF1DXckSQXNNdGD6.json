@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Martin.",
-  "num_followers": 21715,
+  "num_followers": 21769,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,22 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Cuatricrom\u00eda",
-        "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
+        "name": "V\u00e1monos de aqu\u00ed",
+        "url": "https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt"
       },
       "artists": [
         {
-          "name": "Fangoria",
-          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Indiara Sfair",
+          "url": "https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh"
         }
       ],
-      "duration_ms": 243773,
-      "name": "Dramas y comedias",
-      "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
+      "duration_ms": 152163,
+      "name": "V\u00e1monos de aqu\u00ed",
+      "url": "https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -95,22 +99,18 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "V\u00e1monos de aqu\u00ed",
-        "url": "https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt"
+        "name": "Cuatricrom\u00eda",
+        "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Indiara Sfair",
-          "url": "https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh"
+          "name": "Fangoria",
+          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
         }
       ],
-      "duration_ms": 152163,
-      "name": "V\u00e1monos de aqu\u00ed",
-      "url": "https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB"
+      "duration_ms": 243773,
+      "name": "Dramas y comedias",
+      "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "se sube la falda",
-        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 154136,
-      "name": "se sube la falda",
-      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
         "name": "Manual de Belleza",
         "url": "https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Pichersita",
-        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
+        "name": "se sube la falda",
+        "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 138932,
-      "name": "Pichersita",
-      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
+      "duration_ms": 154136,
+      "name": "se sube la falda",
+      "url": "https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -587,6 +571,22 @@
       "duration_ms": 131150,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
+        "name": "Pichersita",
+        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 138932,
+      "name": "Pichersita",
+      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Miss Fatty Fairy",
-        "url": "https://open.spotify.com/album/4vFTF4UAwgv94ZNH4SKs4G"
+        "name": "TKM CNT XFA",
+        "url": "https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q"
       },
       "artists": [
         {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+          "name": "Ladilla Rusa",
+          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
         }
       ],
-      "duration_ms": 125102,
-      "name": "Caballona",
-      "url": "https://open.spotify.com/track/1KNNQjYtiI34jErXIvE34e"
+      "duration_ms": 212411,
+      "name": "TKM CNT XFA",
+      "url": "https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

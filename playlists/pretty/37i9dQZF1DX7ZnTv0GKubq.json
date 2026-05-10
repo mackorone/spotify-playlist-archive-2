@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373749,
+  "num_followers": 373733,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/0IcpxPeI2monP9K7BlSZZo"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 252644,
+      "name": "Past",
+      "url": "https://open.spotify.com/track/6voBcL5vl43e8m4okTA24e"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 138750,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/0IcpxPeI2monP9K7BlSZZo"
-      },
-      "artists": [
-        {
-          "name": "Thandii",
-          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
-        }
-      ],
-      "duration_ms": 252644,
-      "name": "Past",
-      "url": "https://open.spotify.com/track/6voBcL5vl43e8m4okTA24e"
     },
     {
       "added_at": "2026-04-09 11:21:32",

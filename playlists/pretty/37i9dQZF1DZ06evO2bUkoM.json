@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49128,
+  "num_followers": 49127,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAADe1XvZwbMtcpZU1BhKcfFh",
+  "snapshot_id": "af0ngAAAAAD9UaJPv9MXzUYl7lU7cQaG",
   "tracks": [
     {
       "added_at": null,
@@ -183,38 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/55kn1i0n1mUWiEB6LZrTYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Sleepover",
-      "url": "https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sadness",
         "url": "https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F"
       },
@@ -235,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
       "artists": [
         {
@@ -244,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 205028,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
+      "duration_ms": 233893,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu"
     },
     {
       "added_at": null,
@@ -260,15 +228,15 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Gravel to Tempo",
-      "url": "https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj"
+      "duration_ms": 216453,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/55kn1i0n1mUWiEB6LZrTYe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
       },
       "artists": [
         {
@@ -276,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
+      "duration_ms": 205028,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
     },
     {
       "added_at": null,
@@ -303,6 +271,38 @@
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Gravel to Tempo",
+      "url": "https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj"
     },
     {
       "added_at": null,
@@ -379,18 +379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
       },
       "artists": [
         {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
+      "duration_ms": 167649,
+      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
     },
     {
       "added_at": null,
@@ -427,26 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
-        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "AhhHaa",
-          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
         }
       ],
-      "duration_ms": 167649,
-      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
-      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
+      "duration_ms": 240840,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taste So Good (The Cann Song)",
         "url": "https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG"
       },
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+        "name": "somewhere between the sand and the stardust",
+        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
       },
       "artists": [
         {
@@ -520,25 +536,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+      "duration_ms": 210918,
+      "name": "somewhere between the sand and the stardust",
+      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "somewhere between the sand and the stardust",
-        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 210918,
-      "name": "somewhere between the sand and the stardust",
-      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
       "duration_ms": 159288,
       "name": "L.O.V.E. Me",
       "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
     },
     {
       "added_at": null,
@@ -632,9 +616,25 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 189872,
-      "name": "Better Than Love",
-      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
+      "duration_ms": 207617,
+      "name": "Rich Youth",
+      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
       "duration_ms": 191175,
       "name": "She",
       "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phantoms",
-        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
-      },
-      "artists": [
-        {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Need You Closer",
-      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
     },
     {
       "added_at": null,
@@ -700,9 +680,29 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 207617,
-      "name": "Rich Youth",
-      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
+      "duration_ms": 189872,
+      "name": "Better Than Love",
+      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phantoms",
+        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Need You Closer",
+      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
     },
     {
       "added_at": null,

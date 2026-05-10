@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20154,
+  "num_followers": 20156,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAB/8YvYtaPjts3WyY4dnhpb",
+  "snapshot_id": "af0ngAAAAAAsUt4QifmtbK55/32sKzkS",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOT WHEELS (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3"
       },
@@ -571,22 +571,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fate of the Furious: The Album",
-        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
+        "name": "IPHONE",
+        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
       },
       "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 202093,
-      "name": "Mamacita (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
+      "duration_ms": 158663,
+      "name": "IPHONE",
+      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 107800,
+      "name": "WHO WANT IT",
+      "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
     },
     {
       "added_at": null,
@@ -607,22 +619,6 @@
       "duration_ms": 155657,
       "name": "High Heels (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 107800,
-      "name": "WHO WANT IT",
-      "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
     },
     {
       "added_at": null,
@@ -655,38 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "+/-",
-        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
+        "name": "The Fate of the Furious: The Album",
+        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
       },
       "artists": [
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 228005,
-      "name": "Girl Crush (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IPHONE",
-        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "IPHONE",
-      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
+      "duration_ms": 202093,
+      "name": "Mamacita (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 102386,
       "name": "GRAVE",
       "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "+/-",
+        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 228005,
+      "name": "Girl Crush (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -795,6 +779,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "EAT ME!",
+      "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
         "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
       },
@@ -815,38 +847,6 @@
       "duration_ms": 186472,
       "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
       "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "EAT ME!",
-      "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
     },
     {
       "added_at": null,
@@ -959,26 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk"
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
       "artists": [
         {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
         }
       ],
-      "duration_ms": 178236,
-      "name": "FMU",
-      "url": "https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw"
+      "duration_ms": 140346,
+      "name": "Hatin",
+      "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
     }
   ],
   "unique_name": "This Is Rico Nasty",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 988077,
+  "num_followers": 988130,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAADjAPs4n3UMa93H19bwEGO7",
+  "snapshot_id": "af0ngAAAAACJKT+U1YdWf7bECNIPhLLr",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 243034,
-      "name": "BDE Bonus",
-      "url": "https://open.spotify.com/track/1wmsQ6EdiEAhVYd6upLoZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.I.D.S. (Deluxe)",
         "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 197929,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/6AjXmTomWUWZ6Za0X6ypjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 243034,
+      "name": "BDE Bonus",
+      "url": "https://open.spotify.com/track/1wmsQ6EdiEAhVYd6upLoZs"
     },
     {
       "added_at": null,

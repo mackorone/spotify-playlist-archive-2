@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-898 songs - 2 day 18 hr 0 min
+899 songs - 2 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Don't Wake Up](https://open.spotify.com/track/3bryZnVV2tqOjAeDkHXkrw) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Don't Wake Up](https://open.spotify.com/album/16LZpZkWFeteUaLZTveBDL) | 3:35 | 2024-05-31 | 2024-07-29 |
 | [DONA](https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [NEWORLD II](https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK) | 2:49 | 2026-01-29 |  |
 | [Don´t Run](https://open.spotify.com/track/6aw9QspJg7ZOzS6UnmsMOq) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Don´t Run](https://open.spotify.com/album/2uIHVxbt45lVO8u3y2qeCK) | 3:53 | 2024-03-15 | 2024-04-04 |
-| [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 | 2024-01-05 |  |
+| [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 | 2024-01-05 | 2026-05-10 |
 | [Downfall](https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Downfall](https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi) | 3:14 | 2024-07-25 | 2024-11-22 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 | 2024-01-05 |
 | [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 | 2024-01-18 | 2024-04-19 |
@@ -473,6 +473,7 @@
 | [Love Again](https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Love Again](https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o) | 4:32 | 2024-08-08 | 2025-05-24 |
 | [Love Is A Drug \- Agents Of Time Remix](https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Love Is A Drug \(Agents Of Time Remix\)](https://open.spotify.com/album/0SRxj3K6ZgCVd3qgEn6PU0) | 3:02 | 2024-02-29 |  |
 | [Love is Gonna Save Us](https://open.spotify.com/track/3FalZDi95sW3TW5JvOFsPc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Love is Gonna Save Us](https://open.spotify.com/album/2pQnpla2pzezunSSprrdCQ) | 3:26 | 2025-03-20 | 2026-03-14 |
+| [Love Within](https://open.spotify.com/track/0O5J5xw0Geb9csWY6rg3uj) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Love Within](https://open.spotify.com/album/2ZVcdV2EuArlBdAvTHTmvf) | 3:44 | 2026-05-08 |  |
 | [Lucid Ashes](https://open.spotify.com/track/1PBUaZCTHVdRgDG9QbVAjH) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Lucid Ashes / Eclipse Bloom](https://open.spotify.com/album/6IWOnEggYdeOClDltpMpRy) | 3:36 | 2025-10-30 | 2025-12-05 |
 | [Lucid Love](https://open.spotify.com/track/4lxezjHzTpF81nMNixy1OS) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Lucid Love](https://open.spotify.com/album/4fyUu9Mo0l6bRztTTe0ouz) | 3:08 | 2022-12-28 | 2023-01-06 |
 | [Ludo \- Radio Edit](https://open.spotify.com/track/7JILgK41pMTIvaFAeTH9Ht) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Ludo](https://open.spotify.com/album/3ove9LdrIbTwhPlz2mi7UN) | 4:20 | 2024-05-23 | 2024-08-24 |

@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
@@ -8806,6 +8806,32 @@
       "duration_ms": 173731,
       "name": "SO TRU",
       "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
+    },
+    {
+      "album": {
+        "name": "So True",
+        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        },
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163064,
+      "name": "So True",
+      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
     },
     {
       "album": {

@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Aanu Ni",
+        "url": "https://open.spotify.com/album/0dUAFNu59nFSyomlZ1kIUc"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222977,
+      "name": "Aanu Ni",
+      "url": "https://open.spotify.com/track/2sZeKJc0rF6lESznnUqZwM"
+    },
+    {
+      "album": {
         "name": "ABBA",
         "url": "https://open.spotify.com/album/5UN239m3QbxrT1c42ekUpt"
       },
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 446730,
       "name": "Enough for Me",
       "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
@@ -10580,7 +10598,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 200869,
       "name": "Off Days",
       "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
@@ -15192,6 +15210,28 @@
       "duration_ms": 405070,
       "name": "Worship Medley 16",
       "url": "https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr"
+    },
+    {
+      "album": {
+        "name": "Worship My King",
+        "url": "https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Grace Lubega",
+          "url": "https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300193,
+      "name": "Worship My King",
+      "url": "https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R"
     },
     {
       "album": {

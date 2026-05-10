@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/0M1oXyAjSf50NtJmp3GQHP"
+      },
+      "artists": [
+        {
+          "name": "Carter Ryan",
+          "url": "https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6ALA4ufYLfN5hC4lxBX4FV"
+    },
+    {
+      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7"
       },

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Charli xcx, Madison Beer, Chris Brown, Kesha and more!
 
-13,589 songs - 31 day 14 hr 38 min
+13,590 songs - 31 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5941,6 +5941,7 @@
 | [Keeping You Around](https://open.spotify.com/track/3hiGxQh6Y6tT7ziFTW7pKQ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Keeping You Around](https://open.spotify.com/album/2TfpDzHgJVR1MgSOQyLjNa) | 3:35 | 2023-06-22 | 2023-06-30 |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-08-01 | 2024-08-09 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2025-08-08 |
+| [Kellogg Means](https://open.spotify.com/track/4cAt0QVSWzZguBTxRtGDHH) | [Dungeoneering](https://open.spotify.com/artist/1cO8gmAHjMQi8OqeNVSZDK) | [Where 2? EP](https://open.spotify.com/album/3wABfYCaNrbWACVgpcCP5O) | 4:46 | 2026-05-09 |  |
 | [Kempa!](https://open.spotify.com/track/0IIy5gJN0MMKeGIsrkZzMj) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Kempa!](https://open.spotify.com/album/6CzAhjgxrwwriFXcpxWTS3) | 2:52 | 2025-03-07 | 2025-03-14 |
 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 | 2023-05-04 | 2023-05-12 |
 | [keroppi](https://open.spotify.com/track/0mwa3xkGBZO5i4L88J8NyK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [keroppi](https://open.spotify.com/album/4ubLD4XT4WxYVfQZJlxvl5) | 1:43 | 2025-04-24 | 2025-05-02 |

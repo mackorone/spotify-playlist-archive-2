@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,883 likes - 87 songs - 4 hr 37 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,884 likes - 87 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
-| 2 | [EL CIELO](https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 2:35 |
-| 3 | [Undeniable \(feat\. Aitch\)](https://open.spotify.com/track/0V8u1Al9dqSA7f7m3yambp) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Undeniable \(feat\. Aitch\)](https://open.spotify.com/album/12CHRueGMTjPpZ5smrigUr) | 2:16 |
-| 4 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
-| 5 | [Look For Your Mind](https://open.spotify.com/track/10C5azvqdjk72hnJOHq1jj) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Look For Your Mind!](https://open.spotify.com/album/2wKJGzZd7wQFRi8oK3Gatg) | 2:18 |
-| 6 | [Home to Us](https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Home to Us](https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP) | 3:11 |
-| 7 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
-| 8 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
-| 9 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
+| 2 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
+| 3 | [EL CIELO](https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 2:35 |
+| 4 | [Undeniable \(feat\. Aitch\)](https://open.spotify.com/track/0V8u1Al9dqSA7f7m3yambp) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Undeniable \(feat\. Aitch\)](https://open.spotify.com/album/12CHRueGMTjPpZ5smrigUr) | 2:16 |
+| 5 | [Nueva Era](https://open.spotify.com/track/5Es0RTYY29zVwtg0rrM91S) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Belleza De Las Flores](https://open.spotify.com/album/04htfPm5MFb76fAOaYmhYE) | 3:17 |
+| 6 | [Look For Your Mind](https://open.spotify.com/track/10C5azvqdjk72hnJOHq1jj) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Look For Your Mind!](https://open.spotify.com/album/2wKJGzZd7wQFRi8oK3Gatg) | 2:18 |
+| 7 | [Home to Us](https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Home to Us](https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP) | 3:11 |
+| 8 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
+| 9 | [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 |
 | 10 | [el aWard es para:](https://open.spotify.com/track/0v03PeYZS5z0WSWKZ3VCNw) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [el aWard es para:](https://open.spotify.com/album/3ClXLMgOA5sfAqNAftJK4R) | 2:46 |
 | 11 | [Bienvenidos](https://open.spotify.com/track/64mnfFrl128rgmgbacy0xy) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [Bienvenidos](https://open.spotify.com/album/4H3vU8MPNOWA08Vl0EcfmZ) | 2:41 |
 | 12 | [Gener](https://open.spotify.com/track/5RzidrFcGcVyMifVucOa3H) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [L'encant](https://open.spotify.com/album/0UjsibJy1gp0npf66bpzUF) | 2:45 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 86 | [New Love](https://open.spotify.com/track/6hsHSPspOQ6XqoVkcllD2X) | [ultrasaturated](https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC) | [New Love](https://open.spotify.com/album/7IV6vTYEjC1ScBNJa06Xo2) | 2:49 |
 | 87 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
 
-Snapshot ID: `AADdKGRk0Im4TL5LLd1uWmlXPGJHeGSN`
+Snapshot ID: `AADdKYdndCtT/tRWPCdOjdEMQYVo7o5z`

@@ -13054,7 +13054,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -13850,7 +13850,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 162461,
       "name": "Chico",
       "url": "https://open.spotify.com/track/5XLjPtzgRKPesZ0scsGXpS"
@@ -24711,6 +24711,28 @@
     },
     {
       "album": {
+        "name": "Entre Tu y Yo",
+        "url": "https://open.spotify.com/album/5WqP0aPvrfMTdZmubpW8Md"
+      },
+      "artists": [
+        {
+          "name": "yoilya",
+          "url": "https://open.spotify.com/artist/0JO6iSEawFTeWSPEkjMA5X"
+        },
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/3pEQy6iXarFjmMmSmMZm0O"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209260,
+      "name": "Entre Tu y Yo",
+      "url": "https://open.spotify.com/track/6Axwzs2r4Y2eQNyk5kzYkg"
+    },
+    {
+      "album": {
         "name": "Entre t\u00fa y yo",
         "url": "https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok"
       },
@@ -35002,7 +35024,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -40754,7 +40776,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 232880,
       "name": "Loca",
       "url": "https://open.spotify.com/track/3RKPtdP18lVPwvZodSwJuO"
@@ -63882,7 +63904,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"

@@ -4,13 +4,13 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-180 songs - 9 hr 2 min
+181 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000 Hours](https://open.spotify.com/track/3swVZl6ayrUkNaujFC9XeS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 2:48 | 2025-03-08 | 2026-02-18 |
-| [24K Magic](https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:56 | 2024-10-12 |  |
-| [A BOP Song \(A Shaboozey Cover\)](https://open.spotify.com/track/0gKbNULuiYkDLKjRg4O4kN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [A BOP Song \(A Shaboozey Cover\)](https://open.spotify.com/album/1JNI9N9aovGfbhmKalyR46) | 2:50 | 2026-02-11 | 2026-03-08 |
+| [24K Magic](https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:56 | 2024-10-12 | 2026-05-10 |
+| [A BOP Song \(A Shaboozey Cover\)](https://open.spotify.com/track/0gKbNULuiYkDLKjRg4O4kN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [A BOP Song \(A Shaboozey Cover\)](https://open.spotify.com/album/1JNI9N9aovGfbhmKalyR46) | 2:50 | 2026-02-11 |  |
 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 | 2023-02-16 | 2026-02-15 |
 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 | 2023-02-16 | 2026-01-28 |
 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 | 2025-07-20 |  |
@@ -140,6 +140,7 @@
 | [Shut Up And Dance](https://open.spotify.com/track/7KqjPr2vj8CwQ1cV2swc57) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 29](https://open.spotify.com/album/3QNWZIE9VH4D1CkK14uXkX) | 3:18 | 2025-11-26 |  |
 | [Si No Estás](https://open.spotify.com/track/1wAzzLKnVwLdkFLnKt3QyX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Si No Estás](https://open.spotify.com/album/0RVcDCKlV7Pij2jtfbbFqM) | 3:04 | 2024-02-24 | 2024-03-24 |
 | [Spooky, Scary Skeletons \- 2022](https://open.spotify.com/track/464gSBKzlX3eMN4Kr4U7jF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 2:29 | 2025-10-20 | 2026-01-15 |
+| [Stateside](https://open.spotify.com/track/1ufT1mPGuqMR3p8IhUDDZk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 53](https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI) | 3:08 | 2026-05-10 |  |
 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 | 2023-02-16 | 2024-11-03 |
 | [Stick Season](https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Stick Season](https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl) | 3:00 | 2024-03-30 | 2024-07-16 |
 | [Strangers](https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Strangers](https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK) | 2:52 | 2024-03-16 | 2024-09-06 |
@@ -161,7 +162,7 @@
 | [Thriller \- 2022](https://open.spotify.com/track/5WKSxaM7lert3Bp6vI6VZ3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 3:57 | 2025-10-25 | 2025-12-11 |
 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 | 2025-03-23 |  |
 | [Thunder](https://open.spotify.com/track/7KrJI4fnTBGYIWzkEuCi1V) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:35 | 2024-10-26 | 2025-01-27 |
-| [Timber](https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:10 | 2024-11-18 |  |
+| [Timber](https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:10 | 2024-11-18 | 2026-05-10 |
 | [Together This Christmas](https://open.spotify.com/track/4OIkrSOfVnU9bbqbeUrLVR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Together This Christmas](https://open.spotify.com/album/0nNoA3KJ2VfzJHgkWDcIxz) | 2:46 | 2023-11-10 | 2023-12-14 |
 | [TOO MUCH](https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TOO MUCH](https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku) | 2:10 | 2024-03-09 | 2024-07-29 |
 | [Training Season](https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Training Season](https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf) | 3:11 | 2024-05-26 | 2024-09-20 |

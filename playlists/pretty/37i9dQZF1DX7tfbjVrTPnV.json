@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Amy Grant",
-  "num_followers": 236865,
+  "num_followers": 236886,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Out Among The Stars",
-        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Out Among the Stars",
-      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Hickory Wind",
         "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 245202,
       "name": "Red Dirt Girl",
       "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Out Among The Stars",
+        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Out Among the Stars",
+      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Whole Lotta Highway (With A Million Miles to Go)",
-      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "The Birds Of St. Marks",
         "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 262746,
       "name": "The Birds Of St. Marks",
       "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Whole Lotta Highway (With A Million Miles to Go)",
+      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "Robby Hecht",
+        "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Carter Girl",
         "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Robby Hecht",
-        "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
-      },
-      "artists": [
-        {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Can't Be There Today",
         "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
       },
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Little Black Train",
-      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Little Black Train",
+      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -1927,38 +1927,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
-        "name": "Copperhead Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
       },
@@ -1975,6 +1943,22 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
     },
     {
       "added_at": "2026-05-08 04:02:51",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-05-08 04:02:51",
       "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
-    },
-    {
-      "added_at": "2026-05-08 04:02:51",
-      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/3sFyLeLs38eyzBtBnJoHN7"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 329653,
       "name": "California (Cast Iron Soul)",
       "url": "https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt"
+    },
+    {
+      "added_at": "2026-05-08 04:02:51",
+      "album": {
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2026-05-08 04:02:51",

@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Let Me / Aliens",
+        "url": "https://open.spotify.com/album/1sk64GnLCzbXZC8Ha89lOl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/03r8oKqOy8OG1lTbXbNNWy"
+    },
+    {
+      "album": {
         "name": "ALL DAY, ALL NIGHT",
         "url": "https://open.spotify.com/album/2XomhVa8MDRh8zbFdEjmuB"
       },
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 180684,
       "name": "Count 'Em Up",
       "url": "https://open.spotify.com/track/5i592yc2kZsVAgkN8KAyIr"
@@ -4011,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "DIRTY",
+        "url": "https://open.spotify.com/album/4gHeIpLOuhFOB4MNdNkJmx"
+      },
+      "artists": [
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/3rzVyPM20UBUJzVOkxe22r"
+    },
+    {
+      "album": {
         "name": "Witness EP",
         "url": "https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1"
       },
@@ -4178,6 +4214,28 @@
       "duration_ms": 176952,
       "name": "DODGY SPACECRAFT",
       "url": "https://open.spotify.com/track/6M0prbXEmkbwmO4uxvW8k6"
+    },
+    {
+      "album": {
+        "name": "DON'T LOOK DOWN",
+        "url": "https://open.spotify.com/album/02146G0WyPzuUdk5hABxt1"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157384,
+      "name": "DON'T LOOK DOWN",
+      "url": "https://open.spotify.com/track/6zkI5zNfoilLBC9qvvETI6"
     },
     {
       "album": {
@@ -4446,7 +4504,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 134556,
       "name": "Duality",
       "url": "https://open.spotify.com/track/6QUPKGOrkaQGAzgB0NdUq5"
@@ -15742,7 +15800,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 215183,
       "name": "The Elephant",
       "url": "https://open.spotify.com/track/3xGPQcTd1HRvQOcEZIWgKP"

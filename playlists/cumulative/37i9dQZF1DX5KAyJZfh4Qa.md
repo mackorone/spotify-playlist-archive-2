@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Koyo
 
-310 songs - 17 hr 9 min
+311 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Can We Just Get High?](https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [My Life In Subtitles](https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc) | 2:52 | 2024-04-19 | 2024-12-19 |
 | [Can We Just Get High?](https://open.spotify.com/track/3H7W6oVFTRBqrsiQvSVYCy) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [Can We Just Get High?](https://open.spotify.com/album/3WuvVJiKeP4XMNouE25KWL) | 2:52 | 2023-11-17 | 2024-01-23 |
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-10-11 | 2024-12-19 |
-| [Catch Me](https://open.spotify.com/track/75v6RuVeBdu2YE35VyWBqY) | [Stars Hollow](https://open.spotify.com/artist/5gDuvgApWbVzFLVBeLCbMJ) | [Catch Me](https://open.spotify.com/album/3xbjjOR9kNChFYs6XjdEiw) | 3:32 | 2026-03-13 |  |
+| [Catch Me](https://open.spotify.com/track/75v6RuVeBdu2YE35VyWBqY) | [Stars Hollow](https://open.spotify.com/artist/5gDuvgApWbVzFLVBeLCbMJ) | [Catch Me](https://open.spotify.com/album/3xbjjOR9kNChFYs6XjdEiw) | 3:32 | 2026-03-13 | 2026-05-10 |
 | [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 | 2023-09-22 |  |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 | 2023-04-15 |
 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 | 2023-11-17 | 2024-01-23 |
@@ -77,6 +77,7 @@
 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 | 2023-05-01 | 2024-07-13 |
 | [Curly Q](https://open.spotify.com/track/5etEJrn4QNlm0Z7xIbmnDi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 4:17 | 2022-11-25 | 2024-05-15 |
 | [Cursed](https://open.spotify.com/track/6WgljEZW5s2jng6BOKt2Gy) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [LIGHTS OUT](https://open.spotify.com/album/108JIjVJmD16pdSybjkAbh) | 2:54 | 2024-07-26 | 2024-09-11 |
+| [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI) | [Tired Radio](https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk) | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm) | 3:27 | 2026-03-13 |  |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2022-12-02 | 2024-03-07 |
 | [Dark Blue](https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Songs for the Willow](https://open.spotify.com/album/2rVmbhmUafv2fDfEpwJQgL) | 2:49 | 2024-01-22 | 2024-03-09 |
 | [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 | 2023-08-08 | 2024-04-19 |

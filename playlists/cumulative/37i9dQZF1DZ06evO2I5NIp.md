@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-149 songs - 10 hr 16 min
+150 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Devil's Hand](https://open.spotify.com/track/1GgXOtHDgL4eh6nmEq3yyP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:43 | 2022-08-05 | 2023-03-21 |
 | [Don't Whisper](https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:46 | 2022-08-05 | 2026-04-20 |
 | [Don't Whisper](https://open.spotify.com/track/7hIVwwihuWy6w92lIEdpxK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:46 | 2026-04-20 |  |
+| [Done Come Too Far](https://open.spotify.com/track/2HP1DiQ2nfEiK7rK9cvMtf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 5:08 | 2026-05-10 |  |
 | [Done Come Too Far](https://open.spotify.com/track/5iPJnokv52n7m0s7ghUIlf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 5:08 | 2022-08-20 | 2026-04-13 |
 | [Down On Bended Knee](https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:36 | 2024-09-08 | 2026-04-25 |
 | [Drivin' Out Of Nashville](https://open.spotify.com/track/4ULDew3F2uS29AWmUsNQUH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:17 | 2022-08-29 | 2022-09-09 |
@@ -94,7 +95,7 @@
 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 | 2022-08-05 | 2026-04-22 |
 | [My Kind Of Guy](https://open.spotify.com/track/6IRKmu2XE5Elm6FoZhauyg) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:50 | 2022-08-06 | 2022-10-11 |
 | [No Heart At All](https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:17 | 2022-08-19 | 2025-11-07 |
-| [Nobody But You](https://open.spotify.com/track/1Hx3Rr9ySm9IUVofvbNVKr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:19 | 2026-04-20 |  |
+| [Nobody But You](https://open.spotify.com/track/1Hx3Rr9ySm9IUVofvbNVKr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:19 | 2026-04-20 | 2026-05-10 |
 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 | 2022-08-25 | 2026-04-20 |
 | [One I Love](https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 2:54 | 2023-04-06 | 2024-11-15 |
 | [Only Miss You All the Time](https://open.spotify.com/track/3RxKaM5fNDdCTAonhzy7X5) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:09 | 2024-09-04 | 2025-12-14 |

@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1516,
+  "num_followers": 1558,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALs6Y2mqVy8BsWTRQbrmg0NZl6AI",
+  "snapshot_id": "AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1",
   "tracks": [
     {
       "added_at": "2026-05-01 04:04:33",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Give 'Er Hell",
-        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 201468,
-      "name": "Give 'Er Hell",
-      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "I'll Let You Finish",
         "url": "https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 234055,
       "name": "I'll Let You Finish",
       "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "lemonlime",
+        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "lemonlime",
+      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "lemonlime",
-        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
       },
       "artists": [
         {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
         }
       ],
-      "duration_ms": 205000,
-      "name": "lemonlime",
-      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -383,22 +399,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Pink Living Room",
-        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 236739,
-      "name": "Pink Living Room",
-      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 253306,
       "name": "The Call",
       "url": "https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Therapy & Yoga",
-        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Almost Over",
-      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -459,6 +443,22 @@
       "duration_ms": 158117,
       "name": "tangerine!",
       "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Therapy & Yoga",
+        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Almost Over",
+      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "Second Hand",
+        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 204311,
+      "name": "Second Hand",
+      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Misstape 2",
         "url": "https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 148857,
       "name": "Faux Real",
       "url": "https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Second Hand",
-        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 204311,
-      "name": "Second Hand",
-      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
     },
     {
       "added_at": "2026-05-01 04:04:33",

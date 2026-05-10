@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 35054,
+  "num_followers": 35053,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAB6sgoWfC9XryJRdXul2erb",
+  "snapshot_id": "af0ngAAAAAD07mpadOZQ0WN/s/JTTRS9",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juniper (Deluxe)",
-        "url": "https://open.spotify.com/album/3gyiTXUQVrz2zqMjZSR6st"
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 378943,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/1EyTkSC9oW5Bl8dZp8dSks"
+      "duration_ms": 183151,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+        "name": "Juniper (Deluxe)",
+        "url": "https://open.spotify.com/album/3gyiTXUQVrz2zqMjZSR6st"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 183151,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE"
+      "duration_ms": 378943,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/1EyTkSC9oW5Bl8dZp8dSks"
     },
     {
       "added_at": null,

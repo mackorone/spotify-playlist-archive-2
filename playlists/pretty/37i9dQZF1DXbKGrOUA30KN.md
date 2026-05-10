@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: jolle
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,035 likes - 90 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,005 likes - 90 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 7 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
 | 8 | [Nickelodeon](https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Nickelodeon](https://open.spotify.com/album/0rJv3K7TOeDjod7aNTxgLm) | 2:27 |
 | 9 | [Versteck dich nicht](https://open.spotify.com/track/53KbiuHXrIqnCObAbWuwHx) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j) | [Versteck dich nicht](https://open.spotify.com/album/2egBHVZQdzsLoy9yNU5WQL) | 2:15 |
-| 10 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K EP](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
+| 10 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
 | 11 | [Nur dir gehör'n](https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur dir gehör'n](https://open.spotify.com/album/3mKCq6mubDbrfy1adzdGqc) | 2:45 |
 | 12 | [Na und ?!](https://open.spotify.com/track/6pNeV9j1tHgMtUXbJ7N6RA) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Na und ?!](https://open.spotify.com/album/4wSoeHuzlwZczor5a2r2SL) | 2:52 |
 | 13 | [Sexy & Sad](https://open.spotify.com/track/3YTislS8mQHCWWx3cc82R8) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Sexy & Sad](https://open.spotify.com/album/2gh3b8dT2ADhfr1sBrdSRO) | 2:17 |

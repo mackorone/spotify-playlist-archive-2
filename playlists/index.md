@@ -1,4 +1,4 @@
-## Playlists \(9193\)
+## Playlists \(9194\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3778,7 +3778,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Manuel Turizo vuelve al Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Juan Magán y Omar Montes en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)
@@ -5787,6 +5787,7 @@
 - [Spotify Singles: Pride](/playlists/pretty/37i9dQZF1DXcaEXdyjLdxm.md)
 - [Spotify Singles: Stripped](/playlists/pretty/37i9dQZF1DXdFhiq9L31be.md)
 - [Spotify Stage in SUMMER SONIC 2026](/playlists/pretty/37i9dQZF1DWW1l6u9Tapgr.md)
+- [Spotify Studios Music Videos](/playlists/pretty/37i9dQZF1DWTc3yvwrFuNS.md)
 - [Spotlight: Ali Sethi](/playlists/pretty/37i9dQZF1DX3O4vKCZh3eW.md)
 - [Spotlight: Brown Girl Mag](/playlists/pretty/37i9dQZF1DX6DMDp286rY0.md)
 - [Spotlight: Irfan Junejo](/playlists/pretty/37i9dQZF1DX00f0qPaetn4.md)

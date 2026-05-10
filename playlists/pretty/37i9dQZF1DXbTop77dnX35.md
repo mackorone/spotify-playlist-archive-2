@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Olamide, Adekunle Gold, Uncle Waffles, Jeriq, Falana and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,433 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,566 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 13 | [Peace Of Mind](https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Peace Of Mind](https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit) | 2:59 |
 | 14 | [Ashes](https://open.spotify.com/track/26GUuKYLIn6sLEQ157UaHD) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Ashes](https://open.spotify.com/album/2WfH8NV1dO7gBh3Bez0qZ6) | 2:44 |
 | 15 | [Catching Glory](https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Catching Glory](https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E) | 1:46 |
-| 16 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
+| 16 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
 | 17 | [Champion](https://open.spotify.com/track/7r5uo3FG4UORf7hvN7TpbY) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Champion](https://open.spotify.com/album/1HAzzCe55dg421b4DmbKXp) | 3:02 |
 | 18 | [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 |
 | 19 | [Cinderella](https://open.spotify.com/track/2YlQzu0VvxKR6bMfmsJ7Jx) | [Boydelian](https://open.spotify.com/artist/1zAdGiFgR2qyOYiRyI2aKQ), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Cinderella](https://open.spotify.com/album/2RYoIHwiPi7fVxjtP2gOOD) | 3:14 |

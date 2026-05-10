@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-195 songs - 10 hr 21 min
+196 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 | 2022-09-03 | 2025-04-03 |
 | [Funeral](https://open.spotify.com/track/5OnpQJvF3btoiNmupKRTR0) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:26 | 2025-04-02 |  |
 | [Get It Right](https://open.spotify.com/track/3Thw5feG3I2MP5TrToBcPU) | [HANNIE](https://open.spotify.com/artist/7vp58vF08Hg9TbDrYH2nAh) | [Get It Right](https://open.spotify.com/album/54oz9xG2H5FgYci2I8RQnK) | 2:54 | 2022-12-12 |  |
+| [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 | 2026-05-09 |  |
 | [Give and Take](https://open.spotify.com/track/0ZmaOPRpl5f0zCseXw6Ppo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 2:45 | 2024-11-11 | 2025-01-10 |
 | [Give and Take](https://open.spotify.com/track/4o1XGDEeTSjCHDwk2WOVqY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Give And Take](https://open.spotify.com/album/1uOPjG1f6x1vEh8SQHQ8XS) | 2:45 | 2024-08-03 | 2024-11-11 |
 | [Give and Take](https://open.spotify.com/track/5d1DjzjzzCioNUDU8CJaey) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 2:45 | 2024-11-10 |  |

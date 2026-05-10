@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35312,
+  "num_followers": 35311,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAa1+eoK/MG33y90cNmd5mf",
+  "snapshot_id": "af0ngAAAAADqrd7RqZvmfdOB51+N3r+V",
   "tracks": [
     {
       "added_at": null,
@@ -299,38 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Layers of Time",
-      "url": "https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 225453,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4EsCBMrhAjCNu84DAo1tOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -347,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Adrenaline",
-        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
       "artists": [
         {
@@ -356,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/1Gdt94I4Jwh0BBMK4tVMqk"
+      "duration_ms": 225453,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4EsCBMrhAjCNu84DAo1tOn"
     },
     {
       "added_at": null,
@@ -387,6 +355,38 @@
       "duration_ms": 212325,
       "name": "These Scars Won't Define Us - Tour Version",
       "url": "https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Adrenaline",
+        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/1Gdt94I4Jwh0BBMK4tVMqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Layers of Time",
+      "url": "https://open.spotify.com/track/2uFS9ieoGREkFCrasbGsCx"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 371426,
-      "name": "Veneficium",
-      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In a Reverie",
         "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 371426,
+      "name": "Veneficium",
+      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Comalies XX",
         "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 212826,
       "name": "Swamped XX",
       "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Adrenaline",
         "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 183440,
       "name": "Upsidedown",
       "url": "https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Sword of Anger",
-      "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Sword of Anger",
+      "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 229280,
       "name": "You Love Me 'Cause I Hate You",
       "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 247666,
       "name": "Heaven's a Lie XX",
       "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
     },
     {
       "added_at": null,

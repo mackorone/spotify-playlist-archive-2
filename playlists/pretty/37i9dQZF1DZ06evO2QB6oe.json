@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70626,
+  "num_followers": 70638,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAD7k8t3TY8hrtFsWdOCYcqa",
+  "snapshot_id": "af0ngAAAAABH8xAXOqSCAATZCj3zlgGr",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 206414,
       "name": "Aprender a Vivir",
       "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sabe Bien",
-        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 160723,
-      "name": "Sabe Bien",
-      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
     },
     {
       "added_at": null,
@@ -758,11 +758,15 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 254258,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+      "duration_ms": 209833,
+      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
+      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
     },
     {
       "added_at": null,
@@ -803,42 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 209833,
-      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
-      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 198839,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
       "duration_ms": 162857,
       "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 238445,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,

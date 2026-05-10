@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 14980,
+  "num_followers": 15000,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACCb6udCQkcAWf01Y6GacGE",
+  "snapshot_id": "af0ngAAAAADZ6PefFb2Go5g+v8p0I4bP",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AJULLIACOSTA: WE4Sessions",
+        "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 260976,
+      "name": "Part The Box / Quero Saber",
+      "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEMR\u00c9H (FINAL SPRINT)",
         "url": "https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 187480,
       "name": "Eles Me Odeiam",
       "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AJULLIACOSTA: WE4Sessions",
-        "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 260976,
-      "name": "Part The Box / Quero Saber",
-      "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
     },
     {
       "added_at": null,
@@ -687,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEUS ERROS DE NOVO",
-        "url": "https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174722,
-      "name": "Quero, Penso, Posso",
-      "url": "https://open.spotify.com/track/1nEPNhPbHqskS7hNb98Orb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Corre",
         "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 195692,
       "name": "Do Corre",
       "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEUS ERROS DE NOVO",
+        "url": "https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174722,
+      "name": "Quero, Penso, Posso",
+      "url": "https://open.spotify.com/track/1nEPNhPbHqskS7hNb98Orb"
     },
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 120893,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 165454,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 120893,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Aju",
+      "url": "https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 246965,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "Aju",
-      "url": "https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0"
     }
   ],
   "unique_name": "This Is AJULLIACOSTA",

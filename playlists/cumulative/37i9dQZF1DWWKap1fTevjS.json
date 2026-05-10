@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 138000,
       "name": "Aerial Echoes",
       "url": "https://open.spotify.com/track/1IlnxI9bKLgq20pyRGQSWB"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 151572,
       "name": "Allevating",
       "url": "https://open.spotify.com/track/4A0xVrc3chxxgPh8j6whrX"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 171220,
       "name": "Anagro",
       "url": "https://open.spotify.com/track/0vNRbK9UxLXJSminB42c45"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 160777,
       "name": "Aphelion",
       "url": "https://open.spotify.com/track/6whrCE5Vc5DtjwKxhDDZz0"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 167000,
       "name": "Aurora Lenta",
       "url": "https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 154434,
       "name": "Candescent",
       "url": "https://open.spotify.com/track/5wJmaU8KKuAsHXa0aM7fQW"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 158035,
       "name": "Chronology",
       "url": "https://open.spotify.com/track/31ne58AShJD0B4osFf15eY"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 173106,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/5bIwxIoFjzUwgdfZhk4VjO"
@@ -5272,7 +5272,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 170176,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
@@ -5708,6 +5708,24 @@
       "duration_ms": 162750,
       "name": "Entity",
       "url": "https://open.spotify.com/track/6STBNWnDbWvUH2JE9ujHqc"
+    },
+    {
+      "album": {
+        "name": "Envisage",
+        "url": "https://open.spotify.com/album/7KayPxZbS1PQCo3ynADhQa"
+      },
+      "artists": [
+        {
+          "name": "Labyrinthines",
+          "url": "https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "Envisage",
+      "url": "https://open.spotify.com/track/1wm9NL0JQsyXAcKeAMEIrN"
     },
     {
       "album": {
@@ -7058,7 +7076,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 171000,
       "name": "Frosted Light",
       "url": "https://open.spotify.com/track/6oWqrdSeRc72l2xF19O2wg"
@@ -7310,7 +7328,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 147731,
       "name": "Gentle Night",
       "url": "https://open.spotify.com/track/3RSIBI5VOJDJSkOUH33uya"
@@ -9992,7 +10010,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 165374,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx"
@@ -10748,7 +10766,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 185418,
       "name": "Mist",
       "url": "https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm"
@@ -10802,7 +10820,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 195750,
       "name": "Molecular Cloud",
       "url": "https://open.spotify.com/track/42RwMJ0ZRV46CluZ5bTMWx"
@@ -12836,7 +12854,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 163274,
       "name": "Particles",
       "url": "https://open.spotify.com/track/4HQhAXCaJqXtLvrinExlNc"
@@ -12908,7 +12926,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 183924,
       "name": "Path to Rest",
       "url": "https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO"
@@ -13326,7 +13344,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 178000,
       "name": "Positive Outcome",
       "url": "https://open.spotify.com/track/59HagQwQZ3qOviU1m1gOHx"
@@ -13866,7 +13884,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 189000,
       "name": "Recognition",
       "url": "https://open.spotify.com/track/6uw0ljrK4RlyEckezeUaMa"
@@ -15846,7 +15864,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 150500,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/3s2wuyhnAeoE3XGjYNFlVQ"
@@ -15918,7 +15936,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 126000,
       "name": "Slowly Drifting",
       "url": "https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ"
@@ -16494,7 +16512,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 164102,
       "name": "Somnora",
       "url": "https://open.spotify.com/track/5wiNVXnW8DSSAZqAeJhZyp"
@@ -18643,6 +18661,24 @@
     },
     {
       "album": {
+        "name": "Twilight Arrival",
+        "url": "https://open.spotify.com/album/1quEivfmAMz2biE9y8FvLp"
+      },
+      "artists": [
+        {
+          "name": "Aemilune",
+          "url": "https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Twilight Arrival",
+      "url": "https://open.spotify.com/track/4ko0z8M4NCEV8kjrfHNZ7p"
+    },
+    {
+      "album": {
         "name": "Twine",
         "url": "https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX"
       },
@@ -19248,7 +19284,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 154402,
       "name": "Vespers",
       "url": "https://open.spotify.com/track/2lzoxR34ISyzfi91kDdAit"
@@ -19342,6 +19378,24 @@
       "duration_ms": 165336,
       "name": "Vita Tranquilla",
       "url": "https://open.spotify.com/track/6jB8Sln3EZcybYKOJJg77v"
+    },
+    {
+      "album": {
+        "name": "Vivid colors",
+        "url": "https://open.spotify.com/album/7cXa1hyDZZv87NDB7JzpLG"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157374,
+      "name": "Vivid colors",
+      "url": "https://open.spotify.com/track/4TcLosbIc3K18V47dpEauk"
     },
     {
       "album": {

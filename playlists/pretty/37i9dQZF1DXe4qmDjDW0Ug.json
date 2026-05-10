@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 17764,
+  "num_followers": 17767,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -157,32 +157,12 @@
       "artists": [
         {
           "name": "DEAN",
-          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
       "duration_ms": 207129,
       "name": "21",
       "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "I'm Not Sorry",
-        "url": "https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 209095,
-      "name": "I'm Not Sorry",
-      "url": "https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -203,22 +183,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 227021,
-      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
-      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "Master`s sun OST Part 4",
         "url": "https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7"
       },
@@ -235,22 +199,18 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 211972,
-      "name": "\ud480\uc5b4",
-      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -275,8 +235,8 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/48ScAfcD1Dy3gMPhjhTzek"
+        "name": "I'm Not Sorry",
+        "url": "https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv"
       },
       "artists": [
         {
@@ -284,29 +244,13 @@
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         },
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 266137,
-      "name": "\ub118\uc5b4\uc640 (Feat. \ubc31\uc608\ub9b0)",
-      "url": "https://open.spotify.com/track/7LN1f9jAIu7yxBzsLMN7RB"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "Solar International",
-        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
-      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
+      "duration_ms": 209095,
+      "name": "I'm Not Sorry",
+      "url": "https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -331,26 +275,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/1AZIJ1Vwc9mhKhodnW7FSI"
-        },
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "Back To The Soul Flight",
         "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
@@ -363,6 +287,22 @@
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
+      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -383,6 +323,26 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -395,22 +355,6 @@
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
-      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -431,6 +375,22 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
+      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -459,18 +419,22 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 202946,
-      "name": "\ubbf8\uc6cc\uc694 I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -487,6 +451,22 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "\ubbf8\uc6cc\uc694 I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -855,6 +835,22 @@
       "duration_ms": 222893,
       "name": "\ubd88\uce58\ubcd1",
       "url": "https://open.spotify.com/track/6h13tMy23cM8rzmsaNgTI4"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "YG 10th Anniversary",
+        "url": "https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Memory Loss",
+      "url": "https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

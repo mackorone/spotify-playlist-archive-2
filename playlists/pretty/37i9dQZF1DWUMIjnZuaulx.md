@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Travis Green & Forward City
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,756 likes - 80 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,786 likes - 80 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 12 | [Know Your Name](https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Know Your Name](https://open.spotify.com/album/7sfVqskY9vO2XqKlXY2pMv) | 4:32 |
 | 13 | [I Was Made To Glorify Your Name](https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Was Made To Glorify Your Name](https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0) | 5:46 |
 | 14 | [Praise The Lord \- Live](https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [New Wine \(Live\)](https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT) | 14:48 |
-| 15 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
+| 15 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
 | 16 | [Away](https://open.spotify.com/track/6fylcXbAU92i1MJyel5H2a) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Away](https://open.spotify.com/album/5J2DvCksUcyJ6xCAwU88R9) | 3:43 |
 | 17 | [Hello God \- Radio Edit](https://open.spotify.com/track/3F7OrUTHFZylP0QcVCmc9S) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Hello God \(Radio Edit\)](https://open.spotify.com/album/28JfrEJzBcctCRRPkybsJh) | 3:59 |
 | 18 | [Pass Me Not](https://open.spotify.com/track/4XmKTdk3zUZTq6dTKN0Uqq) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Pass Me Not](https://open.spotify.com/album/2Dr3Qjn8iNDDL37YExi0zr) | 6:23 |

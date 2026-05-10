@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:0n6yaHp7ZDCuHJlNtN0q3G">BABIE LATO</a>, Natalia Grosiak, BELA, Kathia
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,357 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,374 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 42 | [Szklane serce](https://open.spotify.com/track/0KeAJGQEIqbmi1gxPDI4gw) | [Mellie](https://open.spotify.com/artist/1mM16l96DHgpD3pUDD2Chw) | [Szklane serce](https://open.spotify.com/album/3m793FX0YfSK0nIejV24wI) | 1:58 |
 | 43 | [do dna](https://open.spotify.com/track/3xzUIzfLwRRhHdKGbMYcTo) | [Klaudia Sobotka](https://open.spotify.com/artist/4izxlflj4RQhhmWAGhyGFJ) | [do dna](https://open.spotify.com/album/0jL4fMSiZT2puiNsAitnaV) | 3:10 |
 | 44 | [STOP](https://open.spotify.com/track/3013kbrUL77NILb88oviXr) | [Weronika Drybs](https://open.spotify.com/artist/6HIl4Jj9GAZEgHUKTJouuC) | [STOP](https://open.spotify.com/album/213m2ZESafiGtp4eQbzzS4) | 3:38 |
-| 45 | [Chciałabym Być Zwykła...](https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2) | [Chciałabym Być Zwykła...](https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd) | 2:34 |
+| 45 | [Chciałabym Być Zwykła...](https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Chciałabym Być Zwykła...](https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd) | 2:34 |
 | 46 | [Waniliowe](https://open.spotify.com/track/7mgLhQ57GqIps0mvaiQXLd) | [Julia Domańska](https://open.spotify.com/artist/1TSVqJWMTyKI6vmdtokJUk) | [Waniliowe](https://open.spotify.com/album/1EAN7zN072g4DBQ6nUoy8r) | 3:06 |
 | 47 | [Potwór z szafy](https://open.spotify.com/track/52jh3hKl9hy4stbpYmYVfl) | [Meg Mell](https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k) | [Potwór z szafy](https://open.spotify.com/album/0Fb5IR6FSAzOXj4lTcfL3j) | 3:55 |
 | 48 | [coś jeszcze?](https://open.spotify.com/track/77YhthvqpqMXXPw2iEExYg) | [Julita Ziela Zielińska](https://open.spotify.com/artist/7jS2YufaCykbNcmGLq37Wl) | [Smutek w stadzie](https://open.spotify.com/album/2XUNlmpQmbu3unP3GTSCE6) | 3:43 |

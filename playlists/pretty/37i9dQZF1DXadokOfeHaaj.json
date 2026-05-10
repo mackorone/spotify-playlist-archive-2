@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: 1-800 GIRLS",
-  "num_followers": 43358,
+  "num_followers": 43376,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "if you wanna party, come over to my house",
-        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 171613,
-      "name": "if you wanna party, come over to my house",
-      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -239,8 +239,8 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "Casableu",
         "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 218666,
       "name": "Casableu",
       "url": "https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -771,6 +787,22 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
       },
@@ -807,22 +839,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "Ebb + Flow",
-        "url": "https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 240769,
-      "name": "Ebb + Flow",
-      "url": "https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "Curses Broken",
         "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
@@ -835,6 +851,22 @@
       "duration_ms": 277838,
       "name": "Better Let It Go",
       "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "Ebb + Flow",
+        "url": "https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 240769,
+      "name": "Ebb + Flow",
+      "url": "https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -867,22 +899,6 @@
       "duration_ms": 169630,
       "name": "We Go So Good Together",
       "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -999,26 +1015,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "Ah Ya",
-        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "Ah Ya",
-      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "Move Time",
         "url": "https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z"
       },
@@ -1035,6 +1031,26 @@
       "duration_ms": 219661,
       "name": "Move Time",
       "url": "https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "Ah Ya",
+        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "Ah Ya",
+      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -1067,6 +1083,22 @@
       "duration_ms": 123979,
       "name": "TRUTH",
       "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
+        "name": "DJ-Kicks: Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 302362,
+      "name": "Make Me Feel Better",
+      "url": "https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -1107,22 +1139,6 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
-        "name": "DJ-Kicks: Sofia Kourtesis",
-        "url": "https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 302362,
-      "name": "Make Me Feel Better",
-      "url": "https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
         "name": "Colour Dance",
         "url": "https://open.spotify.com/album/3hO3RTyduPcEujnimiJTBb"
       },
@@ -1159,6 +1175,22 @@
     {
       "added_at": "2026-05-08 12:31:41",
       "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 228918,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5"
+    },
+    {
+      "added_at": "2026-05-08 12:31:41",
+      "album": {
         "name": "Soulseek",
         "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
       },
@@ -1175,22 +1207,6 @@
       "duration_ms": 311666,
       "name": "Soulseek",
       "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/0zZz8NNJM9Uwmufm8suDSu"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        }
-      ],
-      "duration_ms": 228918,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/2wZhZYuCFpoSElWEQq3Tt5"
     },
     {
       "added_at": "2026-05-08 12:31:41",
@@ -1239,22 +1255,6 @@
       "duration_ms": 201680,
       "name": "Jumpstart",
       "url": "https://open.spotify.com/track/6urZNn4FFWnMBLJUiZgsuE"
-    },
-    {
-      "added_at": "2026-05-08 12:31:41",
-      "album": {
-        "name": "nomorejacketsplease",
-        "url": "https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 239750,
-      "name": "Be That to You",
-      "url": "https://open.spotify.com/track/6PRyHlrx4t9nj96pDRc00d"
     }
   ],
   "unique_name": "Indie Electronic ",

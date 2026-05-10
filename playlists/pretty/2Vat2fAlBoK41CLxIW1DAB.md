@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,594 likes - 983 songs - 2 day 13 hr 56 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 995 songs - 2 day 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -991,5 +991,17 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 981 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 |
 | 982 | [Starting to Remember How Much I Forgot](https://open.spotify.com/track/4DPRKTginZ5orODg84OVyd) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Starting to Remember How Much I Forgot](https://open.spotify.com/album/5A9Ct6ApsEwbNlcobRXSvC) | 3:53 |
 | 983 | [This Is My Orange Table](https://open.spotify.com/track/41wlvMZxO819EvTKyDbTFr) | [Tortuga](https://open.spotify.com/artist/4QzhYIfvlEMycWybJ3wPHM) | [Overdressed](https://open.spotify.com/album/0Sb0ua8tvBXeQ3XPudy4C0) | 4:05 |
+| 984 | [NecroMantis](https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 6:18 |
+| 985 | [BOTA PRA QUEBRAR](https://open.spotify.com/track/7d1LA50ohLtGLpXJksIsBl) | [Rural 64](https://open.spotify.com/artist/7fgZmIWoF5HC5n4C0jFkds) | [BOTA PRA QUEBRAR](https://open.spotify.com/album/1LGOtYrowbaE2BAhpRLGJY) | 2:49 |
+| 986 | [Innocent and Vain](https://open.spotify.com/track/1HUEvrbw3tkZc31RNKIDdR) | [Stoned Jean](https://open.spotify.com/artist/5C20P88jZI0pKBarNqnmIE) | [Innocent and Vain](https://open.spotify.com/album/69JAqjhNIi4LCWW8oWss7i) | 3:50 |
+| 987 | [The General](https://open.spotify.com/track/2Uf3YIy6HpJhN2oJaEOC1G) | [Ka’aru](https://open.spotify.com/artist/20llyzIitQO60OEG8FfIhX) | [Daring Spirit](https://open.spotify.com/album/0xykYsNfdB7gOHdBz8JNOJ) | 4:49 |
+| 988 | [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 |
+| 989 | [Garbarekk](https://open.spotify.com/track/0VyTyDjnfqIV1JtoTsro7w) | [Magnetfisch](https://open.spotify.com/artist/1kSxv7KegqfXIQXpD4zZhX) | [Existing Building](https://open.spotify.com/album/1O0E3PBFUihI34M7haYlbv) | 3:56 |
+| 990 | [Sweet Surrender](https://open.spotify.com/track/61dRyPibapZpYHfM0JETuw) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Sweet Surrender](https://open.spotify.com/album/1SFs1d4aOSLoEHyv72RFIY) | 3:46 |
+| 991 | [Sombras de Diciembre](https://open.spotify.com/track/3GSb5g3X2F2TJ9UYYwdgzh) | [Aristito](https://open.spotify.com/artist/3pS8xOWcVGdU7stgeZBFTk) | [Sombras de Diciembre](https://open.spotify.com/album/4jCA8anzXuBAl6F1kWZg44) | 3:34 |
+| 992 | [Siempre Pasa](https://open.spotify.com/track/7o9lVD7olqHzUEeINuenJW) | [MENENDEZ](https://open.spotify.com/artist/4ufs2hcQ5G3tGnLiCsrXxz) | [Siempre Pasa](https://open.spotify.com/album/44a2KZsjFSfQUEYSHfXcCU) | 3:23 |
+| 993 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 |
+| 994 | [Höhlämänschemeidli](https://open.spotify.com/track/24FolRg7c6nItqSy4jWflO) | [Sir Donkey's Revenge](https://open.spotify.com/artist/4nm1bk6VxOcLoTnXurtnF7) | [Beyswind](https://open.spotify.com/album/1T6HXNWxc0tAHBT1OFICDV) | 4:37 |
+| 995 | [Orchestra of Mismanagement](https://open.spotify.com/track/3HDuhlbwyu1nB6h1sxsBLY) | [Pair O'Dee's](https://open.spotify.com/artist/4R6q4HRD8s62hfWECwPKLG) | [Orchestra of Mismanagement](https://open.spotify.com/album/28etgfNaOSyqKsIpuY41gl) | 3:49 |
 
-Snapshot ID: `AAAD+qoGhNenb8OjmJVbA77D8NitE51J`
+Snapshot ID: `AAAEBsCw/fS9C/uLT+xE8msGOV4GJjsF`

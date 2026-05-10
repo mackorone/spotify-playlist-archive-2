@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Celebrando a mamá toda la semana con lo mejor de la semana en compañía de Máximo Grado, Victor Mendivil y Amilkar Galaviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,645 likes - 96 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,211 likes - 96 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 79 | [Victoria Miller](https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Victoria Miller](https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt) | 3:01 |
 | 80 | [Un Idiota](https://open.spotify.com/track/0mMAqCLrHGX5HwIsJmiMRO) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn) | [Un Idiota](https://open.spotify.com/album/1YHjuoRMTTQzrqgLiHW8aa) | 2:58 |
 | 81 | [5000 Rosas](https://open.spotify.com/track/1J8e1taHUlZVnkVf2iLDxQ) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [5000 Rosas](https://open.spotify.com/album/6SICH8TKROmzz52d54qb1a) | 2:42 |
-| 82 | [Muñequita Rabiosa \(Live\)](https://open.spotify.com/track/21N0upZW9Keo33gqbyARIU) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Cantando Y Tomando \(Live\)](https://open.spotify.com/album/2BN4qLaGeuHOVNMjQ9rkmn) | 2:23 |
+| 82 | [Muñequita Rabiosa \(Live\)](https://open.spotify.com/track/21N0upZW9Keo33gqbyARIU) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Tomando Y Cantando \(Live\)](https://open.spotify.com/album/2BN4qLaGeuHOVNMjQ9rkmn) | 2:23 |
 | 83 | [Aunque Te Encuentres Dormida](https://open.spotify.com/track/5IE6VFKepNHDvRIUMBxwfG) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Aunque Te Encuentres Dormida](https://open.spotify.com/album/13rQ0I7dPd7g2dvaIX92f1) | 2:49 |
 | 84 | [Ya Sabré](https://open.spotify.com/track/6B6k6GP6PV9Sec2xaILdaR) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ya Sabré](https://open.spotify.com/album/4F0Ak1bkR4saSIh3N5fV7f) | 3:31 |
 | 85 | [Mamá](https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mamá](https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A) | 3:49 |

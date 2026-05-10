@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 82082,
+  "num_followers": 82120,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABwSUfmw5CiSGLtSZDTMiyM",
+  "snapshot_id": "af0ngAAAAACLDki6qk6bxuv7H6Bwqi+Q",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
+        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 141053,
       "name": "AIN'T NEVER SLOWIN' DOWN (BONUS)",
       "url": "https://open.spotify.com/track/6VnsvlXiX0XTqlzmk7P2zZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
-        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
     },
     {
       "added_at": null,

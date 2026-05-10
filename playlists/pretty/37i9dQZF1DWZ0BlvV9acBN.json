@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "DESMANCHOU",
-        "url": "https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR"
-      },
-      "artists": [
-        {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
-        }
-      ],
-      "duration_ms": 252745,
-      "name": "DESMANCHOU",
-      "url": "https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Caminho Sem Volta",
         "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215064,
       "name": "Caminho Sem Volta",
       "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "DESMANCHOU",
+        "url": "https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR"
+      },
+      "artists": [
+        {
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+        }
+      ],
+      "duration_ms": 252745,
+      "name": "DESMANCHOU",
+      "url": "https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66"
     },
     {
       "added_at": "2026-04-24 19:01:02",

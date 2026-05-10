@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,793 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,840 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 85 | [Unbound](https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Unbound](https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi) | 3:47 |
 | 86 | [Lifeline](https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Lifeline](https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS) | 4:06 |
 | 87 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 |
-| 88 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |
-| 89 | [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 |
+| 88 | [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 |
+| 89 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |
 | 90 | [Codename: Reckless](https://open.spotify.com/track/5nzkugYDvjKKGeXC6kD94W) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Codename: Reckless](https://open.spotify.com/album/67kSmZGUA515W6Eif9YqlX) | 2:42 |
 | 91 | [Rage](https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Rage](https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu) | 4:14 |
 | 92 | [AFTER MIDNIGHT](https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [AFTER MIDNIGHT](https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo) | 2:01 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 120 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
 | 121 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |
 | 122 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
-| 123 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
-| 124 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
+| 123 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
+| 124 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
 | 125 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
 
 Snapshot ID: `AAAAAOosefFwXsplkP1+L0UYIWM170ic`

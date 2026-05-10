@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: EDDIE
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 507 likes - 81 songs - 4 hr 29 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 506 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

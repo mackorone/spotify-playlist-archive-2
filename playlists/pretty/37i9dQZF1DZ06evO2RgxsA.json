@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93466,
+  "num_followers": 93462,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACe/PEWjTRgcV/0fcaW1YAn",
+  "snapshot_id": "af0ngAAAAACEqoHwwbC0Hb9jOC+H9cq+",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 136706,
-      "name": "Please Play This Song On The Radio",
-      "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest Line",
-        "url": "https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO"
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 124026,
-      "name": "The Longest Line",
-      "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
+      "duration_ms": 136706,
+      "name": "Please Play This Song On The Radio",
+      "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
     },
     {
       "added_at": null,

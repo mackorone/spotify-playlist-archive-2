@@ -1,6 +1,6 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 457172,
+  "num_followers": 457196,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Lockjaw",
@@ -771,22 +787,6 @@
       "duration_ms": 221894,
       "name": "Drop The Game",
       "url": "https://open.spotify.com/track/3wFFW1B6WAmAFGOwdEOOZR"
-    },
-    {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 160886,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Kasabian",
         "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 196917,
       "name": "L.S.F.",
       "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1793,6 +1793,22 @@
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256398,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Volcano",
@@ -1811,22 +1827,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256398,
-      "name": "Standing In the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "The Bones Of What You Believe (Special Edition)",
-        "url": "https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "The Mother We Share",
-      "url": "https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG"
-    },
-    {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
       },
@@ -2041,20 +2025,20 @@
       "url": "https://open.spotify.com/track/597W049n13m86dgV0dbLae"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
+      "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+        "name": "The Bones Of What You Believe (Special Edition)",
+        "url": "https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD"
       },
       "artists": [
         {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+      "duration_ms": 191293,
+      "name": "The Mother We Share",
+      "url": "https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2071,6 +2055,22 @@
       "duration_ms": 160747,
       "name": "Moaning Lisa Smile",
       "url": "https://open.spotify.com/track/37XsaGX7crh4YJKv6k946u"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr"
-    },
-    {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 233769,
       "name": "Clearest Blue",
       "url": "https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2317,22 +2317,6 @@
       "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Sometimes I Sit And Think, And Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/1VHxShkFJR9xA281epCtkz"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Pedestrian At Best",
-      "url": "https://open.spotify.com/track/7w7qzJd1j5FQVexn9TuxJw"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Seventeen Going Under",
@@ -2347,6 +2331,22 @@
       "duration_ms": 237280,
       "name": "Seventeen Going Under - Edit",
       "url": "https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Sometimes I Sit And Think, And Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/1VHxShkFJR9xA281epCtkz"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Pedestrian At Best",
+      "url": "https://open.spotify.com/track/7w7qzJd1j5FQVexn9TuxJw"
     },
     {
       "added_at": "2024-12-20 01:31:11",

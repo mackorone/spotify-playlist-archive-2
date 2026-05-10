@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416688,
+  "num_followers": 416722,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "ALL MY LOVE (PNAU x Coldplay)",
-        "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "ALL MY LOVE - PNAU x Coldplay",
-      "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "ALL MY LOVE (PNAU x Coldplay)",
+        "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "ALL MY LOVE - PNAU x Coldplay",
+      "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
-        "name": "The Panorama Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 360299,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
+        "name": "Everything Will Be Alright",
+        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -1003,42 +1019,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Euro",
-        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 168717,
-      "name": "Euro",
-      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
-        "name": "Everything Will Be Alright",
-        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 168717,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -1111,6 +1095,38 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
       "artists": [
         {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Ahmed Spins",
+          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
+      "duration_ms": 264614,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -1207,42 +1227,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Ahmed Spins",
-          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
-        }
-      ],
-      "duration_ms": 264614,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 184000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 275010,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
     },
     {
       "added_at": "2026-05-05 14:00:27",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-05 14:00:27",
       "album": {
-        "name": "Afterimage",
-        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
-      },
-      "artists": [
-        {
-          "name": "Kaikobad",
-          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "Afterimage",
-      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
-    },
-    {
-      "added_at": "2026-05-05 14:00:27",
-      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+    },
+    {
+      "added_at": "2026-05-05 14:00:27",
+      "album": {
+        "name": "Afterimage",
+        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
+      },
+      "artists": [
+        {
+          "name": "Kaikobad",
+          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Afterimage",
+      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
     }
   ],
   "unique_name": "Just Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,942 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 16 | [Resign](https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:10 |
 | 17 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 18 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
-| 19 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
-| 20 | [To Get Fucked Up](https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [To Get Fucked Up](https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ) | 4:09 |
+| 19 | [To Get Fucked Up](https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [To Get Fucked Up](https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ) | 4:09 |
+| 20 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
 | 21 | [Shade up My Blue](https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Shade up My Blue](https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG) | 3:40 |
 | 22 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
 | 23 | [La patte](https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [ECHO ECHO](https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0) | 2:33 |

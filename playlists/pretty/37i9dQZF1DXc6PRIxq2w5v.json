@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 191272,
+  "num_followers": 191289,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -339,30 +339,6 @@
     {
       "added_at": "2026-05-08 03:01:34",
       "album": {
-        "name": "Devolva a Minha Igrejinha",
-        "url": "https://open.spotify.com/album/2mO78rC3BKzdaUE9rNAvjH"
-      },
-      "artists": [
-        {
-          "name": "Calmar\u00e1",
-          "url": "https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        }
-      ],
-      "duration_ms": 203215,
-      "name": "Devolva a Minha Igrejinha",
-      "url": "https://open.spotify.com/track/6KU6BTFgbLzjLjHwPbzES3"
-    },
-    {
-      "added_at": "2026-05-08 03:01:34",
-      "album": {
         "name": "P\u00e9s Descal\u00e7os",
         "url": "https://open.spotify.com/album/2t1XM0tpDYOTnWKLmnF4wD"
       },
@@ -375,6 +351,22 @@
       "duration_ms": 192857,
       "name": "P\u00e9s Descal\u00e7os",
       "url": "https://open.spotify.com/track/1mqXptxIywQXMnCXAQqexs"
+    },
+    {
+      "added_at": "2026-05-08 03:01:34",
+      "album": {
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 162272,
+      "name": "Viv\u00e3o",
+      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
     },
     {
       "added_at": "2026-05-08 03:01:34",
@@ -395,18 +387,26 @@
     {
       "added_at": "2026-05-08 03:01:34",
       "album": {
-        "name": "Predestinado",
-        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
+        "name": "Devolva a Minha Igrejinha",
+        "url": "https://open.spotify.com/album/2mO78rC3BKzdaUE9rNAvjH"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Calmar\u00e1",
+          "url": "https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
         }
       ],
-      "duration_ms": 162272,
-      "name": "Viv\u00e3o",
-      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
+      "duration_ms": 203215,
+      "name": "Devolva a Minha Igrejinha",
+      "url": "https://open.spotify.com/track/6KU6BTFgbLzjLjHwPbzES3"
     },
     {
       "added_at": "2026-05-08 03:01:34",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-08 03:01:34",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
-    },
-    {
-      "added_at": "2026-05-08 03:01:34",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199115,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
+    },
+    {
+      "added_at": "2026-05-08 03:01:34",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
     },
     {
       "added_at": "2026-05-08 03:01:34",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-05-08 03:01:34",
       "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
-    },
-    {
-      "added_at": "2026-05-08 03:01:34",
-      "album": {
         "name": "Dias de Luta",
         "url": "https://open.spotify.com/album/4fvDcNHgCQ2kqaSIVfWf5D"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 206612,
       "name": "Dias de Luta",
       "url": "https://open.spotify.com/track/46nKQd1hydiLqHRJ6eb6qS"
+    },
+    {
+      "added_at": "2026-05-08 03:01:34",
+      "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-05-08 03:01:34",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2026-05-08 03:01:34",
       "album": {
-        "name": "Se Anima",
-        "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
+        "name": "Por Onde C Andar",
+        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
       },
       "artists": [
         {
@@ -1480,9 +1480,29 @@
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 138139,
-      "name": "Se Anima",
-      "url": "https://open.spotify.com/track/1xOINsI8OIOpS8MsqyqySJ"
+      "duration_ms": 169090,
+      "name": "Por Onde C Andar",
+      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
+    },
+    {
+      "added_at": "2026-05-08 03:01:34",
+      "album": {
+        "name": "Cristo T\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6MKefo2q2MITMbG7cHaesH"
+      },
+      "artists": [
+        {
+          "name": "Mrjames",
+          "url": "https://open.spotify.com/artist/1IX30Dj5XpCZZBXEf5H7lB"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 121887,
+      "name": "Cristo T\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6IwlzGTdbLn1B2Ud0qF2DC"
     },
     {
       "added_at": "2026-05-08 03:01:34",
@@ -1535,6 +1555,26 @@
     {
       "added_at": "2026-05-08 03:01:34",
       "album": {
+        "name": "Se Anima",
+        "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
+      },
+      "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Se Anima",
+      "url": "https://open.spotify.com/track/1xOINsI8OIOpS8MsqyqySJ"
+    },
+    {
+      "added_at": "2026-05-08 03:01:34",
+      "album": {
         "name": "Me Faz Bem",
         "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
       },
@@ -1547,26 +1587,6 @@
       "duration_ms": 186293,
       "name": "Me Faz Bem",
       "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:34",
-      "album": {
-        "name": "Por Onde C Andar",
-        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Por Onde C Andar",
-      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
     },
     {
       "added_at": "2026-05-08 03:01:34",
@@ -1671,26 +1691,6 @@
       "duration_ms": 195756,
       "name": "Passos",
       "url": "https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL"
-    },
-    {
-      "added_at": "2026-05-08 03:01:34",
-      "album": {
-        "name": "Cristo T\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6MKefo2q2MITMbG7cHaesH"
-      },
-      "artists": [
-        {
-          "name": "Mrjames",
-          "url": "https://open.spotify.com/artist/1IX30Dj5XpCZZBXEf5H7lB"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 121887,
-      "name": "Cristo T\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6IwlzGTdbLn1B2Ud0qF2DC"
     },
     {
       "added_at": "2026-05-08 03:01:34",

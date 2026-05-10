@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "100x",
+        "url": "https://open.spotify.com/album/1Pd3S7JG3dIq5aojEe1aid"
+      },
+      "artists": [
+        {
+          "name": "toniq",
+          "url": "https://open.spotify.com/artist/4Tr2wkLa9RnxF0JakBedIw"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191996,
+      "name": "100x",
+      "url": "https://open.spotify.com/track/2btHlrrG2ekbOme8cMdL6l"
+    },
+    {
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -12596,7 +12618,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 156678,
       "name": "Gyerekek",
       "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
@@ -16219,6 +16241,24 @@
     },
     {
       "album": {
+        "name": "KALITKA",
+        "url": "https://open.spotify.com/album/7qvRUUUPdKDbyC3qjbL9nJ"
+      },
+      "artists": [
+        {
+          "name": "Elef\u00e1nt",
+          "url": "https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "KALITKA",
+      "url": "https://open.spotify.com/track/5nvw8Wj7y1GA9SlLCU5Lm3"
+    },
+    {
+      "album": {
         "name": "Kamagra Gang",
         "url": "https://open.spotify.com/album/6esO71DZDwxvtHTpC6v6Vy"
       },
@@ -16630,7 +16670,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 251612,
       "name": "KIEZASR\u00c1C",
       "url": "https://open.spotify.com/track/3N8T5devRYrXhqynGRM52c"
@@ -16932,7 +16972,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 140689,
       "name": "Klitorisz",
       "url": "https://open.spotify.com/track/40qz2m8ecdUSKSsMcCeqNN"
@@ -18030,7 +18070,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -18726,7 +18766,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -22392,7 +22432,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 189320,
       "name": "Nosztalgia",
       "url": "https://open.spotify.com/track/40CivnFDKYVbvhIpcXAcNB"
@@ -23568,7 +23608,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 188642,
       "name": "PANASONIC",
       "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
@@ -24068,7 +24108,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 137614,
       "name": "Passport",
       "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
@@ -25410,7 +25450,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
@@ -33992,7 +34032,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 117284,
       "name": "Valamit majd kital\u00e1lok",
       "url": "https://open.spotify.com/track/3xOLEbTj6e4OiWdSjxOIyB"
@@ -34232,7 +34272,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 176227,
       "name": "vemzavr!",
       "url": "https://open.spotify.com/track/59a91dqXiVbY4zUuvqgZ4W"
@@ -35104,7 +35144,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 138097,
       "name": "WAKE N BAKE",
       "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"

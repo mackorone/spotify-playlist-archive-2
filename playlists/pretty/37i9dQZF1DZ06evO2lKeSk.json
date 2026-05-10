@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 373417,
+  "num_followers": 373455,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABW+mEiv04Y0oDuKe+j8JeA",
+  "snapshot_id": "af0ngAAAAAByy7dJRBn9G2oeditOR7ye",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 179106,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
+      "duration_ms": 189893,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/5MkNQI9rEUD8zT85XglkOp"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 279226,
       "name": "Amor",
       "url": "https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
     },
     {
       "added_at": null,

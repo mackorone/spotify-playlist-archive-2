@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,153 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,199 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [Ancient of Days / Open The Eyes of My Heart](https://open.spotify.com/track/5raJDXm9vxANe0D8jnaU3E) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ancient of Days / Open The Eyes of My Heart](https://open.spotify.com/album/1BHj7yaoikzkb4Xz6YtAp6) | 5:36 |
 | 100 | [Covered Me](https://open.spotify.com/track/0IUDHgU0nkU4rvSgMBgxjM) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l) | [Covered Me](https://open.spotify.com/album/2TA3y5J5Z8MXspzPv5oGkc) | 3:19 |
 
-Snapshot ID: `AAAAACatvzKmJbttQi8Mc6ywd4YlqRJa`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

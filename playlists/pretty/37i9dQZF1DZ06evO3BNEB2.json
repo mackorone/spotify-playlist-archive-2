@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40393,
+  "num_followers": 40401,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABaNxXhVws4puvJh8fjd0Nx",
+  "snapshot_id": "af0ngAAAAAD/2H27tYxWwoxoZ4CD/hoi",
   "tracks": [
     {
       "added_at": null,
@@ -639,34 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay Trippy",
         "url": "https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND"
       },
@@ -707,6 +679,34 @@
       "duration_ms": 245986,
       "name": "You Don't Know (feat. Wale)",
       "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "You Got It (feat. Wale)",
-      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,
@@ -979,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coffee (F***ing) (feat. Wale)",
         "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
       },
@@ -1043,30 +1063,6 @@
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 304613,
-      "name": "Beautiful Bliss",
-      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
     }
   ],
   "unique_name": "This Is Wale",

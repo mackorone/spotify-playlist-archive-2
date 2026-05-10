@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1137702,
+  "num_followers": 1137966,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABnIEW/QqFOb21ozp3MEpTR",
+  "snapshot_id": "af0ngAAAAACrBhUOypRmF0gEIIVisR/9",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 181451,
       "name": "Ruca",
       "url": "https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "En La Misma Cama",
+      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
     },
     {
       "added_at": null,
@@ -431,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/40kG7l7Z88lN4rkoVTCcNw"
       },
@@ -467,6 +463,26 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/1blUrWE9p1tmZXHKblhEdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": null,
@@ -619,30 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Como De Sol A Sol",
-      "url": "https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otra Vida - Con Carin Leon",
         "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
       },
@@ -663,6 +655,30 @@
       "duration_ms": 150974,
       "name": "En Otra Vida - Con Carin Leon",
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Como De Sol A Sol",
+      "url": "https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "\u20601",
-      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 197107,
       "name": "Qu\u00e9 M\u00e1s Puedo Pedir - Bonus Track",
       "url": "https://open.spotify.com/track/6sDTax3tWwGdZGBi0ps6dF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "\u20601",
+      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
     },
     {
       "added_at": null,
@@ -915,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Mil motivos",
-      "url": "https://open.spotify.com/track/1vRGlAO0DaYZxDOaPsJzy9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW"
       },
@@ -951,26 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lighter (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh"
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 179149,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
+      "duration_ms": 172853,
+      "name": "Mil motivos",
+      "url": "https://open.spotify.com/track/1vRGlAO0DaYZxDOaPsJzy9"
     }
   ],
   "unique_name": "This Is Car\u00edn Le\u00f3n",

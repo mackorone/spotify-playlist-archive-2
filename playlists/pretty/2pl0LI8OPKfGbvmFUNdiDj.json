@@ -1,13 +1,33 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 804,
+  "num_followers": 805,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADnBvRoKx1NYpRvB18e6VtCA4Vng3I",
+  "snapshot_id": "AAADn+d5z9m6yg/kkXDRlh2peqJdcZtL",
   "tracks": [
+    {
+      "added_at": "2026-05-09 15:40:27",
+      "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/065aJhIr0xiOW47HX0cWDQ"
+      },
+      "artists": [
+        {
+          "name": "Mini Mac",
+          "url": "https://open.spotify.com/artist/5Q6A3CQzarSJBqCGu2f74S"
+        },
+        {
+          "name": "E Black",
+          "url": "https://open.spotify.com/artist/4vT1MJAeRMB22R9xYzRu0p"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Dear Life",
+      "url": "https://open.spotify.com/track/1FyM52HTIUHv7sZ8uhkNPN"
+    },
     {
       "added_at": "2026-04-25 18:25:55",
       "album": {
@@ -991,22 +1011,6 @@
       "duration_ms": 126818,
       "name": "I Scream at the Sky",
       "url": "https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe"
-    },
-    {
-      "added_at": "2026-03-24 12:56:17",
-      "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR"
-      },
-      "artists": [
-        {
-          "name": "Reggie Gray",
-          "url": "https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh"
-        }
-      ],
-      "duration_ms": 196271,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU"
     },
     {
       "added_at": "2026-03-25 19:46:12",

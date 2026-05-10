@@ -13757,6 +13757,24 @@
     },
     {
       "album": {
+        "name": "turbine / frog",
+        "url": "https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz"
+      },
+      "artists": [
+        {
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154167,
+      "name": "frog",
+      "url": "https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5"
+    },
+    {
+      "album": {
         "name": "From Tbilisi",
         "url": "https://open.spotify.com/album/33Yjkz3VJGZTcRZkzQs4rj"
       },
@@ -19294,7 +19312,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 185003,
       "name": "Kemet song",
       "url": "https://open.spotify.com/track/1ufLRhpIuXkWybrPcwz63S"
@@ -28101,6 +28119,36 @@
     },
     {
       "album": {
+        "name": "Lavender Networks",
+        "url": "https://open.spotify.com/album/5XI42zcVeFYvwpdfoQ0JIY"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        },
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        },
+        {
+          "name": "Brothertiger",
+          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
+        },
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477713,
+      "name": "Quintessential Fixed Width Unfoldment",
+      "url": "https://open.spotify.com/track/5cdCD30HKjy1SPF9csEYmu"
+    },
+    {
+      "album": {
         "name": "Quoios",
         "url": "https://open.spotify.com/album/3oDEH2fdmbF4dH37SdEsgg"
       },
@@ -31820,7 +31868,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 615310,
       "name": "Solar Excess Sacrificial Ecstasies (Willie O'Winsbury, Sumer is icumen in)",
       "url": "https://open.spotify.com/track/6oKJaftgQzrF9egNqdgA9U"

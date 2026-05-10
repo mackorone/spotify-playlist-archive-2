@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: The War and Treaty
 
-958 songs - 2 day 9 hr 3 min
+959 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 | 2025-06-27 | 2025-11-15 |
 | [Caviar](https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Caviar](https://open.spotify.com/album/5nkZ3TE31QPAIoTkqNAn1c) | 2:54 | 2025-10-03 | 2026-03-14 |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
+| [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 | 2026-05-08 |  |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-03-31 | 2024-07-13 |
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-05-03 | 2025-04-19 |
 | [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 | 2024-04-12 | 2024-07-20 |
@@ -818,7 +819,7 @@
 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 | 2026-02-01 |  |
 | [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-11 | 2024-01-28 |
 | [Tempo](https://open.spotify.com/track/2NS9rH4XWJlQiA4YCBKFkQ) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Tempo](https://open.spotify.com/album/2fDAV06zu8TiZD8kSqEYow) | 3:32 | 2025-05-23 | 2025-06-07 |
-| [Thank You For A Lovely Time \- Raphael Saadiq Version](https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Thank You For A Lovely Time \(Raphael Saadiq Version\)](https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH) | 3:55 | 2025-08-01 |  |
+| [Thank You For A Lovely Time \- Raphael Saadiq Version](https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Thank You For A Lovely Time \(Raphael Saadiq Version\)](https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH) | 3:55 | 2025-08-01 | 2026-05-10 |
 | [That One Ex](https://open.spotify.com/track/6rT52UjpWXhXpsPsFcsKBe) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE) | [That One Ex](https://open.spotify.com/album/1CJfzC57QVUzmKQU671Mzc) | 2:09 | 2025-04-11 | 2025-06-28 |
 | [That's All I Wanted From You](https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [That's All I Wanted From You](https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U) | 2:36 | 2023-07-28 | 2024-08-10 |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-27 | 2026-02-15 |

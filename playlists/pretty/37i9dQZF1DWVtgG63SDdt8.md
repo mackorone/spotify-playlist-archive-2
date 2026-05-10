@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,390 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,454 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Control](https://open.spotify.com/track/0GJgeq1nKM4wGT8CLahiL1) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Control / Dive](https://open.spotify.com/album/1GSmVAeubLoT1V2zm5jkhJ) | 2:32 |
-| 2 | [loving me](https://open.spotify.com/track/05ftLq76HQ4PMxGvCunaH0) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [Mizzy](https://open.spotify.com/artist/797j8pQduQQM0fsViRXuSZ) | [loving me](https://open.spotify.com/album/0g3A68amtVcwoaIQAhsDbK) | 4:33 |
+| 2 | [loving me](https://open.spotify.com/track/05ftLq76HQ4PMxGvCunaH0) | [taylor charmayne](https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS), [MizzyLott](https://open.spotify.com/artist/1IWA2wC036QHXf9XFZKuds) | [loving me](https://open.spotify.com/album/0g3A68amtVcwoaIQAhsDbK) | 4:33 |
 | 3 | [Same](https://open.spotify.com/track/1pOBnETM81nGzywvbjypYo) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Same](https://open.spotify.com/album/6qGzj49mz6ZXIl9mjVOE0L) | 2:11 |
 | 4 | [Close](https://open.spotify.com/track/1JJJY7vww2I5Dvu42gWv16) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Close](https://open.spotify.com/album/6vWYmUpE4KNvMQQMihv4FQ) | 2:32 |
 | 5 | [Multiply](https://open.spotify.com/track/3HYwQfVs3LfFcQIZspBDek) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Multiply](https://open.spotify.com/album/1m5qlzF4hD9tV2jagT4kQT) | 2:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 56 | [Always Be](https://open.spotify.com/track/1mZqB4FRwerubQ26O9z4mG) | [Mercy Hill Worship](https://open.spotify.com/artist/79XCwQwlYAbrMH3uARAcqM), [Joe Richardson](https://open.spotify.com/artist/1Hdol4eW8Vhv76rWnh4yRW) | [Always Be](https://open.spotify.com/album/7zOfAEWyX0qLGgb61Auwpe) | 5:07 |
 | 57 | [How Great, How Great](https://open.spotify.com/track/2dfInGRzwb7oGnpz6vEumA) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99), [Lizzy Abernethy](https://open.spotify.com/artist/37mfYThmTClprx2faRLAgn) | [How Great, How Great](https://open.spotify.com/album/1GXwDTAQ9l6mWeMg53lbLX) | 4:12 |
 | 58 | [REDEEMER \- Live](https://open.spotify.com/track/4iVGRpFLsGclFqGCbjt3xW) | [Space Coast Worship](https://open.spotify.com/artist/3eprviYbaE6ulIzGP0jvk3), [Avery Doreen](https://open.spotify.com/artist/0eHUOghuxi4WpZp5YNGYdE) | [REDEEMER \(Live\)](https://open.spotify.com/album/0i5XnrlFCB3GUzBxwl0FtI) | 5:14 |
-| 59 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
+| 59 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
 | 60 | [Hello God \- Radio Edit](https://open.spotify.com/track/3F7OrUTHFZylP0QcVCmc9S) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Hello God \(Radio Edit\)](https://open.spotify.com/album/28JfrEJzBcctCRRPkybsJh) | 3:59 |
 | 61 | [RATATATAH \(Out n Holy\)](https://open.spotify.com/track/5h4CqXlBZXHDr0Z000VkXa) | [LaToyah Bless](https://open.spotify.com/artist/6imirmWhnsKWxd44PfrV80) | [RATATATAH \(Out n Holy\)](https://open.spotify.com/album/4zOSkPHAMOHB4Iq2ZS2Srq) | 2:51 |
 | 62 | [ORIGINAL](https://open.spotify.com/track/2QPQn6u51X7C65wMhRxdTo) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [ORIGINAL](https://open.spotify.com/album/2bW58YVutEuU94SdVRPICO) | 4:55 |

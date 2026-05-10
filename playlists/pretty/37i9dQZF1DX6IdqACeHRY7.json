@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158226,
+  "num_followers": 158225,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
         "name": "Smelter Under M\u00e5nen",
         "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 198388,
       "name": "Smelter Under M\u00e5nen",
       "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
     },
     {
       "added_at": "2026-03-26 13:50:41",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
-        "name": "Fire Uger",
-        "url": "https://open.spotify.com/album/5z1Hzumvn8lPUtaYX1vVE7"
-      },
-      "artists": [
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        }
-      ],
-      "duration_ms": 205869,
-      "name": "Fire Uger",
-      "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
         "name": "I Sit In Parks",
         "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 130093,
       "name": "I Sit In Parks",
       "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
+        "name": "Fire Uger",
+        "url": "https://open.spotify.com/album/5z1Hzumvn8lPUtaYX1vVE7"
+      },
+      "artists": [
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "duration_ms": 205869,
+      "name": "Fire Uger",
+      "url": "https://open.spotify.com/track/2fGbVht5HksMkvkIXvlPzc"
     },
     {
       "added_at": "2026-03-26 13:50:41",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
+        "name": "I Should Probably Go To Bed",
+        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "I Should Probably Go To Bed",
+      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 173426,
       "name": "who\u2019s your boyfriend",
       "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
-        "name": "I Should Probably Go To Bed",
-        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "I Should Probably Go To Bed",
-      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
     },
     {
       "added_at": "2026-03-26 13:50:41",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2026-03-26 13:50:41",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
         "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
         "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 195194,
       "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
       "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     },
     {
       "added_at": "2026-03-26 13:50:41",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
         "name": "Folk Forsvinder",
         "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 173041,
       "name": "Folk Forsvinder",
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
     },
     {
       "added_at": "2026-03-26 13:50:41",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-03-26 13:50:41",
       "album": {
-        "name": "En dr\u00f8m om et menneske",
-        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
-    },
-    {
-      "added_at": "2026-03-26 13:50:41",
-      "album": {
         "name": "In Between Minds",
         "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 199537,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
+    },
+    {
+      "added_at": "2026-03-26 13:50:41",
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "added_at": "2026-03-26 13:50:41",

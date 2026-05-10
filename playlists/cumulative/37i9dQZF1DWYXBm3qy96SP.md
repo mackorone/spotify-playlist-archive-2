@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Last Dinner Party
 
-2,033 songs - 4 day 22 hr 14 min
+2,034 songs - 4 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,7 +828,7 @@
 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 | 2023-09-28 | 2023-10-13 |
 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-16 |  |
 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 | 2023-10-05 | 2023-10-13 |
-| [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV) | 2:12 | 2026-03-05 |  |
+| [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV) | 2:12 | 2026-03-05 | 2026-05-10 |
 | [I DON’T WANNA DO THIS ANYMORE](https://open.spotify.com/track/6FguetQoUCSHkng6Fe1ofO) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:31 | 2023-07-13 | 2023-07-21 |
 | [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-08 | 2025-08-15 |
 | [I Felt It All](https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I Felt It All](https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ) | 3:00 | 2024-01-25 | 2024-02-02 |
@@ -953,7 +953,7 @@
 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-05 |  |
 | [kessel run \(for the rebellion\)](https://open.spotify.com/track/7uM22MGDe4LaPept5PwW2D) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [cinema paradiso](https://open.spotify.com/album/6jA92hAUuFO6lXKqrj1dFq) | 3:00 | 2026-03-12 | 2026-03-27 |
 | [keys make noise](https://open.spotify.com/track/3XNVBgEgIxoipF0XL1BDwF) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [keys make noise](https://open.spotify.com/album/1wdoMIFW30LYYqzuFSKqEP) | 2:20 | 2023-08-10 | 2023-08-18 |
-| [Kickboxer](https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House of Cards](https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5) | 2:46 | 2026-04-23 | 2026-05-01 |
+| [Kickboxer](https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House of Cards](https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5) | 2:46 | 2026-04-23 |  |
 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 | 2025-07-24 | 2025-10-24 |
 | [Kill The Lights](https://open.spotify.com/track/4dlPsqaKyDAejnHoc1fPCK) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Kill The Lights](https://open.spotify.com/album/6M78DoFWSX4UYlfXf5n7B0) | 3:00 | 2024-01-04 | 2024-01-12 |
 | [kill without the k.](https://open.spotify.com/track/4VCmobNt8wZ29jqArqdlAn) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [kill without the k.](https://open.spotify.com/album/3MfiqHVyJkXWL6YCI7Alhd) | 3:41 | 2024-01-25 | 2024-02-16 |
@@ -1744,6 +1744,7 @@
 | [The Narcissist](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:05 | 2023-10-12 | 2023-10-27 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-18 | 2023-09-15 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-04-29 |
+| [The Observer](https://open.spotify.com/track/4CZMQE6ygZXVD74FVjtziM) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [How Did I Get Here? \(Extended Edition\)](https://open.spotify.com/album/6Cm0k3yNeqYgifY6FMmCey) | 2:50 | 2026-05-07 |  |
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-06 | 2024-07-19 |
 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 | 2023-07-27 | 2023-08-04 |
 | [The Rabbi](https://open.spotify.com/track/6YokS9sLLeB1bLBq1Szcc9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren \(Deluxe\)](https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg) | 2:43 | 2023-07-27 | 2023-08-04 |
@@ -1857,7 +1858,7 @@
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-25 | 2024-05-03 |
 | [V.O.V](https://open.spotify.com/track/4rhp0vc9pjyLlLdOXGkWbt) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [V.O.V](https://open.spotify.com/album/4wt8jyHUjdtjM7ghPIIZE0) | 3:09 | 2024-02-29 | 2024-05-03 |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-09 | 2024-02-09 |
-| [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 | 2026-05-07 |  |
+| [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 | 2026-05-07 | 2026-05-10 |
 | [vampire diaries](https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [vampire diaries](https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O) | 2:35 | 2025-07-10 | 2025-09-27 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-20 | 2024-05-03 |
 | [Vegas Strip](https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 4:25 | 2023-11-02 | 2023-11-10 |

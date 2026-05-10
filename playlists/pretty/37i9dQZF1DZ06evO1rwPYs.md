@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,375 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,384 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 21 | [Azúcar \(feat\. Arturo Sandoval\)](https://open.spotify.com/track/4PMkN6hqPNlvEXSKxqEUSB) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Azúcar \(feat\. Arturo Sandoval\)](https://open.spotify.com/album/75WV3Y5nWfQxSa40fixkPl) | 4:47 |
 | 22 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:30 |
 | 23 | [Toro Mata \- Remastered 2024](https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia & Johnny \(Remastered 2024\)](https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0) | 5:42 |
-| 24 | [Celia](https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 4:03 |
-| 25 | [El Yerberito Moderno](https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Grandes Damas](https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8) | 2:43 |
+| 24 | [El Yerberito Moderno](https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Grandes Damas](https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8) | 2:43 |
+| 25 | [Celia](https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 4:03 |
 | 26 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 | 27 | [Vasos Vacios](https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Duets](https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE) | 4:38 |
 | 28 | [Plazos Traicioneros \- Remastered 2024](https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Only They Could Have Made This Album \(Remastered 2024\)](https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 |
 | 50 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 
-Snapshot ID: `afvWAAAAAABZmm55ulu19Y+LvxDOHCrE`
+Snapshot ID: `af0ngAAAAABAmGJR/I3oQ/q22PLfNcSE`

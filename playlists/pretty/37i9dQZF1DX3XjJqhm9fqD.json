@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 101112,
+  "num_followers": 101132,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Agua (with Na\u00efka)",
         "url": "https://open.spotify.com/album/7fDmXJb3LpyezysooxEbpS"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 160677,
       "name": "Agua (with Na\u00efka)",
       "url": "https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "PWOTEJE M",
-        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Tous Ces D\u00e9tails",
         "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 144371,
       "name": "Aidez Moi",
       "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "PWOTEJE M",
+        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Bizou",
+      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 238524,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Bizou",
-        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
-      },
-      "artists": [
-        {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Bizou",
-      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Map Rap Ak Ke Kontan",
-        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Veye Priye",
-      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Love a Plein Temps",
         "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 200816,
       "name": "Love a Plein Temps",
       "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Map Rap Ak Ke Kontan",
+        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Veye Priye",
+      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
       "artists": [
         {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1415,22 +1419,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Rasanbleman (Red Moon)",
-        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
       "artists": [
         {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
         }
       ],
-      "duration_ms": 400388,
-      "name": "Ayizan",
-      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
-      },
-      "artists": [
-        {
-          "name": "\u00c4SHH",
-          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "FENOMENAL",
-      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
+      },
+      "artists": [
+        {
+          "name": "\u00c4SHH",
+          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "PA KRIYE",
         "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "JESSIE",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "JESSIE",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Fete Nap Fete Ti Babas (Live)",
+        "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
+      },
+      "artists": [
+        {
+          "name": "Haitian sky",
+          "url": "https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Fete Nap Fete Ti Babas - Live",
+      "url": "https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 155637,
       "name": "Koup\u00e9",
       "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Fete Nap Fete Ti Babas (Live)",
-        "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
-      },
-      "artists": [
-        {
-          "name": "Haitian sky",
-          "url": "https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Fete Nap Fete Ti Babas - Live",
-      "url": "https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue"
     },
     {
       "added_at": "2025-07-25 04:00:50",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,750 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,760 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [蘑菇濃湯](https://open.spotify.com/track/1FzFfOrPoeFmVqOFKSwWoY) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [蘑菇濃湯](https://open.spotify.com/album/1odVwjDiUHoAixDprKRpmw) | 1:47 |
 | 2 | [小公視陪你唱跳過歡樂假期\_你好歌 \- 新年快樂版](https://open.spotify.com/track/3xvYdR9AW5RAnyF3jY5RZ6) | [戴蕙心](https://open.spotify.com/artist/2uOpwOsxQaY05mfUxdzv35) | [小公視陪你唱跳過歡樂假期\_你好歌 \(新年快樂版\)](https://open.spotify.com/album/6l3tfQXMR63ZmptIIldXBH) | 1:26 |
 | 3 | [一閃一閃亮晶晶](https://open.spotify.com/track/37naxFJJJpEFu4laCET8Pu) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 1:26 |
-| 4 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
-| 5 | [听我说谢谢你](https://open.spotify.com/track/1UIblrzE4VmVJeRdKr2ZB2) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37) | [听我说谢谢你](https://open.spotify.com/album/77rhCWs3hsXptss3sMPQ2e) | 3:07 |
+| 4 | [听我说谢谢你](https://open.spotify.com/track/1UIblrzE4VmVJeRdKr2ZB2) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37) | [听我说谢谢你](https://open.spotify.com/album/77rhCWs3hsXptss3sMPQ2e) | 3:07 |
+| 5 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 |
 | 6 | [黑白咕咕雞](https://open.spotify.com/track/6Mp3bzcZ2YuIIYmFx2j0jq) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [黑白咕咕雞](https://open.spotify.com/album/0HdEzXvV5KFGGOpgHYkbt0) | 2:09 |
 | 7 | [卡加布烈島](https://open.spotify.com/track/6QDyP4yKuqKfcK992yJxfB) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名5 郊遊點點名](https://open.spotify.com/album/0bMrkq1mG5YycwSiY4kn83) | 2:38 |
 | 8 | [大象你的鼻子怎麼那麼長](https://open.spotify.com/track/4yhadmYksSAZeEnsOdLpuy) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [小寶貝經典兒歌｜經典兒歌唱唱跳跳｜寶寶放電兒歌｜一起來跳舞吧！](https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA) | 1:40 |

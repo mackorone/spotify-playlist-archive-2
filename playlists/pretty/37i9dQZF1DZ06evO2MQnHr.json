@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAD6ObOnK146XRKUJXffIG20",
+  "snapshot_id": "af0ngAAAAACo/+YQqDf+EXRjyz/vAgxE",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unraveling",
-        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Unraveling",
-      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unraveling",
+        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Unraveling",
+      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You'll Think Of Me",
         "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
       },
@@ -335,30 +335,6 @@
       "duration_ms": 247026,
       "name": "You'll Think Of Me",
       "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 222022,
-      "name": "To Have You Stay",
-      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
     },
     {
       "added_at": null,
@@ -395,6 +371,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 222022,
+      "name": "To Have You Stay",
+      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
@@ -407,30 +407,6 @@
       "duration_ms": 170626,
       "name": "One House Down (from the girl next door)",
       "url": "https://open.spotify.com/track/4wk1APZHRP9kmb1KQqQKHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
-        }
-      ],
-      "duration_ms": 212121,
-      "name": "One and Only You (Reprise)",
-      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
     },
     {
       "added_at": null,
@@ -467,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+        }
+      ],
+      "duration_ms": 212121,
+      "name": "One and Only You (Reprise)",
+      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 202920,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        }
-      ],
-      "duration_ms": 216270,
-      "name": "What If I Am",
-      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        }
+      ],
+      "duration_ms": 216270,
+      "name": "What If I Am",
+      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONE HOUSE DOWN (from the girl next door)",
         "url": "https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 192373,
       "name": "Bar Fight",
       "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
-      },
-      "artists": [
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 223289,
-      "name": "Have You Ever Had so Much Fun",
-      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 236426,
       "name": "Ready to Say Goodnight",
       "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 223289,
+      "name": "Have You Ever Had so Much Fun",
+      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
     },
     {
       "added_at": null,

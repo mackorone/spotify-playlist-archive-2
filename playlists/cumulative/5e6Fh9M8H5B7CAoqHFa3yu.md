@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,198 songs - 5 day 10 hr 5 min
+2,201 songs - 5 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Confessions \(Everything\)](https://open.spotify.com/track/76aFw99H01hPXzeFWwTOr5) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn), [Maria Blatz](https://open.spotify.com/artist/3ykTHboOuDmAKdOzwLSds0) | [Confessions \(Everything\)](https://open.spotify.com/album/2dOigKRlAdSsQt9yDbjJEP) | 2:34 | 2025-11-15 |  |
 | [Confusion](https://open.spotify.com/track/5RcXrzmZ2dbmwu1xxctC3B) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Confusion](https://open.spotify.com/album/6QNUAr2NGrwAuq65CPUmuj) | 2:27 | 2025-11-03 |  |
 | [Confusion](https://open.spotify.com/track/0Zs5SeNJK6OTADZZg5wDja) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF), [Carmelo Vintrici](https://open.spotify.com/artist/1IW1xEwO83b8CXSOxamoKq), [Giuseppe Cucuzza](https://open.spotify.com/artist/1hKZDCCdmSZUcvSwLTKeIu) | [Confusion](https://open.spotify.com/album/5Ek06Adn8rwha2oByixXK8) | 1:35 | 2024-11-13 |  |
-| [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 | 2026-03-06 |  |
+| [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:40 | 2026-03-06 |  |
 | [Conmigo que con el](https://open.spotify.com/track/02EHFB1V8mWEpCfiAKmiKW) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Conmigo que con el](https://open.spotify.com/album/6Gx4r64C63rQK4CGmL23GP) | 2:59 | 2026-03-12 |  |
 | [Conquering Brass](https://open.spotify.com/track/0G1SUN5paIIxAwcbgsTnMl) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Samson Benji](https://open.spotify.com/artist/4yh2z9mo5F6S5cQC363v2G) | [Brass Echo Chamber](https://open.spotify.com/album/5BxaCoVsHJg3Vj2xXFAKsl) | 3:20 | 2024-05-01 |  |
 | [Consciente](https://open.spotify.com/track/3Bx9W1P1J9mfGtxtlBnY5g) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 3:05 | 2026-03-15 |  |
@@ -566,6 +566,7 @@
 | [Empty Echoes](https://open.spotify.com/track/6TYpfgqFKYjAfcto0cFsVO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Empty Echoes](https://open.spotify.com/album/6Wb2yT3In6O036xnY5Cmi5) | 2:12 | 2025-08-26 |  |
 | [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 | 2025-12-29 |  |
 | [Empty Throne](https://open.spotify.com/track/3UEk3j2pMcEqZylMLU02CY) | [J&J vocals](https://open.spotify.com/artist/6uHI6VGdtHbXFWY5STBSSr) | [Empty Throne](https://open.spotify.com/album/7DiX78iL5AVcU05Cos49A2) | 2:49 | 2025-06-23 |  |
+| [En Garde!](https://open.spotify.com/track/4TL8d01t2jh9CMhcWCh43C) | [Gato y Perro](https://open.spotify.com/artist/07cD6Ajjuy7dMC6mNr5CCi) | [En Garde!](https://open.spotify.com/album/4L8ghnDY247vJCGG3xI4dB) | 3:23 | 2026-05-09 |  |
 | [En Las Buenas y en las malas](https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [En Las Buenas y en las malas](https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv) | 2:52 | 2026-03-11 |  |
 | [En ti](https://open.spotify.com/track/5PIF9tnyyUOvzwEq9BNTge) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 4:11 | 2026-03-15 |  |
 | [En ti](https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [En ti](https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA) | 4:11 | 2026-04-12 |  |
@@ -1229,7 +1230,7 @@
 | [Moon's Gaze](https://open.spotify.com/track/3l7kWDlEC4c1umworaXNdq) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:26 | 2024-09-25 |  |
 | [Moonlight](https://open.spotify.com/track/4ElVTmsHkWKmF4PWAfCi9K) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 6:06 | 2024-07-06 |  |
 | [Moonlight Bloom](https://open.spotify.com/track/5gS25BVjmlZq10tJZm3CWA) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Moonlight Bloom](https://open.spotify.com/album/1HTUjxY0Zod7KzTAqiOa0W) | 1:53 | 2025-09-15 |  |
-| [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:12 | 2026-02-27 |  |
+| [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:13 | 2026-02-27 |  |
 | [Moonlit Skip](https://open.spotify.com/track/0nA97rGpGHOMgas8vb2H8j) | [Lunar Parachute](https://open.spotify.com/artist/2dyy57lsy2XPve44S6k94w) | [Secret In The Twilight](https://open.spotify.com/album/6rlx6IQrbfTGuWz8ak7Thu) | 3:19 | 2025-07-15 |  |
 | [moonlit solitude](https://open.spotify.com/track/23o52EBzfUm7pCWdDouigk) | [Hey D!](https://open.spotify.com/artist/0QLILgoSRvw2OB8sosyyTh) | [moonlit solitude](https://open.spotify.com/album/7ilapFeivTjRfTdPlJvRHN) | 2:34 | 2025-09-08 |  |
 | [Moonsteppa](https://open.spotify.com/track/2MPpkxSaGj0TZYiClpL2SS) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Moonsteppa](https://open.spotify.com/album/15mEEqT5CD79q5apP4mK0M) | 3:50 | 2024-03-10 |  |
@@ -1711,6 +1712,7 @@
 | [Simbiosi](https://open.spotify.com/track/2E7Niwt0ctX2UFFFkOHSJy) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Simbiosi](https://open.spotify.com/album/3m9bpUA8SKQlad2VpZM0k4) | 3:09 | 2023-05-21 |  |
 | [Simon](https://open.spotify.com/track/2YkxXQwRIyCO8s0gbFNHVp) | [Christian Hilo](https://open.spotify.com/artist/0FSEh0hzHpwxOOJhGO3QB3) | [Simon](https://open.spotify.com/album/1Yezyrl1mfS7bxvgXARgIs) | 4:02 | 2025-06-24 |  |
 | [Simona \- Unidub Estereo Remix](https://open.spotify.com/track/6WqUbj2PkS2u2MssYSM9LL) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g), [Unidub Estereo](https://open.spotify.com/artist/1JVnlBRwqVfiMv6Xcg51Ts) | [Sun Is Dub](https://open.spotify.com/album/58sLyCLQWnNKhT0zozI9Bc) | 4:05 | 2024-03-10 |  |
+| [Simulating Tomorrow](https://open.spotify.com/track/51yR2NONayHELQ0lAklmaV) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 5:47 | 2026-05-09 |  |
 | [Sin aire](https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 | 2026-03-15 |  |
 | [Sin Condicion](https://open.spotify.com/track/4dCUcPxg14Ax3B4SEjAN4d) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Sin Condicion](https://open.spotify.com/album/2Q0IFbyJMt0x6lX9WWmnWW) | 2:24 | 2026-03-12 |  |
 | [Sisa Cahaya](https://open.spotify.com/track/2MvWTckCHPDDEB8LsOuqb4) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Jebah](https://open.spotify.com/album/3dJFBa3rJi3tuscBOa6QSE) | 3:45 | 2026-01-09 |  |
@@ -2024,6 +2026,7 @@
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2023-03-15 |  |
 | [Used to Be Us](https://open.spotify.com/track/3ItonadAKb8Geav45ryoEx) | [Euclid Aguilar](https://open.spotify.com/artist/6IZqOzOISYVL9HkRykSz0j) | [Used to Be Us](https://open.spotify.com/album/4GoVabsZrc2ekcGErFxdov) | 2:23 | 2025-10-15 |  |
 | [Utopía](https://open.spotify.com/track/6MumbXiQavTkKqDJxmFLet) | [Lactuca Sativa](https://open.spotify.com/artist/0f6kNvxTGK9uwUUB5fuRjK) | [Utopía](https://open.spotify.com/album/3gwGTgtSA8D34QOebUkELo) | 4:05 | 2025-07-28 |  |
+| [V Prozu Nie Leziet](https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [V Prozu Nie Leziet](https://open.spotify.com/album/1Bb35YX1lZYnNoovFIyLsR) | 1:45 | 2026-05-09 |  |
 | [V1be](https://open.spotify.com/track/5JX5JRwufsmdNQEbFLSn11) | [S4HIB](https://open.spotify.com/artist/1WAijlfiS2rmiMlOOLboWY) | [V1be](https://open.spotify.com/album/0a6p8ndVUTZxmjbpEciSW2) | 5:34 | 2025-03-30 |  |
 | [Vado su](https://open.spotify.com/track/6QWZWZXDLl2QNwACeGrZdD) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:30 | 2023-03-15 |  |
 | [VAMOS](https://open.spotify.com/track/23yd0tixP0NzMFdEGSdsKz) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [VAMOS](https://open.spotify.com/album/2ZGsr50sVh5wUciaoTbVrz) | 2:15 | 2025-09-19 |  |

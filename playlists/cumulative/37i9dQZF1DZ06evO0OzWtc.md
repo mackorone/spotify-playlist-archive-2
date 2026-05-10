@@ -4,7 +4,7 @@
 
 > This is Sebastian Esquivel\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 22 min
+48 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Cargo del Terreno](https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [A Cargo del Terreno](https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG) | 2:22 | 2024-08-08 |  |
 | [Adiamantado](https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Adiamantado](https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1) | 2:59 | 2024-08-08 |  |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-08-08 |  |
+| [Así Fue](https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Así Fue](https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ) | 3:45 | 2026-05-10 |  |
 | [Bachata Bélica](https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Bachata Bélica](https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02) | 3:15 | 2025-02-15 |  |
 | [Bachata Bélica](https://open.spotify.com/track/5AHWjW3OuZqmv1peHqJdpC) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Bachata Bélica](https://open.spotify.com/album/40KVbEIaxXE94S7N1kXGra) | 3:15 | 2025-01-20 | 2025-02-15 |
 | [Bagatelle](https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Bagatelle](https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0) | 4:19 | 2024-08-08 |  |

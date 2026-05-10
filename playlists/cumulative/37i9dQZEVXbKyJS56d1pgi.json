@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 186922,
       "name": "Amar Pela Metade",
       "url": "https://open.spotify.com/track/1UQvRmRhbX3WxSLW3NbUIU"
@@ -6511,6 +6511,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177813,
+      "name": "Casar \u00c9 pra Esquecer",
+      "url": "https://open.spotify.com/track/2vXoKaCmszk4v7BBltBh5j"
+    },
+    {
+      "album": {
         "name": "Casar \u00c9 pra Esquecer",
         "url": "https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or"
       },
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 177813,
       "name": "Casar \u00c9 pra Esquecer",
       "url": "https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms"
@@ -21062,7 +21080,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 196000,
       "name": "LV",
       "url": "https://open.spotify.com/track/02bMpRKtEOJQi4uQL6Ms38"
@@ -28291,6 +28309,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Pobre Ex-Namorado",
+      "url": "https://open.spotify.com/track/0qSqzZpoa2Pl2lAxFTuwDX"
+    },
+    {
+      "album": {
         "name": "Pobre Ex-Namorado",
         "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
       },
@@ -28302,7 +28338,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 173613,
       "name": "Pobre Ex-Namorado",
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
@@ -29328,10 +29364,28 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 160625,
       "name": "P\u00f4r do Sol",
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Se Estraga uma Casa",
+        "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/4WUChWgQYcObDAFZTzehns"
     },
     {
       "album": {

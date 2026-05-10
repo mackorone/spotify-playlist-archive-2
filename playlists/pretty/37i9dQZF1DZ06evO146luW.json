@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 51244,
+  "num_followers": 51274,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAC76uPn6ckkG3yE9Uj+L9C7",
+  "snapshot_id": "af0ngAAAAABSb0yLmIQ7LqHy18+lpPSJ",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+        "name": "Hurts Like You & Dollar and a Bottle",
+        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 241972,
-      "name": "Kuntry & Wistern",
-      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
+      "duration_ms": 195332,
+      "name": "Hurts Like You",
+      "url": "https://open.spotify.com/track/1peocLBzSV3Nl3VI0ZSQcr"
     },
     {
       "added_at": null,
@@ -359,6 +359,38 @@
       "duration_ms": 224704,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 241972,
+      "name": "Kuntry & Wistern",
+      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 211277,
+      "name": "Good Times (Bonus Track)",
+      "url": "https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi"
     },
     {
       "added_at": null,
@@ -383,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
         {
@@ -392,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 211277,
-      "name": "Good Times (Bonus Track)",
-      "url": "https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi"
+      "duration_ms": 210576,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
     },
     {
       "added_at": null,
@@ -411,22 +443,6 @@
       "duration_ms": 198313,
       "name": "Cold & Alone",
       "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 210576,
-      "name": "I'm Done",
-      "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
     },
     {
       "added_at": null,
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Werewolf",
-        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
       },
       "artists": [
         {
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 222578,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
     },
     {
       "added_at": null,
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
       },
       "artists": [
         {
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 194621,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
+      "duration_ms": 222578,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
     },
     {
       "added_at": null,
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+        "name": "Hurts Like You & Dollar and a Bottle",
+        "url": "https://open.spotify.com/album/5Kpfd1RzsiKuWxlppISQUD"
       },
       "artists": [
         {
@@ -816,29 +832,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 239254,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Six String Sorrow Sessions",
-        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 288128,
-      "name": "Gunshy - Rerecorded",
-      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
+      "duration_ms": 228327,
+      "name": "Dollar and a Bottle",
+      "url": "https://open.spotify.com/track/0MBsD5J5viyyjD4txeUdva"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

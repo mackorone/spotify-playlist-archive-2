@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 251691,
+  "num_followers": 251690,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "Ordinary Drugs",
         "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 421700,
       "name": "These Are Just Places To Me Now",
       "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Roches blanches",
-        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
       },
       "artists": [
         {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         }
       ],
-      "duration_ms": 156298,
-      "name": "Roches blanches",
-      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Pullin'",
-        "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 220150,
-      "name": "Pullin'",
-      "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
+        "name": "Pullin'",
+        "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 220150,
+      "name": "Pullin'",
+      "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
       },
@@ -1227,6 +1227,42 @@
       "duration_ms": 303130,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1251,42 +1287,6 @@
       "duration_ms": 138997,
       "name": "Keep It Exciting",
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
-        "name": "L.I.F.E",
-        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 449093,
-      "name": "L.I.F.E",
-      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "If You",
-        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        }
-      ],
-      "duration_ms": 200348,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "Since I Left You",
         "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 262840,
       "name": "Since I Left You",
       "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Waiting So Long",
-        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        },
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 234140,
-      "name": "Waiting So Long",
-      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -1643,34 +1623,22 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+        "name": "Waiting So Long",
+        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
-        "name": "you know",
-        "url": "https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0"
-      },
-      "artists": [
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        },
         {
-          "name": "Giulia Tess",
-          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 251746,
-      "name": "you know",
-      "url": "https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh"
+      "duration_ms": 234140,
+      "name": "Waiting So Long",
+      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1695,6 +1663,38 @@
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "you know",
+        "url": "https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "you know",
+      "url": "https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2026-05-07 22:04:24",
@@ -1791,34 +1791,6 @@
     {
       "added_at": "2026-05-07 22:04:24",
       "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Suni MF",
-          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
-        },
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 215458,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
-    },
-    {
-      "added_at": "2026-05-07 22:04:24",
-      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
       },
@@ -1859,6 +1831,34 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-05-07 22:04:24",
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Suni MF",
+          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 215458,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
     },
     {
       "added_at": "2026-05-07 22:04:24",

@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,744 songs - 3 day 12 hr 58 min
+1,747 songs - 3 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Enter the Dormancy](https://open.spotify.com/track/4G3L22OyCT4E9cfoyNi3eE) | [terje jaakonen](https://open.spotify.com/artist/7KHBvqZmZsQsu1Hg9eXcGh) | [Enter the Dormancy](https://open.spotify.com/album/2BhVeN2ETcSGQoRlGURaXs) | 3:23 | 2024-02-07 | 2024-03-21 |
 | [Enter The Land Of Dreams](https://open.spotify.com/track/0L4f2UeOE4yBmN12wQZEMf) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Enter The Land Of Dreams](https://open.spotify.com/album/1uEzMKeaDNR6R9BMnFXRMe) | 2:48 | 2020-10-20\* | 2021-01-21 |
 | [Entity](https://open.spotify.com/track/6STBNWnDbWvUH2JE9ujHqc) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Entity](https://open.spotify.com/album/1GNSvKhFfsruNxhHY873f1) | 2:42 | 2025-11-11 |  |
+| [Envisage](https://open.spotify.com/track/1wm9NL0JQsyXAcKeAMEIrN) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Envisage](https://open.spotify.com/album/7KayPxZbS1PQCo3ynADhQa) | 2:39 | 2026-05-09 |  |
 | [Eon](https://open.spotify.com/track/1lEmgReLHaCJHJwG4OCo13) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Eon](https://open.spotify.com/album/4immjEnSICjAhdzMp48B0H) | 2:52 | 2024-02-07 | 2024-03-07 |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2021-05-04 | 2021-08-17 |
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-26 | 2024-04-06 |
@@ -1612,6 +1613,7 @@
 | [Tundra](https://open.spotify.com/track/7s8dqOwLRy0Db313r7VmjS) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Tundra](https://open.spotify.com/album/24cFjGJmo7OciWrlk8liLr) | 2:34 | 2022-09-13 | 2024-02-08 |
 | [Turiya](https://open.spotify.com/track/5XNkokCLFOgQxFN6dFrbfW) | [Jan Garlow](https://open.spotify.com/artist/7ayyfLsqbafl12N6rdELCe) | [Turiya](https://open.spotify.com/album/30AEK7aM2p8QYCo7nmwV3T) | 2:48 | 2025-06-03 | 2026-02-28 |
 | [Turndown Service](https://open.spotify.com/track/56y8h73SZXnIzR0fGSQlca) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Turndown Service](https://open.spotify.com/album/1b9QKWx1CGfZ610vf6GHnj) | 1:55 | 2021-01-21 | 2023-06-03 |
+| [Twilight Arrival](https://open.spotify.com/track/4ko0z8M4NCEV8kjrfHNZ7p) | [Aemilune](https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9) | [Twilight Arrival](https://open.spotify.com/album/1quEivfmAMz2biE9y8FvLp) | 2:34 | 2026-05-09 |  |
 | [Twine](https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Twine](https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX) | 3:05 | 2024-05-20 | 2025-02-05 |
 | [Twinkle](https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Twinkle](https://open.spotify.com/album/2RpPkM7oYQ2Zt0TEW7Hs1W) | 2:33 | 2024-01-17 | 2024-05-05 |
 | [Tükörsima](https://open.spotify.com/track/0DKa36fiJjoRInV60vHWry) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Tükörsima](https://open.spotify.com/album/2O6H8M5z0qaJoRLu67Besg) | 4:18 | 2020-10-20\* | 2021-06-16 |
@@ -1680,6 +1682,7 @@
 | [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 4:14 | 2020-10-20\* | 2021-05-04 |
 | [Visit](https://open.spotify.com/track/2shMUWiutqxULZqBxNbJ9W) | [Visitors Not Strangers](https://open.spotify.com/artist/3jiDtQvnpmxeUCapyKvJv6) | [Visit](https://open.spotify.com/album/5KDEix44VycShIM4fl3EKU) | 3:41 | 2020-10-20\* | 2021-03-14 |
 | [Vita Tranquilla](https://open.spotify.com/track/6jB8Sln3EZcybYKOJJg77v) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Vita Tranquilla](https://open.spotify.com/album/3ZsMmRjVpTqGWjWjhdZxcL) | 2:45 | 2024-03-06 | 2024-03-21 |
+| [Vivid colors](https://open.spotify.com/track/4TcLosbIc3K18V47dpEauk) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Vivid colors](https://open.spotify.com/album/7cXa1hyDZZv87NDB7JzpLG) | 2:37 | 2026-05-09 |  |
 | [Voor altijd de jouwe](https://open.spotify.com/track/6k5T8UjxnZAi2l1542vgBP) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Voor altijd de jouwe](https://open.spotify.com/album/49DsUg2mX81bSF7ZZWjXO6) | 3:43 | 2021-05-04 | 2021-09-22 |
 | [Vorsichtig](https://open.spotify.com/track/7li6Hcl94re5MW3TRMSGJi) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Vorsichtig](https://open.spotify.com/album/71YZz16qh5yA50FQNp5mGs) | 3:16 | 2021-09-03 | 2022-06-25 |
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2020-10-20\* | 2020-12-12 |

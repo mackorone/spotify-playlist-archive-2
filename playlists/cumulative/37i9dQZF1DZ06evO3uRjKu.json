@@ -122,6 +122,24 @@
     {
       "album": {
         "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Bella Mujer",
+      "url": "https://open.spotify.com/track/4DCev1ZJxpVff4aOXmyN7K"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
         "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
@@ -132,7 +150,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 206133,
       "name": "Bella Mujer",
       "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 192800,
       "name": "Carcaman",
       "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
@@ -1460,6 +1478,24 @@
     {
       "album": {
         "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/3hNOEpLzOEpBOwKp4NbZ0k"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/0x9DcGr4xIxgbqcmjXzj1j"
+    },
+    {
+      "album": {
+        "name": "Un Minuto Con Vos",
         "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
       "artists": [
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 245467,
       "name": "Un Minuto Con Vos",
       "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 195186,
       "name": "Vamos Linda",
       "url": "https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu"

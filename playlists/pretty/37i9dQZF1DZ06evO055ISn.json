@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 157915,
+  "num_followers": 158147,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABuuTMgDawSzd4lOHqlHnGf",
+  "snapshot_id": "af0ngAAAAACJ3nfidp+mBcPEhBq/1fbK",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ordinary (Wedding Version)",
+        "url": "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary - Wedding Version",
+      "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 183399,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More I Love You",
-        "url": "https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 216935,
-      "name": "One More I Love You",
-      "url": "https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO"
     },
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One More I Love You",
+        "url": "https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 216935,
+      "name": "One More I Love You",
+      "url": "https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 174406,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Could You (Be OK)",
         "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 197594,
       "name": "How Could You (Be OK)",
       "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remember Me Happy",
-        "url": "https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 141096,
-      "name": "Remember Me Happy",
-      "url": "https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO"
     },
     {
       "added_at": null,
@@ -271,8 +271,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming Underwater",
-        "url": "https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan"
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remember Me Happy",
+        "url": "https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq"
       },
       "artists": [
         {
@@ -280,9 +300,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 146093,
-      "name": "Screaming Underwater",
-      "url": "https://open.spotify.com/track/2USXaHnQnQdLklRluWDNwd"
+      "duration_ms": 141096,
+      "name": "Remember Me Happy",
+      "url": "https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO"
     },
     {
       "added_at": null,
@@ -315,6 +335,22 @@
       "duration_ms": 168056,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming Underwater",
+        "url": "https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "Screaming Underwater",
+      "url": "https://open.spotify.com/track/2USXaHnQnQdLklRluWDNwd"
     },
     {
       "added_at": null,

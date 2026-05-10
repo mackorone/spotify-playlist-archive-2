@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 11879,
+  "num_followers": 12046,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Fontanelle",
-        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Bruise Violet",
-      "url": "https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "NIIS WORLD",
         "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 171070,
       "name": "The Bow",
       "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Fontanelle",
+        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Bruise Violet",
+      "url": "https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax"
     },
     {
       "added_at": "2026-03-05 23:16:41",

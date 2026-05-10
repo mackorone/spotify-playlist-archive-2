@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-507 songs - 1 day 5 hr 33 min
+509 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Confusion](https://open.spotify.com/track/4DsphrptpZrdBEbDV8Zrqb) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:21 | 2026-01-17 |  |
 | [Coppelia](https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 4:18 | 2026-04-26 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-05-02 |  |
+| [Cubibibibism](https://open.spotify.com/track/7sh0ZVMLYh44tuFWHxLIA9) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K) | [Cubibibibism](https://open.spotify.com/album/2dWB8ZDmHav9YpD0snjXDW) | 3:23 | 2026-05-09 |  |
 | [Cubism](https://open.spotify.com/track/6W3beEMj18hHp1wDlqGcbt) | [OMGkawaiiAngel](https://open.spotify.com/artist/5VVyj1Rj1VhcoBUrGC3SjG), [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [Haraguchi Sasuke](https://open.spotify.com/artist/290RfJGAmzANeDRd0ArLOj) | [Cubism](https://open.spotify.com/album/7hzpkAjq18QBwntRZ1m3O1) | 2:27 | 2025-09-11 |  |
 | [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 | 2025-06-29 |  |
 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
@@ -87,6 +88,7 @@
 | [Disconnected](https://open.spotify.com/track/1GCjGQ2zBYumwdSF3uVCfX) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload: Episode Aigis Original Soundtrack](https://open.spotify.com/album/7Ic5fXfxRtYiRgyqNj1iyN) | 4:46 | 2024-09-10 |  |
 | [Dive Back In Time \- 动画《时光代理人》片头曲](https://open.spotify.com/track/5MDff48720BZmPEOs3kHpF) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [时光代理人 \(动画《时光代理人》原声带\)](https://open.spotify.com/album/21PcXK6X2irUZ1KSNwk3jy) | 2:54 | 2023-03-21 |  |
 | [Dokuhaku](https://open.spotify.com/track/2y3kuBk487S1ulblqdsn5U) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Dokuhaku](https://open.spotify.com/album/00oKGeZ5eQz6b1KmRcevPq) | 4:03 | 2026-01-17 | 2026-03-02 |
+| [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 | 2026-05-09 |  |
 | [Don't](https://open.spotify.com/track/6oQA2z2C8pfDSeVcxjItvq) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload: Episode Aigis Original Soundtrack](https://open.spotify.com/album/2wAoMMXl5XheXNYzwFHg1x) | 2:45 | 2024-09-07 |  |
 | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2024-05-20 |  |
 | [Dramaturgy](https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:58 | 2023-01-29 |  |

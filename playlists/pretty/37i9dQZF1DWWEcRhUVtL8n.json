@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1670728,
+  "num_followers": 1670654,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
-    },
-    {
       "added_at": "2026-04-10 04:50:19",
       "album": {
         "name": "Cruel World",
@@ -611,6 +595,22 @@
       "duration_ms": 200874,
       "name": "Blue Dream",
       "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 153101,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
-    },
-    {
       "added_at": "2026-05-01 04:03:56",
       "album": {
         "name": "thank you i guess",
@@ -695,18 +679,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+      "duration_ms": 153101,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -723,6 +707,22 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2026-04-03 04:02:32",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
     },
     {
+      "added_at": "2026-05-01 04:03:56",
+      "album": {
+        "name": "Crutch",
+        "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 211537,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
+    },
+    {
       "added_at": "2026-04-24 04:01:26",
       "album": {
         "name": "Vampire at the Beach",
@@ -867,22 +883,6 @@
       "duration_ms": 253675,
       "name": "Rabbits Can Swim",
       "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
-    },
-    {
-      "added_at": "2026-05-01 04:03:56",
-      "album": {
-        "name": "Crutch",
-        "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 211537,
-      "name": "Crutch",
-      "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1093,6 +1093,22 @@
       "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
     },
     {
+      "added_at": "2026-05-01 04:03:56",
+      "album": {
+        "name": "With You Around",
+        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 233218,
+      "name": "With You Around",
+      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Paradise Now & Forever",
@@ -1123,22 +1139,6 @@
       "duration_ms": 187720,
       "name": "The Lady on the Moon",
       "url": "https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu"
-    },
-    {
-      "added_at": "2026-05-01 04:03:56",
-      "album": {
-        "name": "With You Around",
-        "url": "https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "With You Around",
-      "url": "https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
+      "added_at": "2026-04-24 04:01:26",
+      "album": {
+        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
+        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "In Every Lifetime",
+      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
+    },
+    {
       "added_at": "2026-04-03 04:34:33",
       "album": {
         "name": "Reputation / Bobby",
@@ -1195,22 +1211,6 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
-    },
-    {
-      "added_at": "2026-04-24 04:01:26",
-      "album": {
-        "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
-        "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "In Every Lifetime",
-      "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1277,38 +1277,6 @@
       "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
-      "added_at": "2026-04-03 04:02:32",
-      "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Being There",
-        "url": "https://open.spotify.com/album/7FQsBR9c4vvmUwZleFAy4h"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 262886,
-      "name": "Being There",
-      "url": "https://open.spotify.com/track/771ruvsgyt1P1AO4raBel0"
-    },
-    {
       "added_at": "2026-04-10 04:50:19",
       "album": {
         "name": "Love Hate (feat. Thomas Day)",
@@ -1331,18 +1299,34 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+        "name": "Being There",
+        "url": "https://open.spotify.com/album/7FQsBR9c4vvmUwZleFAy4h"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
         }
       ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
+      "duration_ms": 262886,
+      "name": "Being There",
+      "url": "https://open.spotify.com/track/771ruvsgyt1P1AO4raBel0"
+    },
+    {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1361,22 +1345,6 @@
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
       "added_at": "2026-04-24 04:01:26",
       "album": {
         "name": "Sick of Staying",
@@ -1393,6 +1361,22 @@
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
     },
     {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
+    },
+    {
       "added_at": "2026-04-24 04:01:26",
       "album": {
         "name": "RODEO CLOWN",
@@ -1407,38 +1391,6 @@
       "duration_ms": 153764,
       "name": "RODEO CLOWN",
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "I Lit The Fire",
-        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
-      },
-      "artists": [
-        {
-          "name": "Sara Beth",
-          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
-        }
-      ],
-      "duration_ms": 154244,
-      "name": "I Lit The Fire",
-      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Aint It Such A Bitch",
-        "url": "https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 206874,
-      "name": "Aint It Such A Bitch",
-      "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
     },
     {
       "added_at": "2026-04-24 04:01:26",
@@ -1459,18 +1411,50 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "I Lit The Fire",
+        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Sara Beth",
+          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+      "duration_ms": 154244,
+      "name": "I Lit The Fire",
+      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Aint It Such A Bitch",
+        "url": "https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 206874,
+      "name": "Aint It Such A Bitch",
+      "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1537,20 +1521,36 @@
       "url": "https://open.spotify.com/track/0GmrUsrepPZhpJEXES70UK"
     },
     {
-      "added_at": "2026-03-27 05:14:04",
+      "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Kiss&Tell",
-        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
       },
       "artists": [
         {
-          "name": "GUINEVERE",
-          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 225477,
-      "name": "Kiss&Tell",
-      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "added_at": "2026-05-01 04:03:56",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1585,20 +1585,20 @@
       "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
     },
     {
-      "added_at": "2026-05-01 04:03:56",
+      "added_at": "2026-03-27 05:14:04",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
+        "name": "Kiss&Tell",
+        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
       "artists": [
         {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+          "name": "GUINEVERE",
+          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
         }
       ],
-      "duration_ms": 172586,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
+      "duration_ms": 225477,
+      "name": "Kiss&Tell",
+      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1653,20 +1653,20 @@
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
-      "added_at": "2026-03-20 04:00:48",
+      "added_at": "2026-04-24 04:01:26",
       "album": {
-        "name": "Texas Baby",
-        "url": "https://open.spotify.com/album/2RohVNCqHRA2YyoHBhGPiO"
+        "name": "Don't Kill the Vibe",
+        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
       },
       "artists": [
         {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+          "name": "Jordan Joy",
+          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
         }
       ],
-      "duration_ms": 147106,
-      "name": "Texas Baby",
-      "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
+      "duration_ms": 262459,
+      "name": "Don't Kill the Vibe",
+      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
     },
     {
-      "added_at": "2026-04-24 04:01:26",
+      "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Don't Kill the Vibe",
-        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+        "name": "Texas Baby",
+        "url": "https://open.spotify.com/album/2RohVNCqHRA2YyoHBhGPiO"
       },
       "artists": [
         {
-          "name": "Jordan Joy",
-          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
         }
       ],
-      "duration_ms": 262459,
-      "name": "Don't Kill the Vibe",
-      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
+      "duration_ms": 147106,
+      "name": "Texas Baby",
+      "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
     }
   ],
   "unique_name": "Indie Pop",

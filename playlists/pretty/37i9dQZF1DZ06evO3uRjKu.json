@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75908,
+  "num_followers": 75914,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAADGSYATzvw/JKssWRrxcr9t",
+  "snapshot_id": "af0ngAAAAABh55YyVj/ka89zU0Kals1a",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 317413,
-      "name": "No Me Hagas Callar",
-      "url": "https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy"
+      "duration_ms": 217333,
+      "name": "Salvando Vidas - En Vivo",
+      "url": "https://open.spotify.com/track/79g8U1J44n1QGHUDipMT34"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Salvando Vidas - En Vivo",
-      "url": "https://open.spotify.com/track/79g8U1J44n1QGHUDipMT34"
+      "duration_ms": 317413,
+      "name": "No Me Hagas Callar",
+      "url": "https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 267654,
-      "name": "Todo por Esta Cancion",
-      "url": "https://open.spotify.com/track/583falna8SnSHTYDCMSVVx"
+      "duration_ms": 275466,
+      "name": "Quiero Llegar - En Vivo",
+      "url": "https://open.spotify.com/track/6BVhbkZMsUelLUyOSET5rF"
     },
     {
       "added_at": null,
@@ -367,54 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Bella Mujer",
-      "url": "https://open.spotify.com/track/5Vrc6YjRKhsR2Ee1bqKnNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Quiero Llegar - En Vivo",
-      "url": "https://open.spotify.com/track/6BVhbkZMsUelLUyOSET5rF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -424,9 +376,41 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 213831,
-      "name": "Casafantasmas",
-      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
+      "duration_ms": 267654,
+      "name": "Todo por Esta Cancion",
+      "url": "https://open.spotify.com/track/583falna8SnSHTYDCMSVVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Bella Mujer",
+      "url": "https://open.spotify.com/track/4DCev1ZJxpVff4aOXmyN7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/3hNOEpLzOEpBOwKp4NbZ0k"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/0x9DcGr4xIxgbqcmjXzj1j"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
       "duration_ms": 286800,
       "name": "Soy un loco",
       "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 213831,
+      "name": "Casafantasmas",
+      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Todo Por un Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
         "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 334378,
       "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
       "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Todo Por un Sue\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn"
     },
     {
       "added_at": null,
@@ -636,7 +636,7 @@
       "added_at": null,
       "album": {
         "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+        "url": "https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Carcaman",
-      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
+      "duration_ms": 300053,
+      "name": "Hechicera Crayon",
+      "url": "https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 300053,
-      "name": "Hechicera Crayon",
-      "url": "https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw"
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Nada Mas",
-      "url": "https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU"
+      "duration_ms": 195186,
+      "name": "Vamos Linda",
+      "url": "https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu"
     },
     {
       "added_at": null,

@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 246826,
       "name": "Avundsjuk",
       "url": "https://open.spotify.com/track/2ZG0nGXSl8YLFOGPhSlmY2"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 265586,
       "name": "Escape Through Music",
       "url": "https://open.spotify.com/track/5yYvMWbMI9heTaRuU7tRrn"
@@ -3965,6 +3965,28 @@
     },
     {
       "album": {
+        "name": "Home to Us",
+        "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191325,
+      "name": "Home to Us",
+      "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/4QqbMfkV416w71gmkgGVHs"
       },
@@ -4577,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
+    },
+    {
+      "album": {
         "name": "S\u00e5nger om dig",
         "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
       },
@@ -5028,7 +5068,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 209800,
       "name": "Jag \u00e4r p\u00e5 v\u00e4g igen",
       "url": "https://open.spotify.com/track/4WjN78YNJnxBuif5QHjRaI"
@@ -9358,6 +9398,28 @@
       "duration_ms": 193417,
       "name": "T\u00e4nd hela himlen",
       "url": "https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA"
+    },
+    {
+      "album": {
+        "name": "G\u00f6teborg sjunger Alf",
+        "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
+      },
+      "artists": [
+        {
+          "name": "Anastas\u00eda",
+          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227246,
+      "name": "T\u00e4nker n\u00e4stan j\u00e4mt p\u00e5 dig",
+      "url": "https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 585005,
+  "num_followers": 585119,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Hugrheim",
-        "url": "https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA"
+        "name": "Reflexions",
+        "url": "https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR"
       },
       "artists": [
         {
-          "name": "Eihwar",
-          "url": "https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK"
+          "name": "OMNIA",
+          "url": "https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Hugrheim",
-      "url": "https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq"
+      "duration_ms": 251106,
+      "name": "Shaman of Chaos",
+      "url": "https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -247,18 +247,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Reflexions",
-        "url": "https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR"
+        "name": "Winter Storm",
+        "url": "https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU"
       },
       "artists": [
         {
-          "name": "OMNIA",
-          "url": "https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS"
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
         }
       ],
-      "duration_ms": 251106,
-      "name": "Shaman of Chaos",
-      "url": "https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS"
+      "duration_ms": 291960,
+      "name": "Fatherland",
+      "url": "https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -279,18 +279,18 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Winter Storm",
-        "url": "https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU"
+        "name": "Hugrheim",
+        "url": "https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA"
       },
       "artists": [
         {
-          "name": "Ensiferum",
-          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+          "name": "Eihwar",
+          "url": "https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK"
         }
       ],
-      "duration_ms": 291960,
-      "name": "Fatherland",
-      "url": "https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl"
+      "duration_ms": 199000,
+      "name": "Hugrheim",
+      "url": "https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Perennial",
-        "url": "https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ"
-      },
-      "artists": [
-        {
-          "name": "Sojourner",
-          "url": "https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Relics of the Natural Realm",
-      "url": "https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Set the Sails",
         "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 196066,
       "name": "Set the Sails",
       "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ"
+      },
+      "artists": [
+        {
+          "name": "Sojourner",
+          "url": "https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Relics of the Natural Realm",
+      "url": "https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
+        "name": "Snake Pit Poetry",
+        "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        },
+        {
+          "name": "Hilda \u00d6rvarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1"
+        }
+      ],
+      "duration_ms": 428077,
+      "name": "Snake Pit Poetry",
+      "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
         "name": "Fa\u00feir",
         "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
       },
@@ -1263,22 +1283,6 @@
       "duration_ms": 340133,
       "name": "Hemkomst",
       "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
-        "name": "Runaljod \u2013 Yggdrasil",
-        "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 431866,
-      "name": "Helvegen",
-      "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
     }
   ],
   "unique_name": "Northern Spirits",

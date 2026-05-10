@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 2 min
+129 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 | 2021-12-28 |  |
 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 | 2021-12-28 |  |
 | [Better Than Them](https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk) | 3:33 | 2021-12-28 | 2025-05-17 |
-| [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 | 2025-05-17 |  |
+| [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 | 2025-05-17 | 2026-05-10 |
 | [BIG MAN TING](https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Skibii](https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn), [Teni Makanaki](https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT) | [BIG MAN TING](https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA) | 2:57 | 2025-12-12 |  |
 | [BLESSINGS \(feat\. Eugy Official\)](https://open.spotify.com/track/6p5R7T8haqjv3F8cYFRSEl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:54 | 2024-08-18 | 2025-10-12 |
 | [Bom Bom](https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:38 | 2021-12-28 |  |
@@ -102,6 +102,7 @@
 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 | 2022-09-10 |  |
 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 | 2021-12-28 |  |
 | [One Chance \(feat\. Timaya\)](https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:04 | 2021-12-28 | 2022-10-13 |
+| [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 | 2026-05-10 |  |
 | [PAY BACK](https://open.spotify.com/track/0FAy1xp1rsxX428vOSuK9X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:33 | 2024-08-18 | 2024-09-02 |
 | [Plantain Boy](https://open.spotify.com/track/2meBCVaypff9yy1jhnqqv0) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE) | 4:06 | 2023-08-30 | 2023-12-14 |
 | [Plantain Boy](https://open.spotify.com/track/4BgsF8GGZkTaBEx44pcKRH) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 4:06 | 2021-12-28 | 2023-08-20 |

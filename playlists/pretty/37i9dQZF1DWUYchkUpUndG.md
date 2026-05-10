@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Moses Bliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,499 likes - 84 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,532 likes - 84 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
+| 1 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
 | 2 | [Ifeoma](https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Ifeoma](https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK) | 3:31 |
 | 3 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 4 | [Count](https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [Testimony](https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS) | [Count](https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h) | 4:24 |

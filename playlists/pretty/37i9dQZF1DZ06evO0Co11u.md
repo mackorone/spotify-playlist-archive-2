@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,643 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,657 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 46 | [Mood Indigo](https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Complete Louis Armstrong \- Duke Ellington Sessions](https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF) | 4:00 |
 | 47 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
 | 48 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
-| 49 | [When It's Sleepy Time Down South](https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins And Orchestra](https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK) | [Satchmo In Style \(Expanded Edition\)](https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7) | 3:14 |
-| 50 | [Georgia On My Mind](https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [Oh Didn't He Ramble](https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre) | 3:22 |
+| 49 | [Georgia On My Mind](https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [Oh Didn't He Ramble](https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre) | 3:22 |
+| 50 | [When It's Sleepy Time Down South](https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Gordon Jenkins And Orchestra](https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK) | [Satchmo In Style \(Expanded Edition\)](https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7) | 3:14 |
 
-Snapshot ID: `afvWAAAAAACzdROlJH0E7gfyfIRN76DE`
+Snapshot ID: `af0ngAAAAADvzFPpxxwjCU6Xe6XlvuQs`

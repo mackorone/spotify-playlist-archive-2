@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 27587,
+  "num_followers": 27619,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Way of Life",
-        "url": "https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2"
-      },
-      "artists": [
-        {
-          "name": "Yasumu",
-          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Moonlit Tales",
         "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 234126,
       "name": "Moonlight and Rain",
       "url": "https://open.spotify.com/track/7ilw4YshloCOchy6AEXFPw"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Way of Life",
+        "url": "https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2"
+      },
+      "artists": [
+        {
+          "name": "Yasumu",
+          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -671,22 +671,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
+        "name": "Motorbikes in Sapa",
+        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
       },
       "artists": [
         {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        },
-        {
-          "name": "marsquake",
-          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 151730,
-      "name": "Sunlit",
-      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
+      "duration_ms": 172288,
+      "name": "Motorbikes in Sapa",
+      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -707,18 +703,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Motorbikes in Sapa",
-        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
       },
       "artists": [
         {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
         }
       ],
-      "duration_ms": 172288,
-      "name": "Motorbikes in Sapa",
-      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
+      "duration_ms": 151730,
+      "name": "Sunlit",
+      "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 172564,
+      "name": "one day in japan",
+      "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Tokyo Skyline",
         "url": "https://open.spotify.com/album/27XjDTqr7TNHKFazcl1WKO"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 114000,
       "name": "Tokyo Skyline",
       "url": "https://open.spotify.com/track/3cAE43ryFfFlNYBTWEXetT"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 172564,
-      "name": "one day in japan",
-      "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Natsukashi",
-        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        }
-      ],
-      "duration_ms": 117108,
-      "name": "Natsukashi",
-      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Moonlit Tales",
         "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198254,
       "name": "In the Roses",
       "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Natsukashi",
+        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        }
+      ],
+      "duration_ms": 117108,
+      "name": "Natsukashi",
+      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Tokyo Rooftop",
+        "url": "https://open.spotify.com/album/01WPd7sKlLqLGaJFsiVlr8"
+      },
+      "artists": [
+        {
+          "name": "Zadbeatz",
+          "url": "https://open.spotify.com/artist/5eAVEXfUncEQ0klgSky3TY"
+        }
+      ],
+      "duration_ms": 132942,
+      "name": "Tokyo Rooftop",
+      "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "Yugen",
         "url": "https://open.spotify.com/album/7KCwE6FNoDVt1vul0jQyUl"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 145054,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/0StrXVWeTBblvc2gPTcHdR"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Tokyo Rooftop",
-        "url": "https://open.spotify.com/album/01WPd7sKlLqLGaJFsiVlr8"
-      },
-      "artists": [
-        {
-          "name": "Zadbeatz",
-          "url": "https://open.spotify.com/artist/5eAVEXfUncEQ0klgSky3TY"
-        }
-      ],
-      "duration_ms": 132942,
-      "name": "Tokyo Rooftop",
-      "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "The Shining Kingdom",
-        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 156059,
-      "name": "The Shining Kingdom",
-      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "NKOHA 2K18",
         "url": "https://open.spotify.com/album/5mUzJJIOEmJqGFRCXSKRbB"
       },
@@ -1151,22 +1135,34 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Shinra",
-        "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
+        "name": "The Shining Kingdom",
+        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
       },
       "artists": [
         {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        },
-        {
-          "name": "Picture Talk",
-          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Shinra",
-      "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
+      "duration_ms": 156059,
+      "name": "The Shining Kingdom",
+      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+        "name": "Shinra",
+        "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Picture Talk",
+          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
         }
       ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+      "duration_ms": 137142,
+      "name": "Shinra",
+      "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Yamete",
-        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
+        "name": "Escaping Reality",
+        "url": "https://open.spotify.com/album/5TcutIP8aZi7QfkX9NPoFy"
       },
       "artists": [
         {
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
+          "name": "Yasumu",
+          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
         }
       ],
-      "duration_ms": 195829,
-      "name": "Yamete",
-      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
+      "duration_ms": 160008,
+      "name": "Moonshadow",
+      "url": "https://open.spotify.com/track/256u5yurnlyohDYyF1h7te"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1423,6 +1423,22 @@
       "duration_ms": 195000,
       "name": "Blood Oath",
       "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
+      },
+      "artists": [
+        {
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Escaping Reality",
-        "url": "https://open.spotify.com/album/5TcutIP8aZi7QfkX9NPoFy"
-      },
-      "artists": [
-        {
-          "name": "Yasumu",
-          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
-        }
-      ],
-      "duration_ms": 160008,
-      "name": "Moonshadow",
-      "url": "https://open.spotify.com/track/256u5yurnlyohDYyF1h7te"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
         "name": "Ancient Bond",
         "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 164571,
       "name": "Ancient Bond",
       "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
-    },
-    {
-      "added_at": "2026-04-27 01:50:16",
-      "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 167102,
-      "name": "Miss Each Other Because of Love",
-      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
     },
     {
       "added_at": "2026-04-27 01:50:16",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 167102,
+      "name": "Miss Each Other Because of Love",
+      "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
+    },
+    {
+      "added_at": "2026-04-27 01:50:16",
+      "album": {
         "name": "FANTASTIC JOURNEY",
         "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-04-27 01:50:16",
       "album": {
-        "name": "Lost in Japan II",
-        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
       "artists": [
         {
-          "name": "Elijah Nang",
-          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 211304,
-      "name": "Song of the Samurai",
-      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     }
   ],
   "unique_name": "oriental lofi",

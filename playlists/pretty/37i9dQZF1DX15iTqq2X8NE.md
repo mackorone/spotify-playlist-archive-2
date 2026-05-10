@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,887 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,892 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 31 | [Habsha](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
 | 32 | [Gana El Baby](https://open.spotify.com/track/1skMZgzGSwvim3fqlL2bAW) | [Kamal Tarbas](https://open.spotify.com/artist/7k2jLu8f7ZTFNFfSikL3hK) | [Gana El Babay](https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc) | 7:10 |
 | 33 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
-| 34 | [مسامحك يا حبيبي](https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9) | [نانسي عجاج](https://open.spotify.com/artist/10eNNn6xl1vLRBIV7W8wYN) | [مسامحك يا حبيبي](https://open.spotify.com/album/6Fa6ccBtkKWYwlkJaEOc5k) | 6:56 |
-| 35 | [Herman](https://open.spotify.com/track/4zza6464stnHetdc4NOVZo) | [Abdel Karim Alkabli](https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD) | [Amir Al Oud Part 1](https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN) | 7:03 |
+| 34 | [Herman](https://open.spotify.com/track/4zza6464stnHetdc4NOVZo) | [Abdel Karim Alkabli](https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD) | [Amir Al Oud Part 1](https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN) | 7:03 |
+| 35 | [مسامحك يا حبيبي](https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9) | [نانسي عجاج](https://open.spotify.com/artist/10eNNn6xl1vLRBIV7W8wYN) | [مسامحك يا حبيبي](https://open.spotify.com/album/6Fa6ccBtkKWYwlkJaEOc5k) | 6:56 |
 | 36 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 |
 | 37 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
 | 38 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 45 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
 | 46 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
 | 47 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
-| 48 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
-| 49 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
+| 48 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
+| 49 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
 | 50 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
 | 51 | [Abn9](https://open.spotify.com/track/5dNLl6kiiCqAtwgK0WOeR1) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e) | [Abn9](https://open.spotify.com/album/3FrBeNIVoFXaSj5qRRhK2v) | 2:48 |
 | 52 | [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 57 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 |
 | 58 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
 | 59 | [Bidaya](https://open.spotify.com/track/64T6QPLwO6W6WuJEW2UomN) | [Hiba Elgizouli](https://open.spotify.com/artist/6FyW17aFgoQAy4Rc6Zf0X4) | [Bidaya](https://open.spotify.com/album/5L4r6YgZUgHlu8aDaJDbwg) | 3:50 |
-| 60 | [Labis Toubo](https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf) | [Setona](https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9), [Said Ahmed](https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF) | [Queen of Hena](https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O) | 4:16 |
-| 61 | [My Girl](https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s) | [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT) | [My Girl](https://open.spotify.com/album/6Sz0YzCU8jAwGMEf60KiRx) | 4:03 |
+| 60 | [My Girl](https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s) | [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT) | [My Girl](https://open.spotify.com/album/6Sz0YzCU8jAwGMEf60KiRx) | 4:03 |
+| 61 | [Labis Toubo](https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf) | [Setona](https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9), [Said Ahmed](https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF) | [Queen of Hena](https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O) | 4:16 |
 | 62 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 |
 | 63 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
 | 64 | [Mook II \(Rerelease\) \[feat\. Bas\]](https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk) | [Hemdi](https://open.spotify.com/artist/5MCsHy03kWsXatVAGb4sSi), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [3049 Floors](https://open.spotify.com/album/4nxSgV9VWOHy9xudxuImF9) | 3:18 |

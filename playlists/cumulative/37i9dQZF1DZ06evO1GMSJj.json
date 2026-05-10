@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Prophecy At 1420 MHz",
+        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35999,
+      "name": "Introit",
+      "url": "https://open.spotify.com/track/68j6NKcGW2oCHZ0V2FDMbo"
+    },
+    {
+      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
       },
@@ -1288,6 +1306,24 @@
       "duration_ms": 367720,
       "name": "Pete Standing Alone",
       "url": "https://open.spotify.com/track/5SGNNAQg2hEfOZItKVFklK"
+    },
+    {
+      "album": {
+        "name": "Prophecy At 1420 MHz",
+        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304499,
+      "name": "Prophecy At 1420 MHz",
+      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
     },
     {
       "album": {

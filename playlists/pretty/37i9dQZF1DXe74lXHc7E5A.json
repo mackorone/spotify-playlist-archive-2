@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Blaqbonez",
-  "num_followers": 44610,
+  "num_followers": 44627,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-05-08 11:37:21",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2026-05-08 11:37:21",
-      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
+    },
+    {
+      "added_at": "2026-05-08 11:37:21",
+      "album": {
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
       "added_at": "2026-05-08 11:37:21",

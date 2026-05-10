@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,997 songs - 6 day 10 hr 51 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,998 songs - 6 day 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3005,5 +3005,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2995 | [XXX](https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [XXX](https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3) | 3:49 |
 | 2996 | [A New Religion](https://open.spotify.com/track/0g0Z5Xn9Feapap1eFIvqYE) | [Insuspect](https://open.spotify.com/artist/1NfB4JTkokC6dfFqKXyZEa), [Eternal Records](https://open.spotify.com/artist/18Ye7CcEFN7DXDXElQs57x) | [A New Religion](https://open.spotify.com/album/190xglUAKd8bHSBJSevgPF) | 2:59 |
 | 2997 | [Disturbia](https://open.spotify.com/track/46kQj1YYd94k6SgEh7QdRR) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Disturbia](https://open.spotify.com/album/31XmeUVGwLuxPYfa0ObiMQ) | 2:44 |
+| 2998 | [Blow](https://open.spotify.com/track/2xfyv0R1uKru1oiA68fThB) | [Pokeyz](https://open.spotify.com/artist/2orq9ChRxP41i7nkFpSxUS), [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Bloomee](https://open.spotify.com/artist/5T6xdgI1e9Gzfek5HVes5W) | [Blow](https://open.spotify.com/album/6Cs0lyPKkDhlbCdv2qtSzr) | 2:35 |
 
-Snapshot ID: `AAAMDohEnoJoZoOyZzeaesZ6lH8tzzIU`
+Snapshot ID: `AAAMD9id9Qxx27q/D9U9Qs58QMOpWqXV`

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,894 songs - 5 day 8 hr 37 min
+1,895 songs - 5 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1124,7 +1124,7 @@
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-10-13 | 2024-01-02 |
 | [My Friends](https://open.spotify.com/track/1CDIWYnX6vo2IPCtRA07H2) | [Parada](https://open.spotify.com/artist/29y0WHW3GGg8GJC2M8uEge), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [My Friends](https://open.spotify.com/album/0f6qHuMHy4GgzrUqyH2EL7) | 2:19 | 2025-04-04 | 2025-04-14 |
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
-| [My Journey](https://open.spotify.com/track/2RvjNucBfwpP5Wn7144aZA) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [My Journey](https://open.spotify.com/album/13oH6VZuvXN6KIZVq7BO7k) | 3:14 | 2026-04-17 |  |
+| [My Journey](https://open.spotify.com/track/2RvjNucBfwpP5Wn7144aZA) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [My Journey](https://open.spotify.com/album/13oH6VZuvXN6KIZVq7BO7k) | 3:14 | 2026-04-17 | 2026-05-10 |
 | [My Kick](https://open.spotify.com/track/2RDiFlBlx0Df7YRfSDsmm0) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [The Element](https://open.spotify.com/artist/4G1P9jyp1Qqj3NONg6zyuQ) | [My Kick](https://open.spotify.com/album/2ozuxSRKkk1v0nRo3nN40L) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-05-18 | 2020-07-18 |
 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-21 |  |
@@ -1743,6 +1743,7 @@
 | [Tug Of War](https://open.spotify.com/track/74DwvNKN1OCl9vvHgTP7AV) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tug Of War](https://open.spotify.com/album/6Zl0xR6Vek5PTxDJJ6WnwU) | 4:24 | 2025-01-17 | 2025-04-30 |
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 | 2024-04-19 |
 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-03-22 | 2025-01-25 |
+| [Twilight](https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Twilight](https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4) | 5:59 | 2026-05-08 |  |
 | [U Got My Heart](https://open.spotify.com/track/752noY44yVo7eYK78VikAx) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [U Got My Heart](https://open.spotify.com/album/1a8afZYgO0ToDcgn2VJldN) | 3:11 | 2020-03-16 | 2022-04-20 |
 | [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 | 2024-05-24 | 2025-06-27 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2020-05-18 | 2020-07-18 |

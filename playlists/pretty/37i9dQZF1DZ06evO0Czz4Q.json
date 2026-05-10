@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 139182,
+  "num_followers": 139192,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAEb+xqNsxhj2krAhIZQ083",
+  "snapshot_id": "af0ngAAAAACnRRhCpjjxt23oUxOGSw8d",
   "tracks": [
     {
       "added_at": null,
@@ -759,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Night With You: The Best Of Love, Volume 2",
-        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+        "name": "Duets (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
       "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
         {
           "name": "Luther Vandross",
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 327920,
-      "name": "It's All About You",
-      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
+      "duration_ms": 204186,
+      "name": "The Lady Is A Tramp",
+      "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
     },
     {
       "added_at": null,
@@ -791,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Night With You: The Best Of Love, Volume 2",
+        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 327920,
+      "name": "It's All About You",
+      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever, For Always, For Love",
         "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 383548,
       "name": "Forever, for Always, for Love",
       "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duets (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "The Lady Is A Tramp",
-      "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,081 likes - 74 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,933 likes - 74 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

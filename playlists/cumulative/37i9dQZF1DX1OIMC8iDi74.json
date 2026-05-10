@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 142204,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 197647,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/4SkPTAPTBwPU6NSK2KzG52"
@@ -2176,6 +2176,24 @@
       "duration_ms": 172392,
       "name": "BREAK!",
       "url": "https://open.spotify.com/track/0P5l1tFcah1cYACKMZPEdo"
+    },
+    {
+      "album": {
+        "name": "BREAKDOWN",
+        "url": "https://open.spotify.com/album/4haNduXLv5DJL6ACerSwGR"
+      },
+      "artists": [
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "BREAKDOWN",
+      "url": "https://open.spotify.com/track/5KHlDqwMQCmURs7iJ4CvW3"
     },
     {
       "album": {
@@ -6769,6 +6787,28 @@
     },
     {
       "album": {
+        "name": "HANDS UP",
+        "url": "https://open.spotify.com/album/0jsjaBbIojU0gRT2zLElov"
+      },
+      "artists": [
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        },
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213958,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/2pp5A9QE7AchdHCCESoq14"
+    },
+    {
+      "album": {
         "name": "Hard City 4",
         "url": "https://open.spotify.com/album/3QmPzxbQPCTJSPyzIFy5oS"
       },
@@ -8529,6 +8569,28 @@
     },
     {
       "album": {
+        "name": "it boy (Zoey808 remix)",
+        "url": "https://open.spotify.com/album/3WbHhegbeap8dGA03i1GyO"
+      },
+      "artists": [
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        },
+        {
+          "name": "bbnogames",
+          "url": "https://open.spotify.com/artist/58G2GxRyvmhDDXOojbE8Fw"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "it boy - Zoey808 remix",
+      "url": "https://open.spotify.com/track/0rzwlZaRSQWk0Qhe7htHXd"
+    },
+    {
+      "album": {
         "name": "It's Our Destiny",
         "url": "https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF"
       },
@@ -9822,7 +9884,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 174857,
       "name": "LOSE MY MIND",
       "url": "https://open.spotify.com/track/3SdduVPIjfCWv36mL9DDM5"
@@ -11902,7 +11964,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 111428,
       "name": "Not That Innocent",
       "url": "https://open.spotify.com/track/4Zn6WSY8SBZ4j83RwZQwII"
@@ -12366,7 +12428,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 188689,
       "name": "ONLYFORYOU.",
       "url": "https://open.spotify.com/track/1kRN7taOaUs5iCEux1ISHp"
@@ -12694,7 +12756,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 193718,
       "name": "PISTON",
       "url": "https://open.spotify.com/track/7FWDwTB4UToBBTiQtOefPx"
@@ -13360,7 +13422,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 133333,
       "name": "redSKY",
       "url": "https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV"
@@ -14092,7 +14154,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "SAVE U",
       "url": "https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA"
@@ -15666,6 +15728,24 @@
       "duration_ms": 132413,
       "name": "SURFACE",
       "url": "https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN"
+    },
+    {
+      "album": {
+        "name": "SWANGIN'",
+        "url": "https://open.spotify.com/album/66oZ0p6RfIeETHxlzR5Nzl"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "SWANGIN'",
+      "url": "https://open.spotify.com/track/2wGXI8ztqQ674mrn3rZa3Q"
     },
     {
       "album": {

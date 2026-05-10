@@ -43029,6 +43029,24 @@
     },
     {
       "album": {
+        "name": "Whorecore",
+        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203174,
+      "name": "Voodoo Pussy",
+      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },

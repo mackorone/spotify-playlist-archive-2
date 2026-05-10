@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 262626,
       "name": "Sad Caf\u00e9 (with \ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)",
       "url": "https://open.spotify.com/track/7J5n43V2aB0xmCfWlBiRfh"
@@ -2620,6 +2620,24 @@
       "duration_ms": 216373,
       "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
       "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "album": {
+        "name": "Mask Singer 12th (Live Version)",
+        "url": "https://open.spotify.com/album/0PO1s1wWPidhuAXqrvT5gr"
+      },
+      "artists": [
+        {
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251745,
+      "name": "\uc0ac\ub791 \uadf8 \ub188 (\ud654\uc0dd\ubc29\uc2e4 \ud074\ub808\uc624\ud30c\ud2b8\ub77c)",
+      "url": "https://open.spotify.com/track/5EeA5N3O42bwiZiz6TV70k"
     },
     {
       "album": {

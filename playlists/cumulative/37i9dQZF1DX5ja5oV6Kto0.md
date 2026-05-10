@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Siraheem
 
-1,079 songs - 2 day 4 hr 8 min
+1,080 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,7 +781,7 @@
 | [RASTAMAN DREADS](https://open.spotify.com/track/1MSWJn48CNMSMShwUGC4xY) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [I Know You Miss Me](https://open.spotify.com/album/3UZ8eKlCaYcPbUoowG9SM5) | 3:02 | 2023-05-25 | 2023-06-23 |
 | [Ready or Not](https://open.spotify.com/track/2yuhKACSCgHU54RUavAdlv) | [Saszy Afroshii](https://open.spotify.com/artist/3GCGKZBN2CYCrkyuXAIgHx), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Ready or Not](https://open.spotify.com/album/3ArMZR497c1Pih3W2TAmEX) | 2:07 | 2025-11-14 | 2025-12-22 |
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2021-07-30 | 2022-06-24 |
-| [Real One](https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe) | [Damare YK](https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ) | [Real One](https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW) | 2:50 | 2026-01-23 |  |
+| [Real One](https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe) | [Damare YK](https://open.spotify.com/artist/4elUk2W9Rax90tFNC9TUDz), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ) | [Real One](https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW) | 2:50 | 2026-01-23 | 2026-05-10 |
 | [Realign](https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Realign](https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu) | 3:40 | 2025-12-12 | 2026-01-15 |
 | [Realign](https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z) | [Realign](https://open.spotify.com/album/5XrqZDhOi4gx0L0mzeKwWi) | 2:45 | 2023-12-08 | 2024-06-21 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2023-06-17 |
@@ -1003,6 +1003,7 @@
 | [Trust Issues](https://open.spotify.com/track/5a74iY70gcJ1j4GCk3EMF6) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [Santaklara](https://open.spotify.com/artist/5gsCFrDcsLquTUIQojNptl) | [Trust Issues](https://open.spotify.com/album/736TSZ1hZ6pjkyHhdntbY8) | 2:30 | 2023-04-14 | 2023-06-17 |
 | [TRUST THE PROCESS](https://open.spotify.com/track/61NC6VVyBuHohAm8MWVrbF) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [TRUST THE PROCESS](https://open.spotify.com/album/3WqKChd04Gc1kzJmkbYQ0E) | 2:05 | 2024-05-17 | 2024-11-08 |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 | 2022-07-29 |
+| [Try Me](https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM) | [DOLV GVNG](https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z), [TILYA](https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Try Me](https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE) | 1:59 | 2026-05-08 |  |
 | [TSA](https://open.spotify.com/track/6XdOjNrHqh1i0VXnk2lYnK) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [TSA](https://open.spotify.com/album/0D2tnmncRftiOd4gHJPmde) | 3:07 | 2022-08-25 | 2022-12-02 |
 | [TSD](https://open.spotify.com/track/2PBG7vBts21Uh5XYycmh4K) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [GJtheCaesar](https://open.spotify.com/artist/4DSV4Nfs3clNUejSLIWdSb) | [TSD](https://open.spotify.com/album/2d5foQBUlfViM3QnVenzzG) | 3:38 | 2025-08-01 | 2025-09-04 |
 | [Tsunami](https://open.spotify.com/track/1ziBSqVJvbSRdMT3yO6hJM) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Jilex Anderson](https://open.spotify.com/artist/4MTpyw7KivYmtoaF1Rv6VR) | [Tsunami](https://open.spotify.com/album/5MiTRyTjTm0AYW0DFqSKP5) | 2:30 | 2022-08-18 | 2023-08-11 |

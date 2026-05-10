@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,843 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,845 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 27 | [ความจริงในใจ](https://open.spotify.com/track/4db90A1wSLdfFjh0JXe4NI) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [เครสเชนโด้](https://open.spotify.com/album/4eRAe2yUAxzbbPC0f9QCUk) | 4:04 |
 | 28 | [หรือ](https://open.spotify.com/track/0ogLgVg1RY7IGyrp1B8g4X) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [B](https://open.spotify.com/album/38rKe9bpwRTzQx80DvsFBl) | 4:53 |
 | 29 | [คุณเก็บความลับได้ไหม](https://open.spotify.com/track/1HfQcqDwV3UASZUOpMp9A9) | [Armchair](https://open.spotify.com/artist/12WQ39HU6t5eDvwjK0GFzT) | [คุณเก็บความลับได้ไหม](https://open.spotify.com/album/0vyHVuW90UueeOcOhiAaEl) | 4:39 |
-| 30 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
-| 31 | [วอน](https://open.spotify.com/track/6UVmRlDqKESmrA6CpqF48U) | [The Peach Band](https://open.spotify.com/artist/1EyFHLShIbVJnSjLT6tea1) | [เดอะ พีท แบนด์](https://open.spotify.com/album/6SXhTlaKDGKdPJauonN00p) | 4:49 |
+| 30 | [วอน](https://open.spotify.com/track/6UVmRlDqKESmrA6CpqF48U) | [The Peach Band](https://open.spotify.com/artist/1EyFHLShIbVJnSjLT6tea1) | [เดอะ พีท แบนด์](https://open.spotify.com/album/6SXhTlaKDGKdPJauonN00p) | 4:49 |
+| 31 | [เก็บไว้กับเธอ](https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Mood](https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6) | 4:21 |
 | 32 | [ใจกลางความเจ็บปวด](https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ) | [Crescendo](https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk) | [4 Days](https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi) | 5:28 |
 | 33 | [เผด็จเกิร์ล](https://open.spotify.com/track/6dnXdI7OhOJYvVjlT6pR03) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [สัตว์จริง](https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E) | 3:07 |
-| 34 | [คำสุดท้าย](https://open.spotify.com/track/1XQoEt32xoOLaQMz6NGj3n) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:12 |
-| 35 | [ลอง \(Try\)](https://open.spotify.com/track/3uokib5yaVbbHSQIpQWLw6) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 3:50 |
+| 34 | [ลอง \(Try\)](https://open.spotify.com/track/3uokib5yaVbbHSQIpQWLw6) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 3:50 |
+| 35 | [คำสุดท้าย](https://open.spotify.com/track/1XQoEt32xoOLaQMz6NGj3n) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Mutation](https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz) | 4:12 |
 | 36 | [ยังไม่รู้ \(I Don't Know\)](https://open.spotify.com/track/2OQQPlUlrSKu2nOPMwTS2c) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:46 |
 | 37 | [รักเธอทั้งหมดของหัวใจ \(For My Brother\)](https://open.spotify.com/track/7sZxRSdexu3IYDcUW7jXMQ) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [Evo\. & Nova](https://open.spotify.com/album/3S274uqfTRsJXEUpFYouVl) | 6:02 |
 | 38 | [รักของเธอมีจริงหรือเปล่า \(Real Love?\)](https://open.spotify.com/track/0HRPNiA04po4Ckw4dmP89g) | [P.O.P](https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal) | [Era](https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1) | 5:05 |

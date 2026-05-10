@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 277571,
+  "num_followers": 277611,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-04-23 21:48:50",
       "album": {
+        "name": "Se Enamor\u00f3 de Mi la Soledad",
+        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 245864,
+      "name": "Se Enamor\u00f3 de Mi la Soledad",
+      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+    },
+    {
+      "added_at": "2026-04-23 21:48:50",
+      "album": {
         "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
         "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
@@ -1335,42 +1351,6 @@
     {
       "added_at": "2026-04-23 21:48:50",
       "album": {
-        "name": "Date cuenta",
-        "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
-        }
-      ],
-      "duration_ms": 157244,
-      "name": "Date cuenta",
-      "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
-    },
-    {
-      "added_at": "2026-04-23 21:48:50",
-      "album": {
-        "name": "Se Enamor\u00f3 de Mi la Soledad",
-        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 245864,
-      "name": "Se Enamor\u00f3 de Mi la Soledad",
-      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
-    },
-    {
-      "added_at": "2026-04-23 21:48:50",
-      "album": {
         "name": "Cosa del destino",
         "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 177491,
       "name": "Cosa del destino",
       "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
+    },
+    {
+      "added_at": "2026-04-23 21:48:50",
+      "album": {
+        "name": "Date cuenta",
+        "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 157244,
+      "name": "Date cuenta",
+      "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
     },
     {
       "added_at": "2026-04-23 21:48:50",

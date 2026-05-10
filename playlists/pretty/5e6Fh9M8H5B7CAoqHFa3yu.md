@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 316 likes - 2,273 songs - 5 day 14 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 316 likes - 2,276 songs - 5 day 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1991,7 +1991,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1981 | [PERMANECEREI](https://open.spotify.com/track/0IKBvGNQBQZyYRFMnjdbtc) | [THOMÉ TRSH](https://open.spotify.com/artist/4WUHMC7ygoxYZgIrhZyrsl) | [QUANTOS PASSOS ATÉ AQUI?](https://open.spotify.com/album/5mLf0aYzCGXPAT0qdQdN43) | 2:58 |
 | 1982 | [Aquariana \- Acoustic](https://open.spotify.com/track/4wUyQVIIx8Hhn64Eznn8jc) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Aquariana \(Acoustic\)](https://open.spotify.com/album/2UN5i8OhabZ5xJYncO71j2) | 3:35 |
 | 1983 | [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 |
-| 1984 | [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:12 |
+| 1984 | [Moonlight of Muirin](https://open.spotify.com/track/4oSn1XDw8xlvZAFULhbeCf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Moonlight of Muirin](https://open.spotify.com/album/4oRObxDGVm3EEHExEBfywZ) | 3:13 |
 | 1985 | [Astral Vision](https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:49 |
 | 1986 | [Dance it with Me](https://open.spotify.com/track/0R6YvH3Wgcz5NSx1H2NvIz) | [Vinny Peach](https://open.spotify.com/artist/2sMvGeQMLrn7Y21zljtp75) | [Dance it with Me](https://open.spotify.com/album/4psi3LKEvKCfgQNojJsSp4) | 2:52 |
 | 1987 | [Tomorrow \(LIVE AT THE PUB\)](https://open.spotify.com/track/3Kk8rxvmWCdjRfvCyXVXY0) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Tomorrow \(LIVE AT THE PUB\)](https://open.spotify.com/album/01dMlVbOA4a9GiutfbOn13) | 3:05 |
@@ -2000,7 +2000,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1990 | [My Soul](https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [My Soul](https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl) | 2:15 |
 | 1991 | [Art of Waves](https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [ART of WAVES](https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3) | 3:42 |
 | 1992 | [Collecting Memories](https://open.spotify.com/track/3nPD47QNIbjfezj5uqvinO) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj), [Natasha Cleophas](https://open.spotify.com/artist/00nfdeOv0SOQu5itQbz3ic) | [Collecting Memories](https://open.spotify.com/album/6lotPV2jvHGnU0ioo3efhU) | 3:10 |
-| 1993 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 |
+| 1993 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:40 |
 | 1994 | [Empty Church](https://open.spotify.com/track/3a4ytkMl0gnwTqSCwjT84H) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Empty Church](https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw) | 3:49 |
 | 1995 | [Empty Church Dub](https://open.spotify.com/track/3EMsfF8JivwTLuDhOD7ATH) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Empty Church](https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw) | 3:49 |
 | 1996 | [Trees](https://open.spotify.com/track/3F41qzPCBIQzxtToQ38QeP) | [Felt Zen](https://open.spotify.com/artist/5L2WazxjD4UXfabeeUVXvZ) | [Trees](https://open.spotify.com/album/1camvevb8ZACETpkiWxiU9) | 2:38 |
@@ -2281,5 +2281,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2271 | [Easy Peasy](https://open.spotify.com/track/2WXcctKPq3LCwD3elZW5ab) | [Mats Skimmelå](https://open.spotify.com/artist/3ff8WCVNd542FKA32N1yO2) | [Easy Peasy](https://open.spotify.com/album/6ap6PsFZkGU52yC7fUt7Je) | 3:34 |
 | 2272 | [Last Night](https://open.spotify.com/track/7tnhmN304sF7ezswPDklxP) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:39 |
 | 2273 | [DOG DAG BAU BAU](https://open.spotify.com/track/4V9lYkf9gujT8zaRiUInXZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [DOG DAG BAU BAU](https://open.spotify.com/album/6CLNMEMnfF1OgvLo9Sbjwq) | 2:06 |
+| 2274 | [Simulating Tomorrow](https://open.spotify.com/track/51yR2NONayHELQ0lAklmaV) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 5:47 |
+| 2275 | [En Garde!](https://open.spotify.com/track/4TL8d01t2jh9CMhcWCh43C) | [Gato y Perro](https://open.spotify.com/artist/07cD6Ajjuy7dMC6mNr5CCi) | [En Garde!](https://open.spotify.com/album/4L8ghnDY247vJCGG3xI4dB) | 3:23 |
+| 2276 | [V Prozu Nie Leziet](https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [V Prozu Nie Leziet](https://open.spotify.com/album/1Bb35YX1lZYnNoovFIyLsR) | 1:45 |
 
-Snapshot ID: `AAAJirAMmsanbE1Cjxi5nBE6YhSohRgA`
+Snapshot ID: `AAAJjX1XknDXYQJj5y2FVvljlzB1EhYQ`

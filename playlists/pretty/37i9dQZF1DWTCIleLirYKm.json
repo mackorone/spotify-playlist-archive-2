@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 215714,
+  "num_followers": 215800,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 335293,
-      "name": "Outlaw State Of Mind",
-      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 335293,
+      "name": "Outlaw State Of Mind",
+      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
     },
     {
       "added_at": "2026-04-03 04:00:34",

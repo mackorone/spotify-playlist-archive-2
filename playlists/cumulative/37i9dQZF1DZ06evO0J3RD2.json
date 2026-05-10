@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Back in My Ways",
+        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243286,
+      "name": "Back in My Ways",
+      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
+    },
+    {
+      "album": {
         "name": "Live At Studio 4",
         "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 227840,
       "name": "Deadly Dull",
       "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+    },
+    {
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
     },
     {
       "album": {

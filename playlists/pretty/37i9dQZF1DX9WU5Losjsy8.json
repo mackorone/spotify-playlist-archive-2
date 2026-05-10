@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 495160,
+  "num_followers": 495231,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,30 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
+      },
+      "artists": [
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "Aditotoro",
+          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
+        },
+        {
+          "name": "Paul Frege",
+          "url": "https://open.spotify.com/artist/5fk2jh0KFCJ6LTTkZhRjMt"
+        }
+      ],
+      "duration_ms": 182968,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/2evbu0IbU1p0uzcx7g0WBF"
       },
@@ -195,30 +219,6 @@
       "duration_ms": 150621,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
-      },
-      "artists": [
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        },
-        {
-          "name": "Aditotoro",
-          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
-        },
-        {
-          "name": "Paul Frege",
-          "url": "https://open.spotify.com/artist/5fk2jh0KFCJ6LTTkZhRjMt"
-        }
-      ],
-      "duration_ms": 182968,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
+        "name": "Keine Freunde bleiben (feat. Mia Julia)",
+        "url": "https://open.spotify.com/album/56QPDNJ6Ziz8RGvwOPSOvE"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "Keine Freunde bleiben (feat. Mia Julia)",
+      "url": "https://open.spotify.com/track/0EULWVqXc1O6SLccguCoTH"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
         "name": "Herzfrequenz",
         "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 209240,
       "name": "Das geht ab - Wir feiern die ganze Nacht",
       "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
-        "name": "Keine Freunde bleiben (feat. Mia Julia)",
-        "url": "https://open.spotify.com/album/56QPDNJ6Ziz8RGvwOPSOvE"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Keine Freunde bleiben (feat. Mia Julia)",
-      "url": "https://open.spotify.com/track/0EULWVqXc1O6SLccguCoTH"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -835,18 +835,22 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
-        "name": "Bonnie und Clyde",
-        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
+        "name": "Sie ist 18",
+        "url": "https://open.spotify.com/album/13TwPT83BSHLP4DuxeX1KP"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Keya",
+          "url": "https://open.spotify.com/artist/2kUXIsP0qTccA0Ei2qWDmu"
         }
       ],
-      "duration_ms": 200046,
-      "name": "Bonnie und Clyde",
-      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
+      "duration_ms": 186521,
+      "name": "Sie ist 18",
+      "url": "https://open.spotify.com/track/0kDBe90SnRfL5EJvg5iv2C"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -875,6 +879,22 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
+        "name": "Bonnie und Clyde",
+        "url": "https://open.spotify.com/album/5iI0PhY4LRt8WAT9tf1oCE"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 200046,
+      "name": "Bonnie und Clyde",
+      "url": "https://open.spotify.com/track/21qhkNWREc8vXMCtE6FtYw"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
-        "name": "Sie ist 18",
-        "url": "https://open.spotify.com/album/13TwPT83BSHLP4DuxeX1KP"
-      },
-      "artists": [
-        {
-          "name": "Kreisligalegende",
-          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
-        },
-        {
-          "name": "Keya",
-          "url": "https://open.spotify.com/artist/2kUXIsP0qTccA0Ei2qWDmu"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sie ist 18",
-      "url": "https://open.spotify.com/track/0kDBe90SnRfL5EJvg5iv2C"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
-        "name": "Octopus (100.000 H\u00e4nde)",
-        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
-      },
-      "artists": [
-        {
-          "name": "Mountain Crew",
-          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
-        }
-      ],
-      "duration_ms": 225787,
-      "name": "Octopus (100.000 H\u00e4nde)",
-      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
         "name": "Sweet Caroline (Party Remix)",
         "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 206613,
       "name": "Sweet Caroline - Party Remix",
       "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
+        "name": "Octopus (100.000 H\u00e4nde)",
+        "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
+      },
+      "artists": [
+        {
+          "name": "Mountain Crew",
+          "url": "https://open.spotify.com/artist/6ZSaFzbVwdVeQIaiz4rv8Z"
+        }
+      ],
+      "duration_ms": 225787,
+      "name": "Octopus (100.000 H\u00e4nde)",
+      "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
-      },
-      "artists": [
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2026-05-07 22:03:07",
+      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1231,18 +1247,26 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+        "name": "Mein kleines Herz (Bam Bam)",
+        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Shaun Baker",
+          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
         }
       ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+      "duration_ms": 150090,
+      "name": "Mein kleines Herz (Bam Bam)",
+      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -1271,30 +1295,6 @@
       "duration_ms": 160251,
       "name": "Bauhaus",
       "url": "https://open.spotify.com/track/4e4WJLzCEjYuUyPNkO9LV3"
-    },
-    {
-      "added_at": "2026-05-07 22:03:07",
-      "album": {
-        "name": "Mein kleines Herz (Bam Bam)",
-        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
-      },
-      "artists": [
-        {
-          "name": "Darius & Finlay",
-          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
-        },
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Shaun Baker",
-          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
-        }
-      ],
-      "duration_ms": 150090,
-      "name": "Mein kleines Herz (Bam Bam)",
-      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
     },
     {
       "added_at": "2026-05-07 22:03:07",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-05-07 22:03:07",
       "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+        "name": "Dieter (Der LKW Song)",
+        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
       },
       "artists": [
         {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
         }
       ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+      "duration_ms": 190849,
+      "name": "Dieter (Der LKW Song)",
+      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
     },
     {
       "added_at": "2026-05-07 22:03:07",

@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 433308,
+  "num_followers": 433236,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "duration_ms": 163090,
+      "name": "Amor De Cana - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Ensaio (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
+        "name": "Pegada Que Desgrama",
+        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
       },
       "artists": [
         {
-          "name": "Bruno & Barretto",
-          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
         }
       ],
-      "duration_ms": 163090,
-      "name": "Amor De Cana - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF"
+      "duration_ms": 182368,
+      "name": "Pegada Que Desgrama",
+      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -843,22 +859,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Pegada Que Desgrama",
-        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Pegada Que Desgrama",
-      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1455,22 +1455,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Noites Frustradas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
       },
       "artists": [
         {
-          "name": "Jads & Jadson",
-          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         }
       ],
-      "duration_ms": 196662,
-      "name": "Noites Frustradas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+      "duration_ms": 153756,
+      "name": "Segue O Plano - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1495,6 +1491,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Noites Frustradas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
+      },
+      "artists": [
+        {
+          "name": "Jads & Jadson",
+          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 196662,
+      "name": "Noites Frustradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Volta Marcada",
         "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 167573,
       "name": "Volta Marcada",
       "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Segue O Plano - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Compartilhando M\u00e1goa",
         "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 170038,
       "name": "Compartilhando M\u00e1goa",
       "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
     },
     {
       "added_at": "2026-01-16 03:03:24",

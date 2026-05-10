@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34381,
+  "num_followers": 34380,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Petali",
-        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
       "artists": [
         {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 217872,
-      "name": "Lei balla sola",
-      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
+        "name": "Petali",
+        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
       },
       "artists": [
         {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
         }
       ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
+      "duration_ms": 217872,
+      "name": "Lei balla sola",
+      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Funambola",
-        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
-      },
-      "artists": [
-        {
-          "name": "Patrizia Laquidara",
-          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Ziza",
-      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Funambola",
+        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
+      },
+      "artists": [
+        {
+          "name": "Patrizia Laquidara",
+          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Ziza",
+      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "1000 Smiles",
         "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 132413,
       "name": "Estate",
       "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "SANG",
         "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Piero Odorici",
+          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Alessandro Buzzi",
+          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        }
+      ],
+      "duration_ms": 276862,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1383,26 +1415,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Taish\u014dgoto",
-        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
-      },
-      "artists": [
-        {
-          "name": "Daniele Baldelli",
-          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
-        }
-      ],
-      "duration_ms": 304173,
-      "name": "Taish\u014dgoto",
-      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Amore a prima vista",
         "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
       },
@@ -1439,6 +1451,26 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Taish\u014dgoto",
+        "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
+      },
+      "artists": [
+        {
+          "name": "Daniele Baldelli",
+          "url": "https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 304173,
+      "name": "Taish\u014dgoto",
+      "url": "https://open.spotify.com/track/260KNXOYlJjmb51DvC6KF7"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "Comes Love",
         "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
       },
@@ -1451,38 +1483,6 @@
       "duration_ms": 292720,
       "name": "Le Tue Mani",
       "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Piero Odorici",
-          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        },
-        {
-          "name": "Alessandro Buzzi",
-          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        }
-      ],
-      "duration_ms": 276862,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1867,34 +1883,18 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
       "artists": [
         {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
         }
       ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "AMUN\u00cc",
-        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
-      },
-      "artists": [
-        {
-          "name": "sunremo",
-          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
-        }
-      ],
-      "duration_ms": 220969,
-      "name": "AMUN\u00cc",
-      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
+      "duration_ms": 279570,
+      "name": "Bajone",
+      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
     },
     {
       "added_at": "2026-05-07 22:04:36",

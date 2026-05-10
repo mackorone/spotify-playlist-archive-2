@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2503553,
+  "num_followers": 2503519,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses (Special Edition)",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+      "duration_ms": 279213,
+      "name": "Down with the Sickness",
+      "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
     },
     {
       "added_at": "2026-04-27 18:33:24",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+        "name": "Vol. 3: The Subliminal Verses (Special Edition)",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Down with the Sickness",
-      "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2026-04-27 18:33:24",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "Popular Monster",
-        "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 220537,
-      "name": "Popular Monster",
-      "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
-    },
-    {
-      "added_at": "2026-04-27 18:33:24",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 216426,
       "name": "Happy?",
       "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ"
+    },
+    {
+      "added_at": "2026-04-27 18:33:24",
+      "album": {
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Popular Monster",
+      "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
     },
     {
       "added_at": "2026-04-27 18:33:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 386253,
-      "name": "Emergence",
-      "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
-    },
-    {
-      "added_at": "2026-04-27 18:33:24",
-      "album": {
         "name": "Gold Cobra (Deluxe)",
         "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 233533,
       "name": "Gold Cobra",
       "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
+    },
+    {
+      "added_at": "2026-04-27 18:33:24",
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 386253,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
     },
     {
       "added_at": "2026-04-27 18:33:24",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2026-04-27 18:33:24",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+    },
+    {
+      "added_at": "2026-04-27 18:33:24",
+      "album": {
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2026-04-27 18:33:24",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
+        "name": "Sonic Salvation (feat. Jamie Hails)",
+        "url": "https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 253673,
+      "name": "Sonic Salvation (feat. Jamie Hails)",
+      "url": "https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG"
+    },
+    {
+      "added_at": "2026-04-27 18:33:24",
+      "album": {
         "name": "Fortress",
         "url": "https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH"
-    },
-    {
-      "added_at": "2026-04-27 18:33:24",
-      "album": {
-        "name": "Sonic Salvation (feat. Jamie Hails)",
-        "url": "https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 253673,
-      "name": "Sonic Salvation (feat. Jamie Hails)",
-      "url": "https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG"
     },
     {
       "added_at": "2026-04-27 18:33:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-04-27 18:33:24",
       "album": {
-        "name": "House Of Cards",
-        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 206788,
-      "name": "House Of Cards",
-      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
-    },
-    {
-      "added_at": "2026-04-27 18:33:24",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 223760,
       "name": "4 Words (To Choke Upon)",
       "url": "https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8"
+    },
+    {
+      "added_at": "2026-04-27 18:33:24",
+      "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 206788,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
     },
     {
       "added_at": "2026-04-27 18:33:24",

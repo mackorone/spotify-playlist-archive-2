@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-625 songs - 1 day 11 hr 12 min
+626 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/4a3LvPpAj6ogH7qSuPr5H6) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:00 | 2024-01-29 |  |
 | [Means I care](https://open.spotify.com/track/63bgBHUBX1rutghlrXZrvp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:55 | 2025-12-17 |  |
 | [Mercy](https://open.spotify.com/track/13UwDYcdDOT6akJZRGVCEy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:00 | 2025-01-09 | 2025-04-12 |
+| [Mercy](https://open.spotify.com/track/0KGzdKPs4zXemUUgt9uXIg) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Mercy](https://open.spotify.com/album/0EqdEgOlprhayKEijq4uhH) | 4:06 | 2026-05-09 |  |
 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 | 2024-01-29 |  |
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/6mdgp4ZTdHfGl3WFvwRlPL) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:13 | 2025-11-05 |  |
 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 | 2025-04-02 |  |
@@ -573,7 +574,7 @@
 | [Turning Tables](https://open.spotify.com/track/6myjRCWhMVgwgJEYNIGah3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:10 | 2024-01-29 |  |
 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2024-01-29 |  |
 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 | 2024-01-29 |  |
-| [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 | 2026-05-06 |
+| [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 |  |
 | [Unbroken \- Israel Remix](https://open.spotify.com/track/4fijxCLZxkask6LJH51Hzg) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Israel](https://open.spotify.com/artist/6ZIjO7ivv7IxVuyD4HqrAD) | [From The Inside Out](https://open.spotify.com/album/1AlBB0rTOKDXK2k7lf9tUT) | 3:46 | 2024-07-31 |  |
 | [Undone](https://open.spotify.com/track/4toeIDt20W3pA6hoce1P8W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is Us](https://open.spotify.com/album/08wSk6XJ7365lO47E1278L) | 4:14 | 2024-01-29 |  |
 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 | 2024-11-14 |  |

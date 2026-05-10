@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 32 min
+102 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
 | [Cuatro Grandes \(Cuadro Lavado\)](https://open.spotify.com/track/0ggmHIybqGimyRj8wLz81v) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:47 | 2025-05-15 | 2026-01-30 |
 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 | 2024-01-29 |  |
-| [De aquí pa allá](https://open.spotify.com/track/61DvcN30XR5Z7tE0nkbAn3) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Yo Soy El Que Soy](https://open.spotify.com/album/0XMpQx7hguTme7QdNMnufW) | 2:40 | 2025-06-29 |  |
+| [De aquí pa allá](https://open.spotify.com/track/61DvcN30XR5Z7tE0nkbAn3) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Yo Soy El Que Soy](https://open.spotify.com/album/0XMpQx7hguTme7QdNMnufW) | 2:40 | 2025-06-29 | 2026-05-10 |
 | [Después los Miro](https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Después los Miro](https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3) | 2:43 | 2024-10-13 |  |
 | [Dile Que No](https://open.spotify.com/track/3kFLhQ7tOovutkhVjvc9ax) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Dile Que No](https://open.spotify.com/album/6CxhgIBZ58cKISoJWOkkBF) | 3:05 | 2024-01-29 | 2024-02-24 |
 | [Efecto de Mariposa](https://open.spotify.com/track/4bdQk3sno5kGGRFt3wkrXs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Efecto de Mariposa](https://open.spotify.com/album/2tWNqqFKKY4uDSmTJe85rE) | 4:01 | 2025-10-19 |  |
@@ -55,6 +55,7 @@
 | [ERA Mi destino](https://open.spotify.com/track/0HqqGn94ykvvsy3Qn4vQln) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [ERA Mi destino](https://open.spotify.com/album/2euxkkWCWtxfuvbCLbwByP) | 4:12 | 2024-06-18 |  |
 | [Espérame](https://open.spotify.com/track/2y17NHDaifOGWU0GBbk9HA) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Espérame](https://open.spotify.com/album/1Y1VMmBRZqSOG0hCn1Lfiz) | 3:53 | 2024-02-23 | 2024-02-25 |
 | [Esta Llorando Mi Corazón](https://open.spotify.com/track/0g6SWqcXWn4jytXqPd4VIu) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:27 | 2025-05-27 | 2025-06-03 |
+| [Gato Del Infierno](https://open.spotify.com/track/1u5qaB4m4tA5iN6qPFKpGt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Kompa Marley](https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea) | [Gato Del Infierno](https://open.spotify.com/album/32lMPL2qsmUvNMZA0rYFdl) | 2:49 | 2026-05-10 |  |
 | [Gente De Accionar \(feat\. La Edicion De Culiacan\)](https://open.spotify.com/track/6IL0KT5ngyffCx9rXydIUs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Mexican Mafia Corridos](https://open.spotify.com/album/792fLNAl0z9jvw9q8OZljr) | 2:52 | 2024-10-28 | 2025-10-30 |
 | [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 | 2024-01-29 |  |
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |

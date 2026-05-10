@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1472724,
+  "num_followers": 1472787,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-03-27 19:09:35",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
-    },
-    {
-      "added_at": "2026-03-27 19:09:35",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+    },
+    {
+      "added_at": "2026-03-27 19:09:35",
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
     },
     {
       "added_at": "2026-03-27 19:09:35",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2026-03-27 19:09:35",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
       },
       "artists": [
         {
@@ -1232,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2026-03-27 19:09:35",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2026-03-27 19:09:35",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2026-03-27 19:09:35",

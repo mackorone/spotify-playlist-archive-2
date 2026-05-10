@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54967,
+  "num_followers": 54976,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACSobdW8rI5Ct/Ph5DBTndN",
+  "snapshot_id": "af0ngAAAAABKBWSw9wnR2Y5yozDXJ518",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Bendito Amor",
-      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos Tatuados",
         "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 188836,
       "name": "Besos Tatuados",
       "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+      "duration_ms": 186746,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

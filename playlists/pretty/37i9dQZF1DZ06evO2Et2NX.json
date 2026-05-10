@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 8884,
+  "num_followers": 8885,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACkhY+8U9f7Zu1yXro0PnoB",
+  "snapshot_id": "af0ngAAAAAAgjwFKP64pDyYPoISp68eu",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Cities to Love",
-        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 218533,
-      "name": "A New Wave",
-      "url": "https://open.spotify.com/track/3tRiDTK0QTP0IfwbxG4jus"
+      "duration_ms": 172880,
+      "name": "Be Yr Mama",
+      "url": "https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+        "name": "No Cities to Love",
+        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
       "artists": [
         {
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 172880,
-      "name": "Be Yr Mama",
-      "url": "https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/0FtQsXBRnplpaZO4MBApBF"
+      "duration_ms": 218533,
+      "name": "A New Wave",
+      "url": "https://open.spotify.com/track/3tRiDTK0QTP0IfwbxG4jus"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 177400,
       "name": "All Hands on the Bad One",
       "url": "https://open.spotify.com/track/0ja5aZwGxpdDT1sKNL67t7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/0FtQsXBRnplpaZO4MBApBF"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Start Together",
-      "url": "https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu"
+      "duration_ms": 200773,
+      "name": "Burn, Don't Freeze!",
+      "url": "https://open.spotify.com/track/2mleFoqDXcD3uCP3bDTAkK"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
+        "name": "No Cities to Love",
+        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 183640,
-      "name": "#1 Must Have",
-      "url": "https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A"
+      "duration_ms": 203813,
+      "name": "Bury Our Friends",
+      "url": "https://open.spotify.com/track/2MycpboRozeeoFNqWGrnak"
     },
     {
       "added_at": null,
@@ -580,15 +580,15 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 200773,
-      "name": "Burn, Don't Freeze!",
-      "url": "https://open.spotify.com/track/2mleFoqDXcD3uCP3bDTAkK"
+      "duration_ms": 158946,
+      "name": "Start Together",
+      "url": "https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Cities to Love",
-        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
+        "name": "All Hands on the Bad One (Remastered)",
+        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Bury Our Friends",
-      "url": "https://open.spotify.com/track/2MycpboRozeeoFNqWGrnak"
+      "duration_ms": 183640,
+      "name": "#1 Must Have",
+      "url": "https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call the Doctor (Remastered)",
-        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+        "name": "The Center Won't Hold",
+        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
       },
       "artists": [
         {
@@ -628,9 +628,25 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 148773,
-      "name": "Anonymous",
-      "url": "https://open.spotify.com/track/1UCFR0huAtHLoDbyO81ysJ"
+      "duration_ms": 168208,
+      "name": "Hurry On Home",
+      "url": "https://open.spotify.com/track/2m3YK65b88DBDmSceFT8HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 64160,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Center Won't Hold",
-        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 168208,
-      "name": "Hurry On Home",
-      "url": "https://open.spotify.com/track/2m3YK65b88DBDmSceFT8HD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Rope",
         "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Anonymous",
+      "url": "https://open.spotify.com/track/1UCFR0huAtHLoDbyO81ysJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleater-Kinney (Remastered)",
         "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 64160,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl"
+      "duration_ms": 218586,
+      "name": "The Last Song",
+      "url": "https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK"
     },
     {
       "added_at": null,
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 218586,
-      "name": "The Last Song",
-      "url": "https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK"
+      "duration_ms": 120173,
+      "name": "Slow Song",
+      "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 255613,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/71MqcI9yBZ4uZEQC9RXCgm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "Was It a Lie?",
-      "url": "https://open.spotify.com/track/43vktok5h1vpc5w2Iwbbqq"
     }
   ],
   "unique_name": "This Is Sleater-Kinney",

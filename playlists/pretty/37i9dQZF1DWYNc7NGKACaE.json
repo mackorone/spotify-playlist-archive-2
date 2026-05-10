@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83598,
+  "num_followers": 83591,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Boa Noite, DEUS (Sped Up)",
-        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
-      },
-      "artists": [
-        {
-          "name": "Nick Die",
-          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
-        },
-        {
-          "name": "WMBR",
-          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Boa Noite, DEUS (Sped Up)",
-      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Conto do Pescador (Speed Version)",
         "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Boa Noite, DEUS (Sped Up)",
+        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
+      },
+      "artists": [
+        {
+          "name": "Nick Die",
+          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Boa Noite, DEUS (Sped Up)",
+      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
     },
     {
       "added_at": "2024-07-08 19:10:57",

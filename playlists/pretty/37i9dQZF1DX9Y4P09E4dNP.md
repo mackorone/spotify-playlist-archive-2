@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: KiDi & Lasmid
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,524 likes - 57 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,542 likes - 57 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,727 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,785 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [虚空の迷宮](https://open.spotify.com/track/7w7BTGHrb0TOJDJtkBS3SL) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/5BjhOyL2SL0DfQIAfKV41f) | 4:18 |
 | 50 | [コジコジ銀座](https://open.spotify.com/track/01zzfKPpN3CnJy4jNtsPQm) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [JAILHOUSE HITS](https://open.spotify.com/album/3SuGZOwkctOdagWobz29SA) | 4:56 |
 
-Snapshot ID: `AAAAAGSFQ/ACLIi6ufP1Dov4BvC9jYcP`
+Snapshot ID: `AAAAAA6DX7zoxIcrnRj1yfxeIyZMMhTy`

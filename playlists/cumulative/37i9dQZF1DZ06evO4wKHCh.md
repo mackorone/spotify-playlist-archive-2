@@ -4,7 +4,7 @@
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 28 min
+37 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Tian Mi Mi \(Your Sweet Smile\)](https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 1:03 | 2025-12-16 |  |
 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 | 2024-01-10 |  |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-17 |  |
+| [What's the Point!](https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [What's the Point!](https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS) | 2:43 | 2026-05-10 |  |
 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 | 2024-07-14 |  |
 
 \*This playlist was first scraped on 2024-01-11. Prior content cannot be recovered.

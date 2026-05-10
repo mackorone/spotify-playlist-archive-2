@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Samuel Troc
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,858 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,866 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 8 | [El Hijo De Dios](https://open.spotify.com/track/2CsDJMbMwyS4JvpfoWcj5F) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [El Hijo De Dios](https://open.spotify.com/album/3K7duNwXAJJSVfFCudKEaw) | 5:47 |
 | 9 | [No Sé Por Qué / Me Has Librado \(En Vivo\)](https://open.spotify.com/track/4iKrvMrVZlcabmoxhNPWyl) | [Franco Figueroa](https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V) | [Perfume Agradable \(En Vivo\)](https://open.spotify.com/album/7fNc6S23BmASAF5RsPGRk1) | 6:48 |
 | 10 | [Luz de Tu Amor](https://open.spotify.com/track/627iIPkZkij2LMt9onMsoU) | [Legacy Worship](https://open.spotify.com/artist/3DyDt0wDrNdfjv75uFl25I), [Legacy Worship Español](https://open.spotify.com/artist/2ZgbxhvD15ovcx7MfI3lhd), [Lauren Koltvedt](https://open.spotify.com/artist/1x3FdfdmbpjrsauZH2gjfW) | [SOBRE TODO](https://open.spotify.com/album/25MpGTQMBXqk7AdnH6uyIf) | 4:23 |
-| 11 | [Santo Por Siempre](https://open.spotify.com/track/2MBF9uj8RlHkIuvan6QbzP) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales](https://open.spotify.com/artist/41AVVAadqOdbLyVK4J14s4), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Santo Por Siempre](https://open.spotify.com/album/3hDWnVdQNC26HdP0ZleYe4) | 8:24 |
+| 11 | [Santo Por Siempre](https://open.spotify.com/track/2MBF9uj8RlHkIuvan6QbzP) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales Jr](https://open.spotify.com/artist/201ZsCpEFLxRu2qyKjMaG8), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Santo Por Siempre](https://open.spotify.com/album/3hDWnVdQNC26HdP0ZleYe4) | 8:24 |
 | 12 | [Gloria a Dios](https://open.spotify.com/track/3sxrlHDD7Qd7hUoW5FUoek) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Gloria a Dios](https://open.spotify.com/album/3ddLAyHlOONlu6joe8di7E) | 5:03 |
 | 13 | [Hoy Quiero Entregar \- Latin Pop](https://open.spotify.com/track/1gWN3Oc8zEF9Gz8Xdwu4jB) | [Cindy Esparza](https://open.spotify.com/artist/1vsexuwY24xd5fHx9XBXew) | [Hoy Quiero Entregar \(Latin Pop\)](https://open.spotify.com/album/6Hm4YqZZjH5OTNGZSVrlqS) | 4:28 |
 | 14 | [Otro Pana Ma](https://open.spotify.com/track/4CDBPBeYeD3Twigx5lGxyL) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Dr\. Roca](https://open.spotify.com/artist/5gHzgHg9sEAWIClpJNgZ2J) | [Otro Pana Ma](https://open.spotify.com/album/181ACKoRGngMLI6h4rBkW7) | 2:19 |

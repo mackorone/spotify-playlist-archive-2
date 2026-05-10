@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-494 songs - 1 day 2 hr 6 min
+495 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-30 | 2023-01-02 |
 | [Famax](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 5:35 | 2025-06-02 |  |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-03-15 | 2024-05-21 |
-| [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 | 2026-04-03 |  |
+| [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 | 2026-04-03 | 2026-05-10 |
 | [Far Away From Home \(feat\. Leony\)](https://open.spotify.com/track/0Y9qJSwdV2LvPnFmAbNIc8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Far Away From Home \(feat\. Leony\)](https://open.spotify.com/album/5DCRPiPF8kxpfVK4emac4Z) | 2:43 | 2021-10-29 | 2022-03-26 |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-06-07 | 2025-04-16 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-09-29 | 2024-03-16 |
@@ -363,6 +363,7 @@
 | [Safe Place](https://open.spotify.com/track/21bYjFUl9R51NA4E42IaSg) | [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Safe Place](https://open.spotify.com/album/5Uz6Pbu2G31sSdGZ0XGCNM) | 2:36 | 2021-10-29 | 2022-03-26 |
 | [Safe To Say](https://open.spotify.com/track/5S9uRQ803fJlDnW2GCeuCK) | [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Stacy Stone](https://open.spotify.com/artist/5WcjcKwCkKaRwP25GQt1xr) | [Safe To Say](https://open.spotify.com/album/6QAzoZwYkYHtNOB2rF6oro) | 2:26 | 2021-10-29 | 2022-03-19 |
 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 | 2022-05-26 | 2025-02-15 |
+| [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 | 2026-05-08 |  |
 | [Saturday Morning](https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Saturday Morning](https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu) | 2:40 | 2023-10-27 |  |
 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 | 2024-08-16 |  |
 | [Save Me \- Lipless Remix](https://open.spotify.com/track/2Hl5CYO3yr2Js2a8939V8C) | [Shaun Frank](https://open.spotify.com/artist/0BBwlSQvHHtahgYpLj1wJE), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Save Me \(Remixes\)](https://open.spotify.com/album/0LB4CJpSPMEzy5LDqnqSbl) | 3:10 | 2022-01-21 | 2022-04-20 |

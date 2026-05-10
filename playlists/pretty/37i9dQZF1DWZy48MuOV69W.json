@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 112408,
+  "num_followers": 112403,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 300586,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
     },
     {
       "added_at": "2025-12-15 09:00:30",

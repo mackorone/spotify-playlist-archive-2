@@ -4,7 +4,7 @@
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 36 min
+57 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 | 2026-02-21 |  |
 | [Bad \(feat\. Rihanna\) \- Remix](https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 3:58 | 2026-02-21 |  |
 | [Bag of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Bag of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW) | 4:07 | 2026-02-21 |  |
-| [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 | 2026-02-21 |  |
+| [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 | 2026-02-21 | 2026-05-10 |
+| [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 | 2026-05-10 |  |
 | [Belly](https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:08 | 2026-02-21 |  |
 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 | 2026-02-21 |  |
 | [Bounce It \(feat\. Wale & Trey Songz\)](https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Stay Trippy](https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND) | 4:20 | 2026-02-21 |  |

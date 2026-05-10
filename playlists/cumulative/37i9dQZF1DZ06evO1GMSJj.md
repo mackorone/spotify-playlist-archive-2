@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 38 min
+111 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [In The Annexe](https://open.spotify.com/track/46VGk02ZLerhw2SdV953zV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:22 | 2023-02-14 | 2025-05-28 |
 | [In The Annexe](https://open.spotify.com/track/5LrPKZmACz0BVdWGU0ycxx) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 1:22 | 2022-12-25 | 2023-02-15 |
 | [Into The Rainbow Vein](https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:44 | 2023-09-05 |  |
+| [Introit](https://open.spotify.com/track/68j6NKcGW2oCHZ0V2FDMbo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 0:35 | 2026-05-10 |  |
 | [Jacquard Causeway](https://open.spotify.com/track/7Dw7RRCKnPBlbmHteZ8Whw) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 6:35 | 2022-05-29 | 2022-10-13 |
 | [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 | 2022-05-29 | 2022-12-26 |
 | [Kaini Industries](https://open.spotify.com/track/3FJ4suZo6FuW0xmARmE0R4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 0:59 | 2023-02-16 |  |
@@ -79,6 +80,7 @@
 | [Peacock Tail](https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:24 | 2023-02-15 |  |
 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 | 2022-05-29 | 2023-02-16 |
 | [Pete Standing Alone](https://open.spotify.com/track/5SGNNAQg2hEfOZItKVFklK) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 6:07 | 2022-05-30 | 2022-10-01 |
+| [Prophecy At 1420 MHz](https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 5:04 | 2026-05-10 |  |
 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 | 2022-05-29 | 2023-02-16 |
 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 | 2023-02-15 |  |
 | [Ready Lets Go](https://open.spotify.com/track/6vM82JxGkOuGPuxg4GShI9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 0:59 | 2024-04-13 |  |

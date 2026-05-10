@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAADiNkZ9P/V1OkVsI8xw+KAT",
+  "snapshot_id": "af0ngAAAAABecYdWFcv55JlYL+dpFGmb",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossy",
-        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Cinta Laura Kiehl",
-          "url": "https://open.spotify.com/artist/6fUp4eQI2LWQCp4mfPnVMF"
-        }
-      ],
-      "duration_ms": 134947,
-      "name": "Bossy",
-      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Holy Bassgod EP",
         "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 166263,
       "name": "Kawaii 808",
       "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Cinta Laura Kiehl",
+          "url": "https://open.spotify.com/artist/6fUp4eQI2LWQCp4mfPnVMF"
+        }
+      ],
+      "duration_ms": 134947,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
     },
     {
       "added_at": null,
@@ -327,22 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
+        "name": "Want Me Back",
+        "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        },
-        {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
+      "duration_ms": 175714,
+      "name": "Want Me Back",
+      "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
     },
     {
       "added_at": null,
@@ -387,26 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Me Back",
-        "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
       },
       "artists": [
         {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Want Me Back",
-      "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
+      "duration_ms": 221083,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
       "duration_ms": 187503,
       "name": "Bassgod",
       "url": "https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mardial & Friends",
-        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
-      },
-      "artists": [
-        {
-          "name": "Mardial",
-          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 185892,
-      "name": "Digital Love",
-      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
       "duration_ms": 214109,
       "name": "Onto The Next",
       "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mardial & Friends",
+        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
+      },
+      "artists": [
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 185892,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
     },
     {
       "added_at": null,
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
     },
     {
       "added_at": null,
@@ -927,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
       },
       "artists": [
         {
@@ -936,29 +940,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 152695,
-      "name": "Go Get That B",
-      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -987,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 154583,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "whats ur problem",
-      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
     },
     {
       "added_at": null,
@@ -1035,6 +1019,22 @@
       "duration_ms": 169796,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "whats ur problem",
+      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
     },
     {
       "added_at": null,

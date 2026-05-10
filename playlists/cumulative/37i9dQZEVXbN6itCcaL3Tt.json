@@ -5869,6 +5869,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -10046,6 +10064,28 @@
       "duration_ms": 147240,
       "name": "CHCEMY TEGO WI\u0118CEJ",
       "url": "https://open.spotify.com/track/2ejo8LU8xC4y1OvrLwQdfe"
+    },
+    {
+      "album": {
+        "name": "Chcia\u0142am Ciebie wi\u0119cej",
+        "url": "https://open.spotify.com/album/77AYR4UvkJWArp6WxxClOS"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186187,
+      "name": "Chcia\u0142am Ciebie wi\u0119cej",
+      "url": "https://open.spotify.com/track/2cym1s8XR4Z5b8qPCRhT1g"
     },
     {
       "album": {
@@ -14393,6 +14433,28 @@
     },
     {
       "album": {
+        "name": "Do\u015b\u0107",
+        "url": "https://open.spotify.com/album/0Cw7e6Xsm9aFiITbfWcFmv"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Do\u015b\u0107",
+      "url": "https://open.spotify.com/track/3HVS8yFZ32oRk8ZXgzVO3B"
+    },
+    {
+      "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
@@ -15946,7 +16008,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -25300,7 +25362,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 409600,
       "name": "Kamie\u0144 z serca",
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
@@ -54444,7 +54506,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 141924,
       "name": "TO NIEODPOWIEDZIALNE",
       "url": "https://open.spotify.com/track/3gi4zIAgCG6vCiofK4Oy2h"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,274 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,332 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 62 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
 | 63 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
 | 64 | [Clarity](https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Clarity](https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13) | 3:09 |
-| 65 | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9) | 3:25 |
-| 66 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
-| 67 | [Bang Bang](https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl) | [Bang Bang](https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW) | 3:47 |
-| 68 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
+| 65 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
+| 66 | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9) | 3:25 |
+| 67 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
+| 68 | [Bang Bang](https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl) | [Bang Bang](https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW) | 3:47 |
 | 69 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
-| 70 | [Fireflies](https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Fireflies](https://open.spotify.com/album/6nOapUMLsTZEAmqImAeIHv) | 2:33 |
+| 70 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
 
 Snapshot ID: `AAAAAMWDLCRxchhIFKgoASs3ey4opViU`

@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 515542,
+  "num_followers": 515564,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Tea for the Tillerman",
-        "url": "https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/19slC7k8bsPOAKDjHYLU2W"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "All Things Must Pass (Remastered)",
         "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 281226,
       "name": "My Sweet Lord",
       "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Tea for the Tillerman",
+        "url": "https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/19slC7k8bsPOAKDjHYLU2W"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Bloody Tourists",
         "url": "https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 267946,
       "name": "Dreadlock Holiday",
       "url": "https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
     },
     {
       "added_at": "2024-06-03 14:45:23",

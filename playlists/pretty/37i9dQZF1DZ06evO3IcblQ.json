@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36431,
+  "num_followers": 36433,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAPYPYff8xpcWhiOQ9pnvXj",
+  "snapshot_id": "af0ngAAAAABr/g/w0rkUBECkIc7vu0lK",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Land of the Free?",
-      "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NINE LIVES",
         "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 172573,
       "name": "LAST ONE STANDING (feat. Jim from Pennywise)",
       "url": "https://open.spotify.com/track/3F9z5GtlvMuaAtiwLeTfB0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Land of the Free?",
+      "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Something Wrong With Me",
-      "url": "https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Or Nothing (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 149160,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2vwDIlA1KGBOriSuCa39iC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Something Wrong With Me",
+      "url": "https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-456 songs - 1 day 1 hr 33 min
+457 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [dance with you](https://open.spotify.com/track/58nJsvQGn9GEVS5GCoAB30) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 3:33 | 2026-03-14 | 2026-04-14 |
 | [Dark Gift](https://open.spotify.com/track/4K2mhBOdr1Yx93LLMhZ03s) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Dark Gift](https://open.spotify.com/album/5UITfythp3Lzp3nvPVKOjv) | 4:14 | 2025-12-26 | 2026-01-15 |
 | [De todo a nada](https://open.spotify.com/track/6KumsJUvJKqlbkQBP7WgOM) | [Samm](https://open.spotify.com/artist/3KNTZ7fJISc0Dk26rtDmyE) | [De todo a nada](https://open.spotify.com/album/0b5UPzw07NmrZoqpEvNm6G) | 3:07 | 2025-12-24 | 2026-01-15 |
+| [Dear Life](https://open.spotify.com/track/1FyM52HTIUHv7sZ8uhkNPN) | [Mini Mac](https://open.spotify.com/artist/5Q6A3CQzarSJBqCGu2f74S), [E Black](https://open.spotify.com/artist/4vT1MJAeRMB22R9xYzRu0p) | [Dear Life](https://open.spotify.com/album/065aJhIr0xiOW47HX0cWDQ) | 2:49 | 2026-05-09 |  |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-26 | 2026-01-15 |
 | [Depura](https://open.spotify.com/track/6BdrfMdQctqRzDyLo1DuuZ) | [mattia salvadori](https://open.spotify.com/artist/0vZtIijmaCyiXHayb24OIK) | [Depura](https://open.spotify.com/album/5ga8Nd3RVhQjAV103LGmC2) | 3:06 | 2025-11-08 | 2025-12-01 |
 | [Der letzte Atemzug](https://open.spotify.com/track/6tlekuUGxDNQzFPYvKlhwU) | [binichwer](https://open.spotify.com/artist/66IcuW0n8YtbJnVM73ZQDK) | [Der letzte Atemzug](https://open.spotify.com/album/3uS9SEJqOrXjBjVQykpvRv) | 2:46 | 2025-11-10 | 2025-12-01 |
@@ -186,7 +187,7 @@
 | [Higher Ground](https://open.spotify.com/track/6OKnrZiGv6u4gDg92UuEtf) | [Fernando's Eyes](https://open.spotify.com/artist/2nrwwBTk2oiNYRK29k6vGr) | [Bonus Tracks & Remixes](https://open.spotify.com/album/0wLTi4IIGvYo9isxjLoxHi) | 6:11 | 2025-11-22 | 2026-01-05 |
 | [HITTING ON THE GAS](https://open.spotify.com/track/2yJjRs0Yr4kdrJCThvOGDu) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [HITTING ON THE GAS](https://open.spotify.com/album/2Nov4ezCXoKsjhTctOs0Sx) | 3:17 | 2026-03-09 |  |
 | [Hold On](https://open.spotify.com/track/4Wo7nXA54eJJ42tzRaED3i) | [Dono](https://open.spotify.com/artist/2X3HWlSgzq0vYKsR7kACxn) | [Hold On](https://open.spotify.com/album/1MoZcHm6ZFVNzm8R7OJeSl) | 2:33 | 2025-12-23 | 2026-01-15 |
-| [Home Again](https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Home Again](https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR) | 3:16 | 2026-03-24 |  |
+| [Home Again](https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Home Again](https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR) | 3:16 | 2026-03-24 | 2026-05-10 |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-30 | 2026-01-25 |
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-11-17 | 2026-01-05 |
 | [Horizon](https://open.spotify.com/track/14NrwQ1HYsMnuq38FCqDCJ) | [Echoeswave](https://open.spotify.com/artist/1MtZxcUYya2yS1cpJaFJ0P) | [Horizon](https://open.spotify.com/album/344uJUD7uj9Ps7VB4G2mgC) | 3:27 | 2026-03-29 |  |

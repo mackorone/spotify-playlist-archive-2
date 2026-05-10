@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 819363,
+  "num_followers": 819410,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,46 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 170580,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -879,22 +919,6 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
         "name": "Si Fuera Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 207843,
       "name": "Si Fuera Tan F\u00e1cil",
       "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 170580,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
+        "name": "En la piel",
+        "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 310099,
+      "name": "Te hubieras ido antes - En Vivo",
+      "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
         "name": "Si tu no vuelves / Tu misterioso alguien (En Vivo)",
         "url": "https://open.spotify.com/album/4Uny4FGxGwA9WBYCxwbTvO"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 259604,
       "name": "Si tu no vuelves / Tu misterioso alguien - En Vivo",
       "url": "https://open.spotify.com/track/2dLOhL6DX6VR0ZLYiui5hb"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
-        "name": "En la piel",
-        "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 310099,
-      "name": "Te hubieras ido antes - En Vivo",
-      "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
         "name": "Hasta Que Me Olvides",
         "url": "https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 218722,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1687,42 +1687,6 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
-        "name": "Que Te Vuelva Amor",
-        "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 150764,
-      "name": "Que Te Vuelva Amor",
-      "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
-        "name": "Baby Nueva",
-        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 167450,
-      "name": "Baby Nueva",
-      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
         "name": "No Cambi\u00e9",
         "url": "https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux"
       },
@@ -1747,22 +1711,38 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
-        "name": "JULIETA & ROMEO (En Vivo)",
-        "url": "https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4"
+        "name": "Baby Nueva",
+        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
       },
       "artists": [
         {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 163468,
-      "name": "JULIETA & ROMEO (En Vivo)",
-      "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
+      "duration_ms": 167450,
+      "name": "Baby Nueva",
+      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
+        "name": "Que Te Vuelva Amor",
+        "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 150764,
+      "name": "Que Te Vuelva Amor",
+      "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1787,6 +1767,26 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
+        "name": "JULIETA & ROMEO (En Vivo)",
+        "url": "https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 163468,
+      "name": "JULIETA & ROMEO (En Vivo)",
+      "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
         "name": "Princesa (En Vivo)",
         "url": "https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm"
       },
@@ -1807,26 +1807,6 @@
       "duration_ms": 170062,
       "name": "Princesa - En Vivo",
       "url": "https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
-        "name": "Son De Amores",
-        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Son De Amores",
-      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1863,6 +1843,26 @@
       "duration_ms": 213920,
       "name": "No Dire Que Si",
       "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
+        "name": "Son De Amores",
+        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Son De Amores",
+      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     }
   ],
   "unique_name": "100% Cuarteto",

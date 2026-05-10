@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1613904,
+  "num_followers": 1613966,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJw0uR11ZdlSW4Ifb66mPRyG0gRY",
+  "snapshot_id": "AAAAAOsiNUwA7KRS7Jh3+CtYXMMs5Lky",
   "tracks": [
     {
       "added_at": "2026-05-01 14:43:28",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 144000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -739,6 +739,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
@@ -951,6 +951,26 @@
       "duration_ms": 198190,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Super Powers",
+        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Super Powers",
+      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -979,22 +999,18 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Super Powers",
-        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 212307,
-      "name": "Super Powers",
-      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1019,22 +1035,6 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Communicate +",
-        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Where Have You Been",
         "url": "https://open.spotify.com/album/2pfVvPhv9H05U3NYcyaxW8"
       },
@@ -1531,6 +1499,22 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Communicate +",
+        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 167040,
       "name": "Home",
       "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Caught in a Moment",
         "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
@@ -1811,6 +1811,30 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Surrender Your Love (Progressive Edit)",
+        "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 185629,
+      "name": "Surrender Your Love - Progressive Edit",
+      "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1835,26 +1859,6 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "The Good Part",
-        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "LORYN",
-          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1915,6 +1919,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
       },
@@ -1927,30 +1951,6 @@
       "duration_ms": 314462,
       "name": "Blink",
       "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Surrender Your Love (Progressive Edit)",
-        "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Steerner",
-          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 185629,
-      "name": "Surrender Your Love - Progressive Edit",
-      "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "It's All On You",
-        "url": "https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 223761,
-      "name": "It\u2019s All On You",
-      "url": "https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 204000,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
     }
   ],
   "unique_name": "Night Rider",

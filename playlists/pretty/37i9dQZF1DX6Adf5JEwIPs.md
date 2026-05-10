@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Codiciado 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,169 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,210 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 30 | [Todo Que Ver](https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Todo Que Ver](https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV) | 3:05 |
 | 31 | [Mañana Dios Dirá](https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9) | [Ayudantes del Rancho](https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mañana Dios Dirá](https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H) | 2:09 |
 | 32 | [SIETEH](https://open.spotify.com/track/3aCOf3Q4fQlSygULHXcOh4) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v) | [SIETEH](https://open.spotify.com/album/3kTFgUzLlSKPH76uXK9qy2) | 3:36 |
-| 33 | [Muñequita Rabiosa \(Live\)](https://open.spotify.com/track/21N0upZW9Keo33gqbyARIU) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Cantando Y Tomando \(Live\)](https://open.spotify.com/album/2BN4qLaGeuHOVNMjQ9rkmn) | 2:23 |
+| 33 | [Muñequita Rabiosa \(Live\)](https://open.spotify.com/track/21N0upZW9Keo33gqbyARIU) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Tomando Y Cantando \(Live\)](https://open.spotify.com/album/2BN4qLaGeuHOVNMjQ9rkmn) | 2:23 |
 | 34 | [24/siete](https://open.spotify.com/track/3gJmHU5pw1Gi0sCsxXu1aw) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Gerardo Mercado](https://open.spotify.com/artist/3uQSc2G13vlxsMDBb92llt), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [24/siete](https://open.spotify.com/album/2bBmW0IKf5DkJunEb2EzTC) | 3:13 |
 | 35 | [La Mas Bonita De Todas \- En Vivo](https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z) | [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Mayo 2026 \(En Vivo\)](https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt) | 2:16 |
 | 36 | [Costumbres](https://open.spotify.com/track/1df4p2Tm7PrGirl7ZHHTsT) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Costumbres](https://open.spotify.com/album/641NDmbp0sSC7Kh2OO1ieM) | 3:23 |

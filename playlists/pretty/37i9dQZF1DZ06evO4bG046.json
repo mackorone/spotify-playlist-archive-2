@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAlahj60S4XgpCY5ysBq2Ck",
+  "snapshot_id": "af0ngAAAAAAVMFLczNngsh4Dsjn+e9ZY",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Bebida M\u00e1gica",
+      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 225093,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 394573,
-      "name": "Foto de Primera Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 179015,
-      "name": "Bebida M\u00e1gica",
-      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
     },
     {
       "added_at": null,

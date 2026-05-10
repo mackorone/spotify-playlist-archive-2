@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8181,
+  "num_followers": 8183,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABJ+GoxzhUr4Sodsm2pSKg7",
+  "snapshot_id": "af0ngAAAAACSxRDt1TYjFwepGzEjYxGj",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+      "duration_ms": 184052,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 184052,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 189707,
-      "name": "Idos De La Mente",
-      "url": "https://open.spotify.com/track/7aJ5OaN90p7aJ7zNkdCZlr"
+      "duration_ms": 197464,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/3KkIKDNu1SprncxcMs32q9"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+      "duration_ms": 167146,
+      "name": "Ay Chatita",
+      "url": "https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 167146,
-      "name": "Ay Chatita",
-      "url": "https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Exitos Inmortales",
         "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 196893,
       "name": "Falsa Ilusion",
       "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,

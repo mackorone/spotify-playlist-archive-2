@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "WACO (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289165,
+      "name": "Golden Days - B-Side",
+      "url": "https://open.spotify.com/track/0psOxAjyK4knJpByjZNyX4"
+    },
+    {
+      "album": {
         "name": "Violent Soho",
         "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
@@ -344,6 +362,24 @@
       "duration_ms": 202740,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8"
+    },
+    {
+      "album": {
+        "name": "WACO (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223521,
+      "name": "Lay Me Down - B-Side",
+      "url": "https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg"
     },
     {
       "album": {

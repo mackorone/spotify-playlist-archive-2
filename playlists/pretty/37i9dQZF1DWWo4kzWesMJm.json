@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 182960,
+  "num_followers": 182998,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Kendji",
-        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Andalouse",
-      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Un Jour D'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 203226,
       "name": "Ma philosophie",
       "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Kendji",
+        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Andalouse",
+      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "L\u00d8VE",
-        "url": "https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Paris-Seychelles",
-      "url": "https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
+        "name": "L\u00d8VE",
+        "url": "https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Paris-Seychelles",
+      "url": "https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
         "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 243560,
       "name": "Paris Latino - Original Version 1983",
       "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
-      },
-      "artists": [
-        {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "Lady M\u00e9lody",
-      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -495,6 +479,22 @@
       "duration_ms": 173266,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Lady M\u00e9lody",
+      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Mauvais Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+        "name": "La goffa Lolita",
+        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
       },
       "artists": [
         {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+          "name": "Vinc\u00e8 la petite culotte",
+          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
         }
       ],
-      "duration_ms": 162706,
-      "name": "Mauvais Gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+      "duration_ms": 221149,
+      "name": "La goffa Lolita",
+      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -579,34 +579,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "La goffa Lolita",
-        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
+        "name": "Mauvais Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
       },
       "artists": [
         {
-          "name": "Vinc\u00e8 la petite culotte",
-          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
         }
       ],
-      "duration_ms": 221149,
-      "name": "La goffa Lolita",
-      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+      "duration_ms": 162706,
+      "name": "Mauvais Gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -623,6 +607,22 @@
       "duration_ms": 275040,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Vari\u00e9ty",
         "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 219933,
       "name": "Ding Dang Dong (Ringing at Your Bell)",
       "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2026-04-17 09:45:18",

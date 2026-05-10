@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 55 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 |
 | 56 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 |
 | 57 | [Fulmini Addosso \- from the Prime Video Original Movie L'ESTATE PIÙ CALDA](https://open.spotify.com/track/5ps2orxLf5i8TE1jIi73En) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Cani Sciolti](https://open.spotify.com/album/3fzEUjbWHpnBIMVsXBSTWY) | 3:41 |
-| 58 | [Sbagliata Ascendente Leone \- Original Soundtrack](https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SBAGLIATA ASCENDENTE LEONE \(OFFICIAL SOUNDTRACK\)](https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P) | 3:26 |
-| 59 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
+| 58 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
+| 59 | [Sbagliata Ascendente Leone \- Original Soundtrack](https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SBAGLIATA ASCENDENTE LEONE \(OFFICIAL SOUNDTRACK\)](https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P) | 3:26 |
 | 60 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 |
 | 61 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 |
 | 62 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 93 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 | 94 | [Per sempre si](https://open.spotify.com/track/1ePROwpZ6DzqGzN2do7r0u) | [Joseph Messina](https://open.spotify.com/artist/55hWEabWXznMkaXLDQT2TC) | [Per sempre si](https://open.spotify.com/album/3ltueIHwQNpAuBNE5fIX60) | 3:32 |
 
-Snapshot ID: `AcQ+kgAAAACAsTjwmxUlGQpT8pvZWlUM`
+Snapshot ID: `AcREMgAAAABnsWyMV66XlOE+P5d0UKet`

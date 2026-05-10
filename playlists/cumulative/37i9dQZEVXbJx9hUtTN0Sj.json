@@ -6507,6 +6507,24 @@
     },
     {
       "album": {
+        "name": "BILLETS",
+        "url": "https://open.spotify.com/album/6AfjryYLgItkxDiQugMw8I"
+      },
+      "artists": [
+        {
+          "name": "ssax2027",
+          "url": "https://open.spotify.com/artist/54n8smTltkeYTyvgHFNywI"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137206,
+      "name": "BILLETS",
+      "url": "https://open.spotify.com/track/3A9nndP9wbmnsLDcVIIix9"
+    },
+    {
+      "album": {
         "name": "Billets Mauves (feat. SDM)",
         "url": "https://open.spotify.com/album/3rkAyXIdYPtoyw7OCZ7WOF"
       },
@@ -7626,7 +7644,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -9192,7 +9210,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -9276,6 +9294,24 @@
     {
       "album": {
         "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3l7rEp8JiQDyrM8WHVw6vo"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/1UcCAYT16qXS2Tts2NdHhM"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/3ggKdQGatbrPLhmOPxfX4W"
       },
       "artists": [
@@ -9286,7 +9322,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -9884,7 +9920,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/2FkLUk8woeuqqmVADmxsDn"
@@ -9920,7 +9956,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
@@ -17115,6 +17151,24 @@
     },
     {
       "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/4Vnu314Dm9lM3IuOinUDXB"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193538,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/1hTDrAziXO5Pyw3Br9WH3l"
+    },
+    {
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -22922,7 +22976,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 191687,
       "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
@@ -24906,7 +24960,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
@@ -24924,7 +24978,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/77kMHM0D2MgGTjoL2308Lm"
@@ -25664,7 +25718,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 180386,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
@@ -26298,7 +26352,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -26862,6 +26916,24 @@
       "duration_ms": 207253,
       "name": "Ke\u015fke",
       "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
+    },
+    {
+      "album": {
+        "name": "KGB",
+        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157316,
+      "name": "KGB",
+      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
     },
     {
       "album": {
@@ -36060,7 +36132,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 144406,
       "name": "Nala (Bring Me Home)",
       "url": "https://open.spotify.com/track/2HpOwVx31rNUQFT8CexxOB"
@@ -41983,6 +42055,28 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151653,
+      "name": "P\u00e9p\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/116oQKB5iCmADxg2wvJdcG"
+    },
+    {
+      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -43360,7 +43454,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 143640,
       "name": "rose",
       "url": "https://open.spotify.com/track/5dNfKERYCowGoteBw4kYRb"
@@ -45230,7 +45324,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 205714,
       "name": "Shadow Of Your Love",
       "url": "https://open.spotify.com/track/5TbXXdFGLeCQegxSfANqq3"

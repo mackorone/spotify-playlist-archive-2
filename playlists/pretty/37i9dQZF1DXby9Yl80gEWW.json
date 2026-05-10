@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 62077,
+  "num_followers": 62088,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Appalachian Picking Society",
-        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
-      },
-      "artists": [
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Annabelle June",
-      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
         "name": "The Harmonic Tone Revealers",
         "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 311693,
       "name": "Midnight on the Water",
       "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "Appalachian Picking Society",
+        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Annabelle June",
+      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
         "name": "Grandfather's Clock",
         "url": "https://open.spotify.com/album/6T0WRzIvEKhxMNa0vVvMex"
       },
@@ -567,24 +583,8 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Live Rosin",
-      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
         "name": "Your Daughters & Your Sons",
         "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
@@ -663,8 +647,24 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+      "duration_ms": 217733,
+      "name": "Live Rosin",
+      "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
         "name": "Three Star Hornpipe",
         "url": "https://open.spotify.com/album/0m8HMbaxJlRjAICHLL9Hkf"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
         "name": "Celebrants",
         "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
         "name": "Toward the Fray",
         "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
@@ -1067,6 +1083,22 @@
       "duration_ms": 301786,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "Aced",
+        "url": "https://open.spotify.com/album/7atKZ6vryzxB0lbhwlv5NW"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Crossville",
+      "url": "https://open.spotify.com/track/47KcdqpGiAsNRJ9WWI0fGG"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1091,22 +1123,6 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
         "name": "Blue Collared Dog and His Green Eyed Friend",
         "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 222000,
       "name": "Blue Collared Dog and His Green Eyed Friend",
       "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
-        "name": "Aced",
-        "url": "https://open.spotify.com/album/7atKZ6vryzxB0lbhwlv5NW"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Crossville",
-      "url": "https://open.spotify.com/track/47KcdqpGiAsNRJ9WWI0fGG"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
-      },
-      "artists": [
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
         "name": "Crowe River",
         "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
       },
@@ -1259,18 +1243,34 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Stinkhorn",
-        "url": "https://open.spotify.com/album/4Y4x4xVwbjhp2f0Zt0dT67"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
       },
       "artists": [
         {
-          "name": "Hannah Read",
-          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
         }
       ],
-      "duration_ms": 145243,
-      "name": "Stinkhorn",
-      "url": "https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg"
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1299,34 +1299,18 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+        "name": "Stinkhorn",
+        "url": "https://open.spotify.com/album/4Y4x4xVwbjhp2f0Zt0dT67"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+          "name": "Hannah Read",
+          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
         }
       ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
+      "duration_ms": 145243,
+      "name": "Stinkhorn",
+      "url": "https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1351,6 +1335,22 @@
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1543,6 +1543,38 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
+        "name": "Finnland",
+        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Finnland",
+      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Bozeman",
+      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1575,34 +1607,18 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+        "name": "Bop Your Head",
+        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
       },
       "artists": [
         {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Bozeman",
-      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
-        "name": "Finnland",
-        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Finnland",
-      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+      "duration_ms": 166132,
+      "name": "Bop Your Head",
+      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1619,22 +1635,6 @@
       "duration_ms": 244111,
       "name": "Bluegrass Ben",
       "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
-        "name": "Bop Your Head",
-        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
-      },
-      "artists": [
-        {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "Bop Your Head",
-      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
       "added_at": "2026-04-17 04:00:29",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-04-17 04:00:29",
       "album": {
-        "name": "Whiskey in the Jar",
-        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
-      },
-      "artists": [
-        {
-          "name": "Josep Traver",
-          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
-        },
-        {
-          "name": "Tom Corbett",
-          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
-        }
-      ],
-      "duration_ms": 135453,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
-    },
-    {
-      "added_at": "2026-04-17 04:00:29",
-      "album": {
         "name": "Crazy Creek",
         "url": "https://open.spotify.com/album/2JxJhhtE5BVWiiRov2rKUh"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 302000,
       "name": "Crazy Creek",
       "url": "https://open.spotify.com/track/2bHknQnqcBwt6SiEXBrGqV"
+    },
+    {
+      "added_at": "2026-04-17 04:00:29",
+      "album": {
+        "name": "Whiskey in the Jar",
+        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
+      },
+      "artists": [
+        {
+          "name": "Josep Traver",
+          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
+        },
+        {
+          "name": "Tom Corbett",
+          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
     },
     {
       "added_at": "2026-04-17 04:00:29",

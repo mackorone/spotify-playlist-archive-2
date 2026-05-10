@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-135 songs - 8 hr 17 min
+136 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Get Buck In Here](https://open.spotify.com/track/5zN3VFmNhdOKxRElarvVq5) | [DJ Felli Fel](https://open.spotify.com/artist/7sHWvTWufU865WrWckjyE0), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Buck In Here](https://open.spotify.com/album/03nq6Xfwd4y9HP9e1vEB94) | 3:49 | 2024-09-20 | 2025-04-29 |
 | [GET MONEY](https://open.spotify.com/track/7LUYiyveoCa10mdkdFW7gZ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [GET MONEY](https://open.spotify.com/album/0Zd0IXMziasEGSDrWXRk33) | 3:41 | 2021-12-30 | 2022-09-09 |
 | [Ghetto](https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 |  |
-| [Ghetto Story Chapter 3 \(feat\. Akon\)](https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Ghetto Story](https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa) | 4:22 | 2025-11-17 |  |
+| [Ghetto Story Chapter 3 \(feat\. Akon\)](https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Ghetto Story](https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa) | 4:22 | 2025-11-17 | 2026-05-10 |
 | [Go Girl](https://open.spotify.com/track/1rxaEMHbyGrNyvlob9YLcc) | [Teemanay](https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [KONVICT KULTURE PRESENTS TEEMANAY](https://open.spotify.com/album/12QkZc4BjyJWPVeftlb4T3) | 2:41 | 2023-02-05 | 2023-02-19 |
 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 | 2022-10-29 | 2023-08-19 |
 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 | 2021-12-28 |  |
@@ -143,5 +143,6 @@
 | [What You Got](https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Colby O](https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3) | 4:03 | 2021-12-28 |  |
 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 | 2023-03-20 |  |
 | [Who Dat Girl \(feat\. Akon\)](https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:20 | 2021-12-28 |  |
+| [YOUR BODY](https://open.spotify.com/track/4svDchbkVH5lCoalOyxmYC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:47 | 2026-05-10 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

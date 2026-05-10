@@ -2679,6 +2679,28 @@
     },
     {
       "album": {
+        "name": "Teb",
+        "url": "https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC"
+      },
+      "artists": [
+        {
+          "name": "Tebtu",
+          "url": "https://open.spotify.com/artist/4VVetWxuWhE6moggaKzJwB"
+        },
+        {
+          "name": "Tenet",
+          "url": "https://open.spotify.com/artist/42zJQmRYrhAZQrpQL9ZVBn"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193697,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/7bBnQzXdNjsxqgf7FxP7bn"
+    },
+    {
+      "album": {
         "name": "Casey Bloom - EP",
         "url": "https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK"
       },

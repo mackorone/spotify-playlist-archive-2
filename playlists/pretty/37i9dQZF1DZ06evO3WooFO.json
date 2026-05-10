@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 623405,
+  "num_followers": 623468,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACgmTBVAF87nS9XvC3yhIda",
+  "snapshot_id": "af0ngAAAAABvd5OA5FcD9D8BRr+T7/HZ",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
+      "duration_ms": 179436,
+      "name": "Pin the Grenade",
+      "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 179436,
-      "name": "Pin the Grenade",
-      "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighborhoods (Deluxe)",
         "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
       },
@@ -772,9 +756,25 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 179880,
-      "name": "Even If She Falls",
-      "url": "https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo"
+      "duration_ms": 257519,
+      "name": "Ghost On The Dance Floor",
+      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buddha",
+        "url": "https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 64560,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL"
     },
     {
       "added_at": null,

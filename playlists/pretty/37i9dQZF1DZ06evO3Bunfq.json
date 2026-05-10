@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 129511,
+  "num_followers": 129520,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAyye6YNWGRCIGLtCRUR9C1",
+  "snapshot_id": "af0ngAAAAABxpRBI3Bio+PP3etj972WE",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -91,26 +111,6 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+      "duration_ms": 207106,
+      "name": "Serenata Rap",
+      "url": "https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Serenata Rap",
-      "url": "https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc"
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bols\u00f3n",
-        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "El Bols\u00f3n",
-      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retumbando en la Ciudad",
         "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 214736,
       "name": "Retumbando en la Ciudad",
       "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia Mal Contada",
-        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Para Olvidarme De Tus Besos",
-      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Perdedor",
         "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 228687,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Para Olvidarme De Tus Besos",
+      "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 193219,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Hasta Arriba",
         "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 169146,
       "name": "Qu\u00e9 Buen Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 193219,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2OtKy3OiSyHPWyOqF9T2LF"
     },
     {
       "added_at": null,

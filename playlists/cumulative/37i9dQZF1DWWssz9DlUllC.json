@@ -597,6 +597,28 @@
     },
     {
       "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        },
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
+    },
+    {
+      "album": {
         "name": "Bololo",
         "url": "https://open.spotify.com/album/69vo5eFdRo97geZkqJNHVJ"
       },
@@ -3642,7 +3664,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"

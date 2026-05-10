@@ -4,7 +4,7 @@
 
 > 🌱🌸🌾🌼
 
-349 songs - 18 hr 9 min
+350 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [monumenter](https://open.spotify.com/track/7aFKmPmGBk7OKkUiou1HmO) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [monumenter](https://open.spotify.com/album/1TYTd1SZwsVbhpiWqI3MMY) | 3:15 | 2026-04-02 | 2026-04-21 |
 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 | 2026-05-01 |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
+| [MS\. SEROTONIN](https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [MS\. SEROTONIN](https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP) | 2:32 | 2026-05-08 |  |
 | [Månen](https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Månen](https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD) | 2:57 | 2025-12-11 | 2026-01-28 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2025-03-26 |
 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 | 2025-02-06 | 2025-04-18 |
@@ -301,7 +302,7 @@
 | [St\. Tropez](https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [St\. Tropez](https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe) | 2:22 | 2025-05-22 | 2025-07-18 |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-27 | 2024-10-11 |
 | [Stay](https://open.spotify.com/track/7dkLiX1LPbQC5B9Ez1lRyv) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Stay + Happy Ever After](https://open.spotify.com/album/0Cw5dNHIOJR5XCqcUgeT1D) | 2:46 | 2025-09-04 | 2025-09-19 |
-| [Sterkere enn du vet](https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Sterkere enn du vet](https://open.spotify.com/album/1gTASC1XJ4eZEEJoXZAAjn) | 3:33 | 2026-01-22 |  |
+| [Sterkere enn du vet](https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Sterkere enn du vet](https://open.spotify.com/album/1gTASC1XJ4eZEEJoXZAAjn) | 3:33 | 2026-01-22 | 2026-05-10 |
 | [Store gutter gråter ikke](https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Store gutter gråter ikke](https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb) | 3:28 | 2025-10-30 | 2026-03-06 |
 | [Stuck in November](https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Half Decade Addiction](https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP) | 4:33 | 2026-01-15 | 2026-03-19 |
 | [Summer Rain](https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Summer Rain](https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B) | 2:42 | 2024-06-27 | 2025-05-03 |

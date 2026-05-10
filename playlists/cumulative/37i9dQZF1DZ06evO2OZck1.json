@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Chanka Chanka",
+        "url": "https://open.spotify.com/album/2cNUjLmnqoE2ZfHlx6SZtN"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179012,
+      "name": "Chanka Chanka",
+      "url": "https://open.spotify.com/track/6BHCsXVZbOSB5wLoqF0Utc"
+    },
+    {
+      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },

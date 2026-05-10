@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con maye.",
-  "num_followers": 745739,
+  "num_followers": 745666,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "Sunshine & Rain...",
+        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Sunshine & Rain...",
+      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "Goo Goo Ga Ga",
         "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 191765,
       "name": "Goo Goo Ga Ga",
       "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "Sunshine & Rain...",
-        "url": "https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Sunshine & Rain...",
-      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
         "name": "no te vayas",
         "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 194890,
       "name": "no te vayas",
       "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -859,6 +859,30 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "BARBIE",
+        "url": "https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "rodrii",
+          "url": "https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi"
+        },
+        {
+          "name": "Hillkidd",
+          "url": "https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "BARBIE",
+      "url": "https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 163125,
       "name": "La Noche Que No Hab\u00eda Uber",
       "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "BARBIE",
-        "url": "https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "rodrii",
-          "url": "https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi"
-        },
-        {
-          "name": "Hillkidd",
-          "url": "https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "BARBIE",
-      "url": "https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
         "name": "Falta Algo",
         "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 103650,
       "name": "Me Caigo",
       "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        },
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "YORU",
         "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 168750,
       "name": "MENTIRNOS HOY",
       "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "Menina",
-        "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
-      },
-      "artists": [
-        {
-          "name": "Nezzah",
-          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
-        },
-        {
-          "name": "ZUCO OMG",
-          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "karma",
-        "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 150960,
-      "name": "karma",
-      "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+        "name": "karma",
+        "url": "https://open.spotify.com/album/2xMf32apRnpyCvxtXBRYkB"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
         }
       ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+      "duration_ms": 150960,
+      "name": "karma",
+      "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "EL OTRO T\u00da",
+        "url": "https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl"
+      },
+      "artists": [
+        {
+          "name": "Sam Eli",
+          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
+        }
+      ],
+      "duration_ms": 172840,
+      "name": "EL OTRO T\u00da",
+      "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "Pinta Bonito",
         "url": "https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 189598,
       "name": "ME TEN\u00cdA QUE PASAR",
       "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "EL OTRO T\u00da",
-        "url": "https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl"
-      },
-      "artists": [
-        {
-          "name": "Sam Eli",
-          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
-        }
-      ],
-      "duration_ms": 172840,
-      "name": "EL OTRO T\u00da",
-      "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
     }
   ],
   "unique_name": "Mixto",

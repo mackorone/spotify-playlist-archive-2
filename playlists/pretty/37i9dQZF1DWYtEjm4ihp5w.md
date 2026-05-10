@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,683 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,887 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 3 | [Ghalta](https://open.spotify.com/track/6vBzvcFgcTLY8ON2pg1qFK) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PAVAROTTI X GHALTA](https://open.spotify.com/album/7HOZlpw9TvgwwTcLQhN8F4) | 2:42 |
 | 4 | [La Fin](https://open.spotify.com/track/69DMEO4aEvJA0nnT9FNuLV) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Tornado](https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D) | 3:15 |
 | 5 | [ACH DANI](https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 2:57 |
-| 6 | [SOFITEL](https://open.spotify.com/track/6liRQ6BYzi2mazj3OAtDhX) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SOFITEL](https://open.spotify.com/album/4niYL0OcwKMBeUMK7xL1O4) | 1:57 |
+| 6 | [caramel](https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [caramel](https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H) | 2:43 |
 | 7 | [CHANEL](https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [CHANEL](https://open.spotify.com/album/7aRrvJE7TTlHPNCqPYAeq3) | 3:28 |
-| 8 | [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 |
-| 9 | [Machi M3ana](https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Machi M3ana](https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx) | 2:33 |
-| 10 | [ÉVIDEMMENT](https://open.spotify.com/track/2SlYKyAt0flJtDNjQqOwLh) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [ÉVIDEMMENT](https://open.spotify.com/album/2sTrB03DSMttKn9qZs5tc2) | 3:28 |
-| 11 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 |
-| 12 | [caramel](https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [caramel](https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H) | 2:43 |
+| 8 | [SOFITEL](https://open.spotify.com/track/6liRQ6BYzi2mazj3OAtDhX) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SOFITEL](https://open.spotify.com/album/4niYL0OcwKMBeUMK7xL1O4) | 1:57 |
+| 9 | [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 |
+| 10 | [Machi M3ana](https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Machi M3ana](https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx) | 2:33 |
+| 11 | [ÉVIDEMMENT](https://open.spotify.com/track/2SlYKyAt0flJtDNjQqOwLh) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [ÉVIDEMMENT](https://open.spotify.com/album/2sTrB03DSMttKn9qZs5tc2) | 3:28 |
+| 12 | [DFN](https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:03 |
 | 13 | [Nagazaki](https://open.spotify.com/track/6BXZv5RM5YweM71JiP1iy1) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Nagazaki](https://open.spotify.com/album/2aiusT32fJhAFWEHEghSlv) | 2:47 |
 | 14 | [Uber Driver](https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [MOVETA](https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1) | 3:54 |
 | 15 | [DENYA](https://open.spotify.com/track/2cc3HFMPsVGZ7y1Cm5cP0g) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MC\-101](https://open.spotify.com/album/42okkFu4lgilYfjHOUOtXV) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [TRACES](https://open.spotify.com/track/2m0HY8YO0SZ10OmBNA1seb) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [TRACES & DAYEKH](https://open.spotify.com/album/7jBvEk7T55jJu0wL983Oam) | 2:57 |
 | 50 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
 
-Snapshot ID: `AAAAADQQMCnfQYUi8vpERpE4EbGD4XrC`
+Snapshot ID: `AAAAAA+V8b8oRUNHJCnJnw2wg8JgVY8L`

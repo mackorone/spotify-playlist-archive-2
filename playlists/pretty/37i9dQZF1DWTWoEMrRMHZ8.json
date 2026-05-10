@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9lia Duncan",
-  "num_followers": 355858,
+  "num_followers": 355849,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,22 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/6ypGnuMLStSpLPyc6Rgs0f"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
       "artists": [
         {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 230679,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2"
+      "duration_ms": 259406,
+      "name": "Quando Chego",
+      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -155,6 +159,22 @@
       "duration_ms": 336725,
       "name": "Um Brinde",
       "url": "https://open.spotify.com/track/45JysOjjxmLYYUyBNmB6oE"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/6ypGnuMLStSpLPyc6Rgs0f"
+      },
+      "artists": [
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/7q1hyBzGyGrMWEFxTpLJc2"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -299,6 +319,26 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 276459,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
         "name": "Vera Cruz",
         "url": "https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj"
       },
@@ -315,22 +355,22 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+        "name": "Reticente",
+        "url": "https://open.spotify.com/album/16T8n1POOMmKUrVycoSKlR"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
         },
         {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
+      "duration_ms": 205997,
+      "name": "Reticente",
+      "url": "https://open.spotify.com/track/1a0Cfrm86I4nbyk9osnUTF"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -371,22 +411,46 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Reticente",
-        "url": "https://open.spotify.com/album/16T8n1POOMmKUrVycoSKlR"
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
       "artists": [
         {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
         }
       ],
-      "duration_ms": 205997,
-      "name": "Reticente",
-      "url": "https://open.spotify.com/track/1a0Cfrm86I4nbyk9osnUTF"
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "FLOR DA PELE",
+        "url": "https://open.spotify.com/album/4RBRXwprXLVZJ5pMRrcbcG"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 163637,
+      "name": "PESSOA PREFERIDA",
+      "url": "https://open.spotify.com/track/5bsrJWraAOL6pHpZ9khD6N"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -563,30 +627,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "FLOR DA PELE",
-        "url": "https://open.spotify.com/album/4RBRXwprXLVZJ5pMRrcbcG"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 163637,
-      "name": "PESSOA PREFERIDA",
-      "url": "https://open.spotify.com/track/5bsrJWraAOL6pHpZ9khD6N"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Vila do Sossego",
         "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
       },
@@ -735,6 +775,26 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
+        "name": "A vida se revela",
+        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
+      },
+      "artists": [
+        {
+          "name": "O Teatro M\u00e1gico",
+          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+        },
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "A vida se revela",
+      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/77jQnxccYwQsoSYaz2XCPn"
       },
@@ -747,6 +807,54 @@
       "duration_ms": 118647,
       "name": "Boi",
       "url": "https://open.spotify.com/track/5K5vFbKjcsfgahDYidEx6c"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Me Quedo Por Ti",
+        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
+      },
+      "artists": [
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "duration_ms": 235238,
+      "name": "Me Quedo Por Ti",
+      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Homem com H",
+        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 121015,
+      "name": "O Mundo \u00e9 um Moinho",
+      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -771,50 +879,18 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Homem com H",
-        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
+        "name": "Mariana Nolasco Sessions 3",
+        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
       },
       "artists": [
         {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 121015,
-      "name": "O Mundo \u00e9 um Moinho",
-      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "Me Quedo Por Ti",
-        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
-      },
-      "artists": [
-        {
-          "name": "J\u00f4natas Belgrande",
-          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Me Quedo Por Ti",
-      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
+      "duration_ms": 149825,
+      "name": "Deus me proteja - Sessions",
+      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -835,22 +911,6 @@
       "duration_ms": 175125,
       "name": "M\u00e1quina do Tempo",
       "url": "https://open.spotify.com/track/0TYMqQNsutUZwEn4do2FLp"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "Mariana Nolasco Sessions 3",
-        "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Deus me proteja - Sessions",
-      "url": "https://open.spotify.com/track/67RY6Ze7UDQNiB2klRhxzT"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -887,6 +947,26 @@
       "duration_ms": 219942,
       "name": "Criaturas da Noite",
       "url": "https://open.spotify.com/track/4Ei3Nv53tUWbhityquzSWA"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "G\u00e9rbera",
+        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 166236,
+      "name": "G\u00e9rbera",
+      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1015,30 +1095,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Pupillo",
-        "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
-      },
-      "artists": [
-        {
-          "name": "Pupillo",
-          "url": "https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
-        {
-          "name": "Loren Oden",
-          "url": "https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Fealh\u00e1",
-      "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1063,22 +1119,26 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "L\u00e1",
-        "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
+        "name": "Pupillo",
+        "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
       "artists": [
         {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+          "name": "Pupillo",
+          "url": "https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK"
         },
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "Loren Oden",
+          "url": "https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ"
         }
       ],
-      "duration_ms": 264686,
-      "name": "L\u00e1",
-      "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
+      "duration_ms": 189019,
+      "name": "Fealh\u00e1",
+      "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1095,6 +1155,26 @@
       "duration_ms": 200632,
       "name": "Noite Severina - Ao Vivo",
       "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "L\u00e1",
+        "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 264686,
+      "name": "L\u00e1",
+      "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1151,26 +1231,18 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Mandinga",
-        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
+        "name": "No Meio do Luar",
+        "url": "https://open.spotify.com/album/2ojtAkeigKZKClc50SdcPm"
       },
       "artists": [
         {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "L\u00e9o da Bodega",
-          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Bento Gil",
+          "url": "https://open.spotify.com/artist/5lCj6mlnSb6OMSDyrWj3tb"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Mandinga",
-      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
+      "duration_ms": 157650,
+      "name": "No Meio do Luar",
+      "url": "https://open.spotify.com/track/4GlL0VX6rHPxzwvJSvliC1"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1195,18 +1267,26 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "No Meio do Luar",
-        "url": "https://open.spotify.com/album/2ojtAkeigKZKClc50SdcPm"
+        "name": "Mandinga",
+        "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
       },
       "artists": [
         {
-          "name": "Bento Gil",
-          "url": "https://open.spotify.com/artist/5lCj6mlnSb6OMSDyrWj3tb"
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "L\u00e9o da Bodega",
+          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 157650,
-      "name": "No Meio do Luar",
-      "url": "https://open.spotify.com/track/4GlL0VX6rHPxzwvJSvliC1"
+      "duration_ms": 156000,
+      "name": "Mandinga",
+      "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1271,22 +1351,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244821,
-      "name": "Fruto Do Tempo",
-      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Transbordante",
         "url": "https://open.spotify.com/album/4cv6LPMnDwnq5UuJ5NTp92"
       },
@@ -1315,6 +1379,22 @@
       "duration_ms": 224060,
       "name": "M\u00e3e",
       "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
+    },
+    {
+      "added_at": "2026-05-08 03:01:25",
+      "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
     },
     {
       "added_at": "2026-05-08 03:01:25",
@@ -1651,26 +1731,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "A vida se revela",
-        "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
-      },
-      "artists": [
-        {
-          "name": "O Teatro M\u00e1gico",
-          "url": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
-        },
-        {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "A vida se revela",
-      "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Labirinto",
         "url": "https://open.spotify.com/album/7clPJzwsJBnyjSAoNLNHXb"
       },
@@ -1723,62 +1783,6 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 259406,
-      "name": "Quando Chego",
-      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "MARAVILHOSAMENTE BEM",
-        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 226484,
-      "name": "Maravilhosamente Bem",
-      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
-        "name": "G\u00e9rbera",
-        "url": "https://open.spotify.com/album/1nqSDbbzbWWpbOHWXqhp4h"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 166236,
-      "name": "G\u00e9rbera",
-      "url": "https://open.spotify.com/track/4ZPCUcXOBukvDhV4ydKYxC"
-    },
-    {
-      "added_at": "2026-05-08 03:01:25",
-      "album": {
         "name": "Quase",
         "url": "https://open.spotify.com/album/3PQ0ob3ei1Y7IsLhJ02BoB"
       },
@@ -1795,22 +1799,18 @@
     {
       "added_at": "2026-05-08 03:01:25",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 276459,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
+      "duration_ms": 226484,
+      "name": "Maravilhosamente Bem",
+      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
     }
   ],
   "unique_name": "Divina MPB",

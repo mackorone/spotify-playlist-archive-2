@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61024,
+  "num_followers": 61022,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-05-07 22:02:30",
       "album": {
-        "name": "Fiji",
-        "url": "https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "Fiji",
-      "url": "https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH"
-    },
-    {
-      "added_at": "2026-05-07 22:02:30",
-      "album": {
         "name": "Nya Skolans Ledare",
         "url": "https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4"
+    },
+    {
+      "added_at": "2026-05-07 22:02:30",
+      "album": {
+        "name": "Fiji",
+        "url": "https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 158125,
+      "name": "Fiji",
+      "url": "https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH"
     },
     {
       "added_at": "2026-05-07 22:02:30",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-07 22:02:30",
       "album": {
+        "name": "Halvfullt sprucket glas",
+        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Halvfullt sprucket glas",
+      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
+    },
+    {
+      "added_at": "2026-05-07 22:02:30",
+      "album": {
         "name": "V\u00e4ntat",
         "url": "https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 199561,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
-    },
-    {
-      "added_at": "2026-05-07 22:02:30",
-      "album": {
-        "name": "Halvfullt sprucket glas",
-        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Halvfullt sprucket glas",
-      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
     },
     {
       "added_at": "2026-05-07 22:02:30",

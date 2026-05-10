@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176580,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl"
+    },
+    {
+      "album": {
         "name": "Abrazo (Extendido)",
         "url": "https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM"
       },

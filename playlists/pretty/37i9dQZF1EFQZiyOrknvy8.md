@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 115 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
 | 116 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
 | 117 | [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 |
-| 118 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
-| 119 | [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 |
+| 118 | [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 |
+| 119 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
 | 120 | [Blood](https://open.spotify.com/track/57d8fvXrm9vzlYQaWwLwYl) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:35 |
 | 121 | [Pump It Up](https://open.spotify.com/track/6lfLIn5VTnc4tON8B9ECBd) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Pump It Up](https://open.spotify.com/album/023Y4lyKXWsx8XFzqgsELA) | 2:54 |
 | 122 | [Too Late To Love](https://open.spotify.com/track/7Cd8vj4os8g7d1jgymry0R) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:04 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 155 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 156 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcQ+nAAAAABRQcRgiyUPOUIM0ghZASco`
+Snapshot ID: `AcREPAAAAADYQ6dQuKw8yNM6TykwlylK`

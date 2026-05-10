@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66031,
+  "num_followers": 66036,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACEkw0X6J3HlWyX+26xfYj2",
+  "snapshot_id": "af0ngAAAAADzR8/RzkmzpdbHfYEGq691",
   "tracks": [
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Se Va",
-        "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 208803,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Se Va",
+        "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 208803,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
     },
     {
       "added_at": null,

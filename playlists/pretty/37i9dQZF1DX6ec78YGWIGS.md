@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Juliana Gattas & Juana Rozas
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,609 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,577 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [La Puerta](https://open.spotify.com/track/3UM9iZ2kRmxMlXGAheVq4k) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [La Puerta](https://open.spotify.com/album/073fIVU5FAaX5VTW2TUBlk) | 2:46 |
 | 100 | [Te Arrepentiste](https://open.spotify.com/track/5UzLrVHOCQjBQN75pA5wEu) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Te Arrepentiste](https://open.spotify.com/album/6eR0hd0liviKVTLwUH5hei) | 1:57 |
 
-Snapshot ID: `AAAAAM4Patuufqt5FYHtt5qDV4KTTIYE`
+Snapshot ID: `AAAAACve3iauPCIfh+Z+uvIp4W1tD5TW`

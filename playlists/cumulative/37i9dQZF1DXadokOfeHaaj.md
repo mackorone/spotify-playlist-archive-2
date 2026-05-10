@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: 1\-800 GIRLS
 
-446 songs - 1 day 3 hr 51 min
+447 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2024-03-01 | 2024-10-25 |
 | [Back On My Love](https://open.spotify.com/track/4XXntvDIUeeOIpbsw9b601) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Back On My Love](https://open.spotify.com/album/78D8SFKK4qDNTwsn4mDBuv) | 2:53 | 2024-08-22 | 2025-02-14 |
 | [BDA1](https://open.spotify.com/track/1vhkRyN4LedeSTla1r9jGS) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [BDA1](https://open.spotify.com/album/23aUwk6W7EZd0oZIuDsjw0) | 4:00 | 2026-02-13 | 2026-03-13 |
-| [Be That to You](https://open.spotify.com/track/6PRyHlrx4t9nj96pDRc00d) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 3:59 | 2025-10-03 |  |
+| [Be That to You](https://open.spotify.com/track/6PRyHlrx4t9nj96pDRc00d) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 3:59 | 2025-10-03 | 2026-05-10 |
 | [Be The 1](https://open.spotify.com/track/0hMDlGjmDGLjZTH3s4Sutp) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Handle With Care/Be The 1](https://open.spotify.com/album/0FD8zFZVnXiOrmocyO5v21) | 2:53 | 2025-12-17 | 2026-02-13 |
 | [Berlin 1 \- Mixed](https://open.spotify.com/track/0x6cSnc6JKP77iC3FCRLzk) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [DJ\-Kicks: DJ BORING](https://open.spotify.com/album/5S9zX1tXzvezEW6m1Mvcp1) | 5:33 | 2024-07-26 | 2025-02-14 |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-07-03 | 2025-08-08 |
@@ -243,6 +243,7 @@
 | [Lovers](https://open.spotify.com/track/1D9ljonkp8XdH7xcS0cgqQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:23 | 2021-10-28 | 2024-01-13 |
 | [Lovers](https://open.spotify.com/track/4kFQXh6LIj7494T5w1q3sP) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:23 | 2021-10-28 | 2024-03-23 |
 | [Lying In The Sand](https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Lying In The Sand](https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A) | 3:19 | 2025-04-17 | 2025-06-15 |
+| [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-08 |  |
 | [Make It Easy \(with Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5eWHJ1g1VWtHaGd3vle4me) | [Lovequest](https://open.spotify.com/artist/53aJGeGe9J6suHkjWJZ2aj), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Make It Easy](https://open.spotify.com/album/2VPqWnQAHvxUYRrDvCHpC0) | 2:54 | 2024-11-08 | 2025-02-14 |
 | [Make Me Feel Better](https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 5:02 | 2026-05-07 |  |
 | [mangetout \- The Dare remix](https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [mangetout \(The Dare remix\)](https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls) | 3:20 | 2026-02-13 |  |

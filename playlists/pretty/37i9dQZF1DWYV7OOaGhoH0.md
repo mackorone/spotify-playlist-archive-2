@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,666 likes - 117 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,513 likes - 117 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

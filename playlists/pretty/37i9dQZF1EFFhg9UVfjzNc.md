@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774 likes - 120 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 120 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 81 | [Deus Emanuel \- Ao Vivo](https://open.spotify.com/track/3zGs1XkgJi8hGyghm4Xrlf) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel \(Ao Vivo\)](https://open.spotify.com/album/1H23z2CJY83kUWzEGpG59r) | 5:12 |
 | 82 | [SHEKINAH \- Ao Vivo](https://open.spotify.com/track/4dphbue2PtpS20x23hL254) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Manuela Oliveira](https://open.spotify.com/artist/5zGU65cu61yKhlsaEr8VAj) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:51 |
 | 83 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
-| 84 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
-| 85 | [Excede o Entendimento \- Ao Vivo](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Ao Vivo\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 |
+| 84 | [Excede o Entendimento \- Ao Vivo](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Ao Vivo\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 |
+| 85 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
 | 86 | [Jesus \- English Version](https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 8:04 |
 | 87 | [Entrega](https://open.spotify.com/track/36dN66P4nDS98xP3RY1akX) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Entrega](https://open.spotify.com/album/5RoCRCrhaE4r9DQzJusMGk) | 6:13 |
 | 88 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/1wJs0TM87njimCs1tkOdsA) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Nada Mais \(Ao Vivo\)](https://open.spotify.com/album/1yDqFhqtcaX8yzN9RgKYd9) | 12:43 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 119 | [Tudo pra Mim \- Ao Vivo](https://open.spotify.com/track/1GR5eaR5244BRi2ql4zj8C) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/1SLlB32xmo3vAsXoANjrur) | 6:00 |
 | 120 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `AcQ+kgAAAABKNvXbmU2mPg6ouXLupoTz`
+Snapshot ID: `AcREHgAAAAAvG/eGkqgDFOoo4KiZUXKV`

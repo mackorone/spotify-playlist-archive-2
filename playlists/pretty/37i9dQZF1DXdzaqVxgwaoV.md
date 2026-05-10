@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,181 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,180 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 8 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
 | 9 | [Eres Mi Droga](https://open.spotify.com/track/3jWMdxA8deSoncSMcnihjJ) | [Gency Ramírez](https://open.spotify.com/artist/5UFyg4bZE7EiscLZT4SMPF) | [Eres Mi Droga](https://open.spotify.com/album/76AKJnA2e1zZYGxlebgv9F) | 3:14 |
 | 10 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
-| 11 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
+| 11 | [Bello Espejismo](https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx) | [Gerardo Gómez](https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF) | [Bello Espejismo](https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU) | 4:35 |
 | 12 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
-| 13 | [Bello Espejismo](https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx) | [Gerardo Gómez](https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF) | [Bello Espejismo](https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU) | 4:35 |
+| 13 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
 | 14 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 |
 | 15 | [Señor Prohibido](https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Unica](https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD) | 3:27 |
 | 16 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 77 | [Sólo un Cigarro](https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor López, Vol\. 1](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 2:49 |
 | 78 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 |
 | 79 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
-| 80 | [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 |
+| 80 | [Tiro al Blanco \- Instrumental](https://open.spotify.com/track/7KBvlBOCGbJb45wLTStG0i) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 2:52 |
 
 Snapshot ID: `AAAAAJU6R6q0367TTmaosWufwmRXJ/ws`

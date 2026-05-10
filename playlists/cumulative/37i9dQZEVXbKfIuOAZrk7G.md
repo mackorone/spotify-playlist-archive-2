@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-5,010 songs - 11 day 2 hr 23 min
+5,012 songs - 11 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2156,6 +2156,7 @@
 | [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-11-11 | 2025-11-19 |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-08-01 | 2023-08-16 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-31 | 2023-03-22 |
+| [In My Arms](https://open.spotify.com/track/0gLiRG0XZqvdaRZCxMk79Q) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [In My Arms](https://open.spotify.com/album/2GI4JO60Dpvq5V5Mihd9as) | 2:14 | 2026-05-09 |  |
 | [In My Baggie](https://open.spotify.com/track/6xmyPHt05Xn0A9DzXDaNkF) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [88 Milligrams](https://open.spotify.com/album/1kyJO7s9vyebK2TJYDbOeq) | 3:38 | 2025-09-23 | 2025-09-28 |
 | [In My Head](https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Head](https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY) | 2:36 | 2026-02-17 | 2026-02-24 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-26 | 2022-05-04 |
@@ -2455,7 +2456,7 @@
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-20 | 2024-08-28 |
 | [Lay It On The Line](https://open.spotify.com/track/29CJGwJt5wyo7Sjje87Cy8) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Greatest Hits Remixed](https://open.spotify.com/album/4hLsNEMUYcvDhdISewsE3j) | 4:06 | 2025-05-20 | 2025-05-23 |
 | [LDR \- Sped Up](https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9) | 2:45 | 2023-06-08 | 2023-07-05 |
-| [Le but](https://open.spotify.com/track/6HDYfPulqzFvvfgSofpEhO) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Le Québec est mort, vive le Québec!](https://open.spotify.com/album/37OzlQSsnWkN5xBLBkAn4c) | 5:22 | 2026-05-05 |  |
+| [Le but](https://open.spotify.com/track/6HDYfPulqzFvvfgSofpEhO) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Le Québec est mort, vive le Québec!](https://open.spotify.com/album/37OzlQSsnWkN5xBLBkAn4c) | 5:22 | 2026-05-05 | 2026-05-10 |
 | [Le but \- Version CH](https://open.spotify.com/track/373ZGWf421SNGD4xh4WqJM) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Le but](https://open.spotify.com/album/2dteg9SlN9kCSE5v6Z8GHM) | 1:44 | 2026-05-01 |  |
 | [Le chat du café des artistes](https://open.spotify.com/track/43LPmTp1zMpA53CyFq5oNO) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Jaune \(Version originale remasterisée\)](https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U) | 4:39 | 2024-05-01 | 2024-05-07 |
 | [Le Monde](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-09 | 2023-09-16 |
@@ -3520,8 +3521,9 @@
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-16 | 2023-02-08 |
 | [QUEEN](https://open.spotify.com/track/42iSr82UHNW3l3BWocmr4v) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [QUEEN](https://open.spotify.com/album/4mX6QaVHv4m9d6KCZ87jlq) | 2:38 | 2025-06-13 | 2025-06-26 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-31 | 2023-05-27 |
+| [Queen St](https://open.spotify.com/track/1pwnLaVX9ESD8WuXHr7ToE) | [twentythree](https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11) | [Queen St](https://open.spotify.com/album/2zSF3AMkLn7TVnZpQ3kT02) | 2:08 | 2026-05-09 |  |
 | [Queen St](https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo) | [twentythree](https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11) | [Queen St](https://open.spotify.com/album/5AFbRTavGTeT3M4azCIybO) | 2:08 | 2026-03-14 | 2026-04-11 |
-| [Queen St](https://open.spotify.com/track/7b2KsfXCB3pwY9fBJWKYqY) | [twentythree](https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11) | [Queen St](https://open.spotify.com/album/74R9aj8T53tA5jE5ykCsuo) | 2:08 | 2026-04-10 |  |
+| [Queen St](https://open.spotify.com/track/7b2KsfXCB3pwY9fBJWKYqY) | [twentythree](https://open.spotify.com/artist/1GQzpnt34BgH3ojK5zYI11) | [Queen St](https://open.spotify.com/album/74R9aj8T53tA5jE5ykCsuo) | 2:08 | 2026-04-10 | 2026-05-10 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-06 | 2023-07-15 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-02 | 2022-08-31 |
 | [Quickie](https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Quickie](https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T) | 3:07 | 2023-01-03 | 2023-01-11 |

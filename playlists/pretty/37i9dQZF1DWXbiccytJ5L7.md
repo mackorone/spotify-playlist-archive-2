@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,623 likes - 116 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,781 likes - 116 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 115 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 |
 | 116 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `AAAAANPurBQ8SoS/nU+bD8V5HvdGvL9q`
+Snapshot ID: `AAAAAES0h04NLT7ObIYIMe/CskmECPNw`

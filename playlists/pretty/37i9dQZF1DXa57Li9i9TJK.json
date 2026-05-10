@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Majo Aguilar en portada ",
-  "num_followers": 35797,
+  "num_followers": 35817,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232178,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232178,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "No Fue Lo Que Hiciste",
-        "url": "https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 242330,
-      "name": "No Fue Lo Que Hiciste",
-      "url": "https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 204640,
       "name": "La Peinada (La Peinadita)",
       "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "No Fue Lo Que Hiciste",
+        "url": "https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 242330,
+      "name": "No Fue Lo Que Hiciste",
+      "url": "https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Encuentro Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
-      },
-      "artists": [
-        {
-          "name": "Abracadabra",
-          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "En realidad",
-      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "16 Reales hits",
         "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Encuentro Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
+      },
+      "artists": [
+        {
+          "name": "Abracadabra",
+          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "En realidad",
+      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
-        "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 206322,
-      "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
-      "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 126307,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 206322,
+      "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
+      "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
     },
     {
       "added_at": "2026-03-20 06:00:07",

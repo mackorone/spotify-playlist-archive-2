@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-523 songs - 1 day 5 hr 38 min
+524 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-11-11 | 2024-04-19 |
 | [Entre quererte y no sé](https://open.spotify.com/track/15t5U7fSsetlfBP3tUaNBc) | [1DJ SYNC](https://open.spotify.com/artist/0gWhiwKNoy8CuOkqDkpdt7) | [Entre quererte y no sé](https://open.spotify.com/album/4bQMzJOFuy5CYeYov5jaji) | 3:49 | 2026-01-16 | 2026-03-07 |
 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 | 2024-05-02 | 2025-10-10 |
+| [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:17 | 2026-04-30 |  |
 | [ERES GUAPA \(✿´‿\`\) \- Taranta](https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR) | [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [SANGRE SUCIA](https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM) | 3:44 | 2025-09-18 |  |
 | [Escolta la tempesta \- Daniela Forever \- End Titles](https://open.spotify.com/track/1H4BsrydFVdqGZ3FDYGhk0) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY), [Beatrice Grannò](https://open.spotify.com/artist/5VHuOdFhE2oK2v1IG7PZRI) | [Daniela Forever \(Original Soundtrack\)](https://open.spotify.com/album/1Ksl4u33pffetVZyCUc6aZ) | 5:27 | 2025-07-31 | 2025-10-04 |
 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-25 | 2026-01-17 |
@@ -248,7 +249,7 @@
 | [La ficción](https://open.spotify.com/track/6WTsVuIxIgTAe7byjV16jR) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi) | [El final](https://open.spotify.com/album/5fXUKHOIBvJwR4SvcCyxpD) | 3:18 | 2026-04-09 |  |
 | [La herida que prefiero](https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k) | [Calequi y Las Panteras](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u) | [TRES](https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6) | 3:32 | 2026-03-13 |  |
 | [La Jarrita del Tiempo](https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [La Jarrita del Tiempo](https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd) | 4:01 | 2025-09-18 | 2026-05-01 |
-| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 |  |
+| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 | 2026-05-10 |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2025-01-03 | 2025-09-19 |
 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 | 2025-09-18 |  |
 | [La torre](https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [La torre](https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm) | 1:42 | 2025-10-30 | 2026-03-14 |

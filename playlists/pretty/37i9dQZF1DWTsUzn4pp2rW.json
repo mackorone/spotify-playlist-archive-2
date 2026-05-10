@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 197717,
+  "num_followers": 197776,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Losing Grip",
         "url": "https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 250384,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Mother Of Mine",
-        "url": "https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp"
-      },
-      "artists": [
-        {
-          "name": "more than neighbours",
-          "url": "https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Mother Of Mine",
-      "url": "https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "I Never Can Say Goodbye",
         "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "A Voice",
-        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+        "name": "Mother Of Mine",
+        "url": "https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "more than neighbours",
+          "url": "https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj"
         }
       ],
-      "duration_ms": 265760,
-      "name": "A Voice",
-      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
+      "duration_ms": 242226,
+      "name": "Mother Of Mine",
+      "url": "https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -731,6 +715,22 @@
       "duration_ms": 232004,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "A Voice",
+        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "A Voice",
+      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Collusion",
-        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
       "artists": [
         {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
-        },
-        {
-          "name": "Jules Renauld",
-          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
         }
       ],
-      "duration_ms": 267302,
-      "name": "Let's Go to Bed",
-      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
       "artists": [
         {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        },
+        {
+          "name": "Jules Renauld",
+          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
+      "duration_ms": 267302,
+      "name": "Let's Go to Bed",
+      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "A Bridge",
         "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "There is a place",
         "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80"
-      },
-      "artists": [
-        {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
-        }
-      ],
-      "duration_ms": 208273,
-      "name": "It's Complicated",
-      "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 229687,
       "name": "If I'd Had Your Heart",
       "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80"
+      },
+      "artists": [
+        {
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
+        }
+      ],
+      "duration_ms": 208273,
+      "name": "It's Complicated",
+      "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 247800,
       "name": "Wherever You're Going",
       "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     }
   ],
   "unique_name": "Jazz Pop",

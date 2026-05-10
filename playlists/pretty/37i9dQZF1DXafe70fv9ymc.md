@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,359 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,363 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 59 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 |
 | 60 | [Cherry](https://open.spotify.com/track/2jKM4QHpRExHWHQ5rd9BPy) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1) | [Cherry](https://open.spotify.com/album/19y2pdapQQdE0aNAHwydny) | 2:20 |
 
-Snapshot ID: `AAAAAC5TAHGwkDojH3YbERab5en0FnjH`
+Snapshot ID: `AAAAAEkNwz6lDPl4SXi3HNHrdPT0vJfj`

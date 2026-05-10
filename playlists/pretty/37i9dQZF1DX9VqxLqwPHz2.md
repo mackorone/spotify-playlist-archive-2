@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,106 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,115 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,22 +57,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 47 | [Messy](https://open.spotify.com/track/7yMAQkI1bG1zT1yvBxGxe0) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 4:44 |
 | 48 | [Finest](https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Finest](https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd) | 1:50 |
 | 49 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
-| 50 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
-| 51 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
+| 50 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 |
+| 51 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 52 | [Woman \(Green\)](https://open.spotify.com/track/3ZWvKLyIWv4IvdZOusuuQm) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 2:51 |
-| 53 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/6unYuPl8iBohf9Rh2YQASG) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/7tMzgvY6LjjCObfrzLWDyc) | 3:08 |
-| 54 | [FUORI CONTROLLO](https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [FUORI CONTROLLO](https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG) | 2:15 |
+| 53 | [FUORI CONTROLLO](https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [FUORI CONTROLLO](https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG) | 2:15 |
+| 54 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/6unYuPl8iBohf9Rh2YQASG) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/7tMzgvY6LjjCObfrzLWDyc) | 3:08 |
 | 55 | [Good as Hell](https://open.spotify.com/track/6O6GHxwDSCglrJNk2s389L) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbershop: The Next Cut \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ObSqDBs7mTrbhF1noG67r) | 2:38 |
 | 56 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
 | 57 | [Shotgun](https://open.spotify.com/track/0MfNPl9hLTZ92vJGD6uI2t) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:08 |
 | 58 | [storyman\*](https://open.spotify.com/track/42rZe586CdvyvzQP2EM21A) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [fujiBouyon](https://open.spotify.com/album/2PAVYusQaqinxooK4hkqpL) | 2:28 |
 | 59 | [Iskhath' Sam Manje \(Jik'izinto\)](https://open.spotify.com/track/2vluFXvcxewxMqGhHEyvap) | [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [TheBlvckGuy](https://open.spotify.com/artist/2QFKpIdg7zgz1CxP3tAAT1) | [Iskhath' Sam Manje \(Jik'izinto\)](https://open.spotify.com/album/1ZANadhygbMXxBeDudZ8O2) | 3:49 |
 | 60 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |
-| 61 | [Talking Too Much](https://open.spotify.com/track/7944xUFsCEivN3zFMZXmTt) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 3:14 |
+| 61 | [Fav Girl](https://open.spotify.com/track/4knenpoG3fiCRLmD44PpZY) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:25 |
 | 62 | [La Sandunguera](https://open.spotify.com/track/3xQ254OSkFQBk1F69d3Gwc) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Sandunguera](https://open.spotify.com/album/0wJRHjnCyxwKkeY2zFRMUQ) | 3:25 |
 | 63 | [Me Sabe Mal](https://open.spotify.com/track/5hcPfsdrll5xNkY8W2kxhn) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 3:16 |
 | 64 | [LA REINA](https://open.spotify.com/track/6qlP9ZUxLXGsb4R7gPNpeQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:30 |
 | 65 | [S.M.O.](https://open.spotify.com/track/0nqCgrXxrXhE7rxqeudYzd) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/75xoK43JI7dqtoxKtU0MyS) | 4:30 |
-| 66 | [Fav Girl](https://open.spotify.com/track/4knenpoG3fiCRLmD44PpZY) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:25 |
+| 66 | [Talking Too Much](https://open.spotify.com/track/7944xUFsCEivN3zFMZXmTt) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 3:14 |
 
 Snapshot ID: `AAAAAED0bhwf8CMcsCq+FPylT5UWpaNy`

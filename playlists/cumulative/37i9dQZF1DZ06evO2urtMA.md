@@ -4,7 +4,7 @@
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 28 min
+43 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Caroline](https://open.spotify.com/track/3OW0jmq5jeDiDnYKI0apJJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Caroline](https://open.spotify.com/album/2yTkGlRAiUEZLxdqOR2ejq) | 3:32 | 2023-01-18 | 2023-02-28 |
 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 | 2022-09-16 |  |
 | [Crankcase](https://open.spotify.com/track/0RjC1vmqEEWPHWdgS8g0B3) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:59 | 2023-11-10 | 2024-03-19 |
-| [Far Removed](https://open.spotify.com/track/5NwYO5OtL5LBXAYCAkqSfe) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:50 | 2022-09-16 |  |
+| [Far Removed](https://open.spotify.com/track/5OqMFUsctRkQqmcYl8A9h4) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/2TPomhhSrg4HHy4rONuWjo) | 3:50 | 2026-05-10 |  |
+| [Far Removed](https://open.spotify.com/track/5NwYO5OtL5LBXAYCAkqSfe) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:50 | 2022-09-16 | 2026-05-10 |
 | [Feels Like Sand](https://open.spotify.com/track/5ok41XptV2v9yhm92Cp0RK) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:44 | 2022-09-16 |  |
 | [Fine Day](https://open.spotify.com/track/3RLBhVe1eGn1npfJbR8kCM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 5:25 | 2023-02-11 | 2023-07-13 |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-15 | 2023-02-22 |

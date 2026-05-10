@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,302 likes - 146 songs - 8 hr 34 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,302 likes - 147 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 144 | [Perfect Paradise](https://open.spotify.com/track/0G2RueU8XoUokKD2pDWvVa) | [Jaco Muller](https://open.spotify.com/artist/5fYU4xr6F9OJecUbU2xHeo) | [Perfect Paradise](https://open.spotify.com/album/3GbHrP9cSd59SaLrvf1RZw) | 3:48 |
 | 145 | [Sing That Note](https://open.spotify.com/track/6agxfeIlKwBzmOTkqO3j2c) | [Justyn Cairo](https://open.spotify.com/artist/6Ej4tehqEWvLRd23RkS9a6) | [Heart of Gold](https://open.spotify.com/album/2ETuq1DDCZryjQQFNJxPLz) | 2:56 |
 | 146 | [Freedom Over Us](https://open.spotify.com/track/2rN906QcRLaoCNU0BLWKbx) | [LORIAN](https://open.spotify.com/artist/1FFOakr7SAJqq2yVHBHJ3d) | [Freedom Over Us](https://open.spotify.com/album/7yDNUYCavjlEcqXZ8YTOMc) | 3:44 |
+| 147 | [Measures Of Distance](https://open.spotify.com/track/5fW1XXzm3MHGnAMAg6Kzhh) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Feed](https://open.spotify.com/album/7LnObuB8XQDT4jBCU1jTvT) | 5:03 |
 
-Snapshot ID: `AAAT2aZyj2UFL5qebRH0yWECJqik/yD0`
+Snapshot ID: `AAAT2lzIAgbNgFMAXemb99frHCp2qABV`

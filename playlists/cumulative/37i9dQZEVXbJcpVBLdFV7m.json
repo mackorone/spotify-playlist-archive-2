@@ -6898,7 +6898,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -6978,6 +6978,24 @@
     {
       "album": {
         "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3l7rEp8JiQDyrM8WHVw6vo"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/1UcCAYT16qXS2Tts2NdHhM"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/52dfegL47n8MhAPEhagBcY"
       },
       "artists": [
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -7378,7 +7396,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 209000,
       "name": "Chasten sluchay",
       "url": "https://open.spotify.com/track/1TjCPGXe9lZ8AKaYKg2f04"
@@ -9034,6 +9052,24 @@
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
+    {
+      "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
       "album": {
@@ -17124,7 +17160,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 207542,
       "name": "Hey mama",
       "url": "https://open.spotify.com/track/7vsEGQTnJC8IHWZSLky8O4"
@@ -22128,10 +22164,28 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 168567,
       "name": "Let Me Breathe",
       "url": "https://open.spotify.com/track/3WuRYYvlZSrb5fUfPfqkuV"
+    },
+    {
+      "album": {
+        "name": "Let Me Breathe",
+        "url": "https://open.spotify.com/album/1E9Jjtqdir0Onvsy9T15Do"
+      },
+      "artists": [
+        {
+          "name": "sololyfe",
+          "url": "https://open.spotify.com/artist/0O4cBOu8y2Hn0DK2WFGYW4"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168567,
+      "name": "Let Me Breathe",
+      "url": "https://open.spotify.com/track/6wUYmJUrWsFQytZNmyfWbN"
     },
     {
       "album": {
@@ -22354,6 +22408,24 @@
       "duration_ms": 175853,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+    },
+    {
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/5idIpPylcHvSsVNoK6wMx5"
+      },
+      "artists": [
+        {
+          "name": "Josh Fawaz",
+          "url": "https://open.spotify.com/artist/4zyGcdTfhshxrcEY25jBOe"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/5eh2pLJmBVjgtUzKl7Ambt"
     },
     {
       "album": {
@@ -24192,7 +24264,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -24264,7 +24336,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 462528,
       "name": "Make U Whole",
       "url": "https://open.spotify.com/track/7zsRLCjd7kxkfLw3s50hl0"
@@ -34740,7 +34812,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
@@ -43253,6 +43325,24 @@
     },
     {
       "album": {
+        "name": "BIANCA (Extended)",
+        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
+    },
+    {
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -49208,7 +49298,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 122727,
       "name": "\u041c\u0430\u043b\u044c\u0431\u043e\u0440\u043e",
       "url": "https://open.spotify.com/track/4xHTTxGihlPr1gSbedKtd1"

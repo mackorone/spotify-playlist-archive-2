@@ -3625,6 +3625,32 @@
     },
     {
       "album": {
+        "name": "Angels Above Me",
+        "url": "https://open.spotify.com/album/2KKYw7pkkGDnJddbcbXjD5"
+      },
+      "artists": [
+        {
+          "name": "wiatra",
+          "url": "https://open.spotify.com/artist/6lFfwOIFlFgQ8EGIa0SyAB"
+        },
+        {
+          "name": "EXXCLUSlVE",
+          "url": "https://open.spotify.com/artist/5nOOqSDk24pTv1VUdK2cW7"
+        },
+        {
+          "name": "Old Soul",
+          "url": "https://open.spotify.com/artist/5orz7uUoNsj0ernM4RQ6Ao"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327111,
+      "name": "Angels Above Me",
+      "url": "https://open.spotify.com/track/5RjZLUNEOMT5R1CsZDefAl"
+    },
+    {
+      "album": {
         "name": "Angels Above Me (Party Remix)",
         "url": "https://open.spotify.com/album/0DoCPFPUfkH95dYPg0EtC8"
       },
@@ -6748,7 +6774,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 169090,
       "name": "Beni Al",
       "url": "https://open.spotify.com/track/5iMubxU4DwNpW3JOAN4PGF"
@@ -10330,6 +10356,24 @@
     {
       "album": {
         "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3l7rEp8JiQDyrM8WHVw6vo"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/1UcCAYT16qXS2Tts2NdHhM"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/52dfegL47n8MhAPEhagBcY"
       },
       "artists": [
@@ -10358,7 +10402,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -18194,10 +18238,28 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 193520,
       "name": "Feeling Good Today",
       "url": "https://open.spotify.com/track/117e6ebJhoucK8Cz6wO2cD"
+    },
+    {
+      "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/4Vnu314Dm9lM3IuOinUDXB"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193538,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/1hTDrAziXO5Pyw3Br9WH3l"
     },
     {
       "album": {
@@ -21907,6 +21969,28 @@
     },
     {
       "album": {
+        "name": "GUERILLAZ",
+        "url": "https://open.spotify.com/album/2DsGDwx8aoNMG1EsHhcAHF"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        },
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138965,
+      "name": "GUERILLAZ",
+      "url": "https://open.spotify.com/track/5C4bDQGmhulLRDMpP4R6Go"
+    },
+    {
+      "album": {
         "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
         "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
       },
@@ -25216,7 +25300,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 148887,
       "name": "Hotel Room",
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
@@ -36501,6 +36585,28 @@
     },
     {
       "album": {
+        "name": "Michelle",
+        "url": "https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180517,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
+    },
+    {
+      "album": {
         "name": "midnight",
         "url": "https://open.spotify.com/album/776RB8H2PaZgnXia3cwumR"
       },
@@ -39400,7 +39506,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 135480,
       "name": "NEWKID3",
       "url": "https://open.spotify.com/track/1RgnXYLpsAAOiAuOej2cf7"
@@ -45262,6 +45368,24 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "REGARDE !",
+        "url": "https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V"
+      },
+      "artists": [
+        {
+          "name": "Monroe",
+          "url": "https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177008,
+      "name": "REGARDE !",
+      "url": "https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz"
     },
     {
       "album": {
@@ -52548,7 +52672,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 191076,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"

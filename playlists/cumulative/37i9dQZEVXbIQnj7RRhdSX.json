@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 193667,
       "name": "ARCOBALENO (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/7os93Vpc5gJ40Fm0QC48a8"
@@ -5544,7 +5544,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5924,7 +5924,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -8354,6 +8354,28 @@
       "duration_ms": 204755,
       "name": "Boy (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/00smzdpN2KUfB5Jod6glG4"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178966,
+      "name": "BRATZ (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO"
     },
     {
       "album": {
@@ -13258,7 +13280,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
@@ -17302,7 +17324,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
@@ -19556,6 +19578,28 @@
       "duration_ms": 140595,
       "name": "EZ",
       "url": "https://open.spotify.com/track/6jMDzJpF4ULB0gKvJV0Hji"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186055,
+      "name": "F.I.$. (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5UVUTLEL671Ozsqfh7Kin7"
     },
     {
       "album": {
@@ -27848,7 +27892,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 175714,
       "name": "Introvabile",
       "url": "https://open.spotify.com/track/5NX1BUQi3Z5r9koZVhU6kf"
@@ -34606,7 +34650,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 187647,
       "name": "MALE NECESSARIO",
       "url": "https://open.spotify.com/track/4kK4uxstY0lTdun71200Al"
@@ -40389,6 +40433,24 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127653,
+      "name": "NO BOUTIQUE",
+      "url": "https://open.spotify.com/track/3teFgPXIFquaD7TYVU3DPZ"
+    },
+    {
+      "album": {
         "name": "17 - Dark Edition",
         "url": "https://open.spotify.com/album/6nKQCH9bP1APHf83iDCjO2"
       },
@@ -43464,7 +43526,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
@@ -44600,6 +44662,28 @@
       "duration_ms": 169181,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "PARLAR D\u2019AMORE (feat. Bresh)",
+      "url": "https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe"
     },
     {
       "album": {
@@ -45815,6 +45899,28 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259919,
+      "name": "PERCH\u00c9 PIANGO (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/5O7yMp5fwRCKvbVEYoEb7d"
+    },
+    {
+      "album": {
         "name": "DINASTIA",
         "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
       },
@@ -45904,7 +46010,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 244244,
       "name": "Perdutamente",
       "url": "https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9"
@@ -48925,6 +49031,24 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156243,
+      "name": "RAFFAELLO",
+      "url": "https://open.spotify.com/track/11Q0iuwYnjpb5JiP8HN33h"
+    },
+    {
+      "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
       },
@@ -49804,6 +49928,28 @@
       "duration_ms": 277611,
       "name": "Ricordi (con Elisa)",
       "url": "https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170436,
+      "name": "RICORDI (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0Yro5gpdvHMyaFGlZHYZIH"
     },
     {
       "album": {
@@ -50915,6 +51061,24 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131209,
+      "name": "SALSA MAGHREB",
+      "url": "https://open.spotify.com/track/7rkSSdqz6pjhYRIXLuOXHp"
+    },
+    {
+      "album": {
         "name": "Mentre Los Angeles Brucia",
         "url": "https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1"
       },
@@ -51284,6 +51448,24 @@
       "duration_ms": 167663,
       "name": "Santana Season",
       "url": "https://open.spotify.com/track/2mD3a5Yyo4OxHL8CVA0edT"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186090,
+      "name": "SANTISSIMO",
+      "url": "https://open.spotify.com/track/7DgmimP7baeTMzLLeFu73Q"
     },
     {
       "album": {
@@ -52617,6 +52799,24 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96703,
+      "name": "SEX ON LA SANTA",
+      "url": "https://open.spotify.com/track/7kv1tGVVEck7CB1qFoglnj"
+    },
+    {
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -53780,7 +53980,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
@@ -59124,10 +59324,36 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 209664,
       "name": "TU MI PIACI TANTO",
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
+    },
+    {
+      "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209664,
+      "name": "TU MI PIACI TANTO",
+      "url": "https://open.spotify.com/track/2qoacuHNUgG2GQ0e5KhR7D"
     },
     {
       "album": {

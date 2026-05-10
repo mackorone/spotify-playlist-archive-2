@@ -1,12 +1,12 @@
 {
   "description": "Cover: Stormy",
-  "num_followers": 380683,
+  "num_followers": 380887,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQQMCnfQYUi8vpERpE4EbGD4XrC",
+  "snapshot_id": "AAAAAA+V8b8oRUNHJCnJnw2wg8JgVY8L",
   "tracks": [
     {
       "added_at": "2026-05-07 23:00:15",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/6fzPO0qTuzV33ZQlWTlkel"
     },
     {
-      "added_at": "2026-05-07 23:00:15",
+      "added_at": "2026-05-08 10:38:35",
       "album": {
-        "name": "SOFITEL",
-        "url": "https://open.spotify.com/album/4niYL0OcwKMBeUMK7xL1O4"
+        "name": "caramel",
+        "url": "https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
         }
       ],
-      "duration_ms": 117416,
-      "name": "SOFITEL",
-      "url": "https://open.spotify.com/track/6liRQ6BYzi2mazj3OAtDhX"
+      "duration_ms": 163200,
+      "name": "caramel",
+      "url": "https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V"
     },
     {
       "added_at": "2026-05-07 23:00:15",
@@ -123,6 +123,22 @@
       "duration_ms": 208695,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6"
+    },
+    {
+      "added_at": "2026-05-07 23:00:15",
+      "album": {
+        "name": "SOFITEL",
+        "url": "https://open.spotify.com/album/4niYL0OcwKMBeUMK7xL1O4"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 117416,
+      "name": "SOFITEL",
+      "url": "https://open.spotify.com/track/6liRQ6BYzi2mazj3OAtDhX"
     },
     {
       "added_at": "2026-05-07 23:00:15",
@@ -191,22 +207,6 @@
       "duration_ms": 183043,
       "name": "DFN",
       "url": "https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n"
-    },
-    {
-      "added_at": "2026-05-08 10:38:35",
-      "album": {
-        "name": "caramel",
-        "url": "https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H"
-      },
-      "artists": [
-        {
-          "name": "Valerieblud",
-          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "caramel",
-      "url": "https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V"
     },
     {
       "added_at": "2026-05-07 23:00:15",

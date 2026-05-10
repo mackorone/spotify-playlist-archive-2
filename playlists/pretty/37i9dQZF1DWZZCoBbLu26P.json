@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98637,
+  "num_followers": 98650,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "UK Hun? (United Kingdolls Version)",
+        "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race UK, Season 2",
+          "url": "https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs"
+        }
+      ],
+      "duration_ms": 166100,
+      "name": "UK Hun? (United Kingdolls Version)",
+      "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Purse First (feat. DJ Mitch Ferrino)",
         "url": "https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 229687,
       "name": "Purse First (feat. DJ Mitch Ferrino)",
       "url": "https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "UK Hun? (United Kingdolls Version)",
-        "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race UK, Season 2",
-          "url": "https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs"
-        }
-      ],
-      "duration_ms": 166100,
-      "name": "UK Hun? (United Kingdolls Version)",
-      "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "One Stone",
-        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 185744,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Break Up Bye Bye (Frock Destroyers Version)",
         "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 151825,
       "name": "Break Up Bye Bye - Frock Destroyers Version",
       "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Drag Queens Save The World",
         "url": "https://open.spotify.com/album/4yGRY0QNULbFwjaO2qFKiC"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 244651,
       "name": "Drag Queens Save The World",
       "url": "https://open.spotify.com/track/5EBGjPzJvCjObtDcYHPR20"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "The Blonde & Pink Albums",
-        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 156696,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "The Blonde & Pink Albums",
+        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 156696,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "The Same Parts",
+        "url": "https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0"
+      },
+      "artists": [
+        {
+          "name": "Tatianna",
+          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
+        }
+      ],
+      "duration_ms": 192525,
+      "name": "The Same Parts",
+      "url": "https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Full Coverage Vol. 1",
         "url": "https://open.spotify.com/album/6MGtowaFObe80ZFTm0zYn2"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 157099,
       "name": "Jackson (feat. Orville Peck)",
       "url": "https://open.spotify.com/track/1dUnjl4wJgJKM6BfXjqwTD"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "The Same Parts",
-        "url": "https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0"
-      },
-      "artists": [
-        {
-          "name": "Tatianna",
-          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "The Same Parts",
-      "url": "https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "It's Chocolate",
-        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
-      },
-      "artists": [
-        {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
-        }
-      ],
-      "duration_ms": 159718,
-      "name": "It's Chocolate",
-      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 254111,
       "name": "Looks (feat. Aquaria)",
       "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "It's Chocolate",
+        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+      },
+      "artists": [
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 159718,
+      "name": "It's Chocolate",
+      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Gimme What I Want",
-        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
-      },
-      "artists": [
-        {
-          "name": "Ros\u00e9",
-          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Gimme What I Want",
-      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Cr\u00e8me Br\u00fbl\u00e9e",
         "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 172488,
       "name": "Cr\u00e8me Br\u00fbl\u00e9e",
       "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Gimme What I Want",
+        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
+      },
+      "artists": [
+        {
+          "name": "Ros\u00e9",
+          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Gimme What I Want",
+      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Drag Den",
-        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "Drag Den",
-      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 153562,
       "name": "Southern Hospitality",
       "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Drag Den",
+        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "Drag Den",
+      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Much Betta",
-        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
-      },
-      "artists": [
-        {
-          "name": "Baga chipz",
-          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Much Betta",
-      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "PUMPKIN TITS - Single",
         "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 176215,
       "name": "PUMPKIN TITS",
       "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Much Betta",
+        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
+      },
+      "artists": [
+        {
+          "name": "Baga chipz",
+          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Much Betta",
+      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Ornacia",
-        "url": "https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7"
-      },
-      "artists": [
-        {
-          "name": "Vivacious",
-          "url": "https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp"
-        }
-      ],
-      "duration_ms": 286940,
-      "name": "Ornacia",
-      "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Here For It",
         "url": "https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 179672,
       "name": "Here For It",
       "url": "https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Ornacia",
+        "url": "https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7"
+      },
+      "artists": [
+        {
+          "name": "Vivacious",
+          "url": "https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp"
+        }
+      ],
+      "duration_ms": 286940,
+      "name": "Ornacia",
+      "url": "https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA"
     },
     {
       "added_at": "2025-01-14 16:17:40",

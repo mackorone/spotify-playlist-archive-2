@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162619,
+  "num_followers": 162625,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABgc/0mGgQOP/togAeySnsU",
+  "snapshot_id": "af0ngAAAAAAtKq7qStjgyfs5t1tMKvUr",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 372720,
+      "name": "O Poder do Teu Amor (The Power Of Your Love) - Ao Vivo",
+      "url": "https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simples Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 233795,
       "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros 20 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 372720,
-      "name": "O Poder do Teu Amor (The Power Of Your Love) - Ao Vivo",
-      "url": "https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf"
     },
     {
       "added_at": null,

@@ -2054,6 +2054,10 @@
         {
           "name": "Jxcob",
           "url": "https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2"
+        },
+        {
+          "name": "MtZ",
+          "url": "https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu"
         }
       ],
       "date_added": "2026-04-30",
@@ -6410,7 +6414,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 299749,
       "name": "Lato",
       "url": "https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9"
@@ -14348,6 +14352,24 @@
       "duration_ms": 265333,
       "name": "what's left unsaid",
       "url": "https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX"
+    },
+    {
+      "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
     },
     {
       "album": {

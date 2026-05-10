@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 439904,
+  "num_followers": 439918,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABsGKtUu8jPJcNOXxg1f0r7",
+  "snapshot_id": "af0ngAAAAACXqvT1oRCpQTBFyIfAx5OS",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 241790,
+      "name": "Modern Day",
+      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Versace (feat. Drake) [Remix] - Single",
         "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 207682,
       "name": "Freak No More",
       "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 241790,
-      "name": "Modern Day",
-      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Trouble",
-          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
-        }
-      ],
-      "duration_ms": 281986,
-      "name": "Key to the Streets",
-      "url": "https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ransom 2",
         "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 274846,
       "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
       "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+        }
+      ],
+      "duration_ms": 281986,
+      "name": "Key to the Streets",
+      "url": "https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ"
     },
     {
       "added_at": null,

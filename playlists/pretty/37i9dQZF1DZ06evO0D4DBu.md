@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,170 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,168 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 9 | [I\. The Worst Guys](https://open.spotify.com/track/4jnctHRggVIvMgkru936fN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Because the Internet](https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh) | 3:39 |
 | 10 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 |
 | 11 | [Favorite Song](https://open.spotify.com/track/1tyCvK8fhQ1UUVK0nY1JlH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:05 |
-| 12 | [Baby Blue \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Mr\. Wonderful](https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq) | 4:40 |
-| 13 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
+| 12 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
+| 13 | [Baby Blue \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Mr\. Wonderful](https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq) | 4:40 |
 | 14 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
 | 15 | [Cross Me \(feat\. Chance the Rapper & PnB Rock\)](https://open.spotify.com/track/4wuCQX7JvAZLlrcmH4AeZF) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:26 |
 | 16 | [May I Have This Dance \(Remix\) \[feat\. Chance the Rapper\]](https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [May I Have This Dance \(Remix\) \[feat\. Chance the Rapper\]](https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 |
 | 50 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
 
-Snapshot ID: `afvWAAAAAABSonKX8rgJRI+YlOlQuV7P`
+Snapshot ID: `af0ngAAAAABglR9WXb8+7jNkLoHUeFZy`

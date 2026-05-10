@@ -16066,7 +16066,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 170680,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
@@ -20664,6 +20664,32 @@
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
+      },
+      "artists": [
+        {
+          "name": "DOLV GVNG",
+          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
+        },
+        {
+          "name": "TILYA",
+          "url": "https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119092,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM"
     },
     {
       "album": {

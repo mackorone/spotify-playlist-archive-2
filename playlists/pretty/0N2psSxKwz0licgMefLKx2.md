@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kacey Musgraves
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,179 likes - 80 songs - 4 hr 19 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,181 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

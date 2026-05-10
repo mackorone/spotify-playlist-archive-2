@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Songs for Mamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,557 likes - 32 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,578 likes - 32 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

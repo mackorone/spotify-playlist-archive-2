@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,667,036 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,667,706 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Back to Funk](https://open.spotify.com/track/1kK7YjaHgAbUbrnRr6Ih7l) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Back to Funk](https://open.spotify.com/album/3Ed0riMJ5f5ngruhahilFi) | 6:10 |
 | 100 | [Oldschool](https://open.spotify.com/track/799cie8KYXJ8sYGmrfCFI9) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Oldschool](https://open.spotify.com/album/7yJv3wCnR4Hx91a84dHXHr) | 2:40 |
 
-Snapshot ID: `AAAAAGSn53C9Gy7IHTnqKIB91zMicmno`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

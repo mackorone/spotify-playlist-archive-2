@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4pfLHiO1JM2juX7ZXtqYXX">Anaïs Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 119 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 119 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 | 83 | [Gone by Fall](https://open.spotify.com/track/31dnnfpWCHGnejJQisdySw) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Rolling Golden Holy](https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I) | 2:48 |
 | 84 | [Revenant](https://open.spotify.com/track/43j7lvJwEN8kMEIsRDTOOU) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 3:30 |
 | 85 | [Annmarie](https://open.spotify.com/track/6EJ8pwNld1dAoOuMVdw6Yp) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 4:11 |
-| 86 | [Riddles Wisely Expounded \(Child 1\)](https://open.spotify.com/track/0WZj5ey5HG469NHSm4xDmm) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jefferson Hamer](https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv) | [Child Ballads](https://open.spotify.com/album/2h0LB7F0ss32qT8i81UdN2) | 4:42 |
-| 87 | [Clyde Waters \(Child 216\)](https://open.spotify.com/track/1Mlei3YItHal9Nv4UxPkWf) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jefferson Hamer](https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv) | [Child Ballads](https://open.spotify.com/album/2h0LB7F0ss32qT8i81UdN2) | 5:50 |
+| 86 | [Clyde Waters \(Child 216\)](https://open.spotify.com/track/1Mlei3YItHal9Nv4UxPkWf) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jefferson Hamer](https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv) | [Child Ballads](https://open.spotify.com/album/2h0LB7F0ss32qT8i81UdN2) | 5:50 |
+| 87 | [Riddles Wisely Expounded \(Child 1\)](https://open.spotify.com/track/0WZj5ey5HG469NHSm4xDmm) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jefferson Hamer](https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv) | [Child Ballads](https://open.spotify.com/album/2h0LB7F0ss32qT8i81UdN2) | 4:42 |
 | 88 | [1984](https://open.spotify.com/track/6vJd2GJjUp8vgYCgoGQmIt) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hymns for the Exiled](https://open.spotify.com/album/0dA9p5v8l1lxhN8OHMBgu7) | 2:57 |
 | 89 | [Before the Eyes of Storytelling Girls](https://open.spotify.com/track/6YG1TyXHjUJ60HYjlRwoL9) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hymns for the Exiled](https://open.spotify.com/album/0dA9p5v8l1lxhN8OHMBgu7) | 3:05 |
 | 90 | [Ships](https://open.spotify.com/track/4YDoGnCq9iILTu29FMRS9p) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 6:25 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTtESMWFVVap.md) - [plain]
 | 118 | [I Got a Well](https://open.spotify.com/track/0AS95ZFPpzscVyHmUPCmc6) | [Miriam Bernardo](https://open.spotify.com/artist/0UWloG98LNXMiDqewU6RTL), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Jer Coons](https://open.spotify.com/artist/4ZdqTj99dVfhkb8D4ZVsJS), [Stephanie Wilson](https://open.spotify.com/artist/0BRpENYnifmgDtPuQXrB8D), [Halle Jade Toulis](https://open.spotify.com/artist/2dIJG46nfM6XppnTBa1Cmw), [Hannah Gluck](https://open.spotify.com/artist/1x2NujACxvWXOZIwMy2R4a) | [Songs from the Well](https://open.spotify.com/album/1a2hitttrH8jB7kwqBz5uK) | 3:26 |
 | 119 | [Songbird Intro](https://open.spotify.com/track/7cYqfclUOwJ5psP3Lwcl8L) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown](https://open.spotify.com/album/4H6NRX6bvkIJZIJdZSPq6Y) | 0:24 |
 
-Snapshot ID: `AcQ+kgAAAACq2ECsPVt1XRf+liLarMPn`
+Snapshot ID: `AcREMgAAAAAsGcwH5dIUnKAm7ioOdKrT`

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 48873,
+  "num_followers": 48878,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "VOCE e BATTERIA",
+        "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
+      },
+      "artists": [
+        {
+          "name": "Frankie hi-nrg mc",
+          "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
+        },
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 168593,
+      "name": "Pedala e batteria (feat. Jovanotti)",
+      "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "CVLT - HELLRAISERS",
         "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "VOCE e BATTERIA",
-        "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
-      },
-      "artists": [
-        {
-          "name": "Frankie hi-nrg mc",
-          "url": "https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI"
-        },
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 168593,
-      "name": "Pedala e batteria (feat. Jovanotti)",
-      "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Il viaggio dell'anima",
-        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
-      },
-      "artists": [
-        {
-          "name": "Jesto",
-          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Il viaggio dell'anima",
-      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Dead poets",
         "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Il viaggio dell'anima",
+        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
+      },
+      "artists": [
+        {
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Il viaggio dell'anima",
+      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1431,30 +1431,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Lato B (feat. Mecna, Gu\u00e8)",
-        "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
-      },
-      "artists": [
-        {
-          "name": "Big Fish",
-          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
-        },
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 176860,
-      "name": "Lato B (feat. Mecna, Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1475,6 +1451,30 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Lato B (feat. Mecna, Gu\u00e8)",
+        "url": "https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0"
+      },
+      "artists": [
+        {
+          "name": "Big Fish",
+          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 176860,
+      "name": "Lato B (feat. Mecna, Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "duration_ms": 214721,
+      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Scatola Nera",
         "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
       },
@@ -1643,22 +1663,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
       },
       "artists": [
         {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
         },
         {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
         }
       ],
-      "duration_ms": 214721,
-      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -1683,26 +1703,6 @@
       "duration_ms": 181333,
       "name": "24/7 (feat. Ensi & Gemitaiz)",
       "url": "https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2155,42 +2155,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "CHIODI",
         "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
@@ -2207,6 +2171,22 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2231,6 +2211,26 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "IL CUORE E LA FAME",
+        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "4 Secondi",
+      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/4tpC8UMAe1Usi93NaKaez8"
       },
@@ -2531,22 +2547,6 @@
       "duration_ms": 175878,
       "name": "FLY",
       "url": "https://open.spotify.com/track/7FolfMl59cPBxfW92Kbd1L"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "IL CUORE E LA FAME",
-        "url": "https://open.spotify.com/album/42x9l82KigFgUQTYGe7xrU"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "4 Secondi",
-      "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2695,26 +2695,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "L'Unico Compromesso",
-        "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 239974,
-      "name": "Pistorius",
-      "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Fuori di qua! (Stories) [2022 Remastered]",
         "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
       },
@@ -2751,6 +2731,26 @@
       "duration_ms": 191120,
       "name": "C.L.I.C.K.",
       "url": "https://open.spotify.com/track/37GF4wrZNkyqR6ftWjktyf"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "L'Unico Compromesso",
+        "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 239974,
+      "name": "Pistorius",
+      "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2803,26 +2803,6 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
-      },
-      "artists": [
-        {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
-        }
-      ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
         "name": "Ragazzi fuori",
         "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
       },
@@ -2843,6 +2823,26 @@
       "duration_ms": 189145,
       "name": "Ragazzi fuori",
       "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
+      },
+      "artists": [
+        {
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
+        },
+        {
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
+        }
+      ],
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-04-24 07:46:38",
@@ -2931,6 +2931,30 @@
     {
       "added_at": "2026-04-24 07:46:38",
       "album": {
+        "name": "Aspromonte a Roma",
+        "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        },
+        {
+          "name": "Giga Scasi",
+          "url": "https://open.spotify.com/artist/41V75q1DXokcnqyRGlHccn"
+        },
+        {
+          "name": "Devon",
+          "url": "https://open.spotify.com/artist/1y8iIph5ZmuuZ9wqwxmCih"
+        }
+      ],
+      "duration_ms": 205958,
+      "name": "Putiferio",
+      "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
+    },
+    {
+      "added_at": "2026-04-24 07:46:38",
+      "album": {
         "name": "Blocchi Di Marmo",
         "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
@@ -2955,30 +2979,6 @@
       "duration_ms": 219069,
       "name": "Blocchi Di Marmo",
       "url": "https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd"
-    },
-    {
-      "added_at": "2026-04-24 07:46:38",
-      "album": {
-        "name": "Aspromonte a Roma",
-        "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        },
-        {
-          "name": "Giga Scasi",
-          "url": "https://open.spotify.com/artist/41V75q1DXokcnqyRGlHccn"
-        },
-        {
-          "name": "Devon",
-          "url": "https://open.spotify.com/artist/1y8iIph5ZmuuZ9wqwxmCih"
-        }
-      ],
-      "duration_ms": 205958,
-      "name": "Putiferio",
-      "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
     },
     {
       "added_at": "2026-04-24 07:46:38",

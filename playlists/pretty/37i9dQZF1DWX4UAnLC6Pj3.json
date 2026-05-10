@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Corona del Rey \ud83d\udcf8",
-  "num_followers": 1301615,
+  "num_followers": 1301649,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme",
-        "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 221905,
-      "name": "Vali\u00f3 La Pena Equivocarme",
-      "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Coronar Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 192978,
       "name": "Por Qui\u00e9n Me Dejas (En vivo)",
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 221905,
+      "name": "Vali\u00f3 La Pena Equivocarme",
+      "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "En Coma Inducido",
+        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "En Coma Inducido",
+      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 152908,
       "name": "Fuiste Mi Todo",
       "url": "https://open.spotify.com/track/1enbIjLTvLx7uPsQeLkoQQ"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "En Coma Inducido",
-        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "En Coma Inducido",
-      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Aunque me duela",
+        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "Aunque me duela",
+      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Aunque me duela",
-        "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 228017,
-      "name": "Aunque me duela",
-      "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Quien De Los Dos Sera",
+        "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Quien De Los Dos Sera",
+      "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
         "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 209000,
       "name": "Sonri\u00e9ndole A La Vida - En Vivo",
       "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Quererte Mucho",
-        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Quererte Mucho",
-      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Quien De Los Dos Sera",
-        "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
+        "name": "Quererte Mucho",
+        "url": "https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8"
       },
       "artists": [
         {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
         }
       ],
-      "duration_ms": 213169,
-      "name": "Quien De Los Dos Sera",
-      "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+      "duration_ms": 197400,
+      "name": "Quererte Mucho",
+      "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Se Me Sali\u00f3 Una Lagrimita",
-        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 165329,
-      "name": "Se Me Sali\u00f3 Una Lagrimita",
-      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Parece Chiste",
         "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Se Me Sali\u00f3 Una Lagrimita",
+        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 165329,
+      "name": "Se Me Sali\u00f3 Una Lagrimita",
+      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 162124,
       "name": "Baila",
       "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Las Reglas Del Juego",
+        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 171886,
+      "name": "Quisiera Rozar Tu Piel",
+      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1227,22 +1243,6 @@
       "duration_ms": 179745,
       "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
       "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Las Reglas Del Juego",
-        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 171886,
-      "name": "Quisiera Rozar Tu Piel",
-      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
-      },
-      "artists": [
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Y de Repente",
         "url": "https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 189544,
       "name": "Y de Repente",
       "url": "https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
+      },
+      "artists": [
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Si Te Vuelves a Enamorar",
-        "url": "https://open.spotify.com/album/1Fz1KX39tfYhKAp4oT8S7B"
-      },
-      "artists": [
-        {
-          "name": "Decibel Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Si Te Vuelves a Enamorar",
-      "url": "https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Si Te Vuelves a Enamorar",
+        "url": "https://open.spotify.com/album/1Fz1KX39tfYhKAp4oT8S7B"
+      },
+      "artists": [
+        {
+          "name": "Decibel Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Si Te Vuelves a Enamorar",
+      "url": "https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Las Ma\u00f1anitas",
-        "url": "https://open.spotify.com/album/56Z39rIzLEuaC0NLsuiCAZ"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Las Ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/1iwWSiAjIqwihkbhGfl0Fo"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/56Z39rIzLEuaC0NLsuiCAZ"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/1iwWSiAjIqwihkbhGfl0Fo"
     }
   ],
   "unique_name": "Banda 2026",

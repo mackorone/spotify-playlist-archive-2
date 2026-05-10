@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 326157,
+  "num_followers": 326174,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACoCACyeWTr7EESoq7N/gma",
+  "snapshot_id": "af0ngAAAAAD6S+u/v6We/Lo/KEDIUNlX",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,34 @@
       "duration_ms": 166234,
       "name": "Over",
       "url": "https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIELD TRIP",
+        "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
     },
     {
       "added_at": null,
@@ -907,34 +935,6 @@
       "duration_ms": 233142,
       "name": "Fire Your Manager (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
-        "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
-      "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
     }
   ],
   "unique_name": "This Is Playboi Carti",

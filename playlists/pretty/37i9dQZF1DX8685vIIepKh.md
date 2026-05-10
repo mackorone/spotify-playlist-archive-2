@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,425 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,441 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 43 | [Hypnotized](https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:15 |
 | 44 | [Zoo \- De "Zootopie 2"](https://open.spotify.com/track/196bJODAhGxwCP9oWAXlK1) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(De "Zootopie 2"\)](https://open.spotify.com/album/6CZJZ0gOiPcqGni1BRjJWN) | 3:10 |
 | 45 | [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 |
-| 46 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
-| 47 | [Temperature](https://open.spotify.com/track/0svvvbTUgEy79F6Sxweyjo) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/5dllg7LmHBB2pOSzr9aOg0) | 3:36 |
+| 46 | [Temperature](https://open.spotify.com/track/0svvvbTUgEy79F6Sxweyjo) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/5dllg7LmHBB2pOSzr9aOg0) | 3:36 |
+| 47 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 48 | [Cry For You](https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Cry For You](https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE) | 2:41 |
 | 49 | [San Francisco](https://open.spotify.com/track/3S8uW1FUeNqzaRzwJWRU8g) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [San Francisco](https://open.spotify.com/album/0sRdNyWdHU5LXX94svHqMZ) | 2:31 |
 | 50 | [Azizam](https://open.spotify.com/track/5AJnWnJ8A1x9fyVoXdOGmC) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/54GTNKRi7egKeaLHNwtKWd) | 3:29 |

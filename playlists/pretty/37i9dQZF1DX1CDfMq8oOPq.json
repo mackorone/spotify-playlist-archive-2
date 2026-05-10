@@ -1,12 +1,12 @@
 {
   "description": "CAD\u00ca O BONDE DO ESCULACHO?? // Ci\u00e7a ",
-  "num_followers": 100205,
+  "num_followers": 100221,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANX4z43Js9YhdZWL0UaarMzZntXi",
+  "snapshot_id": "AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv",
   "tracks": [
     {
       "added_at": "2026-05-01 03:02:05",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-01 03:02:05",
       "album": {
-        "name": "Amina",
-        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
-    },
-    {
-      "added_at": "2026-05-01 03:02:05",
-      "album": {
         "name": "FUTURO DO PA\u00cdS",
         "url": "https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-05-01 03:02:05",
       "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
+    },
+    {
+      "added_at": "2026-05-01 03:02:05",
+      "album": {
         "name": "Soffisticada",
         "url": "https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt"
       },
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-05-01 03:02:05",
       "album": {
-        "name": "bandida chata (original)",
-        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
-      },
-      "artists": [
-        {
-          "name": "Ana Rima",
-          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
-        },
-        {
-          "name": "VITOR VRIL",
-          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
-        }
-      ],
-      "duration_ms": 200649,
-      "name": "Bandida chata",
-      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
-    },
-    {
-      "added_at": "2026-05-01 03:02:05",
-      "album": {
         "name": "O OURO",
         "url": "https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 152470,
       "name": "O OURO",
       "url": "https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq"
+    },
+    {
+      "added_at": "2026-05-01 03:02:05",
+      "album": {
+        "name": "bandida chata (original)",
+        "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
+      },
+      "artists": [
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        },
+        {
+          "name": "VITOR VRIL",
+          "url": "https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Bandida chata",
+      "url": "https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY"
     },
     {
       "added_at": "2026-05-01 03:02:05",

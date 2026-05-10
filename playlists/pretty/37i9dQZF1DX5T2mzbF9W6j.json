@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112779,
+  "num_followers": 112778,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 206530,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "W to mi graj",
         "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 189520,
       "name": "W to mi graj",
       "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "prosz\u0119 pana",
-        "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 130342,
-      "name": "prosz\u0119 pana",
-      "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "Dotknij",
         "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "prosz\u0119 pana",
+        "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 130342,
+      "name": "prosz\u0119 pana",
+      "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "kto jak nie my",
-        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "kto jak nie my",
-      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "Dom",
         "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 154368,
       "name": "Dom",
       "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "kto jak nie my",
+        "url": "https://open.spotify.com/album/32CQm6plS0cfSSfvomyqn0"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "kto jak nie my",
+      "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "Muzyka pop",
+        "url": "https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 253703,
+      "name": "Muzyka pop",
+      "url": "https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "Jak to jest",
         "url": "https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 212419,
       "name": "Jak to jest",
       "url": "https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
-        "name": "Muzyka pop",
-        "url": "https://open.spotify.com/album/0xLwcioIso3I9TpCYinABA"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 253703,
-      "name": "Muzyka pop",
-      "url": "https://open.spotify.com/track/5R0i3UmUiz7dQjzECeFPwt"
     }
   ],
   "unique_name": "... ale najpierw kawa",

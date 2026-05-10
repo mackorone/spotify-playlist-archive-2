@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 226415,
       "name": "6llekas",
       "url": "https://open.spotify.com/track/42L8fRwgmWXnNcq1R5QsJr"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -6993,6 +6993,28 @@
     },
     {
       "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
+    },
+    {
+      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -10136,7 +10158,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -12246,7 +12268,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
@@ -13334,7 +13356,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -24768,7 +24790,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -38682,7 +38704,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 188090,
       "name": "Palavaks",
       "url": "https://open.spotify.com/track/5sEzQnpzigAaZRxfSLbZcy"
@@ -41900,7 +41922,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -42220,7 +42242,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 163001,
       "name": "REDRED",
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
@@ -54789,6 +54811,36 @@
     },
     {
       "album": {
+        "name": "vastu puud",
+        "url": "https://open.spotify.com/album/7vBfF4FzQ9KzEt0YjZ1e7n"
+      },
+      "artists": [
+        {
+          "name": "kanapoeg",
+          "url": "https://open.spotify.com/artist/4DcfUd6vtd91yzX7F5FA83"
+        },
+        {
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
+        },
+        {
+          "name": "kohver",
+          "url": "https://open.spotify.com/artist/1LsT8mVsiQAq4d4OmYaxxh"
+        },
+        {
+          "name": "kurvad uudised",
+          "url": "https://open.spotify.com/artist/0IqvdQEpy2RSX3JBeadPZB"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "vastu puud",
+      "url": "https://open.spotify.com/track/3gx2AJdz4o5kqb2HUdyf61"
+    },
+    {
+      "album": {
         "name": "V\u00e4\u00e4ramatu j\u00f5ud",
         "url": "https://open.spotify.com/album/5Q8W2sZwXL0nlbc6n4g0eW"
       },
@@ -60764,6 +60816,32 @@
       "duration_ms": 140689,
       "name": "\u0427\u0451\u0440\u043d\u044b\u0439 \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
       "url": "https://open.spotify.com/track/5FJssp1RN96K5AI7K2gJLY"
+    },
+    {
+      "album": {
+        "name": "\u0428\u0430\u0434\u044d",
+        "url": "https://open.spotify.com/album/6DBQO6xPJEwKISFHrlYkjI"
+      },
+      "artists": [
+        {
+          "name": "By \u0418\u043d\u0434\u0438\u044f",
+          "url": "https://open.spotify.com/artist/0BPOpRKw4vLwPFp4LsFRpO"
+        },
+        {
+          "name": "Xcho",
+          "url": "https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB"
+        },
+        {
+          "name": "\u041c\u041e\u0422",
+          "url": "https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168941,
+      "name": "\u0428\u0430\u0434\u044d",
+      "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"
     },
     {
       "album": {

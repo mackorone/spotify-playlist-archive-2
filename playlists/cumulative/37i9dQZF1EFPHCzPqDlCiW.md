@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-196 songs - 10 hr 22 min
+197 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Always Love](https://open.spotify.com/track/3esb4GVLQ2uUdVSwIWTwWD) | [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Always Love](https://open.spotify.com/album/0DCVDrAgMoOfL1ZCGG9lsa) | 2:31 | 2024-07-18 |  |
 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 | 2024-08-14 | 2024-09-30 |
 | [Anger](https://open.spotify.com/track/4TAVEEOHOdwwzMyr78veol) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 2:57 | 2024-09-29 |  |
+| [Another Life](https://open.spotify.com/track/6ALA4ufYLfN5hC4lxBX4FV) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Another Life](https://open.spotify.com/album/0M1oXyAjSf50NtJmp3GQHP) | 3:00 | 2026-05-09 |  |
 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 | 2024-01-29 |  |
 | [Anywhere's Home](https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Anywhere's Home](https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3) | 2:57 | 2024-01-29 |  |
 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 | 2024-01-29 |  |

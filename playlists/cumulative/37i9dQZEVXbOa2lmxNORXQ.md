@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,643 songs - 3 day 19 hr 41 min
+1,644 songs - 3 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,7 +1310,7 @@
 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 | 2021-12-22 | 2022-05-08 |
 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-21 | 2025-09-27 |
 | [SE LO JURO MOR](https://open.spotify.com/track/4MSfAq3HZsIbTri2IEsCH1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:50 | 2026-03-21 | 2026-03-23 |
-| [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 | 2024-08-24 |  |
+| [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 | 2024-08-24 | 2026-05-10 |
 | [Se Puso Linda](https://open.spotify.com/track/71AVxv9fJVgGpGZIGcxud3) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:26 | 2025-06-21 | 2025-06-30 |
 | [SE SUPONE](https://open.spotify.com/track/62QcYAIRQ9VGJ7eyS1S3ek) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [SE SUPONE](https://open.spotify.com/album/5mHD4ryfrB2GKXGh2v0VxP) | 2:44 | 2025-10-11 | 2025-10-25 |
 | [Se Va La Vida](https://open.spotify.com/track/2zqdWJxskydGmP0IeCxhsD) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Éxitos De Rodolfo Aicardi, Vol\. 4](https://open.spotify.com/album/1kwvxuaNe1g48e6U7IPTad) | 3:39 | 2025-12-07 | 2026-01-04 |
@@ -1532,6 +1532,7 @@
 | [un x100to](https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:14 | 2023-08-31 | 2024-03-06 |
 | [un x100to](https://open.spotify.com/track/4QctbZRsuWYPT0pbKg7u75) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:14 | 2023-08-04 | 2023-09-01 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-18 | 2023-08-05 |
+| [Una A La Vez](https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 2:32 | 2026-05-09 |  |
 | [UNA BABY EN SANTIAGO](https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:45 | 2026-04-03 |  |
 | [UNA BOKA](https://open.spotify.com/track/3wSZvk3xWv2bzUpUAalO55) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Toploud](https://open.spotify.com/artist/5tgFUVWQA7u6tF7Ut79Mge) | [UNA BOKA](https://open.spotify.com/album/7j9E8n2j2T948hupgcuqBw) | 2:30 | 2024-10-21 | 2024-10-24 |
 | [Una Copita](https://open.spotify.com/track/7wM7QoQcKK6EN3otknNRsT) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Una Copita](https://open.spotify.com/album/5J6KRt3UVG3IXM3Vzs1dgT) | 2:40 | 2024-11-11 | 2024-11-14 |

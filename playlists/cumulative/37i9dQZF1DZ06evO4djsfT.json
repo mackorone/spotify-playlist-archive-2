@@ -1201,6 +1201,32 @@
     },
     {
       "album": {
+        "name": "LEFT HAND",
+        "url": "https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217634,
+      "name": "LEFT HAND (feat. Terrian)",
+      "url": "https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5"
+    },
+    {
+      "album": {
         "name": "Let Go Let God: The EP",
         "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
       },
@@ -1748,7 +1774,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 166803,
       "name": "Santo (HLY FOREVER)",
       "url": "https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm"

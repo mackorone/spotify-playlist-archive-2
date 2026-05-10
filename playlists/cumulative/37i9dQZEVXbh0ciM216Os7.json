@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 264948,
       "name": "All Good",
       "url": "https://open.spotify.com/track/3g50YBqRKXs3r0EoyZZfjH"
@@ -5217,6 +5217,36 @@
     },
     {
       "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "Back To The Land",
+      "url": "https://open.spotify.com/track/0iSLetXM5KlC7xA10L6QKg"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -5272,7 +5302,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 88346,
       "name": "Bad Actors",
       "url": "https://open.spotify.com/track/1oOUhect64PiuYFboTjbnq"
@@ -10544,7 +10574,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 107385,
       "name": "Cant Look Back",
       "url": "https://open.spotify.com/track/4BLDnlO6IYXIbemUIBIK26"
@@ -11760,6 +11790,24 @@
       "duration_ms": 246377,
       "name": "Chi Mi Na Morbheanna - Unison Graduation Mix",
       "url": "https://open.spotify.com/track/49FbmTNqvepS3Fcl63FXyC"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225813,
+      "name": "Child Actor",
+      "url": "https://open.spotify.com/track/1hNrZ3l5SBRGf3u8bAm8yC"
     },
     {
       "album": {
@@ -23884,7 +23932,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 324720,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/7KIJDqIKoWhPH4fKgP9mKQ"
@@ -26716,7 +26764,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 190473,
       "name": "Good Habits",
       "url": "https://open.spotify.com/track/42JgIrDqDHnNhXhQvcrAlD"
@@ -27650,7 +27698,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 257200,
       "name": "Hatredy - Remixed & Remastered",
       "url": "https://open.spotify.com/track/4biHUAUNF1NFNvrGTc1mRH"
@@ -29206,7 +29254,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 202053,
       "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
@@ -31799,6 +31847,24 @@
     },
     {
       "album": {
+        "name": "IDEAR",
+        "url": "https://open.spotify.com/album/0AZOMZBxgdw9W53D0KG2XO"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121384,
+      "name": "IDEAR",
+      "url": "https://open.spotify.com/track/3d2LaKwruMSaImtP2pQdJK"
+    },
+    {
+      "album": {
         "name": "Idyllic",
         "url": "https://open.spotify.com/album/6WSin8dsL2r6A3sij4COnY"
       },
@@ -33825,6 +33891,24 @@
     },
     {
       "album": {
+        "name": "Jeffrey",
+        "url": "https://open.spotify.com/album/44GiwcZJGAhySmvLTNp3oC"
+      },
+      "artists": [
+        {
+          "name": "JW Francis",
+          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216499,
+      "name": "Jeffrey",
+      "url": "https://open.spotify.com/track/45zud8gGovBdxhMUwKlZ0d"
+    },
+    {
+      "album": {
         "name": "The Long Way Round",
         "url": "https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9"
       },
@@ -34135,6 +34219,28 @@
     },
     {
       "album": {
+        "name": "Jump To The Stars",
+        "url": "https://open.spotify.com/album/4EEe44rOcpMWboN5x9Mwyw"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "Jump To The Stars",
+      "url": "https://open.spotify.com/track/4Aszr2o5p0CPrVyJRpHEgZ"
+    },
+    {
+      "album": {
         "name": "JUMPIN",
         "url": "https://open.spotify.com/album/1ZdWk1Dsey5PV8vm1o9aXK"
       },
@@ -34306,7 +34412,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 282044,
       "name": "Just Begun 2026",
       "url": "https://open.spotify.com/track/1N4Eu8IJBfskoXutIv6y4j"
@@ -43249,6 +43355,24 @@
     },
     {
       "album": {
+        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Murmaider - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
+    },
+    {
+      "album": {
         "name": "Dethalbum IV",
         "url": "https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC"
       },
@@ -46468,7 +46592,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 154293,
       "name": "Of All People",
       "url": "https://open.spotify.com/track/1zIvUuzmbvaZNHhMJuaAaq"
@@ -49660,7 +49784,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 399692,
       "name": "Pet Monster Shotglass",
       "url": "https://open.spotify.com/track/13DFJVS47EeL85Rzpd5Ao9"
@@ -51716,7 +51840,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 1166904,
       "name": "Prison from Einstein on the Beach (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/0pgA6dDBQWT4CeTsve9wyD"
@@ -51932,7 +52056,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 886034,
       "name": "Protest from Satyagraha (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/1fKeRYlYHNpqanDN86hdd2"
@@ -67058,7 +67182,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 159573,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/55SqdzdJEuBliVqvmPe1y0"

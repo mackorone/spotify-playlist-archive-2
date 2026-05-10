@@ -4,7 +4,7 @@
 
 > This is Bruno Mars\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 37 min
+79 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Leave The Door Open \- Live](https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open \(Live\)](https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu) | 4:20 | 2024-01-20 | 2025-10-18 |
 | [Lighters](https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 5:03 | 2024-01-20 |  |
 | [Liquor Store Blues \(feat\. Damian Marley\)](https://open.spotify.com/track/4KykoaJQ5UxjCpp3lYkvTE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:49 | 2024-05-21 | 2024-07-07 |
+| [Lo Arriesgo Todo](https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lo Arriesgo Todo](https://open.spotify.com/album/04HQFUF2ZerH9UAu5Lo6bP) | 3:24 | 2026-05-10 |  |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2024-01-20 |  |
 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2024-04-15 |  |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2024-01-20 | 2024-03-24 |

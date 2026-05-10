@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,032 songs - 2 day 12 hr 28 min
+1,033 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Maybe This Time](https://open.spotify.com/track/0Btok8fuH53WscccgEnav6) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Maybe This Time](https://open.spotify.com/album/66VMQdFAOE1xjVEEWfipaT) | 3:29 | 2026-04-25 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/0ARCZiCkfh5zKlNN3IvOp7) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Bucks County](https://open.spotify.com/album/5CwcyeEYyhy2pYlJhZnKTL) | 4:12 | 2025-12-22 | 2026-01-24 |
 | [Maçã](https://open.spotify.com/track/0rydRbJCbrTugZjGkAZZWm) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Maçã](https://open.spotify.com/album/4I6amNqmfeoBtegDw9yrJu) | 3:50 | 2023-04-27 | 2025-11-29 |
+| [Measures Of Distance](https://open.spotify.com/track/5fW1XXzm3MHGnAMAg6Kzhh) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Feed](https://open.spotify.com/album/7LnObuB8XQDT4jBCU1jTvT) | 5:03 | 2026-05-09 |  |
 | [Medio lleno el vaso](https://open.spotify.com/track/62xTr4b4oXgrbMWHV5qHgU) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:55 | 2025-11-25 | 2026-01-05 |
 | [Mediocre Men](https://open.spotify.com/track/1f8fJND1Iy4Qw87rPvUYIC) | [Jay Moussa\-Mann](https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz) | [Mediocre Men](https://open.spotify.com/album/7ePV736XzcdtRWSeOKuPcm) | 3:27 | 2026-05-01 |  |
 | [Mel](https://open.spotify.com/track/2Yd5UTCFANcqxDxEV29VKm) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 2:42 | 2026-04-06 | 2026-05-03 |

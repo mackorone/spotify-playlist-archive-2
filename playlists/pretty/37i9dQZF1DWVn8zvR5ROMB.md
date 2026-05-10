@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kenny Chesney, Koe Wetzel, Ashley McBryde and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,390 likes - 68 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,539 likes - 68 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 19 | [Chasing Shadows](https://open.spotify.com/track/1qg2HzpzllAuUJeMAn3Iv8) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [CHASING SHADOWS](https://open.spotify.com/album/648AXNXpqUeRGFNGMGLE6U) | 2:40 |
 | 20 | [Closest Thing to Cocaine](https://open.spotify.com/track/3rYEHzAh8Pn6NVgOYdz5kq) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Closest Thing to Cocaine](https://open.spotify.com/album/3AtgFWSo9hEp7HmqU0qNg7) | 2:46 |
 | 21 | [Waiting For](https://open.spotify.com/track/3jHxFIpKr3Mj2BdexSx0K0) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Rest Of My Life](https://open.spotify.com/album/2qd5izIarXTxKcg6WPtlGM) | 3:17 |
-| 22 | [Keep Comin' Back](https://open.spotify.com/track/033yjCl4lrn9koUAAsQ5nj) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp), [Ava Hall](https://open.spotify.com/artist/6AFmWY1mUApOgMx6PMB8IP) | [Keep Comin' Back](https://open.spotify.com/album/2v7gmOgMeJvai6MWv3hvAj) | 3:12 |
+| 22 | [Keep Comin' Back](https://open.spotify.com/track/033yjCl4lrn9koUAAsQ5nj) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp), [Ava Hall](https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt) | [Keep Comin' Back](https://open.spotify.com/album/2v7gmOgMeJvai6MWv3hvAj) | 3:12 |
 | 23 | [Nobody Held Her Like Me](https://open.spotify.com/track/4YLGsCM6Pxe4rLNAhchQrb) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [50 Years From Home: Nobody Held Her Like Me](https://open.spotify.com/album/3ISQPAsFMuEUzxk7XqDRDh) | 3:39 |
 | 24 | [Can Anybody](https://open.spotify.com/track/4J8X4uFXqhaDjkSPSvZ9uI) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Can Anybody](https://open.spotify.com/album/2tq4H5ncnKdvwu0hWta7kT) | 3:43 |
 | 25 | [Something Good](https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Something Good](https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu) | 3:00 |

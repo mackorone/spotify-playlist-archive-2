@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABjfa2EOK6HcjBcgJ+D1Bg+",
+  "snapshot_id": "af0ngAAAAAD4rdyDCAuDH+WZMuSh6mT2",
   "tracks": [
     {
       "added_at": null,
@@ -300,25 +300,17 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+          "name": "Robert Sherman, Host",
+          "url": "https://open.spotify.com/artist/6VZIaOICmrhGRWmjjXHx6O"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 514733,
-      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
-      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
+      "duration_ms": 73853,
+      "name": "Commentary 4",
+      "url": "https://open.spotify.com/track/2F8PJ25OokK48sNonfHwOm"
     },
     {
       "added_at": null,
@@ -371,6 +363,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ionisation (1927-1945)",
+        "url": "https://open.spotify.com/album/74Ef8hYM9W1XIuu3G1BU5F"
+      },
+      "artists": [
+        {
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "New York Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2Ygb9yY45hoD9IZOFKAngE"
+        },
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        }
+      ],
+      "duration_ms": 59733,
+      "name": "Broadcast Commentary",
+      "url": "https://open.spotify.com/track/06UdNlrbPzDtAD7SGKqr9u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music and Memories: Clara Rockmore",
         "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 204066,
       "name": "Elegy: Do not tempt me needlessly.",
       "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Valse Sentimentale, Op. 51, No. 6",
-      "url": "https://open.spotify.com/track/5MLGHbmhvawMxtqfPQQ4LY"
     },
     {
       "added_at": null,
@@ -463,30 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ionisation (1927-1945)",
-        "url": "https://open.spotify.com/album/74Ef8hYM9W1XIuu3G1BU5F"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "Anis Fuleihan",
-          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "New York Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2Ygb9yY45hoD9IZOFKAngE"
-        },
-        {
-          "name": "Leopold Stokowski",
-          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
         }
       ],
-      "duration_ms": 59733,
-      "name": "Broadcast Commentary",
-      "url": "https://open.spotify.com/track/06UdNlrbPzDtAD7SGKqr9u"
+      "duration_ms": 124786,
+      "name": "Valse Sentimentale, Op. 51, No. 6",
+      "url": "https://open.spotify.com/track/5MLGHbmhvawMxtqfPQQ4LY"
     },
     {
       "added_at": null,
@@ -496,17 +488,17 @@
       },
       "artists": [
         {
-          "name": "Robert Sherman, Host",
-          "url": "https://open.spotify.com/artist/6VZIaOICmrhGRWmjjXHx6O"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "The Listening Room Ensemble",
+          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
         }
       ],
-      "duration_ms": 73853,
-      "name": "Commentary 4",
-      "url": "https://open.spotify.com/track/2F8PJ25OokK48sNonfHwOm"
+      "duration_ms": 476933,
+      "name": "Bachianas Brasileiras: No. 5, Aria",
+      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
     },
     {
       "added_at": null,
@@ -584,17 +576,17 @@
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
         },
         {
-          "name": "The Listening Room Ensemble",
-          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 476933,
-      "name": "Bachianas Brasileiras: No. 5, Aria",
-      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+      "duration_ms": 68560,
+      "name": "Commentary 2",
+      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
     },
     {
       "added_at": null,
@@ -616,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 504080,
-      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
-      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -656,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 504080,
+      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
+      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
     },
     {
       "added_at": null,

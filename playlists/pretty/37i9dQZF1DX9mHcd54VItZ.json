@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus and Tasch\u00e9",
-  "num_followers": 27523,
+  "num_followers": 27534,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Cowboys Of Doom",
-        "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
       "artists": [
         {
-          "name": "We Kill Cowboys",
-          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
-        },
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO"
+          "name": "aKING",
+          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
         }
       ],
-      "duration_ms": 299720,
-      "name": "Cowboys Of Doom",
-      "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
+      "duration_ms": 175746,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -687,18 +683,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
+        "name": "Cowboys Of Doom",
+        "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
       },
       "artists": [
         {
-          "name": "aKING",
-          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        },
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+      "duration_ms": 299720,
+      "name": "Cowboys Of Doom",
+      "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/6tUxIx5RMSyZhZjKBMWr66"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 252108,
-      "name": "Sonde",
-      "url": "https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Jou Tyd Is Nou",
         "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/6tUxIx5RMSyZhZjKBMWr66"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 252108,
+      "name": "Sonde",
+      "url": "https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn"
     },
     {
       "added_at": "2026-04-24 09:03:29",

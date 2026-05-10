@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-153 songs - 8 hr 13 min
+154 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Pas De Deux Variation \(From The Nutcracker, Op\. 71, Arr\. for Piano by Svetoslav Karparov\)](https://open.spotify.com/track/4Passn6otbdo2d3rXBs691) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Pas De Deux Variation \(From The Nutcracker, Op\. 71, Arr\. for Piano by Svetoslav Karparov\)](https://open.spotify.com/album/6IXMpUJPvdAdslo4vw8hFD) | 2:06 | 2022-09-08 |  |
 | [Pathétique](https://open.spotify.com/track/4j8555HbI7drgLb6Hem2NK) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [German Brass](https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM) | [Pathétique](https://open.spotify.com/album/2jiZuCA29I9pYhD3vNDVz0) | 5:02 | 2020-12-19 |  |
 | [Perfect](https://open.spotify.com/track/0AOvD8LrdeDVDaLzSB7YsM) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Perfect](https://open.spotify.com/album/5IEP2NdoJtkoThS0fkZmap) | 3:44 | 2022-12-01 |  |
+| [Petit Adagio Variation \(After The Seasons, Op\. 67: No\. 15, Petit Adagio\)](https://open.spotify.com/track/6Y9fbpTvUuisTa0ndrPgPO) | [Alexander Glazunov](https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Jan Vogler](https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA), [Moritzburg Ensemble](https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa) | [Petit Adagio Variation \(After The Seasons, Op\. 67: No\. 15, Petit Adagio\)](https://open.spotify.com/album/4ARVjMdN4m44cjyYHXkcnI) | 2:34 | 2026-05-09 |  |
 | [Piano Sonata No\. 14 in C\-sharp minor, Op\. 27, No\. 2, "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/24t1mpJc8FTPAkYjFdf9NQ) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 5:13 | 2019-10-18 |  |
 | [Potato Field](https://open.spotify.com/track/5UmaF1iMHbQ4Unvpark3gz) | [Nicklas Schmidt](https://open.spotify.com/artist/7Ku9xz9DeV26gUqdOJdgsJ), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N), [Peter Pejtsik](https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO), [Tanja Zapolski](https://open.spotify.com/artist/7zKdujQv4WzBwHEUtSGFZA), [Krisztián Kurucz](https://open.spotify.com/artist/3jOjvJEPL4vQj1KWCKO19K) | [Becoming Astrid / Unga Astrid Lindgren \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6R2gnz9EI9uX9rjHMNCYMh) | 0:55 | 2022-12-01 |  |
 | [Primrose](https://open.spotify.com/track/5m28BeQXxcwNhMB6TDZXrO) | [Eusebius](https://open.spotify.com/artist/1Ug4iFVzMNtcycejiPJeqc) | [Flowers 2](https://open.spotify.com/album/2PE5zlAbrLVWveEvPEC7hJ) | 1:54 | 2020-07-04 |  |

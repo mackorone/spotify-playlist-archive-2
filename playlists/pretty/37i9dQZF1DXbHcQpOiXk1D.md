@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Knats
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,707 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,711 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 16 | [Under Attack](https://open.spotify.com/track/15Mv73RoYdnrmdVQaCb59e) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [As the Crows](https://open.spotify.com/album/18IODQIxo4nKpOQs5I0EkB) | 3:35 |
 | 17 | [Slow Heart](https://open.spotify.com/track/56NnhFdyX5X9ZS6uHQouqA) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Slow Heart / Fire Up](https://open.spotify.com/album/2BvIz04xVj9Lp8PMj7IYeB) | 2:47 |
 | 18 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 |
-| 19 | [You can count on me.](https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [You can count on me.](https://open.spotify.com/album/2gPoDqhG5UholG4AfzFun5) | 2:13 |
-| 20 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 |
-| 21 | [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 |
+| 19 | [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 |
+| 20 | [You can count on me.](https://open.spotify.com/track/4buhsm0hBj9buN2B2mn0LK) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [You can count on me.](https://open.spotify.com/album/2gPoDqhG5UholG4AfzFun5) | 2:13 |
+| 21 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 |
 | 22 | [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 |
 | 23 | [Mean To Me](https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Mean To Me](https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK) | 3:04 |
 | 24 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 29 | [Twang](https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [DJ\-Kicks: Quantic](https://open.spotify.com/album/2GgclfMMPdemb5gQHvtHiL) | 3:49 |
 | 30 | [Grand Prix](https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 4:01 |
 | 31 | [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 |
-| 32 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 |
-| 33 | [I Have A God \(feat\. Zara McFarlane\) \(Live at the Royal Albert Hall\)](https://open.spotify.com/track/379elayI3tNRn65G2gghlN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Chapter 7 \(10th Anniversary Edition\)](https://open.spotify.com/album/0TdADwn8RBoyHpXlumCfgk) | 3:57 |
+| 32 | [I Have A God \(feat\. Zara McFarlane\) \(Live at the Royal Albert Hall\)](https://open.spotify.com/track/379elayI3tNRn65G2gghlN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Chapter 7 \(10th Anniversary Edition\)](https://open.spotify.com/album/0TdADwn8RBoyHpXlumCfgk) | 3:57 |
+| 33 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 |
 | 34 | [K2 Central](https://open.spotify.com/track/2RQMFM55u8M21CQa3M0OzW) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [K2 Central](https://open.spotify.com/album/0mrnKzGjUoAi1tfCgsH45i) | 4:24 |
 | 35 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
 | 36 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 58 | [River Native](https://open.spotify.com/track/655ytGqzgDfJ8bBFbFVwQl) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [River Native](https://open.spotify.com/album/65ZqqiYEAqWnVXztKkcOoL) | 6:02 |
 | 59 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 60 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
-| 61 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
+| 61 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 |
 | 62 | [Sunset and Memories](https://open.spotify.com/track/1Z62oxxaQMOy1qEjSTAlzl) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Find Your Way / Sunset and Memories](https://open.spotify.com/album/4D303kngKMG3VGjOmdX7Y8) | 3:32 |
-| 63 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 |
+| 63 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
 | 64 | [All Time \(feat\. Tawiah\)](https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [All Time \(feat\. Tawiah\)](https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip) | 3:48 |
 | 65 | [ISA](https://open.spotify.com/track/5MHpJS8FDkSleGcV6Lk0Dz) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [ISA](https://open.spotify.com/album/3AYOE4y7iEVsvUPo4T0KXF) | 3:48 |
 | 66 | [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [Dance In Praise](https://open.spotify.com/track/7wx3mx0HSQ9u1xLBquLX0n) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Dance In Praise](https://open.spotify.com/album/2NDkjx2pEYZO1rTYFQo4rh) | 4:27 |
 | 75 | [Deep Space](https://open.spotify.com/track/1xZztngs1PHjcqWVo2ftiQ) | [Matt Bianco](https://open.spotify.com/artist/1WQky50vkzSvSCUl0ejWqb), [Betty Black](https://open.spotify.com/artist/3GSCvQZEac06Dh0xMhH9Yt) | [Deep Space](https://open.spotify.com/album/6qlSWJoA3dVocFKm9AyLp3) | 4:46 |
 
-Snapshot ID: `AAAAAOxCQPpWaToqHCzcamsWas1kLwnI`
+Snapshot ID: `AAAAAOtebxdN9uGP7GSJClSt9r1y2m7Y`

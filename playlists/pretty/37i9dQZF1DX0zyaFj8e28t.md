@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,611 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,658 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 11 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 12 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
 | 13 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
-| 14 | [Capitaine abandonné](https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Incontournable Gold](https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR) | 3:55 |
-| 15 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 |
+| 14 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 |
+| 15 | [Capitaine abandonné](https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Incontournable Gold](https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR) | 3:55 |
 | 16 | [Les démons de minuit](https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les démons de minuit](https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO) | 3:51 |
 | 17 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |
 | 18 | [D'amour ou d'amitié](https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:58 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 24 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
 | 25 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
 | 26 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
-| 27 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
-| 28 | [Pourvu qu'elles soient douces](https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F) | 4:52 |
+| 27 | [Pourvu qu'elles soient douces](https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F) | 4:52 |
+| 28 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
 | 29 | [Le parking des anges](https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:56 |
 | 30 | [Si j'étais un homme](https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [En flèche](https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi) | 4:49 |
 | 31 | [En rouge et noir](https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN) | [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Best of Jeanne Mas 2004](https://open.spotify.com/album/4pTDSN6BHeCYXI3hkojANx) | 4:28 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 36 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
 | 37 | [Tropique](https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0) | [Muriel Dacq](https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP) | [Tropique](https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO) | 3:32 |
 | 38 | [Elle a les yeux revolver](https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of 85\-95](https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN) | 3:36 |
-| 39 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
-| 40 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
-| 41 | [En l'an 2001](https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j) | [Pierre Bachelet](https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4) | [Le Meilleur De](https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN) | 5:27 |
+| 39 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
+| 40 | [En l'an 2001](https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j) | [Pierre Bachelet](https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4) | [Le Meilleur De](https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN) | 5:27 |
+| 41 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
 | 42 | [La p'tite Lady](https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8) | [Vivien Savage](https://open.spotify.com/artist/4JB4YibTxVBeW30DtePCZT) | [EP La P'tite Lady](https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ) | 3:35 |
 | 43 | [Désir, désir, Pt\. 1](https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z), [Véronique Jannot](https://open.spotify.com/artist/3AySyGIRlpIhkjan8dOSbN) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:56 |
 | 44 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sayf, The Rolling Stones, LDA e Aka 7even, Coez e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,032 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,059 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 54 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 55 | [Colore](https://open.spotify.com/track/6575rm0rZl0RIVUv3xXpeF) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [PERDIGIORNO](https://open.spotify.com/album/6Y8RMtE6eURn7dorClWhPb) | 2:32 |
 | 56 | [Basta Poco](https://open.spotify.com/track/49HutL5gF4a4GM4cq0BPod) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Basta Poco](https://open.spotify.com/album/7mHZvOdPaS8m6U2jJD94LC) | 2:53 |
-| 57 | [SAN NICOLA](https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [San Nicola](https://open.spotify.com/album/6VPe5idbPXXVN3kNvLAHt2) | 2:29 |
+| 57 | [San Nicola](https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [San Nicola](https://open.spotify.com/album/6VPe5idbPXXVN3kNvLAHt2) | 2:29 |
 | 58 | [Non Ti Trovo](https://open.spotify.com/track/4PFC2V8epSoivpSbBXpcCi) | [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Vaniglia e Zenzero](https://open.spotify.com/album/5RNR1XK9EasaOU1QUXAQgY) | 3:00 |
 | 59 | [Makeup](https://open.spotify.com/track/0Em5Qlr97WALqNHRxHzBTi) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Makeup](https://open.spotify.com/album/1kt6SLta3OszQiS8QUnWkM) | 2:23 |
 | 60 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |

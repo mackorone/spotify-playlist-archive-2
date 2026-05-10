@@ -2829,6 +2829,28 @@
     },
     {
       "album": {
+        "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
+        "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
+      "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
+    },
+    {
+      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -4632,7 +4654,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 328960,
       "name": "La jugada maestra",
       "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"

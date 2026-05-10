@@ -5215,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205909,
+      "name": "The Cost of Loving",
+      "url": "https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q"
+    },
+    {
+      "album": {
         "name": "the edge",
         "url": "https://open.spotify.com/album/2jf4GbLG7k8pYmq7uwB6N3"
       },

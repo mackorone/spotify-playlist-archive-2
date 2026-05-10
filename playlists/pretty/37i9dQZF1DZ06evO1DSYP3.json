@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACcw+Af58/PtJYXFiqG+v3S",
+  "snapshot_id": "af0ngAAAAADBNR1cnq6bgxN/ovM4xc0F",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S/O Alysa Liu",
-        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 137019,
-      "name": "S/O Alysa Liu",
-      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S/O Alysa Liu",
+        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 137019,
+      "name": "S/O Alysa Liu",
+      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 181478,
-      "name": "Stunna Anthem",
-      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Escape",
         "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 203187,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 181478,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
     },
     {
       "added_at": null,
@@ -707,26 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PUSH & PAINT",
-        "url": "https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0"
+        "name": "It Ain't Nothin",
+        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
       },
       "artists": [
         {
-          "name": "Bruiser Wolf",
-          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
-        },
-        {
-          "name": "Sheefy Mcfly",
-          "url": "https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH"
+          "name": "ATM Danny",
+          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Ole Girl (feat. P-LO)",
-      "url": "https://open.spotify.com/track/2bgNoj2vfQtLzNqsp6tvWe"
+      "duration_ms": 147169,
+      "name": "It Ain't Nothin",
+      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
     },
     {
       "added_at": null,
@@ -751,26 +747,6 @@
       "duration_ms": 169566,
       "name": "WHO ELSE YOU KNOW!?",
       "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Ain't Nothin",
-        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
-      },
-      "artists": [
-        {
-          "name": "ATM Danny",
-          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "It Ain't Nothin",
-      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
     },
     {
       "added_at": null,
@@ -843,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PUSH & PAINT",
+        "url": "https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0"
+      },
+      "artists": [
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
+          "name": "Sheefy Mcfly",
+          "url": "https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ole Girl (feat. P-LO)",
+      "url": "https://open.spotify.com/track/2bgNoj2vfQtLzNqsp6tvWe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out The Box (feat. Bosko)",
         "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
       },
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 175354,
       "name": "Level",
       "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Should Know",
         "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 177000,
       "name": "Mack",
       "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1051,26 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She Wanna (feat. P-Lo)",
         "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 205124,
       "name": "How Many",
       "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
     }
   ],
   "unique_name": "This Is P-Lo",

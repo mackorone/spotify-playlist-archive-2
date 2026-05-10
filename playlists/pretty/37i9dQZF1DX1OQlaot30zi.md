@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sayf, Aira, MamboLosco e Niky Savage, Diss Gacha e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,436 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,441 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 11 | [Armato \(feat\. Kid Yugi\)](https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 3:25 |
 | 12 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 |
 | 13 | [STATUS](https://open.spotify.com/track/1XLqcDXCO9c1WO6V8jNUOP) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [STATUS](https://open.spotify.com/album/6KkO2UGw98cNIrwL4WOs36) | 2:50 |
-| 14 | [SAN NICOLA](https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [San Nicola](https://open.spotify.com/album/6VPe5idbPXXVN3kNvLAHt2) | 2:29 |
+| 14 | [San Nicola](https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [San Nicola](https://open.spotify.com/album/6VPe5idbPXXVN3kNvLAHt2) | 2:29 |
 | 15 | [Makeup](https://open.spotify.com/track/0Em5Qlr97WALqNHRxHzBTi) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Makeup](https://open.spotify.com/album/1kt6SLta3OszQiS8QUnWkM) | 2:23 |
 | 16 | [F.I.$\. \(feat\. Tedua\)](https://open.spotify.com/track/5UVUTLEL671Ozsqfh7Kin7) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:06 |
 | 17 | [Le vite di tutti](https://open.spotify.com/track/6Y23KXLUpioULWQVvnhCob) | [Nicolaj Serjotti](https://open.spotify.com/artist/6esxRpRlB73YqS63CDjss7) | [Vita normale](https://open.spotify.com/album/2kPym07yohg9EMU2zE9AeW) | 1:39 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 52 | [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 |
 | 53 | [Haribo](https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Haribo](https://open.spotify.com/album/033qgPue0caWczYCMdcfFa) | 2:16 |
 | 54 | [TOKYO DRIFT \(feat\. Low\-Red\)](https://open.spotify.com/track/5Mqg9vLd5s58OxbXD3fYvG) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [TOKYO DRIFT \(feat\. Low\-Red\)](https://open.spotify.com/album/2SmmkwkVUZUDG7oQYF0E9M) | 2:10 |
-| 55 | [RAGAZZiNi ETERO 2 \(feat\. Macello\)](https://open.spotify.com/track/7tspQe2hRlg1Z8bBoQT45x) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [RAGAZZiNi ETERO 2 \(feat\. Macello\)](https://open.spotify.com/album/5Msu54GzFJbqV4tuaLr8So) | 2:34 |
+| 55 | [RAGAZZiNi ETERO 2 \(feat\. Macello\)](https://open.spotify.com/track/7tspQe2hRlg1Z8bBoQT45x) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [RAGAZZiNi ETERO 2 \(feat\. Macello\)](https://open.spotify.com/album/5Msu54GzFJbqV4tuaLr8So) | 2:34 |
 | 56 | [Al top](https://open.spotify.com/track/4Z6b65jjrTfjkwlYJebl2M) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Swag Banana](https://open.spotify.com/album/0NPb89tcjP3ue3z4MH3gvJ) | 2:44 |
 | 57 | [Scendo E Cerco Un’Altra](https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Scendo E Cerco Un’Altra](https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc) | 2:09 |
 | 58 | [David Bowie](https://open.spotify.com/track/1v8ouYS23vfLGaaJKUS8Al) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [David Bowie](https://open.spotify.com/album/2Yt5pwHYwOjvWGDdeeoqfE) | 1:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,578 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,602 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [Cousin Mary \- Mono](https://open.spotify.com/track/6I1pxB8X2Fu4HFjo5Bgwor) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 5:50 |
 | 50 | [Speak Low \- Remastered 1998](https://open.spotify.com/track/48maZW59yoavD1b4gbSGro) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 6:50 |
 
-Snapshot ID: `afvWAAAAAABq5WM1nYnV4fHIlxMBMKEc`
+Snapshot ID: `af0ngAAAAACj4VdjC3duVToRW1PRxicd`

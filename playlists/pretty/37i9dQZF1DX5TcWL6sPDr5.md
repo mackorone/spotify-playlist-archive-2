@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: Olga Myko 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,425 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,426 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

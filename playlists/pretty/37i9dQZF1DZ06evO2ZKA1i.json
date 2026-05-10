@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 302571,
+  "num_followers": 302590,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAD+21GjuUskfDyQAtbP3MlD",
+  "snapshot_id": "af0ngAAAAABWcegsLX7Pbdme2RSyZDoY",
   "tracks": [
     {
       "added_at": null,
@@ -683,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 256626,
-      "name": "Vavoom: Ted The Mechanic",
-      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep Purple",
-        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 305773,
-      "name": "Lalena - 2000 Remaster",
-      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "=1",
         "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 293213,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purpendicular",
+        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 256626,
+      "name": "Vavoom: Ted The Mechanic",
+      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple",
+        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 305773,
+      "name": "Lalena - 2000 Remaster",
+      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
     },
     {
       "added_at": null,

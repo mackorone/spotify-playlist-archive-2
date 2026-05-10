@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 140307,
       "name": "666",
       "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
@@ -2220,6 +2220,24 @@
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "album": {
@@ -14838,7 +14856,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
@@ -19826,7 +19844,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -31134,7 +31152,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 224454,
       "name": "holanda",
       "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
@@ -33296,7 +33314,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -46326,7 +46344,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 99317,
       "name": "Moonlight #jerseyclub",
       "url": "https://open.spotify.com/track/5Hj9G0qW99mb6asdixw9vF"
@@ -50580,7 +50598,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 228535,
       "name": "Nuestra Casa",
       "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
@@ -62928,7 +62946,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 183213,
       "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
       "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
@@ -67596,10 +67614,36 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 79389,
       "name": "Super Snake",
       "url": "https://open.spotify.com/track/031oN4vHZqYZt4SX9ASn3S"
+    },
+    {
+      "album": {
+        "name": "Super Snake",
+        "url": "https://open.spotify.com/album/4dYoVjNHEi6u5ym74mdu9Z"
+      },
+      "artists": [
+        {
+          "name": "Arox",
+          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
+        },
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        },
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79389,
+      "name": "Super Snake",
+      "url": "https://open.spotify.com/track/0VIKW8oNJbwWNoB6du9E5l"
     },
     {
       "album": {
@@ -74206,7 +74250,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"

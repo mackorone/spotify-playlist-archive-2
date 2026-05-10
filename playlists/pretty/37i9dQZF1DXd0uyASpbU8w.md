@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Uncle Waffles, The Big Hash & Kabza De Small, FLO,  Chris Brown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,979 likes - 83 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,043 likes - 83 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 26 | [Control](https://open.spotify.com/track/0GJgeq1nKM4wGT8CLahiL1) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Control / Dive](https://open.spotify.com/album/1GSmVAeubLoT1V2zm5jkhJ) | 2:32 |
 | 27 | [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 |
 | 28 | [KHALANWAHA](https://open.spotify.com/track/5fC3oT3rRF7itnkIV8JZbY) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [KHALANWAHA](https://open.spotify.com/album/7kuWlNLAPzPeGuUliVibgI) | 5:11 |
-| 29 | [Mawungenamali](https://open.spotify.com/track/3XeOUWAT0xyskXvcZ5Pxmr) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Olified Khetha](https://open.spotify.com/artist/6zDxGwfsuL9LqWvA0mPm3I), [Okwanda](https://open.spotify.com/artist/3CUkDwGba5GzzVyw5fZ2SM) | [Yano Love](https://open.spotify.com/album/3o9ccq8tvyQziy5d2uUt4u) | 3:54 |
+| 29 | [Mawungenamali](https://open.spotify.com/track/3XeOUWAT0xyskXvcZ5Pxmr) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9), [Okwanda](https://open.spotify.com/artist/3CUkDwGba5GzzVyw5fZ2SM) | [Yano Love](https://open.spotify.com/album/3o9ccq8tvyQziy5d2uUt4u) | 3:54 |
 | 30 | [Some More](https://open.spotify.com/track/1ZuWBbz652laSvKru8trgU) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Nhlanhla Mafu](https://open.spotify.com/artist/7IJBjrsSgku5OGtLAEnq0t), [Naima Kay](https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM) | [Some More](https://open.spotify.com/album/6k2volsgxR7PFXJ6Y3nKfK) | 5:36 |
 | 31 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |
 | 32 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |

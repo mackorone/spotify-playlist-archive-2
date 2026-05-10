@@ -8414,7 +8414,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/2FkLUk8woeuqqmVADmxsDn"
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
@@ -10254,6 +10254,28 @@
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+    },
+    {
+      "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202777,
+      "name": "Day Date",
+      "url": "https://open.spotify.com/track/7FViXDSLDWw4c0kAcgHP6e"
     },
     {
       "album": {
@@ -12100,7 +12122,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -12440,6 +12462,28 @@
       "duration_ms": 180545,
       "name": "Droom Groot",
       "url": "https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R"
+    },
+    {
+      "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177257,
+      "name": "Droom Soms",
+      "url": "https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu"
     },
     {
       "album": {
@@ -22378,7 +22422,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -26367,6 +26411,28 @@
     },
     {
       "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "LONDON",
+      "url": "https://open.spotify.com/track/7HQ09lgqX2daz4LaipbF6y"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -29378,7 +29444,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -30192,6 +30258,24 @@
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
+    },
+    {
+      "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174179,
+      "name": "Netflix",
+      "url": "https://open.spotify.com/track/0Xc9gBpLrCbDWM8YdnBaY1"
     },
     {
       "album": {
@@ -33555,6 +33639,24 @@
     },
     {
       "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232173,
+      "name": "Paraplu",
+      "url": "https://open.spotify.com/track/0bR4GmzkzFVZ32c0mM2WEn"
+    },
+    {
+      "album": {
         "name": "Grote Versnelling",
         "url": "https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof"
       },
@@ -35162,7 +35264,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 128000,
       "name": "Queen Treatment",
       "url": "https://open.spotify.com/track/7Haxic1q7JdJEMPYQtRnGj"
@@ -35506,6 +35608,24 @@
       "duration_ms": 191981,
       "name": "Regenachtig",
       "url": "https://open.spotify.com/track/7ezCLfFIjffHuWfVAZ7Xji"
+    },
+    {
+      "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156763,
+      "name": "Regragui",
+      "url": "https://open.spotify.com/track/5xN3cFZCNvhMpaS3iqraQX"
     },
     {
       "album": {
@@ -36102,7 +36222,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 149743,
       "name": "Rozen & Blaadjes",
       "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
@@ -39629,6 +39749,24 @@
     },
     {
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
@@ -39702,7 +39840,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -42394,7 +42532,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -43436,6 +43574,28 @@
       "duration_ms": 154333,
       "name": "Toute La Night",
       "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
     },
     {
       "album": {
@@ -49722,7 +49882,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

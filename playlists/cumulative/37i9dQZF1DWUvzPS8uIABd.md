@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-971 songs - 2 day 0 hr 27 min
+972 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [kauhuleffa](https://open.spotify.com/track/4Dsg064k2FUfeh4TttxilR) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [kauhuleffa](https://open.spotify.com/album/2TdW5MgyHIPTJD5v1Yyzle) | 3:03 | 2025-04-03 | 2025-04-25 |
 | [Kauniita](https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Kauniita](https://open.spotify.com/album/2o5j2odPtpeJ1idbTWnQW5) | 3:15 | 2024-08-22 | 2024-10-04 |
 | [Kauniita lauseita](https://open.spotify.com/track/4ACfTWp8gMiZopmMFOKnhV) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY), [Toni Wirtanen](https://open.spotify.com/artist/5fIKQDlnegXI1qxcG3Kv9o) | [Kauniita lauseita](https://open.spotify.com/album/22wxHPiznEMfgCEIdl4bYx) | 2:57 | 2025-03-06 | 2025-06-06 |
-| [Kauniita lupauksii](https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:45 | 2026-03-06 |  |
+| [Kauniita lupauksii](https://open.spotify.com/track/7FvHpBQNBx0kOo3uB2UPrP) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:45 | 2026-03-06 | 2026-05-10 |
 | [Kauniita unia](https://open.spotify.com/track/2adRg6euPGESmGoKIl1R2f) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Kauniita unia](https://open.spotify.com/album/3Sus1dofOtdYcMEWo5PIud) | 2:52 | 2024-11-14 | 2025-01-03 |
 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 | 2025-08-28 | 2025-10-10 |
 | [Keinukaruselli](https://open.spotify.com/track/1wBdSxF924y8J1l4k3VNzo) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Keinukaruselli](https://open.spotify.com/album/20S6N1DTN3xuwTWC8HpsId) | 3:08 | 2024-10-14 | 2024-11-29 |
@@ -357,6 +357,7 @@
 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 | 2025-05-08 | 2025-05-23 |
 | [Kultainen sukupolvi](https://open.spotify.com/track/4YklVPiwl9oF6mVsdQiVCc) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Kultainen sukupolvi](https://open.spotify.com/album/2jWK2gDIISWMqU9xVoQbnj) | 3:37 | 2025-06-05 | 2025-09-27 |
 | [Kummitteleeks tääl](https://open.spotify.com/track/0vrCdovjdd1nK2nWzYCFPI) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog), [Aki Tykki](https://open.spotify.com/artist/12AbGtb1It9lFwwaDR9EV0) | [Kummitteleeks tääl](https://open.spotify.com/album/7vJL25jARM7SmtWaxUiP7x) | 3:05 | 2025-03-27 | 2025-04-11 |
+| [Kun eletään ei pelätä](https://open.spotify.com/track/4Y5HT2KcbkcEGqnznCO66Y) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt), [Kake Randelin](https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2) | [Kun eletään ei pelätä](https://open.spotify.com/album/4th34kzmJw2aYPxaD2ik9H) | 2:59 | 2026-05-07 |  |
 | [kun joskus en muista](https://open.spotify.com/track/1Gp19g5YxFjMkU95DbsJhW) | [emmi lorentzen](https://open.spotify.com/artist/11qrI1NOKcoogzUwXdAHtz) | [kun joskus en muista](https://open.spotify.com/album/3uPLeYP2pyFQdKzYEZi2uu) | 3:12 | 2026-03-26 | 2026-04-03 |
 | [kun pihalla kukkii \(feat\. fibi\)](https://open.spotify.com/track/5CJojY7iFfobijezabjWUR) | [Pesso](https://open.spotify.com/artist/4YfzUV6h9GosDhtdLkwGwN), [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [kun pihalla kukkii \(feat\. fibi\)](https://open.spotify.com/album/3pd4ZnjZZZOcnPbln7WEDL) | 3:09 | 2025-09-04 | 2025-09-19 |
 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 | 2025-02-13 | 2025-04-25 |

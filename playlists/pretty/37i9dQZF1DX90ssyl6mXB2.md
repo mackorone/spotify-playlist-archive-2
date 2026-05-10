@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Lancey Foux
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,424 likes - 163 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,421 likes - 163 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

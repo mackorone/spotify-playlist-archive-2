@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Martyna Baranowska
 
-830 songs - 1 day 16 hr 31 min
+831 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Chamy](https://open.spotify.com/track/3YyCRTXnD7MkTKeqCkrM0M) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Chamy](https://open.spotify.com/album/2SHWbu3gF4G9vaUTDOMSDx) | 2:21 | 2025-08-07 | 2025-12-06 |
 | [Charms in bracelet](https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww) | [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa) | [5 minutes](https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20) | 3:40 | 2025-09-30 | 2025-10-11 |
 | [chce Twoje zarazki](https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [chce Twoje zarazki](https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1) | 2:48 | 2026-04-30 |  |
-| [Chciałabym Być Zwykła...](https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2) | [Chciałabym Być Zwykła...](https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd) | 2:34 | 2026-04-30 |  |
+| [Chciałabym Być Zwykła...](https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Chciałabym Być Zwykła...](https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd) | 2:34 | 2026-04-30 |  |
 | [Chciałabym Ci powiedzieć](https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt) | [Julia Wasielewska](https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I) | [Chciałabym Ci powiedzieć](https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg) | 2:36 | 2026-03-12 |  |
 | [Chciałbym być kotem](https://open.spotify.com/track/235BIVbYtJp4090aHD60VR) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Chciałbym być kotem](https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB) | 3:09 | 2026-04-09 |  |
 | [Chciałeś wiedzieć o mnie wszystko](https://open.spotify.com/track/6y5s91kwhg8x2Ev357Ji7S) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Zołza](https://open.spotify.com/album/2HYqAYWxtSpgFQ4QPvU500) | 3:50 | 2025-04-10 | 2025-08-20 |
@@ -345,7 +345,7 @@
 | [Kłam](https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH) | [Kłam](https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn) | 2:28 | 2026-01-30 | 2026-04-22 |
 | [KŁOPOTY](https://open.spotify.com/track/7bl2ekqiQVO6xbQ1qIOdJX) | [Hanafi](https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [KŁOPOTY](https://open.spotify.com/album/3k62wujjzZwoNyjduqwWNE) | 3:20 | 2025-08-19 | 2025-09-29 |
 | [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 | 2025-09-01 |
-| [Lato](https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Lato](https://open.spotify.com/album/73UdWdEcJuIm1is5aJi0tf) | 4:59 | 2026-03-19 |  |
+| [Lato](https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Lato](https://open.spotify.com/album/73UdWdEcJuIm1is5aJi0tf) | 4:59 | 2026-03-19 | 2026-05-10 |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
 | [lawenda](https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [lawenda](https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1) | 3:55 | 2024-07-11 | 2024-11-08 |
 | [Lepsze dni](https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [słowa, których nigdy nie wypowiedziałam](https://open.spotify.com/album/6evdJOStWbQNA0G8RwgssR) | 3:34 | 2024-06-28 | 2024-07-05 |
@@ -759,6 +759,7 @@
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-16 | 2025-11-05 |
 | [What do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [What do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-22 | 2024-10-12 |
 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 | 2025-01-23 | 2025-02-23 |
+| [What's the Point!](https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [What's the Point!](https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS) | 2:43 | 2026-05-07 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 | 2025-04-25 |
 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-23 |  |
 | [Why she's better](https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Czy to nadal ja?](https://open.spotify.com/album/6ZxCc5LCfmblibKjhuUMyv) | 2:39 | 2024-06-28 | 2024-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de mayo 2026\. Cover: Alvaro Diaz & LATIN MAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,850 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,839 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 18 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
 | 19 | [X UNAS LLANTAS](https://open.spotify.com/track/0uniUBcZwEwycJAMgFF8x0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [X UNAS LLANTAS](https://open.spotify.com/album/6yfOnX63qyUDHSQMEzHpxl) | 2:43 |
 | 20 | [EL SENTRITA](https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 2:57 |
-| 21 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
-| 22 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
-| 23 | [SI LAS PAREDES HABLARAN](https://open.spotify.com/track/3ENGH9alDrEvggq3ZoGzWN) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SI LAS PAREDES HABLARAN](https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7) | 3:14 |
-| 24 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
+| 21 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
+| 22 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
+| 23 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
+| 24 | [SI LAS PAREDES HABLARAN](https://open.spotify.com/track/3ENGH9alDrEvggq3ZoGzWN) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SI LAS PAREDES HABLARAN](https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7) | 3:14 |
 | 25 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
 | 26 | [Ruca](https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ruca](https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn) | 3:01 |
 | 27 | [Mr\. Lonely](https://open.spotify.com/track/3YT3IRkNg5MASgmQTo2l8R) | [L Prince](https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Mr\. Lonely](https://open.spotify.com/album/4ph0fKRffMlUs9iPUR1haB) | 2:51 |

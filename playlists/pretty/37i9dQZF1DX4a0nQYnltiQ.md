@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Tyla, Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,676 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,628 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 69 | [Guitar](https://open.spotify.com/track/4nJkFvJmrEllCKHlrDJcN7) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/424oXLBNK9mm5ApYGPGiDD) | 2:37 |
 | 70 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 |
 
-Snapshot ID: `AAAAAM7tFPEIc7M6hNCgXGT1QMdBm62/`
+Snapshot ID: `AAAAAF0Cgws9bX27HjikGcahZIpb794f`

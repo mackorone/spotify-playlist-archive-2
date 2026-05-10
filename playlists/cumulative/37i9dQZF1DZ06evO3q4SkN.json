@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74649,
+      "name": "El Accidente",
+      "url": "https://open.spotify.com/track/46Wuc9FK6vZ4ZjTTRzvHLd"
+    },
+    {
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 188800,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 125159,
       "name": "Her Racing Heartbeat",
       "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 61066,
       "name": "Meatball Monkey",
       "url": "https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN"
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 41018,
       "name": "Nanny Love",
       "url": "https://open.spotify.com/track/2H8bDZga8Uv9NJpdCtB002"
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 70600,
       "name": "Royal Barge Disaster",
       "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"

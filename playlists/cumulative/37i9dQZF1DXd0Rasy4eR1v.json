@@ -12937,6 +12937,32 @@
     },
     {
       "album": {
+        "name": "Kuch Bhi Nahin",
+        "url": "https://open.spotify.com/album/0Qo2pU0dQmv4gueDVOgd3j"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Sameen Khawaja",
+          "url": "https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B"
+        },
+        {
+          "name": "Mahad Sheikh",
+          "url": "https://open.spotify.com/artist/2bsO6llLoRgLaJ1HkX7cdS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Kuch Bhi Nahin",
+      "url": "https://open.spotify.com/track/5nTSKwc80v2eQrpEL3emHi"
+    },
+    {
+      "album": {
         "name": "Kuttay",
         "url": "https://open.spotify.com/album/6vhmSZt7SNV1oFhOIqEnrW"
       },

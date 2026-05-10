@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50769,
+  "num_followers": 50768,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAv7pA0HXnXuNH1BbgxT/yg",
+  "snapshot_id": "af0ngAAAAADgj1Hn+0dG2bbAYCGAXYEj",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias Mam\u00e1",
+        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Gracias Mam\u00e1",
+      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivo Por Vivir",
         "url": "https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 168394,
       "name": "Vivo Por Vivir",
       "url": "https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias Mam\u00e1",
-        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Gracias Mam\u00e1",
-      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
     }
   ],
   "unique_name": "This Is Ulices Chaidez",

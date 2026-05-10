@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1DZ06evO4xDYrO">Luca Eck</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,510 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,516 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [Don't Blink](https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Don't Blink](https://open.spotify.com/album/2y5AP6VVxw4FFR96AUeoVh) | 3:28 |
 | 50 | [Forest](https://open.spotify.com/track/30mNJGEEHxCMJxGVor9zTc) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l) | 4:15 |
 
-Snapshot ID: `AAAAAP1k7xmbByOWbIz8vpiaXrJgQs3d`
+Snapshot ID: `AAAAAACnpj2Jco7YB+yf0LhlHm7cew8T`

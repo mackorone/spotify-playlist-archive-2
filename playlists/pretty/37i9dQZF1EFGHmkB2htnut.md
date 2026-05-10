@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229 likes - 113 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 113 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 23 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 |
 | 24 | [Violets](https://open.spotify.com/track/1H3uwddeEsvOC3liO3fkr6) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/0Mhp4SyUouTZNPDG1fphwd) | 1:55 |
 | 25 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 |
-| 26 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
-| 27 | [Getaway Car](https://open.spotify.com/track/6xRG0mGtTLvJDFnytx1eoj) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:04 |
+| 26 | [Getaway Car](https://open.spotify.com/track/6xRG0mGtTLvJDFnytx1eoj) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:04 |
+| 27 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
 | 28 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 2:43 |
 | 29 | [Let It Talk To Me](https://open.spotify.com/track/7seSCZywUZjXb9DXEfCQae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Let It Talk To Me](https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl) | 2:36 |
 | 30 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 32 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 |
 | 33 | [hate to be you](https://open.spotify.com/track/2poKPSFMRFcqKZrai5Ele5) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/5oZXMGZKwqHEVB63ZztBnf) | 3:02 |
 | 34 | [Who I Am](https://open.spotify.com/track/4z3EmveE8ibhBVKBlZvmjp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:22 |
-| 35 | [Pasadena](https://open.spotify.com/track/6XQhzIxsqi6ay9HjsMpJwV) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:08 |
-| 36 | [Sunshine](https://open.spotify.com/track/4Yx4nkx3ymrAZZ3DSlhV8O) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Sunshine](https://open.spotify.com/album/5QQCXdKA7aXLrJSt3Zmu2j) | 3:25 |
+| 35 | [Sunshine](https://open.spotify.com/track/4Yx4nkx3ymrAZZ3DSlhV8O) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Sunshine](https://open.spotify.com/album/5QQCXdKA7aXLrJSt3Zmu2j) | 3:25 |
+| 36 | [Pasadena](https://open.spotify.com/track/6XQhzIxsqi6ay9HjsMpJwV) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:08 |
 | 37 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 | 38 | [Butterfly](https://open.spotify.com/track/3yhMdbzUE0BAbNyIEVwcQz) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/53lvF4ycRN2omxuqZxINgx) | 2:46 |
 | 39 | [You Were Supposed to Be Different](https://open.spotify.com/track/13GvSZgg9LOs3M9uGbWsPE) | [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [You Were Supposed to Be Different](https://open.spotify.com/album/5WXPZlMv6GvlIMXtRxqGgB) | 3:12 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 67 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 |
 | 68 | [Eye For An Eye](https://open.spotify.com/track/2lgNKkPU0TYUncpAY5Xicj) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Eye For An Eye](https://open.spotify.com/album/6m6J8ohHmLDp0clwt72bG2) | 2:47 |
 | 69 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
-| 70 | [Dream About Me](https://open.spotify.com/track/00BZXsteCnYMruwTd6SA7k) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Helium](https://open.spotify.com/album/6cxtD6ptyhmRvy2ILNeSdz) | 2:32 |
-| 71 | [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 |
+| 70 | [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 |
+| 71 | [Dream About Me](https://open.spotify.com/track/00BZXsteCnYMruwTd6SA7k) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Helium](https://open.spotify.com/album/6cxtD6ptyhmRvy2ILNeSdz) | 2:32 |
 | 72 | [The Medicine](https://open.spotify.com/track/6IoNznAInrqrd9P0KDzCxW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [The Medicine EP](https://open.spotify.com/album/6ur7nfL407XF6cgdhzLDFz) | 2:51 |
 | 73 | [Crystal Ball](https://open.spotify.com/track/0cSR99V12UxUaaMPXXHlOJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:53 |
 | 74 | [Heartbreak Hangover](https://open.spotify.com/track/4nEmjzru7UcuqtXQuCVgBb) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Heartbreak Hangover](https://open.spotify.com/album/7t7gZelBweppkMgJ1ZabEN) | 2:34 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 112 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 113 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 
-Snapshot ID: `AcQ+nAAAAAAeF+v/6iX35lrmMy7tHOeW`
+Snapshot ID: `AcREPAAAAADY3cxLKDtdZbwEidRcKSQE`

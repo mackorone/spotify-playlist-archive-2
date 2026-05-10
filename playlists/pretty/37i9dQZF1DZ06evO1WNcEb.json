@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66683,
+  "num_followers": 66682,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACBb2+1wuAYfEX3bJ2TrQUU",
+  "snapshot_id": "af0ngAAAAABgFo+yaaLvds/4GfWeWWaf",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 338253,
       "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 262664,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 496640,
       "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 262664,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 307160,
+      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 254862,
       "name": "Na Casa de Deus",
       "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr"
     },
     {
       "added_at": null,

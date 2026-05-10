@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 352991,
+  "num_followers": 352989,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
@@ -951,18 +951,22 @@
     {
       "added_at": "2026-02-27 06:00:31",
       "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+        "name": "Young & Dumb (feat. Simple Plan)",
+        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
       "artists": [
         {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         }
       ],
-      "duration_ms": 145239,
-      "name": "Accidente",
-      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+      "duration_ms": 166776,
+      "name": "Young & Dumb (feat. Simple Plan)",
+      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
     },
     {
       "added_at": "2026-02-27 06:00:31",
@@ -987,22 +991,18 @@
     {
       "added_at": "2026-02-27 06:00:31",
       "album": {
-        "name": "Young & Dumb (feat. Simple Plan)",
-        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 166776,
-      "name": "Young & Dumb (feat. Simple Plan)",
-      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "added_at": "2026-02-27 06:00:31",

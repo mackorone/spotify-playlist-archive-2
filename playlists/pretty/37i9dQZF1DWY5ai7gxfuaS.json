@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 3693,
+  "num_followers": 3715,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 189105,
       "name": "At the Seams",
       "url": "https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "ANTAGONIST RETURNS",
         "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -743,18 +743,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+        "name": "Welcome To Hell (feat. Emmure)",
+        "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
       },
       "artists": [
         {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        },
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
         }
       ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
+      "duration_ms": 161860,
+      "name": "Welcome To Hell (feat. Emmure)",
+      "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -775,22 +779,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Welcome To Hell (feat. Emmure)",
-        "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
       },
       "artists": [
         {
-          "name": "Mike's Dead",
-          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
-        },
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Welcome To Hell (feat. Emmure)",
-      "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 239626,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Spiritual Architecture",
+        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
+      },
+      "artists": [
+        {
+          "name": "Ashbringer",
+          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
+        }
+      ],
+      "duration_ms": 562515,
+      "name": "Spiritual Architecture",
+      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
         "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 184840,
       "name": "REB00T MYSELF (feat. Tired Violence)",
       "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Spiritual Architecture",
-        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
-      },
-      "artists": [
-        {
-          "name": "Ashbringer",
-          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
-        }
-      ],
-      "duration_ms": 562515,
-      "name": "Spiritual Architecture",
-      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Embers\u00f3lyom (Kal\u00e1ka)",
-        "url": "https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 257199,
-      "name": "Embers\u00f3lyom - Kal\u00e1ka",
-      "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Embers\u00f3lyom (Kal\u00e1ka)",
+        "url": "https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 257199,
+      "name": "Embers\u00f3lyom - Kal\u00e1ka",
+      "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Concept Unification",
-        "url": "https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc"
-      },
-      "artists": [
-        {
-          "name": "Pinkish Black",
-          "url": "https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP"
-        }
-      ],
-      "duration_ms": 313986,
-      "name": "Concept Unification",
-      "url": "https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Lifers",
         "url": "https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 298991,
       "name": "Lifers",
       "url": "https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Concept Unification",
+        "url": "https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc"
+      },
+      "artists": [
+        {
+          "name": "Pinkish Black",
+          "url": "https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP"
+        }
+      ],
+      "duration_ms": 313986,
+      "name": "Concept Unification",
+      "url": "https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql"
     },
     {
       "added_at": "2024-07-19 10:51:43",

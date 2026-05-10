@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Hamzay
 
-1,277 songs - 2 day 20 hr 7 min
+1,278 songs - 2 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Koyal](https://open.spotify.com/track/1U4GL7t6R83118Ltn6xcYJ) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Koyal](https://open.spotify.com/album/0M7I8bjIG1cROoEK7Hq1Rv) | 3:34 | 2024-06-04 | 2025-05-20 |
 | [Ktkht](https://open.spotify.com/track/4yVIeBLzHzzGw2lFRBMtk7) | [Ibrahim Sulayman](https://open.spotify.com/artist/455eqD8miKi61kJndsKkFD) | [Kuch to Khas Hai Tujhme](https://open.spotify.com/album/6i69qbRMoZ1ixu1ChJX5CV) | 4:03 | 2025-02-28 | 2025-10-25 |
 | [Kuch Baatain](https://open.spotify.com/track/2G9WXQ9iZEgDvlsjqMpGxS) | [SingingCrow](https://open.spotify.com/artist/73WZ1kCWLsf8jeNvd6zJDz) | [Kuch Baatain](https://open.spotify.com/album/4b3ySuDiClA6PIq05Dq8we) | 4:04 | 2026-04-24 | 2026-05-01 |
+| [Kuch Bhi Nahin](https://open.spotify.com/track/5nTSKwc80v2eQrpEL3emHi) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Mahad Sheikh](https://open.spotify.com/artist/2bsO6llLoRgLaJ1HkX7cdS) | [Kuch Bhi Nahin](https://open.spotify.com/album/0Qo2pU0dQmv4gueDVOgd3j) | 2:52 | 2026-05-08 |  |
 | [Kuttay](https://open.spotify.com/track/0PIoWoEXR93IRLpH4tEwqQ) | [SNK](https://open.spotify.com/artist/0Rbq0lOXcJlMa7dSYAxLL8), [Dhool](https://open.spotify.com/artist/4GUlQD5lHYTFiXwGKS3ZAJ) | [Kuttay](https://open.spotify.com/album/6vhmSZt7SNV1oFhOIqEnrW) | 2:36 | 2023-01-10 | 2023-05-06 |
 | [kya kahen](https://open.spotify.com/track/4w2l9jVZWXtctJByViNBwE) | [KHANM](https://open.spotify.com/artist/5vxQdFbSWYF1Zj99jajZU7) | [kya kahen](https://open.spotify.com/album/4aUIhOWzDC30Hj3wr0fZwQ) | 2:37 | 2023-05-05 | 2024-01-05 |
 | [Kya Kahoon](https://open.spotify.com/track/78uVSnPo3Nbl0X9xo7cWmR) | [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2) | [Kya Kahoon](https://open.spotify.com/album/4UVCZ4j4RrAGjDuNF58jOH) | 3:03 | 2023-01-10 | 2023-01-26 |

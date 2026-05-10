@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,473 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,488 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 39 | [Mayfair \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 2:17 |
 | 40 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/2noW5u0VhiWJmKyld02FXK) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 0:31 |
 
-Snapshot ID: `afvWAAAAAAAaYUPlsLpYcHP9B1xIE2J8`
+Snapshot ID: `af0ngAAAAACgSCh0dPGmL0GrEXKHo9lF`

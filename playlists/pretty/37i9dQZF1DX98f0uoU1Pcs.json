@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Opus Kink",
-  "num_followers": 295198,
+  "num_followers": 295200,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKnYUbXeZhlpCQnxq4ZJadtWVwyD",
+  "snapshot_id": "AAAAAE67A9AiAkaCei4zIXZ7BcrJM5+K",
   "tracks": [
     {
       "added_at": "2026-05-01 04:03:04",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Crystalpunk",
-        "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 148072,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "weirdthrob",
         "url": "https://open.spotify.com/album/00nDteGUHi1oH7xLb9txsD"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Hymns From The Hills",
-        "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
+        "name": "Crystalpunk",
+        "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
       },
       "artists": [
         {
-          "name": "Poison Ru\u00efn",
-          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
+      "duration_ms": 148072,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/6s3L8c2gax4hCWZx5a7IqD"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -551,6 +535,22 @@
       "duration_ms": 198541,
       "name": "Man with Hands and Ankles Bound",
       "url": "https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Hymns From The Hills",
+        "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
+      },
+      "artists": [
+        {
+          "name": "Poison Ru\u00efn",
+          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Glass and Bones",
-        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
-      },
-      "artists": [
-        {
-          "name": "Makthaverskan",
-          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
-        }
-      ],
-      "duration_ms": 227129,
-      "name": "Won't Wait",
-      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "EELS",
         "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Glass and Bones",
+        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
+      },
+      "artists": [
+        {
+          "name": "Makthaverskan",
+          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+        }
+      ],
+      "duration_ms": 227129,
+      "name": "Won't Wait",
+      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19"
-      },
-      "artists": [
-        {
-          "name": "Cashier",
-          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
-        }
-      ],
-      "duration_ms": 219810,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 176430,
       "name": "XO",
       "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19"
+      },
+      "artists": [
+        {
+          "name": "Cashier",
+          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Might See You There",
-        "url": "https://open.spotify.com/album/7w3o65IXUt3HoFGCdygub3"
-      },
-      "artists": [
-        {
-          "name": "Weird Nightmare",
-          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
-        }
-      ],
-      "duration_ms": 122104,
-      "name": "Might See You There",
-      "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
+        "name": "Might See You There",
+        "url": "https://open.spotify.com/album/7w3o65IXUt3HoFGCdygub3"
+      },
+      "artists": [
+        {
+          "name": "Weird Nightmare",
+          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
+        }
+      ],
+      "duration_ms": 122104,
+      "name": "Might See You There",
+      "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
         "name": "Salsa Verde",
         "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Unbloom",
-        "url": "https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis"
-      },
-      "artists": [
-        {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 202718,
-      "name": "Unbloom",
-      "url": "https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Unbloom",
+        "url": "https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 202718,
+      "name": "Unbloom",
+      "url": "https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Worst Kept Secret",
-        "url": "https://open.spotify.com/album/0vooFeuwJvhHSWVGAJHnrj"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Worst Kept Secret",
-      "url": "https://open.spotify.com/track/6R5QSwgDHQ3PymVA8EQitD"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Mind's a Lie",
         "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 286029,
       "name": "Mind's a Lie",
       "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Worst Kept Secret",
+        "url": "https://open.spotify.com/album/0vooFeuwJvhHSWVGAJHnrj"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Worst Kept Secret",
+      "url": "https://open.spotify.com/track/6R5QSwgDHQ3PymVA8EQitD"
     },
     {
       "added_at": "2026-05-01 04:03:04",

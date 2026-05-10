@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 455109,
       "name": "Adversary",
       "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 213053,
       "name": "Brain Fog",
       "url": "https://open.spotify.com/track/4LIkDeZ5VvHtoYbTtfnYHu"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 95310,
       "name": "Dance Rehearsal",
       "url": "https://open.spotify.com/track/4It0SkcS72eaqtPDaHbKXI"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 350280,
       "name": "Doorway",
       "url": "https://open.spotify.com/track/1M5a1vf7DLdJCAosoXvsgt"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 324556,
       "name": "Entanglement",
       "url": "https://open.spotify.com/track/2jxF9uzSFsB74WPBTZI2Fp"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 296013,
       "name": "Garden of Forking Paths",
       "url": "https://open.spotify.com/track/7ivInPtMjY17jBtCAgpH8H"
@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327140,
+      "name": "Robert Earl",
+      "url": "https://open.spotify.com/track/6RrnLXccF00Fh6iA9ZuPiV"
+    },
+    {
+      "album": {
         "name": "Scorpio Purple Skies",
         "url": "https://open.spotify.com/album/5Eek4r3W8t3E2LBcev8VxH"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 222747,
       "name": "Small Choir",
       "url": "https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 330565,
       "name": "Valley Drone",
       "url": "https://open.spotify.com/track/7Cfj1CFahs2boKhte7NeFT"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 118280,
       "name": "Vostok",
       "url": "https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj"

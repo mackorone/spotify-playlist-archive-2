@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,901 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,903 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 16 | [Admirable](https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 10:32 |
 | 17 | [Fidelidad / Grande Es Tu Fidelidad](https://open.spotify.com/track/3SGMCcxDGJDOnRJFyCmsrS) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:56 |
 | 18 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
-| 19 | [Yahweh](https://open.spotify.com/track/1mAFnZcwyrQD93RX5jLJBj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:26 |
-| 20 | [Cómo No Voy A Creer](https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru) | 10:33 |
+| 19 | [Cómo No Voy A Creer](https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru) | 10:33 |
+| 20 | [Yahweh](https://open.spotify.com/track/1mAFnZcwyrQD93RX5jLJBj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:26 |
 | 21 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
 | 22 | [Mi Necesidad \- Live](https://open.spotify.com/track/4ax8W4nFT6r5QfK1hxnXRj) | [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Mi Necesidad \(Live\)](https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ) | 10:16 |
 | 23 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 10:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [En Ti Confiaré](https://open.spotify.com/track/4kh7H6xAMpYLZNqo7TRtiR) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Desmayes Corazón](https://open.spotify.com/album/0njQsUgKgj9UeIv9iYGTAk) | 5:44 |
 | 50 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 |
 
-Snapshot ID: `afvWAAAAAAB8e+EFAliJFi8o/qxknGOL`
+Snapshot ID: `af0ngAAAAADET80ZXeK/f/JAtfUCrckJ`

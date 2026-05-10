@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Manuel Turizo vuelve al Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Juan Magán y Omar Montes en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-393 songs - 20 hr 30 min
+395 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 | 2022-07-02 | 2022-12-25 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/75pwnaLuYXESW07uyWxOcF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [DOS PRIMAVERAS](https://open.spotify.com/album/1A7MPKCRLfcPz8hz9fBLH0) | 2:55 | 2023-03-11 | 2023-07-23 |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-05-02 |  |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-05-09 |  |
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-09-21 | 2025-01-12 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2022-01-15 | 2022-05-29 |
 | [El bueno acaba mal](https://open.spotify.com/track/3LavHlfBvpNMUiIAFhrT8G) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [El bueno acaba mal](https://open.spotify.com/album/7eDey8fhEV7HD0o3P7Or3y) | 2:22 | 2022-07-09 | 2022-11-13 |
@@ -223,7 +224,7 @@
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-02-17 | 2025-03-09 |
 | [LOVE](https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [LOVE](https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29) | 2:52 | 2026-03-20 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-03-09 | 2024-12-22 |
-| [Lárgate](https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Lárgate](https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit) | 3:00 | 2025-10-18 |  |
+| [Lárgate](https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Lárgate](https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit) | 3:00 | 2025-10-18 | 2026-05-10 |
 | [M4TR1X](https://open.spotify.com/track/7bwUjHKGv8HqCMCBZQE23u) | [La Beba](https://open.spotify.com/artist/3VrdQuBgabaPZXXuNBVWXJ) | [M4TR1X](https://open.spotify.com/album/4XMxwbxTHYIRSRzqFlt9tt) | 2:50 | 2025-02-08 | 2025-06-22 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-01-21 | 2023-04-30 |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-14 | 2024-07-07 |
@@ -298,6 +299,7 @@
 | [Qué bonita](https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Qué bonita](https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX) | 2:43 | 2022-12-03 | 2023-05-07 |
 | [Qué Pasaría...](https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Qué Pasaría...](https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn) | 3:11 | 2025-01-11 | 2025-05-25 |
 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-19 | 2025-08-03 |
+| [Quédate conmigo hasta el amanecer](https://open.spotify.com/track/2DwS2IJswJygJy6J5YU9TO) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [Quédate conmigo hasta el amanecer](https://open.spotify.com/album/2iE5hyRtQnjielyxKiC3kh) | 2:48 | 2026-05-09 |  |
 | [Quédate, mi corazón](https://open.spotify.com/track/6U53lx27bu7TQmVP5In6NC) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Quédate, mi corazón](https://open.spotify.com/album/5aeqpx8rdMn9XdgCILsCdv) | 2:46 | 2024-04-20 | 2024-08-18 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-07-29 | 2023-10-29 |
 | [RAYO DE LUZ](https://open.spotify.com/track/4e48qabruKkdAHWuSh67xM) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [RAYO DE LUZ](https://open.spotify.com/album/2g5GgTx8lV9UNovLeJiTFZ) | 3:16 | 2025-03-01 | 2025-06-01 |
@@ -397,7 +399,7 @@
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-02-03 | 2024-05-05 |
 | [Yo Soy Libre](https://open.spotify.com/track/0LZj39tmRvL5gbgALqNpoN) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [Yo Soy Libre](https://open.spotify.com/album/3sRPdl650qZYRmIjZQa5pY) | 3:11 | 2024-01-27 | 2024-08-11 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-08-10 | 2024-11-10 |
-| [¿Y si lo hacemos? \(feat\. Valeria Castro\)](https://open.spotify.com/track/1VamVCJejLZh212lNhygVw) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 4:35 | 2025-09-06 |  |
+| [¿Y si lo hacemos? \(feat\. Valeria Castro\)](https://open.spotify.com/track/1VamVCJejLZh212lNhygVw) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 4:35 | 2025-09-06 | 2026-05-10 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-15 | 2022-05-22 |
 | [Última Bala](https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [No Lo Sé Ni Yo](https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy) | 3:00 | 2025-10-18 |  |
 | [⁠LUCIÉRNAGAS](https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TUTTO PASSA](https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9) | 2:40 | 2026-02-21 |  |

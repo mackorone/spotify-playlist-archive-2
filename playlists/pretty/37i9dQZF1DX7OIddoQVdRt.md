@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tamela Mann
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,103 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,101 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 74 | [One Hallelujah](https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Hallelujah](https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn) | 5:45 |
 | 75 | [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 |
 
-Snapshot ID: `AAAAAENnV3zqjz2yp8ZhC6SbxxX2TjVG`
+Snapshot ID: `AAAAAO//1Ce8jezyhFZYEHuhH+wjyhGM`

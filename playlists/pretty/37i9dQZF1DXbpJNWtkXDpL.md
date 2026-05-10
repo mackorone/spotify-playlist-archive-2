@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,378 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,382 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 13 | [Cínico](https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Cínico](https://open.spotify.com/album/2gnoJQ1HVX8hzNDsyi22gd) | 3:04 |
 | 14 | [ME VEIA BIEN](https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS) | [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [ME VEIA BIEN](https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4) | 2:28 |
 | 15 | [Uno Pal Otro](https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Uno Pal Otro](https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2) | 3:23 |
-| 16 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
-| 17 | [mirar adentro](https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [mirar adentro](https://open.spotify.com/album/5crFVDguekt65vFoLlKgew) | 3:29 |
+| 16 | [mirar adentro](https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [mirar adentro](https://open.spotify.com/album/5crFVDguekt65vFoLlKgew) | 3:29 |
+| 17 | [HIPERSENTIMENTAL](https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [HIPERSENTIMENTAL](https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f) | 2:45 |
 | 18 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |
 | 19 | [Me Iluminé](https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Me Iluminé](https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5) | 2:18 |
 | 20 | [CAMINO](https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE) | [CAMINO](https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw) | 3:04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40287,
+  "num_followers": 40290,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACwY/7+s8jOdhLaEBdCDLtb",
+  "snapshot_id": "af0ngAAAAADddhR/zNDzVWjeQoWRsfop",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonder: Book I",
         "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 160590,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Me",
-        "url": "https://open.spotify.com/album/1K7C5benI3GW3j9LULuSjK"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 94250,
-      "name": "Little Me",
-      "url": "https://open.spotify.com/track/01Y1hF1X4EcwIWtIgH7soi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 226813,
       "name": "By Design [Evel Knievel]",
       "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Me",
+        "url": "https://open.spotify.com/album/1K7C5benI3GW3j9LULuSjK"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 94250,
+      "name": "Little Me",
+      "url": "https://open.spotify.com/track/01Y1hF1X4EcwIWtIgH7soi"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 202133,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster 2.0",
-        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Monster 2.0",
-      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lundi M\u00e9chant",
         "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 231213,
       "name": "Only Way Is Up",
       "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monster 2.0",
+        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Monster 2.0",
+      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 220906,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
     }
   ],
   "unique_name": "This Is Jacob Banks",

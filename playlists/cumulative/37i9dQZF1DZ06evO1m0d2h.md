@@ -4,7 +4,7 @@
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-46 songs - 3 hr 49 min
+47 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [Aqua Regia](https://open.spotify.com/track/5ub6Cb5yKmgGGwjvqZM1gI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:56 | 2025-03-21 |  |
 | [Atlantic](https://open.spotify.com/track/0asMwoxaKllA4Cm791LGOW) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:53 | 2025-03-21 |  |
 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 | 2025-03-21 |  |
-| [Caramel](https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:50 | 2025-06-01 |  |
+| [Caramel](https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:50 | 2025-06-01 | 2026-05-10 |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-06 | 2025-06-01 |
+| [Caramel \- Instrumental](https://open.spotify.com/track/664dKrBfK3Vi0KZ4ZlxvND) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia \(Instrumental\)](https://open.spotify.com/album/4PI6k2goR9iVS9hKa31Y0S) | 4:50 | 2026-05-10 |  |
 | [Chokehold](https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:04 | 2025-05-12 | 2025-10-27 |
 | [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 | 2025-04-27 | 2025-05-27 |
 | [Damocles](https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:24 | 2025-05-27 |  |
@@ -40,7 +41,7 @@
 | [Missing Limbs](https://open.spotify.com/track/10aGiE3OEk4dKeUzcHINZs) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:20 | 2025-09-20 | 2025-10-04 |
 | [Nazareth](https://open.spotify.com/track/2S53xe3CB5RgDELKeU97g0) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:36 | 2025-03-21 |  |
 | [Past Self](https://open.spotify.com/track/0Uvf2v96tJ5CuyK0LtyAgd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 3:34 | 2025-05-11 |  |
-| [Provider](https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:05 | 2025-05-11 | 2025-06-05 |
+| [Provider](https://open.spotify.com/track/7JVAVLkkhpKOp8g4jX5Z12) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:05 | 2025-05-11 |  |
 | [Rain](https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:12 | 2025-03-21 |  |
 | [Shelter \- from the room below](https://open.spotify.com/track/4UgjE3JRXh1Y4xHU6DAvzL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 3:12 | 2025-03-21 | 2025-07-17 |
 | [Sugar](https://open.spotify.com/track/6kxSspYgCP6DmpLwqmrZ3O) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:52 | 2025-03-21 |  |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-586 songs - 1 day 10 hr 55 min
+588 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 | 2025-11-28 |  |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* | 2024-10-18 |
 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 | 2023-11-10 | 2026-04-04 |
-| [A Brand New Color](https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Crooked Lines](https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L) | 3:22 | 2025-11-28 |  |
+| [A Brand New Color](https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Crooked Lines](https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L) | 3:22 | 2025-11-28 | 2026-05-10 |
 | [Abri](https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf), [Noémie Kaiser](https://open.spotify.com/artist/7lY8bTj95cRXHKOKGycelA) | [Abri](https://open.spotify.com/album/7puqUMfRuARh1o4xmelNuD) | 3:32 | 2025-10-17 | 2025-12-20 |
 | [Acapulco](https://open.spotify.com/track/1I0rpCvX2MyCp3KRM2kp70) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq) | [Les rêves sont faits](https://open.spotify.com/album/05Ppnlutbe72LvBOawQxZJ) | 3:38 | 2021-01-03\* | 2021-01-30 |
 | [Acid Rain](https://open.spotify.com/track/2GlDzxxz0k9aUZdM7cGAJV) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Acid Rain](https://open.spotify.com/album/7n06K0Qu5z9cb7KMR7ufHF) | 3:35 | 2022-01-21 | 2022-07-29 |
@@ -193,6 +193,7 @@
 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 | 2024-05-17 |  |
 | [I Can't Say No](https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [At Least There Was Sun](https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf) | 3:11 | 2025-10-24 | 2025-12-11 |
 | [I took off my heels](https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I took off my heels](https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc) | 3:46 | 2026-02-06 | 2026-04-28 |
+| [I'll Stand in the Doorway](https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I'll Stand in the Doorway](https://open.spotify.com/album/3EXBttlObB3082z4k9w15d) | 4:00 | 2026-05-08 |  |
 | [Ici](https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Ici](https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9) | 2:48 | 2026-02-06 |  |
 | [If Life Were a Movie](https://open.spotify.com/track/1NbVr5Rjhr1cFRGaYTNhGw) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [If Life Were a Movie](https://open.spotify.com/album/6HZMfM4tBRQz93HsRouDti) | 2:15 | 2022-07-08 | 2022-07-25 |
 | [Incandescente](https://open.spotify.com/track/1pnL2LoyZmKtxsWjsfRlHN) | [Lonny](https://open.spotify.com/artist/4tqlnth2QyipMf30eETFcL) | [Incandescente](https://open.spotify.com/album/5QEaxcY9qsIq1E4Rp8fc8F) | 2:17 | 2021-01-03\* | 2021-05-03 |
@@ -444,6 +445,7 @@
 | [Quand j'te vois](https://open.spotify.com/track/0eaLnITFfQL5Qn0MvjWDGl) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Des milliers de plumes](https://open.spotify.com/album/7CUWKrepTHMWp3YmfgF20h) | 3:39 | 2021-01-03\* | 2021-01-30 |
 | [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 | 2025-01-31 |  |
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
+| [Quand vient le soir](https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Quand vient le soir](https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R) | 3:45 | 2026-05-08 |  |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 | 2026-04-10 |  |
 | [Quel tourment !](https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7), [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [Quel tourment !](https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO) | 3:22 | 2026-05-01 |  |
@@ -535,7 +537,7 @@
 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 | 2022-04-15 | 2025-11-06 |
 | [Tu danses, condessa](https://open.spotify.com/track/7KlRs6CShYQHqtejWyHYmZ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Tu danses, condessa](https://open.spotify.com/album/1YTdXEYY0Hrx4v4OBY92cj) | 3:17 | 2022-02-11 | 2022-04-13 |
 | [Tu me manques \(pourtant tu es là\)](https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trafic](https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB) | 4:13 | 2021-01-15 | 2021-11-13 |
-| [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 |  |
+| [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 | 2026-05-10 |
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2021-12-17 |  |
 | [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 | 2024-09-27 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |

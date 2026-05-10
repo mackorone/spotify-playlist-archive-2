@@ -4068,7 +4068,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
@@ -9844,6 +9844,28 @@
       "duration_ms": 206250,
       "name": "Love is Gonna Save Us",
       "url": "https://open.spotify.com/track/3FalZDi95sW3TW5JvOFsPc"
+    },
+    {
+      "album": {
+        "name": "Love Within",
+        "url": "https://open.spotify.com/album/2ZVcdV2EuArlBdAvTHTmvf"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224328,
+      "name": "Love Within",
+      "url": "https://open.spotify.com/track/0O5J5xw0Geb9csWY6rg3uj"
     },
     {
       "album": {

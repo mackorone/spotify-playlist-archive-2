@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Lo Arriesgo Todo",
+        "url": "https://open.spotify.com/album/04HQFUF2ZerH9UAu5Lo6bP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Lo Arriesgo Todo",
+      "url": "https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf"
+    },
+    {
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },

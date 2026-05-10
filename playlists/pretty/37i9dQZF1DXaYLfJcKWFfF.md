@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,593 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,615 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 31 | [Lighten My Heart](https://open.spotify.com/track/6pn4vgkxx4XzhA0X0P9OzO) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [Lighten My Heart](https://open.spotify.com/album/3AwsRLBiUlqFba7IhPjnNt) | 3:03 |
 | 32 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
 | 33 | [Paper Thin](https://open.spotify.com/track/7ldyssSEzF85pfe83DhnIQ) | [Thara](https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU) | [Paper Thin](https://open.spotify.com/album/0yVVkoDnsj0X3orWSk5hfp) | 2:30 |
-| 34 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
+| 34 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 35 | [Hello Goodbye](https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Hello Goodbye](https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz) | 3:05 |
-| 36 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 36 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
 | 37 | [DRIVE](https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [DRIVE](https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M) | 4:15 |
 | 38 | [SORE LOSER](https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [SORE LOSER](https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d) | 2:06 |
 | 39 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 60 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 61 | [UNGOWAM](https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [UNGOWAM](https://open.spotify.com/album/02pEPun8I1XhMp8RvMXVBK) | 3:13 |
 | 62 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
-| 63 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
-| 64 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
+| 63 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
+| 64 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 |
 | 65 | [Ordinary](https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU), [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Ordinary](https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV) | 2:46 |
-| 66 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
-| 67 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
+| 66 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
+| 67 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
 | 68 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
 | 69 | [Charmeur à Gage Mission Ines](https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Charmeur à Gage Mission Ines](https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK) | 3:04 |
 | 70 | [Glimmer](https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ) | [Jade Olivia](https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej) | [Glimmer](https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ) | 3:28 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 74 | [PUFF PUFF](https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [PUFF PUFF](https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm) | 2:44 |
 | 75 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 | 76 | [Light in Darkest Night](https://open.spotify.com/track/7c81879sor33GdZ2Qx4ris) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Light in Darkest Night](https://open.spotify.com/album/1RxBMM4vbJeC8PPfbTjNy3) | 2:48 |
-| 77 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 |
-| 78 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
-| 79 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
-| 80 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
+| 77 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 78 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 |
+| 79 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |
+| 80 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
 
 Snapshot ID: `AAAAAGB7aqYPPqMA8dsdkbD3SASi+eTn`

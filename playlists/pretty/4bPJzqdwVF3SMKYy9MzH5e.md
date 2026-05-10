@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,382 songs - 5 day 7 hr 52 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,383 songs - 5 day 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2390,5 +2390,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2380 | [No Me Importa](https://open.spotify.com/track/0DYiFPr3MjEO8jbK23fbDS) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [No Me Importa](https://open.spotify.com/album/2zfzwlF5CDIYeAIBc4xpEm) | 2:13 |
 | 2381 | [P5HD\-165TEKmix2](https://open.spotify.com/track/04l5ESY5WYg7cbTkKZu39B) | [Binary Digit](https://open.spotify.com/artist/3de6mAIrsacJj1uU0zfTSs) | [Xrns Trax](https://open.spotify.com/album/7JiISakRuKHZndttfPU5ii) | 5:37 |
 | 2382 | [earth is turning](https://open.spotify.com/track/7KjOz66DevrG6RQ6pNctYs) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [earth is turning](https://open.spotify.com/album/3tzBTHessiL43I9BZTsvU7) | 4:49 |
+| 2383 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
 
-Snapshot ID: `AAAFVEvVYSCw01vgFUU6S8MSQpsU0vRD`
+Snapshot ID: `AAAFVROnwTqpnFXFONFCSfZWNFcbwZF+`

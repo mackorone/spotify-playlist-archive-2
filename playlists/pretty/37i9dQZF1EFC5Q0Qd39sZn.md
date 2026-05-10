@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,329 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,348 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 119 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
 | 120 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
 | 121 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 |
-| 122 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 |
-| 123 | [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 |
+| 122 | [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 |
+| 123 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 |
 | 124 | [The Crazy Ones](https://open.spotify.com/track/4GJAvLmyRubhcd9BaNd5F0) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Crazy Ones](https://open.spotify.com/album/6H8zjjHJk5B2wB4w0qYaAT) | 4:05 |
 | 125 | [Prayers For This World](https://open.spotify.com/track/1vJk4EVtz7EKzO8nIh1to4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:42 |
 | 126 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
@@ -323,8 +323,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 313 | [Eu sim \(Io sì\)](https://open.spotify.com/track/7KreLkjzLSR87Re35YTdOu) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
 | 314 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 |
 | 315 | [Quem é Você \(Love Will Lead You Back\)](https://open.spotify.com/track/6Tct6Qc9dX5aaworN2PagM) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra!](https://open.spotify.com/album/5fdk0rqJUipKX8EVprxIGQ) | 4:29 |
-| 316 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 |
-| 317 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
+| 316 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
+| 317 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 |
 | 318 | [One Day You Will](https://open.spotify.com/track/6k0MYs7iejQfLAtJBmxCiC) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:13 |
 | 319 | [No Cambies Nunca](https://open.spotify.com/track/2U0clXQyTV2lxmeKIWshkl) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Chicas Malas](https://open.spotify.com/album/2VHB7b8lO8ha35k3u8jtdo) | 4:38 |
 | 320 | [You're Where I Belong](https://open.spotify.com/track/6NVLSkxjMXOOQtIMKD86Sl) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:14 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcQ+kgAAAADQD5LaWcHl9XcikBp5YNOz`
+Snapshot ID: `AcREMgAAAABKgJdiApH6jQBf/7p5LRND`

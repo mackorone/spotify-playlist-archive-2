@@ -4,7 +4,7 @@
 
 > 🔥 den nyeste rap i dk 🔥 cover: Michael Williams
 
-535 songs - 22 hr 48 min
+537 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 | 2024-06-20 | 2024-11-01 |
 | [9UP](https://open.spotify.com/track/1MfIbHpoii4rUHNzcqdil3) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [9UP](https://open.spotify.com/album/3SniuwFZUBeIeDsBVLD1DM) | 2:05 | 2025-12-04 | 2026-01-02 |
 | [ACCELERATION](https://open.spotify.com/track/6rNAaJAYB3P9aHKdHmzr4P) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ACCELERATION](https://open.spotify.com/album/6ExgHkQczbskQxCIqxsV4W) | 2:29 | 2026-01-08 | 2026-04-17 |
+| [Adrenalin](https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:58 | 2026-05-09 |  |
 | [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 | 2024-09-27 | 2025-04-18 |
 | [Ai Freestyle](https://open.spotify.com/track/2U6Z3P81M2hySvxe2vcjEx) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Ai Freestyle](https://open.spotify.com/album/3GtHmCeJKOdocPuvKHTlZd) | 2:34 | 2026-01-01 | 2026-04-10 |
 | [Akwaaba](https://open.spotify.com/track/1nYrS7KLuFZnAiNUIDIKa5) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Akwaaba](https://open.spotify.com/album/06Z4yqeIkR2LiU0RnGnWVL) | 2:34 | 2025-09-25 | 2025-10-17 |
@@ -458,6 +459,7 @@
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 | 2024-10-04 |
 | [Step](https://open.spotify.com/track/5ZNJsqqcvgECPEG3i2rxkB) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Step](https://open.spotify.com/album/2a0RrDIZbKd3GV0gituzji) | 2:32 | 2025-09-11 | 2025-10-03 |
 | [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 | 2025-05-17 |
+| [Stil permanent](https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:26 | 2026-05-09 |  |
 | [Stime \(feat\. KESI\)](https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:29 | 2025-01-16 | 2025-06-27 |
 | [Stjæler Det Hele.](https://open.spotify.com/track/1Tqo4SQpoxSdBj3tJBwIhn) | [FRSLV](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Stjæler Det Hele.](https://open.spotify.com/album/2zXHx0cXMTae4P6hWmBGyD) | 2:35 | 2025-10-09 | 2025-10-24 |
 | [Storebror](https://open.spotify.com/track/0GUOGpGfwEXga77OmPDfqx) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Storebror](https://open.spotify.com/album/79D7m9ctuf7uIlhSjS6Lgk) | 2:40 | 2025-04-17 | 2025-05-31 |

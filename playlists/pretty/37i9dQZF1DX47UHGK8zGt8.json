@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 610813,
+  "num_followers": 610864,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,22 @@
     {
       "added_at": "2026-04-24 03:01:46",
       "album": {
-        "name": "Meu Canto - EP",
-        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
+        "name": "Varrendo a Lua",
+        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         },
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 230786,
-      "name": "Me Espera",
-      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+      "duration_ms": 190960,
+      "name": "De Janeiro a Janeiro",
+      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
     },
     {
       "added_at": "2026-04-24 03:01:46",
@@ -327,22 +327,22 @@
     {
       "added_at": "2026-04-24 03:01:46",
       "album": {
-        "name": "Varrendo a Lua",
-        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
+        "name": "Meu Canto - EP",
+        "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
         },
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 190960,
-      "name": "De Janeiro a Janeiro",
-      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+      "duration_ms": 230786,
+      "name": "Me Espera",
+      "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
     },
     {
       "added_at": "2026-04-24 03:01:46",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-04-24 03:01:46",
       "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "added_at": "2026-04-24 03:01:46",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
-    },
-    {
-      "added_at": "2026-04-24 03:01:46",
-      "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2026-04-24 03:01:46",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-04-24 03:01:46",
       "album": {
+        "name": "Mahmundi",
+        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 295771,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
+    },
+    {
+      "added_at": "2026-04-24 03:01:46",
+      "album": {
         "name": "Kavita 1",
         "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 392813,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
-    },
-    {
-      "added_at": "2026-04-24 03:01:46",
-      "album": {
-        "name": "Mahmundi",
-        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 295771,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
     },
     {
       "added_at": "2026-04-24 03:01:46",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-04-24 03:01:46",
       "album": {
-        "name": "Cora\u00e7\u00e3o Radiante",
-        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
+        "name": "Descubra Sua For\u00e7a",
+        "url": "https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
         }
       ],
-      "duration_ms": 191743,
-      "name": "Cora\u00e7\u00e3o Radiante",
-      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
+      "duration_ms": 160825,
+      "name": "Descubra Sua For\u00e7a",
+      "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
     },
     {
       "added_at": "2026-04-24 03:01:46",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-04-24 03:01:46",
       "album": {
-        "name": "Descubra Sua For\u00e7a",
-        "url": "https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj"
+        "name": "Cora\u00e7\u00e3o Radiante",
+        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 160825,
-      "name": "Descubra Sua For\u00e7a",
-      "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
+      "duration_ms": 191743,
+      "name": "Cora\u00e7\u00e3o Radiante",
+      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
     },
     {
       "added_at": "2026-04-24 03:01:46",

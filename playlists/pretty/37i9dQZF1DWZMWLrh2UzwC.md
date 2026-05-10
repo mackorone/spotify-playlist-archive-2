@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from CORTIS, BABYMONSTER, Madison Beer, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,478 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,485 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

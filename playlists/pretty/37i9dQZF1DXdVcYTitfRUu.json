@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 15948,
+  "num_followers": 15956,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,18 @@
     {
       "added_at": "2026-04-23 02:15:23",
       "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
       },
       "artists": [
         {
-          "name": "EL CAPITXN",
-          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
-        },
-        {
-          "name": "TAEHYUN",
-          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Breaking Through",
-      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
+      "duration_ms": 276920,
+      "name": "Joy, Sorrow, A Beautiful Heart",
+      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
     },
     {
       "added_at": "2026-04-23 02:15:23",
@@ -195,18 +187,26 @@
     {
       "added_at": "2026-04-23 02:15:23",
       "album": {
-        "name": "FLOWERING",
-        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "TAEHYUN",
+          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 276920,
-      "name": "Joy, Sorrow, A Beautiful Heart",
-      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
+      "duration_ms": 252800,
+      "name": "Breaking Through",
+      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
     },
     {
       "added_at": "2026-04-23 02:15:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-04-23 02:15:23",
       "album": {
-        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
-        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
-    },
-    {
-      "added_at": "2026-04-23 02:15:23",
-      "album": {
         "name": "TIME CAPSULE",
         "url": "https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 252000,
       "name": "TIME CAPSULE",
       "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
+    },
+    {
+      "added_at": "2026-04-23 02:15:23",
+      "album": {
+        "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+        "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
       "added_at": "2026-04-23 02:15:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-23 02:15:23",
       "album": {
-        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "A Day",
-      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
-    },
-    {
-      "added_at": "2026-04-23 02:15:23",
-      "album": {
         "name": "Because I Don't Love You",
         "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 223826,
       "name": "Because I Don't Love You",
       "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
+    },
+    {
+      "added_at": "2026-04-23 02:15:23",
+      "album": {
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     },
     {
       "added_at": "2026-04-23 02:15:23",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-04-23 02:15:23",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+        "name": "Only you",
+        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+      "duration_ms": 190640,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
     },
     {
       "added_at": "2026-04-23 02:15:23",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-04-23 02:15:23",
       "album": {
-        "name": "Only you",
-        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
       "artists": [
         {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Only you",
-      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2026-04-23 02:15:23",

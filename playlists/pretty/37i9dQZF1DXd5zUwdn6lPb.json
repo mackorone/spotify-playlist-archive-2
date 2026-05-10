@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 595932,
+  "num_followers": 595996,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2026-04-10 04:01:06",
       "album": {
-        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
-        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Soule",
-          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 147142,
-      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
-      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
-    },
-    {
-      "added_at": "2026-04-10 04:01:06",
-      "album": {
         "name": "Faur\u00e9: Requiem, etc.",
         "url": "https://open.spotify.com/album/6txXkoOsByDXpeVKObGmrx"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 379400,
       "name": "Faur\u00e9: Pavane, Op. 50 (Instrumental Version)",
       "url": "https://open.spotify.com/track/4yezQOWPio1vNKh4aVnqJx"
+    },
+    {
+      "added_at": "2026-04-10 04:01:06",
+      "album": {
+        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
+        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "duration_ms": 147142,
+      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
+      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
     },
     {
       "added_at": "2026-04-10 04:01:06",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-04-10 04:01:06",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Plus t\u00f4t (String Quartet Version) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw"
+    },
+    {
+      "added_at": "2026-04-10 04:01:06",
+      "album": {
         "name": "Clementi: Piano Sonatas",
         "url": "https://open.spotify.com/album/66NKaW3oCWk3yrsaLgpDoy"
       },
@@ -2059,30 +2075,6 @@
       "duration_ms": 193320,
       "name": "Minuet in A major, D. 334",
       "url": "https://open.spotify.com/track/6qoKrxleX3tTaDv4kk8jzH"
-    },
-    {
-      "added_at": "2026-04-10 04:01:06",
-      "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     }
   ],
   "unique_name": "Classical Focus",

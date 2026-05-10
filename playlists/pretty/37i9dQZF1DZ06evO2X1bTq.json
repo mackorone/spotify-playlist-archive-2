@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1265482,
+  "num_followers": 1265531,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABB+ybz0fcVLRpisuf93+t7",
+  "snapshot_id": "af0ngAAAAAAfGu5iVw3icanzOAIIgG+a",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "Stay (Faraway, So Close!)",
-      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 278053,
       "name": "Song For Hal",
       "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "Stay (Faraway, So Close!)",
+      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 184543,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 317466,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 184543,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattle And Hum",
-        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easter Lily EP",
         "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 302933,
       "name": "Resurrection Song",
       "url": "https://open.spotify.com/track/09QaPzjG6mCiiTrT9hlerp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 243899,
-      "name": "One Life At A Time",
-      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 220733,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 243899,
+      "name": "One Life At A Time",
+      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 325014,
-      "name": "The Tears Of Things",
-      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 278480,
       "name": "Until The End Of The World",
       "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 325014,
+      "name": "The Tears Of Things",
+      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 349213,
       "name": "So Cruel",
       "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 408586,
-      "name": "COEXIST (I Will Bless The Lord At All Times?)",
-      "url": "https://open.spotify.com/track/5eynsXQG21BvozmHZ7XvB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 221373,
       "name": "Even Better Than The Real Thing",
       "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 324013,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Line On The Horizon",
-        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 324013,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
+      "duration_ms": 408586,
+      "name": "COEXIST (I Will Bless The Lord At All Times?)",
+      "url": "https://open.spotify.com/track/5eynsXQG21BvozmHZ7XvB4"
     }
   ],
   "unique_name": "This Is U2",

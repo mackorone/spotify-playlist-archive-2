@@ -1,6 +1,6 @@
 {
   "description": "Is it your bias K-Pop boy group? (Cover: PARK JI HOON (\ubc15\uc9c0\ud6c8)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 845266,
+  "num_followers": 845285,
   "original_name": "BIASBOYS",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-06 09:12:44",
       "album": {
-        "name": "The Action",
-        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Hollywood Action",
-      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
-    },
-    {
-      "added_at": "2026-05-06 09:12:44",
-      "album": {
         "name": "EX'ACT",
         "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 221341,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
+    },
+    {
+      "added_at": "2026-05-06 09:12:44",
+      "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Hollywood Action",
+      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
     },
     {
       "added_at": "2026-05-06 09:12:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-06 09:12:44",
       "album": {
-        "name": "TOP SPOT - ANOTHER DIMENSION",
-        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
-      },
-      "artists": [
-        {
-          "name": "T.O.P",
-          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
-        }
-      ],
-      "duration_ms": 184069,
-      "name": "DESPERADO",
-      "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
-    },
-    {
-      "added_at": "2026-05-06 09:12:44",
-      "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
+    },
+    {
+      "added_at": "2026-05-06 09:12:44",
+      "album": {
+        "name": "TOP SPOT - ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
+      },
+      "artists": [
+        {
+          "name": "T.O.P",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "duration_ms": 184069,
+      "name": "DESPERADO",
+      "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
     },
     {
       "added_at": "2026-05-06 09:12:44",

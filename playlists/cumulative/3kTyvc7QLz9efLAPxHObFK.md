@@ -4,7 +4,7 @@
 
 > 
 
-3,004 songs - 6 day 11 hr 15 min
+3,005 songs - 6 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [BlOoD BiZ](https://open.spotify.com/track/2HyZwNOe3UgkrHWbCgmRTs) | [Peakock](https://open.spotify.com/artist/0eHyHPaVFV8Feo7lPdHx8K), [Madsin](https://open.spotify.com/artist/32PugX56xGoO6rUWgvzNSz), [Fatih](https://open.spotify.com/artist/0e0lMsBuV3IoQRuUK3Hv8i) | [BlOoD BiZ](https://open.spotify.com/album/05PbRuwhWrrXYeOJGwzBMz) | 4:12 | 2026-03-31 |  |
 | [Blood Eagle](https://open.spotify.com/track/4lTu5wQWPC0cCpPivfcBkK) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Blood Eagle](https://open.spotify.com/album/6BA5hHKXDDOWN9TjRG3SHb) | 3:03 | 2024-02-01 |  |
 | [Bloody](https://open.spotify.com/track/05Qykd10R9MQN2Le2kY0WV) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Bloody](https://open.spotify.com/album/5WUQvmZfhYwI8FozzavIps) | 2:52 | 2022-09-06 |  |
+| [Blow](https://open.spotify.com/track/2xfyv0R1uKru1oiA68fThB) | [Pokeyz](https://open.spotify.com/artist/2orq9ChRxP41i7nkFpSxUS), [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Bloomee](https://open.spotify.com/artist/5T6xdgI1e9Gzfek5HVes5W) | [Blow](https://open.spotify.com/album/6Cs0lyPKkDhlbCdv2qtSzr) | 2:35 | 2026-05-09 |  |
 | [Blow 'm Up](https://open.spotify.com/track/1smbG9FbKbCfTCp6pJm1Hr) | [Kickdown](https://open.spotify.com/artist/4qUiWm8m64r7UAdlirKZS9), [UPTIMPO](https://open.spotify.com/artist/3iAmvq68QLpJlHhdbVK9ng) | [Kickdown & Friends](https://open.spotify.com/album/5fQ9f3cdfbq2fXw99LRyhk) | 2:43 | 2024-10-20 |  |
 | [Blow Out](https://open.spotify.com/track/7jJ7oEJzSBe63X2M5ikZdU) | [Kickdown](https://open.spotify.com/artist/4qUiWm8m64r7UAdlirKZS9), [Brainkick](https://open.spotify.com/artist/5s3YtTgg2ux1v9v1HmhN2X) | [Blow Out](https://open.spotify.com/album/3gWEUpzdbx1KuUAJrsUM2b) | 1:56 | 2026-02-16 |  |
 | [Blow The Speakers](https://open.spotify.com/track/5TtnnUnFotzjwXDfOJPWcc) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Blow The Speakers](https://open.spotify.com/album/6wW3f8uyv3OX92mE9ynABH) | 2:58 | 2024-08-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,626 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,649 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 52 | [Binnen Zonder Kloppen](https://open.spotify.com/track/3MclndtcndEVz0gKOXdM71) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Zullen We Dansen \- Het Beste Van De Dijk 1981 \- 2006](https://open.spotify.com/album/6rH1vmQTFjbXmCRYYtD2Q3) | 4:45 |
 | 53 | [Even Aan Mijn Moeder Vragen](https://open.spotify.com/track/1PAbS4i2Kezbb5V34nvR1c) | [Bloem](https://open.spotify.com/artist/4Q7PRWyZrpaEWFd8I0gdtB) | [Het Beste Uit 5 Jaar Het Foute Uur](https://open.spotify.com/album/0ds8asjvMISV1gqWlvmTUC) | 2:56 |
 | 54 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
-| 55 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 |
+| 55 | [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 |
 | 56 | [De Verzonken Stad](https://open.spotify.com/track/67ic5KKc4Q8zPyfuu11VYn) | [Frank](https://open.spotify.com/artist/6FZRvArR9oNmZWraG4rXyI), [Mirella](https://open.spotify.com/artist/35iXe0ysO9vDK2vCESHAbz) | [De Verzonken Stad & Andere Hits](https://open.spotify.com/album/2KDci5Jcw5iP7UEVud2nLV) | 3:49 |
 | 57 | [Pierrot](https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2) | [Bonnie St\. Claire](https://open.spotify.com/artist/4241gEqmLtq8iCZybFquzK) | [Favorieten Expres](https://open.spotify.com/album/0tozdNweUVwfbGuQwywE2Q) | 3:14 |
 | 58 | [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 |

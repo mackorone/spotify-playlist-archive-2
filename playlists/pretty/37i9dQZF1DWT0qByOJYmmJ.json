@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 629555,
+  "num_followers": 629531,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "En Medio De Este Ruido (Deluxe)",
         "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 255773,
       "name": "Vengo Del Futuro - Remix",
       "url": "https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 185582,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 251433,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
         "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 185841,
       "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
       "url": "https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2024-07-11 01:38:58",

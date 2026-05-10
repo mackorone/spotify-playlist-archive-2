@@ -553,6 +553,28 @@
     },
     {
       "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Adrenalin",
+      "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
+    },
+    {
+      "album": {
         "name": "AFIA",
         "url": "https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1"
       },
@@ -8918,6 +8940,24 @@
       "duration_ms": 129535,
       "name": "Steve O",
       "url": "https://open.spotify.com/track/2x355lU17q5QEemPuj2eba"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146335,
+      "name": "Stil permanent",
+      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
     },
     {
       "album": {

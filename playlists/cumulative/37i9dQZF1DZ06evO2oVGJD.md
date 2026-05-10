@@ -4,7 +4,7 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 28 min
+103 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 | 2022-06-01 |  |
 | [Ganas de Ti](https://open.spotify.com/track/6bksITRx5k0zItP6RiXJq9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recargado](https://open.spotify.com/album/5YowNW67zOzSLBZeavAxWM) | 3:29 | 2026-03-06 |  |
 | [Ganas De Ti \- Balada Version](https://open.spotify.com/track/4wJ6H2bngItDzDR7voKSqA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:29 | 2022-06-01 | 2026-03-06 |
-| [Hasta el Final](https://open.spotify.com/track/2mlnu9FhO0TQDUc9hFKIMj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 3:17 | 2023-08-30 | 2026-04-18 |
+| [Hasta el Final](https://open.spotify.com/track/2mlnu9FhO0TQDUc9hFKIMj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 3:17 | 2023-08-30 |  |
 | [Hasta el Final](https://open.spotify.com/track/4n8svElL8bv2ho96dTj0TU) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 3:17 | 2022-06-01 | 2023-08-31 |
 | [Hoy La Vi Pasar](https://open.spotify.com/track/2BUVJfJVI8Ri2MDi4fOc4a) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Madrazo Norteno](https://open.spotify.com/artist/5VwKLLZcvnI5JSQyjnT3Qv) | [Hoy La Vi Pasar](https://open.spotify.com/album/1E2pj2UcDR536SGEeSCCU3) | 2:55 | 2024-09-01 | 2025-04-07 |
 | [La cuca](https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:55 | 2022-06-01 |  |
 | [La nena](https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:54 | 2022-06-01 |  |
-| [Libre De Culpa](https://open.spotify.com/track/0fdo6qeipu1aNWzIyARkmS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:10 | 2022-06-01 |  |
+| [Libre de Culpa](https://open.spotify.com/track/5Mfe4dG6696boQW9DXmIxp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3uSB9zgGSH2psDjAtjfn3G) | 3:10 | 2026-05-10 |  |
+| [Libre De Culpa](https://open.spotify.com/track/0fdo6qeipu1aNWzIyARkmS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:10 | 2022-06-01 | 2026-05-10 |
 | [Llora el amor](https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:13 | 2022-06-01 |  |
 | [Lo Que Soñé](https://open.spotify.com/track/0fKGjHmi46AbGezCzmQ7q8) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3uSB9zgGSH2psDjAtjfn3G) | 4:14 | 2026-04-07 |  |
 | [Lo Que Soñé](https://open.spotify.com/track/7LpnnmmXpFRFCq0XjjdqSp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 4:14 | 2022-06-04 | 2026-03-15 |
@@ -109,6 +110,6 @@
 | [Y No Soy Tu Dueño](https://open.spotify.com/track/7JXE1oSJkgnX1F4uYoyEcJ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Daría Todo por Ti](https://open.spotify.com/album/7LalMyh8jS4b3AbrohmP2L) | 2:57 | 2022-06-01 | 2023-09-01 |
 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 | 2022-06-01 |  |
 | [¿Qué Pasó Con Nuestro Amor?](https://open.spotify.com/track/6R5AJPv9aEyrpJXTgpqET2) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Tropa Chicana](https://open.spotify.com/artist/438inxhXA6h5CIpc9iVS3M) | [¿Qué Pasó Con Nuestro Amor?](https://open.spotify.com/album/2ktzaVGT4mFB6tMlFMH9xV) | 3:25 | 2024-07-21 | 2024-10-05 |
-| [¿Y qué si?](https://open.spotify.com/track/0YvrKcZNmAvAmUqdYFouR8) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [¿Y qué si?](https://open.spotify.com/album/3mP1FiLqvUAi8fESscXyzF) | 2:31 | 2026-03-24 |  |
+| [¿Y qué si?](https://open.spotify.com/track/0YvrKcZNmAvAmUqdYFouR8) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [¿Y qué si?](https://open.spotify.com/album/3mP1FiLqvUAi8fESscXyzF) | 2:31 | 2026-03-24 | 2026-05-10 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

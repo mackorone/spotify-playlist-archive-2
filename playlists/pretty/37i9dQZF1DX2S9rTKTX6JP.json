@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 761246,
+  "num_followers": 761308,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-18 02:46:49",
       "album": {
-        "name": "Unearthed",
-        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
-    },
-    {
-      "added_at": "2026-04-18 02:46:49",
-      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
+    },
+    {
+      "added_at": "2026-04-18 02:46:49",
+      "album": {
+        "name": "Unearthed",
+        "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
     },
     {
       "added_at": "2026-04-18 02:46:49",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-18 02:46:49",
       "album": {
-        "name": "I Ran (So Far Away)",
-        "url": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 211031,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
-    },
-    {
-      "added_at": "2026-04-18 02:46:49",
-      "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 205130,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "added_at": "2026-04-18 02:46:49",
+      "album": {
+        "name": "I Ran (So Far Away)",
+        "url": "https://open.spotify.com/album/21s176tybfcUTuxBp0UdCV"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 211031,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/2tFcYLM3T3PWy0SsGHwOkv"
     },
     {
       "added_at": "2026-04-18 02:46:49",

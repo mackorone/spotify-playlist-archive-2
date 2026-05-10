@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 56209,
+  "num_followers": 56225,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACCb9zcDm2dCY6ph+m7rJky",
+  "snapshot_id": "af0ngAAAAACuFMuznoynE3CFq4ZVdWZl",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 255693,
       "name": "I Love You, I Hate You",
       "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 149776,
+      "name": "Game On (ft. JT)",
+      "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
     },
     {
       "added_at": null,
@@ -371,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
         }
       ],
-      "duration_ms": 154986,
-      "name": "one life, might live",
-      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
+      "duration_ms": 211962,
+      "name": "Open Arms (ft. DEELA)",
+      "url": "https://open.spotify.com/track/6Fx3eTpIXTYZaQkzoLBhTQ"
     },
     {
       "added_at": null,
@@ -427,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stillness in Wonderland",
         "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
       },
@@ -443,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 87893,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
@@ -471,6 +495,42 @@
       "duration_ms": 240379,
       "name": "Thief",
       "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Telephone (ft. 070 Shake)",
+      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 87893,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
     },
     {
       "added_at": null,
@@ -527,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 225255,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
+      "duration_ms": 205704,
+      "name": "That's a No No",
+      "url": "https://open.spotify.com/track/1R8JylLovUs7WRLiFPq2G5"
     },
     {
       "added_at": null,
@@ -559,6 +615,26 @@
       "duration_ms": 393280,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 225255,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
     },
     {
       "added_at": null,
@@ -599,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 185203,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
@@ -627,6 +687,22 @@
       "duration_ms": 187093,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 185203,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
     },
     {
       "added_at": null,
@@ -667,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 168521,
-      "name": "Offence",
-      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proud of Me (feat. Little Simz)",
         "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
       },
@@ -703,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
       },
       "artists": [
         {
@@ -712,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 135322,
-      "name": "you should call mum",
-      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
     },
     {
       "added_at": null,
@@ -735,6 +795,22 @@
       "duration_ms": 188089,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4toqE1DBX8IL0nnB182Yt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,227 likes - 50 songs - 2 hr 47 min
 
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 5 | [Thành phố phía Đông](https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:42 |
 | 6 | [MD Anniversary](https://open.spotify.com/track/69GP0uR8ps0MAyWRvlCKSw) | [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [MD Anniversary](https://open.spotify.com/album/6DGdufufGeh0Hw6ZTX9or8) | 2:20 |
 | 7 | [Girl Hà Nội](https://open.spotify.com/track/3nOQ8LlNDS2U9vohMlBWJq) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Rem](https://open.spotify.com/artist/1njilcHXinpoFdb02K4sK2) | [Girl Hà Nội](https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9) | 3:54 |
-| 8 | [City](https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 4:19 |
-| 9 | [Buộc Vào Cơn Gió](https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:38 |
+| 8 | [Buộc Vào Cơn Gió](https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:38 |
+| 9 | [City](https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 4:19 |
 | 10 | [Nắng hoa niên](https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:10 |
 | 11 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 |
 | 12 | [Ảo Giác](https://open.spotify.com/track/4IkYjqZKEaSpS88OoI2BVM) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [Ảo Giác](https://open.spotify.com/album/1S3i3m9hH5ilHb2RP2XWwp) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von XATAR, Dardan, Charli xcx, Esther Graf, Nico Santos & vielen mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,849 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,800 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 43 | [Nickelodeon](https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Nickelodeon](https://open.spotify.com/album/0rJv3K7TOeDjod7aNTxgLm) | 2:27 |
 | 44 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 |
 | 45 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
-| 46 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K EP](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
+| 46 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
 | 47 | [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 |
 | 48 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 49 | [HOME TO MOTHER](https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2) | 3:16 |

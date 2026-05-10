@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 522477,
+  "num_followers": 522548,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAnoMTv3WzqLVClSeRZAZrE",
+  "snapshot_id": "af0ngAAAAACj5dS3hZBSZYTTfJ5Wo3r6",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
     },
     {
       "added_at": null,
@@ -263,26 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
       "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
+      "duration_ms": 218627,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0cIQEeA1OD5XzUjuplVfiT"
     },
     {
       "added_at": null,
@@ -303,18 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
       },
       "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218627,
-      "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0cIQEeA1OD5XzUjuplVfiT"
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
     },
     {
       "added_at": null,

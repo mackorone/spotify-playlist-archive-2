@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,520 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,573 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 45 | [Paraíso Que Me Cerca](https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew) | [Cidade do Pecado](https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx) | 3:37 |
 | 46 | [Pessoas](https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 3:37 |
 | 47 | [Deus do Furdunço](https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 2:28 |
-| 48 | [Quente !](https://open.spotify.com/track/0eAN72pD742qdEQxGQ7bYq) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Abud](https://open.spotify.com/artist/4FloXaoxJddb9qUORylHng) | [Quente !](https://open.spotify.com/album/3Fy4xHSlSehPVKp6Tl0zXn) | 3:32 |
-| 49 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
+| 48 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
+| 49 | [Quente !](https://open.spotify.com/track/0eAN72pD742qdEQxGQ7bYq) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Abud](https://open.spotify.com/artist/4FloXaoxJddb9qUORylHng) | [Quente !](https://open.spotify.com/album/3Fy4xHSlSehPVKp6Tl0zXn) | 3:32 |
 
-Snapshot ID: `afvWAAAAAAAnEbb2wIF7AYE2hpspxNsO`
+Snapshot ID: `af0ngAAAAAAJd7BtHwEdZMNXmUHgWhHP`

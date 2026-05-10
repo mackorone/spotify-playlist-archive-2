@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-531 songs - 1 day 4 hr 7 min
+532 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Reaching Out](https://open.spotify.com/track/7KTcpv7wPJ4r6lR5SLzurh) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Reaching Out](https://open.spotify.com/album/1fI0NsucLsQJLLzi6fDnpA) | 2:14 | 2021-12-03 | 2022-10-20 |
 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 | 2021-12-03 | 2023-05-13 |
 | [Real Love x Sunchyme \(feat\. Jess Glynne\) \[VIP Mash\-up\]](https://open.spotify.com/track/17fPLuA4TttWwfNcf833J1) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Real Love x Sunchyme \(feat\. Jess Glynne\) \[VIP Mash\-up\]](https://open.spotify.com/album/47ZID0LqufsflsEdOtWk5H) | 3:39 | 2021-12-03 | 2022-10-06 |
-| [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-02-11 |  |
+| [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-02-11 | 2026-05-10 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-03-10 | 2024-04-19 |
 | [Relight My Love](https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Relight My Love](https://open.spotify.com/album/4nPnujo6paeU0XbRMpYO40) | 2:57 | 2021-12-03 | 2023-08-13 |
 | [Remember](https://open.spotify.com/track/2nEdgiHdguBvGmES5Pv4Ca) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Remember](https://open.spotify.com/album/2nOJh2CwWDMAzZsn07gKRU) | 2:51 | 2021-12-03 | 2022-01-08 |
@@ -406,6 +406,7 @@
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 | 2022-07-29 |
 | [So Much Love](https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [So Much Love](https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw) | 3:11 | 2022-02-25 | 2023-02-04 |
 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 | 2024-10-18 |  |
+| [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 | 2026-05-08 |  |
 | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/track/3By9IFm4E2BvKQygT04O8g) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [So What \(feat\. A R I Z O N A\)](https://open.spotify.com/album/47hFYvR9yzeKgqDKWUWOfD) | 2:57 | 2021-12-03 | 2023-05-13 |
 | [Somebody \- Stadiumx Edit](https://open.spotify.com/track/7Akjeeqf80wiB6vuxLjNBh) | [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Somebody \(Stadiumx Edit\)](https://open.spotify.com/album/3jpkIypKG8VBVjbNwxEmVN) | 3:16 | 2021-12-03 | 2022-01-08 |
 | [Somebody Like You](https://open.spotify.com/track/3d5sy82qemYO5B5TljeoBs) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:28 | 2021-12-03 | 2022-01-08 |

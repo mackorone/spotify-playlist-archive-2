@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,332 songs - 2 day 22 hr 42 min
+1,333 songs - 2 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Los Mayores](https://open.spotify.com/track/3PzRozh21ZFHP5bAoQ953l) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Los Mayores](https://open.spotify.com/album/0xgmBfcaBwvF0TTFp1FXEf) | 3:21 | 2025-08-11 | 2025-12-26 |
 | [Los Mayores](https://open.spotify.com/track/595GxxymShUzSRVGgDrkGI) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Directamente Desde el Tanque](https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j) | 3:21 | 2025-12-25 | 2026-05-06 |
 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 | 2021-12-01 | 2022-05-08 |
+| [Love](https://open.spotify.com/track/5ldphSuVJxLMqMtRxBtqGp) | [Juanjo Morgade](https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Love](https://open.spotify.com/album/2S2GWPtZ3KcSRxaceld125) | 2:54 | 2026-05-09 |  |
 | [love hotel](https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL) | [leftovermax](https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj) | [love hotel](https://open.spotify.com/album/5lMMC4nIID6IHXNffPt6p3) | 2:32 | 2024-05-21 | 2024-05-24 |
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-01 | 2022-07-23 |
 | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 | 2024-12-29 | 2025-06-03 |
@@ -1197,7 +1198,7 @@
 | [TURUTUTU](https://open.spotify.com/track/44NbaMYWDwxaAXbPYXVSIv) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TURUTUTU](https://open.spotify.com/album/5pWhstnKLBpI1zQXHKJ3TO) | 3:20 | 2022-12-17 | 2022-12-28 |
 | [Tus Cosas \(feat\. Airbag\)](https://open.spotify.com/track/30vXLQ9yPEKdTNGHYik0iR) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU), [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Regreso](https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt) | 3:07 | 2025-11-05 | 2025-11-24 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-23 | 2022-06-26 |
-| [Tus Ojos No Me Ven \| Varieté \#6](https://open.spotify.com/track/1cEfhLQvKy9n02yhmK076x) | [Tincho & Javi](https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG) | [Tus Ojos No Me Ven \| Varieté \#6](https://open.spotify.com/album/2adHeTQ3bDxAGZUsc3EAmE) | 2:33 | 2026-04-08 |  |
+| [Tus Ojos No Me Ven \| Varieté \#6](https://open.spotify.com/track/1cEfhLQvKy9n02yhmK076x) | [Tincho & Javi](https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG) | [Tus Ojos No Me Ven \| Varieté \#6](https://open.spotify.com/album/2adHeTQ3bDxAGZUsc3EAmE) | 2:33 | 2026-04-08 | 2026-05-10 |
 | [Típica Argentina](https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Chofer](https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL), [El Lobo](https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK) | [Típica Argentina](https://open.spotify.com/album/3HBd40il87H552v0UdXkUv) | 2:36 | 2025-08-16 | 2026-01-27 |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2021-10-10 | 2021-11-26 |
 | [Túnel de la Vida](https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/2KczQy95f5dMmdrRIsshdx) | 4:00 | 2026-02-19 |  |

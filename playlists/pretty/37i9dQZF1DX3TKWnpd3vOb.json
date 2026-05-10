@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 186566,
+  "num_followers": 186556,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Campo Abierto",
-        "url": "https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw"
-      },
-      "artists": [
-        {
-          "name": "Spiral Vortex",
-          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Campo Abierto",
-      "url": "https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 251000,
       "name": "Nuestra se\u00f1al",
       "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Campo Abierto",
+        "url": "https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw"
+      },
+      "artists": [
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Campo Abierto",
+      "url": "https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -851,18 +851,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+        "name": "Se Aleja el Tren",
+        "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
       },
       "artists": [
         {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        },
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
         }
       ],
-      "duration_ms": 281133,
-      "name": "\u00danete A Mi Ser",
-      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
+      "duration_ms": 246322,
+      "name": "Se Aleja el Tren",
+      "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -883,22 +887,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Se Aleja el Tren",
-        "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
       },
       "artists": [
         {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
-        },
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
         }
       ],
-      "duration_ms": 246322,
-      "name": "Se Aleja el Tren",
-      "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
+      "duration_ms": 281133,
+      "name": "\u00danete A Mi Ser",
+      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Mirar La Luz",
-        "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
+        "name": "Solo de Ti",
+        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
       "artists": [
         {
-          "name": "Electrodom\u00e9sticos",
-          "url": "https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn"
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
         }
       ],
-      "duration_ms": 270049,
-      "name": "El Viento Escap\u00f3",
-      "url": "https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs"
+      "duration_ms": 237830,
+      "name": "Solo de Ti",
+      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Solo de Ti",
-        "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
+        "name": "Mirar La Luz",
+        "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
       },
       "artists": [
         {
-          "name": "Hermanos Ilabaca",
-          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+          "name": "Electrodom\u00e9sticos",
+          "url": "https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn"
         }
       ],
-      "duration_ms": 237830,
-      "name": "Solo de Ti",
-      "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
+      "duration_ms": 270049,
+      "name": "El Viento Escap\u00f3",
+      "url": "https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 249126,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 147000,
       "name": "T\u00f3tem",
       "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 249126,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Al otro lado del canal",
         "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 155849,
       "name": "Al otro lado del canal",
       "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+      },
+      "artists": [
+        {
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Coraz\u00f3n Negro",
         "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 277809,
       "name": "\u00cdcaro",
       "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
-      },
-      "artists": [
-        {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Si Se Me Apaga El Sol",
         "url": "https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226776,
       "name": "Si Se Me Apaga El Sol",
       "url": "https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Hacia Ti",
-        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Hacia Ti",
-      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Fresco y Desubicado",
         "url": "https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 218400,
       "name": "Fresco y Desubicado",
       "url": "https://open.spotify.com/track/1KOt3ftZDzUOzu1q9aNrfR"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Hacia Ti",
+        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Hacia Ti",
+      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
     },
     {
       "added_at": "2026-04-10 19:32:23",

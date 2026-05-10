@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,697 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,695 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 22 | [Hasta vencer](https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Raya y el Último Dragón \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B) | 3:44 |
 | 23 | [Mariposa Y Sol](https://open.spotify.com/track/5laCdDysZ44czBosf4F10W) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 3:26 |
 | 24 | [Sodio](https://open.spotify.com/track/4TI2V6ACdHe4226vMiBqTj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop Latino 2000](https://open.spotify.com/album/5513pgTeV3Uf6FlcWJWonP) | 3:07 |
-| 25 | [Cuándo empezaré a vivir](https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Disney Princesas: Canciones de las Princesas](https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0) | 2:28 |
-| 26 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
+| 25 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
+| 26 | [Cuándo empezaré a vivir](https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Disney Princesas: Canciones de las Princesas](https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0) | 2:28 |
 | 27 | [Welcome](https://open.spotify.com/track/6XHAknr2XSEmfN09SRHyJa) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:52 |
 | 28 | [Azul Como El Cielo](https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:36 |
 | 29 | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Yo Soy Tu Amigo Fiel](https://open.spotify.com/album/30qjYHHwMXn7fiUKJcEwYn) | 3:03 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 48 | [Mi Capitan](https://open.spotify.com/track/6AfN38ELK3MZVOCoDebg44) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:44 |
 | 49 | [Una Señal](https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:51 |
 
-Snapshot ID: `afvWAAAAAAD93fhGuWXDVERBRz7OQNrn`
+Snapshot ID: `af0ngAAAAACF7FTiq729gYDjjPiTWN41`

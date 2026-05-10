@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: TSHA
 
-2,172 songs - 6 day 15 hr 4 min
+2,173 songs - 6 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1046,6 +1046,7 @@
 | [KEEP ON DANCING](https://open.spotify.com/track/3SssT8KKUO4xzgavLLgTi3) | [Nabewalks](https://open.spotify.com/artist/3T3MaUXZKyIUMhi1EcGoJb) | [DISH U RN](https://open.spotify.com/album/3SJyMUm4sg8gA465vIRoBy) | 4:40 | 2024-12-26 | 2025-01-17 |
 | [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 | 2024-11-14 | 2024-12-20 |
 | [KeepHer \(feat\. Thundercat\) \(Knxwledge Remix\)](https://open.spotify.com/track/3JfrAySr3ZP46p0bB5caf2) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [KeepHer \(feat\. Thundercat\) \(Knxwledge Remix\)](https://open.spotify.com/album/2hncx5nz4kkrGcZjpLQpPy) | 5:16 | 2025-09-12 | 2025-10-03 |
+| [Kellogg Means](https://open.spotify.com/track/4cAt0QVSWzZguBTxRtGDHH) | [Dungeoneering](https://open.spotify.com/artist/1cO8gmAHjMQi8OqeNVSZDK) | [Where 2? EP](https://open.spotify.com/album/3wABfYCaNrbWACVgpcCP5O) | 4:46 | 2026-05-09 |  |
 | [Kelsier](https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Kelsier](https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E) | 3:52 | 2026-04-09 |  |
 | [KeQue](https://open.spotify.com/track/2OfwlVwQGw7AN3aE1lQ4QN) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [KeQue](https://open.spotify.com/album/5KFhYl3zhhiX3bvzqWrPXB) | 6:28 | 2023-03-16 | 2023-04-09 |
 | [Key103 \[a56 edit\]](https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Key103](https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ) | 3:56 | 2024-07-12 | 2024-09-06 |

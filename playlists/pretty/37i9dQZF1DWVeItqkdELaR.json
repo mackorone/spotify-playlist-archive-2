@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2025! \ud83c\udf1e",
-  "num_followers": 126827,
+  "num_followers": 126824,
   "original_name": "Ver\u00e3o 2025 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-08-22 12:22:09",
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
+    {
+      "added_at": "2025-08-22 12:22:09",
+      "album": {
         "name": "Descer",
         "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 111653,
       "name": "Descer",
       "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
-    },
-    {
-      "added_at": "2025-08-22 12:22:09",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
     },
     {
       "added_at": "2025-08-22 12:22:09",

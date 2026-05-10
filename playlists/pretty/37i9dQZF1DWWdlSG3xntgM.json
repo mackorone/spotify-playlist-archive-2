@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 50414,
+  "num_followers": 50415,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
-    },
-    {
-      "added_at": "2026-03-01 12:41:54",
-      "album": {
         "name": "T\u1ea1 T\u1eeb Trong \u0110\u00eam",
         "url": "https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 348799,
       "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
       "url": "https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z"
+    },
+    {
+      "added_at": "2026-03-01 12:41:54",
+      "album": {
+        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "Chuy\u1ec7n T\u00ecnh Y\u00eau (Remastered)",
-        "url": "https://open.spotify.com/album/4XHgexhllgIIJbZZFeIF8G"
+        "name": "Lo\u00e0i Hoa Kh\u00f4ng V\u1ee1",
+        "url": "https://open.spotify.com/album/2UxfyFbJEk4Ex5eQMKqXWR"
       },
       "artists": [
         {
-          "name": "H\u01b0\u01a1ng Lan",
-          "url": "https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn"
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
         }
       ],
-      "duration_ms": 275400,
-      "name": "\u0110\u1ec3 Tr\u1ea3 L\u1eddi M\u1ed9t C\u00e2u H\u1ecfi (1989) - Remastered",
-      "url": "https://open.spotify.com/track/5b3UPO3dt669drRyC4BTJ2"
+      "duration_ms": 385541,
+      "name": "Lo\u00e0i Hoa Kh\u00f4ng V\u1ee1",
+      "url": "https://open.spotify.com/track/0w2uQ1Yq2fiJ9EU7rT3cQf"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -799,22 +799,18 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "B\u00f3ng Nh\u1ecf \u0110\u01b0\u1eddng Chi\u1ec1u",
-        "url": "https://open.spotify.com/album/5tMjBqFvfnVr1Jaz8txfJU"
+        "name": "Chuy\u1ec7n T\u00ecnh Y\u00eau (Remastered)",
+        "url": "https://open.spotify.com/album/4XHgexhllgIIJbZZFeIF8G"
       },
       "artists": [
         {
-          "name": "V\u0169 Nh\u01b0 Nguy\u1ec7t",
-          "url": "https://open.spotify.com/artist/1TGqWkBXJUXQ8LofwIwNmE"
-        },
-        {
-          "name": "Duy Ph\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/6MYzSoIOq4WYIbTBOZJDWI"
+          "name": "H\u01b0\u01a1ng Lan",
+          "url": "https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn"
         }
       ],
-      "duration_ms": 290711,
-      "name": "Qua C\u01a1n M\u00ea",
-      "url": "https://open.spotify.com/track/5Fs1rIE9L830HIij2cuHyX"
+      "duration_ms": 275400,
+      "name": "\u0110\u1ec3 Tr\u1ea3 L\u1eddi M\u1ed9t C\u00e2u H\u1ecfi (1989) - Remastered",
+      "url": "https://open.spotify.com/track/5b3UPO3dt669drRyC4BTJ2"
     },
     {
       "added_at": "2026-03-01 12:41:54",
@@ -835,18 +831,22 @@
     {
       "added_at": "2026-03-01 12:41:54",
       "album": {
-        "name": "Lo\u00e0i Hoa Kh\u00f4ng V\u1ee1",
-        "url": "https://open.spotify.com/album/2UxfyFbJEk4Ex5eQMKqXWR"
+        "name": "B\u00f3ng Nh\u1ecf \u0110\u01b0\u1eddng Chi\u1ec1u",
+        "url": "https://open.spotify.com/album/5tMjBqFvfnVr1Jaz8txfJU"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+          "name": "V\u0169 Nh\u01b0 Nguy\u1ec7t",
+          "url": "https://open.spotify.com/artist/1TGqWkBXJUXQ8LofwIwNmE"
+        },
+        {
+          "name": "Duy Ph\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/6MYzSoIOq4WYIbTBOZJDWI"
         }
       ],
-      "duration_ms": 385541,
-      "name": "Lo\u00e0i Hoa Kh\u00f4ng V\u1ee1",
-      "url": "https://open.spotify.com/track/0w2uQ1Yq2fiJ9EU7rT3cQf"
+      "duration_ms": 290711,
+      "name": "Qua C\u01a1n M\u00ea",
+      "url": "https://open.spotify.com/track/5Fs1rIE9L830HIij2cuHyX"
     }
   ],
   "unique_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",

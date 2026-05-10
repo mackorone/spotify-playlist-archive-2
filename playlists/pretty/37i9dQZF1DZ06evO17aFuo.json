@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 319487,
+  "num_followers": 319546,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAuCWNFmYvdyGrP029wJAZS",
+  "snapshot_id": "af0ngAAAAADRhPf6nLn8UkVvIIcORx8N",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+      "duration_ms": 386600,
+      "name": "In My Darkest Hour - Remastered 2004",
+      "url": "https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 386600,
-      "name": "In My Darkest Hour - Remastered 2004",
-      "url": "https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu"
+      "duration_ms": 268706,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Killing Is My Business...And Business Is Good!",
-      "url": "https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223400,
       "name": "This Was My Life",
       "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Is My Business...And Business Is Good!",
+        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Killing Is My Business...And Business Is Good!",
+      "url": "https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The System Has Failed",
-        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 207221,
-      "name": "Back In the Day",
-      "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219800,
       "name": "Architecture Of Aggression",
       "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The System Has Failed",
+        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 207221,
+      "name": "Back In the Day",
+      "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 262426,
-      "name": "Foreclosure Of A Dream - 2004 Remastered",
-      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
+      "duration_ms": 302333,
+      "name": "The Conjuring - Remastered",
+      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 302333,
-      "name": "The Conjuring - Remastered",
-      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
+      "duration_ms": 262426,
+      "name": "Foreclosure Of A Dream - 2004 Remastered",
+      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Seu Jorge com Marisa Monte, Luiza Martins, Charli xcx, Alok,  Mari Fernandez, YG Marley  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285,021 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,284,889 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 61 | [Estrela Cadente](https://open.spotify.com/track/2rH6UnbyLExyaSzlwzvznn) | [Klessinha](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Resenha Sem Tirar de Dentro na Cachoeira/SP \- Ep 1](https://open.spotify.com/album/3c2ZlsZ0wCiLBAjTmcgtpI) | 2:35 |
 | 62 | [LONELY](https://open.spotify.com/track/4eUelPzsCfTbk12dyN2Yu1) | [GOBAITH](https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320) | [LONELY](https://open.spotify.com/album/1iHljVtfPQPuy1YxWgrJNw) | 2:52 |
 | 63 | [Saturn Storm](https://open.spotify.com/track/3hTphn9Yj76uUJe3mZDbq0) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Nana Torres](https://open.spotify.com/artist/3Y7qOams3aO2VkPvq3Xz1S) | [Saturn Storm](https://open.spotify.com/album/1U19xKKGgUTdIx4ITVB7cG) | 3:08 |
-| 64 | [Felicidade de Sertanejo](https://open.spotify.com/track/1tn6S6VXaEg0V4DUhkSMs9) | [Flay](https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Felicidade de Sertanejo](https://open.spotify.com/album/4GO2BejjJRsTAx78CaocLA) | 2:59 |
+| 64 | [Felicidade de Sertanejo](https://open.spotify.com/track/1tn6S6VXaEg0V4DUhkSMs9) | [Flay](https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Felicidade de Sertanejo](https://open.spotify.com/album/4GO2BejjJRsTAx78CaocLA) | 2:56 |
 | 65 | [dedin na boca](https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [dedin na boca](https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4) | 2:13 |
 | 66 | [Baile de Máscaras](https://open.spotify.com/track/0rYhvWJRNbNjcCMdi4fd8t) | [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ian Zin](https://open.spotify.com/artist/0U0itLMcqObDNyHmf8Zjbv), [Medeirin](https://open.spotify.com/artist/5tcxdFeTo2jbqv7b2TqIMz) | [Baile de Máscaras](https://open.spotify.com/album/60UU5SjFxyt11uof8uEwGS) | 3:14 |
 | 67 | [Se Não Tem Amor, Não Vira \- Conexão, Ao Vivo](https://open.spotify.com/track/6YQOMICGPV1pLc3ncv07pI) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [Conexão Ao Vivo, Vol.2](https://open.spotify.com/album/3MkruwcAio052jmUTY0oTd) | 2:51 |

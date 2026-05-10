@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 75 | [Kettle](https://open.spotify.com/track/5LwGInwOgFjIIVer2kPxxW) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Fuck the Numbers](https://open.spotify.com/album/1kWoB4QqqP1Y30PAzEIGo7) | 2:40 |
 | 76 | [Running](https://open.spotify.com/track/1xgcmWNoMwNVudxG5njIof) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Running](https://open.spotify.com/album/2ZrRvBARtHGeWRTDe8P7fD) | 3:16 |
 | 77 | [Another Problem](https://open.spotify.com/track/4LtDlUC0G9gDANZX9hLWFD) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:12 |
-| 78 | [Chills](https://open.spotify.com/track/5GuyTA6IIhFpEUUG3SYP1s) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:16 |
-| 79 | [Habit](https://open.spotify.com/track/7FUfVAITU9rjBNh1AiFWZV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:26 |
-| 80 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 78 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 79 | [Chills](https://open.spotify.com/track/5GuyTA6IIhFpEUUG3SYP1s) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:16 |
+| 80 | [Habit](https://open.spotify.com/track/7FUfVAITU9rjBNh1AiFWZV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:26 |
 | 81 | [Pay Attention](https://open.spotify.com/track/5qCCBPO81dyZEsavwxn8eC) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:29 |
 | 82 | [Honest](https://open.spotify.com/track/1crlJcaMsDxscZkI3jmjtv) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:57 |
 | 83 | [Nothing Like I Used To Be](https://open.spotify.com/track/3OWB60FMHQ7V1hPevITp4X) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [Nothing Like I Used To Be](https://open.spotify.com/album/0OEk2M4TSQFs9gWQqEWNyo) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 89 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 90 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcQ+nAAAAAD7dK9h4SxkKyupVuQu9GPQ`
+Snapshot ID: `AcREPAAAAAC9Q8aDckHUJ7L8HpCJG8Br`

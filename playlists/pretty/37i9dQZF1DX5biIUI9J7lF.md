@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > Opted out of strife
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,443 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,460 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 59 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
 | 60 | [PRAY](https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [PRAY](https://open.spotify.com/album/43zdGbhiT6Rx2rV2ZkALxB) | 2:45 |
 
-Snapshot ID: `AAAAAPzNA4Iqkm9zi3vlntnzHtdsEKd+`
+Snapshot ID: `AAAAAG19nmEy2St4BTG1WCYdXJscbv1x`

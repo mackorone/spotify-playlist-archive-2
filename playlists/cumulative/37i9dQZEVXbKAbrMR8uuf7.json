@@ -140,7 +140,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 140587,
       "name": "1/1",
       "url": "https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo"
@@ -17137,6 +17137,36 @@
     },
     {
       "album": {
+        "name": "Hija de la noche",
+        "url": "https://open.spotify.com/album/6TN7QMJdShU7AYpKFLsG0j"
+      },
+      "artists": [
+        {
+          "name": "Nacho Estrella",
+          "url": "https://open.spotify.com/artist/3YXZurR3tGvo7sK0l2nPkA"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        },
+        {
+          "name": "Jay One",
+          "url": "https://open.spotify.com/artist/0hiQgoy7ZVqENszxzEGlWQ"
+        },
+        {
+          "name": "Diana La Miss",
+          "url": "https://open.spotify.com/artist/1ODylP2euYxmOKbQehgSef"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134814,
+      "name": "Hija de la noche",
+      "url": "https://open.spotify.com/track/5IjoO0xDE9t1GX8G3CWzQF"
+    },
+    {
+      "album": {
         "name": "Hijo D Perra",
         "url": "https://open.spotify.com/album/0NbrOKWkyZ1VNdtJeXrBgk"
       },
@@ -17824,7 +17854,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 244166,
       "name": "Impredecible",
       "url": "https://open.spotify.com/track/6RlMyEKTup093DPweRgiSB"
@@ -19152,7 +19182,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 133120,
       "name": "L NAMA",
       "url": "https://open.spotify.com/track/4P49dOJLCHJh0HPYorW5IF"
@@ -23832,7 +23862,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 105091,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
@@ -26522,6 +26552,24 @@
       "duration_ms": 126270,
       "name": "MOOD BRAZIL",
       "url": "https://open.spotify.com/track/3qF1KFidxGRqdAaSnRMT02"
+    },
+    {
+      "album": {
+        "name": "MOOD BRAZIL",
+        "url": "https://open.spotify.com/album/72ITYdwG0keGGxJyCD3wji"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "MOOD BRAZIL",
+      "url": "https://open.spotify.com/track/6G5Viv7tX2WGQ2i0aCNkkl"
     },
     {
       "album": {
@@ -31886,6 +31934,24 @@
       "duration_ms": 163000,
       "name": "Por Llamada",
       "url": "https://open.spotify.com/track/7kvWZ4slpqrJLl7oWuTqq3"
+    },
+    {
+      "album": {
+        "name": "Por Lo Mio",
+        "url": "https://open.spotify.com/album/4V2N3o3SyM2eGqPqF5jUJ7"
+      },
+      "artists": [
+        {
+          "name": "Young Pilot",
+          "url": "https://open.spotify.com/artist/5h80M7wM08FV695GDm49W9"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137704,
+      "name": "Por Lo Mio",
+      "url": "https://open.spotify.com/track/1TWIro1CUbc5suefTeA3tK"
     },
     {
       "album": {
@@ -42648,7 +42714,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 79309,
       "name": "Una Amenaza Musical",
       "url": "https://open.spotify.com/track/4ZEaLDRKSDlLt9xzhROgxH"

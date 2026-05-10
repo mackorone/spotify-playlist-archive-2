@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 377848,
+  "num_followers": 377907,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,22 @@
     {
       "added_at": "2026-05-07 20:28:55",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+        "name": "A Gl\u00f3ria da Segunda Casa, Ato 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB"
       },
       "artists": [
         {
           "name": "Flavio Vitor Jr.",
           "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Thayna Azevedo",
+          "url": "https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE"
         }
       ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+      "duration_ms": 682388,
+      "name": "Al\u00e9m da Dor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H"
     },
     {
       "added_at": "2026-05-07 20:28:55",
@@ -279,22 +283,18 @@
     {
       "added_at": "2026-05-07 20:28:55",
       "album": {
-        "name": "A Gl\u00f3ria da Segunda Casa, Ato 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB"
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
       },
       "artists": [
         {
           "name": "Flavio Vitor Jr.",
           "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Thayna Azevedo",
-          "url": "https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE"
         }
       ],
-      "duration_ms": 682388,
-      "name": "Al\u00e9m da Dor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H"
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
     },
     {
       "added_at": "2026-05-07 20:28:55",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-05-07 20:28:55",
       "album": {
-        "name": "Msh ao Teu Lado 2026",
-        "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 298155,
-      "name": "Cora\u00e7\u00e3o Ferido",
-      "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
-    },
-    {
-      "added_at": "2026-05-07 20:28:55",
-      "album": {
         "name": "Restitui",
         "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 273013,
       "name": "Restitui",
       "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
+    },
+    {
+      "added_at": "2026-05-07 20:28:55",
+      "album": {
+        "name": "Msh ao Teu Lado 2026",
+        "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 298155,
+      "name": "Cora\u00e7\u00e3o Ferido",
+      "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
     },
     {
       "added_at": "2026-05-07 20:28:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-07 20:28:55",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2026-05-07 20:28:55",
-      "album": {
         "name": "Ora\u00e7\u00e3o pela Paz",
         "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 221476,
       "name": "Ora\u00e7\u00e3o pela Paz",
       "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+    },
+    {
+      "added_at": "2026-05-07 20:28:55",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2026-05-07 20:28:55",

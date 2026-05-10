@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Lis Mc, Thalin
 
-780 songs - 1 day 16 hr 26 min
+781 songs - 1 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [O Último Profeta](https://open.spotify.com/track/5oPdfBRbGqoJtkXcYYWXYG) | [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo), [Lukas Loko](https://open.spotify.com/artist/2kWVT2K32QqCGkCaO1lmkf), [Pêpa Beatmaker](https://open.spotify.com/artist/0dfJo6kHqLEd8YYukoD5MD) | [O Último Profeta](https://open.spotify.com/album/57sdbk6BU0IIWhNDi53iPA) | 3:41 | 2022-08-12 | 2022-09-03 |
 | [obcecado](https://open.spotify.com/track/0fIX0EZUv42RYuUi8aV7TT) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ), [Ghowste](https://open.spotify.com/artist/13zBgEBkvna1JUHJ0cFMge) | [Running 2](https://open.spotify.com/album/5gOUAWYal6LKgwtVgwoB8M) | 2:03 | 2023-04-14 | 2023-05-27 |
 | [OBRIGADO MAINSTREAM](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [OBRIGADO MAINSTREAM](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:22 | 2024-05-10 | 2025-09-27 |
+| [OBRIGADO UNDERGROUND](https://open.spotify.com/track/1qOFDZfNq8KyjuHlheIefn) | [Carla Arakaki](https://open.spotify.com/artist/4ipvSgtz06mOACcEKcP8Ud), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [3AM \- Histórias de uma Madrugada](https://open.spotify.com/album/6OQkNjMwN1cci5ituLmKB6) | 1:45 | 2026-05-09 |  |
 | [Oikos](https://open.spotify.com/track/2RpB8rK0uKBywxY9LGXot0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Oikos](https://open.spotify.com/album/6LOY2yoUd7EShCFjUrFpyC) | 2:28 | 2024-03-15 | 2024-06-22 |
 | [Old Rap](https://open.spotify.com/track/2rKAfftXgnr0dmRkXmxPrJ) | [Bikera Sonora](https://open.spotify.com/artist/2LpTK3UffBph51hdXrDklL) | [Old Rap](https://open.spotify.com/album/2FcuIVnJO5Mb5hW2DRCTva) | 3:12 | 2022-07-08 | 2022-11-12 |
 | [Oldschool](https://open.spotify.com/track/6ugtvq1VRh37Ayl8JIP0iQ) | [YUNG LIXO](https://open.spotify.com/artist/6ab8tnQvr8sXXIpSZCrbQs), [Biffe](https://open.spotify.com/artist/4UqY7xfcHtpNSyLZTYKoPp), [Hakuro](https://open.spotify.com/artist/4fTFQshnBXAeU0oGbAGmjI) | [Bittersweet Memories](https://open.spotify.com/album/3lSrcatiOSMpYbT4tGPmZh) | 3:02 | 2024-04-19 | 2024-05-11 |

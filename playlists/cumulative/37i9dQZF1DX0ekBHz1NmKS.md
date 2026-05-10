@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,255 songs - 4 day 21 hr 5 min
+2,257 songs - 4 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Blindgångare](https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Blindgångare / Du är vid liv](https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV) | 3:54 | 2026-04-16 |  |
 | [Blod](https://open.spotify.com/track/7CoZ6nUpEon9JuvGGEKm3z) | [Lukas Söderholm](https://open.spotify.com/artist/6H3bChd6nBuQ7bzGzYSDqB) | [Blod](https://open.spotify.com/album/30FsiBg4znluk97LOPeDhe) | 2:55 | 2026-01-08 | 2026-03-06 |
 | [Blod svett & tårar](https://open.spotify.com/track/1fpbRrVuyJSuLK9vHp87Ax) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Blod svett & tårar](https://open.spotify.com/album/6GUav4AxhLsieczOXhc2ek) | 3:12 | 2024-05-09 | 2024-06-07 |
-| [Blodsband](https://open.spotify.com/track/62FpUQsTdZmrKuEVXyUmoP) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Blodsband](https://open.spotify.com/album/2X3hFZyFuXZ0jcjfz1NtTD) | 3:53 | 2026-02-27 |  |
+| [Blodsband](https://open.spotify.com/track/62FpUQsTdZmrKuEVXyUmoP) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Blodsband](https://open.spotify.com/album/2X3hFZyFuXZ0jcjfz1NtTD) | 3:53 | 2026-02-27 | 2026-05-10 |
 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 | 2024-05-16 | 2024-06-14 |
 | [Blommor och vin](https://open.spotify.com/track/1UzjSwv0Y4mfR0poaMXBD2) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Blommor och vin](https://open.spotify.com/album/466YolZMVkiRuWjUsCHGEr) | 3:01 | 2024-05-23 | 2024-06-21 |
 | [Blommorna på min tapet](https://open.spotify.com/track/1Ogr51K4YQisSHOwrK8Tfl) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Blommorna på min tapet](https://open.spotify.com/album/2kPi230tn7Lt9f8S4HOOWe) | 2:56 | 2023-10-19 | 2023-11-12 |
@@ -1167,6 +1167,7 @@
 | [Like I Don't Try](https://open.spotify.com/track/6TCRZsQg1e8rapnYdwM5CG) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Like I Don't Try](https://open.spotify.com/album/4RN22mc0Qts84kwfk4nsbW) | 2:35 | 2022-05-05 | 2022-07-25 |
 | [Like No One Could](https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Like No One Could](https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF) | 2:47 | 2024-05-30 | 2024-06-28 |
 | [Like The River](https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Like The River](https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ) | 2:46 | 2023-08-26 | 2024-01-19 |
+| [Lila Regn](https://open.spotify.com/track/2mBb14wDZ6FX2UHNkDkoV1) | [Adam Olenius](https://open.spotify.com/artist/5DQhpvhBgqdbDOojAxkIPO), [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Lila Regn](https://open.spotify.com/album/0ZikdnhmZ77ACkEc2GOowb) | 4:19 | 2026-05-07 |  |
 | [Lilla Fågel Blå](https://open.spotify.com/track/6dOz6Z3vJXx2T2338poGwK) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Lilla Fågel Blå](https://open.spotify.com/album/4ouppQ8BxOMAOcs1jjgBKZ) | 2:13 | 2025-08-21 | 2025-10-24 |
 | [Lilla Jag](https://open.spotify.com/track/542C5hpcUrqGHIVRhRTbqr) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Lilla Jag](https://open.spotify.com/album/7CfdeTN5Bsb9fbnZGHwrTP) | 2:20 | 2024-01-11 | 2024-03-15 |
 | [Lilla livet](https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Bastard](https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5) | 3:20 | 2025-02-06 | 2025-06-20 |
@@ -1459,7 +1460,7 @@
 | [Om du vill](https://open.spotify.com/track/4xG2nTPEzzVISmzk7sepJd) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Om du vill](https://open.spotify.com/album/6gV3WwnZQMkyiFBMTp3jTd) | 3:03 | 2024-03-14 | 2024-03-20 |
 | [Om du visste om](https://open.spotify.com/track/4ngUG0Nswt92xrvmjhaNTk) | [NESS](https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3) | [Om du visste om](https://open.spotify.com/album/2ypCfxJ9szCzpRvbCtpSE7) | 2:14 | 2024-05-02 | 2024-05-10 |
 | [Om himlen faller ner](https://open.spotify.com/track/7AVS4yQPccA0fthHXOqxTB) | [Hanna Raf](https://open.spotify.com/artist/0wJIlyUsEBrhbWh97uyqwW) | [Om himlen faller ner](https://open.spotify.com/album/7pax0m39RlOuPwOHzMnohI) | 2:58 | 2024-05-23 | 2024-06-21 |
-| [Om Igen](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:49 | 2026-03-19 |  |
+| [Om Igen](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:49 | 2026-03-19 | 2026-05-10 |
 | [Om Jag Inte Kan Leva Med Dig Varför Dör Jag Då Utan Dig](https://open.spotify.com/track/3AF9kWf3FsXv6aUzUOc5zb) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Om Jag Inte Kan Leva Med Dig Varför Dör Jag Då Utan Dig](https://open.spotify.com/album/3OUOtceoVcpY04gJcErxts) | 2:42 | 2024-04-04 | 2024-05-10 |
 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 | 2025-10-16 | 2026-01-23 |
 | [On and On](https://open.spotify.com/track/28tvB0Wj8RjpGeGW0pgE3q) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [On and On](https://open.spotify.com/album/1dHXJErcUGgS8R5Awig6VS) | 3:09 | 2024-05-16 | 2024-06-14 |
@@ -1779,6 +1780,7 @@
 | [Space](https://open.spotify.com/track/0w88RbYHwVDAbLGSJzsRa9) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Space](https://open.spotify.com/album/6KQgOvQJ1NoFUXX1BuAzfZ) | 4:02 | 2026-03-19 |  |
 | [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |
 | [SPACEBOY](https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [SPACEBOY](https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J) | 3:07 | 2025-04-03 | 2025-07-11 |
+| [Sparat bilder](https://open.spotify.com/track/4Y63RjAxXoZ8eRhnikr1Ck) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Sparat bilder](https://open.spotify.com/album/41v1i2twkMoaMs7QrYT2MH) | 2:20 | 2026-05-07 |  |
 | [Sparks](https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Sparks](https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ) | 3:34 | 2024-08-29 | 2024-09-29 |
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-23 |

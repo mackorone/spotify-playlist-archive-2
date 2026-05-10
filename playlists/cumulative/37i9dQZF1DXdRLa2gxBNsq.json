@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 180444,
       "name": "Esta es una Noche de Rock & Roll",
       "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
@@ -4272,6 +4272,24 @@
       "duration_ms": 178821,
       "name": "La Mejor Opci\u00f3n",
       "url": "https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I"
+    },
+    {
+      "album": {
+        "name": "La Prospe",
+        "url": "https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8"
+      },
+      "artists": [
+        {
+          "name": "Gautxori",
+          "url": "https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122640,
+      "name": "La Prospe",
+      "url": "https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,705 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,672 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 87 | [DOUBT](https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 4:28 |
 | 88 | [Head is Like a Sinking Stone](https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Head is Like a Sinking Stone](https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS) | 3:03 |
 | 89 | [Lay Down and Die](https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Joyride The Pale Horse](https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT) | 2:35 |
-| 90 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
-| 91 | [Bedroom Posters](https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Bedroom Posters](https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U) | 3:38 |
+| 90 | [Bedroom Posters](https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Bedroom Posters](https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U) | 3:38 |
+| 91 | [Fragile](https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Fragile](https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF) | 3:21 |
 | 92 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
 | 93 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
 | 94 | [Island in the Sun \(feat\. Cory Castro of Free Throw\)](https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Cory Castro](https://open.spotify.com/artist/0kvKmsx3dW0nEHuOYPem9w), [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Island in the Sun](https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y) | 2:29 |

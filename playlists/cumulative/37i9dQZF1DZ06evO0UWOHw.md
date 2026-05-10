@@ -4,7 +4,7 @@
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 48 min
+75 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Kolomental](https://open.spotify.com/track/3NBmsIVTPNuqsBP8VtwMPd) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 | 2025-07-19 | 2025-12-25 |
 | [Kolomental](https://open.spotify.com/track/6ve01VVzDgMKldixX6iX0i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Kolomental](https://open.spotify.com/album/7JgsLKSkDvEaErldrIW37f) | 3:17 | 2025-12-25 |  |
 | [Like Dat](https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Nataraja](https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L) | 3:07 | 2025-07-19 | 2025-11-23 |
+| [Like2 \- Part II \(with Skillibeng & Victony\)](https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl) | [CallMeTheKidd](https://open.spotify.com/artist/1q3rVmTrPa51ofrwEfC6Kc), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Like2 \- Part II \(with Skillibeng & Victony\)](https://open.spotify.com/album/1dXuMmtv9aE9H5FbpxGzPa) | 3:13 | 2026-05-10 |  |
 | [Ludo](https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:32 | 2025-07-19 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2025-07-19 |  |
 | [Margaret](https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Margaret](https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h) | 5:31 | 2025-07-19 | 2025-09-28 |
@@ -58,7 +59,7 @@
 | [My Darling](https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:13 | 2025-07-19 |  |
 | [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 | 2025-07-19 |  |
 | [No Joke](https://open.spotify.com/track/7v6BxItknmx4IokrfzamfR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/3Q32c32RgkPrul5LY9ykmq) | 2:42 | 2025-07-19 | 2025-07-28 |
-| [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 | 2025-07-19 |  |
+| [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 | 2025-07-19 | 2026-05-10 |
 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2025-07-19 | 2025-10-12 |
 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7ts6aJpWYYtzUjhcTsK1Q7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/5wcDmzuswQ31gyhCgTC7hH) | 3:25 | 2025-07-19 |  |
 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 | 2025-11-23 |  |

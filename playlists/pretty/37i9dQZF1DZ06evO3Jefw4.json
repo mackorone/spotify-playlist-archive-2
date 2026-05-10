@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1215463,
+  "num_followers": 1215551,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAADO2SXgn+CldSTTYvgE67Pf",
+  "snapshot_id": "af0ngAAAAAA9aq28K+Z5NwYI7SWj7Hj9",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Swish Swish",
-      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Calma (Remix)",
         "url": "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 181280,
       "name": "Con Calma - Remix",
       "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Swish Swish",
+      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "This Is How We Do",
-      "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 173123,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "This Is How We Do",
+      "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream - Remix EP",
-        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream - Remix EP",
+        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
     },
     {
       "added_at": null,

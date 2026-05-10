@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,576 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,588 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 13 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
 | 14 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 15 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
-| 16 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
+| 16 | [Đáng Lý Anh Nên Yêu Em Hơn](https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Mắt Nhắm Mắt Mở](https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El) | 3:00 |
 | 17 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |
-| 18 | [Đáng Lý Anh Nên Yêu Em Hơn](https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Mắt Nhắm Mắt Mở](https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El) | 3:00 |
+| 18 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
 | 19 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 |
 | 20 | [Đó Chỉ Là Thành Phố Của Anh](https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [New$oulz](https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc) | [Đó Chỉ Là Thành Phố Của Anh](https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs) | 1:34 |
 | 21 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 47 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
 | 48 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
 | 49 | [Badtrip](https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:38 |
-| 50 | [NO CHASE](https://open.spotify.com/track/1trcQKrQRIB5GlhhoHmiWN) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [NO CHASE](https://open.spotify.com/album/0aNqRNUNwwkykPMwilPczl) | 2:55 |
+| 50 | [QUAY ĐI QUAY LẠI \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [ANH TRAI "SAY HI", Chung Kết 1](https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln) | 3:30 |
 
 Snapshot ID: `AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO`

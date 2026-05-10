@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 247786,
       "name": "Lullaby For Wyatt",
       "url": "https://open.spotify.com/track/0wZsSaaEpLEycIQ03h7rTE"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 296506,
       "name": "Mother Rose",
       "url": "https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe"
@@ -1336,6 +1336,24 @@
       "duration_ms": 140466,
       "name": "Oh, Mother Of Mine - Single Version/Mono",
       "url": "https://open.spotify.com/track/15c7V7Oev2rjLUFJCnM8Fs"
+    },
+    {
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
       "album": {
@@ -1714,10 +1732,28 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 211373,
       "name": "This Angel",
       "url": "https://open.spotify.com/track/5Q9MQEOoKXaIOVqmSW8CYn"
+    },
+    {
+      "album": {
+        "name": "Revive",
+        "url": "https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267247,
+      "name": "This Is My Thank You (Mommy\u2019s Song)",
+      "url": "https://open.spotify.com/track/72xMx4bnIan9e1h4rI7wso"
     },
     {
       "album": {
@@ -1794,7 +1830,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 226465,
       "name": "Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/79YGfoagW5Z75PDvnZK5vl"

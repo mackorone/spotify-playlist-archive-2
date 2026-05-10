@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20562,
+  "num_followers": 20573,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Plain",
-        "url": "https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS"
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
         }
       ],
-      "duration_ms": 218571,
-      "name": "Madeleine Love",
-      "url": "https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ"
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+        "name": "Plain",
+        "url": "https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS"
       },
       "artists": [
         {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+      "duration_ms": 218571,
+      "name": "Madeleine Love",
+      "url": "https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Love will find a way",
-      "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Love will find a way",
+      "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
+      },
+      "artists": [
+        {
+          "name": "Hayoung Song",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Give U the Universe",
+      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
         "name": "Our Universe (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
-      },
-      "artists": [
-        {
-          "name": "Hayoung Song",
-          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Give U the Universe",
-      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Lv1",
-        "url": "https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko"
-      },
-      "artists": [
-        {
-          "name": "Yeo Jin",
-          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "My Valentine",
-      "url": "https://open.spotify.com/track/1Z9BgXNJR0TwO1AviUPr58"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "Lv1",
+        "url": "https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko"
+      },
+      "artists": [
+        {
+          "name": "Yeo Jin",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "My Valentine",
+      "url": "https://open.spotify.com/track/1Z9BgXNJR0TwO1AviUPr58"
     }
   ],
   "unique_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",

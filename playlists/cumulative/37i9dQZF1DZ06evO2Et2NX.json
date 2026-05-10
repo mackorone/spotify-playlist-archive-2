@@ -736,7 +736,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 120173,
       "name": "Slow Song",
       "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 195853,
       "name": "Was It a Lie?",
       "url": "https://open.spotify.com/track/43vktok5h1vpc5w2Iwbbqq"

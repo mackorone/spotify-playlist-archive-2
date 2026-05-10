@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 64273,
+  "num_followers": 64283,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 185244,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/1lP4paUU6RuyAmK06jLT4K"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Sweet Dream (VIVINOS - ALNST Original Soundtrack Part.2)",
         "url": "https://open.spotify.com/album/2oW6xTiZMAZa5RPRs8DjjN"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 104532,
       "name": "Sweet Dream (VIVINOS - ALNST Original Soundtrack Part.2)",
       "url": "https://open.spotify.com/track/1CM2prLdrPWypKmp8eEXik"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 185244,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/1lP4paUU6RuyAmK06jLT4K"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 191986,
       "name": "SWEET SUMMER DAY",
       "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Our love is great",
         "url": "https://open.spotify.com/album/3u7AUa79VCbxgikKvwlLyJ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 224726,
       "name": "\uc9c0\ucf1c\uc904\uac8c",
       "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "nokdu ep vol.1",
-        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "A Night Like This",
-      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "tellusboutyourself",
         "url": "https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 213466,
       "name": "Lovegame",
       "url": "https://open.spotify.com/track/6XGIDzMGmKCPKujmEoHYEx"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
+      },
+      "artists": [
+        {
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Blue City",
-        "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 231409,
-      "name": "Blue City",
-      "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "dosii",
         "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 233804,
       "name": "Orbit of yours",
       "url": "https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 231409,
+      "name": "Blue City",
+      "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Color of Night",
         "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 209156,
       "name": "Thinking About You (feat. SUMIN)",
       "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.03",
         "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 204053,
       "name": "Cocktail love",
       "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2026-04-23 02:17:51",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-23 02:17:51",
       "album": {
-        "name": "TALK",
-        "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
-      },
-      "artists": [
-        {
-          "name": "YOU DAYEON",
-          "url": "https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr"
-        }
-      ],
-      "duration_ms": 203927,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
-    },
-    {
-      "added_at": "2026-04-23 02:17:51",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
+    },
+    {
+      "added_at": "2026-04-23 02:17:51",
+      "album": {
+        "name": "TALK",
+        "url": "https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR"
+      },
+      "artists": [
+        {
+          "name": "YOU DAYEON",
+          "url": "https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr"
+        }
+      ],
+      "duration_ms": 203927,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv"
     },
     {
       "added_at": "2026-04-23 02:17:51",

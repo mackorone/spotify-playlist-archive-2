@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > madison is a lovergirl ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092,397 likes - 103 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092,272 likes - 103 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

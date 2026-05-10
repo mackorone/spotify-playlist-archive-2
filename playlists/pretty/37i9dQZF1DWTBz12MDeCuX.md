@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: VICKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,091 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,054 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 18 | [Keiner hat gesagt](https://open.spotify.com/track/1qqrD7OQGMFQysnco7ilWj) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Hassliebe](https://open.spotify.com/album/6MQkkLtxgrKRwhWCbWdLNM) | 2:26 |
 | 19 | [Alles kostet Geld \(i need a dollar\)](https://open.spotify.com/track/1f8TK4Vau9VBROy6HN9H12) | [Noah068](https://open.spotify.com/artist/4tHhsJvySEGoeqmdBso6Ur), [Leo06acht](https://open.spotify.com/artist/0b7KSOuycsAb0AoRXhHHg0) | [Alles kostet Geld \(i need a dollar\)](https://open.spotify.com/album/6ejl9xpTyPzY9t4O99bnI0) | 2:09 |
 | 20 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
-| 21 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K EP](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
+| 21 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
 | 22 | [TIPPS VON MIR](https://open.spotify.com/track/3RCcyUsV7Tqb6bJVFdlz55) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [TIPPS VON MIR](https://open.spotify.com/album/59l3DGO3ClmPgrX5pNssEL) | 2:15 |
 | 23 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 24 | [Ohne Dach](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 2:19 |

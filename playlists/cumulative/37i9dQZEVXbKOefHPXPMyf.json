@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 540114,
       "name": "Aparto Todo",
       "url": "https://open.spotify.com/track/0vvqnyFB7jGUQm26hrt9hy"
@@ -13308,7 +13308,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 151967,
       "name": "CANAIMA",
       "url": "https://open.spotify.com/track/1PqEsoekuO7LmxQC0ybQ3z"
@@ -16992,6 +16992,52 @@
       "duration_ms": 205740,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6r5brE2CxcV10ezqzPTji7"
+    },
+    {
+      "album": {
+        "name": "Como Pablo",
+        "url": "https://open.spotify.com/album/0yrc3YRTNYzdOWrFlnudJ6"
+      },
+      "artists": [
+        {
+          "name": "Staar Watson",
+          "url": "https://open.spotify.com/artist/0kKtbMV7UCjoGqZK9F7pXn"
+        },
+        {
+          "name": "Daniel Castro",
+          "url": "https://open.spotify.com/artist/6frPaFExVlZlfhJKOr4mi6"
+        },
+        {
+          "name": "El Fara",
+          "url": "https://open.spotify.com/artist/2hCrqRrnQi6PyVc6TVqSLe"
+        },
+        {
+          "name": "Carlos Cordero",
+          "url": "https://open.spotify.com/artist/1BPSehApxg5JCnTH4TPHxI"
+        },
+        {
+          "name": "Atc OTB",
+          "url": "https://open.spotify.com/artist/5xmYyrp30AMcPBOVisSzNe"
+        },
+        {
+          "name": "El Galan",
+          "url": "https://open.spotify.com/artist/6Asstg1QS3grxculqwV1MN"
+        },
+        {
+          "name": "Dollah",
+          "url": "https://open.spotify.com/artist/08ZmiA0BzgWkjoA7u30sW5"
+        },
+        {
+          "name": "Dorian Ampie",
+          "url": "https://open.spotify.com/artist/7B6ihAIQ58KBbvtml9LLz7"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435988,
+      "name": "Como Pablo",
+      "url": "https://open.spotify.com/track/4RRpVpu5cFA7mxyuwfh4iv"
     },
     {
       "album": {
@@ -47022,7 +47068,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 150812,
       "name": "Machista",
       "url": "https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY"
@@ -52300,7 +52346,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
@@ -68550,7 +68596,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
@@ -69886,7 +69932,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 293960,
       "name": "Secretos de Mujer",
       "url": "https://open.spotify.com/track/0buo1bWX78IVsnQwhOLXcV"
@@ -76420,6 +76466,28 @@
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/41J20QpusXwXJmrsIKKyez"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/7rbUoVsxRtX2t5nzXhJcX0"
     },
     {
       "album": {
@@ -88131,6 +88199,24 @@
     },
     {
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
       },
@@ -89466,7 +89552,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 166025,
       "name": "Yalla FG",
       "url": "https://open.spotify.com/track/7cW3kzMwgWKRF9AuYp57w2"

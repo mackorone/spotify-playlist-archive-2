@@ -4,7 +4,7 @@
 
 > 
 
-2,409 songs - 5 day 9 hr 33 min
+2,410 songs - 5 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2268,6 +2268,7 @@
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 |  |
 | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-23 |  |
 | [Von dutch remix with skream & benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38) | [Von dutch remix with skream & benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-04-22 |  |
+| [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 | 2026-05-09 |  |
 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 | 2025-01-10 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2021-08-05 |  |
 | [Vuk Vuk](https://open.spotify.com/track/4QUb9n7gFsDAmfBahFBFWK) | [VXEL](https://open.spotify.com/artist/4iaNizg8r7g1pi2dexE4Hc) | [Vuk Vuk](https://open.spotify.com/album/2uD8VYHFQN9Lr5jgz9lcLB) | 2:37 | 2026-01-30 |  |

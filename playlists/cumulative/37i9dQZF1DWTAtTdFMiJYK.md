@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Sameer Rahat
+> Most exciting artists from the Indian Indie scene\. Cover: Janisht Joshi
 
-430 songs - 1 day 0 hr 7 min
+432 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 | 2025-03-10 |  |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2024-01-10 |  |
 | [Aasmani](https://open.spotify.com/track/1cnYfIyxflsgDQz3ND5WWf) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aasmani](https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN) | 3:19 | 2026-03-03 |  |
+| [Ab Na Laut Paayenge](https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:02 | 2026-05-10 |  |
 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 | 2025-12-03 | 2026-01-15 |
 | [Adhoora](https://open.spotify.com/track/5uUvWtVugbC9V2WO0HRdjD) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Tiny Truths](https://open.spotify.com/album/16esmkd0g0tOElJUS0I5eK) | 3:04 | 2025-12-03 | 2026-01-15 |
 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 | 2026-02-20 | 2026-04-02 |
@@ -64,6 +65,7 @@
 | [Bazaar](https://open.spotify.com/track/5oNFYKJEIhdUUg9CEsyEQS) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt.2 \| Maazi](https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Be Alright](https://open.spotify.com/track/543Bseh8jEwo0WGXX1CnuS) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Be Alright](https://open.spotify.com/album/5bXKOBmX9KFO5mB83SSPBq) | 3:01 | 2021-12-06 | 2022-01-11 |
 | [Be Easy](https://open.spotify.com/track/385HQiCjv8SupdPX2XAX8e) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Be Easy](https://open.spotify.com/album/41nTEAqZy01P9q6XTxYNlK) | 2:59 | 2021-12-06 | 2022-01-11 |
+| [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/2BYoB76uqCsFYW2kTd3tBc) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 | 2026-05-10 |  |
 | [Bechaini](https://open.spotify.com/track/6f18ZZhJnm1rMxaATYWQ2g) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Adarsh Gourav](https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj) | [Bechaini](https://open.spotify.com/album/3NrPok10d8tNHitQnRM4yP) | 2:42 | 2024-04-02 | 2025-04-23 |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-08-02 | 2023-04-11 |
 | [Beqaabu](https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Beqaabu](https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg) | 2:14 | 2024-05-10 | 2026-02-06 |
@@ -240,7 +242,7 @@
 | [Kyun Ho Jaate Ho Door](https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Kyun Ho Jaate Ho Door](https://open.spotify.com/album/1EM3mEUMGkA46gTbmpJ2lN) | 2:50 | 2022-01-10 | 2022-02-01 |
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-10 | 2023-11-30 |
 | [Last December](https://open.spotify.com/track/4BV7aMOMZYc9PfV5jW3R7j) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Hades.](https://open.spotify.com/artist/0Wt5CU3KrmoSgQbzHjioNQ) | [Last December](https://open.spotify.com/album/7B7QS4DmYKplXtK6EJhoEg) | 3:19 | 2021-12-06 | 2022-03-22 |
-| [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-02-10 |  |
+| [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-02-10 | 2026-05-10 |
 | [Lazeez](https://open.spotify.com/track/4mUhdsCpbiIJ8d0iPFmJeL) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Lazeez](https://open.spotify.com/album/4ssEr8PGrOhPXoccbgiQHF) | 3:11 | 2024-12-04 | 2025-01-10 |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2022-07-08 | 2024-01-11 |
 | [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 | 2022-01-10 | 2022-09-10 |
@@ -274,7 +276,7 @@
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-07-11 | 2023-11-30 |
 | [Na Tha Woh Pyaar](https://open.spotify.com/track/6LwZHHF4DDTZH3ZKlSkcsy) | [Riya Duggal](https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET) | [Na Tha Woh Pyaar](https://open.spotify.com/album/0N9HUA1kNmZhHvgwSv7HVk) | 3:38 | 2023-08-29 | 2024-02-21 |
 | [Na Tum Saamne](https://open.spotify.com/track/1oCkc96iBiOiyydlbiHRGE) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Na Tum Saamne](https://open.spotify.com/album/5TACPWAxlXxjGPIKbHOYA9) | 3:00 | 2021-12-06 | 2022-01-11 |
-| [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-10 |  |
+| [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-10 | 2026-05-10 |
 | [Nadi](https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadi](https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H) | 3:26 | 2025-04-08 | 2026-02-06 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-10-05 | 2025-03-11 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-10 |  |

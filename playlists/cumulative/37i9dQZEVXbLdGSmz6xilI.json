@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -8628,7 +8628,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -17624,7 +17624,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 215901,
       "name": "Ng\u01b0\u1eddi \u0110\u1ea7u Ti\u00ean",
       "url": "https://open.spotify.com/track/3dbfL7nHOZlM4adzLHNnB3"
@@ -18406,7 +18406,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -24702,7 +24702,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 178000,
       "name": "Th\u00edch Qu\u00e1 R\u00f9i N\u00e0",
       "url": "https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75"
@@ -24924,7 +24924,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -26249,6 +26249,24 @@
     },
     {
       "album": {
+        "name": "T\u1ec7 H\u1ea1i V\u00e0 X\u1ea5u X\u00ed",
+        "url": "https://open.spotify.com/album/7Hr0lNAFIeNNCA4PLLS0Hn"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "T\u1ec7 H\u1ea1i V\u00e0 X\u1ea5u X\u00ed",
+      "url": "https://open.spotify.com/track/6rEWOmyRZwZ4Aouth1YBSX"
+    },
+    {
+      "album": {
         "name": "T\u1ec7 Th\u1eadt, Anh Nh\u1edb Em",
         "url": "https://open.spotify.com/album/4kQw3hVJN1dNorjie6wObf"
       },
@@ -27030,7 +27048,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -27486,7 +27504,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 184520,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/3dCdcURa0Kk5UWXRY00HQy"
@@ -28046,10 +28064,32 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
+    },
+    {
+      "album": {
+        "name": "Wrong Times",
+        "url": "https://open.spotify.com/album/6GoA973oLxUPKeX1wWKsdu"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Wrong Times",
+      "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"
     },
     {
       "album": {
@@ -29388,7 +29428,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 198145,
       "name": "\u0111\u00f4i m\u1eaft k\u1ebb t\u00ecnh si",
       "url": "https://open.spotify.com/track/3vSmjbKFByNM6l31NmFlmB"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12798,
+  "num_followers": 12799,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAABcwqckUfygcpM1dUAW2zkN",
+  "snapshot_id": "af0ngAAAAABDkgxQOtDh2DX3COBZ8aJo",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendary Lou Rawls",
         "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 272413,
-      "name": "If I Coulda, Woulda, Shoulda",
-      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+      "duration_ms": 231653,
+      "name": "Not the Staying Kind",
+      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Not the Staying Kind",
-      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 293213,
       "name": "Sit Down and Talk to Me",
       "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 278946,
       "name": "Ain't That Loving You (For More Reasons Than One)",
       "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Be Anything (But Be Mine)",
+      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Be Anything (But Be Mine)",
-      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     },
     {
       "added_at": null,
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
       },
       "artists": [
         {
@@ -708,25 +724,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "We Understand Each Other",
-      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+      "duration_ms": 199573,
+      "name": "Georgia On My Mind - Remastered 2006",
+      "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tobacco Road",
-        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Georgia On My Mind - Remastered 2006",
-      "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
+      "duration_ms": 256160,
+      "name": "We Understand Each Other",
+      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
     },
     {
       "added_at": null,

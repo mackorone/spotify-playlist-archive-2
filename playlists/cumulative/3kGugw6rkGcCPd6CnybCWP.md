@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-352 songs - 20 hr 21 min
+353 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [The Anchor](https://open.spotify.com/track/0clMXe1bOcuX6uxlRrQ2OM) | [Richy McLoughlin](https://open.spotify.com/artist/2Zhk3KjyBwtA4jzgo8dFXy) | [Ultradian](https://open.spotify.com/album/08licc707KeCqg7jsXWOWB) | 2:46 | 2026-05-05 |  |
 | [The Axe And The Tree](https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [The Axe And The Tree](https://open.spotify.com/album/0RtdVvj5nOgkx9tDdoJeq0) | 3:50 | 2025-10-29 | 2026-01-17 |
 | [The Battlefield](https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:42 | 2026-01-23 | 2026-03-10 |
+| [The Cost of Loving](https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ) | 3:25 | 2026-05-09 |  |
 | [the edge](https://open.spotify.com/track/1qap8YYPjmzGLAIV4oeDm1) | [gracyn blu](https://open.spotify.com/artist/6u9vFlNKeUTJQcHCwJX8qN) | [the edge](https://open.spotify.com/album/2jf4GbLG7k8pYmq7uwB6N3) | 3:11 | 2026-04-24 |  |
 | [The Endless Road](https://open.spotify.com/track/2VanWVfCTkKfP3pFGAPdzj) | [La Marti](https://open.spotify.com/artist/54APiQm3k38o1R11DK1GkV) | [LOOP](https://open.spotify.com/album/6CwPqLs2ZG7oAqGj7DDpzS) | 3:15 | 2025-10-24 | 2025-12-12 |
 | [The Immortal Man](https://open.spotify.com/track/5ph8vrJG60fZ5s4kp4SlrQ) | [Euan Merchill](https://open.spotify.com/artist/2IgZ6614NLgSh7SUv55fDz) | [The Immortal Man](https://open.spotify.com/album/10MDJ4CXiHCfZxX5O7ROEE) | 1:27 | 2025-11-15 | 2026-01-17 |

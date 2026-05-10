@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 694394,
+  "num_followers": 694477,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dance AM",
         "url": "https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "In the Presence of Nothing",
+        "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
+      },
+      "artists": [
+        {
+          "name": "Lilys",
+          "url": "https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj"
+        }
+      ],
+      "duration_ms": 418866,
+      "name": "Elizabeth Colour Wheel",
+      "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -1347,34 +1363,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In the Presence of Nothing",
-        "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
+        "name": "Souvenirs d'un autre monde",
+        "url": "https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf"
       },
       "artists": [
         {
-          "name": "Lilys",
-          "url": "https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj"
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
         }
       ],
-      "duration_ms": 418866,
-      "name": "Elizabeth Colour Wheel",
-      "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Today (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Tugboat",
-      "url": "https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb"
+      "duration_ms": 368626,
+      "name": "Souvenirs d'un autre monde",
+      "url": "https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Today (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Tugboat",
+      "url": "https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 204373,
       "name": "Dark Spring",
       "url": "https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Les voyages de l'\u00e2me",
-        "url": "https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 350320,
-      "name": "Autre temps",
-      "url": "https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1443,6 +1443,22 @@
       "duration_ms": 248242,
       "name": "Sure - Robin Guthrie remix",
       "url": "https://open.spotify.com/track/5n23n1Vd5din4eKMjpbKQ0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Les voyages de l'\u00e2me",
+        "url": "https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 350320,
+      "name": "Autre temps",
+      "url": "https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Shelter (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 390026,
-      "name": "Into the Waves",
-      "url": "https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Shelter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 390026,
+      "name": "Into the Waves",
+      "url": "https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1571,22 +1587,6 @@
       "duration_ms": 190160,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Souvenirs d'un autre monde",
-        "url": "https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 368626,
-      "name": "Souvenirs d'un autre monde",
-      "url": "https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2103,8 +2103,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Tremolo",
-        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
       "artists": [
         {
@@ -2112,9 +2112,9 @@
           "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 293840,
-      "name": "Swallow (EP Version)",
-      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
+      "duration_ms": 141040,
+      "name": "Soft as Snow (But Warm Inside)",
+      "url": "https://open.spotify.com/track/06kqVxin2I9UDejcTUFqIl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2183,8 +2183,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
       },
       "artists": [
         {
@@ -2192,9 +2192,9 @@
           "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 141040,
-      "name": "Soft as Snow (But Warm Inside)",
-      "url": "https://open.spotify.com/track/06kqVxin2I9UDejcTUFqIl"
+      "duration_ms": 293840,
+      "name": "Swallow (EP Version)",
+      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
     },
     {
       "added_at": "2021-06-03 02:39:04",

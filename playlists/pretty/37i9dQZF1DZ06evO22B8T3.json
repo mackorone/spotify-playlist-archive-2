@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308722,
+  "num_followers": 1308766,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAVQnoSUK/OGIsmjrcDdSVS",
+  "snapshot_id": "af0ngAAAAAB79wkJTbYrhCtUtPO+P+eQ",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo (feat. Paulo Londra)",
-      "url": "https://open.spotify.com/track/7AyWQEgFHVM5EVQqggX78M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flashbacks | CROSSOVER #9",
         "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 182871,
       "name": "Flashbacks | CROSSOVER #9",
       "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo (feat. Paulo Londra)",
+      "url": "https://open.spotify.com/track/7AyWQEgFHVM5EVQqggX78M"
     },
     {
       "added_at": null,

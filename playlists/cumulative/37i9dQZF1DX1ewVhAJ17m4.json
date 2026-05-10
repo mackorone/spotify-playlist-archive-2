@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: New Found Glory",
+  "description": "All the best new songs from the pop punk scene. Cover: Koyo",
   "name": "Pop Punk's Not Dead",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 203426,
       "name": "2005",
       "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Barely Here",
+        "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Barely Here",
+      "url": "https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF"
+    },
+    {
+      "album": {
         "name": "Best Kept Secret",
         "url": "https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
@@ -1068,6 +1086,24 @@
       "duration_ms": 208168,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
+    },
+    {
+      "album": {
+        "name": "Blame It On The Youth",
+        "url": "https://open.spotify.com/album/2QVW72PmqC1a96v2qIcDie"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191461,
+      "name": "Blame It On The Youth",
+      "url": "https://open.spotify.com/track/1qsYl35llY6dKDUpkNbKDL"
     },
     {
       "album": {
@@ -1754,7 +1790,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 90860,
       "name": "cross my heart",
       "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 191614,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI"
@@ -2150,6 +2186,24 @@
       "duration_ms": 237737,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/4FXIE9hlvdvOkL2ftXG3d9"
+    },
+    {
+      "album": {
+        "name": "Dissolve Me",
+        "url": "https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6"
     },
     {
       "album": {
@@ -3030,7 +3084,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 154189,
       "name": "FEAR OF HEIGHTS",
       "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
@@ -4141,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223416,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
+    },
+    {
+      "album": {
         "name": "Hold Me in the Moonlight",
         "url": "https://open.spotify.com/album/0vcCGF90qepcm2jmbtCNEi"
       },
@@ -4282,7 +4354,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 178217,
       "name": "HOW 2 GET AWAY WITH MURDER",
       "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
@@ -5090,7 +5162,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
@@ -5246,6 +5318,24 @@
       "duration_ms": 145735,
       "name": "KILL[H]ER",
       "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206867,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty"
     },
     {
       "album": {
@@ -6132,7 +6222,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
@@ -6400,6 +6490,28 @@
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
+      "album": {
+        "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Sumerian Pictures",
+          "url": "https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222550,
+      "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
+      "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
     },
     {
       "album": {
@@ -7455,6 +7567,24 @@
     },
     {
       "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1UNCJRUv1EaH5UyrFwp3lV"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165356,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/51RQPNS0oOD0aWyjs7L5s3"
+    },
+    {
+      "album": {
         "name": "SABOTAGE//",
         "url": "https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e"
       },
@@ -8200,7 +8330,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
@@ -8710,7 +8840,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 172510,
       "name": "SUCKERPUNCH",
       "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
@@ -8952,7 +9082,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
@@ -9104,6 +9234,24 @@
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo"
+    },
+    {
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "album": {
@@ -9331,6 +9479,24 @@
     },
     {
       "album": {
+        "name": "The Worst Thing I've Ever Done",
+        "url": "https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197332,
+      "name": "The Worst Thing I've Ever Done",
+      "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
+    },
+    {
+      "album": {
         "name": "flare guns in the living room",
         "url": "https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1"
       },
@@ -9436,7 +9602,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 204815,
       "name": "This Is Teamwork!",
       "url": "https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY"
@@ -9682,6 +9848,24 @@
       "duration_ms": 154142,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/758nO1KOUiGEjnkGZqDHNX"
+    },
+    {
+      "album": {
+        "name": "I Think I've Heard This Before",
+        "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
     },
     {
       "album": {
@@ -10042,7 +10226,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 208640,
       "name": "Watch The Fire",
       "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
@@ -10410,7 +10594,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 178837,
       "name": "WORLD vs PEACE",
       "url": "https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx"
@@ -10461,6 +10645,24 @@
     },
     {
       "album": {
+        "name": "Wrist",
+        "url": "https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD"
+      },
+      "artists": [
+        {
+          "name": "Like Roses",
+          "url": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202911,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz"
+    },
+    {
+      "album": {
         "name": "X's For Eyes",
         "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
       },
@@ -10490,7 +10692,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"

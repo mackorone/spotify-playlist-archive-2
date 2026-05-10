@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > manifest x Ajda Pekkan ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,551 likes - 153 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,583 likes - 153 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 71 | [Yıllarım Ağlar](https://open.spotify.com/track/2c21mKFKkqb3IWnf4OI3Cn) | [Şeref Altınbaş](https://open.spotify.com/artist/6qrc1ONF5drjqkdDJszaF4) | [Yıllarım Ağlar](https://open.spotify.com/album/6gpE1ql8U9H2sbUmIQUTRj) | 3:37 |
 | 72 | [İhtimalsiz](https://open.spotify.com/track/3gWLtPJyrLS938AIYEquCu) | [Nur Bal](https://open.spotify.com/artist/4C0FBerSEmtJZBHN3knRmE) | [İhtimalsiz](https://open.spotify.com/album/1EVKhLOJFlnHtwvmYj46Cf) | 2:58 |
 | 73 | [Giderken \- Hamam Sessions](https://open.spotify.com/track/2lx03bPBITCalfVnGhjbZq) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Giderken \(Hamam Sessions\)](https://open.spotify.com/album/3afwOBcofM92OEtHh4E8J8) | 2:36 |
-| 74 | [Aşka Mahkum](https://open.spotify.com/track/4oljmh8kucH7xiwYidLEFz) | [Vildan Demir](https://open.spotify.com/artist/4vVQT27AxqxfJG5CSo6q0l), [Genco Arı](https://open.spotify.com/artist/58PCTeH2HDJNLkLwAwEeMu) | [Aşka Mahkum](https://open.spotify.com/album/6Jvp9N02t5VrsDu308TBcx) | 2:59 |
+| 74 | [Aşka Mahkum](https://open.spotify.com/track/4oljmh8kucH7xiwYidLEFz) | [Vildan Demir](https://open.spotify.com/artist/4vVQT27AxqxfJG5CSo6q0l) | [Aşka Mahkum](https://open.spotify.com/album/6Jvp9N02t5VrsDu308TBcx) | 2:59 |
 | 75 | [Kars'a Giderim](https://open.spotify.com/track/6QZClMtseEodkVbbBXeiLS) | [Oguz Aksaç](https://open.spotify.com/artist/0rs9X2h1jre7d0DdhPznzy) | [Kars'a Giderim](https://open.spotify.com/album/5nkUVe0KKlcrvjolOFRjII) | 3:26 |
 | 76 | [Tükenişe 5 Kala](https://open.spotify.com/track/7HtvJkTo9ueZXMBtbG5tUS) | [Arcey](https://open.spotify.com/artist/1BuFHkAVu3ggtHK4UCc2Xz) | [Tükenişe 5 Kala](https://open.spotify.com/album/5VCYeddS7J8oszoehCbNaW) | 2:09 |
 | 77 | [Paranoya](https://open.spotify.com/track/5wVR7K7lBTsEdoRzw0stSS) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [Paranoya](https://open.spotify.com/album/0ZXuCQMg7IlCB9sD9y4aF0) | 3:25 |

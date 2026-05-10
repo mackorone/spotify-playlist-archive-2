@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 483 songs - 1 day 3 hr 44 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 485 songs - 1 day 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,5 +491,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 481 | [yatsumeana](https://open.spotify.com/track/3mjDAKJ5wQeX3Qv2Jt3Uv3) | [XxXX](https://open.spotify.com/artist/6rimWLdviDbddrg9rmY88B) | [xxxx](https://open.spotify.com/album/7wNj1HwSTYsoCYKya1kZah) | 3:41 |
 | 482 | [パメラ](https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [パメラ](https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl) | 3:16 |
 | 483 | [Lotus eater \(feat\. Kaai Yuki\)](https://open.spotify.com/track/6oGEsHXy2eo8KOmHZGDIJq) | [Aoris](https://open.spotify.com/artist/3BHZU0TPDSxlbKFHflct6W), [Yuki Kaai](https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS) | [Lotus eater \(feat\. Kaai Yuki\)](https://open.spotify.com/album/1THxmV6O2zynUuZwyvptou) | 2:42 |
+| 484 | [Cubibibibism](https://open.spotify.com/track/7sh0ZVMLYh44tuFWHxLIA9) | [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K) | [Cubibibibism](https://open.spotify.com/album/2dWB8ZDmHav9YpD0snjXDW) | 3:23 |
+| 485 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
 
-Snapshot ID: `AAAKK1YX4XX8smciQKi3mJ3M36LMhqcD`
+Snapshot ID: `AAAKLRpGiKAjEgaXysY0eVyrIlktBd9S`

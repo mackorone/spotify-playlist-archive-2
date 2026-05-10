@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 63481,
+  "num_followers": 63492,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACbJfOFoD8r2hDNX9qXA+yr",
+  "snapshot_id": "af0ngAAAAAASlcdMqkPIMSUVWZ51GvaM",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revenger",
+        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 220227,
+      "name": "Revenger",
+      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 245137,
       "name": "Circle The Drain",
       "url": "https://open.spotify.com/track/61nq0jg2PYWxUUiarofGBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenger",
-        "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 220227,
-      "name": "Revenger",
-      "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Blood, the Sweat, the Tears",
+      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cancer Culture",
         "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
       },
@@ -227,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
@@ -236,9 +252,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 251000,
-      "name": "The Blood, the Sweat, the Tears",
-      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+      "duration_ms": 430540,
+      "name": "Now We Die",
+      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
     },
     {
       "added_at": null,
@@ -263,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 430540,
-      "name": "Now We Die",
-      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blackening",
         "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 542586,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
+      "duration_ms": 447373,
+      "name": "Hallowed Be Thy Name",
+      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
     },
     {
       "added_at": null,
@@ -352,25 +352,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 447373,
-      "name": "Hallowed Be Thy Name",
-      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 373533,
-      "name": "A Thousand Lies",
-      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
+      "duration_ms": 542586,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
     },
     {
       "added_at": null,
@@ -387,6 +371,22 @@
       "duration_ms": 246405,
       "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
       "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 373533,
+      "name": "A Thousand Lies",
+      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 374666,
-      "name": "None but My Own",
-      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The More Things Change...",
         "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 259693,
       "name": "Take My Scars",
       "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 374666,
+      "name": "None but My Own",
+      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
     },
     {
       "added_at": null,

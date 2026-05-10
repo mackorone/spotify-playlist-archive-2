@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Ultraligera.",
-  "num_followers": 615043,
+  "num_followers": 615058,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "28.000 pu\u00f1aladas",
         "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 305253,
       "name": "Que se joda el viento",
       "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Un Encuentro",
-        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
       "artists": [
         {
-          "name": "Triana",
-          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
         }
       ],
-      "duration_ms": 263506,
-      "name": "Tu frialdad",
-      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+        "name": "Un Encuentro",
+        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
       },
       "artists": [
         {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
         }
       ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+      "duration_ms": 263506,
+      "name": "Tu frialdad",
+      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
     },
     {
       "added_at": "2026-05-07 22:01:19",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-07 22:01:19",
       "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
-    },
-    {
-      "added_at": "2026-05-07 22:01:19",
-      "album": {
         "name": "No creo en Dios",
         "url": "https://open.spotify.com/album/4FtSAiTBNy554mHZniF0Se"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 244781,
       "name": "No creo en Dios",
       "url": "https://open.spotify.com/track/1VZKxaYZxp8ZeKoxvGWVKF"
+    },
+    {
+      "added_at": "2026-05-07 22:01:19",
+      "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2026-05-07 22:01:19",

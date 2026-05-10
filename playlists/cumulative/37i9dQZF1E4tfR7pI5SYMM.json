@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, Lockjaw, photophor and more",
+  "description": "With photophor, SCHANZ, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/7kWWrsgkFTFu6eLG7dsIcK"
+      },
+      "artists": [
+        {
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6weDVdY346n0liJh7nZMPt"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350550,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/5gHTQtxMmciidB2JyuUvrS"
+    },
+    {
+      "album": {
         "name": "At the End of the Day",
         "url": "https://open.spotify.com/album/1UCZiXy6XABplmGjexDTox"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -3388,6 +3406,28 @@
       "duration_ms": 246112,
       "name": "Fra Aska",
       "url": "https://open.spotify.com/track/2pXhs4tYZVq6WWrxuo263c"
+    },
+    {
+      "album": {
+        "name": "Freaky Ho's",
+        "url": "https://open.spotify.com/album/7t0zFeVpSXHaAe8ali6gSN"
+      },
+      "artists": [
+        {
+          "name": "Ethan D Henry",
+          "url": "https://open.spotify.com/artist/6EhfFqDuSEAUaKrZAsGIrn"
+        },
+        {
+          "name": "Turt1e",
+          "url": "https://open.spotify.com/artist/6cgIwUR82SXOHtwXlrVPwH"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168882,
+      "name": "Freaky Ho's",
+      "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
     },
     {
       "album": {
@@ -3756,7 +3796,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 228000,
       "name": "Have a Gray Day",
       "url": "https://open.spotify.com/track/4Ehz4xfWds0AZiqpy30Wca"
@@ -4556,7 +4596,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -5030,6 +5070,28 @@
       "duration_ms": 256584,
       "name": "Light years",
       "url": "https://open.spotify.com/track/3KrIyUCo9j6sdeYOYcXbTY"
+    },
+    {
+      "album": {
+        "name": "Lights Off",
+        "url": "https://open.spotify.com/album/46LXKRiYvxNcmuRFJmJ4rO"
+      },
+      "artists": [
+        {
+          "name": "Contre Soir\u00e9e",
+          "url": "https://open.spotify.com/artist/0N1qST3QWmJUj5CwiE1jt0"
+        },
+        {
+          "name": "Blind Delon",
+          "url": "https://open.spotify.com/artist/6IFtN53KWskqBgrW1Adf7X"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/2DTvF19LmCRXLfCRISObOq"
     },
     {
       "album": {
@@ -5614,7 +5676,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -6884,7 +6946,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 217295,
       "name": "Painting Princess",
       "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
@@ -7104,7 +7166,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7888,7 +7950,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 319590,
       "name": "Sera-(The Dance of War)",
       "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
@@ -9085,6 +9147,24 @@
     },
     {
       "album": {
+        "name": "No Music for the Masses",
+        "url": "https://open.spotify.com/album/4ZljwnnmEhokWroGBnBXMO"
+      },
+      "artists": [
+        {
+          "name": "photophor",
+          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239091,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/0Ien9pFAby07quhFlYOJ4P"
+    },
+    {
+      "album": {
         "name": "Knots & Chains",
         "url": "https://open.spotify.com/album/4pU4iCDJArAmiwZittcWHA"
       },
@@ -9934,7 +10014,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -10646,7 +10726,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 85697,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6JatgJTf5P1sO1rQau2Gdy"
@@ -10766,7 +10846,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "W moim domu",
       "url": "https://open.spotify.com/track/6qhiwl4ATbo4ZF9HYLU6X4"
@@ -10784,7 +10864,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 288589,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7izAW4fnV2JblrOnLzviWi"

@@ -5987,6 +5987,32 @@
     },
     {
       "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/6Cs0lyPKkDhlbCdv2qtSzr"
+      },
+      "artists": [
+        {
+          "name": "Pokeyz",
+          "url": "https://open.spotify.com/artist/2orq9ChRxP41i7nkFpSxUS"
+        },
+        {
+          "name": "Kratos",
+          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
+        },
+        {
+          "name": "Bloomee",
+          "url": "https://open.spotify.com/artist/5T6xdgI1e9Gzfek5HVes5W"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155225,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2xfyv0R1uKru1oiA68fThB"
+    },
+    {
+      "album": {
         "name": "Kickdown & Friends",
         "url": "https://open.spotify.com/album/5fQ9f3cdfbq2fXw99LRyhk"
       },

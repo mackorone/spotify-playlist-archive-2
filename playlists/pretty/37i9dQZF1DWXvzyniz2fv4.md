@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,769 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,765 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 35 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
 | 36 | [AIRBNB](https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [AIRBNB](https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x) | 2:26 |
 | 37 | [Amor Não Sai de Moda](https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP) | [LUKA](https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Malu Original](https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY), [Arthur Martiins](https://open.spotify.com/artist/5sKb333g6csR2GXkhyw0UX) | [Amor Não Sai de Moda](https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB) | 3:36 |
-| 38 | [Bateu Saudade](https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bateu Saudade](https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621) | 3:50 |
-| 39 | [Tira, Coloca De Volta](https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Tira, Coloca De Volta](https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE) | 2:24 |
-| 40 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
+| 38 | [Tira, Coloca De Volta](https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Tira, Coloca De Volta](https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE) | 2:24 |
+| 39 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
+| 40 | [Bateu Saudade](https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bateu Saudade](https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621) | 3:50 |
 | 41 | [Luz da Lua](https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 3:35 |
 | 42 | [Dias de Luta Dias de Glória](https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Dias de Luta Dias de Glória](https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8) | 2:17 |
 | 43 | [Eles Não Querem](https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Eles Não Querem](https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215) | 3:46 |

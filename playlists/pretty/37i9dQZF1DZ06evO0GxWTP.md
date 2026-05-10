@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,438 likes - 28 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,457 likes - 28 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 |
-| 2 | [Harder Dan Ik Spenden Kan](https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Harder Dan Ik Spenden Kan](https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6) | 2:35 |
-| 3 | [Boevenpad](https://open.spotify.com/track/7M8oLiR9q2He0mnJVLYYYj) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 1:57 |
+| 2 | [Boevenpad](https://open.spotify.com/track/7M8oLiR9q2He0mnJVLYYYj) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 1:57 |
+| 3 | [Harder Dan Ik Spenden Kan](https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Harder Dan Ik Spenden Kan](https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6) | 2:35 |
 | 4 | [In De Olie](https://open.spotify.com/track/7pZRkJjCXGwP2h59EfFZxy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [In De Olie](https://open.spotify.com/album/0qlqsjGYkJvx7GIALA9ZDn) | 2:14 |
 | 5 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
 | 6 | [Huisfeestje](https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Huisfeestje](https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF) | 2:29 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 27 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 |
 | 28 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 
-Snapshot ID: `afvWAAAAAAA3D4iVkunFr0/4oaiSxpqJ`
+Snapshot ID: `af0ngAAAAACgC/ykXlBE0PgEpJIH7b6O`

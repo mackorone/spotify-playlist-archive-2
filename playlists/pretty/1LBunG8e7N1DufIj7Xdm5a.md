@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,429 songs - 9 day 20 hr 8 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,432 songs - 9 day 20 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4419,7 +4419,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4409 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:08 |
 | 4410 | [Golden Summer Wave](https://open.spotify.com/track/70GJMcoOV4yA1uJ5AVqaAS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Golden Summer Wave](https://open.spotify.com/album/72swxV7f8P4hJNuCN1p9Ei) | 2:49 |
 | 4411 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
-| 4412 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 |
+| 4412 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:40 |
 | 4413 | [Coffee in Barcelona](https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Barcelona](https://open.spotify.com/album/1ykrKt162d6k4QYCYEUO58) | 3:48 |
 | 4414 | [Kikiri](https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Quobo blessing](https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q) | [Kikiri](https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE) | 2:09 |
 | 4415 | [TENDENCIA](https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [TENDENCIA](https://open.spotify.com/album/0FUyjX0GbIMMsZi9DUPLQR) | 2:12 |
@@ -4437,5 +4437,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4427 | [All For You \- Radio Edit](https://open.spotify.com/track/6qBRb8iTUDsGTG4sKjsXCb) | [Wizherd](https://open.spotify.com/artist/15jWXXO0ak2h8ghq57jsBu) | [All For You \(Radio Edit\)](https://open.spotify.com/album/2fzjIqftxuaTQFvD4mU4aI) | 1:54 |
 | 4428 | [Broken Halo](https://open.spotify.com/track/07m65vDnp9nyg0M3svezos) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Broken Halo](https://open.spotify.com/album/3rA4nFGj402ZObYu82odH3) | 3:13 |
 | 4429 | [fire dance](https://open.spotify.com/track/2p4eekPqqxAFfqLUWrjbi3) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [fire dance](https://open.spotify.com/album/3TUCJNsXgl08T9rx4kP4f7) | 3:37 |
+| 4430 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
+| 4431 | [V Prozu Nie Leziet](https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [V Prozu Nie Leziet](https://open.spotify.com/album/1Bb35YX1lZYnNoovFIyLsR) | 1:45 |
+| 4432 | [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 |
 
-Snapshot ID: `AAAIje4UurSLT5UjqAcYqOxa5Yfv+Siv`
+Snapshot ID: `AAAIkE2Ze9AOrVLpqgiEYJGLS0bkrFIs`

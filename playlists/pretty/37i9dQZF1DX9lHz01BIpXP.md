@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,420 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,423 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 18 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
 | 19 | [Spanga](https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Spanga](https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk) | 3:00 |
 | 20 | [Bel My](https://open.spotify.com/track/2n8DJ5j3uQtDKUOibCaXSZ) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Three 4 Her](https://open.spotify.com/album/77IDmb9bBucFZ0WPwSyKk5) | 2:43 |
-| 21 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
-| 22 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
+| 21 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
+| 22 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
 | 23 | [Oulik](https://open.spotify.com/track/3RjxY4Dftktvxxb5zNscH6) | [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [Op Die Plaas](https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu) | [Oulik](https://open.spotify.com/album/2MupJ2ovfYslIkJ13yKEdk) | 2:05 |
 | 24 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 |
 | 25 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 47 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 48 | [SYS N BADDIE](https://open.spotify.com/track/2YN1BTHUYk7c21PkZ63Mba) | [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SYS N BADDIE](https://open.spotify.com/album/7AimRndL52aehc62FKMAft) | 2:07 |
 | 49 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
-| 50 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
+| 50 | [Stalaza Gedrik](https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Stalaza Gedrik](https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7) | 2:29 |
 
 Snapshot ID: `AAAAAH2LGxQnz9bJRiuQxiFS+amCP2eg`

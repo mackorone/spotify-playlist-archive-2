@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
+    {
+      "album": {
         "name": "Scatterbrain (Deluxe)",
         "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },

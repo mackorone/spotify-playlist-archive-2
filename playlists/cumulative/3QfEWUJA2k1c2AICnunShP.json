@@ -2263,6 +2263,36 @@
     },
     {
       "album": {
+        "name": "Petit Adagio Variation (After The Seasons, Op. 67: No. 15, Petit Adagio)",
+        "url": "https://open.spotify.com/album/4ARVjMdN4m44cjyYHXkcnI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        },
+        {
+          "name": "Moritzburg Ensemble",
+          "url": "https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Petit Adagio Variation (After The Seasons, Op. 67: No. 15, Petit Adagio)",
+      "url": "https://open.spotify.com/track/6Y9fbpTvUuisTa0ndrPgPO"
+    },
+    {
+      "album": {
         "name": "Beethoven: The Complete Piano Sonatas",
         "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 149967,
+  "num_followers": 149990,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Occasional Rain",
-        "url": "https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Ordinary Joe",
-      "url": "https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.1: The Twisted Wheel",
         "url": "https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 158066,
       "name": "Soul Time - Single Version",
       "url": "https://open.spotify.com/track/3im4hrqpF3MW0uTtwuNHxZ"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Occasional Rain",
+        "url": "https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Ordinary Joe",
+      "url": "https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Hits Of Edwin Starr",
-        "url": "https://open.spotify.com/album/0nMlRmiHrtFGSPnACFZaWX"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Back Street",
-      "url": "https://open.spotify.com/track/3RkJsA0JxopALjE3Nkfrm7"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Scene",
         "url": "https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 161906,
       "name": "Nothing But A Heartache",
       "url": "https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Hits Of Edwin Starr",
+        "url": "https://open.spotify.com/album/0nMlRmiHrtFGSPnACFZaWX"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Back Street",
+      "url": "https://open.spotify.com/track/3RkJsA0JxopALjE3Nkfrm7"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1104,13 +1104,13 @@
       },
       "artists": [
         {
-          "name": "Cliff Nobles",
-          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
+          "name": "Bobby Sheen",
+          "url": "https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv"
         }
       ],
-      "duration_ms": 171933,
-      "name": "My Love Is Getting Stronger",
-      "url": "https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0"
+      "duration_ms": 153640,
+      "name": "Something New to Do",
+      "url": "https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1120,13 +1120,13 @@
       },
       "artists": [
         {
-          "name": "Bobby Sheen",
-          "url": "https://open.spotify.com/artist/4nXmXA3DSTnMbVlZcjUCcv"
+          "name": "Cliff Nobles",
+          "url": "https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz"
         }
       ],
-      "duration_ms": 153640,
-      "name": "Something New to Do",
-      "url": "https://open.spotify.com/track/48JQJY3aeaqxcB9cV6QzzV"
+      "duration_ms": 171933,
+      "name": "My Love Is Getting Stronger",
+      "url": "https://open.spotify.com/track/7kN2uACD2OngvXvTmHDzJ0"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 2",
-        "url": "https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv"
-      },
-      "artists": [
-        {
-          "name": "Frankie Beverly And The Butlers",
-          "url": "https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "She Kissed Me",
-      "url": "https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "New Vibrations",
         "url": "https://open.spotify.com/album/17pK7FO1957b0Ap3PubWOh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 127981,
       "name": "Gonna Get Along Without You Now - Single Version",
       "url": "https://open.spotify.com/track/1qgtXp0dM8HSxlnbSQZDuc"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 2",
+        "url": "https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv"
+      },
+      "artists": [
+        {
+          "name": "Frankie Beverly And The Butlers",
+          "url": "https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "She Kissed Me",
+      "url": "https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Constellation of Chicago Soul",
-        "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
-      },
-      "artists": [
-        {
-          "name": "Nolan Chance",
-          "url": "https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Just Like the Weather",
-      "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Hits Of '65",
         "url": "https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 150320,
       "name": "You Just Don't Know (What You Do To Me)",
       "url": "https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Constellation of Chicago Soul",
+        "url": "https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm"
+      },
+      "artists": [
+        {
+          "name": "Nolan Chance",
+          "url": "https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Just Like the Weather",
+      "url": "https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "I Need You Girl / Lonely for You Baby",
-        "url": "https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a"
-      },
-      "artists": [
-        {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Lonely for You Baby",
-      "url": "https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Northern Soul Story Vol.4: Wigan Casino",
         "url": "https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 159040,
       "name": "Love Runs Out",
       "url": "https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "I Need You Girl / Lonely for You Baby",
+        "url": "https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a"
+      },
+      "artists": [
+        {
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Lonely for You Baby",
+      "url": "https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Northern Soul Story Vol.2: The Golden Torch",
-        "url": "https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM"
-      },
-      "artists": [
-        {
-          "name": "Willie Kendrick",
-          "url": "https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "Change Your Ways",
-      "url": "https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "I'll Shed No Tears",
         "url": "https://open.spotify.com/album/1MLNYdex6LuKBWOfVDP6u5"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 146346,
       "name": "Love Is After Me",
       "url": "https://open.spotify.com/track/2Tt1yaGexvMmavbTEpuPDk"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Northern Soul Story Vol.2: The Golden Torch",
+        "url": "https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM"
+      },
+      "artists": [
+        {
+          "name": "Willie Kendrick",
+          "url": "https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "Change Your Ways",
+      "url": "https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1"
     },
     {
       "added_at": "2024-03-22 16:05:01",

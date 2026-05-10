@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107379,
+  "num_followers": 107382,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Salvame",
-        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 201633,
-      "name": "Salvame",
-      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 201633,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -747,6 +747,30 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "Entre Familia",
+        "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
+      },
+      "artists": [
+        {
+          "name": "Samuel ASH",
+          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
+        },
+        {
+          "name": "Andy Alemany",
+          "url": "https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 200105,
+      "name": "Demasiado Amor - Salsa",
+      "url": "https://open.spotify.com/track/2xX5LxxeVvyUVZQZ6E664S"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "Envero",
         "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
       },
@@ -799,30 +823,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Entre Familia",
-        "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
-      },
-      "artists": [
-        {
-          "name": "Samuel ASH",
-          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
-        },
-        {
-          "name": "Andy Alemany",
-          "url": "https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 200105,
-      "name": "Demasiado Amor - Salsa",
-      "url": "https://open.spotify.com/track/2xX5LxxeVvyUVZQZ6E664S"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Buenas Noticias",
         "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 185528,
       "name": "Nada Sin Ti",
       "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "PR24SIETE Soy de Aqu\u00ed",
-        "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Genio La Musa",
-          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "QUIERO A MI PUEBLO (PR24SIETE)",
-      "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -879,6 +859,26 @@
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "PR24SIETE Soy de Aqu\u00ed",
+        "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Genio La Musa",
+          "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "QUIERO A MI PUEBLO (PR24SIETE)",
+      "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
-        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Todo Y Nada - En Vivo",
-      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "Lleg\u00f3 el Culto (Remix)",
         "url": "https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 196173,
       "name": "Lleg\u00f3 el Culto - Remix",
       "url": "https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
+        "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Todo Y Nada - En Vivo",
+      "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
-        "name": "NAZARENO",
-        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
-      },
-      "artists": [
-        {
-          "name": "Chris Paradise",
-          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
-        }
-      ],
-      "duration_ms": 270807,
-      "name": "NAZARENO",
-      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
+        "name": "NAZARENO",
+        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
+      },
+      "artists": [
+        {
+          "name": "Chris Paradise",
+          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
+        }
+      ],
+      "duration_ms": 270807,
+      "name": "NAZARENO",
+      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
     },
     {
       "added_at": "2026-04-25 03:03:53",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-04-25 03:03:53",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "Bendita Prueba",
+      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
+    },
+    {
+      "added_at": "2026-04-25 03:03:53",
+      "album": {
         "name": "La Criolla",
         "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 160285,
       "name": "La Criolla",
       "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
-    },
-    {
-      "added_at": "2026-04-25 03:03:53",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "Bendita Prueba",
-      "url": "https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9"
     },
     {
       "added_at": "2026-04-25 03:03:53",

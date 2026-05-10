@@ -24495,6 +24495,28 @@
     },
     {
       "album": {
+        "name": "Entre Tu y Yo",
+        "url": "https://open.spotify.com/album/5WqP0aPvrfMTdZmubpW8Md"
+      },
+      "artists": [
+        {
+          "name": "yoilya",
+          "url": "https://open.spotify.com/artist/0JO6iSEawFTeWSPEkjMA5X"
+        },
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/3pEQy6iXarFjmMmSmMZm0O"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209260,
+      "name": "Entre Tu y Yo",
+      "url": "https://open.spotify.com/track/6Axwzs2r4Y2eQNyk5kzYkg"
+    },
+    {
+      "album": {
         "name": "Entre Tus Manos (Alabanza Ranchera)",
         "url": "https://open.spotify.com/album/5h4cpQQih7RNgC0ZStgxAt"
       },
@@ -24578,7 +24600,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 210024,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/7bOlsO6AH0aH3GI3JQ5Zwf"
@@ -37578,7 +37600,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -41563,6 +41585,24 @@
     },
     {
       "album": {
+        "name": "SABIA",
+        "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156517,
+      "name": "MATCHA",
+      "url": "https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -43290,7 +43330,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 165081,
       "name": "Mi gran amor",
       "url": "https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c"
@@ -59740,7 +59780,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
@@ -65602,10 +65642,36 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 79389,
       "name": "Super Snake",
       "url": "https://open.spotify.com/track/031oN4vHZqYZt4SX9ASn3S"
+    },
+    {
+      "album": {
+        "name": "Super Snake",
+        "url": "https://open.spotify.com/album/4dYoVjNHEi6u5ym74mdu9Z"
+      },
+      "artists": [
+        {
+          "name": "Arox",
+          "url": "https://open.spotify.com/artist/10RZK1JWHbfs5KXLlsl7Rn"
+        },
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        },
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79389,
+      "name": "Super Snake",
+      "url": "https://open.spotify.com/track/0VIKW8oNJbwWNoB6du9E5l"
     },
     {
       "album": {
@@ -65912,7 +65978,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -75384,7 +75450,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 235640,
       "name": "Who's Lovin' You",
       "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"

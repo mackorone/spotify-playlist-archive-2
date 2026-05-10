@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Adrenalin",
+      "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
+    },
+    {
+      "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
       },
@@ -3070,7 +3092,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4230,7 +4252,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 137090,
       "name": "Bedre Dage Freestyle",
       "url": "https://open.spotify.com/track/0sau0ZNK1lMSeJhb7n0piz"
@@ -5062,7 +5084,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 160000,
       "name": "blessed",
       "url": "https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7"
@@ -5226,7 +5248,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 182608,
       "name": "Blodigt (feat. Annika)",
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
@@ -9968,7 +9990,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 201863,
       "name": "Det Modsatte",
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
@@ -10410,7 +10432,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 214720,
       "name": "Din For Evigt",
       "url": "https://open.spotify.com/track/3oYO7MoMAjIKeG15RkKAYn"
@@ -11355,6 +11377,28 @@
     },
     {
       "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197724,
+      "name": "Drukner",
+      "url": "https://open.spotify.com/track/6smQDSmvTjn5wCtTmL8tSt"
+    },
+    {
+      "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
       },
@@ -12062,6 +12106,24 @@
       "duration_ms": 246356,
       "name": "Eldest Daughter",
       "url": "https://open.spotify.com/track/6iC3L3YmAkGucvJbXKDanA"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113867,
+      "name": "Elefanter",
+      "url": "https://open.spotify.com/track/7av4GIBntZCCoGBOruje6H"
     },
     {
       "album": {
@@ -13292,6 +13354,32 @@
       "duration_ms": 156085,
       "name": "EUROPA (feat. Gobs)",
       "url": "https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR"
+    },
+    {
+      "album": {
+        "name": "Europa Favela",
+        "url": "https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Chahid",
+          "url": "https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194341,
+      "name": "Europa Favela",
+      "url": "https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v"
     },
     {
       "album": {
@@ -15104,6 +15192,28 @@
       "duration_ms": 193278,
       "name": "Foran Porten",
       "url": "https://open.spotify.com/track/5YOWx55oEikk2zVoDDDiZa"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Burhan G",
+          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137648,
+      "name": "Forbi",
+      "url": "https://open.spotify.com/track/0mnqUnmH75H1NfaDoxVNLv"
     },
     {
       "album": {
@@ -17366,6 +17476,24 @@
       "duration_ms": 144983,
       "name": "Gorilla Mentalitet",
       "url": "https://open.spotify.com/track/6ve3HLEXoisvwKMSVRIBzr"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169294,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe"
     },
     {
       "album": {
@@ -20615,6 +20743,24 @@
     },
     {
       "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240736,
+      "name": "Hvem ellers",
+      "url": "https://open.spotify.com/track/0aJPIiWPWeRB5l9C8896TI"
+    },
+    {
+      "album": {
         "name": "HVEM ER DE!? (Basim x Jimilian)",
         "url": "https://open.spotify.com/album/4MmWrtsL0agBUXc5qwN9P7"
       },
@@ -20713,6 +20859,24 @@
     },
     {
       "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277283,
+      "name": "Hver dag/Lang tid siden",
+      "url": "https://open.spotify.com/track/6fUqvhOewRM0pa9WmGMFOg"
+    },
+    {
+      "album": {
         "name": "INTET TIL ALT",
         "url": "https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql"
       },
@@ -20746,6 +20910,28 @@
       "duration_ms": 154660,
       "name": "Hvis Jeg Forsvinder",
       "url": "https://open.spotify.com/track/5ebAHKdfU1zhzUjMRjxegR"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167167,
+      "name": "Hvor blev tiden af",
+      "url": "https://open.spotify.com/track/44FObQsVcs4c2Jg2fUNKaN"
     },
     {
       "album": {
@@ -21032,7 +21218,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 135735,
       "name": "Hvorfor skulle jeg vide det?",
       "url": "https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr"
@@ -22768,7 +22954,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 168021,
       "name": "ingen andre (feat. Annika)",
       "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
@@ -22962,6 +23148,24 @@
       "duration_ms": 127239,
       "name": "Internet (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/1uIlVnxuqWGkj1LSEveRUk"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164569,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/1xgFGYZgbNOvc8jsZdU3Ao"
     },
     {
       "album": {
@@ -28943,6 +29147,24 @@
     },
     {
       "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171430,
+      "name": "Men s\u00e5 kom i morgen",
+      "url": "https://open.spotify.com/track/3Tz6pf0yyNTWqRpSb23WGh"
+    },
+    {
+      "album": {
         "name": "Mentally",
         "url": "https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9"
       },
@@ -33176,7 +33398,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -38862,7 +39084,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -40028,7 +40250,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -40334,6 +40556,24 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146335,
+      "name": "Stil permanent",
+      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
     },
     {
       "album": {
@@ -47244,7 +47484,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
-  "num_followers": 187383,
+  "num_followers": 187396,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
-        "name": "Novehoras",
-        "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Loroza",
-          "url": "https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR"
-        },
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        },
-        {
-          "name": "DJ TamY",
-          "url": "https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17"
-        }
-      ],
-      "duration_ms": 211003,
-      "name": "Novehoras",
-      "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
         "name": "Sem Barulho, Pt. II",
         "url": "https://open.spotify.com/album/1NQkBNd8oP0o36bd2ZoLcm"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 171408,
       "name": "Sem Barulho, Pt. II",
       "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "Novehoras",
+        "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Loroza",
+          "url": "https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR"
+        },
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        },
+        {
+          "name": "DJ TamY",
+          "url": "https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17"
+        }
+      ],
+      "duration_ms": 211003,
+      "name": "Novehoras",
+      "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 120000,
       "name": "Melanina",
       "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172173,
       "name": "Tempo Que N\u00e3o Volta",
       "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -1347,6 +1363,26 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "Se For Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
+      },
+      "artists": [
+        {
+          "name": "GAEL",
+          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
+        },
+        {
+          "name": "EVY",
+          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Se For Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1419,26 +1455,6 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
-        "name": "Se For Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
-      },
-      "artists": [
-        {
-          "name": "GAEL",
-          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
-        },
-        {
-          "name": "EVY",
-          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Se For Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
         "name": "pode me gravar :)",
         "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 169384,
       "name": "pode me gravar :)",
       "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
     }
   ],
   "unique_name": "R&B Brasil",

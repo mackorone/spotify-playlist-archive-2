@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,231 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,286 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 28 | [Speechless \- Edit](https://open.spotify.com/track/6E1G0DDkrB5ODithltGL3O) | [Mish Mash](https://open.spotify.com/artist/1GXwtoqzuL64bd7uTLoy1i) | [Speechless \(Remixes\)](https://open.spotify.com/album/3gjPjlHqwpyvQizoKKjmZK) | 3:33 |
 | 29 | [Dancer](https://open.spotify.com/track/3pCGWTSbrv8ecj1L9q0hvp) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Oh What A Night \- 70's Classics](https://open.spotify.com/album/6eWkC2Qv4ly7zIbyQWF4j8) | 3:31 |
 | 30 | [A.I.E\. A Mwana \- DJ Kaine Italo Disco Radio Edit](https://open.spotify.com/track/4ILeDt28VAZr5mzJKvs5sj) | [MonsieurWilly](https://open.spotify.com/artist/31pgjXYjK95dU2UrhK6C0L), [Funky French League](https://open.spotify.com/artist/7yJqUKeJ66eXceIRdMPBBC), [DJ Kaine](https://open.spotify.com/artist/0VMwyxoI51u1aIQe2Tyc1v) | [AIE A Mwana \(Remixes\)](https://open.spotify.com/album/7KNV69aOJOmM2RZ1uKUevT) | 3:32 |
-| 31 | [Free \- Disco Tribute Mix](https://open.spotify.com/track/4GpanMrsboraBpCr66iBQw) | [Young Pulse](https://open.spotify.com/artist/4nSLGm1jjnWnE92tKttHDj), [Natalie Nova](https://open.spotify.com/artist/4pVPym127xHcDQp7NZePN1), [Funky French League](https://open.spotify.com/artist/7yJqUKeJ66eXceIRdMPBBC) | [Free \(Remix Version\)](https://open.spotify.com/album/1riexMGDToI5m6KZqQtpHy) | 5:31 |
+| 31 | [Free \- Disco Tribute Mix](https://open.spotify.com/track/4GpanMrsboraBpCr66iBQw) | [Young Pulse](https://open.spotify.com/artist/4nSLGm1jjnWnE92tKttHDj), [Natalie Nova](https://open.spotify.com/artist/4pVPym127xHcDQp7NZePN1), [Funky French League](https://open.spotify.com/artist/7yJqUKeJ66eXceIRdMPBBC) | [Free \(Remixes Version\)](https://open.spotify.com/album/1riexMGDToI5m6KZqQtpHy) | 5:31 |
 | 32 | [Believe \- Ministers Vocal Mix](https://open.spotify.com/track/3iIvbWzmktfVT4apAf0mff) | [Ministers de la Funk](https://open.spotify.com/artist/7y5eIukvu4CGjwUJpdLi2H), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Believe \(Kurd Maverick Revamp\)](https://open.spotify.com/album/1MWTsRJtM3izRfUilHc5MB) | 3:35 |
 | 33 | [Groovejet \(If This Ain't Love\)](https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\)](https://open.spotify.com/album/5zReRXnW4GnxbcHKsvMcHW) | 3:47 |
 | 34 | [Lucky Star \- Jay Vegas Classic Disco Mix \- Radio Edit](https://open.spotify.com/track/4IrtjzQWlLa5suKrCNrkui) | [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [Jay Vegas](https://open.spotify.com/artist/4KJr0U6w9jItvF3ypmQLjw) | [Lucky Star \(Jay Vegas Remixes\)](https://open.spotify.com/album/7GhYjPvZdpwzk5HTz2UeWJ) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 125038,
+  "num_followers": 125041,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAAAKot1ZSIhvIA9J66yKrqQ/",
+  "snapshot_id": "af0ngAAAAABOr4C55QipPkhEy4fatdpd",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Stays In Mexico",
-      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Stays In Mexico",
+      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Ain't No Thang",
-      "url": "https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rodeo Rock And Roll Collection",
         "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Ain't No Thang",
+      "url": "https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q"
     },
     {
       "added_at": null,

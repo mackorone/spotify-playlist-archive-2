@@ -4,7 +4,7 @@
 
 > 100% Moroccan Hits.
 
-520 songs - 1 day 3 hr 38 min
+522 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 | 2024-08-29 |
 | [Casaway](https://open.spotify.com/track/1M5E9egSgeNZGI45zdTM0l) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Raymonde](https://open.spotify.com/artist/63nHhkPCFLt50hfm4L9J0l) | [Casaway](https://open.spotify.com/album/6BuJoTvXekiP5Ixr6drom6) | 3:04 | 2022-12-15 | 2022-12-28 |
 | [Champion](https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Champion](https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ) | 3:44 | 2022-12-22 | 2023-01-18 |
-| [CHANEL](https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [CHANEL](https://open.spotify.com/album/7aRrvJE7TTlHPNCqPYAeq3) | 3:28 | 2026-04-12 |  |
+| [CHANEL](https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [CHANEL](https://open.spotify.com/album/7aRrvJE7TTlHPNCqPYAeq3) | 3:28 | 2026-04-12 | 2026-05-10 |
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-07-18 | 2023-05-09 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2021-12-25 | 2022-03-03 |
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2022-06-24 | 2022-11-08 |
@@ -164,6 +164,7 @@
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-12-10 | 2025-12-26 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
+| [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 | 2026-05-09 |  |
 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 | 2024-11-21 |  |
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-15 | 2025-03-03 |
 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 | 2025-03-20 | 2025-08-02 |
@@ -267,7 +268,7 @@
 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-08-28 | 2025-07-20 |
 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 | 2025-08-14 | 2025-11-23 |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-01-03 | 2024-02-09 |
-| [Laylat al Wadaa](https://open.spotify.com/track/5pnrABiuf2UCKTzqWZWUbX) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Laylat al Wadaa](https://open.spotify.com/album/2NPFHCepSLLWzmfPWO6uYQ) | 2:57 | 2026-04-25 |  |
+| [Laylat al Wadaa](https://open.spotify.com/track/5pnrABiuf2UCKTzqWZWUbX) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Laylat al Wadaa](https://open.spotify.com/album/2NPFHCepSLLWzmfPWO6uYQ) | 2:57 | 2026-04-25 | 2026-05-10 |
 | [Layli](https://open.spotify.com/track/0NEzzI7b58J8FVIk80VNgh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:18 | 2021-12-25 | 2022-02-27 |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2021-12-25 | 2022-02-04 |
 | [Lbechra](https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:55 | 2022-11-23 | 2022-12-05 |
@@ -387,6 +388,7 @@
 | [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 | 2026-04-09 | 2026-04-16 |
 | [Pardon Ma belle](https://open.spotify.com/track/3OcSOFjCWs1zJl2zwopAZL) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:50 | 2023-06-22 | 2023-08-03 |
 | [PENALTY](https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu), [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [PENALTY](https://open.spotify.com/album/67nkeu6axxVkXnqDnig9iQ) | 3:21 | 2025-05-20 | 2025-10-29 |
+| [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 | 2026-05-09 |  |
 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-13 | 2026-04-13 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-01 | 2025-02-13 |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |

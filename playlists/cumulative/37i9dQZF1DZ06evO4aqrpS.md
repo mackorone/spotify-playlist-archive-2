@@ -4,12 +4,13 @@
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 39 min
+45 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Al Norte](https://open.spotify.com/track/5hBI1he3oDinoZPS2IaRIp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:19 | 2026-03-20 |  |
 | [Amor Eterno](https://open.spotify.com/track/3kdehL0pJZJUhPbKXBx9K6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5a2ZqCTgZSVfV38Yhn093K) | 5:33 | 2026-03-20 |  |
+| [Antes De Ti](https://open.spotify.com/track/6zpMOUVDo9fpT37BLywSPl) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Antes De Ti](https://open.spotify.com/album/4oenvaL2jFacESPIFH4rBF) | 2:56 | 2026-05-10 |  |
 | [Aquí](https://open.spotify.com/track/4qB0bNvfGcS85OOaa32Qo0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo \(Extendido\)](https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM) | 2:52 | 2026-03-20 |  |
 | [Brindo](https://open.spotify.com/track/5hPCcl7zLURnhKU1myysEq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5L5R2hZwnVfJxegcskK5n6) | 3:18 | 2026-03-20 |  |
 | [Cada Día Te Extraño Menos](https://open.spotify.com/track/4T8i5In6BRejd70ekFFgi2) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:34 | 2026-03-20 |  |

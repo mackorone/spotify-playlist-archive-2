@@ -1,6 +1,6 @@
 {
   "description": "Aira in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
-  "num_followers": 228786,
+  "num_followers": 228780,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
@@ -241,7 +241,7 @@
         }
       ],
       "duration_ms": 149760,
-      "name": "SAN NICOLA",
+      "name": "San Nicola",
       "url": "https://open.spotify.com/track/14ss2dR1UoRDE4WUvGYs8w"
     },
     {
@@ -562,6 +562,10 @@
         {
           "name": "Pitta",
           "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Maska",
+          "url": "https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7"
         },
         {
           "name": "Macello",
@@ -1127,7 +1131,7 @@
     {
       "added_at": "2026-05-08 09:03:09",
       "album": {
-        "name": "Day by day",
+        "name": "Day by day (con Kuremino)",
         "url": "https://open.spotify.com/album/5dVRCCrzA6J2GYkSzsMDJf"
       },
       "artists": [
@@ -1141,7 +1145,7 @@
         }
       ],
       "duration_ms": 151304,
-      "name": "Day by day",
+      "name": "Day by day (con Kuremino)",
       "url": "https://open.spotify.com/track/5fzOl95K0Ab3UINFDYmf4k"
     },
     {

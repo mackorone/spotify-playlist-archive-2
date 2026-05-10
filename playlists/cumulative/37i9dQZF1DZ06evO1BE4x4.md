@@ -4,7 +4,7 @@
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 29 min
+43 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,14 @@
 | [Follow Me Here \- Demo](https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:44 | 2023-12-17 |  |
 | [Fur Eyes](https://open.spotify.com/track/7LWjyfOdMrdRWnetsxqBsu) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:33 | 2022-09-16 |  |
 | [Gold Coast](https://open.spotify.com/track/7IPfT2Rc4MXRwcVqkxX9Gh) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:01 | 2022-09-16 | 2022-10-14 |
+| [Golden Days \- B\-Side](https://open.spotify.com/track/0psOxAjyK4knJpByjZNyX4) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO \(10th Anniversary Edition\)](https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC) | 4:49 | 2026-05-10 |  |
 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 | 2022-09-16 |  |
 | [Home Haircut](https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:43 | 2023-12-16 |  |
 | [How To Taste](https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:30 | 2022-09-16 |  |
 | [In The Aisle](https://open.spotify.com/track/463MctMxMjFOa8fIgC3lry) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:41 | 2022-09-17 |  |
 | [Jesus Stole My Girlfriend](https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 2:57 | 2022-09-16 |  |
 | [Kamikaze](https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV) | 3:22 | 2022-09-16 |  |
+| [Lay Me Down \- B\-Side](https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO \(10th Anniversary Edition\)](https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC) | 3:43 | 2026-05-10 |  |
 | [Like Soda](https://open.spotify.com/track/4h2Pby8QuTBUbsjzn9d81Q) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:02 | 2022-09-16 |  |
 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 | 2022-09-16 |  |
 | [Lying on the Floor](https://open.spotify.com/track/4T9wBvnIkUC8bZDQVXW9BB) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 3:23 | 2022-09-16 | 2023-08-20 |

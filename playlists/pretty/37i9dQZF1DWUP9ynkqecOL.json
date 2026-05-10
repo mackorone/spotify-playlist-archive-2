@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 26182,
+  "num_followers": 26187,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 217333,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Se que no Vas a Volver",
-      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Adi\u00f3s pueblito de Iruya (Guaz\u00fa Remix)",
         "url": "https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V"
       },
@@ -659,6 +643,42 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Se que no Vas a Volver",
+      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "Camino a la Templanza",
+        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
+      },
+      "artists": [
+        {
+          "name": "Soema Montenegro",
+          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 263424,
+      "name": "Uni\u00f3n de los Amantes",
+      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -691,26 +711,6 @@
       "duration_ms": 241538,
       "name": "Carnabailito",
       "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Camino a la Templanza",
-        "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
-      },
-      "artists": [
-        {
-          "name": "Soema Montenegro",
-          "url": "https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 263424,
-      "name": "Uni\u00f3n de los Amantes",
-      "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Truenatruena",
-        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
-      },
-      "artists": [
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        }
-      ],
-      "duration_ms": 272503,
-      "name": "Truenatruena",
-      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
         "url": "https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 200000,
       "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
       "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "Truenatruena",
+        "url": "https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0"
+      },
+      "artists": [
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        }
+      ],
+      "duration_ms": 272503,
+      "name": "Truenatruena",
+      "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Juana Azurduy",
-        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
+        "name": "Hermanos",
+        "url": "https://open.spotify.com/album/0U060c4CDrhFYkjG1JOqpJ"
       },
       "artists": [
         {
@@ -1268,25 +1268,13 @@
           "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        },
-        {
-          "name": "Estela de Carlotto",
-          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 218461,
-      "name": "Juana Azurduy",
-      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+      "duration_ms": 259978,
+      "name": "Hermanos",
+      "url": "https://open.spotify.com/track/7b9G3EqWgPDJGSmyQ0XbYD"
     },
     {
       "added_at": "2026-02-13 13:38:17",

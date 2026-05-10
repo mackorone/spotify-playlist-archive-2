@@ -1,6 +1,6 @@
 {
   "description": "Some favorites across multiple genres. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
-  "num_followers": 571922,
+  "num_followers": 572103,
   "original_name": "DistroKid Spotlight",
   "owner": {
     "name": "DistroKid",
@@ -1174,6 +1174,10 @@
         {
           "name": "Coya",
           "url": "https://open.spotify.com/artist/4Sk7nS0b73o1fMxiTYxd7x"
+        },
+        {
+          "name": "Louise Byrne",
+          "url": "https://open.spotify.com/artist/5ZorT5fBXl3vsWIIAHgmHR"
         }
       ],
       "duration_ms": 178449,

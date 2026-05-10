@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 featuring bradeazy
 
-1,361 songs - 2 day 20 hr 34 min
+1,362 songs - 2 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [All About U](https://open.spotify.com/track/1xoUL5CDpAB66vB8qZzMXY) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All About U](https://open.spotify.com/album/4BoLtiThigu3dTXSRCDsW9) | 2:51 | 2021-10-29 | 2021-12-30 |
 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-09-30 | 2024-01-13 |
 | [All I Need](https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv) | [All I Need](https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg) | 2:26 | 2024-05-17 | 2024-07-19 |
-| [All I Think About](https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4) | [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0), [Yona](https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ) | [All I Think About](https://open.spotify.com/album/5oh9IASJx7TMRiLNBwsjF5) | 2:57 | 2026-05-01 |  |
+| [All I Think About](https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4) | [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0), [Yona](https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ) | [All I Think About](https://open.spotify.com/album/5oh9IASJx7TMRiLNBwsjF5) | 2:57 | 2026-05-01 | 2026-05-10 |
 | [All I Wanna Do](https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF) | 2:59 | 2023-09-29 | 2023-12-14 |
 | [All I Wanna Do](https://open.spotify.com/track/4kgmgcxWMKGyMjPxvmBm8F) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/6X2wN6UJYaDl4DWwhbMAMW) | 2:59 | 2024-03-01 | 2024-04-13 |
 | [All In My Head](https://open.spotify.com/track/6RFWHk1d0D8s8UJ4zQg7BP) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [All In My Head](https://open.spotify.com/album/7qzHhlLgqJrA2vi9U7jgmU) | 2:55 | 2023-10-06 | 2023-11-01 |
@@ -444,6 +444,7 @@
 | [First Night Out](https://open.spotify.com/track/00QA6kDTxsghd5vukZfxeE) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [First Night Out](https://open.spotify.com/album/6goALaxPAH0sAaG2N2TLX1) | 3:53 | 2022-01-28 | 2022-07-30 |
 | [Fiya \- Curbi Edit](https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fiya \(Curbi Edit\)](https://open.spotify.com/album/296eebCCSymVYHR6fjiISA) | 4:40 | 2023-07-21 | 2024-02-17 |
 | [Flashback](https://open.spotify.com/track/622eAV8J0zkZyrCH5pZqF4) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Flashback](https://open.spotify.com/album/2u64xM5mYc5qBvOQfkGPm5) | 3:20 | 2025-03-07 | 2025-05-03 |
+| [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 | 2026-05-09 |  |
 | [Flex](https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP) | [Flex](https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7) | 2:08 | 2024-01-05 | 2024-10-05 |
 | [Flip It](https://open.spotify.com/track/0UTfh9gvdC7H1dAzBc0GE4) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Flip It](https://open.spotify.com/album/6PJHyTELoBYcNHYKCe539Z) | 2:52 | 2023-07-28 | 2023-10-08 |
 | [Flip That](https://open.spotify.com/track/7wkhEeYUkntSTyTBHkNgC4) | [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Flip That](https://open.spotify.com/album/6GHUsL4RXhTj0OM2WnvbJq) | 2:30 | 2025-11-14 | 2026-01-15 |

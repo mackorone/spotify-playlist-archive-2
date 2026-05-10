@@ -210,6 +210,24 @@
     {
       "album": {
         "name": "CAHUITA",
+        "url": "https://open.spotify.com/album/1Q5KQUIZkfT1jZNzoXmFVN"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215908,
+      "name": "CAHUITA",
+      "url": "https://open.spotify.com/track/0XPIJswHgwkPL1jfUuCsaE"
+    },
+    {
+      "album": {
+        "name": "CAHUITA",
         "url": "https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ"
       },
       "artists": [
@@ -220,7 +238,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 215908,
       "name": "CAHUITA",
       "url": "https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt"

@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Ghost town...",
+        "url": "https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Ghost town...",
+      "url": "https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1"
+    },
+    {
+      "album": {
         "name": "Die Happy",
         "url": "https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK"
       },

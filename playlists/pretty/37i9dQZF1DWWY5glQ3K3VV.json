@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 114813,
+  "num_followers": 114814,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 124528,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 152800,
       "name": "Massafghanistan",
       "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
-        "name": "LOCO",
-        "url": "https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG"
-      },
-      "artists": [
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        }
-      ],
-      "duration_ms": 124528,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
-        "name": "BIANCA (feat. Kid Yugi)",
-        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 160282,
-      "name": "BIANCA (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
         "name": "SCUGNIZZI X SEMPRE",
         "url": "https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 121804,
       "name": "ZE PEQUENO",
       "url": "https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
+        "name": "BIANCA (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 160282,
+      "name": "BIANCA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
         "name": "CHAMPIONS LEAGUE",
         "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -803,22 +819,6 @@
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
+        "name": "Haribo",
+        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 136633,
+      "name": "Haribo",
+      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -1223,6 +1239,22 @@
       "duration_ms": 217538,
       "name": "Gol",
       "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -1259,38 +1291,6 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
-        "name": "Haribo",
-        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 136633,
-      "name": "Haribo",
-      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
       },
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
         "name": "XDVR Reloaded",
         "url": "https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 232000,
       "name": "Mercedes Nero",
       "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -1815,26 +1815,26 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+        "name": "In Piazza",
+        "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
         }
       ],
-      "duration_ms": 245853,
-      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
-      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
+      "duration_ms": 183801,
+      "name": "In Piazza",
+      "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -1859,26 +1859,26 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
-        "name": "In Piazza",
-        "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
         }
       ],
-      "duration_ms": 183801,
-      "name": "In Piazza",
-      "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
+      "duration_ms": 245853,
+      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
+      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
     },
     {
       "added_at": "2026-05-07 22:04:28",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2026-05-07 22:04:28",
       "album": {
-        "name": "Fuorilegge (feat. Sayf)",
-        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
-        }
-      ],
-      "duration_ms": 126371,
-      "name": "Fuorilegge (feat. Sayf)",
-      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
-    },
-    {
-      "added_at": "2026-05-07 22:04:28",
-      "album": {
         "name": "KG",
         "url": "https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 218507,
       "name": "Rimango free (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky"
+    },
+    {
+      "added_at": "2026-05-07 22:04:28",
+      "album": {
+        "name": "Fuorilegge (feat. Sayf)",
+        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "duration_ms": 126371,
+      "name": "Fuorilegge (feat. Sayf)",
+      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
     },
     {
       "added_at": "2026-05-07 22:04:28",

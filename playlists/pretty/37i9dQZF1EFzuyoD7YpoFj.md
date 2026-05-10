@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508 likes - 390 songs - 20 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 390 songs - 20 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 168 | [I've a Shooting Box in Scotland](https://open.spotify.com/track/6XJqexx95u0u8mdu60DGAK) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete London Sessions](https://open.spotify.com/album/4XUw4vYdv0WK92ukrR2KaV) | 3:26 |
 | 169 | [Veneno Para El Corazon \- \(It's The Lovely\)](https://open.spotify.com/track/2gxSxY8f3oesNXIngMtwjM) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Veneno Para El Corazón](https://open.spotify.com/album/7tNKTunZlNnOx9gaUnOghX) | 3:05 |
 | 170 | [I'm a Gigolo](https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter](https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q) | 2:26 |
-| 171 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
-| 172 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
+| 171 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
+| 172 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
 | 173 | [IF I LOVED YOU TRULY](https://open.spotify.com/track/67EtAPxT1gtSdfdmIxBz0M) | [The Starlite Orchestra & Singers](https://open.spotify.com/artist/2cAOIxdet17VPqKd8PODGs) | [THE MUSICAL \- CAN\-CAN](https://open.spotify.com/album/4U62OD0a6q36Yw0q6aHnOs) | 2:20 |
 | 174 | [So Near And Yet So Far](https://open.spotify.com/track/3iOSsAJVdhmxWijje9262j) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson \- Jazz Moods](https://open.spotify.com/album/4O6elzt1pv8vei5SkWy0Jl) | 3:21 |
 | 175 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcQ+kgAAAADk3m3iWRq7t1Q8oYgTRhLJ`
+Snapshot ID: `AcREMgAAAABL31fE4U7EVISJxG1XKBOv`

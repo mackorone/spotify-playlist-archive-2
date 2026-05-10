@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 689215,
+  "num_followers": 689376,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afvWAAAAAACS14yJGRshMlZKVlGAv6TQ",
+  "snapshot_id": "af0ngAAAAAAi2PL1VqmHSBi2g/OCn96+",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Novia Robot",
+      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Berghain (Remix)",
         "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Novia Robot",
-      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
     },
     {
       "added_at": null,

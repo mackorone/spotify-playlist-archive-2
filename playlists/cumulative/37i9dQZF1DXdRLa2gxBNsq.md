@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-456 songs - 23 hr 8 min
+457 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 | 2023-12-08 |  |
 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 | 2023-12-08 |  |
 | [Esperando a Mi Enemigo](https://open.spotify.com/track/28Hrxc3DjI3GxszzvYZLxz) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Esperando a Mi Enemigo](https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY) | 3:16 | 2025-12-18 | 2026-03-27 |
-| [Esta es una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 | 2024-05-09 |  |
+| [Esta es una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 | 2024-05-09 | 2026-05-10 |
 | [Esto Es un Atraco](https://open.spotify.com/track/3N8PAev6WMEWX1Qc4rV3hl) | [La Marmita](https://open.spotify.com/artist/5TT38W8qp72XwEz7ngbC06), [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [MEZ\-K](https://open.spotify.com/artist/2ax2F8KW5sK9yMJEEpivqP), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Esto Es un Atraco](https://open.spotify.com/album/6qrOJ9gopojGNYlYBQWZ7Q) | 2:56 | 2024-03-12 | 2024-09-14 |
 | [Esto no es para ti](https://open.spotify.com/track/6M0qdPIx3DbnbXV3IsfTWZ) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Esto no es para ti](https://open.spotify.com/album/1ciUXiw4BXX2A8y1wlKg2x) | 2:29 | 2024-07-19 | 2024-08-30 |
 | [Eu non quero traballar](https://open.spotify.com/track/3ljExg1ilbR5T0Ui4KlJ2V) | [Vimbio](https://open.spotify.com/artist/4mzxGcqlsLj8sVrts7rcxI) | [Eu non quero traballar](https://open.spotify.com/album/53Nja88waP71zVjMklwBOs) | 3:51 | 2025-01-09 | 2025-01-31 |
@@ -233,6 +233,7 @@
 | [La Locura](https://open.spotify.com/track/53jDA8Iv4igfu0mPm75Rmf) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace Falta...?](https://open.spotify.com/album/36inCQFaYW4STvviECaxUR) | 3:53 | 2023-12-08 | 2024-04-19 |
 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 | 2024-04-18 |  |
 | [La Mejor Opción](https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I) | [La Línea Roja](https://open.spotify.com/artist/0yooxBZxMUx0d0XqMM3dKM) | [La Mejor Opción](https://open.spotify.com/album/3MlJPEOuDovfV8z8MLbuYu) | 2:58 | 2026-01-26 | 2026-03-27 |
+| [La Prospe](https://open.spotify.com/track/5YBtaF5CJ5pVUMt4z58eDN) | [Gautxori](https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh) | [La Prospe](https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8) | 2:02 | 2026-05-07 |  |
 | [La Regla \- Remasterizado 2025](https://open.spotify.com/track/2jc6rLVLgdf6Bj2IsHs6UW) | [Kostramorfosis](https://open.spotify.com/artist/6sgUGQHbusS6tWOhCi4gdM) | [La Regla \(Remasterizado 2025\)](https://open.spotify.com/album/1mRc53ufKGUI125a5PRo9b) | 2:14 | 2025-02-13 | 2025-03-28 |
 | [La Sombra](https://open.spotify.com/track/0l7EEoDWt4JiSE9r1DcaZk) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [La Sombra](https://open.spotify.com/album/1ddstLl034u82ef2kHcZrG) | 2:26 | 2025-02-13 | 2025-03-14 |
 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 | 2023-12-08 |  |

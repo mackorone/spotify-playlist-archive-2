@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,812 likes - 125 songs - 8 hr 1 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,812 likes - 126 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,5 +133,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 123 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 |
 | 124 | [treni lividi](https://open.spotify.com/track/6Z6DKtpKdF3vu6ZAVIgg7K) | [Pendolari Roma Cassino](https://open.spotify.com/artist/0hvEATGbzeyvMBq65XwD3i) | [treni lividi](https://open.spotify.com/album/4R3lZKG1QWyJZciWWGfbjO) | 3:11 |
 | 125 | [Too Late](https://open.spotify.com/track/7LEdMzwSF2nVOl6z5tmiDK) | [The Cellar Doors](https://open.spotify.com/artist/3p3yvQb5e3beH9kkk9iIve) | [The Cellar Doors II](https://open.spotify.com/album/7kgu4rRNCXT19dUEd84BZ4) | 3:33 |
+| 126 | [Find My Way](https://open.spotify.com/track/7bBnQzXdNjsxqgf7FxP7bn) | [Tebtu](https://open.spotify.com/artist/4VVetWxuWhE6moggaKzJwB), [Tenet](https://open.spotify.com/artist/42zJQmRYrhAZQrpQL9ZVBn) | [Teb](https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC) | 3:13 |
 
-Snapshot ID: `AAALVvusSp8Zvw3IKJ9W2JmvJ+sC62zx`
+Snapshot ID: `AAALV4zlzsElXG+IptjGAAPWSazdYYFP`

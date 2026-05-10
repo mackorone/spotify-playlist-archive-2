@@ -4017,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/5ZPMPh58JmwjhNdVndpQxH"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/3BZ8iiKjsJEal0tTe0oMlR"
+    },
+    {
+      "album": {
         "name": "ALL IN (Lieblingslieder)",
         "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
       },
@@ -12245,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "BERSERKER +",
+        "url": "https://open.spotify.com/album/4U3ebyKTFeWVFrhfai4v8X"
+      },
+      "artists": [
+        {
+          "name": "OG Keemo",
+          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155914,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1P7QkiZYBny9UehIWNbXl2"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -15330,6 +15366,28 @@
       "duration_ms": 243711,
       "name": "CARRERA",
       "url": "https://open.spotify.com/track/3cfz2Kt5k1mZ2GLJDY45l2"
+    },
+    {
+      "album": {
+        "name": "CASA CUBA",
+        "url": "https://open.spotify.com/album/096CyB48X0XXSzlY3DzWtM"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "CASA CUBA",
+      "url": "https://open.spotify.com/track/3XWKL33NgAJfOmMP8xnu9U"
     },
     {
       "album": {
@@ -21146,7 +21204,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -21784,7 +21842,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -22144,6 +22202,28 @@
       "duration_ms": 160119,
       "name": "Du liebst mich nicht",
       "url": "https://open.spotify.com/track/1BIlJwEG65zHLto667VpnH"
+    },
+    {
+      "album": {
+        "name": "Du oder Ich",
+        "url": "https://open.spotify.com/album/6XCcw9kWeRnmMTxpQE7cdm"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171036,
+      "name": "Du oder Ich",
+      "url": "https://open.spotify.com/track/1ItgEv0lUM5ttKKvMPftVL"
     },
     {
       "album": {
@@ -33814,7 +33894,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -34836,7 +34916,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -47940,7 +48020,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -50778,7 +50858,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
@@ -51186,6 +51266,32 @@
       "duration_ms": 198294,
       "name": "MOMMA",
       "url": "https://open.spotify.com/track/2vvL12gufp1dCbgv4N9S1J"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/3BjIVd4hhgr3Y0q95O1b1Z"
+      },
+      "artists": [
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "Aditotoro",
+          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
+        },
+        {
+          "name": "Paul Frege",
+          "url": "https://open.spotify.com/artist/5fk2jh0KFCJ6LTTkZhRjMt"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182968,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/6H1j5PiyxgyWTnDmabW0Ng"
     },
     {
       "album": {
@@ -63513,6 +63619,24 @@
     },
     {
       "album": {
+        "name": "Junges Blut",
+        "url": "https://open.spotify.com/album/5hirXdxmHWKf2gvxQ2SgKA"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/6HmM7cUKtcMpqUD8jJsltJ"
+    },
+    {
+      "album": {
         "name": "Desperadoz III",
         "url": "https://open.spotify.com/album/12sKIvpykQh2ZKdLFgwxcT"
       },
@@ -64972,6 +65096,28 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "Salam Alaikum",
+        "url": "https://open.spotify.com/album/4e4JcI3U8OwPH2Tvu2K2dl"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147413,
+      "name": "Salam Alaikum",
+      "url": "https://open.spotify.com/track/35JRTgA8dRU8KgyYM6pxwU"
     },
     {
       "album": {
@@ -72932,7 +73078,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 110912,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/1prNhzt3DdgRoxKoALTEYo"
@@ -75697,6 +75843,28 @@
     },
     {
       "album": {
+        "name": "Tourbillon",
+        "url": "https://open.spotify.com/album/1zauumJNIILfS8EFrpzHkL"
+      },
+      "artists": [
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        },
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163748,
+      "name": "Tourbillon",
+      "url": "https://open.spotify.com/track/5dkMbMK1KCJ7u3xStiGl3Q"
+    },
+    {
+      "album": {
         "name": "Himmel \u00fcber Berlin",
         "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
       },
@@ -77994,7 +78162,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

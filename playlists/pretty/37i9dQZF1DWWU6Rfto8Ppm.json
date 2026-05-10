@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3973048,
+  "num_followers": 3973754,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -295,8 +295,8 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+      "duration_ms": 229680,
+      "name": "Me Estas Tentando",
+      "url": "https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -383,8 +383,8 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "La Revolucion (Deluxe)",
-        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 229680,
-      "name": "Me Estas Tentando",
-      "url": "https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Broke & Famous",
-        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Pasarela",
-      "url": "https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Broke & Famous",
+        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "Pasarela",
+      "url": "https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Tra Tra Tra (Remix)",
-      "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Matador (Official Remix)",
         "url": "https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Tra Tra Tra (Remix)",
+      "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2703,6 +2703,26 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
+      },
+      "artists": [
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 174126,
+      "name": "Linda Estrella (feat. Baby Rasta y Gringo)",
+      "url": "https://open.spotify.com/track/4p7NHxROYGVe6wcotaS9CL"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Money Is Still A Major Issue",
         "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
@@ -2723,26 +2743,6 @@
       "duration_ms": 240133,
       "name": "Culo Remix",
       "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
-      },
-      "artists": [
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 174126,
-      "name": "Linda Estrella (feat. Baby Rasta y Gringo)",
-      "url": "https://open.spotify.com/track/4p7NHxROYGVe6wcotaS9CL"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "2K20, Pt. 1 (Live)",
-        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mayor Que Yo - Live",
-      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 212401,
       "name": "Ella Se Arrebata",
       "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "2K20, Pt. 1 (Live)",
+        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 128259,
+      "name": "Mayor Que Yo - Live",
+      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3591,26 +3591,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "La Reunion",
-        "url": "https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q"
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
       "artists": [
         {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Joan",
+          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
         }
       ],
-      "duration_ms": 303542,
-      "name": "Aparentemente",
-      "url": "https://open.spotify.com/track/5RCcvZz5i0rckjbCTSPL1s"
+      "duration_ms": 208106,
+      "name": "Gata Fiera (feat. Joan)",
+      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3647,6 +3643,30 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "La Reunion",
+        "url": "https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 303542,
+      "name": "Aparentemente",
+      "url": "https://open.spotify.com/track/5RCcvZz5i0rckjbCTSPL1s"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -3670,15 +3690,11 @@
         {
           "name": "Trebol Clan",
           "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        },
-        {
-          "name": "Joan",
-          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Gata Fiera (feat. Joan)",
-      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala - Remix",
+      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3699,22 +3715,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
         },
         {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+      "duration_ms": 172374,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3735,34 +3751,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Chosen Few El Documental II",
-        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
-      },
-      "artists": [
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
         {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala - Remix",
-      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
     },
     {
       "added_at": "2026-03-19 17:34:20",

@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 170213,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw"
@@ -14780,7 +14780,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 149509,
       "name": "Kangastus",
       "url": "https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf"
@@ -15340,6 +15340,24 @@
       "duration_ms": 195800,
       "name": "Kevyt ja kohtuuton",
       "url": "https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R"
+    },
+    {
+      "album": {
+        "name": "kev\u00e4isin",
+        "url": "https://open.spotify.com/album/2fc0xDffuBiIFBKBiAmtZt"
+      },
+      "artists": [
+        {
+          "name": "ama",
+          "url": "https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207209,
+      "name": "kev\u00e4isin",
+      "url": "https://open.spotify.com/track/0YKUGWa5eA5x5bWQ4xb2g2"
     },
     {
       "album": {
@@ -25213,6 +25231,24 @@
     },
     {
       "album": {
+        "name": "Pokaali",
+        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "Pokaali",
+      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
+    },
+    {
+      "album": {
         "name": "Polari",
         "url": "https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId"
       },
@@ -28376,7 +28412,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 163881,
       "name": "Shinola",
       "url": "https://open.spotify.com/track/3tJ7DnD7488H5g1EzIqe4T"
@@ -33248,6 +33284,24 @@
       "duration_ms": 197133,
       "name": "Tuolileikki",
       "url": "https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW"
+    },
+    {
+      "album": {
+        "name": "Tuolta se nyt k\u00e4velee",
+        "url": "https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu"
+      },
+      "artists": [
+        {
+          "name": "Pekka Nisu",
+          "url": "https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203602,
+      "name": "Tuolta se nyt k\u00e4velee",
+      "url": "https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx"
     },
     {
       "album": {

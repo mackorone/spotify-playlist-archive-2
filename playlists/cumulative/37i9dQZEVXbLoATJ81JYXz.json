@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -7179,6 +7179,28 @@
     },
     {
       "album": {
+        "name": "BUNGYJUMP",
+        "url": "https://open.spotify.com/album/6jW0jjwQ8zitdN40l3X1II"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146290,
+      "name": "BUNGYJUMP",
+      "url": "https://open.spotify.com/track/3Y2yYaPE9UT8cgtuuLXBvF"
+    },
+    {
+      "album": {
         "name": "BUNTAR O S\u00c5NT",
         "url": "https://open.spotify.com/album/3OWycub2YQD9ZH3v60VEEC"
       },
@@ -8814,6 +8836,24 @@
       "duration_ms": 172455,
       "name": "Chit Chat",
       "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
+    },
+    {
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
       "album": {
@@ -12602,7 +12642,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -14340,7 +14380,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -14846,7 +14886,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 170346,
       "name": "Eurosummer - Girls Trip",
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
@@ -17404,7 +17444,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 156062,
       "name": "Fr\u00f6jdo Frido",
       "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
@@ -19156,7 +19196,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -21660,6 +21700,28 @@
       "duration_ms": 208350,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+    },
+    {
+      "album": {
+        "name": "Higher Calling",
+        "url": "https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223143,
+      "name": "Higher Calling",
+      "url": "https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j"
     },
     {
       "album": {
@@ -25350,7 +25412,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -27024,7 +27086,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -35890,7 +35952,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 247213,
       "name": "N\u00e4r vi gr\u00e4ver guld i USA",
       "url": "https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71"
@@ -39970,7 +40032,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -42398,7 +42460,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-10",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -45204,6 +45266,28 @@
       "duration_ms": 183533,
       "name": "Staffan var en stalledr\u00e4ng",
       "url": "https://open.spotify.com/track/3iK9QAubUYpznnsEHxJ3yd"
+    },
+    {
+      "album": {
+        "name": "Stammis",
+        "url": "https://open.spotify.com/album/7q3CHJeVyYcbGc2bGu7Ygc"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Simon Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226641,
+      "name": "Stammis",
+      "url": "https://open.spotify.com/track/5cDSbU73KTPSa4osINu0Qs"
     },
     {
       "album": {
@@ -48064,7 +48148,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 242320,
       "name": "Tandtr\u00e5d",
       "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
@@ -53152,6 +53236,24 @@
       "duration_ms": 181800,
       "name": "Viva L\u2019Amor",
       "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
+    },
+    {
+      "album": {
+        "name": "VM-guld",
+        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2026-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "VM-guld",
+      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117802,
+  "num_followers": 117807,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-05-07 22:02:41",
       "album": {
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+      },
+      "artists": [
+        {
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+    },
+    {
+      "added_at": "2026-05-07 22:02:41",
+      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
-    },
-    {
-      "added_at": "2026-05-07 22:02:41",
-      "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
       "added_at": "2026-05-07 22:02:41",
@@ -615,8 +615,8 @@
     {
       "added_at": "2026-05-07 22:02:41",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+        "name": "Promiski\u00f8s (PM)",
+        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+      "duration_ms": 153882,
+      "name": "Promiski\u00f8s (PM)",
+      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
       "added_at": "2026-05-07 22:02:41",
@@ -703,8 +703,8 @@
     {
       "added_at": "2026-05-07 22:02:41",
       "album": {
-        "name": "Promiski\u00f8s (PM)",
-        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 153882,
-      "name": "Promiski\u00f8s (PM)",
-      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2026-05-07 22:02:41",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-05-07 22:02:41",
       "album": {
-        "name": "Hele natta",
-        "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Han Helge & Han H\u00e5kon",
-          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
-        }
-      ],
-      "duration_ms": 149435,
-      "name": "Hele natta",
-      "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
-    },
-    {
-      "added_at": "2026-05-07 22:02:41",
-      "album": {
         "name": "Flesk og Duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 206974,
       "name": "Flesk og Duppe",
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
+    },
+    {
+      "added_at": "2026-05-07 22:02:41",
+      "album": {
+        "name": "Hele natta",
+        "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+        }
+      ],
+      "duration_ms": 149435,
+      "name": "Hele natta",
+      "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
     },
     {
       "added_at": "2026-05-07 22:02:41",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-05-07 22:02:41",
       "album": {
-        "name": "Kunna vorre v\u00e6r",
-        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 138388,
-      "name": "Kunna vorre v\u00e6r",
-      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
     },
     {
       "added_at": "2026-05-07 22:02:41",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-05-07 22:02:41",
       "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+        "name": "Kunna vorre v\u00e6r",
+        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+      "duration_ms": 138388,
+      "name": "Kunna vorre v\u00e6r",
+      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
     },
     {
       "added_at": "2026-05-07 22:02:41",
