@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-217 songs - 13 hr 28 min
+218 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Sorry About Him](https://open.spotify.com/track/2MIJA0kArMQkLYx8HdTz5C) | [Possibly Jamie](https://open.spotify.com/artist/4UnDstGObPvzMC6Y2Yq2HC) | [Sorry About Him](https://open.spotify.com/album/6EMCV2lBRewxTiOknIeCIS) | 2:42 | 2025-11-16 | 2025-12-29 |
 | [Sorry! It Sank](https://open.spotify.com/track/4HWb3PCWyZ6GQKPOHtlCcA) | [Mallet Space](https://open.spotify.com/artist/1PCItqxAtsM80DlKMTYq1M) | [Sorry! It Sank](https://open.spotify.com/album/2KJbVetPhJxkXHJiNr4Z4c) | 4:02 | 2025-11-23 | 2025-12-19 |
 | [South Paw](https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [South Paw](https://open.spotify.com/album/1P8DoNtgyvlmBT6EvWQShz) | 3:19 | 2025-11-16 |  |
+| [STEAL MY SLEEP.](https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo) | [Pat Hamilton](https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1) | [STEAL MY SLEEP.](https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg) | 2:17 | 2026-05-10 |  |
 | [Street Night Queens](https://open.spotify.com/track/77PTKM1MZyWw09YJejZwIK) | [CRASHKID!](https://open.spotify.com/artist/79gH2g5UhKfGvukkk3Mria) | [Street Night Queens](https://open.spotify.com/album/0D1NQx3F8fyCqoPVsuyYHu) | 3:45 | 2026-03-21 | 2026-05-04 |
 | [Stronger](https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje) | [The Cosmic Dead](https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE) | [Stronger](https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8) | 3:46 | 2026-03-22 | 2026-05-04 |
 | [Summa](https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [Summa](https://open.spotify.com/album/4AZlDXLjSAeHRVM8VXq8nV) | 4:38 | 2026-01-21 | 2026-05-04 |
@@ -201,7 +202,7 @@
 | [The Meadows](https://open.spotify.com/track/5SlnDgMUVV4k4CC0eAGAEN) | [KATANES](https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE) | [The Meadows](https://open.spotify.com/album/6xBiAvZYngBSrzuIol180j) | 3:30 | 2025-11-23 | 2026-05-04 |
 | [The Mullets are Moving in](https://open.spotify.com/track/4HSQG4ln6ybxEup2PKwfHh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [The Mullets are Moving in](https://open.spotify.com/album/61Qwp1DqiJ3WcgsdfnsxZV) | 2:58 | 2026-01-11 | 2026-02-02 |
 | [The Neighbour's House](https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [Bedside Opera](https://open.spotify.com/album/0Z6CpWVOCn8VcZqEQGKoK6) | 3:52 | 2026-03-06 | 2026-05-04 |
-| [The Talk](https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm) | [Casual Drag](https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N) | [The Talk](https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU) | 2:57 | 2026-05-03 |  |
+| [The Talk](https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm) | [Casual Drag](https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N) | [The Talk](https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU) | 2:57 | 2026-05-03 | 2026-05-11 |
 | [These Dire Days](https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [These Dire Days](https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs) | 3:29 | 2026-03-13 | 2026-05-04 |
 | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/track/1DoOr5SQmYMisdMcUy0MtE) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/album/0BCU1vqSSANQ0IDqBw0DR1) | 2:07 | 2025-11-16 | 2026-05-04 |
 | [Top \(I can see for miles\)](https://open.spotify.com/track/0kNruf2wYPoJHAzBiZIJT7) | [Delirium](https://open.spotify.com/artist/3OYzwHHHkiMSRo0bwhx8pO) | [Delirium \(home recordings\)](https://open.spotify.com/album/7KmenobD65pgvvV07IhcPl) | 4:48 | 2025-11-16 | 2025-11-24 |

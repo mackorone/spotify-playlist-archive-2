@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 39595,
+  "num_followers": 39604,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADrA/iapDnhWsxMBF/6juLv",
+  "snapshot_id": "af55AAAAAAAUuEigQLxQp/I0p4th5CRB",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Aniversario de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 197640,
       "name": "Mil Gracias",
       "url": "https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "Aniversario de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Brinca Brita",
-      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
+      "duration_ms": 146506,
+      "name": "Alma de Acero",
+      "url": "https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escorpion",
-        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 146506,
-      "name": "Alma de Acero",
-      "url": "https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR"
+      "duration_ms": 194666,
+      "name": "Brinca Brita",
+      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
     },
     {
       "added_at": null,

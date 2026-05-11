@@ -12933,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "Soft New Magic Dream",
+        "url": "https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe"
+      },
+      "artists": [
+        {
+          "name": "Black Moth Super Rainbow",
+          "url": "https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240384,
+      "name": "Open the Fucking Fantasy",
+      "url": "https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4"
+    },
+    {
+      "album": {
         "name": "Singin\u2019 to an Empty Chair",
         "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
       },
@@ -14298,7 +14316,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 324864,
       "name": "Puddles",
       "url": "https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z"
@@ -18946,7 +18964,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 207468,
       "name": "Time Ain't Accidental",
       "url": "https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ"

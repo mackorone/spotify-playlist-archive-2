@@ -4351,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "Dia de Pegar Ex",
+        "url": "https://open.spotify.com/album/277GQLj9DTI5qCSsUMKiCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick & Gabriel",
+          "url": "https://open.spotify.com/artist/0alwm6dDVhxF0TZ4oaDQGc"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182677,
+      "name": "Dia de Pegar Ex",
+      "url": "https://open.spotify.com/track/12fa4EvDUH50cLUFppYXKW"
+    },
+    {
+      "album": {
         "name": "Foi Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf"
       },

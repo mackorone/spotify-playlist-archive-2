@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 719,
+  "num_followers": 721,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -799,30 +799,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "SAVED MY LIFE",
-        "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
-      },
-      "artists": [
-        {
-          "name": "UNEDUCATED KID",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "SAVED MY LIFE (Prod. Kidstone)",
-      "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 216428,
       "name": "SUPERNOVA (Feat. CHANGMO, GSoul & DUT2)",
       "url": "https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "SAVED MY LIFE",
+        "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
+      },
+      "artists": [
+        {
+          "name": "UNEDUCATED KID",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "SAVED MY LIFE (Prod. Kidstone)",
+      "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 313053,
       "name": "\uc9c4\ud759 \uc18d\uc5d0\uc11c \ud53c\ub294 \uaf43 Flower from the Mud (feat. Kebee & MC Meta)",
       "url": "https://open.spotify.com/track/3HQKOvG5jI7lLseS6ZT3ph"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        }
+      ],
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -959,6 +959,26 @@
       "duration_ms": 254347,
       "name": "Flashing (Feat. HanYoHan, OLNL)",
       "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -995,42 +1015,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 193402,
-      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
-      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 210923,
       "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
       "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 193402,
+      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
+      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Green Ideology",
-        "url": "https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN"
-      },
-      "artists": [
-        {
-          "name": "TAKEWON",
-          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
-        }
-      ],
-      "duration_ms": 207097,
-      "name": "Green Ideology",
-      "url": "https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MultrillVerse",
         "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Green Ideology",
+        "url": "https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN"
+      },
+      "artists": [
+        {
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
+        }
+      ],
+      "duration_ms": 207097,
+      "name": "Green Ideology",
+      "url": "https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "GAROSAWK",
         "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 184024,
       "name": "BLACKBOX",
       "url": "https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 194252,
+      "name": "GNGB",
+      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1535,22 +1551,6 @@
       "duration_ms": 223178,
       "name": "\uc9c4\uc800\ub9ac (Feat. \ub9b4\ub7ec\ub9d0\uc988 (Leellamarz), \uc81c\ub124 \ub354 \uc9c8\ub77c(ZENE THE ZILLA))",
       "url": "https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 194252,
-      "name": "GNGB",
-      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1646,27 +1646,11 @@
         {
           "name": "DOK2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Keem Hyo-Eun",
-          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 263505,
-      "name": "1llusion Remix - Bonus Track",
-      "url": "https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu"
+      "duration_ms": 199755,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1750,11 +1734,27 @@
         {
           "name": "DOK2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 199755,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/044osg6Cw2BLj7VQGSVjEl"
+      "duration_ms": 263505,
+      "name": "1llusion Remix - Bonus Track",
+      "url": "https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu"
     },
     {
       "added_at": "2025-11-10 09:53:18",

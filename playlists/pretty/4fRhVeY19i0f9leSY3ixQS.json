@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1326,
+  "num_followers": 1325,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAPFsxq5L4L/IAs915zaFUdGvlH8ktv",
+  "snapshot_id": "AAAPHSUH9hzXFipHSn11VqJRhKwhKiYh",
   "tracks": [
     {
       "added_at": "2026-04-23 04:57:04",
@@ -1583,70 +1583,6 @@
       "duration_ms": 134352,
       "name": "en passant",
       "url": "https://open.spotify.com/track/2t5duGfnFDJoXH3v1EDuML"
-    },
-    {
-      "added_at": "2026-04-09 23:03:33",
-      "album": {
-        "name": "War On Truth",
-        "url": "https://open.spotify.com/album/3OYyhARMm1NUSgRAsqNMtG"
-      },
-      "artists": [
-        {
-          "name": "What Did You Expect?",
-          "url": "https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "War On Truth",
-      "url": "https://open.spotify.com/track/0L1hZ5zYQY0bSkQBShHXe1"
-    },
-    {
-      "added_at": "2026-04-09 07:52:54",
-      "album": {
-        "name": "The Birds Don't Sing Like They Used To",
-        "url": "https://open.spotify.com/album/25ltcBLSDR0WSv6g3vavBD"
-      },
-      "artists": [
-        {
-          "name": "Lysandra",
-          "url": "https://open.spotify.com/artist/2kwHwfdXssMjpJsolDldv7"
-        }
-      ],
-      "duration_ms": 214750,
-      "name": "906",
-      "url": "https://open.spotify.com/track/2CJb9HY5pNkz3wW1aGMKVj"
-    },
-    {
-      "added_at": "2026-04-09 07:49:29",
-      "album": {
-        "name": "Hostility",
-        "url": "https://open.spotify.com/album/2wkr2XSt5SeMfTFZGnBkcT"
-      },
-      "artists": [
-        {
-          "name": "Shortest Straw",
-          "url": "https://open.spotify.com/artist/2P2i4h91G4iqXbcSRv3Ukk"
-        }
-      ],
-      "duration_ms": 276631,
-      "name": "Hostility",
-      "url": "https://open.spotify.com/track/6yqfAyRYcyA5vnK90TODRw"
-    },
-    {
-      "added_at": "2026-04-09 04:55:05",
-      "album": {
-        "name": "Pressure Point",
-        "url": "https://open.spotify.com/album/0jpZ5HqkbGg8KgHPnzUrsV"
-      },
-      "artists": [
-        {
-          "name": "Unlighted",
-          "url": "https://open.spotify.com/artist/63rgtxXevhp9eszz7bXPqz"
-        }
-      ],
-      "duration_ms": 172399,
-      "name": "Pressure Point",
-      "url": "https://open.spotify.com/track/5stTHqRSib5JYUwu1d3fT3"
     },
     {
       "added_at": "2026-03-31 11:19:08",
@@ -4287,6 +4223,54 @@
       "duration_ms": 224291,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/3oWWWsb0nybj7wZbgteO9u"
+    },
+    {
+      "added_at": "2026-05-10 12:15:34",
+      "album": {
+        "name": "GOTHIC",
+        "url": "https://open.spotify.com/album/5eWJOg7A1OTIvwMsU9UYPL"
+      },
+      "artists": [
+        {
+          "name": "MOODE.ART",
+          "url": "https://open.spotify.com/artist/18OtkFSnmwUZFiPFBMnZIH"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Gothic",
+      "url": "https://open.spotify.com/track/3FoQM1ktHddoFtY2X1a0Cf"
+    },
+    {
+      "added_at": "2026-05-10 12:15:07",
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/6k6BrRl4pdpNKk94SRUUbA"
+      },
+      "artists": [
+        {
+          "name": "everything ending!",
+          "url": "https://open.spotify.com/artist/52avG1ZL5tD2hg7nFY35Kw"
+        }
+      ],
+      "duration_ms": 166475,
+      "name": "ratrace",
+      "url": "https://open.spotify.com/track/2F3BGTkuAnPmtm1DPk3AAl"
+    },
+    {
+      "added_at": "2026-05-10 12:14:50",
+      "album": {
+        "name": "Sunburn Sneakers",
+        "url": "https://open.spotify.com/album/32bHDeSj7Xt3o81BHanAU2"
+      },
+      "artists": [
+        {
+          "name": "The Nightfall",
+          "url": "https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo"
+        }
+      ],
+      "duration_ms": 196839,
+      "name": "Sunburn Sneakers",
+      "url": "https://open.spotify.com/track/16L6tbiwc9XlrdTWAYKaln"
     }
   ],
   "unique_name": "Shuffle Roulette",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 119 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 119 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 64 | [Take the Money and Run](https://open.spotify.com/track/19tMN8umiBe8059CFFuAJO) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [We Got This \(Special Edition\)](https://open.spotify.com/album/449UVVqfNmuvAJ5DmzqaeD) | 2:44 |
 | 65 | [Absofuckinglutely](https://open.spotify.com/track/1p3vZodO5QqYSWUrjqgsXe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 3:23 |
 | 66 | [Can't Get Enough](https://open.spotify.com/track/2jvE5LxxAC1XX6pjSgUHf7) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:12 |
-| 67 | [Holy Love](https://open.spotify.com/track/0f4px6Ke8B28tqXoc9QZSP) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Holy Love](https://open.spotify.com/album/72hLhU3ag5VdY6kbpnXvFM) | 2:58 |
-| 68 | [Umbrella \(10:00\)](https://open.spotify.com/track/13dcUFDRNgIPuy0d7S0C3g) | [JUNHEE](https://open.spotify.com/artist/19edNqjH3rTGrvHs9VF9Xe) | [The First Day & Night](https://open.spotify.com/album/0sYYE05FeBWONVaAWg3cPt) | 3:28 |
+| 67 | [Umbrella \(10:00\)](https://open.spotify.com/track/13dcUFDRNgIPuy0d7S0C3g) | [JUNHEE](https://open.spotify.com/artist/19edNqjH3rTGrvHs9VF9Xe) | [The First Day & Night](https://open.spotify.com/album/0sYYE05FeBWONVaAWg3cPt) | 3:28 |
+| 68 | [Holy Love](https://open.spotify.com/track/0f4px6Ke8B28tqXoc9QZSP) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Holy Love](https://open.spotify.com/album/72hLhU3ag5VdY6kbpnXvFM) | 2:58 |
 | 69 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
 | 70 | [Pour nous](https://open.spotify.com/track/4ODqvS74HErS4hZEsRfIvt) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb) | 3:01 |
 | 71 | [Sniper \(feat\. R\. City\)](https://open.spotify.com/track/15LiEl1EWCNRH8h8vVRFN1) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sniper \(feat\. R\. City\)](https://open.spotify.com/album/3kEIdgowUJoET1hMMw0e4q) | 3:44 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 118 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
 | 119 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
 
-Snapshot ID: `AcREPAAAAADwGCdjMDIAyqJRHG+fAH4p`
+Snapshot ID: `AcRJ3AAAAAA5DeShMbqYt+Z2G6dCkl74`

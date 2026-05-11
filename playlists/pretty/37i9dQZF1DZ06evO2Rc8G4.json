@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 171382,
+  "num_followers": 171392,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAAHOv3VkzUNNhAtgPGj1wh7",
+  "snapshot_id": "af55AAAAAAD4GE9IZ4hTKSHYunflrw2F",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Get Outta My Way",
-      "url": "https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ"
+      "duration_ms": 199426,
+      "name": "All the Lovers",
+      "url": "https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 199426,
-      "name": "All the Lovers",
-      "url": "https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW"
+      "duration_ms": 218160,
+      "name": "Get Outta My Way",
+      "url": "https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ"
     },
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Abbey Road Sessions",
-        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 247533,
-      "name": "Where the Wild Roses Grow",
-      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+        "name": "The Abbey Road Sessions",
+        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 207986,
-      "name": "A Second to Midnight",
-      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+      "duration_ms": 247533,
+      "name": "Where the Wild Roses Grow",
+      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
     },
     {
       "added_at": null,

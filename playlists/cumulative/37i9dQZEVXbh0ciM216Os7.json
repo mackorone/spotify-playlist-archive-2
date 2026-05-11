@@ -4697,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "The Dethalbum DKXX: Dethmastered (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0FdfJuF34mrNIfGSIaCBIn"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Awaken - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/3FwCHASzIbrJu4AN0OfLla"
+    },
+    {
+      "album": {
         "name": "Awesome Ways",
         "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
       },
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 88346,
       "name": "Bad Actors",
       "url": "https://open.spotify.com/track/1oOUhect64PiuYFboTjbnq"
@@ -10574,7 +10592,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 107385,
       "name": "Cant Look Back",
       "url": "https://open.spotify.com/track/4BLDnlO6IYXIbemUIBIK26"
@@ -43366,7 +43384,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 204293,
       "name": "Murmaider - Remixed & Remastered",
       "url": "https://open.spotify.com/track/7jmvNb79ULSmGqEwo2HCDo"
@@ -45736,6 +45754,32 @@
       "duration_ms": 215079,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/5x0zW1JcdON7Zli2umGEJg"
+    },
+    {
+      "album": {
+        "name": "From Takoma With Love",
+        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        },
+        {
+          "name": "Kal\u00e9ra",
+          "url": "https://open.spotify.com/artist/6iikMXh4KCnspxngWliHWa"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171075,
+      "name": "No Sleep (with Kal\u00e9ra)",
+      "url": "https://open.spotify.com/track/6GIcKCUENZzpaa7eKkNlQQ"
     },
     {
       "album": {
@@ -49784,7 +49828,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 399692,
       "name": "Pet Monster Shotglass",
       "url": "https://open.spotify.com/track/13DFJVS47EeL85Rzpd5Ao9"
@@ -51840,7 +51884,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 1166904,
       "name": "Prison from Einstein on the Beach (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/0pgA6dDBQWT4CeTsve9wyD"
@@ -52056,7 +52100,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 886034,
       "name": "Protest from Satyagraha (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/1fKeRYlYHNpqanDN86hdd2"

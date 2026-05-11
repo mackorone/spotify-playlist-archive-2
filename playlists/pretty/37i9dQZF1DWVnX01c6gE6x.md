@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:1Rd6XqtD2PNcs599lgCaqn">Las Desencantadas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,009 likes - 9 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,007 likes - 9 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 8 | [La infancia de antes era mejor que la de ahora l Cachorritas Podcast l Ep 33](https://open.spotify.com/episode/6CTgrAua0zQ61dFpbSrYEO) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 45:21 |
 | 9 | [Noviazgos de Pueblo \| Cachorritas Podcast \| Ep 02](https://open.spotify.com/episode/6fM5cok1ukGOOWUX06KQe3) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 29:56 |
 
-Snapshot ID: `AAAAAG5daAe0Jo3nIoumuc79WkHLyOTS`
+Snapshot ID: `AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr`

@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103977,
+  "num_followers": 103972,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADl85qQ1dbubhuSutMXwMjK",
+  "snapshot_id": "af55AAAAAAAz77/fr6fmSqA8WVcqQgsK",
   "tracks": [
     {
       "added_at": null,
@@ -371,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+        "name": "Pena Negra",
+        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
       },
       "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 153994,
-      "name": "No Le Hago Falta",
-      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+      "duration_ms": 180800,
+      "name": "Pena Negra",
+      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
     },
     {
       "added_at": null,
@@ -399,6 +403,38 @@
       "duration_ms": 242091,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 153994,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
     },
     {
       "added_at": null,
@@ -483,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buena Se\u00f1al",
         "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
@@ -527,22 +547,6 @@
       "duration_ms": 196766,
       "name": "Se Me Va A Pasar",
       "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
     },
     {
       "added_at": null,
@@ -579,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pena Negra",
-        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
       "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Pena Negra",
-      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
+      "duration_ms": 196080,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "No Me Hubiera Enamorado",
-      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Covers, Vol. 6",
         "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puro Chanela",
         "url": "https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 172709,
       "name": "Perro Culazo",
       "url": "https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209702,
+      "name": "Para No Pensar En Ti",
+      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Puedo Odiarte",
         "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 126386,
       "name": "No Puedo Odiarte",
       "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar En Ti",
-      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
     },
     {
       "added_at": null,

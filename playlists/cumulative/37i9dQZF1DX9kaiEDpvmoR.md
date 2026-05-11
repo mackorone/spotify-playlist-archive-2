@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-564 songs - 1 day 9 hr 22 min
+565 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 | 2026-02-13 |
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
 | [Tonårsland](https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tonårsland](https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9) | 3:10 | 2026-03-12 |  |
+| [Tre hjärtan](https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP) | [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Aster, atlas](https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd) | 3:15 | 2026-05-08 |  |
 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 | 2025-09-25 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 | 2025-04-25 |
@@ -570,7 +571,7 @@
 | [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-11 | 2025-10-31 |
 | [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-09-05 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |
-| [Östra Svealand \(2025\)](https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Andra landskap 50](https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0) | 4:55 | 2025-12-11 |  |
+| [Östra Svealand \(2025\)](https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Andra landskap 50](https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0) | 4:55 | 2025-12-11 | 2026-05-11 |
 | [Över](https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Över](https://open.spotify.com/album/6Rj381d50c8zjs37wts189) | 3:49 | 2026-02-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

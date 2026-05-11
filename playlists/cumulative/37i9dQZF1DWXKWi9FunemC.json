@@ -118,6 +118,28 @@
     {
       "album": {
         "name": "Abide",
+        "url": "https://open.spotify.com/album/3nrLBnxj1hvWBRkmKgUcor"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tung",
+          "url": "https://open.spotify.com/artist/406aHYogHqGV0CKeLMLlUb"
+        },
+        {
+          "name": "Cade Kellam",
+          "url": "https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V"
+    },
+    {
+      "album": {
+        "name": "Abide",
         "url": "https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR"
       },
       "artists": [
@@ -4484,7 +4506,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 210027,
       "name": "Mad for Me",
       "url": "https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt"

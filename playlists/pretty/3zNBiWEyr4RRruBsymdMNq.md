@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3zNBiWEyr4RRruBsymdMNq.md) - [plain]
 
 > Relaxing classical music to help you study, focus and relax.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 59,620 likes - 111 songs - 6 hr 16 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 59,614 likes - 111 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

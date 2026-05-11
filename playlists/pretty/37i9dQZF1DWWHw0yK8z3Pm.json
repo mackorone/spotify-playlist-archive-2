@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Sam Barber",
-  "num_followers": 69984,
+  "num_followers": 69992,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "A Lesson In Leavin'",
@@ -915,6 +899,22 @@
       "duration_ms": 204603,
       "name": "A Lesson In Leavin\u2019",
       "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
     },
     {
-      "added_at": "2026-02-13 05:01:21",
-      "album": {
-        "name": "If You Ain\u2019t In Love By Now",
-        "url": "https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "If You Ain\u2019t In Love By Now",
-      "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Trail Of Flowers (Deluxe Edition)",
@@ -1003,6 +987,22 @@
       "duration_ms": 218967,
       "name": "Don\u2019t Let Your Deal Go Down",
       "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
+    },
+    {
+      "added_at": "2026-02-13 05:01:21",
+      "album": {
+        "name": "If You Ain\u2019t In Love By Now",
+        "url": "https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "If You Ain\u2019t In Love By Now",
+      "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
     },
     {
-      "added_at": "2025-12-19 01:32:26",
-      "album": {
-        "name": "I'm In Love with a Man",
-        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "I'm In Love with a Man",
-      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "King of Possibilities",
@@ -1087,6 +1071,22 @@
       "duration_ms": 156566,
       "name": "King of Possibilities",
       "url": "https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V"
+    },
+    {
+      "added_at": "2025-12-19 01:32:26",
+      "album": {
+        "name": "I'm In Love with a Man",
+        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "I'm In Love with a Man",
+      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
     },
     {
       "added_at": "2026-03-06 05:00:29",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
-      "added_at": "2026-04-03 04:04:19",
+      "added_at": "2026-04-24 04:04:48",
       "album": {
-        "name": "Book of Paul",
-        "url": "https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2"
+        "name": "Lighthearted",
+        "url": "https://open.spotify.com/album/578ibCcGypCvhLWHQpKFrB"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Dark Horse",
-      "url": "https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB"
+      "duration_ms": 259106,
+      "name": "Lighthearted",
+      "url": "https://open.spotify.com/track/0g8dcefRBlz8rCLG0HUxzL"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
     },
     {
-      "added_at": "2026-04-24 04:04:48",
-      "album": {
-        "name": "Lighthearted",
-        "url": "https://open.spotify.com/album/578ibCcGypCvhLWHQpKFrB"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 259106,
-      "name": "Lighthearted",
-      "url": "https://open.spotify.com/track/0g8dcefRBlz8rCLG0HUxzL"
-    },
-    {
       "added_at": "2026-01-30 05:01:55",
       "album": {
         "name": "Dublin Blues",
@@ -1215,6 +1199,22 @@
       "duration_ms": 388107,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
+    },
+    {
+      "added_at": "2026-04-03 04:04:19",
+      "album": {
+        "name": "Book of Paul",
+        "url": "https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
-      "album": {
-        "name": "Blue Water",
-        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
-    },
-    {
       "added_at": "2026-02-13 05:01:21",
       "album": {
         "name": "Man's World",
@@ -1423,34 +1407,18 @@
     {
       "added_at": "2026-02-20 13:24:26",
       "album": {
-        "name": "A Perfect Dive",
-        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+        "name": "Blue Water",
+        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
       },
       "artists": [
         {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 206284,
-      "name": "A Perfect Dive",
-      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
-    },
-    {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
+      "duration_ms": 188773,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1475,6 +1443,38 @@
       "duration_ms": 247050,
       "name": "The Shadows (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
+    },
+    {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        }
+      ],
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
     },
     {
       "added_at": "2025-10-31 00:01:27",
@@ -1509,20 +1509,20 @@
       "url": "https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Vengeance and Grace",
-        "url": "https://open.spotify.com/album/2VsiZpURytj95TTxg7MTrD"
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 195613,
-      "name": "Vengeance and Grace",
-      "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"
+      "duration_ms": 210650,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
     },
     {
       "added_at": "2025-10-31 00:01:27",
@@ -1541,36 +1541,48 @@
       "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
+      "added_at": "2026-02-06 05:01:26",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
+        "name": "Vengeance and Grace",
+        "url": "https://open.spotify.com/album/2VsiZpURytj95TTxg7MTrD"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
         }
       ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
+      "duration_ms": 195613,
+      "name": "Vengeance and Grace",
+      "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"
     },
     {
-      "added_at": "2026-01-23 14:55:43",
+      "added_at": "2026-05-08 04:05:41",
       "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+        "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
+        "url": "https://open.spotify.com/album/7lfVMgxYRfFYOih7bPQcbp"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        },
+        {
+          "name": "Explore! Pop Choir",
+          "url": "https://open.spotify.com/artist/3NJxKJgqbahvTuQhvMeD2v"
         }
       ],
-      "duration_ms": 219725,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
+      "duration_ms": 189253,
+      "name": "Cold April (ft. Kara Jackson, Denitia & Explore! Pop Choir)",
+      "url": "https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg"
     },
     {
       "added_at": "2026-05-01 04:04:59",
@@ -1587,6 +1599,22 @@
       "duration_ms": 257816,
       "name": "Concrete Cowboys",
       "url": "https://open.spotify.com/track/5psdsH70eLJRu198sLYNrD"
+    },
+    {
+      "added_at": "2026-01-23 14:55:43",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1667,26 +1695,6 @@
       "duration_ms": 215182,
       "name": "Lose A Friend",
       "url": "https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk"
-    },
-    {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Nancy",
-        "url": "https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j"
-      },
-      "artists": [
-        {
-          "name": "Alan Doyle",
-          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
-        },
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 170663,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv"
     }
   ],
   "unique_name": "Renegades",

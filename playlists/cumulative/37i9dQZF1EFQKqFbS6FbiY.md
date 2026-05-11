@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-746 songs - 1 day 12 hr 18 min
+747 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Devolve Meu Love \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/6958nWHJrz74MZEGEjPMpR) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [Devolve Meu Love \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/24DAshBWB5vV61I3B4kidr) | 3:16 | 2023-12-30 |  |
 | [Dez pras Seis \- Ao Vivo](https://open.spotify.com/track/4IKGqb0XEN0ifjrUzfytQm) | [Estação Fandangueira](https://open.spotify.com/artist/2iz8WnrjWssFfOcXejDGxB) | [A Nossa História \(Ao Vivo\)](https://open.spotify.com/album/63gLNsz1IAk7PekH7swiO0) | 3:38 | 2023-12-30 | 2025-04-16 |
 | [Dez pras Seis \- Ao Vivo](https://open.spotify.com/track/4nUag8gjUau2SqrFnhi96J) | [Estação Fandangueira](https://open.spotify.com/artist/2iz8WnrjWssFfOcXejDGxB) | [A Nossa História \(Ao Vivo\)](https://open.spotify.com/album/2c8KPO22YNZMVABxiqCYxt) | 3:38 | 2025-04-15 |  |
+| [Dia de Pegar Ex](https://open.spotify.com/track/12fa4EvDUH50cLUFppYXKW) | [Patrick & Gabriel](https://open.spotify.com/artist/0alwm6dDVhxF0TZ4oaDQGc), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Dia de Pegar Ex](https://open.spotify.com/album/277GQLj9DTI5qCSsUMKiCD) | 3:02 | 2026-05-10 |  |
 | [Dia de se arrepender \- Ao Vivo](https://open.spotify.com/track/3izOD0322MpOpIvbKD2ByZ) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf) | 2:59 | 2026-02-11 |  |
 | [Dia de se arrepender \- Ao Vivo](https://open.spotify.com/track/4ts1oJyjgGQipTdn0lYpdO) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Dia de se arrepender \(Ao Vivo\)](https://open.spotify.com/album/6TBrO2apUVr5Hxyr80HOs3) | 2:59 | 2025-05-31 | 2026-05-09 |
 | [Diferentona](https://open.spotify.com/track/7gDIspmr2n9W5k95BFItAU) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:29 | 2023-12-30 |  |

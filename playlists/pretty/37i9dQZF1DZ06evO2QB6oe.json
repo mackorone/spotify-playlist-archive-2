@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70638,
+  "num_followers": 70642,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAABH8xAXOqSCAATZCj3zlgGr",
+  "snapshot_id": "af55AAAAAAB5h6ldjhXZlgG1PU5gzMt6",
   "tracks": [
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 198839,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+      "duration_ms": 198839,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
       "duration_ms": 162857,
       "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 238445,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,

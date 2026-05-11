@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/0h5WuZR2KzHYSRX2NhF2GF"
+    },
+    {
+      "album": {
         "name": "Coco Money",
         "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 136707,
       "name": "Coco Money",
       "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"

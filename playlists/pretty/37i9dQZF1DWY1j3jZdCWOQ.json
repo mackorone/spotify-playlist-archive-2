@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 584299,
+  "num_followers": 584346,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 124173,
-      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
-      "url": "https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 124173,
+      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+      "url": "https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "HOW 2 GET AWAY WITH MURDER",
-        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "HOW 2 GET AWAY WITH MURDER",
-      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "LosT",
         "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 205368,
       "name": "LosT",
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "zombie",
         "url": "https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 131433,
       "name": "zombie",
       "url": "https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Internet Killed The Rockstar",
+        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 159393,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "TEETH (feat. Diggy Graves)",
         "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 149333,
       "name": "TEETH (feat. Diggy Graves)",
       "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Internet Killed The Rockstar",
-        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 159393,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "in your head",
-        "url": "https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm"
+        "name": "Best I Never Had",
+        "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
       },
       "artists": [
         {
-          "name": "cloudyfield",
-          "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
+          "name": "The Downtown Fiction",
+          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
         }
       ],
-      "duration_ms": 170000,
-      "name": "in your head",
-      "url": "https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw"
+      "duration_ms": 199959,
+      "name": "I Just Wanna Run",
+      "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1887,34 +1887,18 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Best I Never Had",
-        "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
+        "name": "in your head",
+        "url": "https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm"
       },
       "artists": [
         {
-          "name": "The Downtown Fiction",
-          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
+          "name": "cloudyfield",
+          "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
         }
       ],
-      "duration_ms": 199959,
-      "name": "I Just Wanna Run",
-      "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "KILL THE GHOST",
-        "url": "https://open.spotify.com/album/3BMM3Kv5iUtKkvjxLDkMzN"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 182990,
-      "name": "KILL THE GHOST",
-      "url": "https://open.spotify.com/track/3Irxv6FNc0sqF8WJbqJi8m"
+      "duration_ms": 170000,
+      "name": "in your head",
+      "url": "https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1931,6 +1915,22 @@
       "duration_ms": 164533,
       "name": "hurricane",
       "url": "https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "KILL THE GHOST",
+        "url": "https://open.spotify.com/album/3BMM3Kv5iUtKkvjxLDkMzN"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "duration_ms": 182990,
+      "name": "KILL THE GHOST",
+      "url": "https://open.spotify.com/track/3Irxv6FNc0sqF8WJbqJi8m"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2347,6 +2347,38 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Good Girls (Don\u2019t Get Used)",
+        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 215402,
+      "name": "Good Girls (Don\u2019t Get Used)",
+      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -2379,38 +2411,6 @@
       "duration_ms": 228133,
       "name": "LOSER!!",
       "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Good Girls (Don\u2019t Get Used)",
-        "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 215402,
-      "name": "Good Girls (Don\u2019t Get Used)",
-      "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
     },
     {
       "added_at": "2026-04-07 21:11:18",

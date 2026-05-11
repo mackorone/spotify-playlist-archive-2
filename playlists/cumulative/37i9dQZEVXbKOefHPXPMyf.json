@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 540114,
       "name": "Aparto Todo",
       "url": "https://open.spotify.com/track/0vvqnyFB7jGUQm26hrt9hy"
@@ -7400,7 +7400,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -27109,6 +27109,28 @@
     },
     {
       "album": {
+        "name": "Entre Tu y Yo",
+        "url": "https://open.spotify.com/album/5WqP0aPvrfMTdZmubpW8Md"
+      },
+      "artists": [
+        {
+          "name": "yoilya",
+          "url": "https://open.spotify.com/artist/0JO6iSEawFTeWSPEkjMA5X"
+        },
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/3pEQy6iXarFjmMmSmMZm0O"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209260,
+      "name": "Entre Tu y Yo",
+      "url": "https://open.spotify.com/track/6Axwzs2r4Y2eQNyk5kzYkg"
+    },
+    {
+      "album": {
         "name": "Entre t\u00fa y yo",
         "url": "https://open.spotify.com/album/015qWLIFXhFMx1lkb01A2v"
       },
@@ -31000,7 +31022,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 102549,
       "name": "Friendzone:(",
       "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
@@ -32424,7 +32446,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -32442,7 +32464,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -52346,7 +52368,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
@@ -56052,7 +56074,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 206657,
       "name": "No Me Rompiste, Me Despertaste",
       "url": "https://open.spotify.com/track/7anUaWKP8wYGU0MPZbWVV2"
@@ -56562,7 +56584,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
@@ -76484,7 +76506,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 194685,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/7rbUoVsxRtX2t5nzXhJcX0"

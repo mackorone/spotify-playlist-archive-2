@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,887 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,020 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 20 | [Skippi](https://open.spotify.com/track/2YiOEjz6IgMbDfC2BYJprc) | [Damost](https://open.spotify.com/artist/24Bo3rD54ttCU6Z5GsiXaU), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Skippi](https://open.spotify.com/album/3oM4h7xiSlJIJQFHgt5zaF) | 2:34 |
 | 21 | [MA VIDA](https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT) | [MA VIDA](https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9) | 3:21 |
 | 22 | [MOOD](https://open.spotify.com/track/3LR2AShmeh0dhIdjDIw0R6) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:59 |
-| 23 | [wonder why](https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c) | [Veintiuno](https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF), [Caspr](https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7) | [Fúria](https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf) | 2:09 |
-| 24 | [Action](https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Action](https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM) | 3:48 |
-| 25 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
-| 26 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
-| 27 | [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 |
-| 28 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
-| 29 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
-| 30 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
+| 23 | [Action](https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Action](https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM) | 3:48 |
+| 24 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
+| 25 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 |
+| 26 | [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 |
+| 27 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
+| 28 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
+| 29 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
+| 30 | [wonder why](https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c) | [Veintiuno](https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF), [Caspr](https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7) | [Fúria](https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf) | 2:09 |
 | 31 | [INSOMNIA HOTEL](https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [INSOMNIA HOTEL](https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN) | 2:39 |
 | 32 | [bohème](https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [bohème](https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS) | 2:54 |
 | 33 | [\#31\#](https://open.spotify.com/track/7gwo8Ykbqf2g8Hx1AsgQdJ) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [TRACES](https://open.spotify.com/track/2m0HY8YO0SZ10OmBNA1seb) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [TRACES & DAYEKH](https://open.spotify.com/album/7jBvEk7T55jJu0wL983Oam) | 2:57 |
 | 50 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
 
-Snapshot ID: `AAAAAA+V8b8oRUNHJCnJnw2wg8JgVY8L`
+Snapshot ID: `AAAAADD/P1zy8dnLDAQrbaBXN6AX08pM`

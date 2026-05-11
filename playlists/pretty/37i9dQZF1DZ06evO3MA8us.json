@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35519,
+  "num_followers": 35521,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACFGCjcvaGPbyFEy5MHOtzC",
+  "snapshot_id": "af55AAAAAAAGDstTgH9eShkKrSaCvHPI",
   "tracks": [
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From LIFT: Creative Conference",
-        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Jourdan Johnson",
-          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
-        }
-      ],
-      "duration_ms": 221477,
-      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
-      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: The Essential Collection (Live)",
         "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 291600,
       "name": "How Great Is Our God - Live",
       "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From LIFT: Creative Conference",
+        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Jourdan Johnson",
+          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
+        }
+      ],
+      "duration_ms": 221477,
+      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
+      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
     },
     {
       "added_at": null,

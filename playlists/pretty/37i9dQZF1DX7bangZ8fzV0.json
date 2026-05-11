@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Tasch\u00e9 en Zaan Sonnekus \n",
-  "num_followers": 145933,
+  "num_followers": 145959,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Lei My Na Die Water",
-        "url": "https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ"
+        "name": "Hier Waar Ek Nou Is",
+        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
         }
       ],
-      "duration_ms": 205973,
-      "name": "Kom En L\u00ea My Neer",
-      "url": "https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW"
+      "duration_ms": 270000,
+      "name": "Koue Hande",
+      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
     },
     {
       "added_at": "2026-04-16 22:02:58",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Hier Waar Ek Nou Is",
-        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
+        "name": "Lei My Na Die Water",
+        "url": "https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ"
       },
       "artists": [
         {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Koue Hande",
-      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
+      "duration_ms": 205973,
+      "name": "Kom En L\u00ea My Neer",
+      "url": "https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 180534,
       "name": "Hop Hop Spinnekop",
       "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Boer Ding",
+        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 212242,
+      "name": "Boer Ding",
+      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Boer Ding",
-        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
       },
       "artists": [
         {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 212242,
-      "name": "Boer Ding",
-      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
     },
     {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Sonsak In Die Vrystaat",
-        "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
-      },
-      "artists": [
-        {
-          "name": "Rooksein",
-          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
-        }
-      ],
-      "duration_ms": 264935,
-      "name": "Sonsak In Die Vrystaat",
-      "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
-    },
-    {
       "added_at": "2026-03-19 22:00:29",
       "album": {
         "name": "Regte Plekke",
@@ -723,6 +707,22 @@
       "duration_ms": 189611,
       "name": "Regte Plekke",
       "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Sonsak In Die Vrystaat",
+        "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "duration_ms": 264935,
+      "name": "Sonsak In Die Vrystaat",
+      "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Winter In Die Kaap",
-        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        },
-        {
-          "name": "Bella",
-          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
-        }
-      ],
-      "duration_ms": 206271,
-      "name": "Winter In Die Kaap",
-      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "308",
         "url": "https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 167472,
       "name": "308",
       "url": "https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Winter In Die Kaap",
+        "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        },
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "Winter In Die Kaap",
+      "url": "https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Jannaman",
-        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 205114,
-      "name": "Jannaman",
-      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "My Bra",
         "url": "https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 210322,
       "name": "My Bra",
       "url": "https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Jannaman",
+        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 205114,
+      "name": "Jannaman",
+      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Die Piesangskille",
         "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 246438,
       "name": "Mia",
       "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
-      "added_at": "2026-03-19 22:00:29",
-      "album": {
-        "name": "Sou Jy?",
-        "url": "https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M"
-      },
-      "artists": [
-        {
-          "name": "ONS",
-          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "Sou Jy?",
-      "url": "https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA"
-    },
-    {
       "added_at": "2026-03-06 00:47:11",
       "album": {
         "name": "Klein Bietjie",
@@ -1207,6 +1191,22 @@
       "duration_ms": 208969,
       "name": "AVBOB Se Stoep",
       "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+    },
+    {
+      "added_at": "2026-03-19 22:00:29",
+      "album": {
+        "name": "Sou Jy?",
+        "url": "https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "Sou Jy?",
+      "url": "https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Wat Kan 'n Man Dan Doen",
-        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
       "artists": [
         {
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 164520,
-      "name": "Wat Kan 'n Man Dan Doen",
-      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
+      "duration_ms": 187094,
+      "name": "Witblits",
+      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Oorwurm",
-        "url": "https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9"
+        "name": "Trek Hom Plat",
+        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Oorwurm",
-      "url": "https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO"
+      "duration_ms": 172850,
+      "name": "Trek Hom Plat",
+      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1339,8 +1343,8 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+        "name": "Wat Kan 'n Man Dan Doen",
+        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
       },
       "artists": [
         {
@@ -1348,29 +1352,25 @@
           "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 187094,
-      "name": "Witblits",
-      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
+      "duration_ms": 164520,
+      "name": "Wat Kan 'n Man Dan Doen",
+      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
     },
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Trek Hom Plat",
-        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
+        "name": "Oorwurm",
+        "url": "https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9"
       },
       "artists": [
         {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
         }
       ],
-      "duration_ms": 172850,
-      "name": "Trek Hom Plat",
-      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+      "duration_ms": 205440,
+      "name": "Oorwurm",
+      "url": "https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO"
     }
   ],
   "unique_name": "Afrikaanse Hits",

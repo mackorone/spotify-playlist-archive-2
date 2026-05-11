@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66682,
+  "num_followers": 66681,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAABgFo+yaaLvds/4GfWeWWaf",
+  "snapshot_id": "af55AAAAAABJ0FirSrpy+B4y/xL3Knsc",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 338253,
-      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -499,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+        "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
       "artists": [
         {
@@ -508,13 +488,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 383490,
-      "name": "Simplesmente Te Adorar",
-      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
+      "duration_ms": 338253,
+      "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
     },
     {
       "added_at": null,
@@ -531,6 +511,26 @@
       "duration_ms": 304280,
       "name": "O Tanque de Betesda (Ao Vivo)",
       "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 381280,
-      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 294475,
       "name": "Profetiza",
       "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 381280,
+      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Dani Ferber",
-          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
-        }
-      ],
-      "duration_ms": 348133,
-      "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Casa de Deus",
         "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
       },
@@ -927,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
+        "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Dani Ferber",
+          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
         }
       ],
-      "duration_ms": 393533,
-      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
+      "duration_ms": 348133,
+      "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A"
     },
     {
       "added_at": null,
@@ -963,6 +947,22 @@
       "duration_ms": 294183,
       "name": "Transformada",
       "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 393533,
+      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
     },
     {
       "added_at": null,
@@ -999,18 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus dos Vales, Deus dos Montes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aYeIpqwkXbGEMBPauuf5b"
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Deus dos Vales, Deus dos Montes + Tira-me do Vale (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3"
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
     }
   ],
   "unique_name": "This Is Eyshila",

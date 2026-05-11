@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Moses Bliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,532 likes - 84 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,578 likes - 84 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

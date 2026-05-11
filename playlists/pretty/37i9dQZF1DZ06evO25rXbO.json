@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1240145,
+  "num_followers": 1240253,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADfRv8sVhDACd7gacu92lZn",
+  "snapshot_id": "af55AAAAAAAyW5wlsS6qQMU3gNEpm66e",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 249200,
+      "name": "Rock the House",
+      "url": "https://open.spotify.com/track/0UQNHlrHiz19Htk7YTLVe5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 245988,
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 249200,
-      "name": "Rock the House",
-      "url": "https://open.spotify.com/track/0UQNHlrHiz19Htk7YTLVe5"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "5/4",
+      "url": "https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 155973,
       "name": "Ascension (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 162080,
-      "name": "5/4",
-      "url": "https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN"
     },
     {
       "added_at": null,

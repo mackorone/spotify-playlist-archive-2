@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Evan Craft
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,371 likes - 100 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,379 likes - 100 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [I've Got Joy \- Live](https://open.spotify.com/track/7JKukpcwlVhrbeeQ0CPLi6) | [MVMNT Music](https://open.spotify.com/artist/6hqd7tuxGE8xQkIH9GZY4z), [Caylie Bryant](https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O) | [I've Got Joy \(Live\)](https://open.spotify.com/album/2AR4Yr9Gb8Eqi4s2q8A4F0) | 3:31 |
 | 100 | [Come \- Acoustic](https://open.spotify.com/track/2mFHL3VnjrTTtXnNV1Npzd) | [Pure Mosaic Collective](https://open.spotify.com/artist/3rS6Cfw5eepDVLsJTkUUXZ), [Amanda Janson](https://open.spotify.com/artist/1hmExKU3SJa9jqgv2KKCuN) | [Pure Mosaic Collective, Vol\. 2 \(Acoustic\)](https://open.spotify.com/album/2ZAdZYkRVL3VF9wY3FRUih) | 4:50 |
 
-Snapshot ID: `AAAAAL3injz7ABCf42I+0peyIT5HdZtG`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Martyna Baranowska
 
-831 songs - 1 day 16 hr 33 min
+832 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Polki Są Najpiękniejsze](https://open.spotify.com/track/547ag5NdLB7P6esSQGLzWM) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Polki Są Najpiękniejsze](https://open.spotify.com/album/6yzq8ve6chRV80U5KpYTdC) | 2:44 | 2025-05-08 | 2025-05-23 |
 | [POLSKI SPIDERMAN](https://open.spotify.com/track/7Hq0pMuSXqNf4S2gmZ5aS3) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [POLSKI SPIDERMAN](https://open.spotify.com/album/38GbDZRfoJ9ErpePeEUaWr) | 2:37 | 2025-04-17 | 2025-07-04 |
 | [POPSTAR](https://open.spotify.com/track/1HuCX4lQF59JjpoaGc82r0) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [POPSTAR](https://open.spotify.com/album/5TCgpSMekiz0v3n3r9caF7) | 2:28 | 2024-06-28 | 2024-08-31 |
-| [PORTO](https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY) | [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [PORTO](https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn) | 2:29 | 2026-05-07 |  |
+| [PORTO](https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY) | [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [PORTO](https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn) | 2:29 | 2026-05-07 | 2026-05-11 |
 | [Poszukam](https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Pośród Snów EP](https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg) | 2:26 | 2024-07-11 | 2024-10-12 |
 | [posłuszny](https://open.spotify.com/track/3RKy5uSxKjUglMJTe0M4XA) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [posłuszny](https://open.spotify.com/album/2T9sDbInfrwjVzrJTOpL3U) | 2:31 | 2025-04-10 | 2025-04-18 |
 | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0) | [Marianna Kniat](https://open.spotify.com/artist/4msYBkpUbynxMz8FgyQxiX) | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/album/4IGAhWMLqLbCNUkJvqvEH3) | 3:33 | 2025-01-23 | 2025-02-23 |
@@ -651,6 +651,7 @@
 | [STARLET](https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [STARLET](https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R) | 2:39 | 2026-04-02 |  |
 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 | 2025-01-23 | 2025-02-07 |
 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-03-26 |  |
+| [STILL PRETTY WHEN I CRY](https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [STILL PRETTY WHEN I CRY](https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX) | 2:39 | 2026-05-07 |  |
 | [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 | 2025-01-30 | 2025-03-28 |
 | [STOP!!](https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [STOP!!](https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 | 2025-01-23 | 2025-03-02 |

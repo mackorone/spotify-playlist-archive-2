@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75914,
+  "num_followers": 75921,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAABh55YyVj/ka89zU0Kals1a",
+  "snapshot_id": "af55AAAAAAAWTUbsnt5pz9Zf+Hd8SWYm",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 257021,
-      "name": "La Noche Que Yo Te Vi",
-      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Siento Loco",
         "url": "https://open.spotify.com/album/1sDQ7rlBAHZZAt8AJfNzzT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 300053,
       "name": "Hechicera Crayon",
       "url": "https://open.spotify.com/track/77eFgBJ4ZQPsSwN1z6AJxw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 257021,
+      "name": "La Noche Que Yo Te Vi",
+      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailalo",
         "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 159590,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Nada Mas",
-      "url": "https://open.spotify.com/track/5Dc4Z7HiEVrDOScK87J4hU"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Pasemos a otro tema - en vivo",
-      "url": "https://open.spotify.com/track/19oeyrvbBfAcpgMEGQ3v3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 195186,
       "name": "Vamos Linda",
       "url": "https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Pasemos a otro tema - en vivo",
+      "url": "https://open.spotify.com/track/19oeyrvbBfAcpgMEGQ3v3S"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 270054,
-      "name": "Te Puedo Enamorar",
-      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
+      "duration_ms": 192546,
+      "name": "Bumerang",
+      "url": "https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

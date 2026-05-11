@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,432 songs - 9 day 20 hr 14 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,435 songs - 9 day 20 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4440,5 +4440,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4430 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
 | 4431 | [V Prozu Nie Leziet](https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [V Prozu Nie Leziet](https://open.spotify.com/album/1Bb35YX1lZYnNoovFIyLsR) | 1:45 |
 | 4432 | [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 |
+| 4433 | [I'm Still There](https://open.spotify.com/track/4uxqegrTFDM4pj4SYNHrvm) | [Julia.](https://open.spotify.com/artist/3b4ZzGl6WpHruxDY0BZlSK) | [Round The Corner](https://open.spotify.com/album/6O7ZkCrWBIedrmOIw09DDi) | 5:16 |
+| 4434 | [Ghoom Liya Jag Saara](https://open.spotify.com/track/592ulo85iG1SVhKRprZ1ib) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghoom Liya Jag Saara](https://open.spotify.com/album/1TlIqVNS9145VHm1Fbk3rP) | 2:47 |
+| 4435 | [Static Youth](https://open.spotify.com/track/5nv0Qkdpzp0FhfzFVUBNA4) | [Isla Sound](https://open.spotify.com/artist/6u29XgtkGCNtrrO4uyrIxT) | [Static Youth](https://open.spotify.com/album/0Iln4zLwSGQu9luY4N5lqs) | 4:18 |
 
-Snapshot ID: `AAAIkE2Ze9AOrVLpqgiEYJGLS0bkrFIs`
+Snapshot ID: `AAAIk7jx15sklNpkNTMppsM1tKpVM+e+`

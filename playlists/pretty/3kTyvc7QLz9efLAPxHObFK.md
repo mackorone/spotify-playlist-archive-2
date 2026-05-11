@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,998 songs - 6 day 10 hr 54 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,005 songs - 6 day 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3006,5 +3006,12 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2996 | [A New Religion](https://open.spotify.com/track/0g0Z5Xn9Feapap1eFIvqYE) | [Insuspect](https://open.spotify.com/artist/1NfB4JTkokC6dfFqKXyZEa), [Eternal Records](https://open.spotify.com/artist/18Ye7CcEFN7DXDXElQs57x) | [A New Religion](https://open.spotify.com/album/190xglUAKd8bHSBJSevgPF) | 2:59 |
 | 2997 | [Disturbia](https://open.spotify.com/track/46kQj1YYd94k6SgEh7QdRR) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Disturbia](https://open.spotify.com/album/31XmeUVGwLuxPYfa0ObiMQ) | 2:44 |
 | 2998 | [Blow](https://open.spotify.com/track/2xfyv0R1uKru1oiA68fThB) | [Pokeyz](https://open.spotify.com/artist/2orq9ChRxP41i7nkFpSxUS), [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Bloomee](https://open.spotify.com/artist/5T6xdgI1e9Gzfek5HVes5W) | [Blow](https://open.spotify.com/album/6Cs0lyPKkDhlbCdv2qtSzr) | 2:35 |
+| 2999 | [ALORS ON FUCK](https://open.spotify.com/track/40uy0FZUJzehFscZi9Vt22) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [ALORS ON FUCK](https://open.spotify.com/album/4c6W2sQcFN0ovnwqT3yUFu) | 1:49 |
+| 3000 | [LEVITATE](https://open.spotify.com/track/1wudcMRwhGUcaiF1tKbm5v) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [LEVITATE](https://open.spotify.com/album/0fjkXYioFTQYeoBobtUfxI) | 3:29 |
+| 3001 | [DETONATE](https://open.spotify.com/track/1IiB4vid0gY4Nu77gkG3Gy) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [DETONATE](https://open.spotify.com/album/6IEaed0hhlnIhk0iE52rSW) | 3:14 |
+| 3002 | [STOP CRYING](https://open.spotify.com/track/5LwiInzkZr3SqDmfE0eWWb) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [STOP CRYING](https://open.spotify.com/album/3qws9ZZxPn9JAP1yfBWm0H) | 2:19 |
+| 3003 | [ENERGY](https://open.spotify.com/track/0ASIrCXZvsHhSYQ4DiChus) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [ENERGY](https://open.spotify.com/album/7FSjPb9SyBwd0d4TCVCkFg) | 2:03 |
+| 3004 | [Always In The Night](https://open.spotify.com/track/4O5Y1hjQYEfUV56MhlZi7E) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Always In The Night](https://open.spotify.com/album/4J8MqcxkIsHsLavqvXy1Fm) | 2:17 |
+| 3005 | [Soldiers of Core](https://open.spotify.com/track/62D9NNzhPK5R5jByb5kjn9) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [HardwithCore](https://open.spotify.com/artist/5GniPuP4fY2u0mURtfy7by) | [Soldiers of Core](https://open.spotify.com/album/2NSF39emIOe1sMYYEhiQWX) | 2:41 |
 
-Snapshot ID: `AAAMD9id9Qxx27q/D9U9Qs58QMOpWqXV`
+Snapshot ID: `AAAMFto/KaGZ0qT1cb7Wa8ZGMR85+cB2`

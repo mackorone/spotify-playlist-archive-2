@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133000,
+  "num_followers": 133006,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Nisso Eu Vou Acreditar",
+        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Luiz Alves Filho",
+          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Nisso Eu Vou Acreditar",
+      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Dan\u00e7ando na Chuva (Remix)",
         "url": "https://open.spotify.com/album/3Q5BZjgvWG9x5mI5OTg1Dg"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Nisso Eu Vou Acreditar",
-        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Luiz Alves Filho",
-          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Nisso Eu Vou Acreditar",
-      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
     },
     {
       "added_at": "2026-05-08 03:01:30",

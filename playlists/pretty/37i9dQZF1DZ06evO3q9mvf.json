@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3215,
+  "num_followers": 3219,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACoWL3Q0RbMmW0Hc5CrdSFI",
+  "snapshot_id": "af55AAAAAAA82E0XT0B3lv8stWjLL5u4",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Walkabout",
-      "url": "https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD"
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 95960,
-      "name": "Shoplifting",
-      "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
+      "duration_ms": 228160,
+      "name": "Newtown",
+      "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
+      "duration_ms": 282906,
+      "name": "Walkabout",
+      "url": "https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Newtown",
-      "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
+      "duration_ms": 95960,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 221306,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 113960,
-      "name": "Split (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Basement",
         "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 98000,
       "name": "From The Basement",
       "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 113960,
+      "name": "Split (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Vaseline (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full moon",
-        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Full moon",
-      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
+      "duration_ms": 135973,
+      "name": "Vaseline (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+        "name": "Full moon",
+        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 322786,
-      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
+      "duration_ms": 183960,
+      "name": "Full moon",
+      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 134213,
       "name": "Number One Enemy",
       "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 322786,
+      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
     },
     {
       "added_at": null,

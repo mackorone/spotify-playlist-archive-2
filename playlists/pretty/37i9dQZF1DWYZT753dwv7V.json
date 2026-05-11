@@ -143,18 +143,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "La genesi del tuo colore",
-        "url": "https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu"
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
       "artists": [
         {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 228984,
-      "name": "La genesi del tuo colore",
-      "url": "https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG"
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+        "name": "La genesi del tuo colore",
+        "url": "https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
         }
       ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+      "duration_ms": 228984,
+      "name": "La genesi del tuo colore",
+      "url": "https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Magmamemoria MMXX (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
-      },
-      "artists": [
-        {
-          "name": "Levante",
-          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Tikibombom",
-      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Microchip Emozionale",
         "url": "https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 243320,
       "name": "Tutti I Miei Sbagli",
       "url": "https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "CADERE VOLARE",
+        "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "farfalle",
+      "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "CADERE VOLARE",
-        "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
       },
       "artists": [
         {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
         }
       ],
-      "duration_ms": 164000,
-      "name": "farfalle",
-      "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
+      "duration_ms": 203133,
+      "name": "Tikibombom",
+      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Sulla Mia Pelle",
-        "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
-      },
-      "artists": [
-        {
-          "name": "Noemi",
-          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Per tutta la vita",
-      "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Pazza",
         "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 168166,
       "name": "Pazza",
       "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Sulla Mia Pelle",
+        "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Per tutta la vita",
+      "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Fragola",
-          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Siamo uguali",
-      "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Little Tony",
         "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Riccardo Del Turco",
-        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
       },
       "artists": [
         {
-          "name": "Riccardo Del Turco",
-          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
+          "name": "Lorenzo Fragola",
+          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Cosa hai messo nel caff\u00e8?",
-      "url": "https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa"
+      "duration_ms": 250053,
+      "name": "Siamo uguali",
+      "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1019,6 +1003,22 @@
       "duration_ms": 190866,
       "name": "La prima cosa bella",
       "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Riccardo Del Turco",
+        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Del Turco",
+          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Cosa hai messo nel caff\u00e8?",
+      "url": "https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1223,38 +1223,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Per sentirmi vivo",
-        "url": "https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa"
+        "name": "I Grandi Successi",
+        "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
       },
       "artists": [
         {
-          "name": "Fasma",
-          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+          "name": "Anna Oxa",
+          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
         },
         {
-          "name": "GG",
-          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+          "name": "Fausto Leali",
+          "url": "https://open.spotify.com/artist/1O60mnSM6G8r2Reuw5jTgk"
         }
       ],
-      "duration_ms": 179079,
-      "name": "Per sentirmi vivo",
-      "url": "https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Le Robe Che Ha Detto Adriano",
-        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Il Ragazzo Della Via Gluck",
-      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
+      "duration_ms": 240933,
+      "name": "Ti lascer\u00f2",
+      "url": "https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1279,22 +1263,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "I Grandi Successi",
-        "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
+        "name": "Per sentirmi vivo",
+        "url": "https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa"
       },
       "artists": [
         {
-          "name": "Anna Oxa",
-          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
         },
         {
-          "name": "Fausto Leali",
-          "url": "https://open.spotify.com/artist/1O60mnSM6G8r2Reuw5jTgk"
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
         }
       ],
-      "duration_ms": 240933,
-      "name": "Ti lascer\u00f2",
-      "url": "https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee"
+      "duration_ms": 179079,
+      "name": "Per sentirmi vivo",
+      "url": "https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1311,6 +1295,22 @@
       "duration_ms": 215880,
       "name": "Canzone per te",
       "url": "https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Le Robe Che Ha Detto Adriano",
+        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Il Ragazzo Della Via Gluck",
+      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
     },
     {
       "added_at": "2026-01-25 23:01:06",

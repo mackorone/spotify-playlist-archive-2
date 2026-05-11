@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 11 hr 14 min
+183 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Ponle Play \(Aperta o Play\)](https://open.spotify.com/track/1UDAI7t05GCQs5UlzD8QfR) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 3:26 | 2023-03-09 |  |
 | [Ponte Pa' Mí](https://open.spotify.com/track/4pro0Fful9k84YoIdfY6Ha) | [Benavides](https://open.spotify.com/artist/7dZHvdnkTQTXQIFQAQTd05), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ponte Pa' Mí](https://open.spotify.com/album/7xQVG75jFT8Ux9SEqTCf4z) | 3:50 | 2023-03-09 |  |
 | [Por Eso Me Voy](https://open.spotify.com/track/6wmG6oTCXdGzo2lqrKN5GQ) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [De Miles A Uno](https://open.spotify.com/album/2zasLrVORM3LSxqGNVbhzX) | 3:55 | 2023-03-09 |  |
+| [Por Mil Razones](https://open.spotify.com/track/0xOFVf7Jt1hVyQ7ppXk3v8) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:49 | 2026-05-10 |  |
 | [Por Qué?](https://open.spotify.com/track/6KkfzyRjWlKUKqgg3T9euM) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 3:35 | 2023-03-09 |  |
 | [Por Ti](https://open.spotify.com/track/5TVABmbdkXetVYpLJq0uYr) | [Eduardo Verastegui](https://open.spotify.com/artist/5Abe4JiZV5tKWEyM55N9FQ) | [Eduardo Verastegui](https://open.spotify.com/album/5Hn9VytcQtyzmc0EqCyIvC) | 4:25 | 2023-03-09 |  |
 | [Por Ti](https://open.spotify.com/track/3E0ARcAlLPTSHZgfInLiKV) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Perales](https://open.spotify.com/album/4mc1dugbNT41IFGM7ACBzj) | 2:40 | 2025-01-09 | 2025-04-12 |

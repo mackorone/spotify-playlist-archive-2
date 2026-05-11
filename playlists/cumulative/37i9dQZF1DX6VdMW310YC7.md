@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,895 songs - 5 day 8 hr 43 min
+1,896 songs - 5 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [Don’t Make Me Wait](https://open.spotify.com/track/5kuOKkzZKK6PKNT4KKoHZU) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Joker Jaxx](https://open.spotify.com/artist/0p4lf0URwp0RR3NuQ1sBrJ) | [Casa Mirage EP](https://open.spotify.com/album/34TytAkF3zsBfMVippDJSd) | 4:04 | 2020-05-18 | 2020-07-03 |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-10 | 2023-03-19 |
 | [Dorfex Bos \- Bassnectar Remix 2015 Version](https://open.spotify.com/track/4nhPLFdQIZyZzt6mw1mMoX) | [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Into the Sun](https://open.spotify.com/album/29e92rWX8k9EYyhi3COxtE) | 5:05 | 2020-05-22 | 2020-07-03 |
-| [Double Reflections](https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Double Reflections](https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28) | 4:16 | 2024-07-12 |  |
+| [Double Reflections](https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Double Reflections](https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28) | 4:16 | 2024-07-12 | 2026-05-11 |
 | [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 | 2024-03-01 | 2025-03-22 |
 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 | 2020-02-29\* | 2020-03-16 |
 | [Dreamers](https://open.spotify.com/track/0IFjoiGX4xtKNaUdz53rII) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Dreamers](https://open.spotify.com/album/1jfKcpOdA9589c3GMqRu3G) | 4:22 | 2024-06-21 | 2024-08-24 |
@@ -1792,6 +1792,7 @@
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2022-08-26 | 2022-09-10 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5keheTPTVskQPPhrIkKd3i) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:36 | 2022-08-26 | 2023-05-13 |
 | [Walls \- Deeper Shades Mix](https://open.spotify.com/track/1BUrN6qW5eUvLc0rdSWHcO) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Quilla](https://open.spotify.com/artist/24psFjsCyZlTjAccGnZbaJ) | [Walls \(Deeper Shades Mix\)](https://open.spotify.com/album/3os5snJQgP9O0BWFulookz) | 3:35 | 2020-05-18 | 2020-07-03 |
+| [Wanderlust](https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 3:15 | 2026-05-08 |  |
 | [Wanna Be Somewhere With You](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Wanna Be Somewhere With You](https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY) | 3:40 | 2024-12-13 |  |
 | [Wanna Know](https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9) | [Jack Willard](https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Wanna Know](https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL) | 3:38 | 2025-08-29 | 2025-12-20 |
 | [Warped Minds \- Original Mix](https://open.spotify.com/track/0ZHlBjoFadDZVSmewEnHOl) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [On the Edge](https://open.spotify.com/album/21NXzVQakij6zNoNnbQmyJ) | 5:32 | 2020-05-18 | 2020-07-03 |

@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 222789,
+  "num_followers": 222788,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-05-07 22:02:38",
       "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2026-05-07 22:02:38",
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 148920,
       "name": "Against The Dying Of The Light",
       "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
-    },
-    {
-      "added_at": "2026-05-07 22:02:38",
-      "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2026-05-07 22:02:38",

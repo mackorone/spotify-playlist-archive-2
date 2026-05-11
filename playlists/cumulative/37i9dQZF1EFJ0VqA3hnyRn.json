@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Happy Halloween",
+        "url": "https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77357,
+      "name": "Happy Halloween",
+      "url": "https://open.spotify.com/track/0lur0abhKPyoC1KB12W1Nu"
+    },
+    {
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
       },

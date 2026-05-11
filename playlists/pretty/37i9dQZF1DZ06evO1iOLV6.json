@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12441,
+  "num_followers": 12447,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAC7lxnuiL3WaVK/s/MLJwjS",
+  "snapshot_id": "af55AAAAAACy5jh5rOF54EO0Lopg2L0J",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girlie 'O' (Remix)",
-        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 235514,
-      "name": "Girlie 'O' - Remix",
-      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 252200,
       "name": "Together",
       "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girlie 'O' (Remix)",
+        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 235514,
+      "name": "Girlie 'O' - Remix",
+      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Soldier",
-        "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "African Soldier",
-      "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 203464,
       "name": "Kolo Kolo",
       "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Soldier",
+        "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Jonze",
-        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 157391,
-      "name": "No Jonze",
-      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+        "name": "No Jonze",
+        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
       },
       "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
         }
       ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+      "duration_ms": 157391,
+      "name": "No Jonze",
+      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heal D World",
+        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Heal D World",
+      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seyi or Shay",
         "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 228884,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heal D World",
-        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Heal D World",
-      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
     },
     {
       "added_at": null,

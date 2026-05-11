@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10",
-  "num_followers": 760238,
+  "num_followers": 760217,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
+        "name": "Cortando Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sonho de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
         "name": "M\u00e3e Solteira",
         "url": "https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Cortando Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sonho de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
         "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
       },
@@ -463,6 +463,42 @@
       "duration_ms": 157557,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 147456,
+      "name": "Champanhe - Ao Vivo",
+      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -491,42 +527,6 @@
       "duration_ms": 179039,
       "name": "Eu Vou na Sua Casa",
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 147456,
-      "name": "Champanhe - Ao Vivo",
-      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
+        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/4VzsANLdIdY6117Kz21BaA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 142591,
+      "name": "Academia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2J5xoLFlAdLST47YkYtd0s"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
         "name": "Encosta na Parede",
         "url": "https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 131822,
       "name": "Encosta na Parede",
       "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/4VzsANLdIdY6117Kz21BaA"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 142591,
-      "name": "Academia - Ao Vivo",
-      "url": "https://open.spotify.com/track/2J5xoLFlAdLST47YkYtd0s"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 158432,
+      "name": "J\u00e1 Que Me Ensinou a Beber",
+      "url": "https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 158432,
-      "name": "J\u00e1 Que Me Ensinou a Beber",
-      "url": "https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
+        "name": "Fechad\u00e3o Com O Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/340r8N5XuvcgQ2HWueyO2G"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 145494,
+      "name": "Fechad\u00e3o Com O Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3aViJFg2GxwCe7GRR0O99l"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
         "name": "Morena Jambo / Miau (Ao Vivo)",
         "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
       },
@@ -971,38 +987,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Fechad\u00e3o Com O Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/340r8N5XuvcgQ2HWueyO2G"
+        "name": "Simplesmente Acontece",
+        "url": "https://open.spotify.com/album/5aMtI7dUanCeMCVnH24Aim"
       },
       "artists": [
         {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 145494,
-      "name": "Fechad\u00e3o Com O Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3aViJFg2GxwCe7GRR0O99l"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 135250,
-      "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
+      "duration_ms": 172488,
+      "name": "Simplesmente Acontece",
+      "url": "https://open.spotify.com/track/0caCO8a83FpYYzzYxAIoeV"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
+        "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
       },
       "artists": [
         {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         },
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 147116,
-      "name": "5 Da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
+      "duration_ms": 135250,
+      "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Simplesmente Acontece",
-        "url": "https://open.spotify.com/album/5aMtI7dUanCeMCVnH24Aim"
+        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
         },
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 172488,
-      "name": "Simplesmente Acontece",
-      "url": "https://open.spotify.com/track/0caCO8a83FpYYzzYxAIoeV"
+      "duration_ms": 147116,
+      "name": "5 Da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -1139,22 +1139,6 @@
       "duration_ms": 159082,
       "name": "DENTRO DA LAND ROVER - Ao Vivo",
       "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
-        "name": "Tubar\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Tubar\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -1203,6 +1187,22 @@
       "duration_ms": 148905,
       "name": "Baile do VJ",
       "url": "https://open.spotify.com/track/6EmbpFK7SJaZCgluPeQ50X"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "added_at": "2026-05-01 03:01:05",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-01 03:01:05",
       "album": {
-        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
-        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 171335,
-      "name": "Gosta De Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
-    },
-    {
-      "added_at": "2026-05-01 03:01:05",
-      "album": {
         "name": "Parceira Pra Vida",
         "url": "https://open.spotify.com/album/5bGSk3r41O693lIhvdP9q5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 173180,
       "name": "Parceira Pra Vida",
       "url": "https://open.spotify.com/track/6jyFIpRJlNnkHQTXQrZYRz"
+    },
+    {
+      "added_at": "2026-05-01 03:01:05",
+      "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
       "added_at": "2026-05-01 03:01:05",

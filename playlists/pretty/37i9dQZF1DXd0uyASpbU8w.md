@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Uncle Waffles, The Big Hash & Kabza De Small, FLO,  Chris Brown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,043 likes - 83 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,090 likes - 83 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 132751,
+  "num_followers": 132759,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACatOdNcuAFDM5a9tUid0jz",
+  "snapshot_id": "af55AAAAAADcInuPqVrS2xwth6uyNH+o",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "YAPAQUE",
+        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "YAPAQUE",
+      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -439,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -471,6 +479,22 @@
       "duration_ms": 175853,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": null,
@@ -591,30 +615,6 @@
       "duration_ms": 173796,
       "name": "Le Viene Bien",
       "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YAPAQUE",
-        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "YAPAQUE",
-      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 153707,
       "name": "En Tu Marea",
       "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
     },
     {
       "added_at": null,
@@ -963,18 +963,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+        "name": "Lo Malo (Remix)",
+        "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
       },
       "artists": [
         {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Ana Guerra",
+          "url": "https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO"
+        },
+        {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 206320,
-      "name": "Ya Para Qu\u00e9",
-      "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
+      "duration_ms": 184009,
+      "name": "Lo Malo - Remix",
+      "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
     }
   ],
   "unique_name": "This Is Greeicy",

@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-242 songs - 14 hr 23 min
+243 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [I Know](https://open.spotify.com/track/0UyqB29vUuveKq8ftX7tLD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [I Know](https://open.spotify.com/album/65gooErIzRYOMZiwUGnlMK) | 3:07 | 2021-12-28 | 2022-03-14 |
 | [I Wanna Love You \(feat\. Harmonize\)](https://open.spotify.com/track/2mHB3UQ6yDuyBD0TA8OACi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:54 | 2022-01-26 | 2022-08-20 |
 | [I'll Be There \(feat\. MOGmusic\)](https://open.spotify.com/track/0nDlqLTFNlKtTKP3YptEC1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:57 | 2022-01-27 | 2023-03-04 |
-| [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2025-11-22 |  |
+| [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2025-11-22 | 2026-05-11 |
 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 | 2021-12-28 | 2025-11-09 |
 | [Imali](https://open.spotify.com/track/6rqXjMcbaF6ntmbvFhv4ho) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Imali](https://open.spotify.com/album/4sRjCLPtaDPmbUHToa3GqS) | 2:59 | 2024-04-28 | 2024-05-25 |
 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 | 2021-12-31 | 2025-05-23 |
@@ -186,6 +186,7 @@
 | [Overload 2](https://open.spotify.com/track/38tyJTQNH3CX0TBaSL6Nph) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Overload 2](https://open.spotify.com/album/0FUMpRiaQSexzpDp2XKDDO) | 3:38 | 2022-02-21 | 2022-02-23 |
 | [Pain Killer](https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:30 | 2021-12-28 |  |
 | [Pay as You Go](https://open.spotify.com/track/5oQRbajY5isfjnNrmUcVs1) | [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Pay as You Go](https://open.spotify.com/album/7DlJxUOOLoWOlr3tbL6IwB) | 2:51 | 2023-09-20 | 2023-11-11 |
+| [Peace Of Mind](https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Peace Of Mind](https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit) | 2:59 | 2026-05-11 |  |
 | [Pon D Ting \(feat\. Banky W\)](https://open.spotify.com/track/6Zb7dUqj1DyGgJu90TMerQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:11 | 2021-12-28 | 2022-10-13 |
 | [Psalm 35](https://open.spotify.com/track/0SuVrH28fX2pHzKpFuYQny) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Shay On You](https://open.spotify.com/album/1hTBtOkNbOrwbHVieubMke) | 3:32 | 2022-10-16 | 2023-05-15 |
 | [Put It On God](https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Put It On God](https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH) | 3:34 | 2025-11-16 |  |

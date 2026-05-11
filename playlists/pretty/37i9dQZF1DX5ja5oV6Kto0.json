@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111587,
+  "num_followers": 111589,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "Do Not Disturb (DND)",
+        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Do Not Disturb (DND)",
+      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "impossible",
         "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Do Not Disturb (DND)",
-        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Do Not Disturb (DND)",
-      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/5fuqTYBeqn9qfQvOcIzO7h"
       },
@@ -491,62 +491,6 @@
       "duration_ms": 140011,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/0UYnnfZV0qVoYspA88nYSi"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Night Drive (feat. Dagmawit Ameha)",
-        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        },
-        {
-          "name": "Dagmawit Ameha",
-          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
-        }
-      ],
-      "duration_ms": 220340,
-      "name": "Night Drive (feat. Dagmawit Ameha)",
-      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Only Water (Feat. Lady Donli)",
-        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        },
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Only Water - Feat. Lady Donli",
-      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "moccasins",
-        "url": "https://open.spotify.com/album/4wO69tZeMudvacH8NTwlrP"
-      },
-      "artists": [
-        {
-          "name": "mau from nowhere",
-          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "moccasins",
-      "url": "https://open.spotify.com/track/5a14LjwlzD0DD86WkjkYI4"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -571,18 +515,58 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "PRETTY WOMAN (WICKED)",
-        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
+        "name": "Night Drive (feat. Dagmawit Ameha)",
+        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
       },
       "artists": [
         {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        },
+        {
+          "name": "Dagmawit Ameha",
+          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
         }
       ],
-      "duration_ms": 199487,
-      "name": "PRETTY WOMAN (WICKED)",
-      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
+      "duration_ms": 220340,
+      "name": "Night Drive (feat. Dagmawit Ameha)",
+      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "moccasins",
+        "url": "https://open.spotify.com/album/4wO69tZeMudvacH8NTwlrP"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "moccasins",
+      "url": "https://open.spotify.com/track/5a14LjwlzD0DD86WkjkYI4"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Only Water (Feat. Lady Donli)",
+        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Only Water - Feat. Lady Donli",
+      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -607,18 +591,34 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "OLORIN PACK",
-        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+        "name": "Many Men",
+        "url": "https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu"
       },
       "artists": [
         {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
         }
       ],
-      "duration_ms": 113776,
-      "name": "TRABAYE",
-      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+      "duration_ms": 155151,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "PRETTY WOMAN (WICKED)",
+        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 199487,
+      "name": "PRETTY WOMAN (WICKED)",
+      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
     },
     {
       "added_at": "2026-05-08 11:36:27",
@@ -639,18 +639,34 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Many Men",
-        "url": "https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu"
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
       },
       "artists": [
         {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
         }
       ],
-      "duration_ms": 155151,
-      "name": "Many Men",
-      "url": "https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio"
+      "duration_ms": 113776,
+      "name": "TRABAYE",
+      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -679,18 +695,18 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
       },
       "artists": [
         {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
         }
       ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
+      "duration_ms": 158537,
+      "name": "ROCK & SLIDE",
+      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -735,22 +751,6 @@
       "duration_ms": 176326,
       "name": "Whine Am",
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 158537,
-      "name": "ROCK & SLIDE",
-      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "SAME TIME",
+        "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
+      },
+      "artists": [
+        {
+          "name": "Chie",
+          "url": "https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm"
+        }
+      ],
+      "duration_ms": 116869,
+      "name": "SAME TIME",
+      "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "september rush",
         "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 221000,
       "name": "Imperfect Daughters",
       "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "SAME TIME",
-        "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
-      },
-      "artists": [
-        {
-          "name": "Chie",
-          "url": "https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm"
-        }
-      ],
-      "duration_ms": 116869,
-      "name": "SAME TIME",
-      "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "DUA PA",
-        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
-      },
-      "artists": [
-        {
-          "name": "Bapi Joss",
-          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "DUA PA",
-      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
         "name": "RUSH",
         "url": "https://open.spotify.com/album/2LQyWkXGeGOuLoqtSegnwX"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
-        "name": "Italawa",
-        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
+        "name": "DUA PA",
+        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
       },
       "artists": [
         {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
         }
       ],
-      "duration_ms": 172634,
-      "name": "Italawa",
-      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+      "duration_ms": 126000,
+      "name": "DUA PA",
+      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-05-08 00:01:59",
       "album": {
+        "name": "Italawa",
+        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 172634,
+      "name": "Italawa",
+      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
         "name": "Emefa's Revenge",
         "url": "https://open.spotify.com/album/4wEEWn3n3LkmmqamkKpzlR"
       },
@@ -1391,6 +1391,30 @@
       "duration_ms": 211636,
       "name": "Emefa's Revenge",
       "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
+    },
+    {
+      "added_at": "2026-05-08 00:01:59",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
+      },
+      "artists": [
+        {
+          "name": "DOLV GVNG",
+          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
+        },
+        {
+          "name": "TILYA",
+          "url": "https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 119092,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM"
     },
     {
       "added_at": "2026-05-08 00:01:59",
@@ -1463,30 +1487,6 @@
       "duration_ms": 166384,
       "name": "Almost Famous",
       "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
-    },
-    {
-      "added_at": "2026-05-08 00:01:59",
-      "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/7buvO2dAe29hXmWVd5g2iE"
-      },
-      "artists": [
-        {
-          "name": "DOLV GVNG",
-          "url": "https://open.spotify.com/artist/3MCYloql4KzM3HVyE8L39Z"
-        },
-        {
-          "name": "TILYA",
-          "url": "https://open.spotify.com/artist/5kpD7yRaPpg749YCFdN2Dl"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 119092,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM"
     },
     {
       "added_at": "2026-05-08 00:01:59",

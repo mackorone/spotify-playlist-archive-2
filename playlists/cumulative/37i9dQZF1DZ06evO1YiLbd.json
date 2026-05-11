@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u97f3\u697d\u6284\u9332 \u5176\u306e\u6f06",
+        "url": "https://open.spotify.com/album/0ucLLOtixqZbos8Si4DqV9"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Albis Wis",
+      "url": "https://open.spotify.com/track/6x421whEcBTZEPjxrO15FQ"
+    },
+    {
+      "album": {
         "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 179253,
       "name": "\u516d\u7b49\u661f - MHA Arr Ver.",
       "url": "https://open.spotify.com/track/00DcXgTtsvtv6AtN64GkF3"
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 199866,
       "name": "\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 125240,
       "name": "\u7206\u6bba\u738b!!",
       "url": "https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn"

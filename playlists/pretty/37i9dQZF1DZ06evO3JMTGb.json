@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACDJY4vWwNVNuUxVvUsj9je",
+  "snapshot_id": "af55AAAAAAAa+r8bHRtssL+4gSLUI0k9",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 213253,
-      "name": "N\u00f8kken",
-      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
+      "duration_ms": 218773,
+      "name": "Suosan",
+      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Suosan",
-      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 213253,
+      "name": "N\u00f8kken",
+      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 101775,
-      "name": "Me of Ocean",
-      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+      "duration_ms": 108845,
+      "name": "My River",
+      "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 108845,
-      "name": "My River",
-      "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
+      "duration_ms": 101775,
+      "name": "Me of Ocean",
+      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 107015,
-      "name": "Behind the Hill",
-      "url": "https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY"
+      "duration_ms": 228011,
+      "name": "Morning Room II",
+      "url": "https://open.spotify.com/track/1l0XBAqITx2387TGripMv1"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+      "duration_ms": 107015,
+      "name": "Behind the Hill",
+      "url": "https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 185870,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
+      "duration_ms": 234502,
+      "name": "Runge",
+      "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
     },
     {
       "added_at": null,
@@ -840,41 +840,29 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 234502,
-      "name": "Runge",
-      "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
+      "duration_ms": 185870,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
       "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 311079,
-      "name": "Return from Silence",
-      "url": "https://open.spotify.com/track/2ZRQeRdVWghcc42LGUEWUN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 432106,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/6npTUba77dx5CHI2nN3lfZ"
+      "duration_ms": 248154,
+      "name": "Arch",
+      "url": "https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC"
     }
   ],
   "unique_name": "This Is Sofie Birch",

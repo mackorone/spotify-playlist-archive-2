@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-344 songs - 19 hr 55 min
+345 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 | 2024-03-07 |  |
 | [Nightmare](https://open.spotify.com/track/79JXZAooztEbWrUGU0FELt) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:35 | 2024-03-07 |  |
 | [Nobody Told Me](https://open.spotify.com/track/6kxgE6qfqrXsKWMWSbUxaB) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:23 | 2024-03-07 |  |
-| [Not in Love](https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Not in Love](https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6) | 3:17 | 2024-10-24 |  |
+| [Not in Love](https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Not in Love](https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6) | 3:17 | 2024-10-24 | 2026-05-11 |
+| [Not in Love](https://open.spotify.com/track/6NwK2UZSO3RofFfreHxZOL) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 3:18 | 2026-05-10 |  |
 | [Nothing But A Sad Face On](https://open.spotify.com/track/2JoWbiR6mX7FyzIZyzuTOK) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:26 | 2025-04-14 |  |
 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 | 2024-03-07 |  |
 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 | 2024-03-07 |  |

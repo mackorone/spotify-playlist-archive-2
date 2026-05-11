@@ -748,10 +748,32 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 215753,
       "name": "She's A Sweetheart",
       "url": "https://open.spotify.com/track/55BuEPrfvpeYx5zUkRSoAS"
+    },
+    {
+      "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215753,
+      "name": "She's A Sweetheart",
+      "url": "https://open.spotify.com/track/7atvuaadSawmTPCDLUkYcR"
     },
     {
       "album": {

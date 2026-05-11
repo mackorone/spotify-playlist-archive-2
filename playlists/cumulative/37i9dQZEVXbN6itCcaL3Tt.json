@@ -4884,7 +4884,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -10082,7 +10082,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 186187,
       "name": "Chcia\u0142am Ciebie wi\u0119cej",
       "url": "https://open.spotify.com/track/2cym1s8XR4Z5b8qPCRhT1g"
@@ -14448,7 +14448,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 172500,
       "name": "Do\u015b\u0107",
       "url": "https://open.spotify.com/track/3HVS8yFZ32oRk8ZXgzVO3B"
@@ -18016,7 +18016,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 177653,
       "name": "FRASCATI",
       "url": "https://open.spotify.com/track/46A0vSoknm8uAX8h313zuo"
@@ -35271,6 +35271,28 @@
     },
     {
       "album": {
+        "name": "Napalona",
+        "url": "https://open.spotify.com/album/1NTSqq2VvNhMdfvaZu2oBS"
+      },
+      "artists": [
+        {
+          "name": "David Tango",
+          "url": "https://open.spotify.com/artist/30AY4WR8v4YL1XN2mX1dzP"
+        },
+        {
+          "name": "SxK",
+          "url": "https://open.spotify.com/artist/3NxXTXRWQlfELBTbFbf4p9"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "Napalona",
+      "url": "https://open.spotify.com/track/5Eg5qL4u3j7Jfi0N0X4Nrn"
+    },
+    {
+      "album": {
         "name": "NAPALONE FANKI",
         "url": "https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92"
       },
@@ -38344,7 +38366,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 176692,
       "name": "Obejmuj\u0119 noce",
       "url": "https://open.spotify.com/track/5d8JEUZ5PiMNE2mPnD6220"
@@ -46666,7 +46688,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 184153,
       "name": "RIO / NA \u017bYWO",
       "url": "https://open.spotify.com/track/37weADHNU7nLb5yHaadjbq"
@@ -47434,7 +47456,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 136838,
       "name": "R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/2iQpHZw3cPGz7C7qMGqN3Y"

@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40401,
+  "num_followers": 40402,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAD/2H27tYxWwoxoZ4CD/hoi",
+  "snapshot_id": "af55AAAAAAAUou06GEFVzwTN4l5Lhb+e",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bed of Roses (with Wale)",
+        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 185531,
+      "name": "Bed of Roses (with Wale)",
+      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YSIV",
         "url": "https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffee (F***ing) (feat. Wale)",
         "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
       },
@@ -1015,30 +1015,6 @@
       "duration_ms": 314053,
       "name": "Coffee (F***ing) (feat. Wale)",
       "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray for Paris",
-        "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 288004,
-      "name": "French Toast (feat. Wale & Joyce Wrice)",
-      "url": "https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84"
     },
     {
       "added_at": null,
@@ -1063,6 +1039,30 @@
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray for Paris",
+        "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 288004,
+      "name": "French Toast (feat. Wale & Joyce Wrice)",
+      "url": "https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84"
     }
   ],
   "unique_name": "This Is Wale",

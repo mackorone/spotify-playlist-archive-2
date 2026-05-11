@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 888767,
+  "num_followers": 888763,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADFzqy6uoe6muU9/1tGrY8t",
+  "snapshot_id": "af55AAAAAABWjBXo6V6DTc52VFn7v7oR",
   "tracks": [
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Battle Of The Sexes (Deluxe)",
         "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 216933,
       "name": "My Chick Bad",
       "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trigga (Deluxe)",
-        "url": "https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 221971,
-      "name": "Touchin, Lovin (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 230600,
       "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trigga (Deluxe)",
+        "url": "https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 221971,
+      "name": "Touchin, Lovin (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj"
     },
     {
       "added_at": null,

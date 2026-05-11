@@ -5709,6 +5709,28 @@
     },
     {
       "album": {
+        "name": "WORLDWAI",
+        "url": "https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Santiago Berrio",
+          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "AY BONITA",
+      "url": "https://open.spotify.com/track/7zIy0ZRAUgkOi7wdFFsskt"
+    },
+    {
+      "album": {
         "name": "Azizam (feat. Googoosh) [Persian Version]",
         "url": "https://open.spotify.com/album/4eAPqbxuqZuwBnYSBrE0Rb"
       },
@@ -16930,7 +16952,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 258479,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/5Nq780Ob4IvQXZ93apC3wB"
@@ -18316,7 +18338,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 85161,
       "name": "discipline",
       "url": "https://open.spotify.com/track/6Bn4zknR1mHMQYVUj8Bysn"
@@ -24064,7 +24086,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -32590,7 +32612,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -37180,7 +37202,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -54328,7 +54350,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 200275,
       "name": "O JAK MI\u0141O",
       "url": "https://open.spotify.com/track/2Xt4PeBHH20FB2L6rOlyKd"
@@ -57864,7 +57886,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 206850,
       "name": "Peter, sveter",
       "url": "https://open.spotify.com/track/67iwvG2Hpx75UhmQ9o2Nnz"

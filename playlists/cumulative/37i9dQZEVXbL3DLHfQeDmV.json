@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 316721,
       "name": "Angels Above Me - Party Remix",
       "url": "https://open.spotify.com/track/5V2PSbShf3SxcEuVH2vdam"
@@ -808,10 +808,28 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 232641,
       "name": "Another Day Old",
       "url": "https://open.spotify.com/track/2eRLna0nT0yyJw8MyYBDMw"
+    },
+    {
+      "album": {
+        "name": "The Years Between",
+        "url": "https://open.spotify.com/album/7zxeGAqygFnfWcpvjzqZrm"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dalton",
+          "url": "https://open.spotify.com/artist/52m47pf0V2dFVHZndwnzTi"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232641,
+      "name": "Another Day Old",
+      "url": "https://open.spotify.com/track/6uEWZtKwC2XlkQ30LEPH5D"
     },
     {
       "album": {
@@ -7544,7 +7562,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
@@ -8302,7 +8320,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -11232,7 +11250,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"

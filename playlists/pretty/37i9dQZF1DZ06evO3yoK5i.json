@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 251478,
+  "num_followers": 251511,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAABo5+6xQo+XrujOeIjWSYEg",
+  "snapshot_id": "af55AAAAAADBWTl7OHcWYEbbZhNPI203",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
-      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 323902,
       "name": "Si bastasen un par de canciones (feat. Andrea Bocelli)",
       "url": "https://open.spotify.com/track/5DMrZTtGf26xlo3dZ5T0Md"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "Estrella Gemela",
-      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musica \u00e8",
         "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 305906,
       "name": "Solo con te",
       "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "Estrella Gemela",
+      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Completamente Enamorados - Remastered 2021",
+      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 223521,
       "name": "Nel cuore lei",
       "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Completamente Enamorados - Remastered 2021",
-      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calma Aparente (Spanish Version)",
+        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Esta Pasando Noviembre",
+      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hay Vida",
         "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 210626,
       "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calma Aparente (Spanish Version)",
-        "url": "https://open.spotify.com/album/2GblNd4Iw3icXAXPIhKuQa"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 250853,
-      "name": "Esta Pasando Noviembre",
-      "url": "https://open.spotify.com/track/305WmAWejd1NAIPQc9hV6p"
     },
     {
       "added_at": null,

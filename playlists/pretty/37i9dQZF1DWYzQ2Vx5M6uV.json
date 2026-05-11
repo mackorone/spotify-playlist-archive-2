@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143472,
+  "num_followers": 143481,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-05-08 04:03:19",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-05-08 04:03:19",
-      "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 163404,
       "name": "1+1=1",
       "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
+    },
+    {
+      "added_at": "2026-05-08 04:03:19",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-05-08 04:03:19",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-05-08 04:03:19",
       "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
+    },
+    {
+      "added_at": "2026-05-08 04:03:19",
+      "album": {
         "name": "Tengo Un Plan (Remix)",
         "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
-    },
-    {
-      "added_at": "2026-05-08 04:03:19",
-      "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2026-05-08 04:03:19",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-05-08 04:03:19",
       "album": {
-        "name": "El Problema (2020)",
-        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 150865,
-      "name": "El Problema (2020)",
-      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
-    },
-    {
-      "added_at": "2026-05-08 04:03:19",
-      "album": {
         "name": "Afro Vibes (2024-07-19)",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 189500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW"
+    },
+    {
+      "added_at": "2026-05-08 04:03:19",
+      "album": {
+        "name": "El Problema (2020)",
+        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 150865,
+      "name": "El Problema (2020)",
+      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
     },
     {
       "added_at": "2026-05-08 04:03:19",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-05-08 04:03:19",
       "album": {
+        "name": "ohsaye",
+        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "ohsaye",
+      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
+    },
+    {
+      "added_at": "2026-05-08 04:03:19",
+      "album": {
         "name": "Mesera",
         "url": "https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 163018,
       "name": "Mesera",
       "url": "https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf"
-    },
-    {
-      "added_at": "2026-05-08 04:03:19",
-      "album": {
-        "name": "ohsaye",
-        "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "ohsaye",
-      "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
     },
     {
       "added_at": "2026-05-08 04:03:19",

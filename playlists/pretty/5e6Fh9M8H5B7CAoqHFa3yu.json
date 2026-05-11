@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 316,
+  "num_followers": 318,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJjX1XknDXYQJj5y2FVvljlzB1EhYQ",
+  "snapshot_id": "AAAJk3a3fYRskag2XtNV7C1kADdvcQwp",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38675,6 +38675,102 @@
       "duration_ms": 105000,
       "name": "V Prozu Nie Leziet",
       "url": "https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5"
+    },
+    {
+      "added_at": "2026-05-10 09:21:02",
+      "album": {
+        "name": "Thank You For The Pain",
+        "url": "https://open.spotify.com/album/6YsIJrcUbw1YyvD539LlrX"
+      },
+      "artists": [
+        {
+          "name": "Matt Goss",
+          "url": "https://open.spotify.com/artist/4iyT11zNOsSsCsCuyikiyS"
+        }
+      ],
+      "duration_ms": 201897,
+      "name": "Thank You For The Pain",
+      "url": "https://open.spotify.com/track/1zmb0lSkxt0rQqczhvCOVd"
+    },
+    {
+      "added_at": "2026-05-10 09:26:09",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt"
+      },
+      "artists": [
+        {
+          "name": "East Collectors",
+          "url": "https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i"
+    },
+    {
+      "added_at": "2026-05-10 11:14:49",
+      "album": {
+        "name": "Trust your light",
+        "url": "https://open.spotify.com/album/2Lt5jvum82KtNsrDGGKiwJ"
+      },
+      "artists": [
+        {
+          "name": "TwoNames",
+          "url": "https://open.spotify.com/artist/2NVBsCklQDkpTijPfqqlLI"
+        }
+      ],
+      "duration_ms": 299413,
+      "name": "Trust your light",
+      "url": "https://open.spotify.com/track/32HkxQwRLlHeOObWb1sZpk"
+    },
+    {
+      "added_at": "2026-05-10 15:32:10",
+      "album": {
+        "name": "Stars Align",
+        "url": "https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc"
+    },
+    {
+      "added_at": "2026-05-10 15:32:24",
+      "album": {
+        "name": "Seconds Of Neon",
+        "url": "https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC"
+      },
+      "artists": [
+        {
+          "name": "WETLOOK",
+          "url": "https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5"
+        }
+      ],
+      "duration_ms": 211250,
+      "name": "Seconds Of Neon",
+      "url": "https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu"
+    },
+    {
+      "added_at": "2026-05-10 15:54:19",
+      "album": {
+        "name": "R.S TAPEZ 1",
+        "url": "https://open.spotify.com/album/28NQqIZbAsA1sxtuuTV60B"
+      },
+      "artists": [
+        {
+          "name": "NikhiL Keolan Gounden",
+          "url": "https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1"
+        }
+      ],
+      "duration_ms": 59879,
+      "name": "EXISTED",
+      "url": "https://open.spotify.com/track/4qIUEF3oGfshmaJQoSbN2Y"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

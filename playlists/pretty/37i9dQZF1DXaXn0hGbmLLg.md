@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! May ambassador: <a href="spotify:artist:5YHb2A9DThy2IFLn6z5bkA">NYVE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,161 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,162 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

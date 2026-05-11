@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-318 songs - 16 hr 16 min
+319 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Shadows](https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 2:52 | 2024-06-07 |  |
 | [Shaking Hands With Elvis](https://open.spotify.com/track/1o3Szgzp2OhQFt2jlbKH2H) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 4:05 | 2024-06-07 |  |
 | [She's In My Head](https://open.spotify.com/track/3z5j0w4tWrzpwPpdOySvXz) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [old shit](https://open.spotify.com/album/5cQYXYQya0oPKmhJr3LHl0) | 2:59 | 2024-06-07 | 2024-09-07 |
-| [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 | 2024-09-06 |  |
+| [She's In My Head](https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 2:59 | 2024-09-06 | 2026-05-11 |
+| [She's In My Head](https://open.spotify.com/track/1KCM8WyGVYsphCoOBQC1kU) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/5oWHTt8yF3GuZyQbE2mbTp) | 2:59 | 2026-05-10 |  |
 | [She’s So Pretty](https://open.spotify.com/track/4te3Z4fg2MSfdhCX183u5u) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:51 | 2025-11-14 |  |
 | [Shimmering Seas \- From "Disney Cruise Line"/25th Anniversary Theme](https://open.spotify.com/track/5LbetxUPzDO4zL46yFClNq) | [Michelle Zarlenga](https://open.spotify.com/artist/5TbAVEN0oQUPFfJZy0JP3q) | [Shimmering Seas \(From "Disney Cruise Line"/25th Anniversary Theme\)](https://open.spotify.com/album/0uoA6FdN5MJkHJEphNtQdu) | 2:53 | 2024-06-07 |  |
 | [Sick of Myself](https://open.spotify.com/track/52C1BJ2z9bv6vpuZdu53Ov) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 2:27 | 2025-12-17 |  |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,365 songs - 9 day 16 hr 48 min
+4,368 songs - 9 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1557,6 +1557,7 @@
 | [Geneva Games](https://open.spotify.com/track/3ZgowoZl7Z1oMeEJAFbTcz) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:39 | 2026-04-13 |  |
 | [Geneva Games \(fomo mode\)](https://open.spotify.com/track/51dHfGDVlbxz75YjuYx6K0) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:22 | 2026-04-13 |  |
 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-01-05 |  |
+| [Ghoom Liya Jag Saara](https://open.spotify.com/track/592ulo85iG1SVhKRprZ1ib) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghoom Liya Jag Saara](https://open.spotify.com/album/1TlIqVNS9145VHm1Fbk3rP) | 2:47 | 2026-05-10 |  |
 | [Ghost Addiction \#Music \#NewMusic \#Viral](https://open.spotify.com/track/07jH4LK6Xhj9pFVa11MwXq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:33 | 2025-09-15 |  |
 | [Ghost car](https://open.spotify.com/track/5cuVBjtTVYpxJl71tMuISb) | [NicoWGH](https://open.spotify.com/artist/0vk1XCo2hhWJP7I51wR04c) | [Ghost car](https://open.spotify.com/album/564IjC4lOheJkpMhgZcEA3) | 2:54 | 2026-01-07 |  |
 | [Ghost in the Night](https://open.spotify.com/track/4gkvsdSDr80wmpkrwzoWZj) | [Ariana D'oro](https://open.spotify.com/artist/3XM73ioBcWDO16RTYCL7G5) | [Ghost in the Night](https://open.spotify.com/album/0mg9rU1sEzf9vvVfEtlpJz) | 4:23 | 2025-03-16 |  |
@@ -1835,6 +1836,7 @@
 | [i'm not the king of punk](https://open.spotify.com/track/0MEOqx1JclHNeb7awzuZgx) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 2:38 | 2026-02-01 |  |
 | [I'm sky high](https://open.spotify.com/track/5PlMMYdPoZ2gnBYfXz9agR) | [Leandro Aguirre](https://open.spotify.com/artist/2uVhj1bGrGFPgunJ4BdB5I) | [I'm sky high](https://open.spotify.com/album/2ZkjDMyvicJva0YScI3rTA) | 3:51 | 2026-04-06 |  |
 | [I'm Still That Kid](https://open.spotify.com/track/3WXro3jvximWBeNSsmnJ7N) | [Mystic Chronicler](https://open.spotify.com/artist/6lO1R7XoAcUv12zalHNptR) | [Miss Age 30](https://open.spotify.com/album/5ullrrxJqNWFZ8SJHyPQjd) | 3:35 | 2025-06-20 |  |
+| [I'm Still There](https://open.spotify.com/track/4uxqegrTFDM4pj4SYNHrvm) | [Julia.](https://open.spotify.com/artist/3b4ZzGl6WpHruxDY0BZlSK) | [Round The Corner](https://open.spotify.com/album/6O7ZkCrWBIedrmOIw09DDi) | 5:16 | 2026-05-10 |  |
 | [I'm super star](https://open.spotify.com/track/24LCekLz1JEZSBjtmawOHP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:41 | 2025-09-12 |  |
 | [I.C.Y.M.I](https://open.spotify.com/track/3LXSEkjDeaViuhIv8ocGE0) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [SEE U SOON](https://open.spotify.com/album/5SzrHaUbQSK7lrpSyHn4ld) | 3:00 | 2025-06-23 |  |
 | [iCarly](https://open.spotify.com/track/0kYiY23J2ZaMAsfDZaqtxQ) | [donavns](https://open.spotify.com/artist/5Dvwt5iL7l5eban7qGzbo1) | [iCarly](https://open.spotify.com/album/4MezD5wwr1BJTb5YKmTxUj) | 1:37 | 2025-07-28 |  |
@@ -3552,6 +3554,7 @@
 | [Start The Universe](https://open.spotify.com/track/396Q9Vjx0OUlqf1fU3RLQu) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Start The Universe](https://open.spotify.com/album/1jq9LOYsNSTQLVXrH8aa4r) | 3:02 | 2025-06-05 |  |
 | [Stasera non sei più con me \- Nuova Versione](https://open.spotify.com/track/0jnt0jqPAdhRFna0OWT7q1) | [Luca Caperna](https://open.spotify.com/artist/3Qv0BzsqKNH5yUtu0EXM1X) | [Arrivi e partenze \(Nuova Versione\)](https://open.spotify.com/album/4hv8oKn3zYBcwBhIiaKamk) | 5:28 | 2025-03-23 |  |
 | [Stasi](https://open.spotify.com/track/7KyrqgSsxy2cmWaEB7zyml) | [Guida Galattica](https://open.spotify.com/artist/6dALgmDuM8lbsYjTRh7xlv) | [Stasi](https://open.spotify.com/album/0hNwQhJlDWjfIo41kR1n7T) | 3:10 | 2025-06-01 |  |
+| [Static Youth](https://open.spotify.com/track/5nv0Qkdpzp0FhfzFVUBNA4) | [Isla Sound](https://open.spotify.com/artist/6u29XgtkGCNtrrO4uyrIxT) | [Static Youth](https://open.spotify.com/album/0Iln4zLwSGQu9luY4N5lqs) | 4:18 | 2026-05-10 |  |
 | [Stato alterato](https://open.spotify.com/track/0Q4GY0JsvR5DkdIKNSq2H9) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:17 | 2025-06-06 |  |
 | [Statuette On The Console](https://open.spotify.com/track/3kKAxOQc8syy8yjG0pzGf7) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Statuette On The Console](https://open.spotify.com/album/2UVGwVtqEB5qGt9GwbqUKQ) | 2:13 | 2025-11-05 |  |
 | [Stavo Pensando A Te](https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Fenomeno](https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA) | 4:24 | 2023-02-23 |  |

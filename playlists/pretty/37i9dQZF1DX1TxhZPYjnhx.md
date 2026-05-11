@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Shye
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 109 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,616 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

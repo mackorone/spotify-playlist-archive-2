@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15789,
+  "num_followers": 15790,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAB9pS0UN+ZqTW/lk6ZCvLLZ",
+  "snapshot_id": "af55AAAAAACaSyoAkUOlRIZflOj4ROX3",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 298283,
-      "name": "Teu Querer",
-      "url": "https://open.spotify.com/track/7H74zMAlC3fZiIogelHllE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Voltar\u00e1",
         "url": "https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 264146,
       "name": "Jesus Voltar\u00e1",
       "url": "https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 298283,
+      "name": "Teu Querer",
+      "url": "https://open.spotify.com/track/7H74zMAlC3fZiIogelHllE"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex\u00e9rcito de Deus",
-        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ex\u00e9rcito de Deus",
-      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santifica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 303020,
       "name": "\u00daltimos Dias",
       "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ex\u00e9rcito de Deus",
+        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ex\u00e9rcito de Deus",
+      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus te Viu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 230156,
-      "name": "Deus te Viu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rever\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/7Gl3WqPY0xOY4s9i9zFuGg"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 294120,
       "name": "Rever\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/5GuTSu2iZKu0Vb6EBPRQGE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus te Viu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 230156,
+      "name": "Deus te Viu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Linda Flor",
+        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 215899,
+      "name": "Linda Flor",
+      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus dos Deuses (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 255300,
-      "name": "Deus dos Deuses (Ao Vivo)",
-      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elaine Martins (Ao Vivo)",
         "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 313946,
       "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus dos Deuses (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 255300,
+      "name": "Deus dos Deuses (Ao Vivo)",
+      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 309150,
       "name": "Muda o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Linda Flor",
-        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 215899,
-      "name": "Linda Flor",
-      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+        "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
+      "duration_ms": 282447,
+      "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 282447,
-      "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reaja",
-        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "Reaja",
-      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Nuvem (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
       },
@@ -839,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0w3wASDSrU2QUU4c5urDJr"
+        "name": "Reaja",
+        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
       },
       "artists": [
         {
@@ -848,25 +832,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 228626,
-      "name": "Nunca Mais (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4rnfOKHjMDmsr2zN1ArZSy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "O Melhor da Festa",
-      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
+      "duration_ms": 256252,
+      "name": "Reaja",
+      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
     },
     {
       "added_at": null,
@@ -887,6 +855,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247756,
+      "name": "O Melhor da Festa",
+      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0w3wASDSrU2QUU4c5urDJr"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nunca Mais (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4rnfOKHjMDmsr2zN1ArZSy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cartas Vivas (Ao Vivo)",
         "url": "https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI"
       },
@@ -903,26 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firme nas Promessas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
+        "name": "Denuncie",
+        "url": "https://open.spotify.com/album/7ikSwlwNN1fKx11e73GfpP"
       },
       "artists": [
         {
-          "name": "Carlinhos Falsetti",
-          "url": "https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7"
-        },
-        {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "D\u00e9bora Cristina",
-          "url": "https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j"
         }
       ],
-      "duration_ms": 165653,
-      "name": "Firme nas Promessas",
-      "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
+      "duration_ms": 185040,
+      "name": "Denuncie",
+      "url": "https://open.spotify.com/track/3xt8k1IP83vsD91cvZbIzj"
     }
   ],
   "unique_name": "This Is Elaine Martins",

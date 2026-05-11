@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31895,
+  "num_followers": 31898,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADXJt+YDFBj7tf8CrVq2OEs",
+  "snapshot_id": "af55AAAAAAD/qmoK532+d0B1jpxZMuui",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 169326,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 147453,
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+      "duration_ms": 169326,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
     },
     {
       "added_at": null,
@@ -423,38 +423,6 @@
       "duration_ms": 264871,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Hail Mary (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Sunday Morning Comin' Down",
-      "url": "https://open.spotify.com/track/7MF59N5Uhql4yd68wzCraQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 230757,
-      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
-      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
     },
     {
       "added_at": null,
@@ -487,6 +455,38 @@
       "duration_ms": 305506,
       "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Hail Mary (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2OHod0kFmGqb3RFgSeuGak"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Sunday Morning Comin' Down",
+      "url": "https://open.spotify.com/track/7MF59N5Uhql4yd68wzCraQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 230757,
+      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
     },
     {
       "added_at": null,
@@ -1063,22 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 154436,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1307,22 +1307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 188241,
-      "name": "Jody and the Kid",
-      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surreal Thing",
         "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 211421,
       "name": "If You Don't Like Hank Williams",
       "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 188241,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
     },
     {
       "added_at": null,
@@ -1379,18 +1379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "Natural Act",
+        "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
       },
       "artists": [
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 184860,
-      "name": "When I Loved Her",
-      "url": "https://open.spotify.com/track/7BgZt5aRKMlKB3BnFdxvf7"
+      "duration_ms": 249520,
+      "name": "Loving You Was Easier",
+      "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

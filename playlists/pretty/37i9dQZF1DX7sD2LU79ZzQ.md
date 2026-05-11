@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,808 likes - 109 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,817 likes - 109 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:14 |
+| 1 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:22 |
 | 2 | [Sederhana](https://open.spotify.com/track/03s6vDyVEunObMIbnd5Naj) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sederhana](https://open.spotify.com/album/62Rt09IpnlZPyqkpQaXQTa) | 4:05 |
 | 3 | [Ketakutanku](https://open.spotify.com/track/4rNwZggd4PzzqvhIIgUfxV) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Ketakutanku](https://open.spotify.com/album/5y5zVK225kZcgPS4oYZrEx) | 4:40 |
 | 4 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |

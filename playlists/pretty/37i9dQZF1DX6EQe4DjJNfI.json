@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
-  "num_followers": 187396,
+  "num_followers": 187403,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -227,8 +227,8 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
-        "name": "Te Ouvir",
-        "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
+        "name": "rara e Brasileira",
+        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
       },
       "artists": [
         {
@@ -236,17 +236,13 @@
           "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
         },
         {
-          "name": "Khris",
-          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Te Ouvir",
-      "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+      "duration_ms": 162772,
+      "name": "nosso esquema",
+      "url": "https://open.spotify.com/track/05qOtSHnreG6bRXow2tm9I"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -307,6 +303,46 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "Te Ouvir",
+        "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Te Ouvir",
+      "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
         "name": "CAM GIRL",
         "url": "https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks"
       },
@@ -323,42 +359,6 @@
       "duration_ms": 180333,
       "name": "CAM GIRL",
       "url": "https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
-        "name": "rara e Brasileira",
-        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 162772,
-      "name": "nosso esquema",
-      "url": "https://open.spotify.com/track/05qOtSHnreG6bRXow2tm9I"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
-        "name": "Sem Barulho, Pt. II",
-        "url": "https://open.spotify.com/album/1NQkBNd8oP0o36bd2ZoLcm"
-      },
-      "artists": [
-        {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        }
-      ],
-      "duration_ms": 171408,
-      "name": "Sem Barulho, Pt. II",
-      "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "Sem Barulho, Pt. II",
+        "url": "https://open.spotify.com/album/1NQkBNd8oP0o36bd2ZoLcm"
+      },
+      "artists": [
+        {
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "duration_ms": 171408,
+      "name": "Sem Barulho, Pt. II",
+      "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1343,6 +1343,42 @@
     {
       "added_at": "2026-05-08 03:01:32",
       "album": {
+        "name": "Se For Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
+      },
+      "artists": [
+        {
+          "name": "GAEL",
+          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
+        },
+        {
+          "name": "EVY",
+          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Se For Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
+        "name": "pode me gravar :)",
+        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
+      },
+      "artists": [
+        {
+          "name": "Perigato",
+          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
+        }
+      ],
+      "duration_ms": 169384,
+      "name": "pode me gravar :)",
+      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
+    },
+    {
+      "added_at": "2026-05-08 03:01:32",
+      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -1363,26 +1399,6 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
-        "name": "Se For Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
-      },
-      "artists": [
-        {
-          "name": "GAEL",
-          "url": "https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr"
-        },
-        {
-          "name": "EVY",
-          "url": "https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Se For Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
     },
     {
       "added_at": "2026-05-08 03:01:32",
@@ -1451,22 +1467,6 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2026-05-08 03:01:32",
-      "album": {
-        "name": "pode me gravar :)",
-        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
-      },
-      "artists": [
-        {
-          "name": "Perigato",
-          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "pode me gravar :)",
-      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
     }
   ],
   "unique_name": "R&B Brasil",

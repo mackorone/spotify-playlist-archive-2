@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1613966,
+  "num_followers": 1614023,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,22 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Break The Loop",
-        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         },
         {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Conor Ross",
-          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
         }
       ],
-      "duration_ms": 226874,
-      "name": "Break The Loop",
-      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -739,22 +735,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+        "name": "Break The Loop",
+        "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Conor Ross",
+          "url": "https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS"
         }
       ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
+      "duration_ms": 226874,
+      "name": "Break The Loop",
+      "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -919,18 +919,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
       },
       "artists": [
         {
           "name": "Kaskade",
           "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
+      "duration_ms": 233604,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1015,26 +1023,18 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
       },
       "artists": [
         {
           "name": "Kaskade",
           "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 233604,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 232607,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 204593,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
         "name": "Heard It All Before",
         "url": "https://open.spotify.com/album/6oX3DYMCxQrrwTpaMZc8VH"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
     },
     {
       "added_at": "2026-05-01 14:43:28",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2026-05-01 14:43:28",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
+    },
+    {
+      "added_at": "2026-05-01 14:43:28",
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 204000,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
-    },
-    {
-      "added_at": "2026-05-01 14:43:28",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
     }
   ],
   "unique_name": "Night Rider",

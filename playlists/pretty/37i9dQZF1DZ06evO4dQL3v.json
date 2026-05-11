@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6599,
+  "num_followers": 6600,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACilGcJ/xW9w/Z8iCrHPKrR",
+  "snapshot_id": "af55AAAAAACNcYt6xLac/gbyoG8J0i4r",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caballo Blanco, Vol. 4",
-        "url": "https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3"
+        "name": "25 Aniversario Grandes Exitos",
+        "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
       },
       "artists": [
         {
@@ -180,13 +180,13 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         },
         {
-          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
-          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 138133,
-      "name": "El Ultimo Trago",
-      "url": "https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc"
+      "duration_ms": 173333,
+      "name": "Dame un Beso y Dime Adios - Banda Sinaloense",
+      "url": "https://open.spotify.com/track/2Gocid3jIDcQapdIfzlFPb"
     },
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Caballo Blanco, Vol. 4",
+        "url": "https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
+          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "El Ultimo Trago",
+      "url": "https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ecuaro",
         "url": "https://open.spotify.com/album/2uRdvRRlHrwIzGuBCVf2aT"
       },
@@ -239,28 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Aniversario Grandes Exitos",
-        "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dame un Beso y Dime Adios - Banda Sinaloense",
-      "url": "https://open.spotify.com/track/2Gocid3jIDcQapdIfzlFPb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestra Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+        "name": "Nuestra Historia, Vol. 2",
+        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 172186,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1PjHhGK3Y1uAZsxrc0P2cM"
+      "duration_ms": 163986,
+      "name": "Como Paloma Errante",
+      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 2",
-        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 163986,
-      "name": "Como Paloma Errante",
-      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
+      "duration_ms": 172186,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1PjHhGK3Y1uAZsxrc0P2cM"
     },
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
-        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 187720,
-      "name": "Miraron Llorar un Hombre",
-      "url": "https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq"
+      "duration_ms": 154000,
+      "name": "La Tijanita",
+      "url": "https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY"
     },
     {
       "added_at": null,
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
+        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 154000,
-      "name": "La Tijanita",
-      "url": "https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY"
+      "duration_ms": 187720,
+      "name": "Miraron Llorar un Hombre",
+      "url": "https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq"
     },
     {
       "added_at": null,

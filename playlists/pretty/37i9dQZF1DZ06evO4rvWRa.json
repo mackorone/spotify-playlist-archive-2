@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638383,
+  "num_followers": 1638377,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAABzP9aTbJxU/ivehLdQAYQc",
+  "snapshot_id": "af55AAAAAACnbrQ5SVI1vn5VyY1132x4",
   "tracks": [
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Home",
-        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
-        }
-      ],
-      "duration_ms": 120624,
-      "name": "Not Home",
-      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Home",
+        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "duration_ms": 120624,
+      "name": "Not Home",
+      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
     },
     {
       "added_at": null,
@@ -1063,18 +1063,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/4B53KasBEHhAav1q9Ner4y"
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
         }
       ],
-      "duration_ms": 185214,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/1DIufDXVYrsEbQgXcnZ7Ni"
+      "duration_ms": 219866,
+      "name": "Brave Enough to Be Unknown",
+      "url": "https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2"
     }
   ],
   "unique_name": "This Is Alan Walker",

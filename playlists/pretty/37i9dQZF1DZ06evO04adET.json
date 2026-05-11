@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 853410,
+  "num_followers": 853472,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAAEttVtQf71sjzTwPinPKWa",
+  "snapshot_id": "af55AAAAAACNzk1Gdm8/M6fU9C9Q5nAK",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 200050,
-      "name": "Ninguna Como Ella",
-      "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selfies",
         "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 200050,
+      "name": "Ninguna Como Ella",
+      "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -851,6 +851,34 @@
       "duration_ms": 200239,
       "name": "Como Es",
       "url": "https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumban2",
+        "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/7CerEFwLCgFlbgBUOgGsKq"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Los 4 Ases (Corrido Tumbado)",
+      "url": "https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz"
     },
     {
       "added_at": null,
@@ -899,30 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumban2",
-        "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/7CerEFwLCgFlbgBUOgGsKq"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Los 4 Ases (Corrido Tumbado)",
-      "url": "https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz"
+      "duration_ms": 200109,
+      "name": "Periquito",
+      "url": "https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 211250,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 200109,
-      "name": "Periquito",
-      "url": "https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX"
     }
   ],
   "unique_name": "This Is Natanael Cano",

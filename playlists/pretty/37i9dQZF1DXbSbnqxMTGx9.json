@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3208308,
+  "num_followers": 3208523,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "True Democracy",
         "url": "https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8"
       },
@@ -111,18 +95,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Hollie Cook",
-        "url": "https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5"
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
       "artists": [
         {
-          "name": "Hollie Cook",
-          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -139,6 +123,22 @@
       "duration_ms": 219160,
       "name": "Police In Helicopter",
       "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Hollie Cook",
+        "url": "https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5"
+      },
+      "artists": [
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "The Sleepwalking Society",
-        "url": "https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4"
-      },
-      "artists": [
-        {
-          "name": "Nostalgia 77",
-          "url": "https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Simmerdown",
-      "url": "https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 194573,
       "name": "Stop That Train",
       "url": "https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Sleepwalking Society",
+        "url": "https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4"
+      },
+      "artists": [
+        {
+          "name": "Nostalgia 77",
+          "url": "https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Simmerdown",
+      "url": "https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1192,13 +1192,13 @@
       },
       "artists": [
         {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+          "name": "Justin Hinds & The Dominoes",
+          "url": "https://open.spotify.com/artist/0TxAbj3qE2NdYzg0SVG09Q"
         }
       ],
-      "duration_ms": 210466,
-      "name": "Queen Majesty (aka Minstrel and Queen)",
-      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
+      "duration_ms": 163066,
+      "name": "Save A Bread",
+      "url": "https://open.spotify.com/track/2oeYctBdUbqVJwI48kT7V3"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1208,13 +1208,13 @@
       },
       "artists": [
         {
-          "name": "Justin Hinds & The Dominoes",
-          "url": "https://open.spotify.com/artist/0TxAbj3qE2NdYzg0SVG09Q"
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
         }
       ],
-      "duration_ms": 163066,
-      "name": "Save A Bread",
-      "url": "https://open.spotify.com/track/2oeYctBdUbqVJwI48kT7V3"
+      "duration_ms": 210466,
+      "name": "Queen Majesty (aka Minstrel and Queen)",
+      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1272,13 +1272,13 @@
       },
       "artists": [
         {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+          "name": "The Three Tops",
+          "url": "https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8"
         }
       ],
-      "duration_ms": 153786,
-      "name": "You Don't Care (aka You'll Want Me Back)",
-      "url": "https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB"
+      "duration_ms": 148480,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1288,13 +1288,13 @@
       },
       "artists": [
         {
-          "name": "The Three Tops",
-          "url": "https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8"
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
         }
       ],
-      "duration_ms": 148480,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS"
+      "duration_ms": 153786,
+      "name": "You Don't Care (aka You'll Want Me Back)",
+      "url": "https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1352,13 +1352,13 @@
       },
       "artists": [
         {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+          "name": "The Uniques",
+          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Travelling Man - Version 1",
-      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
+      "duration_ms": 152040,
+      "name": "Watch This Sound (For What It's Worth)",
+      "url": "https://open.spotify.com/track/0Hu8gNKjd1WJRY3BFp8Vf7"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1368,13 +1368,13 @@
       },
       "artists": [
         {
-          "name": "The Uniques",
-          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
         }
       ],
-      "duration_ms": 152040,
-      "name": "Watch This Sound (For What It's Worth)",
-      "url": "https://open.spotify.com/track/0Hu8gNKjd1WJRY3BFp8Vf7"
+      "duration_ms": 152613,
+      "name": "Travelling Man - Version 1",
+      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "The Best Of Bob Marley & The Wailers 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/74dSntt5j1iLVDmGguRmwj"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/452CB7U24P2K6HiBS4PRY4"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "The Best Of Bob Marley & The Wailers 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/74dSntt5j1iLVDmGguRmwj"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 187106,
-      "name": "Stir It Up",
-      "url": "https://open.spotify.com/track/452CB7U24P2K6HiBS4PRY4"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Definitive Collection: You Can Get It If You Really Want",
         "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
+        "name": "Burnin' (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
+      "duration_ms": 281026,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Burnin' (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
+        "name": "Pied Piper - The Best of Bob & Marcia",
+        "url": "https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA"
       },
       "artists": [
         {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+          "name": "Bob Andy",
+          "url": "https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4"
         }
       ],
-      "duration_ms": 281026,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
+      "duration_ms": 222440,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ball Of Fire",
+        "url": "https://open.spotify.com/album/6He3DScEiZKly2g5CFFqmi"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Swing Easy",
+      "url": "https://open.spotify.com/track/4snbdgmZZH2Nqt3aIp5DqF"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Super Reggae & Soul Hits",
         "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 165893,
       "name": "Dream Land",
       "url": "https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Young, Gifted & Black",
-        "url": "https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG"
-      },
-      "artists": [
-        {
-          "name": "Marcia Griffiths",
-          "url": "https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Put a Little Love In Your Heart",
-      "url": "https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Pied Piper - The Best of Bob & Marcia",
-        "url": "https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA"
-      },
-      "artists": [
-        {
-          "name": "Bob Andy",
-          "url": "https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve"
     }
   ],
   "unique_name": "Reggae Classics",

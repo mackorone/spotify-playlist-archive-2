@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Russell Dickerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,112 likes - 103 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,009 likes - 103 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

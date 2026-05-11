@@ -10230,7 +10230,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 179263,
       "name": "Live 03'",
       "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
@@ -17724,6 +17724,36 @@
       "duration_ms": 239266,
       "name": "Up Up Up (Introducing Zach Savage)",
       "url": "https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy"
+    },
+    {
+      "album": {
+        "name": "UPSIDE DOWN KINGDOMS : ORIGINS",
+        "url": "https://open.spotify.com/album/2zjdJha4OJ1by9Dmr4w2f1"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Derek Ryan",
+          "url": "https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed"
+        },
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        },
+        {
+          "name": "UPSIDE DOWN KINGDOMS",
+          "url": "https://open.spotify.com/artist/77vVxW0MA0FCKCnZHFAQGq"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130125,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/6jf8J3nSd3a19d8itjeDur"
     },
     {
       "album": {

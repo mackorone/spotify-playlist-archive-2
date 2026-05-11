@@ -1,12 +1,12 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234504,
+  "num_followers": 234495,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABfIDUIDaPI1nnAZ/oWm23FfHFax",
+  "snapshot_id": "AAAAABXwWZ6+3lSc7kdfy/GKDMYAl1pf",
   "tracks": [
     {
       "added_at": "2026-04-23 23:34:22",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Bleachers",
-        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 228381,
-      "name": "Tiny Moves",
-      "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "The Boy With the Arab Strap",
         "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 314066,
       "name": "The Boy With the Arab Strap",
       "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
     },
     {
       "added_at": "2026-05-01 00:00:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Virgin Lake",
-        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "Dog Bite",
-      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "{Awayland}",
         "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 223935,
       "name": "Nothing Arrived",
       "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Virgin Lake",
+        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "Dog Bite",
+      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "What Are We Doing?",
-        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
-      },
-      "artists": [
-        {
-          "name": "EGOISM",
-          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
-        }
-      ],
-      "duration_ms": 193780,
-      "name": "What Are We Doing?",
-      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 146811,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "What Are We Doing?",
+        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "duration_ms": 193780,
+      "name": "What Are We Doing?",
+      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Please, Don't Wake Me",
-        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 219406,
-      "name": "Please, Don't Wake Me",
-      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "Guts",
         "url": "https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
         "name": "Birds in Winter",
         "url": "https://open.spotify.com/album/3Qm7yz3G1vT0kleL0c5D28"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 242000,
       "name": "Bones",
       "url": "https://open.spotify.com/track/4VUEtD4WedXZjIYJK9d63n"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1319,22 +1335,6 @@
       "duration_ms": 206573,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0PoKpGcfIWa2rBBZTgAQHJ"
-      },
-      "artists": [
-        {
-          "name": "Carly Hann",
-          "url": "https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b"
-        }
-      ],
-      "duration_ms": 241199,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6OFacaTs8A0xGe9zWxjm8i"
-    },
-    {
       "added_at": "2026-05-01 00:00:22",
       "album": {
         "name": "Under Your Thumb",
@@ -1399,6 +1383,22 @@
       "duration_ms": 157487,
       "name": "Under Your Thumb",
       "url": "https://open.spotify.com/track/2WOFdEkktnjP0ukScdFJx2"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0PoKpGcfIWa2rBBZTgAQHJ"
+      },
+      "artists": [
+        {
+          "name": "Carly Hann",
+          "url": "https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b"
+        }
+      ],
+      "duration_ms": 241199,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6OFacaTs8A0xGe9zWxjm8i"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "My Friend",
-        "url": "https://open.spotify.com/album/2dmWFCfxp4ZPXWO6548Mmv"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/0ESRB5ig0fO9YfRTHlooWC"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1511,6 +1495,38 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "Mac's Omelette",
+        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 238845,
+      "name": "Mac\u2019s Omelette",
+      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
+    },
+    {
+      "added_at": "2026-04-23 23:34:22",
+      "album": {
+        "name": "My Friend",
+        "url": "https://open.spotify.com/album/2dmWFCfxp4ZPXWO6548Mmv"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/0ESRB5ig0fO9YfRTHlooWC"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2026-04-23 23:34:22",
       "album": {
-        "name": "Mac's Omelette",
-        "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
         }
       ],
-      "duration_ms": 238845,
-      "name": "Mac\u2019s Omelette",
-      "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-04-23 23:34:22",
@@ -1563,22 +1579,6 @@
       "duration_ms": 175313,
       "name": "Dying To Dive In",
       "url": "https://open.spotify.com/track/4IGxom47ngZl19XUd05sNp"
-    },
-    {
-      "added_at": "2026-04-23 23:34:22",
-      "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-04-23 23:34:22",

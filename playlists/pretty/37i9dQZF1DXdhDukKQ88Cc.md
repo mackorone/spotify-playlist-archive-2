@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 den nyeste rap i dk 🔥 cover: Michael Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,649 likes - 31 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,638 likes - 31 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: La Fuente
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,737 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,746 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 6 | [Mouth Go LaLa](https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Mouth Go LaLa](https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI) | 2:41 |
 | 7 | [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 |
 | 8 | [Automatic](https://open.spotify.com/track/6ApTUn36QPmFIb5tSezZFw) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [RAVEKINGS](https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5) | [Automatic](https://open.spotify.com/album/7Dw7nDMPL5OGBscWJS6qvK) | 2:37 |
-| 9 | [LIGHTS GO OUT](https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [LIGHTS GO OUT](https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj) | 2:38 |
-| 10 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
+| 9 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
+| 10 | [LIGHTS GO OUT](https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [LIGHTS GO OUT](https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj) | 2:38 |
 | 11 | [Rave From Outer Space](https://open.spotify.com/track/6vMyEjiBfrk4qt8kQBwbEj) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Rave From Outer Space](https://open.spotify.com/album/45SIC52KNvPQZsgz3NZuxJ) | 2:11 |
 | 12 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 |
 | 13 | [Cream](https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Cream](https://open.spotify.com/album/7ltPrMbeM3QEMziwOCtBys) | 2:41 |

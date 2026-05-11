@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26762,
+  "num_followers": 26763,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kingmaker (with Julia Michaels)",
         "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -819,22 +819,18 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Make up your mind",
-        "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
       },
       "artists": [
         {
-          "name": "Mirella",
-          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
-        },
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Make up your mind",
-      "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -855,6 +851,26 @@
       "duration_ms": 174453,
       "name": "Ik\u00e4v\u00e4, kyll\u00e4",
       "url": "https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Make up your mind",
+        "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Make up your mind",
+      "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -907,22 +923,6 @@
       "duration_ms": 200000,
       "name": "Viaton",
       "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "More than enough...",
+        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "More than enough...",
+      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "ALICE",
         "url": "https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 279488,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "FATHER (I Will Never Confess)",
-        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "FATHER (I Will Never Confess)",
-      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "FATHER (I Will Never Confess)",
+        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "FATHER (I Will Never Confess)",
+      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Kuudes aisti",
         "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 193965,
       "name": "Kuudes aisti",
       "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "More than enough...",
-        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "More than enough...",
-      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Sen piti olla min\u00e4",
+        "url": "https://open.spotify.com/album/3QuAfJctcfbyBKs8Bc6rnR"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "Sen piti olla min\u00e4",
+      "url": "https://open.spotify.com/track/3mLFiXrh5H0Ri8ZNcUdzab"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "1001 tapaa",
         "url": "https://open.spotify.com/album/6An4sRgD5Iw430vBfvXjRU"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Sen piti olla min\u00e4",
-        "url": "https://open.spotify.com/album/3QuAfJctcfbyBKs8Bc6rnR"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "Sen piti olla min\u00e4",
-      "url": "https://open.spotify.com/track/3mLFiXrh5H0Ri8ZNcUdzab"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Sonic Youth (feat. Bizi)",
         "url": "https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 233322,
       "name": "Sonic Youth (feat. Bizi)",
       "url": "https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Pokaali",
+        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Pokaali",
+      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1307,22 +1323,6 @@
       "duration_ms": 202800,
       "name": "Heart Said No",
       "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Pokaali",
-        "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
-      },
-      "artists": [
-        {
-          "name": "Pihlaja",
-          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Pokaali",
-      "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Keho muistaa",
         "url": "https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "\u00c4mp\u00e4ri",
         "url": "https://open.spotify.com/album/3f5aCCzFnZ3O83dZvblJIz"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Hapentuhlaaja",
-        "url": "https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR"
-      },
-      "artists": [
-        {
-          "name": "Maustetyt\u00f6t",
-          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Hapentuhlaaja",
-      "url": "https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kevyt ja kohtuuton",
         "url": "https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 195800,
       "name": "Kevyt ja kohtuuton",
       "url": "https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Hapentuhlaaja",
+        "url": "https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR"
+      },
+      "artists": [
+        {
+          "name": "Maustetyt\u00f6t",
+          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Hapentuhlaaja",
+      "url": "https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Karhupuisto",
-        "url": "https://open.spotify.com/album/2F20BwMJMsizfRTbd5dxOe"
-      },
-      "artists": [
-        {
-          "name": "Vepu",
-          "url": "https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Karhupuisto",
-      "url": "https://open.spotify.com/track/67CEHyZn7yRkgC7A1mkUAo"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "kev\u00e4isin",
         "url": "https://open.spotify.com/album/2fc0xDffuBiIFBKBiAmtZt"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 207209,
       "name": "kev\u00e4isin",
       "url": "https://open.spotify.com/track/0YKUGWa5eA5x5bWQ4xb2g2"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Karhupuisto",
+        "url": "https://open.spotify.com/album/2F20BwMJMsizfRTbd5dxOe"
+      },
+      "artists": [
+        {
+          "name": "Vepu",
+          "url": "https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Karhupuisto",
+      "url": "https://open.spotify.com/track/67CEHyZn7yRkgC7A1mkUAo"
     },
     {
       "added_at": "2026-05-08 04:10:15",

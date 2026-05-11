@@ -4,7 +4,7 @@
 
 > 
 
-2,410 songs - 5 day 9 hr 36 min
+2,412 songs - 5 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,6 +1800,7 @@
 | [Satanic Slumber Party](https://open.spotify.com/track/0ICUKBKREHRLjER0tpVUsQ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/1DzDpnu7RRi9E7kAELM3Ec) | 3:03 | 2022-06-21 |  |
 | [Satellite from days of old, lead me to your access code](https://open.spotify.com/track/6EzsxLjtrmpe9WsapwDGxE) | [Blksmiith](https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu) | [「DIGITAL TWIN」](https://open.spotify.com/album/1JjcGFfD4KGiG6m1mOgxnq) | 3:36 | 2023-04-23 |  |
 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/7I6DOsv8I8mZC88CkvmrsE) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(UK Edition\)](https://open.spotify.com/album/3RIRsDECFJX0nNnbgQM21G) | 2:23 | 2025-03-30 |  |
+| [SATISFY](https://open.spotify.com/track/6SDndFLGtXkLq5UttTs5Pm) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 2:45 | 2026-05-10 |  |
 | [Saturday](https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:36 | 2021-12-30 |  |
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [GHUM](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-08-05 |  |
 | [saturn emoji](https://open.spotify.com/track/5j2IQ1wRMF4YOp9l1jEJR7) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [FOIL](https://open.spotify.com/album/7D2GIBF8kzc2WDouhqoRa4) | 2:37 | 2021-09-08 |  |
@@ -2286,6 +2287,7 @@
 | [Walls to Build \- Mall Grab Remix](https://open.spotify.com/track/1A8LrZ15bbYIEzCslhnuiD) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz), [Mall Grab](https://open.spotify.com/artist/5IjbZHHQexZVqj7DA75psa) | [Walls to Build Remix](https://open.spotify.com/album/0RPdqpRcPfvT6VmeyAPkkT) | 6:16 | 2025-04-17 |  |
 | [Wanna See U](https://open.spotify.com/track/1gqJjjCl9kepWReQclosRu) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Wanna See Houston](https://open.spotify.com/album/6EV96sexRlM3AxZNXMiWzP) | 5:21 | 2025-03-30 |  |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2021-08-05 |  |
+| [WANT NEED LOVE \- LSDXOXO Remix](https://open.spotify.com/track/2mE1WGxym75ezXYa8anIY7) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [WANT NEED LOVE \(Remixes\)](https://open.spotify.com/album/50ctTZBiLC8KW4B6Wx9RrT) | 3:24 | 2026-05-10 |  |
 | [WANTED \(pt.2\)](https://open.spotify.com/track/7cQzN3zVJy60FStEAHh2qZ) | [Passing Currents](https://open.spotify.com/artist/1IOfE2EZJLsJ5H87ucZmrq) | [WANTED](https://open.spotify.com/album/6qJCjlc0nWYzApHHlgDnUi) | 2:40 | 2025-06-20 |  |
 | [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-04-03 |  |
 | [Warm Hands](https://open.spotify.com/track/6CcmXch9doZEkIoIJBVMUV) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Pretty Sick](https://open.spotify.com/album/5hppXRABDCmLBL8kPobypv) | 2:26 | 2023-01-03 |  |

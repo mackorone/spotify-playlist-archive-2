@@ -9263,6 +9263,24 @@
     },
     {
       "album": {
+        "name": "Aster, atlas",
+        "url": "https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd"
+      },
+      "artists": [
+        {
+          "name": "Sara Parkman",
+          "url": "https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Tre hj\u00e4rtan",
+      "url": "https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP"
+    },
+    {
+      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -10644,7 +10662,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 295520,
       "name": "\u00d6stra Svealand (2025)",
       "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"

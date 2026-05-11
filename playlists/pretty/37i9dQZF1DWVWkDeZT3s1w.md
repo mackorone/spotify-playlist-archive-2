@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,829 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,845 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 66 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
 | 67 | [Aire para Vivir](https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Aire para Vivir](https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta) | 3:43 |
 | 68 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
-| 69 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
-| 70 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 |
+| 69 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 |
+| 70 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
 | 71 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
 | 72 | [Helarte](https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Helarte](https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT) | 3:23 |
 | 73 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 |

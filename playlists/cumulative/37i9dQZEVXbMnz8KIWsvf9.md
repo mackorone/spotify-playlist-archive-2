@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,322 songs - 3 day 5 hr 47 min
+1,323 songs - 3 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Chill](https://open.spotify.com/track/6xwfE7uFH2alpx21Y9jqCB) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q) | 2:39 | 2025-03-01 | 2025-03-07 |
 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2023-11-15 | 2023-11-17 |
 | [CHILLER](https://open.spotify.com/track/0PNOA20FfXz8c1KVaon1ei) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:04 | 2025-07-15 | 2025-07-20 |
-| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-05 |  |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-05 | 2026-05-11 |
+| [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 | 2026-05-10 |  |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2023-08-10 |
 | [CLAP!](https://open.spotify.com/track/0dwGSZqOSA5a7ykcq0tMXA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/6ktBQgq9slQlHb3ezqBANx) | 3:04 | 2022-10-05 | 2022-10-07 |
 | [CLAP!](https://open.spotify.com/track/4LuSCNN7wRs6hqouAkGh9C) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:04 | 2022-10-06 | 2022-10-08 |
@@ -873,7 +874,7 @@
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-17 |  |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2023-03-05 | 2024-03-17 |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2021-03-27\* | 2021-05-03 |
-| [กอดไม่ได้](https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [2014 Extended Play](https://open.spotify.com/album/2dvvwF73RgmullSUmkKhEk) | 4:46 | 2025-02-09 |  |
+| [กอดไม่ได้](https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [2014 Extended Play](https://open.spotify.com/album/2dvvwF73RgmullSUmkKhEk) | 4:46 | 2025-02-09 | 2026-05-11 |
 | [กักตัว](https://open.spotify.com/track/2ozCc0MSm3ybXugQqfnKOn) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [กักตัว](https://open.spotify.com/album/19nOIqVWJw0EksLVbpWo5x) | 3:33 | 2021-05-30 | 2021-07-11 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-27 | 2023-06-21 |
 | [กาลครั้งนึง](https://open.spotify.com/track/7cwlsNRPvS8v5IqgdScwM8) | [JUNENOM](https://open.spotify.com/artist/2UFwI4H1ZRWRRCdsxC9N7N) | [กาลครั้งนึง](https://open.spotify.com/album/5Wt9eVJL0doDLKDo0b2jUs) | 5:13 | 2023-07-03 | 2023-08-06 |
@@ -1188,7 +1189,7 @@
 | [อยู่ได้แล้ว](https://open.spotify.com/track/7b6fnnFEurhwq7E38VJBJP) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ตึกโป๊ะ](https://open.spotify.com/album/3a2hhAjhY2L8E32F9fjMFz) | 4:13 | 2025-09-24 | 2026-05-08 |
 | [อย่าบอกใครนะ](https://open.spotify.com/track/0xG48CBxqMQoYscjjXwD6v) | [SOYBAD](https://open.spotify.com/artist/0TS3m9e5r7Y8Q1jTxaPxcL) | [SOYBAD Vol.1](https://open.spotify.com/album/27U0eRZQHyEe0nkmy3zQby) | 4:48 | 2021-03-27\* | 2021-04-04 |
 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 | 2022-08-27 | 2022-09-18 |
-| [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/1QbP49w60Db4mrhYbsQ8bg) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 4:43 | 2024-02-22 | 2026-05-10 |
+| [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/1QbP49w60Db4mrhYbsQ8bg) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 4:43 | 2024-02-22 |  |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-08 | 2024-02-23 |
 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-29 | 2023-03-31 |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-01-28 | 2022-07-03 |

@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Ao Rei",
+        "url": "https://open.spotify.com/album/1IN28y3send51GKeLuJnEs"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "Eu Cantarei",
+      "url": "https://open.spotify.com/track/71wmdhwrGHhlvqxP3ERD9i"
+    },
+    {
+      "album": {
         "name": "Eu Vou Construir",
         "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 511929,
       "name": "Rio - Ao Vivo",
       "url": "https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,917 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,934 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 12 | [BKJN](https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [BKJN](https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv) | 2:18 |
 | 13 | [Hardcore Bass](https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Hardcore Bass](https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh) | 2:48 |
 | 14 | [Gathering Of Gods](https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Gathering Of Gods](https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4) | 2:08 |
-| 15 | [Goodnight](https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Goodnight](https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx) | 3:25 |
-| 16 | [Get Wrecked 2024 Tool \- Dimitri K Remix](https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Get Wrecked 2024 Tool \(Dimitri K Remix\)](https://open.spotify.com/album/1rnD7VreKY4ox2NPKDeGNo) | 1:29 |
+| 15 | [Get Wrecked 2024 Tool \- Dimitri K Remix](https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Get Wrecked 2024 Tool \(Dimitri K Remix\)](https://open.spotify.com/album/1rnD7VreKY4ox2NPKDeGNo) | 1:29 |
+| 16 | [Goodnight](https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Goodnight](https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx) | 3:25 |
 | 17 | [FA TI CO](https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [FA TI CO](https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9) | 1:49 |
 | 18 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 |
 | 19 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
 | 47 | [WaKe uP](https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [WaKe uP](https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ) | 2:25 |
 | 48 | [BAMM](https://open.spotify.com/track/6gFYR0l7xwGCYfiYRdwld5) | [Essociaal](https://open.spotify.com/artist/4G2YFwn4mbVinDu5MrDMI0), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s) | [BAMM](https://open.spotify.com/album/7vQcXvS4vvL3Kghayv2IjY) | 3:01 |
-| 49 | [Murder On The Dancefloor](https://open.spotify.com/track/6hc23rlusaZU0oZy3Zmf38) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Murder On The Dancefloor](https://open.spotify.com/album/1aBix6Eh50Bz7VzRK8wvKH) | 2:28 |
-| 50 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
+| 49 | [Sikam Szampan Techno](https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Sikam Szampan Techno](https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz) | 3:08 |
+| 50 | [Murder On The Dancefloor](https://open.spotify.com/track/6hc23rlusaZU0oZy3Zmf38) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Murder On The Dancefloor](https://open.spotify.com/album/1aBix6Eh50Bz7VzRK8wvKH) | 2:28 |
 
 Snapshot ID: `AAAAAM5PbvdnYo7CYrXz2p/ketDk3Uaj`

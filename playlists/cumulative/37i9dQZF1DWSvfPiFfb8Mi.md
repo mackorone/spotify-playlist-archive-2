@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-434 songs - 1 day 4 hr 7 min
+435 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Little Miss Dynamite](https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Little Miss Dynamite](https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO) | 3:14 | 2023-05-19 | 2023-10-26 |
 | [Lola’s Theme \- VIP](https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola’s Theme \(VIP\)](https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0) | 7:18 | 2023-05-19 | 2023-07-22 |
 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 | 2021-07-24 | 2023-05-20 |
-| [Look How Far We've Come](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Look How Far We've Come](https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y) | 5:41 | 2024-05-17 |  |
+| [Look How Far We've Come](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Look How Far We've Come](https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y) | 5:41 | 2024-05-17 | 2026-05-11 |
 | [Lose Control](https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [Lose Control](https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL) | 2:57 | 2025-03-14 | 2025-06-01 |
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-05-19 |  |
 | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC) | 2:23 | 2021-07-24 | 2023-09-17 |
@@ -400,6 +400,7 @@
 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-10 |  |
 | [Travel Light](https://open.spotify.com/track/37qLbAeOU3yhpLlD2gyTsp) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Travel Light](https://open.spotify.com/album/379snkOheodaVzhhsIruGz) | 3:53 | 2025-09-26 | 2026-01-23 |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-16 | 2025-07-11 |
+| [Turn Back Time](https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Turn Back Time](https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR) | 3:24 | 2026-05-08 |  |
 | [Turn Up The Love \- Roosevelt Remix](https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Turn Up The Love \(Roosevelt Remix\)](https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1) | 3:45 | 2025-08-08 | 2026-03-05 |
 | [Turning My Heart Blue](https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Turning My Heart Blue](https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R) | 3:54 | 2024-06-14 | 2024-07-21 |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2023-09-15 |  |

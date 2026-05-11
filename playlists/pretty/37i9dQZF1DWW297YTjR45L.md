@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW297YTjR45L.md) - [plain]
 
 > enjoy the ITZY 3RD WORLD TOUR \[TUNNEL VISION\] LIVE SET including the voices of them on stage! \(있지의 무대 멘트와 목소리가 포함된 \[TUNNEL VISION\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,668 likes - 28 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,732 likes - 28 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

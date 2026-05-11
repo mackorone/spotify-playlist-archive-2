@@ -65,6 +65,32 @@
     },
     {
       "album": {
+        "name": "187 (feat. Smigg Dirtee & Young Noble)",
+        "url": "https://open.spotify.com/album/31dmLLUhrgdZ5klp5EmPGM"
+      },
+      "artists": [
+        {
+          "name": "S.A.D.",
+          "url": "https://open.spotify.com/artist/4S0NKe9CYmMjGOqHizQa76"
+        },
+        {
+          "name": "Smigg Dirtee",
+          "url": "https://open.spotify.com/artist/54EWi5KY2lo3zgmzhsDyDm"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "187 (feat. Smigg Dirtee & Young Noble)",
+      "url": "https://open.spotify.com/track/5pWcYre0bWBxCtMp8Z7FpZ"
+    },
+    {
+      "album": {
         "name": "96 (feat. Young Noble)",
         "url": "https://open.spotify.com/album/0xShvfb2iQJdt46crfsyQV"
       },
@@ -422,7 +448,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 238000,
       "name": "Betterman",
       "url": "https://open.spotify.com/track/2TYSKyjXMjYiMcmQpCEOBI"
@@ -2215,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Jerzey Mob Presents: \"Young Noble\"- Noble Justice (The Lost Songs)",
+        "url": "https://open.spotify.com/album/1gTiqnz1GDcPyXbY1u1W2E"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "Let Em Know",
+      "url": "https://open.spotify.com/track/0nSKAeIDYAmKOqbkscIxbZ"
+    },
+    {
+      "album": {
         "name": "The Fathers Love",
         "url": "https://open.spotify.com/album/5FEEJ9q33KZJ17YLwLE6ud"
       },
@@ -2764,7 +2808,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 204094,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/0PU2ZeIp777roPnhWBqk8f"
@@ -3316,7 +3360,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -3390,7 +3434,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -3586,7 +3630,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 212367,
       "name": "Ruff Juveniles",
       "url": "https://open.spotify.com/track/6F731cdWDwX5MHFpbFhVlP"
@@ -3630,7 +3674,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"
@@ -4474,7 +4518,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 281687,
       "name": "Vibe About (feat. E.D.I MEAN & Young Noble)",
       "url": "https://open.spotify.com/track/6xPkFjiZlh7XiF31olTvoV"
@@ -4722,7 +4766,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 188074,
       "name": "Wounds (feat. Young Noble)",
       "url": "https://open.spotify.com/track/38Q3yhF4CYwMNe6lQ9Gzi1"

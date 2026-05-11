@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Corona del Rey \ud83d\udcf8",
-  "num_followers": 1301649,
+  "num_followers": 1301662,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
+        "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr"
+      },
+      "artists": [
+        {
+          "name": "El Gerry Oficial",
+          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
+        }
+      ],
+      "duration_ms": 220591,
+      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/4ZAtv3gp4ZsOu8HGRZfDLF"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
-        "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0iqkcchDWADy8fpC9zDFMr"
-      },
-      "artists": [
-        {
-          "name": "El Gerry Oficial",
-          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
-        }
-      ],
-      "duration_ms": 220591,
-      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/4ZAtv3gp4ZsOu8HGRZfDLF"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Que Bonita Mujer",
-        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
+        "name": "Chalupas y buenas",
+        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Que Bonita Mujer",
-      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
+      "duration_ms": 156893,
+      "name": "Chalupas y buenas",
+      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Chalupas y buenas",
-        "url": "https://open.spotify.com/album/16a59d961IIDP9LFXfEXg7"
+        "name": "Que Bonita Mujer",
+        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 156893,
-      "name": "Chalupas y buenas",
-      "url": "https://open.spotify.com/track/0tnHG8STmZWs9WJEi4cJgu"
+      "duration_ms": 203720,
+      "name": "Que Bonita Mujer",
+      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Y Sigues Siendo T\u00fa",
-        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 162911,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Aunque Me Duela M\u00e1s Que A Ti",
         "url": "https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Mente Ocupada",
-        "url": "https://open.spotify.com/album/0YO7qC8td87EZJA2VX8547"
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
       },
       "artists": [
         {
-          "name": "Grupo Identificado",
-          "url": "https://open.spotify.com/artist/3QYcGdC1ugrwM2UI3JWhJ7"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 223829,
-      "name": "Mente Ocupada",
-      "url": "https://open.spotify.com/track/2Y53fKeWaFnk5R6w2xowrR"
+      "duration_ms": 162911,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -991,6 +975,22 @@
       "duration_ms": 213169,
       "name": "Quien De Los Dos Sera",
       "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Mente Ocupada",
+        "url": "https://open.spotify.com/album/0YO7qC8td87EZJA2VX8547"
+      },
+      "artists": [
+        {
+          "name": "Grupo Identificado",
+          "url": "https://open.spotify.com/artist/3QYcGdC1ugrwM2UI3JWhJ7"
+        }
+      ],
+      "duration_ms": 223829,
+      "name": "Mente Ocupada",
+      "url": "https://open.spotify.com/track/2Y53fKeWaFnk5R6w2xowrR"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 164153,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 183640,
       "name": "Si Se Trata De Ti",
       "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 164153,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Se Me Sali\u00f3 Una Lagrimita",
-        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 165329,
-      "name": "Se Me Sali\u00f3 Una Lagrimita",
-      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 162124,
       "name": "Baila",
       "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Se Me Sali\u00f3 Una Lagrimita",
+        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 165329,
+      "name": "Se Me Sali\u00f3 Una Lagrimita",
+      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Amanec\u00ed Con Ganas",
-        "url": "https://open.spotify.com/album/7fApp4PbJj5FqWZuF0dYNR"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 149264,
-      "name": "Amanec\u00ed Con Ganas",
-      "url": "https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "T\u00fa Ya Las Conoces, Vol. 1",
-        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+        "name": "Amanec\u00ed Con Ganas",
+        "url": "https://open.spotify.com/album/7fApp4PbJj5FqWZuF0dYNR"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 141688,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
+      "duration_ms": 149264,
+      "name": "Amanec\u00ed Con Ganas",
+      "url": "https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1319,6 +1303,22 @@
       "duration_ms": 231780,
       "name": "Si No Me Querias",
       "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "T\u00fa Ya Las Conoces, Vol. 1",
+        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
     },
     {
       "added_at": "2026-05-08 06:00:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-08 06:00:23",
       "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
-      },
-      "artists": [
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
-    },
-    {
-      "added_at": "2026-05-08 06:00:23",
-      "album": {
         "name": "Si Tu Te Fueras De Mi",
         "url": "https://open.spotify.com/album/3OAkgasHl1sRwYw6j726HC"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 182538,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6YGGn7dDqMLi1cxxRDNtmk"
+    },
+    {
+      "added_at": "2026-05-08 06:00:23",
+      "album": {
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
+      },
+      "artists": [
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
     },
     {
       "added_at": "2026-05-08 06:00:23",

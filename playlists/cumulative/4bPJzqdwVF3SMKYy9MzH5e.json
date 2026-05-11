@@ -34125,6 +34125,28 @@
     },
     {
       "album": {
+        "name": "DGTL ANML",
+        "url": "https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165812,
+      "name": "SATISFY",
+      "url": "https://open.spotify.com/track/6SDndFLGtXkLq5UttTs5Pm"
+    },
+    {
+      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -43358,6 +43380,28 @@
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+    },
+    {
+      "album": {
+        "name": "WANT NEED LOVE (Remixes)",
+        "url": "https://open.spotify.com/album/50ctTZBiLC8KW4B6Wx9RrT"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204882,
+      "name": "WANT NEED LOVE - LSDXOXO Remix",
+      "url": "https://open.spotify.com/track/2mE1WGxym75ezXYa8anIY7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34380,
+  "num_followers": 34382,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Editto Dal Sottoscoglio",
-        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 206204,
-      "name": "Editto Dal Sottoscoglio",
-      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Editto Dal Sottoscoglio",
+        "url": "https://open.spotify.com/album/1NhEbC11WBZrAHU8V2Bqt7"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 206204,
+      "name": "Editto Dal Sottoscoglio",
+      "url": "https://open.spotify.com/track/2gxOjXkQSlOo8qPfFF97PH"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
-      },
-      "artists": [
-        {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Maison Maravilha",
         "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Piero Odorici",
-          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        },
-        {
-          "name": "Alessandro Buzzi",
-          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        }
-      ],
-      "duration_ms": 276862,
-      "name": "It's Easy to Remember",
-      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Piero Odorici",
+          "url": "https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Alessandro Buzzi",
+          "url": "https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        }
+      ],
+      "duration_ms": 276862,
+      "name": "It's Easy to Remember",
+      "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
         "name": "Amore a prima vista",
         "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 164246,
       "name": "Amore a prima vista - Bossa & Jazz Version",
       "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "NAXOS",
         "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 217280,
       "name": "Song for Django",
       "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-05-07 22:04:36",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-07 22:04:36",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2026-05-07 22:04:36",
-      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
+    },
+    {
+      "added_at": "2026-05-07 22:04:36",
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-05-07 22:04:36",

@@ -8755,6 +8755,24 @@
     },
     {
       "album": {
+        "name": "You don't know",
+        "url": "https://open.spotify.com/album/3E9BfZrOVh8eTTU2TSUll8"
+      },
+      "artists": [
+        {
+          "name": "Artaco",
+          "url": "https://open.spotify.com/artist/04z5ZpKO2fzEgPaHZSK0yw"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313608,
+      "name": "You don't know",
+      "url": "https://open.spotify.com/track/0hyUxPdMK2EEgcB0zkykPX"
+    },
+    {
+      "album": {
         "name": "You I Love the Most",
         "url": "https://open.spotify.com/album/5PHKzoIa6kH5W9zsx7GfRq"
       },
@@ -8824,6 +8842,24 @@
       "duration_ms": 281004,
       "name": "You Know Why",
       "url": "https://open.spotify.com/track/1p9GJAvKBbWHdTE4PPcaXl"
+    },
+    {
+      "album": {
+        "name": "You Learn",
+        "url": "https://open.spotify.com/album/4NeLqkOPudkivCWLM2KmEW"
+      },
+      "artists": [
+        {
+          "name": "Guiltera",
+          "url": "https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243860,
+      "name": "You Learn",
+      "url": "https://open.spotify.com/track/6yQZwLyshQAHnQ6YmYJByN"
     },
     {
       "album": {

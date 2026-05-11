@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2325,
+  "num_followers": 2326,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
-      },
-      "artists": [
-        {
-          "name": "Martina Stoessel",
-          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Te Creo",
-      "url": "https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Mejores Amigos",
         "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 185640,
       "name": "La Feria de Cepill\u00edn",
       "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
+      },
+      "artists": [
+        {
+          "name": "Martina Stoessel",
+          "url": "https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Te Creo",
+      "url": "https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW"
     },
     {
       "added_at": "2020-04-27 15:43:16",

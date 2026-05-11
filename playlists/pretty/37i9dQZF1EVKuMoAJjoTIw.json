@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXfMLAOobyDN>Wiz Khalifa</a>, <a href=spotify:playlist:37i9dQZF1EIV630wDjArgt>P!nk</a>, <a href=spotify:playlist:37i9dQZF1EIWEZ8ZxSQLXq>Ed Sheeran</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWbSKJ2brasF>Bruno Mars</a>, <a href=spotify:playlist:37i9dQZF1EIUTVcY7MUDT0>Marc Segu\u00ed</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
@@ -11,58 +11,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "See You Again (feat. Charlie Puth)",
-        "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 229525,
-      "name": "See You Again (feat. Charlie Puth)",
-      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+        "name": "Tiroteo (Remix)",
+        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         },
         {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 242721,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+      "duration_ms": 321555,
+      "name": "Tiroteo - Remix",
+      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+      "duration_ms": 170234,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
     },
     {
       "added_at": null,
@@ -131,38 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaah",
-        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 212112,
-      "name": "Makrehtosh",
-      "url": "https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 170234,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -179,34 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
-        "url": "https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p"
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
       },
       "artists": [
         {
-          "name": "Houda Bondok",
-          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
         }
       ],
-      "duration_ms": 226153,
-      "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
-      "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
-        "url": "https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
-      "url": "https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct"
+      "duration_ms": 212112,
+      "name": "Makrehtosh",
+      "url": "https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g"
     },
     {
       "added_at": null,
@@ -227,6 +179,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
+        "url": "https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
+      "url": "https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehsaas",
+        "url": "https://open.spotify.com/album/78dWUpazWAWyGPy6CFzUoQ"
+      },
+      "artists": [
+        {
+          "name": "Sheera Jasvir",
+          "url": "https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "Ehsaas",
+      "url": "https://open.spotify.com/track/5ULIvl0zduD2l9g6hdXnDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+        "url": "https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p"
+      },
+      "artists": [
+        {
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+      "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My First Love",
         "url": "https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 263407,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winning 11",
+        "url": "https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Mengejar Mimpi",
+      "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
     },
     {
       "added_at": null,
@@ -259,18 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehsaas",
-        "url": "https://open.spotify.com/album/78dWUpazWAWyGPy6CFzUoQ"
+        "name": "Mohabat",
+        "url": "https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr"
       },
       "artists": [
         {
-          "name": "Sheera Jasvir",
-          "url": "https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil"
+          "name": "Sucha Yaar",
+          "url": "https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ"
         }
       ],
-      "duration_ms": 306500,
-      "name": "Ehsaas",
-      "url": "https://open.spotify.com/track/5ULIvl0zduD2l9g6hdXnDo"
+      "duration_ms": 216000,
+      "name": "Mohabat",
+      "url": "https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5"
     },
     {
       "added_at": null,
@@ -307,40 +323,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winning 11",
-        "url": "https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc"
+        "name": "Joon Fakran Di",
+        "url": "https://open.spotify.com/album/7yV9XpwkyvFLg8F9nP7mGF"
       },
       "artists": [
         {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+          "name": "Gurpreet Chattha",
+          "url": "https://open.spotify.com/artist/2SUz5QWoJ2tkkFbTO1qvSm"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Mengejar Mimpi",
-      "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
+      "duration_ms": 380000,
+      "name": "Joon Fakran Di",
+      "url": "https://open.spotify.com/track/0zKltEwofYY0GlHbCNoLEy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bernafas Tanpamu",
-        "url": "https://open.spotify.com/album/1ZNLLsc8LudBtV42fjK0xz"
+        "name": "Our Biggest Thing Ever",
+        "url": "https://open.spotify.com/album/2VZsIFI3moI5hPckoQwlWq"
       },
       "artists": [
         {
@@ -348,25 +348,25 @@
           "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
         }
       ],
-      "duration_ms": 295523,
-      "name": "Bernafas Tanpamu",
-      "url": "https://open.spotify.com/track/6OfcNcfO95Kc29LzN5BANG"
+      "duration_ms": 283760,
+      "name": "Sekuat Hatimu",
+      "url": "https://open.spotify.com/track/0HbrQXrdeMF5zHGHUw0zuH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Small Town Boy (Track By Track)",
-        "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
+        "name": "The Search",
+        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
       },
       "artists": [
         {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 185146,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
+      "duration_ms": 260253,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM"
     },
     {
       "added_at": null,
@@ -387,18 +387,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mohabat",
-        "url": "https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr"
+        "name": "Seleksi Hits",
+        "url": "https://open.spotify.com/album/1Y8F20UfzbynDnmWAlCTYB"
       },
       "artists": [
         {
-          "name": "Sucha Yaar",
-          "url": "https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ"
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Mohabat",
-      "url": "https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5"
+      "duration_ms": 257834,
+      "name": "Lumpuhkan Ingatanku",
+      "url": "https://open.spotify.com/track/7vcoZ5pFHObFaToqGNtTlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u0628\u062e\u0627\u0641 \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633",
+        "url": "https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 292097,
+      "name": "\u0628\u062e\u0627\u0641 \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633",
+      "url": "https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW"
     },
     {
       "added_at": null,
@@ -419,56 +435,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habebna",
-        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ"
       },
       "artists": [
         {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+          "name": "Parker Jack",
+          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Law Tigi",
-      "url": "https://open.spotify.com/track/60zEl2cvjjtDhzF78snIYr"
+      "duration_ms": 135168,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u062e\u0644\u0635\u062a \u062e\u0644\u0627\u0635",
-        "url": "https://open.spotify.com/album/1Jzd1J3nYd6LcQugPYCKjX"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
-        }
-      ],
-      "duration_ms": 269583,
-      "name": "\u062e\u0644\u0635\u062a \u062e\u0644\u0627\u0635",
-      "url": "https://open.spotify.com/track/6yduec6KSrZ66jR4YEaOYU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0627\u0646\u0627 \u0647\u0648\u0646\u062a \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/0sC9BUp4DaTQrBGfeZISX8"
-      },
-      "artists": [
-        {
-          "name": "Houda Bondok",
-          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "\u0627\u0646\u0627 \u0647\u0648\u0646\u062a \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ramy Sabry Collection",
-        "url": "https://open.spotify.com/album/1flhdVIthDKRZLuic50exZ"
+        "name": "\u0627\u0646\u0627 \u0628\u062d\u0628\u0643 \u0627\u0646\u062a",
+        "url": "https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa"
       },
       "artists": [
         {
@@ -476,9 +460,25 @@
           "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
         }
       ],
-      "duration_ms": 281756,
-      "name": "Seket Leh",
-      "url": "https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW"
+      "duration_ms": 242783,
+      "name": "\u0628\u062d\u0643\u064a\u0644\u0643 \u0639\u0646 \u0627\u0644\u0623\u064a\u0627\u0645",
+      "url": "https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": null,
@@ -503,18 +503,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Search",
-        "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
+        "name": "\u0627\u0646\u0627 \u0647\u0648\u0646\u062a \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/0sC9BUp4DaTQrBGfeZISX8"
       },
       "artists": [
         {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
         }
       ],
-      "duration_ms": 260253,
-      "name": "Hate Myself",
-      "url": "https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM"
+      "duration_ms": 248333,
+      "name": "\u0627\u0646\u0627 \u0647\u0648\u0646\u062a \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": null,
@@ -535,18 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Parker Jack",
-          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 135168,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": null,
@@ -567,98 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "5ang Juara",
+        "url": "https://open.spotify.com/album/4oaTN12YTw4k2NrppmS4L6"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Seventeen",
+          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
         }
       ],
-      "duration_ms": 202826,
-      "name": "enough for you",
-      "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seleksi Hits",
-        "url": "https://open.spotify.com/album/1Y8F20UfzbynDnmWAlCTYB"
-      },
-      "artists": [
-        {
-          "name": "Geisha",
-          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
-        }
-      ],
-      "duration_ms": 257834,
-      "name": "Lumpuhkan Ingatanku",
-      "url": "https://open.spotify.com/track/7vcoZ5pFHObFaToqGNtTlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Biggest Thing Ever",
-        "url": "https://open.spotify.com/album/2VZsIFI3moI5hPckoQwlWq"
-      },
-      "artists": [
-        {
-          "name": "Last Child",
-          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Sekuat Hatimu",
-      "url": "https://open.spotify.com/track/0HbrQXrdeMF5zHGHUw0zuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chhad Dila",
-        "url": "https://open.spotify.com/album/2Gjjn3GOEf9z9ttoDeWLUN"
-      },
-      "artists": [
-        {
-          "name": "Lehmber Hussainpuri",
-          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
-        }
-      ],
-      "duration_ms": 258225,
-      "name": "Chhad Dila",
-      "url": "https://open.spotify.com/track/75v90PN9FbhV1RC0ukWMWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/0uvagCBJC0ClsR11W10T0Y"
+      "duration_ms": 253373,
+      "name": "Memikirkan Dia",
+      "url": "https://open.spotify.com/track/5iMfzmZXyTPJSuWA1Wg8Gi"
     },
     {
       "added_at": null,
@@ -687,98 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaah",
-        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
+        "name": "Everything We Are Everything",
+        "url": "https://open.spotify.com/album/2NBMxhzXB6hmw2He7ZVVDB"
       },
       "artists": [
         {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
         }
       ],
-      "duration_ms": 243500,
-      "name": "Ghebet El Habayeb",
-      "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0628\u062e\u0627\u0641 \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633",
-        "url": "https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 292097,
-      "name": "\u0628\u062e\u0627\u0641 \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633",
-      "url": "https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tak Lekang Oleh Waktu",
-        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 282474,
-      "name": "Demi Cinta",
-      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
-        "url": "https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp"
-      },
-      "artists": [
-        {
-          "name": "Houda Bondok",
-          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
-      "url": "https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0627\u0646\u0627 \u0628\u062d\u0628\u0643 \u0627\u0646\u062a",
-        "url": "https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 242783,
-      "name": "\u0628\u062d\u0643\u064a\u0644\u0643 \u0639\u0646 \u0627\u0644\u0623\u064a\u0627\u0645",
-      "url": "https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+      "duration_ms": 317640,
+      "name": "Diary Depresiku",
+      "url": "https://open.spotify.com/track/1sNdqKvlMZDBzBUw76qx27"
     },
     {
       "added_at": null,
@@ -799,6 +655,174 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/0uvagCBJC0ClsR11W10T0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE SORROWS ALBUM",
+        "url": "https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 282378,
+      "name": "Wasalt Ma3ak",
+      "url": "https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "Ghebet El Habayeb",
+      "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chhad Dila",
+        "url": "https://open.spotify.com/album/2Gjjn3GOEf9z9ttoDeWLUN"
+      },
+      "artists": [
+        {
+          "name": "Lehmber Hussainpuri",
+          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
+        }
+      ],
+      "duration_ms": 258225,
+      "name": "Chhad Dila",
+      "url": "https://open.spotify.com/track/75v90PN9FbhV1RC0ukWMWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramy Sabry Collection",
+        "url": "https://open.spotify.com/album/1flhdVIthDKRZLuic50exZ"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 281756,
+      "name": "Seket Leh",
+      "url": "https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u062e\u0644\u0635\u062a \u062e\u0644\u0627\u0635",
+        "url": "https://open.spotify.com/album/1Jzd1J3nYd6LcQugPYCKjX"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "duration_ms": 269583,
+      "name": "\u062e\u0644\u0635\u062a \u062e\u0644\u0627\u0635",
+      "url": "https://open.spotify.com/track/6yduec6KSrZ66jR4YEaOYU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tadfe Gi",
+        "url": "https://open.spotify.com/album/360wjdK53MHI3AWqAawfgD"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gill",
+          "url": "https://open.spotify.com/artist/7D1zOODZVM2HxjVDsGX5L1"
+        },
+        {
+          "name": "Treff E",
+          "url": "https://open.spotify.com/artist/3AFX0GCzHVW8n1KBTcod8a"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Tadfe Gi",
+      "url": "https://open.spotify.com/track/4qmnKakW5quqq15m1toRpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
+        "url": "https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp"
+      },
+      "artists": [
+        {
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
+      "url": "https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mitski on Audiotree Live",
+        "url": "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 131530,
+      "name": "Class of 2013 - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wahshak",
         "url": "https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x"
       },
@@ -811,22 +835,6 @@
       "duration_ms": 228648,
       "name": "Wahshak",
       "url": "https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joon Fakran Di",
-        "url": "https://open.spotify.com/album/7yV9XpwkyvFLg8F9nP7mGF"
-      },
-      "artists": [
-        {
-          "name": "Gurpreet Chattha",
-          "url": "https://open.spotify.com/artist/2SUz5QWoJ2tkkFbTO1qvSm"
-        }
-      ],
-      "duration_ms": 380000,
-      "name": "Joon Fakran Di",
-      "url": "https://open.spotify.com/track/0zKltEwofYY0GlHbCNoLEy"
     }
   ],
   "unique_name": "Moody Mix",

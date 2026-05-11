@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and V\. J\. Edgecombe
+> Fourth quarter, two minutes left .\. get locked in\. Cover: James Harden
 
 907 songs - 1 day 22 hr 10 min
 

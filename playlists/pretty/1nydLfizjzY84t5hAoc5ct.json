@@ -6,8 +6,88 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AAB4YZQB/buZEy0s6ECIWE6oi18j7BsF",
+  "snapshot_id": "AAB4iDgIXe3S9MN2Xgkc0zPOWaRHrJ6U",
   "tracks": [
+    {
+      "added_at": "2026-05-10 11:57:38",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
+      "added_at": "2026-05-03 12:23:23",
+      "album": {
+        "name": "Look Me In The Eye",
+        "url": "https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0"
+      },
+      "artists": [
+        {
+          "name": "FAEDA",
+          "url": "https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru"
+        }
+      ],
+      "duration_ms": 213472,
+      "name": "Look Me In The Eye",
+      "url": "https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg"
+    },
+    {
+      "added_at": "2026-05-03 12:23:26",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/54FrVuIxgN0tATjPAw51WX"
+      },
+      "artists": [
+        {
+          "name": "Tom Collins",
+          "url": "https://open.spotify.com/artist/1xNta7Lpbfs5kxVyCpMvgl"
+        }
+      ],
+      "duration_ms": 157259,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4"
+    },
+    {
+      "added_at": "2026-05-03 12:23:29",
+      "album": {
+        "name": "Moonsoake",
+        "url": "https://open.spotify.com/album/0H7CsLJOw1LM2Y6rPdoDMu"
+      },
+      "artists": [
+        {
+          "name": "Wynona Bleach",
+          "url": "https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/7tvyqrS2FZa7PZIB0Z9QLZ"
+    },
+    {
+      "added_at": "2026-05-10 12:03:00",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
     {
       "added_at": "2026-05-03 12:23:03",
       "album": {
@@ -73,68 +153,20 @@
       "url": "https://open.spotify.com/track/3xtFNPUmFR9XuKZvKZ5uXI"
     },
     {
-      "added_at": "2026-05-03 12:23:17",
+      "added_at": "2026-05-10 12:02:26",
       "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
       },
       "artists": [
         {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
         }
       ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
-    },
-    {
-      "added_at": "2026-05-03 12:23:23",
-      "album": {
-        "name": "Look Me In The Eye",
-        "url": "https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0"
-      },
-      "artists": [
-        {
-          "name": "FAEDA",
-          "url": "https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru"
-        }
-      ],
-      "duration_ms": 213472,
-      "name": "Look Me In The Eye",
-      "url": "https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg"
-    },
-    {
-      "added_at": "2026-05-03 12:23:26",
-      "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/54FrVuIxgN0tATjPAw51WX"
-      },
-      "artists": [
-        {
-          "name": "Tom Collins",
-          "url": "https://open.spotify.com/artist/1xNta7Lpbfs5kxVyCpMvgl"
-        }
-      ],
-      "duration_ms": 157259,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4"
-    },
-    {
-      "added_at": "2026-05-03 12:23:29",
-      "album": {
-        "name": "Moonsoake",
-        "url": "https://open.spotify.com/album/0H7CsLJOw1LM2Y6rPdoDMu"
-      },
-      "artists": [
-        {
-          "name": "Wynona Bleach",
-          "url": "https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/7tvyqrS2FZa7PZIB0Z9QLZ"
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
     },
     {
       "added_at": "2026-05-03 12:23:32",
@@ -151,22 +183,6 @@
       "duration_ms": 211484,
       "name": "Sinking Sands",
       "url": "https://open.spotify.com/track/0a0ZHh3vZZsLwCaRlUVVDL"
-    },
-    {
-      "added_at": "2026-05-03 12:23:36",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:23:40",
@@ -217,6 +233,22 @@
       "url": "https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z"
     },
     {
+      "added_at": "2026-05-10 12:02:46",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:23:50",
       "album": {
         "name": "FUBAR",
@@ -231,22 +263,6 @@
       "duration_ms": 263000,
       "name": "FUBAR",
       "url": "https://open.spotify.com/track/7fQYGMFmYytvX1K9HxxpyT"
-    },
-    {
-      "added_at": "2026-05-03 12:23:55",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:24:04",
@@ -297,20 +313,20 @@
       "url": "https://open.spotify.com/track/7CneMoem8r2X4OD1LWQtOs"
     },
     {
-      "added_at": "2026-05-03 12:24:21",
+      "added_at": "2026-05-10 12:02:38",
       "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
       },
       "artists": [
         {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
         }
       ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
     },
     {
       "added_at": "2026-05-03 12:24:24",
@@ -381,6 +397,22 @@
       "url": "https://open.spotify.com/track/0mxOqMRyj73HBPszDNbo14"
     },
     {
+      "added_at": "2026-05-10 12:02:34",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:27:19",
       "album": {
         "name": "Sunday feelin blue",
@@ -395,22 +427,6 @@
       "duration_ms": 162516,
       "name": "Sunday feelin blue",
       "url": "https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk"
-    },
-    {
-      "added_at": "2026-05-03 12:24:37",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:24:40",
@@ -465,6 +481,22 @@
       "url": "https://open.spotify.com/track/0QV8Rgw3puKgvODemZPVhX"
     },
     {
+      "added_at": "2026-05-10 12:02:51",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:24:52",
       "album": {
         "name": "Fables",
@@ -479,22 +511,6 @@
       "duration_ms": 188464,
       "name": "Fables",
       "url": "https://open.spotify.com/track/2rsylxMg1zRvbpIFu4CZjG"
-    },
-    {
-      "added_at": "2026-05-03 12:24:56",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:24:59",
@@ -545,6 +561,22 @@
       "url": "https://open.spotify.com/track/2W7fo4UpIVY3b3pT36KqRk"
     },
     {
+      "added_at": "2026-05-10 12:02:30",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:25:11",
       "album": {
         "name": "South Paw",
@@ -559,22 +591,6 @@
       "duration_ms": 199477,
       "name": "South Paw",
       "url": "https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7"
-    },
-    {
-      "added_at": "2026-05-03 12:25:15",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:25:17",
@@ -625,6 +641,22 @@
       "url": "https://open.spotify.com/track/1APdKAaLRrC8zxGCeC44aw"
     },
     {
+      "added_at": "2026-05-10 12:02:43",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:25:33",
       "album": {
         "name": "Beginnings and Endings",
@@ -639,22 +671,6 @@
       "duration_ms": 264666,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/2ERtVyfIhVWUlHxiddsc2K"
-    },
-    {
-      "added_at": "2026-05-03 12:25:37",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:25:41",
@@ -705,6 +721,22 @@
       "url": "https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58"
     },
     {
+      "added_at": "2026-05-10 12:03:04",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:25:51",
       "album": {
         "name": "Soft Lad",
@@ -719,22 +751,6 @@
       "duration_ms": 235776,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/6gbYVAw8vd5LoC9RwYsfWE"
-    },
-    {
-      "added_at": "2026-05-03 12:25:56",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:26:00",
@@ -785,6 +801,22 @@
       "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
     },
     {
+      "added_at": "2026-05-10 12:04:25",
+      "album": {
+        "name": "STEAL MY SLEEP.",
+        "url": "https://open.spotify.com/album/6qb1OJoWWluVSpfjcRL1fg"
+      },
+      "artists": [
+        {
+          "name": "Pat Hamilton",
+          "url": "https://open.spotify.com/artist/7DAMFcgUU8TuUeOdEhkZl1"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "STEAL MY SLEEP.",
+      "url": "https://open.spotify.com/track/79Cx8nWnxQcs3ya8qo9eHo"
+    },
+    {
       "added_at": "2026-05-03 12:26:11",
       "album": {
         "name": "Red Party Cups",
@@ -799,22 +831,6 @@
       "duration_ms": 245750,
       "name": "Red Party Cups",
       "url": "https://open.spotify.com/track/1nSgVxt2arPx4JDDZAEmXC"
-    },
-    {
-      "added_at": "2026-05-03 12:26:17",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:26:20",
@@ -881,22 +897,6 @@
       "url": "https://open.spotify.com/track/5lnajHVD6bcU22Fp1rawGh"
     },
     {
-      "added_at": "2026-05-03 12:26:34",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
-    },
-    {
       "added_at": "2026-05-03 12:26:38",
       "album": {
         "name": "Superhero",
@@ -959,22 +959,6 @@
       "duration_ms": 218082,
       "name": "Pesky Rain",
       "url": "https://open.spotify.com/track/1opoEiYWR9S2O7NAxPeDmX"
-    },
-    {
-      "added_at": "2026-05-03 12:26:53",
-      "album": {
-        "name": "The Talk",
-        "url": "https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU"
-      },
-      "artists": [
-        {
-          "name": "Casual Drag",
-          "url": "https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "The Talk",
-      "url": "https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm"
     },
     {
       "added_at": "2026-05-03 12:26:57",

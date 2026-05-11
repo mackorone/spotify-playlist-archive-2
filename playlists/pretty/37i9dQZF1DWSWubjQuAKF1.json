@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Martyna Baranowska",
-  "num_followers": 25787,
+  "num_followers": 25783,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -131,8 +131,8 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "STARLET",
-        "url": "https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R"
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
         }
       ],
-      "duration_ms": 159048,
-      "name": "STARLET",
-      "url": "https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw"
+      "duration_ms": 182383,
+      "name": "BLOODY MARY",
+      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -199,6 +199,38 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "What's the Point!",
+        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 163754,
+      "name": "What's the Point!",
+      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "STARLET",
+        "url": "https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 159048,
+      "name": "STARLET",
+      "url": "https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "PRICE TAG",
         "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
       },
@@ -211,22 +243,6 @@
       "duration_ms": 190660,
       "name": "PRICE TAG",
       "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "BLURRY",
-        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 182383,
-      "name": "BLOODY MARY",
-      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -291,22 +307,6 @@
       "duration_ms": 212009,
       "name": "Talking To Jesus",
       "url": "https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "What's the Point!",
-        "url": "https://open.spotify.com/album/0QFm3m1Wa8IMkUe1s8YLeS"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 163754,
-      "name": "What's the Point!",
-      "url": "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Szeroko\u015bci!",
-        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Szeroko\u015bci!",
-      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Cinnamon",
         "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 190842,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -523,8 +523,8 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "cisza nocna",
-        "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
+        "name": "ASFALT",
+        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 182518,
-      "name": "cisza nocna",
-      "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
+      "duration_ms": 153280,
+      "name": "ASFALT",
+      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -555,22 +555,6 @@
       "duration_ms": 152307,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/6odp7mRhkFB9GO3K0lG6ZF"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "S\u0142oneczna strona ulicy",
-        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Lustro",
-      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -607,8 +591,24 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "ASFALT",
-        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
+        "name": "S\u0142oneczna strona ulicy",
+        "url": "https://open.spotify.com/album/6WC2GVDGNhOPMyOPzSL31y"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "cisza nocna",
+        "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 153280,
-      "name": "ASFALT",
-      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+      "duration_ms": 182518,
+      "name": "cisza nocna",
+      "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Room Of Lies",
-        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
-      },
-      "artists": [
-        {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Room Of Lies",
-      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Kupi\u0142am bilet",
         "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 192325,
       "name": "Kupi\u0142am bilet",
       "url": "https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Room Of Lies",
+        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Room Of Lies",
+      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Linie czasu",
-        "url": "https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Co\u015b mi jeszcze opowiedz",
-      "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "BBY WAGON",
         "url": "https://open.spotify.com/album/4BvRWjZ42EdCw7TDNwjOPd"
       },
@@ -899,6 +883,38 @@
       "duration_ms": 143118,
       "name": "BBY WAGON",
       "url": "https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "STILL PRETTY WHEN I CRY",
+        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "STILL PRETTY WHEN I CRY",
+      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Linie czasu",
+        "url": "https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Co\u015b mi jeszcze opowiedz",
+      "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -919,22 +935,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Piosenki z film\u00f3w, kt\u00f3rych nie by\u0142o",
-        "url": "https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA"
-      },
-      "artists": [
-        {
-          "name": "micha\u0142 od ko\u015bci",
-          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
-        }
-      ],
-      "duration_ms": 234352,
-      "name": "Pi\u0105tki",
-      "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "gdyby\u015b istnia\u0142",
         "url": "https://open.spotify.com/album/3Plp1qsoHqe9mOk40JjY0E"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "Piosenki z film\u00f3w, kt\u00f3rych nie by\u0142o",
+        "url": "https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA"
+      },
+      "artists": [
+        {
+          "name": "micha\u0142 od ko\u015bci",
+          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "Pi\u0105tki",
+      "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "chce Twoje zarazki",
         "url": "https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1"
       },
@@ -963,6 +979,22 @@
       "duration_ms": 168965,
       "name": "chce Twoje zarazki",
       "url": "https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "CO TOBIE ZROBI\u0118",
+        "url": "https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 220406,
+      "name": "CO TOBIE ZROBI\u0118",
+      "url": "https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -987,22 +1019,6 @@
       "duration_ms": 154285,
       "name": "Chcia\u0142abym By\u0107 Zwyk\u0142a...",
       "url": "https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "CO TOBIE ZROBI\u0118",
-        "url": "https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 220406,
-      "name": "CO TOBIE ZROBI\u0118",
-      "url": "https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -1083,22 +1099,6 @@
       "duration_ms": 186674,
       "name": "baza",
       "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "PORTO",
-        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
-      },
-      "artists": [
-        {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
-        }
-      ],
-      "duration_ms": 149011,
-      "name": "PORTO",
-      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
     }
   ],
   "unique_name": "up next",

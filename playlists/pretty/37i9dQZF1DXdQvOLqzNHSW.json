@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1016808,
+  "num_followers": 1016782,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "All Roads",
+        "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "All Roads",
+      "url": "https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "All Roads",
-        "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "All Roads",
-      "url": "https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 199032,
       "name": "Ada Jean",
       "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 251160,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "One More Rush",
-        "url": "https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV"
-      },
-      "artists": [
-        {
-          "name": "Baril",
-          "url": "https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Take Ur Time",
-      "url": "https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "One More Rush",
+        "url": "https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV"
+      },
+      "artists": [
+        {
+          "name": "Baril",
+          "url": "https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Take Ur Time",
+      "url": "https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Bubba",
-      "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Dispose of Me",
         "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Bubba",
+      "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238479,
-      "name": "S.I.T.L.",
-      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 188764,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238479,
+      "name": "S.I.T.L.",
+      "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Lionel Boy",
-        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
-      },
-      "artists": [
-        {
-          "name": "Lionel Boy",
-          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Flower Girl",
-      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Bikini",
         "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
+        "name": "Lionel Boy",
+        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
       },
       "artists": [
         {
-          "name": "Hannovr",
-          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
+          "name": "Lionel Boy",
+          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
         }
       ],
-      "duration_ms": 255624,
-      "name": "DRIVE",
-      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
+      "duration_ms": 224133,
+      "name": "Flower Girl",
+      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1267,6 +1251,22 @@
       "duration_ms": 132750,
       "name": "This Is My Story",
       "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M"
+      },
+      "artists": [
+        {
+          "name": "Hannovr",
+          "url": "https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv"
     },
     {
       "added_at": "2026-03-23 14:42:41",

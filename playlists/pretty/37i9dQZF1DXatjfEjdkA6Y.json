@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5873,
+  "num_followers": 5878,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Herzen zu verschenken",
+        "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
+      },
+      "artists": [
+        {
+          "name": "Mary Roos",
+          "url": "https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Nur die Liebe l\u00e4sst uns leben - Neuaufnahme",
+      "url": "https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Duetos - Diz-me Com Quem Cantas",
         "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 237152,
       "name": "Tourada",
       "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Herzen zu verschenken",
-        "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
-      },
-      "artists": [
-        {
-          "name": "Mary Roos",
-          "url": "https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Nur die Liebe l\u00e4sst uns leben - Neuaufnahme",
-      "url": "https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY"
     },
     {
       "added_at": "2025-03-14 16:55:23",

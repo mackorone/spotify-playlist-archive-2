@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 47 min
+71 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Hazme Tuya](https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:24 | 2025-02-12 |  |
 | [Hermosa Ciudad](https://open.spotify.com/track/2LzmyRR9dDXZ4ceRllEw0D) | [Ana Victoria](https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54), [Daniel Willy](https://open.spotify.com/artist/717Rj9LBr7WCA2knqxbl90), [The Silver Lake Chorus](https://open.spotify.com/artist/5cHNjijphFOJ54tYw4Dv1c) | [Hermosa Ciudad](https://open.spotify.com/album/5O6phe5fXqOkbT2QPY3rV6) | 4:18 | 2025-08-26 | 2025-11-02 |
 | [La Corona Es Mía](https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:24 | 2025-05-21 |  |
+| [La Villana](https://open.spotify.com/track/6E7mhIw6S9a3qgc8KJiBOT) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:20 | 2026-05-11 |  |
 | [Las Flores del Camposanto](https://open.spotify.com/track/6d96IsWXHitLBlHoWIgiML) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Las Flores del Camposanto](https://open.spotify.com/album/0o6I5jgXrSUaDgwBaenrxt) | 3:15 | 2025-02-12 | 2025-05-11 |
-| [Las Mexicanas](https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Duetos](https://open.spotify.com/album/6NflZIEwZGmXzGh3668MlD) | 3:11 | 2025-02-12 |  |
+| [Las Mexicanas](https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Duetos](https://open.spotify.com/album/6NflZIEwZGmXzGh3668MlD) | 3:11 | 2025-02-12 | 2026-05-11 |
 | [Lo Nuestro Es un Error](https://open.spotify.com/track/0JuxfeKIDbAkWc7BLVsd8b) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 3:16 | 2026-05-10 |  |
 | [Luna de Octubre](https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Luna de Octubre](https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8) | 3:14 | 2025-02-12 |  |
 | [Mes Doce](https://open.spotify.com/track/0vO8vUtgIW3eZnalAzzDjI) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Mes Doce](https://open.spotify.com/album/4AFiyO0hxJx17fyt8UfrHi) | 2:50 | 2025-02-12 |  |

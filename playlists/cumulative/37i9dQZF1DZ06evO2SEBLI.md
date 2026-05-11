@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abyssal](https://open.spotify.com/track/1WIXu6MwuNvUkviVHRX5Yh) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/7aHlT9RPOvaePp5Woe6Nqg) | 7:03 | 2026-03-21 | 2026-04-12 |
-| [Abyssal](https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 7:03 | 2026-03-19 |  |
+| [Abyssal](https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 7:03 | 2026-03-19 | 2026-05-11 |
 | [Asleep / Sea](https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 6:12 | 2026-03-19 |  |
 | [Awake / Lakeside](https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 5:41 | 2026-03-19 |  |
 | [bath](https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [bath](https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ) | 3:56 | 2026-03-19 |  |
@@ -36,7 +36,7 @@
 | [Listen / Season](https://open.spotify.com/track/3C6KU5hZvaanvtzbWqBZDY) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 3:08 | 2026-03-19 |  |
 | [Lotus](https://open.spotify.com/track/6BDIWeFRjXx4ilf7GazzJM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 3:54 | 2026-03-19 |  |
 | [Ma](https://open.spotify.com/track/6JxYkB8w6fzgK0LPctp2dC) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Interspace](https://open.spotify.com/album/2VbA8iS39yqOChWVPxC0kA) | 5:29 | 2026-03-19 |  |
-| [Mitake](https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 8:26 | 2026-03-19 | 2026-05-10 |
+| [Mitake](https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 8:26 | 2026-03-19 |  |
 | [Oblivion](https://open.spotify.com/track/1GRsoPEqDv649lZDFdya0G) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 6:24 | 2026-03-19 |  |
 | [Open / Rain](https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 3:41 | 2026-03-19 |  |
 | [Rebirth](https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 5:37 | 2026-03-19 |  |

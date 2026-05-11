@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60165,
+  "num_followers": 60161,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-05-07 21:00:50",
-      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 175609,
       "name": "Kuka nauraa nyt",
       "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
+    },
+    {
+      "added_at": "2026-05-07 21:00:50",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Feels Like Heaven",
-        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
-    },
-    {
-      "added_at": "2026-05-07 21:00:50",
-      "album": {
         "name": "Limee ja suolaa",
         "url": "https://open.spotify.com/album/3Pl188gepWX1HVKonTwAUl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 193947,
       "name": "Limee ja suolaa",
       "url": "https://open.spotify.com/track/7Lg9ofCGw4UUYXPKyTpzRp"
+    },
+    {
+      "added_at": "2026-05-07 21:00:50",
+      "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Valoa varten",
-        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Tuun viel himaan",
-      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
-    },
-    {
-      "added_at": "2026-05-07 21:00:50",
-      "album": {
         "name": "Toimitusjohtaja",
         "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Hullu nainen",
-        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
+        "name": "Valoa varten",
+        "url": "https://open.spotify.com/album/0rA902E230Stu32mLX4axp"
       },
       "artists": [
         {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Hullu nainen",
-      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+      "duration_ms": 186680,
+      "name": "Tuun viel himaan",
+      "url": "https://open.spotify.com/track/6xpnBGFThS3Z8slDBiVJN2"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Ready To Leave",
-        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+        "name": "Hullu nainen",
+        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
       },
       "artists": [
         {
-          "name": "Sinikka Monte",
-          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
         }
       ],
-      "duration_ms": 178815,
-      "name": "Ready To Leave",
-      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
+      "duration_ms": 177360,
+      "name": "Hullu nainen",
+      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
+        "name": "Ready To Leave",
+        "url": "https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Monte",
+          "url": "https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok"
+        }
+      ],
+      "duration_ms": 178815,
+      "name": "Ready To Leave",
+      "url": "https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD"
+    },
+    {
+      "added_at": "2026-05-07 21:00:50",
+      "album": {
         "name": "Cokis ja Mentos",
         "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
+        "name": "Vanhoja muistellaan",
+        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Vanhoja muistellaan",
+      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
+    },
+    {
+      "added_at": "2026-05-07 21:00:50",
+      "album": {
         "name": "Teatterii",
         "url": "https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 159255,
       "name": "Teatterii",
       "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
-    },
-    {
-      "added_at": "2026-05-07 21:00:50",
-      "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-05-07 21:00:50",
+      "album": {
         "name": "Napanuora",
         "url": "https://open.spotify.com/album/2Kzvf6oEIgP6qPdZwaKRb9"
       },
@@ -1119,34 +1135,18 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Vanhoja muistellaan",
-        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
+        "name": "Sen piti olla min\u00e4",
+        "url": "https://open.spotify.com/album/3QuAfJctcfbyBKs8Bc6rnR"
       },
       "artists": [
         {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
         }
       ],
-      "duration_ms": 168391,
-      "name": "Vanhoja muistellaan",
-      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
-    },
-    {
-      "added_at": "2026-05-07 21:00:50",
-      "album": {
-        "name": "Rakastan teit\u00e4 kaikkia",
-        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Rakastan teit\u00e4 kaikkia",
-      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
+      "duration_ms": 202240,
+      "name": "Sen piti olla min\u00e4",
+      "url": "https://open.spotify.com/track/3mLFiXrh5H0Ri8ZNcUdzab"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-05-07 21:00:50",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
+        "name": "Rakastan teit\u00e4 kaikkia",
+        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
+      "duration_ms": 242640,
+      "name": "Rakastan teit\u00e4 kaikkia",
+      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -1195,6 +1195,22 @@
       "duration_ms": 159969,
       "name": "Running Through My Head",
       "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
+    },
+    {
+      "added_at": "2026-05-07 21:00:50",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
     },
     {
       "added_at": "2026-05-07 21:00:50",
@@ -1355,22 +1371,6 @@
       "duration_ms": 206999,
       "name": "Kuolisin sun kaa (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
-    },
-    {
-      "added_at": "2026-05-07 21:00:50",
-      "album": {
-        "name": "Itken jos mua huvittaa",
-        "url": "https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5"
-      },
-      "artists": [
-        {
-          "name": "Maustetyt\u00f6t",
-          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Ent\u00e4 jos en p\u00e4rj\u00e4\u00e4k\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar"
     }
   ],
   "unique_name": "Nousussa",

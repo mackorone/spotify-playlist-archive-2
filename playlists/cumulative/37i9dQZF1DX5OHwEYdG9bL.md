@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: CORTIS\) \(Enjoy a playlist of songs that support music video features!\)
 
-219 songs - 12 hr 4 min
+221 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2.0](https://open.spotify.com/track/6GglPDAGjgX3PzbA7VrTVN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0](https://open.spotify.com/album/1X1ez8izXta4OsubqpMoA8) | 3:49 | 2026-04-02 |  |
 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 | 2026-04-07 |  |
 | [96ers](https://open.spotify.com/track/2zRAU3xCwdikTrvGPq5pSC) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [96ers](https://open.spotify.com/album/2SJPyeGSD1fJXINbkufRu9) | 3:06 | 2025-07-15 | 2025-08-20 |
+| [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/24xU2Ua8cjyz2wKziFOtnE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/6uC7j4x0xXgQkVhAg3YElC) | 3:02 | 2026-05-11 |  |
 | [All My Poetry](https://open.spotify.com/track/0xqSbnjCNg0QBw3Jt3jBai) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [All My Poetry](https://open.spotify.com/album/2OFHzxTlpEhToP5S7FKrXn) | 4:24 | 2025-07-15 |  |
 | [APT.](https://open.spotify.com/track/04h58ACw3A2hC6xKsZOkST) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/5sSwBYZvbca0i7G6yUCVXA) | 2:52 | 2025-07-15 | 2025-08-20 |
 | [ASAP](https://open.spotify.com/track/1zhULUXEKRUis8u4umC4TO) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/2UaodruL7eqPlQ1UrwtCEN) | 2:51 | 2025-07-15 | 2025-08-20 |
@@ -184,6 +185,7 @@
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V) | 4:24 | 2025-10-24 |  |
 | [STYLE](https://open.spotify.com/track/1IeVyzWo9BlNk903OPe6Nz) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/0kLPZ34ExPll2O7XovvC8b) | 3:43 | 2025-07-15 |  |
 | [Summer Was You](https://open.spotify.com/track/3lM3PaTT8YhB4Tg7lqzLDg) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Summer Was You](https://open.spotify.com/album/5AupM0jo6m6ZTgbamHUi1o) | 3:49 | 2025-07-15 |  |
+| [Summer's Not Over](https://open.spotify.com/track/54oadQzakuAsGYSMQfQpYH) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer's Not Over](https://open.spotify.com/album/2r8odKOHeU9yD6nzKNkf7h) | 3:11 | 2026-05-11 |  |
 | [Supersonic](https://open.spotify.com/track/6MgrUUsEO2e17ESSp3iqf3) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1CAVxhbmoPHHpZEb5fDOsT) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/7kNbvAcTd6uiA4yWc5eOMr) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/6p4huDF8rJ4HVPQD3TF3iJ) | 3:38 | 2025-07-15 | 2025-08-20 |
 | [SWIM](https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga) | 3:56 | 2026-03-20 |  |

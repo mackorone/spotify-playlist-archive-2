@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,136 songs - 3 day 1 hr 24 min
+1,137 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Only If](https://open.spotify.com/track/7wNAM0qzErN5Dr9uV6B3fW) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 1:40 | 2023-11-08 |  |
 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 | 2025-03-29 |  |
 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 | 2024-02-24 | 2025-10-17 |
+| [Open the Fucking Fantasy](https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Soft New Magic Dream](https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe) | 4:00 | 2026-05-10 |  |
 | [Open Up](https://open.spotify.com/track/0NXJ0NZc4VbNWgCY3V7s2y) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Singin’ to an Empty Chair](https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y) | 5:05 | 2026-05-08 |  |
 | [Open Up](https://open.spotify.com/track/5zHvtyKQLeABXy9TEOFtaF) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 2:41 | 2025-08-05 |  |
 | [Opening Night](https://open.spotify.com/track/7kdgWMeO6IBEvDMbfLYShG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:19 | 2026-03-29 |  |
@@ -773,7 +774,7 @@
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
 | [Pt\. II](https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 0:20 | 2026-01-16 | 2026-01-18 |
 | [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 | 2026-02-19 | 2026-03-05 |
-| [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 | 2025-11-11 |  |
+| [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 | 2025-11-11 | 2026-05-11 |
 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2024-07-02 | 2025-08-14 |
 | [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 | 2026-01-20 |  |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2024-01-08 |  |
@@ -1021,7 +1022,7 @@
 | [Tilt](https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU) | 2:39 | 2026-04-19 |  |
 | [Tim's Intro](https://open.spotify.com/track/7qzQfE2se3Ai5reZcxs920) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:04 | 2023-12-31 |  |
 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 | 2025-12-13 | 2026-01-02 |
-| [Time Ain't Accidental](https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:27 | 2024-03-11 |  |
+| [Time Ain't Accidental](https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:27 | 2024-03-11 | 2026-05-11 |
 | [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 | 2023-04-30 | 2023-05-03 |
 | [Time Travelin' \(A Tribute To Fela\)](https://open.spotify.com/track/2AaB2ZDeJXu6j4Csos4gZH) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 6:37 | 2022-01-06 |  |
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |

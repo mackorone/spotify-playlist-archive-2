@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With photophor, SCHANZ, Lockjaw and more",
+  "description": "With photophor, Dystopian X Vision, SCHANZ and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 287038,
       "name": "Does the body stay",
       "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 350550,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/5gHTQtxMmciidB2JyuUvrS"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 253932,
       "name": "Farewell to Bad Old Days",
       "url": "https://open.spotify.com/track/3sYN2I2kCX2HHCgr9uNzB8"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 277200,
       "name": "Fight (Neo Tokio Chronicles Main Theme)",
       "url": "https://open.spotify.com/track/4LGDFArm0bZRDgNrQJRenX"
@@ -4149,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3r1Zm5UO0jxmsfQKZWGxMN"
+      },
+      "artists": [
+        {
+          "name": "Outstairs",
+          "url": "https://open.spotify.com/artist/17E2QeI73KsT88hlAOUPxs"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/6iSdRktqGGhSjjH8zS3phY"
+    },
+    {
+      "album": {
         "name": "Fortune's Always Hiding",
         "url": "https://open.spotify.com/album/5plmFsfRM7mNNRwMrerPnp"
       },
@@ -4603,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Kindly Plotting For Riot",
+        "url": "https://open.spotify.com/album/5pjfpCFcC4vCMldLVLysIe"
+      },
+      "artists": [
+        {
+          "name": "30 DENARI",
+          "url": "https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265987,
+      "name": "Judgment Day",
+      "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
+    },
+    {
+      "album": {
         "name": "Jugando a las Cartas",
         "url": "https://open.spotify.com/album/3quTBhxFkbF9YdjCTVwfR3"
       },
@@ -4730,7 +4766,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 205800,
       "name": "Keep It Reel (feat. Manca Trampu\u0161)",
       "url": "https://open.spotify.com/track/6TVQpjyrkD3IBB8EEL5UcP"
@@ -5088,7 +5124,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 194250,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/2DTvF19LmCRXLfCRISObOq"
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -5654,7 +5690,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 205995,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/6badLKUEBXzianEPXWXxSs"
@@ -5676,7 +5712,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -6120,7 +6156,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 276633,
       "name": "My Aurora (2023 Remastered)",
       "url": "https://open.spotify.com/track/3LB56oc6adNgHJbe79HU58"
@@ -6380,6 +6416,24 @@
       "duration_ms": 274839,
       "name": "Ni tystnade n\u00e4r jag reste mig",
       "url": "https://open.spotify.com/track/0WIozXNmpPZ42OsLauotcB"
+    },
+    {
+      "album": {
+        "name": "Nightmare On Lexington Street",
+        "url": "https://open.spotify.com/album/1Y7L7Lg7zSlPEDCsRqWaPZ"
+      },
+      "artists": [
+        {
+          "name": "The Dark",
+          "url": "https://open.spotify.com/artist/2x5SlkdvmEsLt8kidtmPlN"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197462,
+      "name": "Nightmare On Lexington Street",
+      "url": "https://open.spotify.com/track/3yC4et0t1UpGAHaDPFcbpz"
     },
     {
       "album": {
@@ -8062,7 +8116,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -8134,7 +8188,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -9158,7 +9212,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 239091,
       "name": "The Call",
       "url": "https://open.spotify.com/track/0Ien9pFAby07quhFlYOJ4P"
@@ -10846,7 +10900,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 218000,
       "name": "W moim domu",
       "url": "https://open.spotify.com/track/6qhiwl4ATbo4ZF9HYLU6X4"
@@ -11477,6 +11531,24 @@
     },
     {
       "album": {
+        "name": "Your Skin on Mine",
+        "url": "https://open.spotify.com/album/4nvCJ7xI0Wdp5sKh5Ormwt"
+      },
+      "artists": [
+        {
+          "name": "Secret Discovery",
+          "url": "https://open.spotify.com/artist/0owLCcq27b2NyPLVBwMxkU"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318179,
+      "name": "Your Skin on Mine",
+      "url": "https://open.spotify.com/track/7xXZJZh5GJy3m0TiJpQvrw"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/2xEOwC7rRY7ZElvDNrqGEj"
       },
@@ -11720,7 +11792,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 264578,
       "name": "\u043e \u043f\u043b\u043e\u0445\u043e\u043c",
       "url": "https://open.spotify.com/track/7arRjgmHGrJ65sYwzvbk96"

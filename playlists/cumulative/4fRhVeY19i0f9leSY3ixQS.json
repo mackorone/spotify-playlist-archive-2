@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 214750,
       "name": "906",
       "url": "https://open.spotify.com/track/2CJb9HY5pNkz3wW1aGMKVj"
@@ -9267,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "GOTHIC",
+        "url": "https://open.spotify.com/album/5eWJOg7A1OTIvwMsU9UYPL"
+      },
+      "artists": [
+        {
+          "name": "MOODE.ART",
+          "url": "https://open.spotify.com/artist/18OtkFSnmwUZFiPFBMnZIH"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Gothic",
+      "url": "https://open.spotify.com/track/3FoQM1ktHddoFtY2X1a0Cf"
+    },
+    {
+      "album": {
         "name": "Funeral For A Fish",
         "url": "https://open.spotify.com/album/2JvlFaUSNfF93YHU59xYq3"
       },
@@ -10406,7 +10424,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 276631,
       "name": "Hostility",
       "url": "https://open.spotify.com/track/6yqfAyRYcyA5vnK90TODRw"
@@ -17498,7 +17516,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 172399,
       "name": "Pressure Point",
       "url": "https://open.spotify.com/track/5stTHqRSib5JYUwu1d3fT3"
@@ -17924,6 +17942,24 @@
       "duration_ms": 135186,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/2yfitTwuoucAqR1HAhUpix"
+    },
+    {
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/6k6BrRl4pdpNKk94SRUUbA"
+      },
+      "artists": [
+        {
+          "name": "everything ending!",
+          "url": "https://open.spotify.com/artist/52avG1ZL5tD2hg7nFY35Kw"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166475,
+      "name": "ratrace",
+      "url": "https://open.spotify.com/track/2F3BGTkuAnPmtm1DPk3AAl"
     },
     {
       "album": {
@@ -21519,6 +21555,24 @@
     },
     {
       "album": {
+        "name": "Sunburn Sneakers",
+        "url": "https://open.spotify.com/album/32bHDeSj7Xt3o81BHanAU2"
+      },
+      "artists": [
+        {
+          "name": "The Nightfall",
+          "url": "https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196839,
+      "name": "Sunburn Sneakers",
+      "url": "https://open.spotify.com/track/16L6tbiwc9XlrdTWAYKaln"
+    },
+    {
+      "album": {
         "name": "Sundials",
         "url": "https://open.spotify.com/album/37DTbeHOFMo6RRw7tPhcDG"
       },
@@ -25002,7 +25056,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 158040,
       "name": "War On Truth",
       "url": "https://open.spotify.com/track/0L1hZ5zYQY0bSkQBShHXe1"

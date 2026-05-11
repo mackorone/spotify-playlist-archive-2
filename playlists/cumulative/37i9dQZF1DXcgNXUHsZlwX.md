@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-588 songs - 1 day 11 hr 3 min
+590 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [I Can't Say No](https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [At Least There Was Sun](https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf) | 3:11 | 2025-10-24 | 2025-12-11 |
 | [I took off my heels](https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I took off my heels](https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc) | 3:46 | 2026-02-06 | 2026-04-28 |
 | [I'll Stand in the Doorway](https://open.spotify.com/track/1KbdgWnTRxWHhxmuyRWLKN) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I'll Stand in the Doorway](https://open.spotify.com/album/3EXBttlObB3082z4k9w15d) | 4:00 | 2026-05-08 |  |
-| [Ici](https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Ici](https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9) | 2:48 | 2026-02-06 |  |
+| [Ici](https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Ici](https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9) | 2:48 | 2026-02-06 | 2026-05-11 |
 | [If Life Were a Movie](https://open.spotify.com/track/1NbVr5Rjhr1cFRGaYTNhGw) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [If Life Were a Movie](https://open.spotify.com/album/6HZMfM4tBRQz93HsRouDti) | 2:15 | 2022-07-08 | 2022-07-25 |
 | [Incandescente](https://open.spotify.com/track/1pnL2LoyZmKtxsWjsfRlHN) | [Lonny](https://open.spotify.com/artist/4tqlnth2QyipMf30eETFcL) | [Incandescente](https://open.spotify.com/album/5QEaxcY9qsIq1E4Rp8fc8F) | 2:17 | 2021-01-03\* | 2021-05-03 |
 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-07-08 | 2023-09-23 |
@@ -466,7 +466,7 @@
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
 | [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 |  |
-| [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 |  |
+| [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 | 2026-05-11 |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-02-25 |  |
 | [Salut Salut](https://open.spotify.com/track/5E6zp4z4SmkssW22mqEcNM) | [Steven & Steeven](https://open.spotify.com/artist/1MjDrK68psYWDT1m91Z42h) | [Salut Salut](https://open.spotify.com/album/0ZrImajJoZNIPlXfNYGC8Q) | 3:01 | 2021-01-15 | 2022-08-27 |
@@ -518,6 +518,7 @@
 | [The Good Part](https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [The Good Part](https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1) | 3:31 | 2025-10-17 |  |
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 | 2024-08-27 |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2021-10-09 | 2025-04-05 |
+| [The Scars We Share](https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z) | [Maldito](https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG) | [The Scars We Share](https://open.spotify.com/album/6tHnONORrBKToSOraiIFan) | 3:58 | 2026-05-08 |  |
 | [The Wandering](https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Wandering](https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW) | 3:20 | 2025-06-20 |  |
 | [They will draw halos around our heads](https://open.spotify.com/track/7F8SoTEmJwIo02xe6BCDfJ) | [Common Holly](https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk) | [They will draw halos around our heads](https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST) | 3:25 | 2026-02-27 | 2026-03-17 |
 | [Those Years When Everything Changed](https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI) | [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [Those Years When Everything Changed](https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM) | 3:10 | 2026-01-30 |  |
@@ -548,6 +549,7 @@
 | [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 | 2025-06-13 | 2026-01-31 |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 | 2024-04-19 |
 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 | 2021-10-02 | 2022-07-29 |
+| [Underwater '26](https://open.spotify.com/track/7oyoTyR7vFjooRPZPNfEYm) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Underwater '26](https://open.spotify.com/album/0RPgJzim1zPIGxPohVf80a) | 4:34 | 2026-05-08 |  |
 | [une minute](https://open.spotify.com/track/4SKr92Xfu1wUKoU9pC9FcP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 4:08 | 2021-01-03\* | 2022-01-29 |
 | [Une version améliorée de la tristesse](https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Une Version Améliorée De La Tristesse](https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr) | 3:55 | 2025-12-19 |  |
 | [Une âme à la fois](https://open.spotify.com/track/3aft5Yrqj4Q3TZ21JP3xEr) | [Day Vee](https://open.spotify.com/artist/5OXqiKea6J9zHux0wbW3Ra) | [Une âme à la fois](https://open.spotify.com/album/2a4yg2iP6GDMXcidEPZhlf) | 6:30 | 2023-10-20 | 2023-11-11 |

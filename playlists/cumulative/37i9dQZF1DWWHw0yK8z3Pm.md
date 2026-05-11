@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Sam Barber
 
-712 songs - 1 day 19 hr 8 min
+713 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-02-09 | 2024-04-19 |
 | [Cocaine Country Dancing](https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2) | 4:16 | 2024-04-12 | 2024-04-19 |
 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 | 2023-04-21 | 2024-07-12 |
+| [Cold April \(ft\. Kara Jackson, Denitia & Explore! Pop Choir\)](https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp), [Explore! Pop Choir](https://open.spotify.com/artist/3NJxKJgqbahvTuQhvMeD2v) | [Cold April \(ft\. Kara Jackson, Denitia & Explore! Pop Choir\)](https://open.spotify.com/album/7lfVMgxYRfFYOih7bPQcbp) | 3:09 | 2026-05-08 |  |
 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 | 2025-07-11 | 2026-01-24 |
 | [Come Home](https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Come Home](https://open.spotify.com/album/5cGQ4683Wr2nkJeaj1lSzW) | 3:32 | 2022-06-03 | 2023-01-21 |
 | [Communion \- Country version](https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Communion \(Country version\)](https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A) | 3:54 | 2022-07-01 | 2022-10-13 |
@@ -449,7 +450,7 @@
 | [My Darlin'](https://open.spotify.com/track/4X0FKaG7iuwTpCPyEs5HFp) | [CALICO](https://open.spotify.com/artist/3Up8jTurMilOn2IKFTm7o2) | [My Darlin'](https://open.spotify.com/album/2g8mVKzOZoDbsgbCTjCy7q) | 2:57 | 2022-05-13 | 2022-07-30 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-29 | 2025-10-18 |
 | [Name \(Talco Tapes Version\)](https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [The Talco Tapes](https://open.spotify.com/album/4EEXpOAW6fuB8zB8yPfVFj) | 4:20 | 2025-06-06 |  |
-| [Nancy](https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Nancy](https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j) | 2:50 | 2025-10-24 |  |
+| [Nancy](https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Nancy](https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j) | 2:50 | 2025-10-24 | 2026-05-11 |
 | [Nashville Now](https://open.spotify.com/track/3QTEG2yYoNpmTnCWtFGrcn) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Nashville Now](https://open.spotify.com/album/2t9zjuvUc6VjgJyjpCnWzu) | 4:35 | 2025-09-19 | 2025-09-27 |
 | [Nautical Disaster](https://open.spotify.com/track/6wazfCfvmYBOprq7Zq6kLL) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Nautical Disaster](https://open.spotify.com/album/3NLfuDDCC5hvsUEVgknel2) | 5:00 | 2022-05-13 | 2022-05-20 |
 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 | 2022-08-12 | 2023-12-09 |

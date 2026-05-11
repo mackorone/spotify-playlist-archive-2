@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-648 songs - 1 day 9 hr 20 min
+649 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 | 2022-06-27 | 2023-02-10 |
 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 | 2022-06-10 |  |
 | [Pink Noise fountain](https://open.spotify.com/track/2R2U2lPeujARSFRc4mVC6i) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise fountain](https://open.spotify.com/album/2zsk3xVhNRDW94vu6i3u4y) | 3:22 | 2022-08-02 | 2023-03-18 |
-| [Pink Noise Frequency Bliss](https://open.spotify.com/track/3akh1Sjb4UxtE6GVnpA76e) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 2:32 | 2023-03-16 |  |
+| [Pink Noise Frequency Bliss](https://open.spotify.com/track/3akh1Sjb4UxtE6GVnpA76e) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 2:32 | 2023-03-16 | 2026-05-11 |
 | [Pink Noise Glow](https://open.spotify.com/track/58nOMJCuSLeQtWAVTTNoSR) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Pink Noise Glow](https://open.spotify.com/album/5PAoaes5m0oruy2Yg94MHb) | 2:53 | 2026-03-31 |  |
 | [Pink Noise Gol Gumbaz](https://open.spotify.com/track/1MZ2KdAqW7pNY6RKLaQAnj) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Verb](https://open.spotify.com/album/6MWLIcFeKcIH2lDrHo7fP0) | 3:58 | 2021-12-01 | 2022-10-27 |
 | [Pink Noise Healing Energies](https://open.spotify.com/track/1zFjaAiPxL4HiVUdWBsKR7) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Pink Noise Healing Energies](https://open.spotify.com/album/1PzCp219ChBsQrBuinFRLV) | 3:14 | 2025-12-09 |  |
@@ -603,6 +603,7 @@
 | [Soft Pink Noise](https://open.spotify.com/track/5WH4ASzgpmA0qznc55aCdP) | [Mixed Noise Bank](https://open.spotify.com/artist/7zpw4vmlZNCUlwbdnFwxwO) | [Sleepy Noise](https://open.spotify.com/album/2VUTmEVHwd4MKKh72hFoum) | 2:56 | 2023-03-16 |  |
 | [Soft Pink Noise](https://open.spotify.com/track/0ZH1Wte8twkKaiFEyEakAr) | [Puffs Of Bliss](https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq) | [Pink Focus](https://open.spotify.com/album/0SxZCyWAICj56nAUpi1jN4) | 3:14 | 2022-06-27 | 2023-03-18 |
 | [Soft Rose](https://open.spotify.com/track/5s16FUbRazQzf19q4msm5V) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Pink Tranquillity](https://open.spotify.com/album/4yys1hOHsgvyqodxmOwrlm) | 4:14 | 2022-10-26 | 2023-03-18 |
+| [Soft Rose Signal](https://open.spotify.com/track/1MHtuUU0fXxw7IwMq0NmT3) | [Arven](https://open.spotify.com/artist/5hqFUHrihp00SRWVqz07tI) | [Soft Rose Signal](https://open.spotify.com/album/0EIeJMp0lukIvtPf34oDDy) | 2:37 | 2026-03-31 |  |
 | [Softening Frequencies Part 1](https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Softening Frequencies](https://open.spotify.com/album/3klP1gEXHQAoOoXxoMW3ov) | 2:30 | 2021-12-01 | 2022-12-16 |
 | [Softer Pink Noise](https://open.spotify.com/track/0LIct0I3RXKUxbMr9gF0AX) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 2:48 | 2023-03-16 |  |
 | [Somnus](https://open.spotify.com/track/7y9qhoYBNPCgspP9MSpyPH) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep Brown Noise](https://open.spotify.com/album/5rL3m6jUPS695IqPRRsUBz) | 2:15 | 2021-12-01 | 2022-08-03 |

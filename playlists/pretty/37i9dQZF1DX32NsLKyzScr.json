@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2598691,
+  "num_followers": 2598624,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Black Out Days (Stay Away)",
-        "url": "https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 172661,
-      "name": "Black Out Days (Stay Away)",
-      "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "Black Out Days (Stay Away)",
+        "url": "https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 172661,
+      "name": "Black Out Days (Stay Away)",
+      "url": "https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "car crash",
         "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 206363,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
         "name": "NEWORLD II",
         "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
@@ -1279,6 +1303,26 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
+        "name": "Ghost Dance",
+        "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
+      },
+      "artists": [
+        {
+          "name": "Brunello",
+          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        },
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1311,22 +1355,22 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Ghost Dance",
-        "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
       },
       "artists": [
         {
-          "name": "Brunello",
-          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         },
         {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
         }
       ],
-      "duration_ms": 372480,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1415,26 +1459,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Hekataia EP",
         "url": "https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW"
       },
@@ -1451,6 +1475,26 @@
       "duration_ms": 292693,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1487,26 +1531,6 @@
       "duration_ms": 231521,
       "name": "Coming In Heavy",
       "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
-        "name": "The Dreams Strange and Eternal",
-        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
-        }
-      ],
-      "duration_ms": 233794,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1551,6 +1575,22 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
         "name": "Ultra Love",
         "url": "https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol"
       },
@@ -1575,30 +1615,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Meet Again",
-        "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 206363,
-      "name": "Meet Again",
-      "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Out Of My Body (feat. EJAE)",
         "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
       },
@@ -1615,6 +1631,26 @@
       "duration_ms": 159666,
       "name": "Out Of My Body (feat. EJAE)",
       "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "Wait So Long (Why Do I Have To) [Agents Of Time Remix]",
+        "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Wait So Long (Why Do I Have To) - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1639,42 +1675,6 @@
       "duration_ms": 170124,
       "name": "Release The Pressure - Reb\u016bke Remix",
       "url": "https://open.spotify.com/track/5yXplTZMVRQiMpjBzV7GT8"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
-        "name": "Wait So Long (Why Do I Have To) [Agents Of Time Remix]",
-        "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Wait So Long (Why Do I Have To) - Agents Of Time Remix",
-      "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1791,6 +1791,30 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
+        "name": "All My Life (feat. John Martin)",
+        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "All My Life (feat. John Martin)",
+      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
         "name": "Turbo Speed",
         "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
       },
@@ -1827,26 +1851,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 172900,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Like A Prayer",
         "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
@@ -1867,6 +1871,26 @@
       "duration_ms": 229337,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 172900,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -1999,30 +2023,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "All My Life (feat. John Martin)",
-        "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "All My Life (feat. John Martin)",
-      "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Sun Goes Down (feat. Camden Cox)",
         "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
       },
@@ -2119,38 +2103,18 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "World & Back (feat. Riko Dan)",
-        "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
       },
       "artists": [
         {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         }
       ],
-      "duration_ms": 179956,
-      "name": "World & Back (feat. Riko Dan)",
-      "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
-        "name": "SYNCHRONICITY",
-        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 257641,
-      "name": "million angels",
-      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
+      "duration_ms": 206585,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -2175,6 +2139,26 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
+        "name": "World & Back (feat. Riko Dan)",
+        "url": "https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 179956,
+      "name": "World & Back (feat. Riko Dan)",
+      "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
         "name": "Yogen",
         "url": "https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 158769,
       "name": "Yogen",
       "url": "https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "SYNCHRONICITY",
+        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "duration_ms": 257641,
+      "name": "million angels",
+      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
     },
     {
       "added_at": "2026-05-08 04:03:26",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2026-05-08 04:03:26",
       "album": {
-        "name": "Midnight Angel",
-        "url": "https://open.spotify.com/album/3gAFsoayMCkm91mhymgtEx"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 232282,
-      "name": "Midnight Angel",
-      "url": "https://open.spotify.com/track/5EqWocub9JmJKD9DVf32g0"
-    },
-    {
-      "added_at": "2026-05-08 04:03:26",
-      "album": {
         "name": "Activate (feat. Nevve)",
         "url": "https://open.spotify.com/album/6cDptxdkyy1agz2vOXuyiZ"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 195118,
       "name": "Activate (feat. Nevve)",
       "url": "https://open.spotify.com/track/7CBJoTWCIbf04C7tFyZtmF"
+    },
+    {
+      "added_at": "2026-05-08 04:03:26",
+      "album": {
+        "name": "Midnight Angel",
+        "url": "https://open.spotify.com/album/3gAFsoayMCkm91mhymgtEx"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 232282,
+      "name": "Midnight Angel",
+      "url": "https://open.spotify.com/track/5EqWocub9JmJKD9DVf32g0"
     },
     {
       "added_at": "2026-05-08 04:03:26",

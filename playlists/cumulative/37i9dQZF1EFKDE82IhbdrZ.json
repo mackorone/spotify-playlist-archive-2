@@ -4650,6 +4650,24 @@
     {
       "album": {
         "name": "old shit",
+        "url": "https://open.spotify.com/album/5oWHTt8yF3GuZyQbE2mbTp"
+      },
+      "artists": [
+        {
+          "name": "Lil GG",
+          "url": "https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181806,
+      "name": "Pleasure & Pain",
+      "url": "https://open.spotify.com/track/3m5f57WJXJV4JM9vX9chV5"
+    },
+    {
+      "album": {
+        "name": "old shit",
         "url": "https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO"
       },
       "artists": [
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 181806,
       "name": "Pleasure & Pain",
       "url": "https://open.spotify.com/track/4Dj7XEvak7XhSNGR6S0xSC"
@@ -5460,6 +5478,24 @@
     {
       "album": {
         "name": "old shit",
+        "url": "https://open.spotify.com/album/5oWHTt8yF3GuZyQbE2mbTp"
+      },
+      "artists": [
+        {
+          "name": "Lil GG",
+          "url": "https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "Somewhere We Can Be Alone",
+      "url": "https://open.spotify.com/track/0x5e6PQEBn9LCRnwXNHO24"
+    },
+    {
+      "album": {
+        "name": "old shit",
         "url": "https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO"
       },
       "artists": [
@@ -5470,7 +5506,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 182073,
       "name": "Somewhere We Can Be Alone",
       "url": "https://open.spotify.com/track/4JD8cPfPPjkyc8wAeHur1h"

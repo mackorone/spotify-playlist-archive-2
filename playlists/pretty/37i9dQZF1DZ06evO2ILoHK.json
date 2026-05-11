@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12758,
+  "num_followers": 12765,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAD29Y6lyZA6nfNc69tdOXTA",
+  "snapshot_id": "af55AAAAAABYtmceX5oDL6vxP4GyYbaU",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 206911,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7BIBkAvDaaSvM3dnmy6g3u"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 171450,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WIRED / Broken By Design",
-        "url": "https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 153530,
-      "name": "WIRED",
-      "url": "https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK"
     },
     {
       "added_at": null,
@@ -123,38 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WIRED",
-        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 206911,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/1yHHdccml15ElmkDsXOYLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Oversized",
-      "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WIRED / Broken By Design",
         "url": "https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc"
       },
@@ -164,25 +132,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 192014,
-      "name": "Broken By Design",
-      "url": "https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colourmeinkindness",
-        "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 145478,
-      "name": "Pine",
-      "url": "https://open.spotify.com/track/4gOruiqFXrOAYwmECxZfw6"
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK"
     },
     {
       "added_at": null,
@@ -212,25 +164,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 194933,
-      "name": "For You The Moon",
-      "url": "https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Crickets Throw Their Voice",
-      "url": "https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7"
+      "duration_ms": 157586,
+      "name": "Oversized",
+      "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
     },
     {
       "added_at": null,
@@ -244,9 +180,25 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 164757,
-      "name": "Spoiled",
-      "url": "https://open.spotify.com/track/22vIMDxg8BCHsnk474SCH8"
+      "duration_ms": 145478,
+      "name": "Pine",
+      "url": "https://open.spotify.com/track/4gOruiqFXrOAYwmECxZfw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WIRED / Broken By Design",
+        "url": "https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 192014,
+      "name": "Broken By Design",
+      "url": "https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt"
     },
     {
       "added_at": null,
@@ -276,25 +228,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Aquasun",
-      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM"
+      "duration_ms": 194933,
+      "name": "For You The Moon",
+      "url": "https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX"
     },
     {
       "added_at": null,
@@ -308,9 +244,25 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 177172,
-      "name": "Bad Apple",
-      "url": "https://open.spotify.com/track/0k17MALHbaR6i6879Wasql"
+      "duration_ms": 164757,
+      "name": "Spoiled",
+      "url": "https://open.spotify.com/track/22vIMDxg8BCHsnk474SCH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Crickets Throw Their Voice",
+      "url": "https://open.spotify.com/track/5KiP81agN1O40PXRyikoF7"
     },
     {
       "added_at": null,
@@ -340,25 +292,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Promise Everything",
-      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Further Sky",
-        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 211943,
-      "name": "Summer's Colour",
-      "url": "https://open.spotify.com/track/2hcvWC5XQHYhjH0oGEbsxr"
+      "duration_ms": 222040,
+      "name": "Aquasun",
+      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
     },
     {
       "added_at": null,
@@ -372,9 +308,25 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 139130,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3hMDOqyTB73cXHaTnu9WhL"
+      "duration_ms": 177172,
+      "name": "Bad Apple",
+      "url": "https://open.spotify.com/track/0k17MALHbaR6i6879Wasql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM"
     },
     {
       "added_at": null,
@@ -404,15 +356,15 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 179733,
-      "name": "Brother's Keeper",
-      "url": "https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb"
+      "duration_ms": 157080,
+      "name": "Promise Everything",
+      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+        "name": "Colourmeinkindness",
+        "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
       },
       "artists": [
         {
@@ -420,15 +372,15 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
+      "duration_ms": 139130,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3hMDOqyTB73cXHaTnu9WhL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+        "name": "Further Sky",
+        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
       },
       "artists": [
         {
@@ -436,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Earl Grey",
-      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
+      "duration_ms": 211943,
+      "name": "Summer's Colour",
+      "url": "https://open.spotify.com/track/2hcvWC5XQHYhjH0oGEbsxr"
     },
     {
       "added_at": null,
@@ -468,25 +420,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Stigmata",
-      "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
+      "duration_ms": 179733,
+      "name": "Brother's Keeper",
+      "url": "https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb"
     },
     {
       "added_at": null,
@@ -500,9 +436,25 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 136586,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/65YBMd52GBPoICHwox2TsG"
+      "duration_ms": 154560,
+      "name": "Earl Grey",
+      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
     },
     {
       "added_at": null,
@@ -523,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Further Sky",
-        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
       "artists": [
         {
@@ -532,25 +484,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 236100,
-      "name": "Animal Nitrate",
-      "url": "https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33"
+      "duration_ms": 178973,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF"
     },
     {
       "added_at": null,
@@ -564,25 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 139356,
-      "name": "Plan To Be Surprised",
-      "url": "https://open.spotify.com/track/7n7LXkir2vxKrl7SSW4htc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs About The Weather",
-        "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 130972,
-      "name": "Meet Me In St. Louis",
-      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
+      "duration_ms": 136586,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/65YBMd52GBPoICHwox2TsG"
     },
     {
       "added_at": null,
@@ -596,25 +516,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 236240,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 248112,
-      "name": "Canada Square",
-      "url": "https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW"
+      "duration_ms": 215373,
+      "name": "Stigmata",
+      "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
     },
     {
       "added_at": null,
@@ -635,6 +539,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Further Sky",
+        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 236100,
+      "name": "Animal Nitrate",
+      "url": "https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 139356,
+      "name": "Plan To Be Surprised",
+      "url": "https://open.spotify.com/track/7n7LXkir2vxKrl7SSW4htc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beside Myself",
         "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
@@ -644,9 +580,73 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa"
+      "duration_ms": 209213,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/3SoSPKPaJGPRur4yYEFE33"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs About The Weather",
+        "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 130972,
+      "name": "Meet Me In St. Louis",
+      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 248112,
+      "name": "Canada Square",
+      "url": "https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs About The Weather",
+        "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs About The Weather",
-        "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 247253,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/5c8JiWMPVKCpNyLyFJZvpa"
     },
     {
       "added_at": null,

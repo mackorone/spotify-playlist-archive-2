@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7127,
+  "num_followers": 7129,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADxM9Hjf6HfFXblFPKaVSCp",
+  "snapshot_id": "af55AAAAAAD765qTjReNH0GwBX2iNqOb",
   "tracks": [
     {
       "added_at": null,
@@ -236,13 +236,13 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 235221,
-      "name": "AYO!",
-      "url": "https://open.spotify.com/track/2e6ihjsjRQuXRE9lkQeagx"
+      "duration_ms": 247251,
+      "name": "soft.",
+      "url": "https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF"
     },
     {
       "added_at": null,
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 247251,
-      "name": "soft.",
-      "url": "https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF"
+      "duration_ms": 235221,
+      "name": "AYO!",
+      "url": "https://open.spotify.com/track/2e6ihjsjRQuXRE9lkQeagx"
     },
     {
       "added_at": null,
@@ -350,11 +350,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
         }
       ],
-      "duration_ms": 270686,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
+      "duration_ms": 279999,
+      "name": "Flounce",
+      "url": "https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT"
     },
     {
       "added_at": null,
@@ -418,15 +422,11 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "GAWD",
-          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
         }
       ],
-      "duration_ms": 279999,
-      "name": "Flounce",
-      "url": "https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT"
+      "duration_ms": 270686,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
     },
     {
       "added_at": null,
@@ -458,11 +458,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 192274,
-      "name": "sleep",
-      "url": "https://open.spotify.com/track/1GEvQvw4CY8qski1ziNFCK"
+      "duration_ms": 284562,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv"
     },
     {
       "added_at": null,
@@ -623,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 239815,
-      "name": "H.I. (feat. Devin Tracy)",
-      "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
       },
@@ -659,6 +643,26 @@
       "duration_ms": 161929,
       "name": "Get Paid (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 239815,
+      "name": "H.I. (feat. Devin Tracy)",
+      "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
     },
     {
       "added_at": null,
@@ -707,6 +711,26 @@
       "duration_ms": 222000,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Metta",
+          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Lil Bit (feat. METTA)",
+      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

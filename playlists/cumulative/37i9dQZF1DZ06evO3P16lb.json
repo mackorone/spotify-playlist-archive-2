@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Aunque Me Duela",
+        "url": "https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140687,
+      "name": "La Villana",
+      "url": "https://open.spotify.com/track/6E7mhIw6S9a3qgc8KJiBOT"
+    },
+    {
+      "album": {
         "name": "Las Flores del Camposanto",
         "url": "https://open.spotify.com/album/0o6I5jgXrSUaDgwBaenrxt"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 191000,
       "name": "Las Mexicanas",
       "url": "https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ"

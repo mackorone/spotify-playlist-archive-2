@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 La Reunión Norteña en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,041 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,042 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 79 | [Sedúceme](https://open.spotify.com/track/3JPPq8FtQsQojTi1gCcgeY) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Sedúceme](https://open.spotify.com/album/5MsmolKgYmtyC6ZhwOFFEZ) | 3:41 |
 | 80 | [NADIE](https://open.spotify.com/track/3PvmAmHCoCQvTZNtFsBemj) | [La Potencia De La Musica Norteña](https://open.spotify.com/artist/2xotal8p4VxpscwCOgy354), [Conjunto Diamantes De Ags](https://open.spotify.com/artist/1sTArJai0O5r3TbvezUija) | [NADIE](https://open.spotify.com/album/2DT9zJWkzL7mRPxET8CkKv) | 2:44 |
 
-Snapshot ID: `AAAAACXdxmu/vM94FxP8y3owwK0GPgwc`
+Snapshot ID: `AAAAAFH/7V6URArZxWcH4Tpj1WviuCtp`

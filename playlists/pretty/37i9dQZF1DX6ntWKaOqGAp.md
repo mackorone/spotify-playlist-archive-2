@@ -4,44 +4,44 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 大森元貴
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,606 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,623 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Darling](https://open.spotify.com/track/0OYIZ9byJTRdXX29oORImL) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [Darling](https://open.spotify.com/album/6MSH3s0XnjREUQKdXWH220) | 3:53 |
-| 2 | [私の歌](https://open.spotify.com/track/3QUCS59HrDVuLdGdkA69Ip) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [私の歌](https://open.spotify.com/album/5n7OkT26L5CtYMZKDmpXdW) | 3:28 |
-| 3 | [催し](https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [催し](https://open.spotify.com/album/0IBbhw8p807tbWtSNHWopH) | 3:04 |
-| 4 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 |
-| 5 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
-| 6 | [One Two Three](https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [One Two Three](https://open.spotify.com/album/5pE3JSHuaNRIYCwS1kmWJY) | 3:35 |
-| 7 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
-| 8 | [綺羅](https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [綺羅](https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J) | 3:08 |
-| 9 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 |
-| 10 | [CALL](https://open.spotify.com/track/6huoEUAUkpK70VEbDizmKP) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CALL](https://open.spotify.com/album/3hJc9OChRC9Mo20CoP887v) | 2:36 |
-| 11 | [Hallelujah](https://open.spotify.com/track/3aCu4VabG9Bynysh1jx3EK) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Hallelujah](https://open.spotify.com/album/4LwP7u8UtMIJalMgZtu5EP) | 3:37 |
-| 12 | [Elderflower](https://open.spotify.com/track/1UyeRGe8mtGmTNngJe5xh7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Elderflower](https://open.spotify.com/album/6Bnr1I9oVYXaEChRdKbrYE) | 4:45 |
-| 13 | [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 |
-| 14 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |
-| 15 | [イデアが溢れて眠れない](https://open.spotify.com/track/4nsrIXDihSYr8eb56j015A) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [イデアが溢れて眠れない](https://open.spotify.com/album/1dBWNF06b7lnCF1M2SLTTZ) | 4:22 |
-| 16 | [Natsuiro Nikki](https://open.spotify.com/track/0vbsv3gfKBYdvLOckDCyFY) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Natsuiro Nikki](https://open.spotify.com/album/03hyM7EZuiYZ2I717h0XhP) | 3:31 |
-| 17 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
-| 18 | [飛ぼうよ](https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:19 |
-| 19 | [I DON'T WANNA DIE!](https://open.spotify.com/track/6wfgtLGaf3CRNHUrl27OdF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [I DON'T WANNA DIE!](https://open.spotify.com/album/48811XY5WEWKtkPZZK6JEk) | 3:15 |
-| 20 | [ヒーロー](https://open.spotify.com/track/1OjuHWcYwr2j5IMM83mhHE) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [aRange](https://open.spotify.com/album/377hbBhboksYjNjaTsoENP) | 3:46 |
-| 21 | [IRANAI](https://open.spotify.com/track/4b4rwXmVgXV8AnVZRJPt32) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [IRANAI](https://open.spotify.com/album/4otCkdwgMXSfM77HEoHTpU) | 3:46 |
-| 22 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 |
-| 23 | [OTAGAISAMA](https://open.spotify.com/track/79q0msEh7B5nn8wOtbWjEW) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [OTAGAISAMA](https://open.spotify.com/album/0LQPUOmo9ApWdoQjJ73XDt) | 3:57 |
-| 24 | [記念日](https://open.spotify.com/track/0USzeReb7tZFts5JKO3qHO) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [記念日](https://open.spotify.com/album/69BaKT9ooTA0ulpcywr9eW) | 4:13 |
-| 25 | [Tokyo God Street Boys](https://open.spotify.com/track/3kOq5gclHD2iue7sZtzbg9) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/1U452pfURCdxtWKA63hxtk) | 3:50 |
-| 26 | [壊れて消えるまで](https://open.spotify.com/track/2Zz6FNkpg9w1GXSi6y3oYB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [壊れて消えるまで](https://open.spotify.com/album/63ChJv0TC3OLHVZVe6Qjeh) | 4:09 |
-| 27 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
-| 28 | [bye<3](https://open.spotify.com/track/6LrOegJFrpML859y73HkpS) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [bye<3](https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd) | 3:35 |
-| 29 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
-| 30 | [Scarlet Moon](https://open.spotify.com/track/2RlGhCpbKyLXHOr59EsHcL) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [BAND\-AID](https://open.spotify.com/album/0b8cX06kpY6JI1LxBCfQR1) | 4:55 |
-| 31 | [SOUTH WEST BEACH!!](https://open.spotify.com/track/7qR3CB89NDrndthiJ9wrS7) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [etc.works4](https://open.spotify.com/album/3sCLDrNXW9wehKC2NNdaMl) | 3:33 |
-| 32 | [もういらない](https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [もういらない](https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa) | 3:05 |
-| 33 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
-| 34 | [儚夏](https://open.spotify.com/track/4vKPzyWGB4CR8pfBfvxTUu) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [COMPASS](https://open.spotify.com/album/3W5YJ52rQ6HyJ8aPRCut56) | 4:11 |
+| 1 | [私の歌](https://open.spotify.com/track/3QUCS59HrDVuLdGdkA69Ip) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [私の歌](https://open.spotify.com/album/5n7OkT26L5CtYMZKDmpXdW) | 3:28 |
+| 2 | [催し](https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [催し](https://open.spotify.com/album/0IBbhw8p807tbWtSNHWopH) | 3:04 |
+| 3 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 |
+| 4 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
+| 5 | [One Two Three](https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [One Two Three](https://open.spotify.com/album/5pE3JSHuaNRIYCwS1kmWJY) | 3:35 |
+| 6 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
+| 7 | [綺羅](https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [綺羅](https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J) | 3:08 |
+| 8 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 |
+| 9 | [CALL](https://open.spotify.com/track/6huoEUAUkpK70VEbDizmKP) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CALL](https://open.spotify.com/album/3hJc9OChRC9Mo20CoP887v) | 2:36 |
+| 10 | [Hallelujah](https://open.spotify.com/track/3aCu4VabG9Bynysh1jx3EK) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Hallelujah](https://open.spotify.com/album/4LwP7u8UtMIJalMgZtu5EP) | 3:37 |
+| 11 | [Elderflower](https://open.spotify.com/track/1UyeRGe8mtGmTNngJe5xh7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Elderflower](https://open.spotify.com/album/6Bnr1I9oVYXaEChRdKbrYE) | 4:45 |
+| 12 | [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 |
+| 13 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |
+| 14 | [イデアが溢れて眠れない](https://open.spotify.com/track/4nsrIXDihSYr8eb56j015A) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [イデアが溢れて眠れない](https://open.spotify.com/album/1dBWNF06b7lnCF1M2SLTTZ) | 4:22 |
+| 15 | [Natsuiro Nikki](https://open.spotify.com/track/0vbsv3gfKBYdvLOckDCyFY) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Natsuiro Nikki](https://open.spotify.com/album/03hyM7EZuiYZ2I717h0XhP) | 3:31 |
+| 16 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
+| 17 | [飛ぼうよ](https://open.spotify.com/track/4Ael7H7pDC9VIHeA0CxU4U) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:19 |
+| 18 | [I DON'T WANNA DIE!](https://open.spotify.com/track/6wfgtLGaf3CRNHUrl27OdF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [I DON'T WANNA DIE!](https://open.spotify.com/album/48811XY5WEWKtkPZZK6JEk) | 3:15 |
+| 19 | [ヒーロー](https://open.spotify.com/track/1OjuHWcYwr2j5IMM83mhHE) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [aRange](https://open.spotify.com/album/377hbBhboksYjNjaTsoENP) | 3:46 |
+| 20 | [IRANAI](https://open.spotify.com/track/4b4rwXmVgXV8AnVZRJPt32) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [IRANAI](https://open.spotify.com/album/4otCkdwgMXSfM77HEoHTpU) | 3:46 |
+| 21 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 |
+| 22 | [OTAGAISAMA](https://open.spotify.com/track/79q0msEh7B5nn8wOtbWjEW) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [OTAGAISAMA](https://open.spotify.com/album/0LQPUOmo9ApWdoQjJ73XDt) | 3:57 |
+| 23 | [記念日](https://open.spotify.com/track/0USzeReb7tZFts5JKO3qHO) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [記念日](https://open.spotify.com/album/69BaKT9ooTA0ulpcywr9eW) | 4:13 |
+| 24 | [Tokyo God Street Boys](https://open.spotify.com/track/3kOq5gclHD2iue7sZtzbg9) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/1U452pfURCdxtWKA63hxtk) | 3:50 |
+| 25 | [壊れて消えるまで](https://open.spotify.com/track/2Zz6FNkpg9w1GXSi6y3oYB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [壊れて消えるまで](https://open.spotify.com/album/63ChJv0TC3OLHVZVe6Qjeh) | 4:09 |
+| 26 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
+| 27 | [bye<3](https://open.spotify.com/track/6LrOegJFrpML859y73HkpS) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [bye<3](https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd) | 3:35 |
+| 28 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
+| 29 | [Scarlet Moon](https://open.spotify.com/track/2RlGhCpbKyLXHOr59EsHcL) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [BAND\-AID](https://open.spotify.com/album/0b8cX06kpY6JI1LxBCfQR1) | 4:55 |
+| 30 | [SOUTH WEST BEACH!!](https://open.spotify.com/track/7qR3CB89NDrndthiJ9wrS7) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [etc.works4](https://open.spotify.com/album/3sCLDrNXW9wehKC2NNdaMl) | 3:33 |
+| 31 | [もういらない](https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [もういらない](https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa) | 3:05 |
+| 32 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 33 | [儚夏](https://open.spotify.com/track/4vKPzyWGB4CR8pfBfvxTUu) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [COMPASS](https://open.spotify.com/album/3W5YJ52rQ6HyJ8aPRCut56) | 4:11 |
+| 34 | [Darling](https://open.spotify.com/track/0OYIZ9byJTRdXX29oORImL) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [Darling](https://open.spotify.com/album/6MSH3s0XnjREUQKdXWH220) | 3:53 |
 | 35 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 |
 | 36 | [Again](https://open.spotify.com/track/242tGHok7sRTVjCaTS0FoH) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [Again](https://open.spotify.com/album/2eVWTwfon3c4YKWufrOLeX) | 4:54 |
 | 37 | [燦然 \- Sanzen](https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [燦然 / 生きがい](https://open.spotify.com/album/5PTVBumincWhvUzUJiTwRY) | 5:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [透明](https://open.spotify.com/track/1TtxbYpooh11pBvQXRy2A7) | [Sokoninaru](https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF) | [透明](https://open.spotify.com/album/4OgQzbKuYCskM7f8CYLLMd) | 2:50 |
 | 100 | [TORYANSE](https://open.spotify.com/track/6j8wkhXAvbdfiVGglqHMQQ) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1), [須藤寿](https://open.spotify.com/artist/4yLohhRvV9WAxPAuIafhyx) | [TORYANSE](https://open.spotify.com/album/4by9Ztn9u4W3PjjIFUfwNQ) | 3:56 |
 
-Snapshot ID: `AAAAAKBh1eSFy1/l7NRiL2TNqrfvjrlv`
+Snapshot ID: `AAAAAAVBrr9bswiDlu6ijX6reL8K9xKy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 149 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 46 | [Ponte Pa' Mí](https://open.spotify.com/track/4pro0Fful9k84YoIdfY6Ha) | [Benavides](https://open.spotify.com/artist/7dZHvdnkTQTXQIFQAQTd05), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ponte Pa' Mí](https://open.spotify.com/album/7xQVG75jFT8Ux9SEqTCf4z) | 3:50 |
 | 47 | [Bésame](https://open.spotify.com/track/1Hx3JQFvHI4xVviTQRTkCG) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Unicas](https://open.spotify.com/album/3nzHABbA7QQDfUHehHGn0s) | 3:44 |
 | 48 | [Conmigo](https://open.spotify.com/track/3iDYBd33V7Gkm0aaIaJMKm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:20 |
-| 49 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
-| 50 | [Enseñame a Vivir Sin Ti](https://open.spotify.com/track/3vtHqsYoRV60SpYvbqyJTO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 5:11 |
+| 49 | [Enseñame a Vivir Sin Ti](https://open.spotify.com/track/3vtHqsYoRV60SpYvbqyJTO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 5:11 |
+| 50 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
 | 51 | [A Tiempo](https://open.spotify.com/track/1sq9qmnFtqHredKwbGnp2W) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [A Tiempo](https://open.spotify.com/album/6wni7QWK8sOUguXBe37mAz) | 3:10 |
 | 52 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
 | 53 | [Darnos Un Dia](https://open.spotify.com/track/7532bbUg9FJRPSmGvblQH1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:06 |
@@ -156,6 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 146 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 147 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 148 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
-| 149 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
+| 149 | [Por Mil Razones](https://open.spotify.com/track/0xOFVf7Jt1hVyQ7ppXk3v8) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:49 |
+| 150 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcREPAAAAAC3Xu+T2s7QehvbZud3UT1Q`
+Snapshot ID: `AcRJ3AAAAABlri9QxhmmahTXoWWBCGj8`

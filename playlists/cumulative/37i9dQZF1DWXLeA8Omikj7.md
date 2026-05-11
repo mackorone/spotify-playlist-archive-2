@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,182 songs - 3 day 14 hr 57 min
+1,183 songs - 3 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Dundas, Ontario](https://open.spotify.com/track/2xjxVDCkGBBEYWUjSZIl9S) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Start Breaking My Heart \(Special Edition\)](https://open.spotify.com/album/447aAsTmmXFZ0tyoB7sK3z) | 4:24 | 2023-03-24 | 2023-12-30 |
 | [Dunes](https://open.spotify.com/track/7u6uE9g62XZPY5QVqjchBG) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Dunes](https://open.spotify.com/album/2fMnNvoza67FCacSuC840X) | 2:26 | 2021-04-09 | 2022-07-14 |
 | [Dusk](https://open.spotify.com/track/4EJ7A3F6xyI6UBUYjRtSEa) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Dusk](https://open.spotify.com/album/5jth5CvZIsIGlHGWOSBqif) | 3:50 | 2020-04-23 | 2020-10-22 |
-| [Dusk](https://open.spotify.com/track/4C3h7xp39TFx3MOfR7z7bk) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Dusk](https://open.spotify.com/album/3jd636c5KBFYlhaqeUdpJ0) | 6:43 | 2025-02-14 |  |
+| [Dusk](https://open.spotify.com/track/4C3h7xp39TFx3MOfR7z7bk) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Dusk](https://open.spotify.com/album/3jd636c5KBFYlhaqeUdpJ0) | 6:43 | 2025-02-14 | 2026-05-11 |
 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 | 2022-09-09 | 2024-04-19 |
 | [Dust](https://open.spotify.com/track/79srzZz9HB7l9MJjWlHPvD) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Dust](https://open.spotify.com/album/6RurZxObPerofRLmbWeb1o) | 3:32 | 2020-11-23 | 2022-07-29 |
 | [Eagle 12'](https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Eagle 12'](https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i) | 2:20 | 2025-02-12 | 2025-05-17 |
@@ -716,6 +716,7 @@
 | [October](https://open.spotify.com/track/20yRqzq5FEzgirJAUT4TIr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [October](https://open.spotify.com/album/0ALujZZFOWQaHKKTN5s6m0) | 5:35 | 2021-08-20 | 2022-07-14 |
 | [Odyssée](https://open.spotify.com/track/3J9N8f8pBJxAoFwACKJPHN) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Ceremony](https://open.spotify.com/album/6TL4avCkN5YCaTwsosOP2v) | 4:40 | 2019-06-20 | 2020-10-19 |
 | [Offscreen](https://open.spotify.com/track/3sGNs97yV0MOz5KrHtlJ6t) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Offscreen](https://open.spotify.com/album/42IL2uIgYRpVZzkcjmwyZI) | 5:34 | 2026-01-16 | 2026-02-14 |
+| [OI MARÌ \- DJ Python remix](https://open.spotify.com/track/3cwm8XzrZJSNdr2B8rcjjK) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [RADIO LIBERATO](https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6) | 3:38 | 2026-05-08 |  |
 | [Ojai](https://open.spotify.com/track/25OzqeRhXTJahO5uiOfYtw) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Ojai](https://open.spotify.com/album/4hDuXbI7PTaDuJgIwszRyp) | 3:29 | 2024-12-04 |  |
 | [Olo](https://open.spotify.com/track/2P8CicrYJacONOh0F9awzs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Olo](https://open.spotify.com/album/27sPbhj334yQduAIlmLwy7) | 4:37 | 2024-08-02 | 2024-09-23 |
 | [On Deck](https://open.spotify.com/track/7hNWjvl7amThfh2uiZjoOa) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:35 | 2021-04-27 | 2022-04-19 |

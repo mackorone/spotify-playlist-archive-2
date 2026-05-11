@@ -1,12 +1,12 @@
 {
   "description": "Cover: Stormy",
-  "num_followers": 380887,
+  "num_followers": 381020,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+V8b8oRUNHJCnJnw2wg8JgVY8L",
+  "snapshot_id": "AAAAADD/P1zy8dnLDAQrbaBXN6AX08pM",
   "tracks": [
     {
       "added_at": "2026-05-07 23:00:15",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-05-07 23:00:15",
       "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf"
-      },
-      "artists": [
-        {
-          "name": "Veintiuno",
-          "url": "https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF"
-        },
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7"
-        }
-      ],
-      "duration_ms": 129230,
-      "name": "wonder why",
-      "url": "https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c"
-    },
-    {
-      "added_at": "2026-05-07 23:00:15",
-      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 134400,
       "name": "Lyke Dat",
       "url": "https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp"
+    },
+    {
+      "added_at": "2026-05-07 23:00:15",
+      "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf"
+      },
+      "artists": [
+        {
+          "name": "Veintiuno",
+          "url": "https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF"
+        },
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "wonder why",
+      "url": "https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c"
     },
     {
       "added_at": "2026-05-07 23:00:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Judikay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,280 likes - 100 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,401 likes - 100 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

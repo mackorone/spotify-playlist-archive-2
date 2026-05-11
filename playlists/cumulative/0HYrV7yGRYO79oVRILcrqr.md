@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-487 songs - 1 day 6 hr 19 min
+489 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,10 +483,12 @@
 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 | 2026-03-25 | 2026-04-21 |
 | [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 | 2025-11-23 | 2025-12-17 |
 | [You Don't Believe Me](https://open.spotify.com/track/2b0rWXHdn6ooRui4dlFiBJ) | [Jibb Valley](https://open.spotify.com/artist/4QAMcP1l4n3nw5vuXXTNUe) | [Jukebox \(Deluxe Cut\)](https://open.spotify.com/album/0nSvLUSCx70FpkKq8ps9AW) | 3:01 | 2026-01-10 | 2026-03-18 |
+| [You don't know](https://open.spotify.com/track/0hyUxPdMK2EEgcB0zkykPX) | [Artaco](https://open.spotify.com/artist/04z5ZpKO2fzEgPaHZSK0yw) | [You don't know](https://open.spotify.com/album/3E9BfZrOVh8eTTU2TSUll8) | 5:13 | 2026-05-10 |  |
 | [You I Love the Most](https://open.spotify.com/track/549UkDfx95rT3K290ftqjc) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [You I Love the Most](https://open.spotify.com/album/5PHKzoIa6kH5W9zsx7GfRq) | 5:51 | 2025-11-22 |  |
 | [You Just Don’t Wanna Know](https://open.spotify.com/track/7mbANcmPrBMNDVqWWk2Xbp) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [Back To The Sixties](https://open.spotify.com/album/0EWFXv6Sb9Hg53ExC68GgV) | 2:53 | 2025-10-04 | 2025-12-17 |
 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-08 | 2026-04-21 |
 | [You Know Why](https://open.spotify.com/track/1p9GJAvKBbWHdTE4PPcaXl) | [SHAHEV SEN](https://open.spotify.com/artist/39bVqvCrhbkvGCYtgg3Mw0) | [You Know Why](https://open.spotify.com/album/0LOEeuvLsJtykXkNsqzzL3) | 4:41 | 2026-03-27 | 2026-04-21 |
+| [You Learn](https://open.spotify.com/track/6yQZwLyshQAHnQ6YmYJByN) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [You Learn](https://open.spotify.com/album/4NeLqkOPudkivCWLM2KmEW) | 4:03 | 2026-05-10 |  |
 | [You turned my life upside down](https://open.spotify.com/track/1gOgkXRC7Fn1DgZhH23gRI) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [You turned my life upside down](https://open.spotify.com/album/0RhZuCOnHcqRBAmQarX3t9) | 4:39 | 2025-09-24 | 2025-12-17 |
 | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/track/2x04VP8T1xXpqIlM5b09Hv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p), [Narada Michael Walden](https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B) | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/album/03PVk8Dk3pOMkwdBXwlhcM) | 4:56 | 2025-10-08 | 2025-11-28 |
 | [You’re never been my mistake](https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS) | [John Elburg](https://open.spotify.com/artist/1hwt8ZrBctVjNcp8jYDExX) | [The world of Blues](https://open.spotify.com/album/2zUP0v3nY4BidvDuTH9F9Y) | 3:29 | 2025-11-08 | 2025-12-17 |

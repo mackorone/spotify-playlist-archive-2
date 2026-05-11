@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 275658,
+  "num_followers": 275611,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Lleg\u00f3 la Navidad",
-        "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 245792,
-      "name": "Lleg\u00f3 la Navidad",
-      "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "La Clave",
         "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 137472,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 245792,
+      "name": "Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -631,18 +631,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "SANTA",
-        "url": "https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA"
+        "name": "Navidad Melanc\u00f3lica",
+        "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
       },
       "artists": [
         {
           "name": "Thalia",
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 210533,
-      "name": "SANTA - Tengo Un Crush Contigo",
-      "url": "https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som"
+      "duration_ms": 197697,
+      "name": "Naci\u00f3 la Luz",
+      "url": "https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -715,22 +719,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Navidad Melanc\u00f3lica",
-        "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
+        "name": "SANTA",
+        "url": "https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA"
       },
       "artists": [
         {
           "name": "Thalia",
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 197697,
-      "name": "Naci\u00f3 la Luz",
-      "url": "https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx"
+      "duration_ms": 210533,
+      "name": "SANTA - Tengo Un Crush Contigo",
+      "url": "https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Estefan Family Christmas",
-        "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Emily Estefan",
-          "url": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
-        },
-        {
-          "name": "Sasha Estefan-Coppola",
-          "url": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Doy Gracias Por Ti",
-      "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Una Noche Especial",
         "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 189204,
       "name": "Una Noche Especial",
       "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Estefan Family Christmas",
+        "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Emily Estefan",
+          "url": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "name": "Sasha Estefan-Coppola",
+          "url": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Doy Gracias Por Ti",
+      "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 233337,
-      "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Volvernos a Encontrar",
         "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186130,
       "name": "Volvernos a Encontrar",
       "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 233337,
+      "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Navidad Contigo",
-        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Navidad Contigo",
-      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "triste navidad",
         "url": "https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 195882,
       "name": "triste navidad",
       "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1095,42 +1095,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4"
-      },
-      "artists": [
-        {
-          "name": "Ander",
-          "url": "https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc"
-        },
-        {
-          "name": "Romo One",
-          "url": "https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "este diciembre.",
-        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "este diciembre.",
-      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1179,6 +1143,42 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4"
+      },
+      "artists": [
+        {
+          "name": "Ander",
+          "url": "https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc"
+        },
+        {
+          "name": "Romo One",
+          "url": "https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "este diciembre.",
+        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "este diciembre.",
+      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 171535,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "mi \u00fanico deseo",
+        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
+      },
+      "artists": [
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        },
+        {
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "mi \u00fanico deseo",
+      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1255,26 +1275,6 @@
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "mi \u00fanico deseo",
-        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
-      },
-      "artists": [
-        {
-          "name": "Nashy-Nashai",
-          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
-        },
-        {
-          "name": "NEON16",
-          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "mi \u00fanico deseo",
-      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
     },
     {
       "added_at": "2025-12-12 05:00:40",

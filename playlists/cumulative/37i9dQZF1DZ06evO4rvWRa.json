@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 185214,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1DIufDXVYrsEbQgXcnZ7Ni"
@@ -440,6 +440,28 @@
       "duration_ms": 163693,
       "name": "Born to Ride",
       "url": "https://open.spotify.com/track/0lHqYOYYtJ00Q5b8sBiZ1T"
+    },
+    {
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Brave Enough to Be Unknown",
+      "url": "https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2"
     },
     {
       "album": {

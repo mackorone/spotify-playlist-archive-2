@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 46193,
+  "num_followers": 46206,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-05-07 22:00:11",
       "album": {
-        "name": "Hardop",
-        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Onzeker Van Liefde",
-      "url": "https://open.spotify.com/track/3zCjfxeF8o3D6tEEcnnDsJ"
-    },
-    {
-      "added_at": "2026-05-07 22:00:11",
-      "album": {
         "name": "We Leven Nu",
         "url": "https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 190910,
       "name": "We Leven Nu",
       "url": "https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn"
+    },
+    {
+      "added_at": "2026-05-07 22:00:11",
+      "album": {
+        "name": "Hardop",
+        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Onzeker Van Liefde",
+      "url": "https://open.spotify.com/track/3zCjfxeF8o3D6tEEcnnDsJ"
     },
     {
       "added_at": "2026-05-07 22:00:11",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-07 22:00:11",
       "album": {
-        "name": "Oktober",
-        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
-        }
-      ],
-      "duration_ms": 201118,
-      "name": "Oktober",
-      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
-    },
-    {
-      "added_at": "2026-05-07 22:00:11",
-      "album": {
         "name": "Wat Als Ik Wat Mis",
         "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 165001,
       "name": "Wat Als Ik Wat Mis",
       "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
+    },
+    {
+      "added_at": "2026-05-07 22:00:11",
+      "album": {
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "duration_ms": 201118,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
     },
     {
       "added_at": "2026-05-07 22:00:11",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-07 22:00:11",
       "album": {
-        "name": "Vergeef Me",
-        "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 182312,
-      "name": "Vergeef Me",
-      "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
-    },
-    {
-      "added_at": "2026-05-07 22:00:11",
-      "album": {
         "name": "Droom Een Beetje Meer",
         "url": "https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 205472,
       "name": "Droom Een Beetje Meer",
       "url": "https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy"
+    },
+    {
+      "added_at": "2026-05-07 22:00:11",
+      "album": {
+        "name": "Vergeef Me",
+        "url": "https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "Vergeef Me",
+      "url": "https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6"
     },
     {
       "added_at": "2026-05-07 22:00:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-07 22:00:11",
       "album": {
-        "name": "Als je eerlijk bent, Ben",
-        "url": "https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
-        }
-      ],
-      "duration_ms": 156585,
-      "name": "Als je eerlijk bent, Ben",
-      "url": "https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5"
-    },
-    {
-      "added_at": "2026-05-07 22:00:11",
-      "album": {
         "name": "Nu Jij Hier Niet Meer Bent",
         "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 250269,
       "name": "Nu Jij Hier Niet Meer Bent",
       "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
+    },
+    {
+      "added_at": "2026-05-07 22:00:11",
+      "album": {
+        "name": "Als je eerlijk bent, Ben",
+        "url": "https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "duration_ms": 156585,
+      "name": "Als je eerlijk bent, Ben",
+      "url": "https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5"
     },
     {
       "added_at": "2026-05-07 22:00:11",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-07 22:00:11",
       "album": {
-        "name": "Ik Voel Me Zo Verdomd Alleen",
-        "url": "https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37"
-      },
-      "artists": [
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        }
-      ],
-      "duration_ms": 197799,
-      "name": "Ik Voel Me Zo Verdomd Alleen",
-      "url": "https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG"
-    },
-    {
-      "added_at": "2026-05-07 22:00:11",
-      "album": {
         "name": "Echte Liefde",
         "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 155724,
       "name": "Echte Liefde",
       "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
+    },
+    {
+      "added_at": "2026-05-07 22:00:11",
+      "album": {
+        "name": "Ik Voel Me Zo Verdomd Alleen",
+        "url": "https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37"
+      },
+      "artists": [
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        }
+      ],
+      "duration_ms": 197799,
+      "name": "Ik Voel Me Zo Verdomd Alleen",
+      "url": "https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG"
     },
     {
       "added_at": "2026-05-07 22:00:11",

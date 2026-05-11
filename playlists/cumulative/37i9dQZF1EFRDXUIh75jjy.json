@@ -4792,10 +4792,28 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 179156,
       "name": "She's In My Head",
       "url": "https://open.spotify.com/track/0swlg3v0DppHwg2AbvylDy"
+    },
+    {
+      "album": {
+        "name": "old shit",
+        "url": "https://open.spotify.com/album/5oWHTt8yF3GuZyQbE2mbTp"
+      },
+      "artists": [
+        {
+          "name": "Lil GG",
+          "url": "https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179156,
+      "name": "She's In My Head",
+      "url": "https://open.spotify.com/track/1KCM8WyGVYsphCoOBQC1kU"
     },
     {
       "album": {

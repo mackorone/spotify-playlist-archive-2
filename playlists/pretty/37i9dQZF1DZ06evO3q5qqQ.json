@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117841,
+  "num_followers": 117842,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAABjJlcSNx4oTuZsImbaSt9O",
+  "snapshot_id": "af55AAAAAAAhxcDaC/5A6e4ikbbdh+YT",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Chulada",
+        "url": "https://open.spotify.com/album/05y6633FW9WAlIsZR3Z7c6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 158928,
+      "name": "Que Chulada",
+      "url": "https://open.spotify.com/track/401D4uoDg8e2PmWLhXfic1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CUANDO NADIE LA VE",
         "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
       "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Chulada",
-        "url": "https://open.spotify.com/album/05y6633FW9WAlIsZR3Z7c6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 158928,
-      "name": "Que Chulada",
-      "url": "https://open.spotify.com/track/401D4uoDg8e2PmWLhXfic1"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/2afRqawHtnyPriVtiMlMed"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "La Muchacha Del Salado \"La Nicholette\" - En Vivo",
-      "url": "https://open.spotify.com/track/0TZn8rEFwG0JbpFqMD6b7x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2afRqawHtnyPriVtiMlMed"
       },
       "artists": [
         {
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa - En Vivo",
-      "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
+      "duration_ms": 164257,
+      "name": "La Muchacha Del Salado \"La Nicholette\" - En Vivo",
+      "url": "https://open.spotify.com/track/0TZn8rEFwG0JbpFqMD6b7x"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 168317,
       "name": "De Aqui Soy",
       "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153344,
+      "name": "La Linea Directa - En Vivo",
+      "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor No Es Para Todos",
-        "url": "https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "El Amor No Es Para Todos",
-      "url": "https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pisteando Entre Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Amor No Es Para Todos",
+        "url": "https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "El Amor No Es Para Todos",
+      "url": "https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/7jpqgiHrZJ8SYEiXsAzV5t"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 175673,
       "name": "El Chapio",
       "url": "https://open.spotify.com/track/09JenPtRl1JbTPAIvIZfOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149952,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
     },
     {
       "added_at": null,
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
       },
       "artists": [
         {
@@ -832,9 +848,29 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149952,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+      "duration_ms": 140608,
+      "name": "Diosa Griega",
+      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey Del Desierto",
+        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "El Rey Del Desierto",
+      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
     },
     {
       "added_at": null,
@@ -867,38 +903,6 @@
       "duration_ms": 179171,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/22ROpSqeUipP6zWucqTLMa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 140608,
-      "name": "Diosa Griega",
-      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/495D4mGsJo4MC2uKC2Q3oO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "Ismael - En Vivo",
-      "url": "https://open.spotify.com/track/1KYuvBTYpOLY4aNe832oKB"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

@@ -4261,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/0yEEruerpgU6vBbZlQ9QjA"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/0vInsMdMmLOCrAQkwlymyO"
+    },
+    {
+      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB"
       },
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 189960,
       "name": "Techno Sound",
       "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"

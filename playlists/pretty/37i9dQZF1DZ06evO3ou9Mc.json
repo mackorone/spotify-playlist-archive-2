@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 436007,
+  "num_followers": 436043,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACOrfXh1xGgy7O3qQS4XrcS",
+  "snapshot_id": "af55AAAAAAAmhK0n4NQC5jhu4p6nepEQ",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 204240,
       "name": "Spare Me The Details",
       "url": "https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
     },
     {
       "added_at": null,

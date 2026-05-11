@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Olamide, Adekunle Gold, Uncle Waffles, Jeriq, Falana and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,566 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,654 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 61 | [PULLA](https://open.spotify.com/track/57GwduhtD6yMSGcojoWszh) | [Iddo WurLd](https://open.spotify.com/artist/2J2Fy550EQH639CPpZkFKw), [BadmanQuba](https://open.spotify.com/artist/6a878fm2eYAWD3stiITfxM) | [PULLA](https://open.spotify.com/album/099fKOVLzMp6F1pljp8eLY) | 4:13 |
 | 62 | [moccasins](https://open.spotify.com/track/5a14LjwlzD0DD86WkjkYI4) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [moccasins](https://open.spotify.com/album/4wO69tZeMudvacH8NTwlrP) | 1:48 |
 | 63 | [Celina](https://open.spotify.com/track/0wqtHUry31IMcDnirARSvC) | [Ardbee](https://open.spotify.com/artist/3HnigJr8saS95KORAdhREM) | [Celina](https://open.spotify.com/album/3x6nIhjzEAI2PFScMKfd76) | 1:58 |
-| 64 | [Senegal Rek \- Remix](https://open.spotify.com/track/0faag8QgnBR1KP1KLmabeL) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Senegal Rek](https://open.spotify.com/album/0IOWgDKrKrWDtEJu22YhAi) | 2:48 |
+| 64 | [Senegal Rekk \- Remix](https://open.spotify.com/track/0faag8QgnBR1KP1KLmabeL) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Senegal Rekk](https://open.spotify.com/album/0IOWgDKrKrWDtEJu22YhAi) | 2:48 |
 | 65 | [Gbachina](https://open.spotify.com/track/3Pqqojb8FEEjNAs5lGmZfU) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Unique](https://open.spotify.com/album/4wsS0vbxRyaG7AR5pIluwe) | 3:48 |
 | 66 | [Tout casser](https://open.spotify.com/track/5x6VjNIgURC9wrg3YMcnvV) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Tout casser](https://open.spotify.com/album/5TI1UA5qf9RMGetbTwNoqA) | 2:34 |
 | 67 | [Lo Arriesgo Todo](https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lo Arriesgo Todo](https://open.spotify.com/album/04HQFUF2ZerH9UAu5Lo6bP) | 3:24 |

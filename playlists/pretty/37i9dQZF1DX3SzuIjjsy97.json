@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407354,
+  "num_followers": 407355,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -316,26 +316,6 @@
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 329228,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
           "name": "Leslie Odom Jr.",
           "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         },
@@ -363,6 +343,26 @@
       "duration_ms": 385438,
       "name": "Non-Stop",
       "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
     },
     {
       "added_at": "2026-03-06 13:38:21",
@@ -432,38 +432,6 @@
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
-        },
-        {
-          "name": "Jasmine Cephas-Jones",
-          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
-        },
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "The Schuyler Sisters",
-      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
           "name": "Leslie Odom Jr.",
           "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         },
@@ -495,6 +463,38 @@
       "duration_ms": 236737,
       "name": "Alexander Hamilton",
       "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "The Schuyler Sisters",
+      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
     },
     {
       "added_at": "2026-03-06 13:38:21",

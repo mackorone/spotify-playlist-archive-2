@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Howlin' Wolf Boogie",
+      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
+    },
+    {
+      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
       },

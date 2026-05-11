@@ -1,6 +1,6 @@
 {
   "description": "Disco, acid and synths galore - all your favourite 80s dance hits!",
-  "num_followers": 295637,
+  "num_followers": 295658,
   "original_name": "80s Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-18 17:19:47",
       "album": {
-        "name": "Let's Hear It for the Boy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
-    },
-    {
-      "added_at": "2024-03-18 17:19:47",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 244773,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
+    },
+    {
+      "added_at": "2024-03-18 17:19:47",
+      "album": {
+        "name": "Let's Hear It for the Boy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
     },
     {
       "added_at": "2024-03-18 17:19:47",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-18 17:19:47",
       "album": {
-        "name": "Private Life: The Compass Point Sessions",
-        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
+        "name": "Foundation",
+        "url": "https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH"
       },
       "artists": [
         {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+          "name": "Ten City",
+          "url": "https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi"
         }
       ],
-      "duration_ms": 273293,
-      "name": "Pull Up To The Bumper",
-      "url": "https://open.spotify.com/track/72uS4v9EdiXZeascM5RTl7"
+      "duration_ms": 255200,
+      "name": "That's the Way Love Is - Underground Mix; Edit",
+      "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
     }
   ],
   "unique_name": "80s Dance Hits",

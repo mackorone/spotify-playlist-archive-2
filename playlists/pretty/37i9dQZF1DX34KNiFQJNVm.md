@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Seu Jorge com Marisa Monte, Luiza Martins, Charli xcx, Alok,  Mari Fernandez, YG Marley  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,284,889 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,284,737 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

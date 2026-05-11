@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-972 songs - 2 day 0 hr 30 min
+973 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 | 2025-05-22 | 2025-09-19 |
 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 | 2025-01-09 | 2025-01-31 |
 | [Ake, Make, Pera ja mä \(Vain elämää kausi 15\)](https://open.spotify.com/track/7DRDYm10hKVRPgyJlADucs) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN) | [Ake, Make, Pera ja mä \(Vain elämää kausi 15\)](https://open.spotify.com/album/5w3ICiuxlbWZW2ksy66Aog) | 3:36 | 2024-10-31 | 2024-11-08 |
-| [Alkemia](https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Alkemia / Showbisn€s](https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk) | 2:51 | 2026-01-08 |  |
+| [Alkemia](https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Alkemia / Showbisn€s](https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk) | 2:51 | 2026-01-08 | 2026-05-11 |
 | [Alkemistit](https://open.spotify.com/track/5V2M6kIxCB1Z4pN1UfSzpC) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Sodankäynnin historia](https://open.spotify.com/album/2uwR2X5ZwkIVBLwbNd5a0S) | 4:20 | 2025-02-03 | 2025-03-07 |
 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 | 2025-01-23 | 2025-03-14 |
 | [ALL IN](https://open.spotify.com/track/5WSW4kZ4lO6nACET8FgGqJ) | [Mikko Harju](https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n) | [ALL IN](https://open.spotify.com/album/72fCTQ0lNg5vXQ0Bynhy58) | 2:55 | 2024-10-03 | 2025-01-03 |
@@ -938,6 +938,7 @@
 | [Virheistä tärkein](https://open.spotify.com/track/5MwzH4dI9Rqi1STbvteTqu) | [Elsa Brotherus](https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG) | [Virheistä tärkein](https://open.spotify.com/album/2ivGSIkBHP8iy3qlLF0IyJ) | 3:17 | 2024-11-25 | 2025-01-10 |
 | [Vituiks menee](https://open.spotify.com/track/3L0iB8I6NuuGsAKpJPcXZv) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Vituiks menee](https://open.spotify.com/album/0J9j8R6Py6cRzNTimTni8L) | 2:54 | 2025-04-17 | 2025-05-16 |
 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 | 2024-08-15 | 2024-11-15 |
+| [Vitun Inee](https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vitun Inee](https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn) | 2:58 | 2026-05-07 |  |
 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 | 2025-09-04 | 2026-04-24 |
 | [Voimanainen \(Vain elämää kausi 15\)](https://open.spotify.com/track/0cConfu9ZYxF9EVE3IOwLo) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Voimanainen \(Vain elämää kausi 15\)](https://open.spotify.com/album/3TuondDx0uRZBFVoTmpyVf) | 2:40 | 2024-10-24 | 2024-11-01 |
 | [Voodoo](https://open.spotify.com/track/5Zgtw805z5rGeIKHNksrUc) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Voodoo](https://open.spotify.com/album/0J7SSfRYP8apm3ZrtOO7Js) | 3:32 | 2024-09-26 | 2024-10-04 |

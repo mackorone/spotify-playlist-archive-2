@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45917,
+  "num_followers": 45916,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAB163zQHG0DNAX5PqvI7r1B",
+  "snapshot_id": "af55AAAAAADgiaqix9kEZCqYbyc60sAq",
   "tracks": [
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
       },
       "artists": [
         {
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
         }
       ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chip S (Metal Version)",
-        "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
       },
       "artists": [
         {
@@ -756,13 +756,13 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Chip S (Metal Version)",
-      "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Roll",
         "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     },
     {
       "added_at": null,
@@ -1119,6 +1119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Andamos Al Cien",
         "url": "https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 192840,
       "name": "Andamos Al Cien",
       "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
     },
     {
       "added_at": null,

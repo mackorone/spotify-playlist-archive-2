@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 92 songs - 5 hr 16 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,13 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 90 | [Bored](https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya) | [Duvin](https://open.spotify.com/artist/3pWchKdjhpRAGDfdzxLup7) | [Bored](https://open.spotify.com/album/2w9wbLlzxGAVKYo2rWE4Wj) | 3:52 |
 | 91 | [Canada](https://open.spotify.com/track/2pmyjfzB8zWvPxbMFAVlDm) | [Pondlife](https://open.spotify.com/artist/7nAw4BKkoWhKV2R0i7Xprz) | [Canada](https://open.spotify.com/album/5gMGhKRzw3LGTxlK0J2fk4) | 3:23 |
 | 92 | [The Cost of Loving](https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ) | 3:25 |
+| 93 | [Alaska](https://open.spotify.com/track/3WukgJpmcq8yXrzTF3KkQq) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Alaska](https://open.spotify.com/album/5kBzzVfbKOAgvgMKHoAT3S) | 3:16 |
+| 94 | [Sick of Myself](https://open.spotify.com/track/4AcTSN3jrGYKnDhlPvU5Ws) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Sick of Myself](https://open.spotify.com/album/5Z7he63upehCw75oRrZvuN) | 4:16 |
+| 95 | [Forget The Serotonin High, I Much Prefer The Void Anyways](https://open.spotify.com/track/0ilKqjDIpc7fmrsYImDKBa) | [Echo Alexander](https://open.spotify.com/artist/0ghlorYK2vI8FZjkkeUEA1) | [Nightmares That Have Become Reality](https://open.spotify.com/album/4Qi0uQiaMPfPZ1hOfjpO14) | 4:41 |
+| 96 | [Is It True?](https://open.spotify.com/track/0Lqo9N2dhvQiHWXMNKmcQc) | [Jane Chong](https://open.spotify.com/artist/5JIrvkgmaktnwNI9XcVzwy) | [Is It True?](https://open.spotify.com/album/5W1vVrvYRqwwVeOmdNXgQP) | 3:31 |
+| 97 | [WILLIAM \| wyws](https://open.spotify.com/track/4RzhWknS83AGSiMLSbTOxh) | [REIVEN](https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW) | [WYWS \(WILLIAM\)](https://open.spotify.com/album/5A0B8iPVCVjhuhAf9HJQhz) | 4:00 |
+| 98 | [Bring The Light](https://open.spotify.com/track/3jGNfsL25ex9OXlBlz6GNR) | [Akashic Activation](https://open.spotify.com/artist/17SsNQMk1SdflR752pBvCy) | [Bring The Light](https://open.spotify.com/album/2ppC36tqivjAk4cd9C7dC0) | 3:15 |
+| 99 | [Opening \- \|wa\|hia\|wa\|](https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw) | [Niam Daia](https://open.spotify.com/artist/33Z86L54jqPDUxsx8u4PCZ) | [\|Invocation\|](https://open.spotify.com/album/7FeGBeSyXlSDnYis3bXDev) | 4:49 |
+| 100 | [Forget](https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [Forget](https://open.spotify.com/album/68e7pBLOsqIvD05rIkYCgp) | 3:28 |
 
-Snapshot ID: `AAAOwNeVA4l5tBl0DxxIci8hG2NfKCoy`
+Snapshot ID: `AAAOyHLq9Y0MVINqJEgB7rm/7ob1YyFO`

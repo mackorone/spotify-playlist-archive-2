@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4761,
+  "num_followers": 4759,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADZjxWdWtH32i8M9K9gDzCY",
+  "snapshot_id": "af55AAAAAADmX3P3U5u9GqGszy/fWSvw",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "luna de miel",
         "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 187853,
       "name": "lips - Original Music from The L Word: Generation Q",
       "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "make it rain",
-      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
     },
     {
       "added_at": null,

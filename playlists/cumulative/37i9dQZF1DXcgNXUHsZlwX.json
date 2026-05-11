@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 168358,
       "name": "Ici",
       "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
@@ -8548,7 +8548,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 166266,
       "name": "S'il te pla\u00eet, fais-moi danser",
       "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
@@ -9505,6 +9505,24 @@
     },
     {
       "album": {
+        "name": "The Scars We Share",
+        "url": "https://open.spotify.com/album/6tHnONORrBKToSOraiIFan"
+      },
+      "artists": [
+        {
+          "name": "Maldito",
+          "url": "https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238481,
+      "name": "The Scars We Share",
+      "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
+    },
+    {
+      "album": {
         "name": "The Wandering",
         "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
@@ -10074,6 +10092,24 @@
       "duration_ms": 220213,
       "name": "Understand It",
       "url": "https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z"
+    },
+    {
+      "album": {
+        "name": "Underwater '26",
+        "url": "https://open.spotify.com/album/0RPgJzim1zPIGxPohVf80a"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "Underwater '26",
+      "url": "https://open.spotify.com/track/7oyoTyR7vFjooRPZPNfEYm"
     },
     {
       "album": {

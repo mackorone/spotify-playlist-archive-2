@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from CORTIS, BABYMONSTER, Madison Beer, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,485 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,480 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 31 | [Ketakutanku](https://open.spotify.com/track/4rNwZggd4PzzqvhIIgUfxV) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Ketakutanku](https://open.spotify.com/album/5y5zVK225kZcgPS4oYZrEx) | 4:40 |
 | 32 | [Lama Tak Bermalam Minggu](https://open.spotify.com/track/5EyLkB6SSiKPgDHZJE2MW3) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Lama Tak Bermalam Minggu](https://open.spotify.com/album/6pyeBXxRVlFHukNTtTmrkI) | 3:41 |
 | 33 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
-| 34 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:14 |
+| 34 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:22 |
 | 35 | [OK CAN \(feat\. pH\-1 & JP THE WAVY\)](https://open.spotify.com/track/4etccLWOrAyFrJbAFHNm0V) | [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [OK CAN \(feat\. pH\-1 & JP THE WAVY\)](https://open.spotify.com/album/0gaiFeKSFESkhy4qLU5MLm) | 3:12 |
 | 36 | [In the End](https://open.spotify.com/track/5WKguOpEwe8qpXPSz25Zqx) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 3:28 |
 | 37 | [Therapy](https://open.spotify.com/track/6zgCl5XVE6f42DCkE7VvG5) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Therapy](https://open.spotify.com/album/2707lP65KqxNVyp1I2lifw) | 3:04 |

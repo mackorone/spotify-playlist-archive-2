@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,186 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,193 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 78 | [back2me](https://open.spotify.com/track/3Mertw67m5xQ28ns2rH1Qu) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [what's that supposed to mean? \(Deluxe\)](https://open.spotify.com/album/0cq4Lk1DHnpUqse6o7RMLn) | 2:20 |
 | 79 | [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 |
 | 80 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
-| 81 | [Last Goodbye](https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Last Goodbye](https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq) | 3:32 |
+| 81 | [last goodbye](https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [last goodbye](https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq) | 3:32 |
 | 82 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 |
 | 83 | [you](https://open.spotify.com/track/4JxpLXRB3oa1pSDBJ8pVF9) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [you](https://open.spotify.com/album/2UKoS0WE1NdjriJlOjRSPq) | 2:50 |
 | 84 | [easy love](https://open.spotify.com/track/41DVmQcacIUuujHOUyZwRQ) | [drewboi](https://open.spotify.com/artist/4v3atOCQjqdxU6VkWfOf0U) | [easy love](https://open.spotify.com/album/21URFCnjceyLY17RkZhMZQ) | 3:03 |

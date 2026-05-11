@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3114,
+  "num_followers": 3113,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADT6yPxbRDRs436vd7ZErDx",
+  "snapshot_id": "af55AAAAAACl2gAsX18BC2W7wUKB3QU0",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "U Remind Me",
-        "url": "https://open.spotify.com/album/32PpjwWVpWcy3n2syzkBnI"
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 177383,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/5AC5BslKdVrjBRC6YwnCKX"
+      "duration_ms": 180000,
+      "name": "Hurt Me Harder",
+      "url": "https://open.spotify.com/track/0e5ujfASLWVriqsZUGSD3i"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+        "name": "U Remind Me",
+        "url": "https://open.spotify.com/album/32PpjwWVpWcy3n2syzkBnI"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Hurt Me Harder",
-      "url": "https://open.spotify.com/track/0e5ujfASLWVriqsZUGSD3i"
+      "duration_ms": 177383,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/5AC5BslKdVrjBRC6YwnCKX"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 227882,
-      "name": "Like Heaven",
-      "url": "https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grave",
         "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 152226,
       "name": "Grave",
       "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 227882,
+      "name": "Like Heaven",
+      "url": "https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR"
     },
     {
       "added_at": null,

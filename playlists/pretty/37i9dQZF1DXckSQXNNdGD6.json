@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Martin.",
-  "num_followers": 21769,
+  "num_followers": 21804,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,18 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "V\u00e1monos de aqu\u00ed",
-        "url": "https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt"
+        "name": "Cuatricrom\u00eda",
+        "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Indiara Sfair",
-          "url": "https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh"
+          "name": "Fangoria",
+          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
         }
       ],
-      "duration_ms": 152163,
-      "name": "V\u00e1monos de aqu\u00ed",
-      "url": "https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB"
+      "duration_ms": 243773,
+      "name": "Dramas y comedias",
+      "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -99,18 +95,22 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Cuatricrom\u00eda",
-        "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
+        "name": "V\u00e1monos de aqu\u00ed",
+        "url": "https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt"
       },
       "artists": [
         {
-          "name": "Fangoria",
-          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Indiara Sfair",
+          "url": "https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh"
         }
       ],
-      "duration_ms": 243773,
-      "name": "Dramas y comedias",
-      "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
+      "duration_ms": 152163,
+      "name": "V\u00e1monos de aqu\u00ed",
+      "url": "https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB"
     },
     {
       "added_at": "2026-05-06 09:33:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-06 09:33:36",
       "album": {
-        "name": "Hoy ya no",
-        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 160064,
-      "name": "Hoy ya no",
-      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
-    },
-    {
-      "added_at": "2026-05-06 09:33:36",
-      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 181001,
       "name": "NOIS",
       "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
+    },
+    {
+      "added_at": "2026-05-06 09:33:36",
+      "album": {
+        "name": "Hoy ya no",
+        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 160064,
+      "name": "Hoy ya no",
+      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
     },
     {
       "added_at": "2026-05-06 09:33:36",

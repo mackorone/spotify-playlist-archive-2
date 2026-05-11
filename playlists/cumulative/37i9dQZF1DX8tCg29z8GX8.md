@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-793 songs - 1 day 16 hr 50 min
+794 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-27 | 2026-03-27 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-06-09 | 2023-09-29 |
 | [Mon Bébé \(with King Promise\)](https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Mon Bébé \(with King Promise\)](https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc) | 2:48 | 2026-05-08 |  |
-| [Money Makes The World Go Round \(MMTWGR\)](https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Young Daddy](https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm) | 2:27 | 2026-04-17 |  |
+| [Money Makes The World Go Round \(MMTWGR\)](https://open.spotify.com/track/6Z4XuIm4CoQM7r4cMH9n6l) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Young Daddy](https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm) | 2:27 | 2026-04-17 | 2026-05-11 |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-11-03 | 2025-04-01 |
 | [Monsta Alta](https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Monsta Alta & Chérie](https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce) | 2:50 | 2022-11-18 | 2022-12-09 |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-06-09 | 2024-05-24 |
@@ -546,6 +546,7 @@
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 | 2024-09-19 |
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-08-22 | 2026-02-06 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 | 2025-04-01 |
+| [Peace Of Mind](https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Peace Of Mind](https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit) | 2:59 | 2026-05-08 |  |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-10 | 2023-09-29 |
 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 | 2024-03-15 | 2024-05-15 |
 | [PERFECT](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 3:06 | 2026-03-27 |  |

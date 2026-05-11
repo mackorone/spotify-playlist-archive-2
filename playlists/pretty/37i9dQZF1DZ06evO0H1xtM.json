@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 373245,
+  "num_followers": 373311,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADih4rXe7QtbhSQaHoE1AoH",
+  "snapshot_id": "af55AAAAAADM+qZ1pQun1gL5mDEs6+r1",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186758,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186758,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
     },
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Ruina (Version Deluxe)",
-        "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Ariel Camacho",
-          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "La Vida Ruina (feat. Ariel Camacho)",
-      "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
@@ -391,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida Ruina (Version Deluxe)",
+        "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Ariel Camacho",
+          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "La Vida Ruina (feat. Ariel Camacho)",
+      "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
@@ -403,26 +403,6 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
       "duration_ms": 191355,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/36Sb1v2RoaxKDFkzergWCO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
       "artists": [
         {
@@ -668,25 +668,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esos Ojitos",
-        "url": "https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170938,
-      "name": "Esos Ojitos",
-      "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 193027,
       "name": "La Paso Bien",
       "url": "https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esos Ojitos",
+        "url": "https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170938,
+      "name": "Esos Ojitos",
+      "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 168251,
       "name": "El Apache (En Vivo)",
       "url": "https://open.spotify.com/track/52t4lVf9K57XzwvDAT2U9r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 153182,
       "name": "La Plebada del 09",
       "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": null,

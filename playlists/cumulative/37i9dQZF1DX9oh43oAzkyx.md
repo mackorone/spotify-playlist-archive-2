@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-458 songs - 22 hr 57 min
+459 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 | 2022-04-30 | 2022-07-29 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-09 | 2025-02-08 |
 | [Move Ya Hips \(feat\. Nicki Minaj & MadeinTYO\)](https://open.spotify.com/track/13v5IXnvO2BccWwOx5rb4s) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 2:24 | 2021-01-04 | 2022-04-21 |
+| [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 | 2026-05-08 |  |
 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 | 2021-07-30 | 2025-02-08 |
 | [Mrs\. Bubblegum](https://open.spotify.com/track/7Ko12sPqhdCczAdJ6wnyAc) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Mrs\. Bubblegum](https://open.spotify.com/album/5vpnY4y1cnEv8IQzcOMrxL) | 2:25 | 2021-07-30 | 2022-07-07 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-09 | 2022-12-03 |
@@ -381,7 +382,7 @@
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-05-14 |  |
 | [Strub Tha Ground \(Feat\. Yung Miami\)](https://open.spotify.com/track/64EQj1J59L8sGw9FtzxcSW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Strub Tha Ground \(Feat\. Yung Miami\)](https://open.spotify.com/album/1ZwJ3x0rtnmde7sukHI3xR) | 3:14 | 2021-10-22 | 2022-01-10 |
 | [STUNTMAN \(feat\. Vince Staples\)](https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:19 | 2023-03-31 | 2023-05-06 |
-| [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 | 2025-06-27 |  |
+| [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 | 2025-06-27 | 2026-05-11 |
 | [Suge](https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:43 | 2021-01-04 | 2022-09-10 |
 | [SUPAFLEE \(feat\. Bri Steves\)](https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 3:12 | 2025-08-29 | 2025-12-21 |
 | [Super Freaky Girl \- Roman Remix](https://open.spotify.com/track/29NV5l8hdRLDcpUbj5Tzs7) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl \(Roman Remix\)](https://open.spotify.com/album/7ElhetBDAoVJgnlhni8P4s) | 3:55 | 2022-09-02 | 2022-12-03 |

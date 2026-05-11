@@ -3124,10 +3124,28 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 232641,
       "name": "Another Day Old",
       "url": "https://open.spotify.com/track/2eRLna0nT0yyJw8MyYBDMw"
+    },
+    {
+      "album": {
+        "name": "The Years Between",
+        "url": "https://open.spotify.com/album/7zxeGAqygFnfWcpvjzqZrm"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dalton",
+          "url": "https://open.spotify.com/artist/52m47pf0V2dFVHZndwnzTi"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232641,
+      "name": "Another Day Old",
+      "url": "https://open.spotify.com/track/6uEWZtKwC2XlkQ30LEPH5D"
     },
     {
       "album": {
@@ -8552,7 +8570,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -18400,7 +18418,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -18418,7 +18436,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -44644,7 +44662,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 177177,
       "name": "stay here don't go",
       "url": "https://open.spotify.com/track/1ZVjrE1mB1J5m3VHQvL9Bo"

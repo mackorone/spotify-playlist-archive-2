@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,454 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,494 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 78 | [I Declare, I Decree \- Live](https://open.spotify.com/track/7kSDH4uUG1zprJHGJ1c49Q) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Declare, I Decree \(Live\)](https://open.spotify.com/album/1GOjbafLvn5RCZUiOVNmDb) | 3:46 |
 | 79 | [i still care](https://open.spotify.com/track/1hDI7c0mgEXzCwIsKOHnWs) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [i still care](https://open.spotify.com/album/0grZgZ9MNueYgHSMFxwImq) | 1:42 |
 | 80 | [APPETITE](https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [APPETITE](https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf) | 3:29 |
-| 81 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [The Salvation Choir](https://open.spotify.com/artist/6TkoY2lDiiwEB0Xo3KOj8J) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 |
+| 81 | [In All, Sustain All](https://open.spotify.com/track/4ucqZJcbURz7yiPrVPlgic) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK), [The Salvation Choir](https://open.spotify.com/artist/7o3Mxe4noHEYVdsT0qhf1K) | [In All, Sustain All](https://open.spotify.com/album/1djdIpT6t3oHuZrzQ4gMUN) | 4:14 |
 | 82 | [Thank You Lord](https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Thank You Lord](https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H) | 4:57 |
 | 83 | [Joy](https://open.spotify.com/track/3ABBmyAEPeQ567PpgVxjlx) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ariel Campbell](https://open.spotify.com/artist/2JUzPjWvPNqiQmYvRYpAdX) | [Joy](https://open.spotify.com/album/5W6WSCQoQHjNgwN5EkOMY3) | 6:15 |
 | 84 | [Alabaster Box \(feat\. Nicole Binion\)](https://open.spotify.com/track/3wG2aIjWGm4oQ0oCFYmWVh) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e) | [Alabaster Box \(feat\. Nicole Binion\)](https://open.spotify.com/album/3mANzZGy7MJ9puZuTZuUwv) | 5:25 |

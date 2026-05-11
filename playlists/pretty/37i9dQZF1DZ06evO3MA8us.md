@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,519 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,521 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 44 | [How I Love You](https://open.spotify.com/track/5ouxOzWduYx5B10FP4ChU5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 7:26 |
 | 45 | [Awesome Is The Lord Most High](https://open.spotify.com/track/66knRxw7curkSwborNv7B0) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 4:28 |
 | 46 | [Buen Padre](https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 |
-| 47 | [Shout To The Lord \- Live From LIFT: Creative Conference](https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Jourdan Johnson](https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 3:41 |
-| 48 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
+| 47 | [How Great Is Our God \- Live](https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 4:51 |
+| 48 | [Shout To The Lord \- Live From LIFT: Creative Conference](https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Jourdan Johnson](https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 3:41 |
 | 49 | [Bless God \- Live From Passion 2024](https://open.spotify.com/track/55891kIDHcEGReUrpD461w) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God](https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O) | 5:14 |
 | 50 | [The Lamb's Book of Life \- Live From Passion 2025](https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:02 |
 
-Snapshot ID: `af0ngAAAAACFGCjcvaGPbyFEy5MHOtzC`
+Snapshot ID: `af55AAAAAAAGDstTgH9eShkKrSaCvHPI`

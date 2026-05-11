@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Codiciado 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,210 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,253 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [Extraño a esa Loca](https://open.spotify.com/track/4vAwV4fv0aXM5FFTr56iKY) | [Bandera Negra](https://open.spotify.com/artist/5xABAb793YTVAkTlUGPvnO), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Extraño a esa Loca](https://open.spotify.com/album/40uuGJcdPCSbcwv0iJKONU) | 2:44 |
 | 51 | [Adicto A Ti](https://open.spotify.com/track/2QthJFvZ0wbfCY1eQ2iFYp) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Angel Saucedo](https://open.spotify.com/artist/687gwLWI3e34xv2Blz8VAs) | [Adicto A Ti](https://open.spotify.com/album/4CuJHM0X9hYzDRh4EQDZSf) | 3:11 |
 | 52 | [70 Calaveras](https://open.spotify.com/track/485cqkO6xukRmot0SBlvSb) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [70 Calaveras](https://open.spotify.com/album/6os2eNRrFvGbjrrTrznRLE) | 2:51 |
-| 53 | [Lo Que He Vivido](https://open.spotify.com/track/1m7H78jmbBzsXFrpIXfKL1) | [Marco Fernández y su Plebada](https://open.spotify.com/artist/4S30dBBFJHTvgyPBZcTb7b), [Grupo Regimen](https://open.spotify.com/artist/3GA2DPJLXEYlzklAAHxYkz) | [Lo Que He Vivido](https://open.spotify.com/album/0kuxo9eIeNjn0ONHSJMFPV) | 2:56 |
+| 53 | [Lo Que He Vivido](https://open.spotify.com/track/1m7H78jmbBzsXFrpIXfKL1) | [Marco Fernández y su Plebada](https://open.spotify.com/artist/4S30dBBFJHTvgyPBZcTb7b), [Grupo Regimen](https://open.spotify.com/artist/2CTOxoed32kMov5fX6LhpO) | [Lo Que He Vivido](https://open.spotify.com/album/0kuxo9eIeNjn0ONHSJMFPV) | 2:56 |
 | 54 | [Cariñito](https://open.spotify.com/track/1rKTOBTT8Y6ZQyoPKypgPB) | [Los Zemvers](https://open.spotify.com/artist/4TwwJp9yK3NElotl9vAqGr) | [Cariñito](https://open.spotify.com/album/1NnR576QftU0Ova2V8IZUN) | 4:36 |
 | 55 | [11\-12](https://open.spotify.com/track/2pZxkFgK48rkv3OG1Ad8vn) | [Grupo debate](https://open.spotify.com/artist/3bl73qiD4IOQ0WQuyak9RP) | [11\-12](https://open.spotify.com/album/6u1TPZ2euW6VRfX60BtDz7) | 3:58 |
 | 56 | [Campeón](https://open.spotify.com/track/3tEG859hqpyY6vQ9XViB4F) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Campeón](https://open.spotify.com/album/0EY6KRRjEGbEM9wbYUwHMX) | 2:42 |

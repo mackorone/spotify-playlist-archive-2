@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,383 songs - 5 day 7 hr 55 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,385 songs - 5 day 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2391,5 +2391,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2381 | [P5HD\-165TEKmix2](https://open.spotify.com/track/04l5ESY5WYg7cbTkKZu39B) | [Binary Digit](https://open.spotify.com/artist/3de6mAIrsacJj1uU0zfTSs) | [Xrns Trax](https://open.spotify.com/album/7JiISakRuKHZndttfPU5ii) | 5:37 |
 | 2382 | [earth is turning](https://open.spotify.com/track/7KjOz66DevrG6RQ6pNctYs) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [earth is turning](https://open.spotify.com/album/3tzBTHessiL43I9BZTsvU7) | 4:49 |
 | 2383 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
+| 2384 | [SATISFY](https://open.spotify.com/track/6SDndFLGtXkLq5UttTs5Pm) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 2:45 |
+| 2385 | [WANT NEED LOVE \- LSDXOXO Remix](https://open.spotify.com/track/2mE1WGxym75ezXYa8anIY7) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [WANT NEED LOVE \(Remixes\)](https://open.spotify.com/album/50ctTZBiLC8KW4B6Wx9RrT) | 3:24 |
 
-Snapshot ID: `AAAFVROnwTqpnFXFONFCSfZWNFcbwZF+`
+Snapshot ID: `AAAFVwAIRi9QSmk3ek9qvrZK67xIrPzP`

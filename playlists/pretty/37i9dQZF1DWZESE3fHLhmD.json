@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd8b Musik, die sich anf\u00fchlt, wie alles kann, nichts muss \ud83e\udd8b",
-  "num_followers": 1315959,
+  "num_followers": 1315872,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "hopeless fountain kingdom (Deluxe Plus)",
-        "url": "https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 181279,
-      "name": "Bad At Love",
-      "url": "https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 252305,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "hopeless fountain kingdom (Deluxe Plus)",
+        "url": "https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 181279,
+      "name": "Bad At Love",
+      "url": "https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+      "duration_ms": 178016,
+      "name": "Material Lover",
+      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -807,6 +807,22 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -839,22 +855,6 @@
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "Material Lover",
-      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/08jELZMYlptbxXdmLGnFfo"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6GJdFTOm23lC5bqjYSMJTj"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "Pazifik",
         "url": "https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/08jELZMYlptbxXdmLGnFfo"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6GJdFTOm23lC5bqjYSMJTj"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "this is what autumn feels like",
         "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 166955,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237952,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 138032,
+      "name": "Unsicher",
+      "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
         "name": "Everything is romantic featuring caroline polachek",
         "url": "https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 138032,
-      "name": "Unsicher",
-      "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "Sing Like Madonna",
         "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
+      },
+      "artists": [
+        {
+          "name": "Yearboox",
+          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
+        }
+      ],
+      "duration_ms": 140348,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -1383,22 +1399,6 @@
       "duration_ms": 191519,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
-      },
-      "artists": [
-        {
-          "name": "Yearboox",
-          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
-        }
-      ],
-      "duration_ms": 140348,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
     },
     {
       "added_at": "2026-05-07 22:01:03",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq"
+      },
+      "artists": [
+        {
+          "name": "Eva Marija",
+          "url": "https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
         "name": "listen carefully",
         "url": "https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq"
-      },
-      "artists": [
-        {
-          "name": "Eva Marija",
-          "url": "https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "lieblingslied",
         "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-07 22:01:03",
       "album": {
-        "name": "Want It Back",
-        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 207509,
-      "name": "Want It Back",
-      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
-    },
-    {
-      "added_at": "2026-05-07 22:01:03",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2026-05-07 22:01:03",
+      "album": {
+        "name": "Want It Back",
+        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 207509,
+      "name": "Want It Back",
+      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
     },
     {
       "added_at": "2026-05-07 22:01:03",

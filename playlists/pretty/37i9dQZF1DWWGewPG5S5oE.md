@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 挾間美帆
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,704 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,711 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 12 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 |
 | 13 | [The qante](https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [Lims](https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw) | 4:29 |
 | 14 | [My people](https://open.spotify.com/track/5LugbTIL82nL9ZxOzRUyrN) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [My people](https://open.spotify.com/album/0PaQXhs5b80k8iGUkTcQZg) | 3:56 |
-| 15 | [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 |
-| 16 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
+| 15 | [Headspace](https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3) | [Headspace](https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc) | 2:14 |
+| 16 | [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 |
 | 17 | [Gotta Decent Shoes?](https://open.spotify.com/track/5QKHJtbjIt9kKGmVmVvTDq) | [Okazaki Brothers](https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d) | [Blood But Blues](https://open.spotify.com/album/5aUhK30kDj2pXn31qT634w) | 7:13 |
-| 18 | [Headspace](https://open.spotify.com/track/1XNjLOUPvRPEt7W3nCgToP) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3) | [Headspace](https://open.spotify.com/album/651f3Bn0AE1eRAQcXhD8Rc) | 2:14 |
+| 18 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
 | 19 | [Curumim](https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Ooh\-La\-La](https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU) | 3:58 |
 | 20 | [Friends](https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Friends](https://open.spotify.com/album/7Bl9aIDEdyIU2jtOqI34mw) | 6:30 |
 | 21 | [相思相愛](https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr) | [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [相思相愛](https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU) | 4:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 46 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
 | 47 | [Manual](https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [Manual](https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r) | 3:59 |
 | 48 | [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 |
-| 49 | [10\-6\-12](https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq) | [Okazaki Brothers](https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d) | [10\-6\-12](https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ) | 4:46 |
-| 50 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 |
+| 49 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 |
+| 50 | [10\-6\-12](https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq) | [Okazaki Brothers](https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d) | [10\-6\-12](https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ) | 4:46 |
 
 Snapshot ID: `AAAAAD0WBpWPC/QFHxdoWju3jYyVVMjT`

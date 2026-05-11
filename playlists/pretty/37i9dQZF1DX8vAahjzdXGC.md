@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari  Rizwan Fadilah, RnBoyz\*, Mahalini, Sheila on 7,  Ariel NOAH, Salma Salsabil, CORTIS dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,068 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,097 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 21 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
 | 22 | [Bikin Candu](https://open.spotify.com/track/6mvyarerrGib7AkTjBoXbn) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Bikin Candu](https://open.spotify.com/album/7y7ATuWaCCNLKjtkfZx7bP) | 3:09 |
 | 23 | [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 |
-| 24 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:14 |
+| 24 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:22 |
 | 25 | [kl bkn aq](https://open.spotify.com/track/4DGT3qY4iXviC26sRVqTm1) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [kl bkn aq](https://open.spotify.com/album/1mnOFlK3qZo44M0qkptpKV) | 1:38 |
 | 26 | [Hvnly \(feat\. JIHYO\)](https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 2:57 |
 | 27 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 |

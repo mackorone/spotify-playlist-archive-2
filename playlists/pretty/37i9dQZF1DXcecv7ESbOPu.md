@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Lykke Li, STOR & Miriam Bryant och VC Barre & Asme med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,336 likes - 109 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,332 likes - 109 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

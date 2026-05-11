@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,770 likes - 76 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,779 likes - 76 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

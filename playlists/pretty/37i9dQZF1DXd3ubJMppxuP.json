@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 87490,
+  "num_followers": 87508,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Dat Heb Jij Gedaan (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Dat Heb Jij Gedaan - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "Banger Hart",
         "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 166487,
       "name": "Banger Hart",
       "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Dat Heb Jij Gedaan (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Dat Heb Jij Gedaan - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "City Streets",
         "url": "https://open.spotify.com/album/0sXs88sWqgcucXTKC5bV6R"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 213088,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -767,30 +767,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "In Mijn Bloed (feat. Eelco)",
-        "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        },
-        {
-          "name": "Eelco",
-          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "In Mijn Bloed (feat. Eelco)",
-      "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -815,22 +791,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+        "name": "In Mijn Bloed (feat. Eelco)",
+        "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
       "artists": [
         {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
         },
         {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        },
+        {
+          "name": "Eelco",
+          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
         }
       ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
+      "duration_ms": 191174,
+      "name": "In Mijn Bloed (feat. Eelco)",
+      "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -851,6 +831,26 @@
       "duration_ms": 152829,
       "name": "Amalia - Remix",
       "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2026-04-02 22:00:25",

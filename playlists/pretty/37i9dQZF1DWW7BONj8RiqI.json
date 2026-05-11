@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 246385,
+  "num_followers": 246417,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Inch by Inch",
-        "url": "https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        }
-      ],
-      "duration_ms": 189810,
-      "name": "Inch by Inch",
-      "url": "https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Inch by Inch",
+        "url": "https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        }
+      ],
+      "duration_ms": 189810,
+      "name": "Inch by Inch",
+      "url": "https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Bicycle Ride (Soca Remix)",
         "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 172755,
       "name": "Bicycle Ride - Soca Remix",
       "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Bakanation",
-        "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 210755,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Mood (feat. Kes)",
         "url": "https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+        "name": "Bakanation",
+        "url": "https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd"
       },
       "artists": [
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
+      "duration_ms": 210755,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -379,6 +363,22 @@
       "duration_ms": 216405,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "One Piece",
         "url": "https://open.spotify.com/album/0pRL5W4uh3AtHj1s0VG3k4"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 197777,
       "name": "One Piece",
       "url": "https://open.spotify.com/track/3jETcqXegPo67ru7i28Z9E"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "PARDY",
         "url": "https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 201807,
       "name": "Too Own Way",
       "url": "https://open.spotify.com/track/0HSfp7t9CTBjWXDAzMIqt3"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Back Bend (Remix)",
-        "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
-      },
-      "artists": [
-        {
-          "name": "Subance",
-          "url": "https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv"
-        },
-        {
-          "name": "Uncle Ellis",
-          "url": "https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Back Bend (Remix)",
-      "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Back Bend (Remix)",
+        "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
+      },
+      "artists": [
+        {
+          "name": "Subance",
+          "url": "https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv"
+        },
+        {
+          "name": "Uncle Ellis",
+          "url": "https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Back Bend (Remix)",
+      "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 208615,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -783,22 +799,6 @@
       "duration_ms": 196500,
       "name": "Move Out D Way",
       "url": "https://open.spotify.com/track/4XKEKCOyl0aAIuG3n8aD1A"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "One Degree Hotter",
+        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Fling It Up",
+      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 279426,
       "name": "Woman By My Side",
       "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "One Degree Hotter",
-        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 158413,
-      "name": "Fling It Up",
-      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2026-04-23 15:16:37",

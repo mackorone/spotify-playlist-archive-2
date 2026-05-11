@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 572,103 likes - 80 songs - 4 hr 37 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 572,268 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 50 | [Nur von dir geträumt](https://open.spotify.com/track/6rgACeHlUYhnpMexgB7OT5) | [Markus Light](https://open.spotify.com/artist/7ulhJEIvmsYLhkBYste7vH) | [Nur von dir geträumt](https://open.spotify.com/album/31oFFSTaSsz6SmGuPQqNBx) | 3:34 |
 | 51 | [The Great Escape](https://open.spotify.com/track/072RXqSJjwD32MQThcUeAn) | [Jason Zimmerman](https://open.spotify.com/artist/32aOY7csf8fQHk8muv9xuw) | [A Happy Time](https://open.spotify.com/album/3GqeFSVHqxTchaPvSKLIdn) | 3:35 |
 | 52 | [Escopeta de madera](https://open.spotify.com/track/6OqKQDQY8Cau25JuxjkDSY) | [JN's](https://open.spotify.com/artist/1BA6gMxZttc8Pg4S0sKDyt) | [Escopeta de madera](https://open.spotify.com/album/1NjQlw66nOLqLzAAtK1fG0) | 4:55 |
-| 53 | [Big Yellow Moon](https://open.spotify.com/track/0Ccj1mV8Di1KLn1sIHehhC) | [Great Kid Music](https://open.spotify.com/artist/19YVJZBkm8fmN5fjxy0GGJ) | [Calm Preschool Kids Music](https://open.spotify.com/album/1DxbYb8dfL2uzxt9BEMFpT) | 3:01 |
+| 53 | [Big Yellow Moon](https://open.spotify.com/track/0Ccj1mV8Di1KLn1sIHehhC) | [Louise Byrne](https://open.spotify.com/artist/5ZorT5fBXl3vsWIIAHgmHR) | [Calm Preschool Kids Music](https://open.spotify.com/album/1DxbYb8dfL2uzxt9BEMFpT) | 3:01 |
 | 54 | [Deep Down In The Sea](https://open.spotify.com/track/0DyQ2VqwQHnq8Db3ZJrybT) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Deep Down In The Sea](https://open.spotify.com/album/116ALQAcW7SQwtEe3FTWqL) | 2:56 |
 | 55 | [Te Toco Mala Suerte](https://open.spotify.com/track/7sqNIkfIvCmagaPK7hN0Ae) | [Tamarindo Norteño](https://open.spotify.com/artist/08iGmnBkoG9wJxPUtoGX8n) | [Te Toco Mala Suerte](https://open.spotify.com/album/6N4kxXzR3yIgUaQSLhU8KP) | 2:39 |
 | 56 | [Move](https://open.spotify.com/track/12joRrjyEY4WNj6OPRIsp3) | [ChoirOfJustice](https://open.spotify.com/artist/6oCHQayElH6O6GCTAVr0CK) | [Move](https://open.spotify.com/album/7D16cyM8llpmuUOuNGN7Vq) | 3:31 |

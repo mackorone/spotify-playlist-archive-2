@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: Solmee\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,363 likes - 17 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,361 likes - 17 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

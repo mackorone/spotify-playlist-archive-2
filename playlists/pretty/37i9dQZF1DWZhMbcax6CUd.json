@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 74363,
+  "num_followers": 74385,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
-        "url": "https://open.spotify.com/album/25tKiRUbUwyTlioCEkUlJa"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
-      "url": "https://open.spotify.com/track/5tHYQVKJKHigdqhck97vih"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
         "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 554386,
       "name": "Piano trio in a minor: Mod\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
+        "url": "https://open.spotify.com/album/25tKiRUbUwyTlioCEkUlJa"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
+      "url": "https://open.spotify.com/track/5tHYQVKJKHigdqhck97vih"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
-      "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Faur\u00e9: Requiem / Debussy: Trois chansons de Charles d'Orl\u00e9ans / Saint-Sa\u00ebns: Calme des nuits",
         "url": "https://open.spotify.com/album/72eYD8YvnXKbKyXu8ZnSbV"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 201000,
       "name": "3 Chansons, M. 69: No. 2, Trois beaux oiseaux du Paradis",
       "url": "https://open.spotify.com/track/3U34uG4BRoMb0lrlrOhtxC"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
+      "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
     },
     {
       "added_at": "2025-12-22 11:30:42",

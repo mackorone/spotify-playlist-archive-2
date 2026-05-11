@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7743,
+  "num_followers": 7744,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADAG0FQklvtyaYCYG2KFNSI",
+  "snapshot_id": "af55AAAAAACyEM7oF+u04IpfvOwm58S6",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bubra",
-        "url": "https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        },
-        {
-          "name": "Ateaa Tina",
-          "url": "https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx"
-        }
-      ],
-      "duration_ms": 275013,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/1nbapexUS9pgxFCEfgUmLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
       },
@@ -223,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ko Hye Po",
-        "url": "https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Ye Ne Wo Sere Kwa",
-      "url": "https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bubra",
         "url": "https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd"
       },
@@ -252,9 +216,25 @@
           "url": "https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx"
         }
       ],
-      "duration_ms": 241027,
-      "name": "Bubra",
-      "url": "https://open.spotify.com/track/0UNYnguChXs6BQPWgCTlhs"
+      "duration_ms": 275013,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/1nbapexUS9pgxFCEfgUmLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ko Hye Po",
+        "url": "https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Ye Ne Wo Sere Kwa",
+      "url": "https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy"
     },
     {
       "added_at": null,
@@ -291,6 +271,26 @@
       "duration_ms": 327906,
       "name": "Enti Se Adee Ankye Me'a",
       "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bubra",
+        "url": "https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Ateaa Tina",
+          "url": "https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx"
+        }
+      ],
+      "duration_ms": 241027,
+      "name": "Bubra",
+      "url": "https://open.spotify.com/track/0UNYnguChXs6BQPWgCTlhs"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awarepa Ye Anibre",
-        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+        "name": "Awoso\u0254",
+        "url": "https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 372840,
-      "name": "Eye N'adom",
-      "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
+      "duration_ms": 353960,
+      "name": "Y\u025b Nea Woho B3t\u0254 Wo - Yentie Obiaa",
+      "url": "https://open.spotify.com/track/2gNwDM9tIkcNibBlRZzhtO"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 372840,
+      "name": "Eye N'adom",
+      "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aben Wo Aha",
         "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 289960,
       "name": "Se Wo Da Ento Pono Mu",
       "url": "https://open.spotify.com/track/7EqpMSnnxLC9gECCX5Y6MJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awoso\u0254",
-        "url": "https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 353960,
-      "name": "Y\u025b Nea Woho B3t\u0254 Wo - Yentie Obiaa",
-      "url": "https://open.spotify.com/track/2gNwDM9tIkcNibBlRZzhtO"
     },
     {
       "added_at": null,

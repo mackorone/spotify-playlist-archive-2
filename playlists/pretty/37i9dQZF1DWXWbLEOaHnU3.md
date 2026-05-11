@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,491 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,510 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 21 | [Ameno](https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8) | [I.GOT.U](https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ), [RAVE\-N](https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe) | [Ameno](https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT) | 2:36 |
 | 22 | [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 |
 | 23 | [Be Right \- Asgard Remix](https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Ritmo](https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT), [Asgard](https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e) | [Be Right](https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x) | 8:20 |
-| 24 | [Lux](https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Lux](https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH) | 5:30 |
-| 25 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
+| 24 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
+| 25 | [Lux](https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Lux](https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH) | 5:30 |
 | 26 | [Sympathize](https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Davee](https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2), [Ela](https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj) | [Sympathize](https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk) | 5:08 |
 | 27 | [You Make Me Feel \- Radio Version](https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [You Make Me Feel](https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug) | 2:39 |
 | 28 | [All One](https://open.spotify.com/track/3qKMjxwl4vD042sGUDzTpx) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Volcano On Mars](https://open.spotify.com/artist/4zQwbmuw1EcxLjA4ItvWk4) | [All One](https://open.spotify.com/album/2lKHitO3IUyPXcHJDoJ29g) | 3:43 |

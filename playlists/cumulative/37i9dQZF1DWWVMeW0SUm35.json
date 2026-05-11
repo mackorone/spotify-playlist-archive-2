@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -724,6 +742,24 @@
       "duration_ms": 221293,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/1rtzABisO0N3DL9S3WQ2Z1"
+    },
+    {
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
     },
     {
       "album": {
@@ -1497,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "Fracture",
+      "url": "https://open.spotify.com/track/1dzp7lsgNDCg2NQJyIwaZz"
+    },
+    {
+      "album": {
         "name": "La Sena Ave",
         "url": "https://open.spotify.com/album/5aCfoKLjtAO1EwD0zNxlCp"
       },
@@ -1552,6 +1614,24 @@
       "duration_ms": 265160,
       "name": "Gallows",
       "url": "https://open.spotify.com/track/4xGnlF12j9XklgOJ8QRPfE"
+    },
+    {
+      "album": {
+        "name": "Game Time",
+        "url": "https://open.spotify.com/album/12W3973nhiFVbHaSi2LTE9"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97075,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN"
     },
     {
       "album": {
@@ -3489,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "When You Go (That's When You'll Know)",
+        "url": "https://open.spotify.com/album/1O2MK8o6GLBUYCpQsqZ0jO"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226134,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1ViQlP26zTlc9hYOMAwbhp"
+    },
+    {
+      "album": {
         "name": "...And Then There Was X",
         "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
       },
@@ -4576,6 +4674,24 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
+    },
+    {
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "The Master's Call",
+      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70016,
+  "num_followers": 70015,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAACHJskcX5W76l0xqrDYmbyZ",
+  "snapshot_id": "af55AAAAAABS6vj+7gZrIuYCw3W+NIg1",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/7BDD1ypAILYMZMYPPEqDaG"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 251214,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/6Crk5GPplILAw0vUiEILuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cama (Remix)",
         "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 267241,
       "name": "Fantasias - Remix",
       "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/7BDD1ypAILYMZMYPPEqDaG"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 251214,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/6Crk5GPplILAw0vUiEILuD"
     },
     {
       "added_at": null,
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 215000,
-      "name": "ENERO",
-      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
+      "duration_ms": 152000,
+      "name": "TBC",
+      "url": "https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo"
     },
     {
       "added_at": null,

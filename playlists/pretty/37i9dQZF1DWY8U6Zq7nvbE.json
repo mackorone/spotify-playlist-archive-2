@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2464675,
+  "num_followers": 2464855,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 220241,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/2EewwLUoTMjlBxexUZzUCm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 147222,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/4Ut1VfHTAInGyjdzX3gDqZ"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
     },
     {
       "added_at": "2026-03-19 12:18:11",

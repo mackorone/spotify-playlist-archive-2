@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,234 songs - 3 day 0 hr 46 min
+1,235 songs - 3 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/40DhQ5cNina0ZMeS8GMC8O) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/album/1eyxkpJPEvXdJ3puCYac8u) | 3:44 | 2024-08-21 | 2024-09-19 |
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/5B9pSYUOuY2CMaLedqpvXI) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:44 | 2024-10-02 | 2024-11-07 |
 | [LIME](https://open.spotify.com/track/3AlFbHf3ftf9JAiMf1KpOw) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [LIME](https://open.spotify.com/album/5J1FvWkGaI4ZT6AK8gisU8) | 4:10 | 2024-12-03 | 2024-12-18 |
+| [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 | 2026-05-09 |  |
 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-06-11 | 2025-10-02 |
 | [Live It Up \(High Tide\)](https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Live It Up \(High Tide\)](https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3) | 2:34 | 2023-10-10 | 2024-01-19 |
 | [Loa](https://open.spotify.com/track/1Y9CRlWO9wpEuPgo3yFyOJ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:44 | 2024-04-02 | 2024-04-19 |
@@ -724,7 +725,7 @@
 | [one summer love](https://open.spotify.com/track/3fvXXLcvtFfeVVYaAXJhAg) | [K E I\_H A Y A S H I](https://open.spotify.com/artist/4fQ023lP2bX27W1YYw9DIc) | [one summer love](https://open.spotify.com/album/6BUYn2vAxX2Uw3ojEe264N) | 2:56 | 2023-08-01 | 2023-08-18 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2024-07-30 | 2025-04-05 |
 | [Only](https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Only](https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE) | 2:49 | 2023-09-14 | 2023-11-30 |
-| [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 | 2026-04-15 |  |
+| [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 | 2026-04-15 | 2026-05-11 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-10-20 | 2023-01-13 |
 | [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-28 | 2023-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |

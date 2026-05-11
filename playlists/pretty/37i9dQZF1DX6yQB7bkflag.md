@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,567 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,564 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 22 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |
 | 23 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
 | 24 | [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 |
-| 25 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:14 |
+| 25 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:22 |
 | 26 | [kl bkn aq](https://open.spotify.com/track/4DGT3qY4iXviC26sRVqTm1) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [kl bkn aq](https://open.spotify.com/album/1mnOFlK3qZo44M0qkptpKV) | 1:38 |
 | 27 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 |
 | 28 | [Not Your Drug](https://open.spotify.com/track/2uTLxUasBF5a9t80oXzBMp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Not Your Drug](https://open.spotify.com/album/6wy7po6NpxwqKUVpBdSmVz) | 3:01 |

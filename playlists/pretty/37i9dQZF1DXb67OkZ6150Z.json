@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303871,
+  "num_followers": 303881,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Coastline (Vancouver Sleep Clinic Remix)",
         "url": "https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 186990,
       "name": "Coastline - Vancouver Sleep Clinic Remix",
       "url": "https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1343,18 +1343,26 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
       "artists": [
         {
-          "name": "Victoria Bigelow",
-          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
         }
       ],
-      "duration_ms": 258665,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
+      "duration_ms": 172500,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1391,26 +1399,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "Victoria Bigelow",
+          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
+      "duration_ms": 258665,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 275686,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": "2026-03-06 05:00:19",

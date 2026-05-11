@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Namasenda✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,493 likes - 265 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,491 likes - 265 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

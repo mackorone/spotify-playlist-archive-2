@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1879934,
+  "num_followers": 1879864,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Yo Deluxe",
-        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "DJ Buddha",
-          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
-        }
-      ],
-      "duration_ms": 208774,
-      "name": "Es Un Secreto",
-      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "Yo Deluxe",
+        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "duration_ms": 208774,
+      "name": "Es Un Secreto",
+      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
     },
     {
       "added_at": "2026-05-08 04:03:11",

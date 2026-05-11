@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132680,
+  "num_followers": 132683,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,22 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
-        "name": "Joku johon nojata",
-        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
       "artists": [
         {
-          "name": "Jenni Vartiainen",
-          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
         }
       ],
-      "duration_ms": 201073,
-      "name": "Joku johon nojata",
-      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
       "added_at": "2026-05-07 21:00:43",
@@ -607,22 +611,18 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+        "name": "Joku johon nojata",
+        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
       },
       "artists": [
         {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
         }
       ],
-      "duration_ms": 170343,
-      "name": "Se ei mennyt niin",
-      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
+      "duration_ms": 201073,
+      "name": "Joku johon nojata",
+      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
     },
     {
       "added_at": "2026-05-07 21:00:43",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-05-07 21:00:43",
-      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175609,
       "name": "Kuka nauraa nyt",
       "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
+    },
+    {
+      "added_at": "2026-05-07 21:00:43",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
     },
     {
       "added_at": "2026-05-07 21:00:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
-        "name": "Hullu nainen",
-        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Hullu nainen",
-      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
-    },
-    {
-      "added_at": "2026-05-07 21:00:43",
-      "album": {
         "name": "Sitke\u00e4 sissi",
         "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
+        "name": "Hullu nainen",
+        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Hullu nainen",
+      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-05-07 21:00:43",
+      "album": {
         "name": "Tilaisuus teki varkaan",
         "url": "https://open.spotify.com/album/2hl0rmxAKNhcBSruMnLBpN"
       },
@@ -1123,6 +1123,42 @@
       "duration_ms": 219169,
       "name": "Tilaisuus teki varkaan",
       "url": "https://open.spotify.com/track/6Sa7iRnnkQEXkRsh2e5MfO"
+    },
+    {
+      "added_at": "2026-05-07 21:00:43",
+      "album": {
+        "name": "Kun elet\u00e4\u00e4n ei pel\u00e4t\u00e4",
+        "url": "https://open.spotify.com/album/4th34kzmJw2aYPxaD2ik9H"
+      },
+      "artists": [
+        {
+          "name": "Pasi ja Anssi",
+          "url": "https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt"
+        },
+        {
+          "name": "Kake Randelin",
+          "url": "https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Kun elet\u00e4\u00e4n ei pel\u00e4t\u00e4",
+      "url": "https://open.spotify.com/track/4Y5HT2KcbkcEGqnznCO66Y"
+    },
+    {
+      "added_at": "2026-05-07 21:00:43",
+      "album": {
+        "name": "Cokis ja Mentos",
+        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
+      },
+      "artists": [
+        {
+          "name": "Mira Luoti",
+          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Cokis ja Mentos",
+      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
     },
     {
       "added_at": "2026-05-07 21:00:43",
@@ -1147,18 +1183,38 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
-        "name": "Cokis ja Mentos",
-        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
       },
       "artists": [
         {
-          "name": "Mira Luoti",
-          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
         }
       ],
-      "duration_ms": 167293,
-      "name": "Cokis ja Mentos",
-      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-05-07 21:00:43",
+      "album": {
+        "name": "Vitun Inee",
+        "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 178047,
+      "name": "Vitun Inee",
+      "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
     },
     {
       "added_at": "2026-05-07 21:00:43",
@@ -1199,42 +1255,6 @@
     {
       "added_at": "2026-05-07 21:00:43",
       "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
-    },
-    {
-      "added_at": "2026-05-07 21:00:43",
-      "album": {
-        "name": "Kun elet\u00e4\u00e4n ei pel\u00e4t\u00e4",
-        "url": "https://open.spotify.com/album/4th34kzmJw2aYPxaD2ik9H"
-      },
-      "artists": [
-        {
-          "name": "Pasi ja Anssi",
-          "url": "https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt"
-        },
-        {
-          "name": "Kake Randelin",
-          "url": "https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Kun elet\u00e4\u00e4n ei pel\u00e4t\u00e4",
-      "url": "https://open.spotify.com/track/4Y5HT2KcbkcEGqnznCO66Y"
-    },
-    {
-      "added_at": "2026-05-07 21:00:43",
-      "album": {
         "name": "Carolina Herrera (feat. VilleGalle)",
         "url": "https://open.spotify.com/album/18gxa8D3F2DP27Hax1rBPC"
       },
@@ -1251,22 +1271,6 @@
       "duration_ms": 181466,
       "name": "Carolina Herrera (feat. VilleGalle)",
       "url": "https://open.spotify.com/track/5mBwJ2eCKsY4iCk7W7Jbln"
-    },
-    {
-      "added_at": "2026-05-07 21:00:43",
-      "album": {
-        "name": "Alkemia / Showbisn\u20acs",
-        "url": "https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk"
-      },
-      "artists": [
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Alkemia",
-      "url": "https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN"
     }
   ],
   "unique_name": "#vainsuomihitit",

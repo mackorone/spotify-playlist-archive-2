@@ -4,7 +4,7 @@
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-94 songs - 10 hr 51 min
+95 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Estado De Graça \(feat\. Nívea Soares\) \- Ao Vivo](https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto no Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT) | 4:45 | 2024-06-04 |  |
 | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN) | 11:03 | 2023-07-10 | 2024-08-11 |
 | [Eu Cantarei](https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO) | 4:04 | 2023-11-10 | 2026-04-27 |
+| [Eu Cantarei](https://open.spotify.com/track/71wmdhwrGHhlvqxP3ERD9i) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/1IN28y3send51GKeLuJnEs) | 4:04 | 2026-05-11 |  |
 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 | 2023-07-10 |  |
 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 | 2023-11-10 | 2024-03-28 |
 | [Filho do Deus Vivo \(feat\. Nívea Soares\)](https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Som da Liberdade 2.0](https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr) | 5:05 | 2023-07-10 |  |
@@ -81,7 +82,7 @@
 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 | 2024-04-12 |  |
 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 | 2023-07-10 |  |
 | [Reina Sobre Mim](https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reina Sobre Mim](https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL) | 6:28 | 2023-07-10 |  |
-| [Rio \- Ao Vivo](https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio \(Ao Vivo\)](https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc) | 8:31 | 2025-05-15 |  |
+| [Rio \- Ao Vivo](https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio \(Ao Vivo\)](https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc) | 8:31 | 2025-05-15 | 2026-05-11 |
 | [Ruja o Leão \- MËDNA \- Remix](https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD) | [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão \- MËDNA Remix](https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq) | 2:48 | 2024-08-03 |  |
 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 | 2023-07-10 |  |
 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 | 2023-07-10 |  |

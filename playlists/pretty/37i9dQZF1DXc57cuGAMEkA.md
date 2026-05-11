@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Charli xcx, Madison Beer, Chris Brown, Kesha and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,276 likes - 92 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,272 likes - 92 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

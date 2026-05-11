@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren &amp; Olive Anguz
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 259,528 likes - 397 songs - 20 hr 49 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 259,509 likes - 397 songs - 20 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

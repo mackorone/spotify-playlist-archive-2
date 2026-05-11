@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,573 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,589 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 14 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
 | 15 | [1 Team](https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [1 Team](https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk) | 3:18 |
 | 16 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
-| 17 | [Rebel Baby \- Potato Remix](https://open.spotify.com/track/5F31rHUu95XlySioIqSnSP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Potato](https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV) | [Rebel Baby \(Potato Remix\)](https://open.spotify.com/album/3R1B6UoXntXxILHzykAABQ) | 2:29 |
-| 18 | [Kali \- Outsiders Remix](https://open.spotify.com/track/4MK2iIz8chhPMWORvUfzzF) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali \(Outsiders Remix\)](https://open.spotify.com/album/7B4JAdcj0x4RxJyGdY9pUp) | 4:09 |
+| 17 | [Kali \- Outsiders Remix](https://open.spotify.com/track/4MK2iIz8chhPMWORvUfzzF) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali \(Outsiders Remix\)](https://open.spotify.com/album/7B4JAdcj0x4RxJyGdY9pUp) | 4:09 |
+| 18 | [Rebel Baby \- Potato Remix](https://open.spotify.com/track/5F31rHUu95XlySioIqSnSP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Potato](https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV) | [Rebel Baby \(Potato Remix\)](https://open.spotify.com/album/3R1B6UoXntXxILHzykAABQ) | 2:29 |
 | 19 | [Het Zwarte Schaap \(feat\. De Kraaien\)](https://open.spotify.com/track/3vkadfj0xElWQs4nw6eQKC) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [The Darkraver](https://open.spotify.com/artist/60TVEmoDz6TGnmT1LL7hNw), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Het Zwarte Schaap \(feat\. De Kraaien\)](https://open.spotify.com/album/0YYEQHcohTupHQfHjU4DjI) | 3:04 |
 | 20 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
 | 21 | [Dromendans \(Outsiders Remix\)](https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Dromendans \(Outsiders Remix\)](https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebls 4 Life](https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebls 4 Life](https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP) | 3:31 |
 | 50 | [Hardcore Junky \(One With The Bass\)](https://open.spotify.com/track/71zqC71ELEnE5Byl25FzTj) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [DJ E\-Maxx](https://open.spotify.com/artist/4LrX3f6sIkAGgT15T2QT1G) | [Hardcore Junky \(One With The Bass\)](https://open.spotify.com/album/06U5ViOnS9ZeVT4tZQFq8q) | 2:26 |
 
-Snapshot ID: `af0ngAAAAAAjyMcKmvZgn2VKlNtuisIw`
+Snapshot ID: `af55AAAAAAAZ0f1iNYvLnLAXfCIXd/G2`

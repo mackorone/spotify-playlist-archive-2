@@ -1,6 +1,6 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13382,
+  "num_followers": 13381,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Fotografie",
-        "url": "https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ"
-      },
-      "artists": [
-        {
-          "name": "Garbo",
-          "url": "https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso"
-        }
-      ],
-      "duration_ms": 247465,
-      "name": "Cose Veloci",
-      "url": "https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Rockmantic Collection",
         "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 220293,
       "name": "La bottega del caffe'",
       "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Fotografie",
+        "url": "https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ"
+      },
+      "artists": [
+        {
+          "name": "Garbo",
+          "url": "https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso"
+        }
+      ],
+      "duration_ms": 247465,
+      "name": "Cose Veloci",
+      "url": "https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B"
     },
     {
       "added_at": "2026-01-25 23:01:07",

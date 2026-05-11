@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Andien
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,204 likes - 98 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,208 likes - 98 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 |
-| 2 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:14 |
+| 2 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:22 |
 | 3 | [Not The Same](https://open.spotify.com/track/6UfL0ciLvnxzllEHT8mKXF) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Not The Same](https://open.spotify.com/album/0QqJQz2yoBs4ztjlbbsyBt) | 2:41 |
 | 4 | [YOU+ME](https://open.spotify.com/track/7c1ObmHu6H3WCOqx5xJVaS) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [YOU+ME](https://open.spotify.com/album/7ixj9po1vGQmN6twnww4en) | 3:41 |
 | 5 | [Talk To Ya](https://open.spotify.com/track/3MSyncAHpVp8qwbcvNNVLH) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ), [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Citrus](https://open.spotify.com/album/70hWh3H1XXCDE6z4m70XVy) | 3:04 |

@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "20 Seconds",
+        "url": "https://open.spotify.com/album/5OEqnCAK2oapLxlCVSZDDX"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hillen",
+          "url": "https://open.spotify.com/artist/3SOAaZR7eaIsYlAEDliSS4"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157556,
+      "name": "20 Seconds",
+      "url": "https://open.spotify.com/track/26LQZvz3LIOkJzxha3Kgyi"
+    },
+    {
+      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -10272,7 +10290,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 202777,
       "name": "Day Date",
       "url": "https://open.spotify.com/track/7FViXDSLDWw4c0kAcgHP6e"
@@ -12480,7 +12498,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 177257,
       "name": "Droom Soms",
       "url": "https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu"
@@ -26426,7 +26444,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 191428,
       "name": "LONDON",
       "url": "https://open.spotify.com/track/7HQ09lgqX2daz4LaipbF6y"
@@ -30272,7 +30290,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 174179,
       "name": "Netflix",
       "url": "https://open.spotify.com/track/0Xc9gBpLrCbDWM8YdnBaY1"
@@ -33650,7 +33668,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 232173,
       "name": "Paraplu",
       "url": "https://open.spotify.com/track/0bR4GmzkzFVZ32c0mM2WEn"
@@ -49454,7 +49472,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 126976,
       "name": "Zij Hoort Bij Mij",
       "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"
@@ -49694,7 +49712,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
@@ -49882,7 +49900,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

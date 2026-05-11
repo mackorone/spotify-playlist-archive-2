@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,012 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,043 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [Save The Hero](https://open.spotify.com/track/3swS83NB42wHWMLg78XvM7) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Save The Hero](https://open.spotify.com/album/1HtLjUfm2eLtEw23Xm11Yv) | 2:47 |
 | 75 | [Aretha](https://open.spotify.com/track/0Clatxwq8QuhcTTRQgxS7z) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Aretha](https://open.spotify.com/album/7JXd9Aqk4jPIX6wgIZVuYd) | 2:15 |
 
-Snapshot ID: `AAAAAEfnTEYLC4SBhi7QjzvOpW8DNgGa`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

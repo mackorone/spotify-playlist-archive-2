@@ -1,6 +1,6 @@
 {
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
-  "num_followers": 199375,
+  "num_followers": 199376,
   "original_name": "Cornerstones",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-04-25 04:40:10",
       "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d"
-      },
-      "artists": [
-        {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8"
-    },
-    {
-      "added_at": "2026-04-25 04:40:10",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 251200,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6JvEDa0gyoQ6XkmUrLpMwU"
+    },
+    {
+      "added_at": "2026-04-25 04:40:10",
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d"
+      },
+      "artists": [
+        {
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8"
     },
     {
       "added_at": "2026-04-25 04:40:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-25 04:40:10",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0"
-      },
-      "artists": [
-        {
-          "name": "Spoken",
-          "url": "https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB"
-    },
-    {
-      "added_at": "2026-04-25 04:40:10",
-      "album": {
         "name": "DARKNESS BEFORE THE DAWN!",
         "url": "https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191786,
       "name": "DARKNESS BEFORE THE DAWN!",
       "url": "https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6"
+    },
+    {
+      "added_at": "2026-04-25 04:40:10",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0"
+      },
+      "artists": [
+        {
+          "name": "Spoken",
+          "url": "https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB"
     },
     {
       "added_at": "2026-04-25 04:40:10",

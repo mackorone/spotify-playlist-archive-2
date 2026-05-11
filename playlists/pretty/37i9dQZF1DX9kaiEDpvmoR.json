@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93893,
+  "num_followers": 93884,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
         "name": "Honey Honey",
         "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 179444,
       "name": "Honey Honey",
       "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Jack & Coke",
-        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Jack & Coke",
-      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
         "name": "Home to Us",
         "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "Jack & Coke",
+        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Jack & Coke",
+      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
         "name": "P\u00e5 egna ben (feat. Carola)",
         "url": "https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 202425,
       "name": "P\u00e5 egna ben (feat. Carola)",
       "url": "https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "All These Years",
-        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
+        "name": "Praying for a Miracle",
+        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
       },
       "artists": [
         {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+          "name": "Erik Gr\u00f6nwall",
+          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
         }
       ],
-      "duration_ms": 228482,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+      "duration_ms": 226675,
+      "name": "Praying for a Miracle",
+      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Praying for a Miracle",
-        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
+        "name": "All These Years",
+        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
       "artists": [
         {
-          "name": "Erik Gr\u00f6nwall",
-          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 226675,
-      "name": "Praying for a Miracle",
-      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
+      "duration_ms": 228482,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
         "name": "Du & jag & mera tid",
         "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 300360,
-      "name": "Losin' Kind - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -919,6 +903,22 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Losin' Kind - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
         "name": "Last To Know",
         "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 214500,
       "name": "Last To Know",
       "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
-        "name": "EXISTENS",
-        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "EXISTENS",
-      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -967,18 +951,38 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "G\u00f6teborg sjunger Alf",
+        "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
+      },
+      "artists": [
+        {
+          "name": "Anastas\u00eda",
+          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 227246,
+      "name": "T\u00e4nker n\u00e4stan j\u00e4mt p\u00e5 dig",
+      "url": "https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -999,22 +1003,34 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Fredagskv\u00e4llsblues",
-        "url": "https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn"
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
       "artists": [
         {
-          "name": "Anastas\u00eda",
-          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
-        },
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 243026,
-      "name": "Fredagskv\u00e4llsblues",
-      "url": "https://open.spotify.com/track/0VGSiDMjJOHLbEaOMba2IW"
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -1035,18 +1051,22 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+        "name": "Fredagskv\u00e4llsblues",
+        "url": "https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Anastas\u00eda",
+          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
+        },
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
         }
       ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+      "duration_ms": 243026,
+      "name": "Fredagskv\u00e4llsblues",
+      "url": "https://open.spotify.com/track/0VGSiDMjJOHLbEaOMba2IW"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -1087,22 +1107,18 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "G\u00f6teborg sjunger Alf",
-        "url": "https://open.spotify.com/album/1HXPcdjBXNKKfZVVNRBJgT"
+        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
       },
       "artists": [
         {
-          "name": "Anastas\u00eda",
-          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
-        },
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
         }
       ],
-      "duration_ms": 227246,
-      "name": "T\u00e4nker n\u00e4stan j\u00e4mt p\u00e5 dig",
-      "url": "https://open.spotify.com/track/5XoEwzMnMVsKJRhNvPeSDA"
+      "duration_ms": 251000,
+      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -1195,38 +1211,6 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
-        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
-        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
-      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
-        "name": "Older (From the TV series \u201dTystnaden\u201d)",
-        "url": "https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 214712,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
         "name": "N\u00e5nting \u00e4r off",
         "url": "https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 229770,
       "name": "Inner City Ghosts",
       "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "Older (From the TV series \u201dTystnaden\u201d)",
+        "url": "https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 214712,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-05-08 08:32:32",
       "album": {
+        "name": "Aster, atlas",
+        "url": "https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd"
+      },
+      "artists": [
+        {
+          "name": "Sara Parkman",
+          "url": "https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Tre hj\u00e4rtan",
+      "url": "https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 224168,
       "name": "Roses",
       "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
-        "name": "Sunday Love",
-        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 316373,
-      "name": "Sunday Love",
-      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -1435,6 +1435,22 @@
       "duration_ms": 195139,
       "name": "St\u00f6rst av allt",
       "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
+    },
+    {
+      "added_at": "2026-05-08 08:32:32",
+      "album": {
+        "name": "Sunday Love",
+        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 316373,
+      "name": "Sunday Love",
+      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     },
     {
       "added_at": "2026-05-08 08:32:32",
@@ -1483,22 +1499,6 @@
       "duration_ms": 248624,
       "name": "F\u00f6r evigt ny",
       "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
-    },
-    {
-      "added_at": "2026-05-08 08:32:32",
-      "album": {
-        "name": "Andra landskap 50",
-        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "\u00d6stra Svealand (2025)",
-      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
     }
   ],
   "unique_name": "Aktuellt",

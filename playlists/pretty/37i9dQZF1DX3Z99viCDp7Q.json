@@ -1,6 +1,6 @@
 {
   "description": "Special songs for your special day. Cover: Alex Warren and Kouvr Annon \ud83d\udc97",
-  "num_followers": 287634,
+  "num_followers": 287742,
   "original_name": "Wedding Songs",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-25 18:13:37",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ"
-    },
-    {
-      "added_at": "2026-03-25 18:13:37",
-      "album": {
         "name": "The Thing I Love",
         "url": "https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 172636,
       "name": "The Thing I Love",
       "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
+    },
+    {
+      "added_at": "2026-03-25 18:13:37",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ"
     },
     {
       "added_at": "2026-03-25 18:13:37",

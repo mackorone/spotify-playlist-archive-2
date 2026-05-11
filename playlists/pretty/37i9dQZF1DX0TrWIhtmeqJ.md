@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: IZCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,793 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,790 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Whine Am](https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Whine Am](https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky) | 2:56 |
 | 70 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 |
 
-Snapshot ID: `AAAAAB5KDDwblO2S5Sfv+Q9rnTZRT7Pk`
+Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`

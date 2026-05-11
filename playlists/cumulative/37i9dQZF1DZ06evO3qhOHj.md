@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 3 min
+90 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Forever and Back](https://open.spotify.com/track/3AdWEZiqAccgQlWfCoTIi2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE) | 3:39 | 2023-12-13 | 2024-03-06 |
 | [Forever In Our Hearts](https://open.spotify.com/track/2SHGmeRFSgp6xABH8tsOmp) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Forever In Our Hearts](https://open.spotify.com/album/7BtoCu1PGBoSijLUA56G8V) | 4:37 | 2025-02-18 | 2025-05-25 |
 | [Forever In Our Hearts](https://open.spotify.com/track/75hDg01ShKQ817pJzWIebE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Forever In Our Hearts](https://open.spotify.com/album/0nW8iVtU6MxCIu2LIdxc9i) | 4:37 | 2025-02-15 | 2025-02-18 |
+| [Friend of The Working Girl](https://open.spotify.com/track/6ZT2AEc1x7dBHF32vfsktP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \(30th Anniversary Edition\)](https://open.spotify.com/album/7bFDSGXK3yycTj0E6lq5dd) | 4:30 | 2026-05-11 |  |
 | [Goin' Where the Wind Blows](https://open.spotify.com/track/7MvH3ZyA1l72z3XiTFUIEH) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:19 | 2023-12-13 |  |
 | [Good Luck Trying](https://open.spotify.com/track/4JoPj8nwOmUR3Ih1gSNE25) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Good Luck Trying](https://open.spotify.com/album/0pYvl3Eo9TEa4dO8nxjD3H) | 4:05 | 2024-05-24 | 2024-07-18 |
 | [Good Luck Trying](https://open.spotify.com/track/7tB9vlz01OoHthwGM4e3Eq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:05 | 2024-08-15 | 2024-09-30 |
@@ -77,7 +78,7 @@
 | [Take Cover](https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:37 | 2023-12-13 |  |
 | [Tears](https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:20 | 2023-12-13 |  |
 | [The Chain](https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:46 | 2023-12-13 |  |
-| [The Frame](https://open.spotify.com/track/14Cn2Hu9CJvI4FomISSlkw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 3:56 | 2026-04-28 |  |
+| [The Frame](https://open.spotify.com/track/14Cn2Hu9CJvI4FomISSlkw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 3:56 | 2026-04-28 | 2026-05-11 |
 | [The Frame](https://open.spotify.com/track/1MfAMk1x64kkm8GLk2V45G) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 3:56 | 2024-08-10 | 2024-12-11 |
 | [The Whole World's Gonna Know](https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:52 | 2023-12-13 |  |
 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 | 2023-12-13 |  |

@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 169202,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
@@ -1414,10 +1414,28 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 232641,
       "name": "Another Day Old",
       "url": "https://open.spotify.com/track/2eRLna0nT0yyJw8MyYBDMw"
+    },
+    {
+      "album": {
+        "name": "The Years Between",
+        "url": "https://open.spotify.com/album/7zxeGAqygFnfWcpvjzqZrm"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dalton",
+          "url": "https://open.spotify.com/artist/52m47pf0V2dFVHZndwnzTi"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232641,
+      "name": "Another Day Old",
+      "url": "https://open.spotify.com/track/6uEWZtKwC2XlkQ30LEPH5D"
     },
     {
       "album": {
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/2FkLUk8woeuqqmVADmxsDn"
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
@@ -10404,7 +10422,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 177166,
       "name": "Jij Brak Mij Eerst",
       "url": "https://open.spotify.com/track/7ifh5eOXY31vZbECM4zis8"
@@ -12271,6 +12289,24 @@
     },
     {
       "album": {
+        "name": "Love Me When It\u2019s Hard",
+        "url": "https://open.spotify.com/album/3tCjXeSRDZjEzjVu6VUFgr"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217942,
+      "name": "Love Me When It\u2019s Hard",
+      "url": "https://open.spotify.com/track/4iV150czHTon1j121WTvps"
+    },
+    {
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
       },
@@ -13710,7 +13746,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -18521,6 +18557,24 @@
     },
     {
       "album": {
+        "name": "Where the Hurt Lives",
+        "url": "https://open.spotify.com/album/04CFDwkZtJvqjOiPmzX2Xt"
+      },
+      "artists": [
+        {
+          "name": "Benny Rivers",
+          "url": "https://open.spotify.com/artist/1UI0cS95WID10PRHi4lJlh"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269567,
+      "name": "Step by Step in Time",
+      "url": "https://open.spotify.com/track/4af3PAYs7mAsQbc2Gw5jRx"
+    },
+    {
+      "album": {
         "name": "Stil De Tijd",
         "url": "https://open.spotify.com/album/0st5sS8GV2koKCNXhJF8Vp"
       },
@@ -18608,7 +18662,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 246568,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/3ryFNcyiv9QCs3MldJGjux"
@@ -20288,7 +20342,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
@@ -23446,7 +23500,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 126976,
       "name": "Zij Hoort Bij Mij",
       "url": "https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP"

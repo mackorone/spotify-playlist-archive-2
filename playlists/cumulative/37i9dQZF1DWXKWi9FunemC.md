@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-434 songs - 1 day 3 hr 44 min
+435 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abba](https://open.spotify.com/track/6VoL4G7Tt9XQXMK6B8BCfg) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Love Secrets](https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM) | 3:42 | 2020-08-31 | 2023-07-29 |
 | [Abba](https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [On the Shores](https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ) | 4:04 | 2020-08-31 | 2024-04-19 |
 | [Abba](https://open.spotify.com/track/4LdNy84s0Q7xjaEWbU1JAs) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [On the Shores](https://open.spotify.com/album/5wI9V5pyCGvu75B2PzlU1o) | 4:04 | 2020-08-31 | 2022-07-29 |
+| [Abide](https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V) | [Christopher Tung](https://open.spotify.com/artist/406aHYogHqGV0CKeLMLlUb), [Cade Kellam](https://open.spotify.com/artist/1GWnsRvGpSmKxHOjMQah4k) | [Abide](https://open.spotify.com/album/3nrLBnxj1hvWBRkmKgUcor) | 2:25 | 2026-04-17 |  |
 | [Abide](https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Abide](https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR) | 3:01 | 2024-06-23 | 2025-08-07 |
 | [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 | 2026-03-23 |  |
 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 | 2025-12-12 |  |
@@ -238,7 +239,7 @@
 | [LOVER](https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [LOVER](https://open.spotify.com/album/3NkS2GvxK92mCRj3uZqUeE) | 2:40 | 2025-12-12 |  |
 | [Low](https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q) | [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Low](https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB) | 3:39 | 2020-08-31 | 2023-04-23 |
 | [Lungs](https://open.spotify.com/track/5tSsKHQzt8dvT4eV39KKDw) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Lungs](https://open.spotify.com/album/1dWwbxrrxZYK8pSdmgglBC) | 3:24 | 2026-04-17 |  |
-| [Mad for Me](https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt) | [McKenna Faith](https://open.spotify.com/artist/2J5ZG3xD6VTCBOXnpn8r2B) | [Mad for Me](https://open.spotify.com/album/2VaCUhVcb71igNGAVywnAa) | 3:30 | 2025-12-12 |  |
+| [Mad for Me](https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt) | [McKenna Faith](https://open.spotify.com/artist/2J5ZG3xD6VTCBOXnpn8r2B) | [Mad for Me](https://open.spotify.com/album/2VaCUhVcb71igNGAVywnAa) | 3:30 | 2025-12-12 | 2026-05-11 |
 | [Magnified \(Acoustic\)](https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified \(Acoustic\)](https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4) | 3:31 | 2020-08-31 | 2024-08-03 |
 | [Majesty](https://open.spotify.com/track/3E9U2sZ8cqCCVrPzJ6KGDq) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Majesty](https://open.spotify.com/album/5iRJ5hu2x25swvNmHOkYV6) | 3:17 | 2024-06-23 | 2024-08-03 |
 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 | 2025-10-10 |  |

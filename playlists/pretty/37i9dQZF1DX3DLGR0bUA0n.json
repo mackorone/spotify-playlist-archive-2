@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Arkangel Musical de Tierra Caliente en portada. ",
-  "num_followers": 93874,
+  "num_followers": 93921,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+      },
+      "artists": [
+        {
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
         "name": "Made in Michoacan",
         "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 145124,
       "name": "Con Cartitas y Palabras",
       "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2026-03-27 06:00:15",

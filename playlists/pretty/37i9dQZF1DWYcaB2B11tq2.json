@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Jes\u00fas Adri\u00e1n Romero",
-  "num_followers": 510360,
+  "num_followers": 510466,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "El Dios De Lo Imposible",
-        "url": "https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
-        }
-      ],
-      "duration_ms": 282826,
-      "name": "Esta Cayendo",
-      "url": "https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Suelto",
         "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 261213,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "El Dios De Lo Imposible",
+        "url": "https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "duration_ms": 282826,
+      "name": "Esta Cayendo",
+      "url": "https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 287268,
-      "name": "Eres Mi Dueno",
-      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 287268,
+      "name": "Eres Mi Dueno",
+      "url": "https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Dios de Lo Imposible",
-        "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
-      },
-      "artists": [
-        {
-          "name": "Victor Flores",
-          "url": "https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ"
-        }
-      ],
-      "duration_ms": 472946,
-      "name": "Dios de Lo Imposible",
-      "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Raised to Deliver (Live)",
         "url": "https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 119958,
       "name": "Eres Todopoderoso (Live)",
       "url": "https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Dios de Lo Imposible",
+        "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
+      },
+      "artists": [
+        {
+          "name": "Victor Flores",
+          "url": "https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ"
+        }
+      ],
+      "duration_ms": 472946,
+      "name": "Dios de Lo Imposible",
+      "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Vuelve a So\u00f1ar - EP",
-        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
-      },
-      "artists": [
-        {
-          "name": "Vito Vasquez",
-          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
-        },
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 222229,
-      "name": "Llegare (Remastered) [feat. Zeri]",
-      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Le Pertenezco",
         "url": "https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 226040,
       "name": "Le Pertenezco",
       "url": "https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Vuelve a So\u00f1ar - EP",
+        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
+      },
+      "artists": [
+        {
+          "name": "Vito Vasquez",
+          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 222229,
+      "name": "Llegare (Remastered) [feat. Zeri]",
+      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Dios Est\u00e1 en Control 2.0",
-        "url": "https://open.spotify.com/album/2izTsmQHPf6BV4snaHjKGk"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Dios Est\u00e1 en Control - Radio Master",
-      "url": "https://open.spotify.com/track/2PQEIqYiwLbQAT3k70Lkd2"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Me Sumerjo en Ti",
         "url": "https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 202386,
       "name": "Me Sumerjo en Ti",
       "url": "https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Dios Est\u00e1 en Control 2.0",
+        "url": "https://open.spotify.com/album/2izTsmQHPf6BV4snaHjKGk"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Dios Est\u00e1 en Control - Radio Master",
+      "url": "https://open.spotify.com/track/2PQEIqYiwLbQAT3k70Lkd2"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Me enamor\u00e9",
-        "url": "https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4BBUsdtyMbVF0DcE2pYRrs"
       },
       "artists": [
         {
-          "name": "Jonathan Gim\u00e9nez",
-          "url": "https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G"
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 246015,
-      "name": "Me enamor\u00e9",
-      "url": "https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai"
+      "duration_ms": 259139,
+      "name": "Asi Como Soy",
+      "url": "https://open.spotify.com/track/6hXBcnrby339MIG6sYg532"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

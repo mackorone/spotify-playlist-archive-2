@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  6uff",
-  "num_followers": 189685,
+  "num_followers": 189720,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
+        "name": "KELEBU",
+        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "KELEBU",
+      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 189677,
       "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
       "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
-        "name": "KELEBU",
-        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "KELEBU",
-      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
     },
     {
       "added_at": "2026-05-08 08:40:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 139047,
       "name": "US",
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-05-08 08:40:38",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Usimamane",
-          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
-        }
-      ],
-      "duration_ms": 135248,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 169043,
       "name": "NBA",
       "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "duration_ms": 135248,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB"
     },
     {
       "added_at": "2026-05-08 08:40:38",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 179381,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
         "name": "Olufunmi (The Missing Recipe)",
         "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 192000,
       "name": "Olufunmi (The Missing Recipe)",
       "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 179381,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
     },
     {
       "added_at": "2026-05-08 08:40:38",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
     },
     {
       "added_at": "2026-05-08 08:40:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
-        "name": "BEASTMODE VOL1",
-        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "I DONT CARE",
-      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
+        "name": "BEASTMODE VOL1",
+        "url": "https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
     },
     {
       "added_at": "2026-05-08 08:40:38",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-05-08 08:40:38",
       "album": {
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+    },
+    {
+      "added_at": "2026-05-08 08:40:38",
+      "album": {
         "name": "Modern Fantasy",
         "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 212903,
       "name": "Modern man",
       "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
-    },
-    {
-      "added_at": "2026-05-08 08:40:38",
-      "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": "2026-05-08 08:40:38",

@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: dia",
-  "num_followers": 85555,
+  "num_followers": 85559,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-04-17 13:00:08",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
+        "name": "BUONA DOMENICA",
+        "url": "https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn"
       },
       "artists": [
         {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
         }
       ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
+      "duration_ms": 187254,
+      "name": "BUONA DOMENICA",
+      "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
     },
     {
       "added_at": "2026-04-17 13:00:08",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-04-17 13:00:08",
       "album": {
-        "name": "BUONA DOMENICA",
-        "url": "https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
       },
       "artists": [
         {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
         }
       ],
-      "duration_ms": 187254,
-      "name": "BUONA DOMENICA",
-      "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
+      "duration_ms": 145710,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
       "added_at": "2026-04-22 13:52:11",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-04-17 13:00:08",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/3zx9SPca8Igs9PsN6Yf0xV"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "2 u",
-      "url": "https://open.spotify.com/track/1YllcxF83MuX91skLPWibK"
-    },
-    {
-      "added_at": "2026-04-17 13:00:08",
-      "album": {
         "name": "Ye SUBAH",
         "url": "https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 229977,
       "name": "Ye SUBAH",
       "url": "https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ"
+    },
+    {
+      "added_at": "2026-04-17 13:00:08",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/3zx9SPca8Igs9PsN6Yf0xV"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "2 u",
+      "url": "https://open.spotify.com/track/1YllcxF83MuX91skLPWibK"
     },
     {
       "added_at": "2026-04-17 13:00:08",

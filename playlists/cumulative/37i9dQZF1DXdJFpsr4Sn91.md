@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,188 songs - 2 day 11 hr 19 min
+1,189 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Ennen sua](https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Ennen sua](https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz) | 2:48 | 2026-04-23 |  |
 | [Enola Gay](https://open.spotify.com/track/1mR4aI9Np7l7RUis9CPJD4) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Enola Gay](https://open.spotify.com/album/6crcPY9XaTewuqBwaoeSVU) | 3:35 | 2025-09-11 | 2025-09-26 |
 | [Ensimmäinen rodeo](https://open.spotify.com/track/63bOA2aqFlPVof4vsRgClw) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Ensimmäinen rodeo](https://open.spotify.com/album/4F3MlgDxWZ5f9KnBjvh845) | 3:04 | 2024-11-07 | 2024-12-06 |
-| [Entä jos en pärjääkään](https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Itken jos mua huvittaa](https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5) | 3:58 | 2026-04-23 |  |
+| [Entä jos en pärjääkään](https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Itken jos mua huvittaa](https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5) | 3:58 | 2026-04-23 | 2026-05-11 |
 | [Epic Piano](https://open.spotify.com/track/56Q9zG5CI3capyqlA8oqrd) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [CAMALEÓN](https://open.spotify.com/album/4eHDzz9l9ZhECvt9VRSfoc) | 3:08 | 2025-06-19 | 2025-07-04 |
 | [Epäreilu maailma](https://open.spotify.com/track/3bjBf94QpKfOnXjc6a1tZx) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Epäreilu maailma](https://open.spotify.com/album/1X5AFKgpaJdTWMjAEd7O7e) | 3:25 | 2025-07-03 | 2025-09-05 |
 | [Erityisen hyvä](https://open.spotify.com/track/2tLo3GXozBoluOVweDXQUQ) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Erityisen hyvä](https://open.spotify.com/album/0IQmXpX745a4eFEGtXo9K0) | 2:58 | 2025-04-10 | 2025-06-06 |
@@ -887,6 +887,7 @@
 | [Self\-Love](https://open.spotify.com/track/0Db7tEGdJLe1no7Wi4JBqe) | [Samuel Shipway](https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3) | [Self\-Love](https://open.spotify.com/album/6nCExpfsO9AZQeI94etA9T) | 2:51 | 2026-01-09 | 2026-01-23 |
 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 | 2024-07-04 | 2024-09-13 |
 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 | 2024-09-05 | 2024-10-04 |
+| [Sen piti olla minä](https://open.spotify.com/track/3mLFiXrh5H0Ri8ZNcUdzab) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sen piti olla minä](https://open.spotify.com/album/3QuAfJctcfbyBKs8Bc6rnR) | 3:22 | 2026-05-07 |  |
 | [Senaste tiden](https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:57 | 2024-08-29 | 2024-09-13 |
 | [Sensational](https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F) | 2:50 | 2025-10-09 | 2025-11-07 |
 | [SEROTONIINI](https://open.spotify.com/track/06Yin7sJeK8ePQ2HhkiL7u) | [MAMMA](https://open.spotify.com/artist/45sD2bIEHPx2cM7iEc4e0g) | [SEROTONIINI](https://open.spotify.com/album/6JUQiWHtKAh8vRTil8DTIF) | 3:27 | 2026-04-23 | 2026-05-01 |

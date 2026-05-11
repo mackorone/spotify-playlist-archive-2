@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,463 likes - 305 songs - 16 hr 0 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,469 likes - 310 songs - 16 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,7 +286,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 276 | [Lov Lov](https://open.spotify.com/track/4fEVCH8VsgLXOWRI9B8mbE) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Lov Lov](https://open.spotify.com/album/7p6LhF7FSKnWTwaqTr0uul) | 2:05 |
 | 277 | [Searching](https://open.spotify.com/track/1u57muN2GsTs4IdEk0ss94) | [UDrimmy](https://open.spotify.com/artist/1z4UTJXpmJbT6kgP7hjhMl) | [HER JOURNEY](https://open.spotify.com/album/0zMMja7cjRRlxRsagjTD71) | 2:43 |
 | 278 | [FOOL 4 YOU](https://open.spotify.com/track/4lxq49HEEE7gROp0STWft9) | [NIFTEE](https://open.spotify.com/artist/3EZ8ewBBbUJ3qrc2tY923L) | [FOOL 4 YOU](https://open.spotify.com/album/2wn5jxNLqz41KfThUz8pqD) | 2:51 |
-| 279 | [On Me](https://open.spotify.com/track/00U4CYfH1KwnxWJyZYKDWq) | [Earthplane Music](https://open.spotify.com/artist/2xuFZssbgQwT3YGrfMFk7Q) | [RECONNCETED](https://open.spotify.com/album/05PD2Xa0L7pBopYkfvNRYP) | 2:47 |
+| 279 | [On Me](https://open.spotify.com/track/00U4CYfH1KwnxWJyZYKDWq) | [Earthplane Music](https://open.spotify.com/artist/2xuFZssbgQwT3YGrfMFk7Q) | [RECONNECTED](https://open.spotify.com/album/05PD2Xa0L7pBopYkfvNRYP) | 2:47 |
 | 280 | [wabi\-sabi](https://open.spotify.com/track/4U5Nv4qjZzH81f1eS4cYNR) | [Reptile Room](https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER) | [wabi\-sabi](https://open.spotify.com/album/06HonMJsiBw99yQOt12IxR) | 2:46 |
 | 281 | [Needles](https://open.spotify.com/track/57BmMGiYyTzqSASDwbSmx9) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [Needles](https://open.spotify.com/album/4lc71SG6xvG14OKyOhoivm) | 2:41 |
 | 282 | [Tokyo Afterglow](https://open.spotify.com/track/7lOh4PaDT8A5t1qnl4oJoS) | [Jaxon Cole](https://open.spotify.com/artist/2JisRJorkBb8beMR6vrbo4) | [neon sayonara](https://open.spotify.com/album/7Dbz2Sy41lWdfUpW8HM6CV) | 2:09 |
@@ -313,5 +313,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 303 | [Locally Hated](https://open.spotify.com/track/3jLsuZ3YeUCVFhx17fkj58) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Locally Hated](https://open.spotify.com/album/48QB9f4C5zOR54ICfPUqu8) | 3:18 |
 | 304 | [Don't Give It Away](https://open.spotify.com/track/5BFz0VSMwGqp0lsvHHGp3X) | [Aurora Rising](https://open.spotify.com/artist/5ynYRfVl7ZsgRkFBhNOT9f) | [Don't Give It Away](https://open.spotify.com/album/5dsK4LSE9dd8nipNPmuDFj) | 2:57 |
 | 305 | [Thrill Bomb Denzel \- Remix Remastered](https://open.spotify.com/track/0XU7NTZsKu0C7QmtVqFSXZ) | [Eclipsonic](https://open.spotify.com/artist/1iETsPCa4hU0ET5xPduY8d) | [Thrill Bomb Denzel \(Remix Remastered\)](https://open.spotify.com/album/0PyfnO1bQaxeZfulfUY7uQ) | 2:22 |
+| 306 | [out of my head](https://open.spotify.com/track/1l0se2HFq6JKIiwcpmwZmn) | [grn.sn.](https://open.spotify.com/artist/6EDsLdqZEjsKSNxbSEz1c4) | [out of my head](https://open.spotify.com/album/4JaYYuhyu0ESHA2EM4ti55) | 2:39 |
+| 307 | [Got Me Believing](https://open.spotify.com/track/03zH9EOeDpYyqq7nDv28Sv) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Bobby John](https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD) | [Got Me Believing](https://open.spotify.com/album/2HoOaa8etx8F64haYP45Uj) | 2:21 |
+| 308 | [keep me where it hurts](https://open.spotify.com/track/1XIfxdCKTVHBkOP6ZGZ1bm) | [Alice Arnautova](https://open.spotify.com/artist/4itPnHsGHhhT8yuHwwOKj5) | [Call Me That](https://open.spotify.com/album/32KgO6Rb1J8Qu5AFwSixs5) | 3:15 |
+| 309 | [Red Nails On A Monday](https://open.spotify.com/track/2Pa6b26xQ1wjJ0oD3NDYda) | [Selah Stone](https://open.spotify.com/artist/4KvdzrzAv4feGFhFMulhuX) | [Red Nails On A Monday](https://open.spotify.com/album/4j5mZ18OeLR8MuWfR1CFrx) | 2:09 |
+| 310 | [Sunday in Central Park](https://open.spotify.com/track/4hmMwyrvxM3sB4RSv0vLh3) | [Michael Bryson](https://open.spotify.com/artist/03eL7qthpujl5Si3E14m2g) | [Exile](https://open.spotify.com/album/1ftTiR05RLQTKRGFWNLOUe) | 4:23 |
 
-Snapshot ID: `AAA4E6Y5PkFneO8CkTE9i2na9sgcj/Qw`
+Snapshot ID: `AAA4GNzVxk2xAumNfV9wx/Hm61a3uz9I`

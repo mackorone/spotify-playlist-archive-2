@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,515 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,541 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 51 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 52 | [Kuch To Hua Hai](https://open.spotify.com/track/0Kd2IhGYGYrOATgOOnDBzI) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:19 |
 | 53 | [Ranjha \- Sid X Kiara Wedding Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8), [Shraddha Sehgal](https://open.spotify.com/artist/2TSpFVXo3YR4HCtW0PZHyV), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm) | [Ranjha \(Sid X Kiara Wedding Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:58 |
-| 54 | [Aaj Sajeya](https://open.spotify.com/track/119XDcdbad5u5bp841vUGV) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya](https://open.spotify.com/album/1K1qbVYRTvD4aEYeL2187k) | 3:49 |
-| 55 | [Wada Raha](https://open.spotify.com/track/1qDyykU8pm1PvvO1mqBX8d) | [Arnab Chakraborty](https://open.spotify.com/artist/5g4R0JHd19CuLa3PSiYMWX), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 4:41 |
+| 54 | [Wada Raha](https://open.spotify.com/track/1qDyykU8pm1PvvO1mqBX8d) | [Arnab Chakraborty](https://open.spotify.com/artist/5g4R0JHd19CuLa3PSiYMWX), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 4:41 |
+| 55 | [Aaj Sajeya](https://open.spotify.com/track/119XDcdbad5u5bp841vUGV) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya](https://open.spotify.com/album/1K1qbVYRTvD4aEYeL2187k) | 3:49 |
 | 56 | [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:14 |
 | 57 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 |
 | 58 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |

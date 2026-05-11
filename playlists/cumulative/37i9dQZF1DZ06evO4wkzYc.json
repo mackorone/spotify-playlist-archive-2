@@ -172,6 +172,24 @@
     {
       "album": {
         "name": "Culpables",
+        "url": "https://open.spotify.com/album/1w4MR0JOdHYw7QMWhJTuqQ"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252821,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/2XoKzEPIDorxowyezrPPyv"
+    },
+    {
+      "album": {
+        "name": "Culpables",
         "url": "https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV"
       },
       "artists": [
@@ -200,7 +218,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 252821,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/7fuxXCIXyNeVRNAVScJlsb"

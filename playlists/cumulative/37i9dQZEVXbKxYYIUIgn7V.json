@@ -2655,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Alice (ESC Version)",
+        "url": "https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS"
+      },
+      "artists": [
+        {
+          "name": "Veronica Fusaro",
+          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180024,
+      "name": "Alice - ESC Version",
+      "url": "https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK"
+    },
+    {
+      "album": {
         "name": "My Day In Abades",
         "url": "https://open.spotify.com/album/1jfkj0z77MmGdnG8VNOxbx"
       },
@@ -5652,7 +5670,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 127382,
       "name": "Bar-Mitzvah",
       "url": "https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx"
@@ -21319,6 +21337,24 @@
     },
     {
       "album": {
+        "name": "Glass Of Wine",
+        "url": "https://open.spotify.com/album/1IP58dI5GAaQeWYsLZTxmO"
+      },
+      "artists": [
+        {
+          "name": "DjTexx",
+          "url": "https://open.spotify.com/artist/7tNnlYhxJeZv04CKkJhLLV"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232999,
+      "name": "Glass Of Wine",
+      "url": "https://open.spotify.com/track/2f0dql2WIBHx9R2vH4UbMP"
+    },
+    {
+      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -22046,7 +22082,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 117120,
       "name": "Gule",
       "url": "https://open.spotify.com/track/5g2iGr9SpPuROqy06MRqVe"
@@ -24234,7 +24270,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 109781,
       "name": "Heroes (we could be) x Levels",
       "url": "https://open.spotify.com/track/6tseWiZlvcHioVQHYH4cxc"
@@ -24670,7 +24706,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 207542,
       "name": "Hey mama",
       "url": "https://open.spotify.com/track/7vsEGQTnJC8IHWZSLky8O4"
@@ -28724,7 +28760,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "JALLA",
       "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
@@ -37228,7 +37264,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-11",
       "duration_ms": 194028,
       "name": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
       "url": "https://open.spotify.com/track/0xrjwh7fhJ9KmpoTWcazQW"
@@ -38828,6 +38864,24 @@
       "duration_ms": 182160,
       "name": "My System",
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
+    },
+    {
+      "album": {
+        "name": "My System (Acoustic)",
+        "url": "https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj"
     },
     {
       "album": {
@@ -57814,6 +57868,24 @@
       "duration_ms": 172613,
       "name": "vitamin",
       "url": "https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55"
+    },
+    {
+      "album": {
+        "name": "Viva, Moldova!",
+        "url": "https://open.spotify.com/album/7up0HjHYKsoOCJu9Mlx8x0"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "date_added": "2026-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Viva, Moldova!",
+      "url": "https://open.spotify.com/track/3slA6oMqkypLVUkEjk2xfQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 95673,
+  "num_followers": 95690,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Muchacho De Lujo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song For Zula",
+      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Dear Miss Lonelyhearts",
         "url": "https://open.spotify.com/album/0uQ7R0muujuP3OOu5Q9ZAg"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 230053,
       "name": "While I'm Alive",
       "url": "https://open.spotify.com/track/6wtcxwSJs82tpdeIoj93LF"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "So Good At Being in Trouble",
-      "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
     }
   ],
   "unique_name": "Best of Indie 2013",

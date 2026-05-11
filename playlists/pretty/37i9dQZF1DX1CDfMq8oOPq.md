@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > CADÊ O BONDE DO ESCULACHO?? // Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,221 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,226 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 23 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 24 | [Serena & Venus](https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 3:57 |
 | 25 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
-| 26 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
-| 27 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
+| 26 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
+| 27 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
 | 28 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 29 | [Umami](https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 4:47 |
 | 30 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |

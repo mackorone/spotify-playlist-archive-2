@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 612738,
+  "num_followers": 612700,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Till dig",
+        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Du & jag",
+      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Bones Shake",
         "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Till dig",
-        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Du & jag",
-      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
+      "duration_ms": 173000,
+      "name": "It's a Beautiful Dream",
+      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1031,22 +1047,6 @@
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "It's a Beautiful Dream",
-      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Where Am I?",
-        "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "If You Died Today",
-      "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Where Am I?",
+        "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "If You Died Today",
+      "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Please Like Me",
-        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
       "artists": [
         {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 209206,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1535,22 +1535,6 @@
       "duration_ms": 167843,
       "name": "Deep Down - From the Film \u2018The Abyss\u2019",
       "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1587,34 +1571,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Fragile Thing",
-        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+        "name": "Please Like Me",
+        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
         }
       ],
-      "duration_ms": 168561,
-      "name": "Fragile Thing",
-      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Oh love",
-        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 256047,
-      "name": "Oh love",
-      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+      "duration_ms": 209206,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1635,6 +1603,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 202453,
       "name": "Back To My Roots - Acoustic Version",
       "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
     },
     {
       "added_at": "2026-04-16 22:01:21",

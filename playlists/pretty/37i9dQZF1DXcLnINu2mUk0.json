@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
-  "num_followers": 54347,
+  "num_followers": 54349,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
         "name": "FIM DA NOITE",
         "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 214065,
       "name": "FIM DA NOITE",
       "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        },
-        {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
-        }
-      ],
-      "duration_ms": 193601,
-      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
-      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
         "name": "Chamadas",
         "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
       },
@@ -1131,26 +1111,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
-        "name": "FIM DO NADA",
-        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
       },
       "artists": [
         {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
         }
       ],
-      "duration_ms": 196276,
-      "name": "T\u00f3xico (feat. Ivandro & WIU)",
-      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+      "duration_ms": 193601,
+      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
+      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -1175,6 +1151,30 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 196276,
+      "name": "T\u00f3xico (feat. Ivandro & WIU)",
+      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
       "added_at": "2026-05-07 23:00:55",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-05-07 23:00:55",
       "album": {
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-05-07 23:00:55",
+      "album": {
         "name": "ONE IN A MILLION",
         "url": "https://open.spotify.com/album/3c1vk2G8qt8Dom4NHTmRgC"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 155044,
       "name": "ONE IN A MILLION",
       "url": "https://open.spotify.com/track/5AvjS3c4A5XuNQmCk3nV40"
-    },
-    {
-      "added_at": "2026-05-07 23:00:55",
-      "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-05-07 23:00:55",

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291094,
+  "num_followers": 291078,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Versos e Voos",
-        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 249798,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Versos e Voos",
+        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/6vQIoINz0yzZoGCbC2NE5p"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Summer Groove",
         "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 162985,
       "name": "Qual \u00c9",
       "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Casal de Uma Noite S\u00f3",
-        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 149474,
-      "name": "Casal de Uma Noite S\u00f3",
-      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Casal de Uma Noite S\u00f3",
+        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 149474,
+      "name": "Casal de Uma Noite S\u00f3",
+      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
     },
     {
       "added_at": "2026-02-23 14:14:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57797,
+  "num_followers": 57802,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADru35LTE/4+5Uzvl2SZ9HU",
+  "snapshot_id": "af55AAAAAAA5vUB/OVwhDSAhViqpllOX",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 346038,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampa (Lqra Session #18)",
         "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
@@ -403,30 +427,6 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 346038,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
     },
     {
       "added_at": null,
@@ -687,6 +687,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mala Junta",
+        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 174289,
+      "name": "Mala Junta",
+      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -723,30 +747,6 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mala Junta",
-        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 174289,
-      "name": "Mala Junta",
-      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toques de Queda",
-        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Ultimadamente",
-      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Compas X Vida",
         "url": "https://open.spotify.com/album/0UKBcgFTj9tQvzQBmX7l7m"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 236800,
       "name": "Compas X Vida",
       "url": "https://open.spotify.com/track/6UU8pebY7jf2F6n52bqnui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toques de Queda",
+        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Ultimadamente",
+      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
     },
     {
       "added_at": null,
@@ -1131,6 +1131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 235758,
+      "name": "Juntos de Noche",
+      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 235758,
-      "name": "Juntos de Noche",
-      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
     },
     {
       "added_at": null,
@@ -1311,22 +1311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALANCE [PARTE DOS]",
-        "url": "https://open.spotify.com/album/15oEMpjJsVVnQQRdATYnJN"
+        "name": "Villana",
+        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
       },
       "artists": [
         {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        },
-        {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 198507,
-      "name": "Hag\u00e1moslo",
-      "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
+      "duration_ms": 198787,
+      "name": "Villana",
+      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
     },
     {
       "added_at": null,
@@ -1355,22 +1355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Villana",
-        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
+        "name": "BALANCE [PARTE DOS]",
+        "url": "https://open.spotify.com/album/15oEMpjJsVVnQQRdATYnJN"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 198787,
-      "name": "Villana",
-      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
+      "duration_ms": 198507,
+      "name": "Hag\u00e1moslo",
+      "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
     },
     {
       "added_at": null,

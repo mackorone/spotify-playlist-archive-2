@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,000 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,006 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 43 | [Tempo Novo](https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Cristo Alegria](https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J) | [Tempo Novo](https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ) | 3:37 |
 | 44 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
 | 45 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
-| 46 | [Dançando na Chuva \- Remix](https://open.spotify.com/track/5sh75lzhuAOjIOydFNhTUr) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Dançando na Chuva \(Remix\)](https://open.spotify.com/album/3Q5BZjgvWG9x5mI5OTg1Dg) | 3:13 |
-| 47 | [Imparável](https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj) | 2:43 |
-| 48 | [Nisso Eu Vou Acreditar](https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Luiz Alves Filho](https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2) | [Nisso Eu Vou Acreditar](https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9) | 4:03 |
+| 46 | [Nisso Eu Vou Acreditar](https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Luiz Alves Filho](https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2) | [Nisso Eu Vou Acreditar](https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9) | 4:03 |
+| 47 | [Dançando na Chuva \- Remix](https://open.spotify.com/track/5sh75lzhuAOjIOydFNhTUr) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Dançando na Chuva \(Remix\)](https://open.spotify.com/album/3Q5BZjgvWG9x5mI5OTg1Dg) | 3:13 |
+| 48 | [Imparável](https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj) | 2:43 |
 | 49 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 50 | [Eu Voltei](https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Eliezer Rezende](https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh) | [Eu Voltei](https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD) | 3:11 |
 | 51 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |

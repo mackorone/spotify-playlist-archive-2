@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > manifest x Ajda Pekkan ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,583 likes - 153 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,601 likes - 153 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

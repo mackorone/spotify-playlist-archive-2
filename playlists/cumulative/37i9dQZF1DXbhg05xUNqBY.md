@@ -4,7 +4,7 @@
 
 > Let go and let God.
 
-409 songs - 1 day 3 hr 12 min
+410 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [I Surrender All](https://open.spotify.com/track/3DaufJs6cRVQknTEcCRSdm) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [I Surrender All](https://open.spotify.com/album/6mUo2Ci6XJMvCmtcbyDJ2r) | 2:12 | 2025-04-05 | 2025-06-29 |
 | [I Surrender All](https://open.spotify.com/track/01IvkF4SZD8Obe2rg9H9aK) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [I Surrender All](https://open.spotify.com/album/6Y2tqC4bqSLFn39x15YFTb) | 3:44 | 2025-12-13 |  |
 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 | 2025-04-05 | 2026-03-24 |
+| [I Will Praise](https://open.spotify.com/track/2U2YYBAwlnNZiwNeu3Q0m9) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Caroline Levinson](https://open.spotify.com/artist/2iE2yvcHhaUHH3NrEhY40E) | [I Will Praise](https://open.spotify.com/album/2klbYmOWP4rT7bZbODqXha) | 4:40 | 2026-04-17 |  |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2023-02-07 | 2024-07-27 |
 | [I've Got the Joy, Joy, Joy](https://open.spotify.com/track/5P1nvpBthudTq8frKVtKBu) | [LoFi Hymnal](https://open.spotify.com/artist/1ItKyEP0abW4czYh7txAaN) | [I've Got the Joy, Joy, Joy](https://open.spotify.com/album/3G6kX2s3giA8XEbc27pohl) | 2:59 | 2026-04-17 | 2026-05-09 |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 | 2024-04-19 |
@@ -270,7 +271,7 @@
 | [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 | 2024-07-26 | 2026-03-24 |
 | [Praise](https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Praise](https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs) | 4:38 | 2024-07-26 |  |
 | [Praise \- Acoustic](https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Praise \(Acoustic\)](https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8) | 3:35 | 2024-07-26 |  |
-| [Praise Be](https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Praise Be](https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV) | 4:11 | 2025-04-05 |  |
+| [Praise Be](https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Praise Be](https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV) | 4:11 | 2025-04-05 | 2026-05-11 |
 | [Pray](https://open.spotify.com/track/6jE1iKmQNYgJUWLq3Xk2dM) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Pray](https://open.spotify.com/album/21C4fJssal3r4mmLuuGZgF) | 2:22 | 2025-12-13 | 2026-03-24 |
 | [Pray, Pray, Pray](https://open.spotify.com/track/0taxzffM52DcgsNzwU98a8) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Pray, Pray, Pray](https://open.spotify.com/album/3eGkYjPWt0pBn9vvaUHN8h) | 2:46 | 2025-10-10 | 2026-04-10 |
 | [Prayers Filled With Praises \- ambient](https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Prayers Filled With Praises \(ambient\)](https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F) | 4:06 | 2025-04-05 | 2025-10-11 |

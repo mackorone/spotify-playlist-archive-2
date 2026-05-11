@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Anna Joyce",
-  "num_followers": 245402,
+  "num_followers": 245447,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Akanadja",
-        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 182023,
-      "name": "Akanadja",
-      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "\u00daltima L\u00e1grima",
         "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 242608,
       "name": "\u00daltima L\u00e1grima",
       "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Akanadja",
+        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 182023,
+      "name": "Akanadja",
+      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Ado\u00e7are",
-        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 218229,
-      "name": "Ado\u00e7are",
-      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "Lei 14",
         "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 195239,
       "name": "Lei 14",
       "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Ado\u00e7are",
+        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 218229,
+      "name": "Ado\u00e7are",
+      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "11\u00b0 Ano",
-        "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "Jungle Fever",
         "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
       },
@@ -1195,22 +1179,34 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Conecta",
-        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
+        "name": "11\u00b0 Ano",
+        "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
       },
       "artists": [
         {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 195364,
-      "name": "Conecta",
-      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
+      "duration_ms": 197052,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/6SowTiTBlpo0c8ExyiDsR9"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Alta Seguran\u00e7a",
+        "url": "https://open.spotify.com/album/6P3pnckKSDdFpyBp72HU2P"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 255189,
+      "name": "Alta Seguran\u00e7a",
+      "url": "https://open.spotify.com/track/5aWft6Pe0etzThApCGR5cI"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Alta Seguran\u00e7a",
-        "url": "https://open.spotify.com/album/6P3pnckKSDdFpyBp72HU2P"
+        "name": "Conecta",
+        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
       },
       "artists": [
         {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
         }
       ],
-      "duration_ms": 255189,
-      "name": "Alta Seguran\u00e7a",
-      "url": "https://open.spotify.com/track/5aWft6Pe0etzThApCGR5cI"
+      "duration_ms": 195364,
+      "name": "Conecta",
+      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Lebam",
-        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "Lebam",
-      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "AROMA INSANO",
         "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
@@ -1299,6 +1283,38 @@
       "duration_ms": 150000,
       "name": "AROMA INSANO",
       "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 231061,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Lebam",
+        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "Lebam",
+      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
-      },
-      "artists": [
-        {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
-        }
-      ],
-      "duration_ms": 231061,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1355,30 +1355,6 @@
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        },
-        {
-          "name": "Taliixo Beatz",
-          "url": "https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE"
-        },
-        {
-          "name": "Wiils",
-          "url": "https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1447,6 +1423,30 @@
       "duration_ms": 424716,
       "name": "Versos & Poesias #7: Onda Passageira",
       "url": "https://open.spotify.com/track/4KAn1ENtf2U6bqyF5Mpoaj"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        },
+        {
+          "name": "Taliixo Beatz",
+          "url": "https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE"
+        },
+        {
+          "name": "Wiils",
+          "url": "https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Madalena",
-        "url": "https://open.spotify.com/album/7dznIjW86LBSKDro66TR5a"
-      },
-      "artists": [
-        {
-          "name": "Afroplug",
-          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Madalena",
-      "url": "https://open.spotify.com/track/5uhYUE6Tp9cbuMjNmW3l9g"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "Viver Tudo Hoje",
         "url": "https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 191080,
       "name": "Viver Tudo Hoje",
       "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Madalena",
+        "url": "https://open.spotify.com/album/7dznIjW86LBSKDro66TR5a"
+      },
+      "artists": [
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Madalena",
+      "url": "https://open.spotify.com/track/5uhYUE6Tp9cbuMjNmW3l9g"
     },
     {
       "added_at": "2026-05-07 23:00:52",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-05-07 23:00:52",
       "album": {
-        "name": "Nha Preta",
-        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
-      },
-      "artists": [
-        {
-          "name": "Helio Batalha",
-          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
-        },
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Nha Preta",
-      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
-    },
-    {
-      "added_at": "2026-05-07 23:00:52",
-      "album": {
         "name": "GBB",
         "url": "https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 202986,
       "name": "GBB",
       "url": "https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A"
+    },
+    {
+      "added_at": "2026-05-07 23:00:52",
+      "album": {
+        "name": "Nha Preta",
+        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
+      },
+      "artists": [
+        {
+          "name": "Helio Batalha",
+          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
+        },
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Nha Preta",
+      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
     },
     {
       "added_at": "2026-05-07 23:00:52",

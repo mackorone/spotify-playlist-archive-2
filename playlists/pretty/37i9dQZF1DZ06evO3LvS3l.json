@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 27907,
+  "num_followers": 27927,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAAD6M1T8n0J+Ct++Gduxo9zY",
+  "snapshot_id": "af55AAAAAAB5YLqRnfd3isRflWLgW0rx",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mysterious Rhinestone Cowboy",
-        "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
+        "name": "Crazy Daddy",
+        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 135226,
-      "name": "(If I Could Climb) The Walls of the Bottle",
-      "url": "https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT"
+      "duration_ms": 160680,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Daddy",
-        "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
+        "name": "The Mysterious Rhinestone Cowboy",
+        "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
+      "duration_ms": 135226,
+      "name": "(If I Could Climb) The Walls of the Bottle",
+      "url": "https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Sweet Vibrations (Some Folks Call It Love)",
-      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 197826,
       "name": "Drank My Wife Away",
       "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Sweet Vibrations (Some Folks Call It Love)",
+      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
     },
     {
       "added_at": null,

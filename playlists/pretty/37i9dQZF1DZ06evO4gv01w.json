@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30230,
+  "num_followers": 30227,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af0ngAAAAADm/GuqMYg1PMZuI98I3d8r",
+  "snapshot_id": "af55AAAAAADSkH0XKaKR0ntP4jQJDYJ4",
   "tracks": [
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 205962,
-      "name": "If God Is a Woman",
-      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
+      "duration_ms": 273237,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 273237,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN"
+      "duration_ms": 205962,
+      "name": "If God Is a Woman",
+      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bloom + An Acoustic Companion Vol. 2",
         "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 232901,
       "name": "God's Gonna Cut You Down (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/2POvvcjEVwCmxb6cVrRUfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rainy Day Sessions EP",
-        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
+        "name": "Dirt Does Dylan",
+        "url": "https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T"
       },
       "artists": [
         {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 233066,
-      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
-      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
+      "duration_ms": 287643,
+      "name": "I Shall Be Released (feat. Larkin Poe)",
+      "url": "https://open.spotify.com/track/6lmtoNV7S2U8ETrDgjWZaq"
     }
   ],
   "unique_name": "This Is Larkin Poe",

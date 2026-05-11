@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402172,
+  "num_followers": 402175,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Avril 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ14jEBhhz83P1Bi7lCGZWU+rlSB",
+  "snapshot_id": "AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5",
   "tracks": [
     {
       "added_at": "2026-04-30 22:03:34",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "SAME SH!T",
-        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "SAME SH!T",
-      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "GIRLFRIEND",
         "url": "https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 259053,
       "name": "GIRLFRIEND",
       "url": "https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "SAME SH!T",
+        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Ride Lonesome",
-        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 272878,
-      "name": "Ride Lonesome",
-      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "PELELE",
         "url": "https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 127998,
       "name": "PELELE",
       "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 272878,
+      "name": "Ride Lonesome",
+      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Coquelicot",
-        "url": "https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        },
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Coquelicot",
-      "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "spleen. social club",
         "url": "https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 141373,
       "name": "ciel azur",
       "url": "https://open.spotify.com/track/2mRq38Iw2Wtf5gJyu8Y8bB"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Coquelicot",
+        "url": "https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Coquelicot",
+      "url": "https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB"
     },
     {
       "added_at": "2026-04-30 22:03:34",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-30 22:03:34",
       "album": {
-        "name": "Mwasi Chou",
-        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
-      },
-      "artists": [
-        {
-          "name": "Epoque",
-          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Mwasi Chou",
-      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
-    },
-    {
-      "added_at": "2026-04-30 22:03:34",
-      "album": {
         "name": "mind be so numb",
         "url": "https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
+    },
+    {
+      "added_at": "2026-04-30 22:03:34",
+      "album": {
+        "name": "Mwasi Chou",
+        "url": "https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "Mwasi Chou",
+      "url": "https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte"
     },
     {
       "added_at": "2026-04-30 22:03:34",

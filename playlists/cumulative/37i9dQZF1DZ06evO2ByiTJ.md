@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-83 songs - 6 hr 17 min
+84 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:26 | 2023-07-09 |  |
 | [Dare To Dream Again](https://open.spotify.com/track/1e2weWuLZfxMTUeoSHaqtW) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Dare To Dream Again](https://open.spotify.com/album/6CJnobt6wU5KWV0WSFruR5) | 3:54 | 2024-09-14 | 2024-10-19 |
 | [De Volta à Inocência \(Ao Vivo\)](https://open.spotify.com/track/34B58unZa9JSdvpyNsrF2L) | [Thiago Oliveira](https://open.spotify.com/artist/6s7wHQDwchpij8hPEq2UCM), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [De Volta à Inocência \(Ao Vivo\)](https://open.spotify.com/album/4saHzUxSam805V8nKPWb3m) | 4:27 | 2024-10-04 | 2026-01-21 |
+| [Denuncie](https://open.spotify.com/track/3xt8k1IP83vsD91cvZbIzj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Denuncie](https://open.spotify.com/album/7ikSwlwNN1fKx11e73GfpP) | 3:05 | 2026-05-11 |  |
 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 | 2024-09-21 |  |
 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 | 2023-07-09 |  |
 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 | 2023-07-09 | 2024-07-13 |
@@ -39,7 +40,7 @@
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-08-24 |  |
 | [Fiel a Mim \(Ao Vivo\)](https://open.spotify.com/track/7j8eVpLPPL6NG3BBwAZobo) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Acústico Estações Primavera \- Vitória \(Ao Vivo\)](https://open.spotify.com/album/6l5DCfe748TpFEm9Ly48wD) | 6:48 | 2025-03-01 | 2025-03-02 |
 | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN) | 4:20 | 2024-09-07 | 2026-05-08 |
-| [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 | 2023-08-27 |  |
+| [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 | 2023-08-27 | 2026-05-11 |
 | [Força Santa](https://open.spotify.com/track/1SnT8D0raTV7xo7Cq5yU2y) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Força Santa](https://open.spotify.com/album/4BBOKsTi7lKpkkqzAnowIc) | 5:44 | 2023-07-09 | 2023-08-28 |
 | [Fui Eu](https://open.spotify.com/track/4pWdjzCpYz8xUO9pIBf9vh) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Fui Eu](https://open.spotify.com/album/2VdsOYoru4CWxdAvNxomXs) | 4:02 | 2025-06-12 | 2025-11-21 |
 | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [História Linda de Viver \(Ao Vivo\)](https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt) | 4:42 | 2023-07-09 |  |

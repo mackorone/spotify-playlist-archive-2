@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-334 songs - 17 hr 19 min
+335 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 | 2024-01-26 | 2024-03-16 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [Naughty](https://open.spotify.com/track/6LB6mDGNJVCJ7ZtQDoFwLI) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Naughty](https://open.spotify.com/album/4tMowGKEFfG4GUwIPpgd10) | 1:53 | 2026-04-17 |  |
+| [Naughty](https://open.spotify.com/track/0vInsMdMmLOCrAQkwlymyO) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Naughty](https://open.spotify.com/album/0yEEruerpgU6vBbZlQ9QjA) | 2:54 | 2026-05-01 |  |
 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-31 | 2024-07-16 |
 | [New Phone Who Dis?](https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [New Phone Who Dis?](https://open.spotify.com/album/66dctQsI7Ra8bP5uUJ3eej) | 2:00 | 2024-10-11 | 2024-11-20 |
 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 | 2025-06-06 | 2025-11-08 |
@@ -294,7 +295,7 @@
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-22 | 2025-05-22 |
 | [Techno Cobra](https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Techno Cobra](https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx) | 3:24 | 2024-04-26 | 2024-08-10 |
 | [TECHNO PIEPS](https://open.spotify.com/track/7MBgoczN6RoXUtpuGSKCA5) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb) | [TECHNO PIEPS](https://open.spotify.com/album/1P6nFrFtdvzyBQsOnrbrDP) | 2:10 | 2025-03-21 | 2025-05-28 |
-| [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 |  |
+| [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2026-05-11 |
 | [Tell Me](https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Fairground](https://open.spotify.com/artist/4dQlpFhvkptuBBL8Suvp7E) | [Tell Me](https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW) | 3:17 | 2024-07-05 | 2024-10-12 |
 | [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-20 |  |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2023-12-01 |  |

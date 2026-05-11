@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Buffalo Traffic Jam on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,560 likes - 137 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,570 likes - 137 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

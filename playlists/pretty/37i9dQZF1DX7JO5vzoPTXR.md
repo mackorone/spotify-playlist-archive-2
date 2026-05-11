@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:playlist:37i9dQZF1EFO7Uzjunmbbs">Emily Weisband</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,627 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,650 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Testify](https://open.spotify.com/track/16qsrOYCBZeRKBng4lPFbl) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:49 |
 | 50 | [The Greatest](https://open.spotify.com/track/1oiD5zGVKxlMNCxSUXGL9g) | [We Are KING](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) | [We Are KING](https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7) | 3:15 |
 
-Snapshot ID: `AAAAAIfjyDNUtYUAg9ZKsQ70Z/sJVG3v`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`
