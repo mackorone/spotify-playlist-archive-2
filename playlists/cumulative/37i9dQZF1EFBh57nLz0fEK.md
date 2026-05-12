@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 8 hr 7 min
+153 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ASOBO \-English ver.\-](https://open.spotify.com/track/4bxx8e12FbY0x77AuqOjPu) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [ASOBO \-English ver.\-](https://open.spotify.com/album/3HrYO8vY7K3pAQ59pFrZaV) | 3:01 | 2024-06-07 |  |
 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 | 2024-09-20 |  |
 | [Better Than Ever \(feat\. Rod Wave\)](https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Decided 2](https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ) | 4:03 | 2024-06-07 |  |
-| [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 | 2024-06-07 | 2026-05-11 |
+| [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 | 2024-06-07 |  |
 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 | 2024-08-11 |  |
 | [BLEEDING](https://open.spotify.com/track/1Q44YCmHulLTI61D3IGe2g) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:57 | 2025-10-02 |  |
 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 | 2024-06-07 |  |
@@ -58,6 +58,7 @@
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-10-01 |  |
 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 | 2024-06-07 |  |
 | [Gone to Bed](https://open.spotify.com/track/4LQK4d8DCI8i16lFWk2kll) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/5Zmu0lS6RYtopzhAu9lQZW) | 2:56 | 2025-09-10 |  |
+| [Greatest Gift](https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [A Legacy Christmas](https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA) | 4:25 | 2026-05-11 |  |
 | [Hands Up \(feat\. Max Schneider\)](https://open.spotify.com/track/6FoQPgUa5iAQmsiopGGXNG) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 2:57 | 2024-06-07 |  |
 | [Hardcore \(feat\. Don Toliver\)](https://open.spotify.com/track/7KGxiUpYciBYO4QyG7qq28) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hardcore \(feat\. Don Toliver\)](https://open.spotify.com/album/1gUVSsB2dwpwehdh3HmJVY) | 3:38 | 2024-06-07 |  |
 | [Harder](https://open.spotify.com/track/2naTAenfZdW6fEhbwtqK0b) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 3:08 | 2024-06-07 |  |
@@ -158,6 +159,7 @@
 | [Witness](https://open.spotify.com/track/0x5IefVx73za0koesbrZhI) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 4:16 | 2026-04-12 |  |
 | [Witness](https://open.spotify.com/track/4CwrUYKXLeUyAFhEYlbJld) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:16 | 2024-06-07 | 2026-04-13 |
 | [worst behavior](https://open.spotify.com/track/6KIKaWKE9wV6mLjho3w61y) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:04 | 2024-06-07 |  |
+| [You Better Know \(feat\. Skilla Baby\)](https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Beautiful Tragedy](https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb) | 3:13 | 2026-05-11 |  |
 | [ZONE \(feat\. Eric Bellinger\)](https://open.spotify.com/track/7bC5fLFPDWsju5WR4CRrwK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 2:48 | 2026-04-20 |  |
 
 \*This playlist was first scraped on 2024-06-08. Prior content cannot be recovered.

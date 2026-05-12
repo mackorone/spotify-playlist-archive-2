@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 39604,
+  "num_followers": 39607,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAUuEigQLxQp/I0p4th5CRB",
+  "snapshot_id": "af/KgAAAAACKq6ADIgR+wi764JeqwhpO",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -324,41 +324,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "Que Sacrificio",
-      "url": "https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj"
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,
@@ -379,6 +347,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "Que Sacrificio",
+      "url": "https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 149902,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
       "duration_ms": 153866,
       "name": "Bikini Azul",
       "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,

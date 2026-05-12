@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Balming Tiger) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: DORI) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 282605,
       "name": "All of me",
       "url": "https://open.spotify.com/track/0GPbxTKmIt498pYnWl5e31"
@@ -14234,7 +14234,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 217216,
       "name": "Nevertheless",
       "url": "https://open.spotify.com/track/3OcZ0MlUU5dtP7wj4qGPjp"
@@ -14904,7 +14904,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 254225,
       "name": "Not to fade",
       "url": "https://open.spotify.com/track/6mTTquypTU75v59JzzLF7N"
@@ -15394,7 +15394,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 246739,
       "name": "Ours",
       "url": "https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN"
@@ -17024,7 +17024,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 255000,
       "name": "right next to me",
       "url": "https://open.spotify.com/track/6G4qa5d3rrRrCLIuHZyKQH"
@@ -19479,6 +19479,28 @@
     },
     {
       "album": {
+        "name": "HINT",
+        "url": "https://open.spotify.com/album/739iOyEIzVk5qhxuDxPOE3"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        },
+        {
+          "name": "homs",
+          "url": "https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249605,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/62rJ7J9AIDMG72Qwgecs5E"
+    },
+    {
+      "album": {
         "name": "Story Line",
         "url": "https://open.spotify.com/album/5QoTyucanJ6ilfPNENdseH"
       },
@@ -21443,6 +21465,24 @@
     },
     {
       "album": {
+        "name": "Too Young, Too Unready",
+        "url": "https://open.spotify.com/album/27z5P4br8IwrmAjvTG2Iqq"
+      },
+      "artists": [
+        {
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189069,
+      "name": "Too Young, Too Unready",
+      "url": "https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De"
+    },
+    {
+      "album": {
         "name": "Trace",
         "url": "https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H"
       },
@@ -22039,6 +22079,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.6",
+        "url": "https://open.spotify.com/album/15aLcoTHfvL5jZc4QH6BfY"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Untitled_08",
+      "url": "https://open.spotify.com/track/4dQtKYJ9S4tR8JZPoPSIhy"
+    },
+    {
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/23dZakjHhvfJJsiuX5A8MF"
       },
@@ -22170,6 +22228,24 @@
       "duration_ms": 175600,
       "name": "Villain\u293b (feat. lIlBOI)",
       "url": "https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0"
+      },
+      "artists": [
+        {
+          "name": "DORI",
+          "url": "https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191008,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa"
     },
     {
       "album": {
@@ -22928,7 +23004,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 187501,
       "name": "When Spring Comes",
       "url": "https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf"
@@ -23116,7 +23192,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 236964,
       "name": "Who I've Become",
       "url": "https://open.spotify.com/track/3buxRmvpflSFLLhkXeVcwv"

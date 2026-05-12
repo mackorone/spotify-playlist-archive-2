@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 576447,
+  "num_followers": 576419,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-05-05 07:08:32",
       "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
-    },
-    {
-      "added_at": "2026-05-05 07:08:32",
-      "album": {
         "name": "Panata",
         "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 275893,
       "name": "Panata",
       "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
+    },
+    {
+      "added_at": "2026-05-05 07:08:32",
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
       "added_at": "2026-05-05 07:08:32",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-05-05 07:08:32",
       "album": {
+        "name": "Panatag",
+        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Panatag",
+      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
+    },
+    {
+      "added_at": "2026-05-05 07:08:32",
+      "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 255661,
       "name": "Simula Pa Nung Una",
       "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
-    },
-    {
-      "added_at": "2026-05-05 07:08:32",
-      "album": {
-        "name": "Panatag",
-        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Panatag",
-      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
     },
     {
       "added_at": "2026-05-05 07:08:32",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-05-05 07:08:32",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
-      },
-      "artists": [
-        {
-          "name": "Side A",
-          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
-        },
-        {
-          "name": "Jun Reyes",
-          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
-        }
-      ],
-      "duration_ms": 273493,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
-    },
-    {
-      "added_at": "2026-05-05 07:08:32",
-      "album": {
         "name": "Kung Masusunod",
         "url": "https://open.spotify.com/album/1x3KkwuQ9HcncHVAFV2tmw"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 186818,
       "name": "Kung Masusunod",
       "url": "https://open.spotify.com/track/6eAlaXIFCJSUJXRu4IlPuY"
+    },
+    {
+      "added_at": "2026-05-05 07:08:32",
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
+      },
+      "artists": [
+        {
+          "name": "Side A",
+          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
+        },
+        {
+          "name": "Jun Reyes",
+          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
+        }
+      ],
+      "duration_ms": 273493,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
     },
     {
       "added_at": "2026-05-05 07:08:32",
@@ -827,18 +827,34 @@
     {
       "added_at": "2026-05-05 07:08:32",
       "album": {
-        "name": "Di Na",
-        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+        "name": "Manatili",
+        "url": "https://open.spotify.com/album/74M3oYE898sDzK8l0vmONg"
       },
       "artists": [
         {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
         }
       ],
-      "duration_ms": 247413,
-      "name": "Di Na",
-      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+      "duration_ms": 220833,
+      "name": "Manatili",
+      "url": "https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16"
+    },
+    {
+      "added_at": "2026-05-05 07:08:32",
+      "album": {
+        "name": "Sandali",
+        "url": "https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 269568,
+      "name": "Isang Daan",
+      "url": "https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t"
     },
     {
       "added_at": "2026-05-05 07:08:32",
@@ -855,22 +871,6 @@
       "duration_ms": 268703,
       "name": "Gabi",
       "url": "https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD"
-    },
-    {
-      "added_at": "2026-05-05 07:08:32",
-      "album": {
-        "name": "Manatili",
-        "url": "https://open.spotify.com/album/74M3oYE898sDzK8l0vmONg"
-      },
-      "artists": [
-        {
-          "name": "Over October",
-          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "Manatili",
-      "url": "https://open.spotify.com/track/6IigVaC8ZwuXktW0K39a16"
     }
   ],
   "unique_name": "Relax Tayo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bixarte
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,476 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,468 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 55 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
 | 56 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
 | 57 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 |
-| 58 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
-| 59 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
+| 58 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
+| 59 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
 | 60 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
 | 61 | [Telefone Mudo](https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Telefone Mudo](https://open.spotify.com/album/34rO65UAJshV92udKc3cxs) | 2:32 |
 | 62 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy](https://open.spotify.com/artist/7nOz5jOgDguue2Zbr7W603), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
-| 63 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
-| 64 | [SEM FREIO](https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [SEM FREIO](https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr) | 3:21 |
+| 63 | [SEM FREIO](https://open.spotify.com/track/1kuiTcaBMjotQ4bBETv3jX) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [CARLO](https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y) | [SEM FREIO](https://open.spotify.com/album/6FWnVkda0JnSyAmtHkxTvr) | 3:21 |
+| 64 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
 | 65 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 66 | [Perigosa](https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS) | [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd) | [Perigosa](https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe) | 3:06 |
 | 67 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [Candy Mel](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |

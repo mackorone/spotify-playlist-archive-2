@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 138947,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
@@ -19129,6 +19129,24 @@
     },
     {
       "album": {
+        "name": "\u00c9des M\u00e9reg",
+        "url": "https://open.spotify.com/album/4dBZw8JYPBO4lZ1ym9bvLU"
+      },
+      "artists": [
+        {
+          "name": "Ibolya Ol\u00e1h",
+          "url": "https://open.spotify.com/artist/03CHmaG9sjGI5vfBHPllj5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "Magyarorsz\u00e1g",
+      "url": "https://open.spotify.com/track/0tjb1SokIgtbqSaX80KOif"
+    },
+    {
+      "album": {
         "name": "Mag\u00e1ny Vag\u00e1ny",
         "url": "https://open.spotify.com/album/4qsX252zhgu8s9zQU5QDO3"
       },
@@ -31022,7 +31040,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
@@ -37378,7 +37396,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 199183,
       "name": "\u00dagy Hiszem",
       "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"

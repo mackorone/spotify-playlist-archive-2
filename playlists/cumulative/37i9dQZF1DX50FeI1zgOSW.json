@@ -13515,6 +13515,24 @@
     },
     {
       "album": {
+        "name": "Thaimayo",
+        "url": "https://open.spotify.com/album/0WLB1iGxYMJsX6xtlmxz9b"
+      },
+      "artists": [
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243797,
+      "name": "Thaimayo",
+      "url": "https://open.spotify.com/track/2pl0P5Tnepb6NMCeyPx1xv"
+    },
+    {
+      "album": {
         "name": "Thakam illai yendrale",
         "url": "https://open.spotify.com/album/033c6uLf6rLulZOBBwG5j4"
       },

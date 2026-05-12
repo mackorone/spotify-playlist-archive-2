@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,969 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,939 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
 | 2 | [Zu jung](https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Zu jung](https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI) | 2:01 |
-| 3 | [Fenster](https://open.spotify.com/track/6ZudeRmaraMdu3TS8D4JfR) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Fenster](https://open.spotify.com/album/55YdXeXlbNX7abomQDx7EN) | 4:24 |
-| 4 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 |
-| 5 | [Siegfried & Roy](https://open.spotify.com/track/48JQZEdveC9jCUDhlGFk1x) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Siegfried & Roy](https://open.spotify.com/album/0Ejwd82KcqYh90u24zCcMZ) | 2:34 |
-| 6 | [Liebe/Hass \(feat\. elimako\)](https://open.spotify.com/track/1o61ol0LEOdqwSGSKVvwyR) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [Liebe/Hass](https://open.spotify.com/album/7gG8klVCTQS7c5Cy8Wba5m) | 2:48 |
-| 7 | [Nickelodeon](https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Nickelodeon](https://open.spotify.com/album/0rJv3K7TOeDjod7aNTxgLm) | 2:27 |
-| 8 | [F](https://open.spotify.com/track/62hu9EqG8R4LCxhDUhux7Z) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [F](https://open.spotify.com/album/7zzLVOq8nRC9Nvh9sKdq3P) | 1:34 |
-| 9 | [Panorama \(mit Levin Liam\)](https://open.spotify.com/track/00Zusnc9F5oQktRpM3UiKT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Panorama \(mit Levin Liam\)](https://open.spotify.com/album/4Lc5ytWx5bjYgkiNU0elZw) | 3:10 |
-| 10 | [Verlieb dich nicht](https://open.spotify.com/track/5NuuAdyq4zcQDDHUF0IwhG) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Verlieb dich nicht](https://open.spotify.com/album/1zFyurFFulPJuLYyt2TSzD) | 2:16 |
-| 11 | [fernweh](https://open.spotify.com/track/1lpAlQmX9jqJoaHIA9iChT) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [fernweh](https://open.spotify.com/album/7iZdFkc4hoY8gax46TYuEO) | 3:05 |
+| 3 | [fernweh](https://open.spotify.com/track/1lpAlQmX9jqJoaHIA9iChT) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [fernweh](https://open.spotify.com/album/7iZdFkc4hoY8gax46TYuEO) | 3:05 |
+| 4 | [Fenster](https://open.spotify.com/track/6ZudeRmaraMdu3TS8D4JfR) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Fenster](https://open.spotify.com/album/55YdXeXlbNX7abomQDx7EN) | 4:24 |
+| 5 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 |
+| 6 | [Siegfried & Roy](https://open.spotify.com/track/48JQZEdveC9jCUDhlGFk1x) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Siegfried & Roy](https://open.spotify.com/album/0Ejwd82KcqYh90u24zCcMZ) | 2:34 |
+| 7 | [Liebe/Hass \(feat\. elimako\)](https://open.spotify.com/track/1o61ol0LEOdqwSGSKVvwyR) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [Liebe/Hass](https://open.spotify.com/album/7gG8klVCTQS7c5Cy8Wba5m) | 2:48 |
+| 8 | [Nickelodeon](https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Nickelodeon](https://open.spotify.com/album/0rJv3K7TOeDjod7aNTxgLm) | 2:27 |
+| 9 | [F](https://open.spotify.com/track/62hu9EqG8R4LCxhDUhux7Z) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [F](https://open.spotify.com/album/7zzLVOq8nRC9Nvh9sKdq3P) | 1:34 |
+| 10 | [Panorama \(mit Levin Liam\)](https://open.spotify.com/track/00Zusnc9F5oQktRpM3UiKT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Panorama \(mit Levin Liam\)](https://open.spotify.com/album/4Lc5ytWx5bjYgkiNU0elZw) | 3:10 |
+| 11 | [Verlieb dich nicht](https://open.spotify.com/track/5NuuAdyq4zcQDDHUF0IwhG) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Verlieb dich nicht](https://open.spotify.com/album/1zFyurFFulPJuLYyt2TSzD) | 2:16 |
 | 12 | [Auf dich](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Auf dich](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
 | 13 | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/track/30YonV3sLjut7kp72bwUNG) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Wer nichts hat, kann nichts verlieren](https://open.spotify.com/album/3tXhASty0nK3P7Nydlq1OO) | 2:37 |
 | 14 | [Halb So Wild](https://open.spotify.com/track/3SKR6SsypiYeajZ4H2pDZJ) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Sternstunde](https://open.spotify.com/album/6zI1kM64SlTmN97nLHOQwO) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [BYE BYE](https://open.spotify.com/track/6djwT0rhezRkmFGieDw2Q6) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [BYE BYE](https://open.spotify.com/album/6jAipl6QinNFySL8dFq7CZ) | 2:42 |
 | 75 | [Herzschmerz](https://open.spotify.com/track/5ughhzwtQmEKvVAqTTAUJr) | [schening](https://open.spotify.com/artist/47HUWGy57swZz90kjqlytd) | [Herzschmerz](https://open.spotify.com/album/4xjyophkBdEI37WTrt0sVE) | 2:16 |
 
-Snapshot ID: `AAAAAK/Un5LSWBLpNR4PSCjppgjiwJ32`
+Snapshot ID: `AAAAAIvfn9b0yKseDZO/fhzlTgKkZHf3`

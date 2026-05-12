@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "FREE SPIRITS",
+        "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181424,
+      "name": "Ay Ay Ay",
+      "url": "https://open.spotify.com/track/5XI7KiPx9gsgG0QkWlwUfz"
+    },
+    {
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -823,6 +845,28 @@
     },
     {
       "album": {
+        "name": "dame luz",
+        "url": "https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189038,
+      "name": "dame luz",
+      "url": "https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP"
+    },
+    {
+      "album": {
         "name": "DANCE DEPRE",
         "url": "https://open.spotify.com/album/1sSmSR6vjVwO3wTC6qsQLZ"
       },
@@ -896,7 +940,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 212061,
       "name": "Destiempo",
       "url": "https://open.spotify.com/track/4La8SpJL3ecn6EZc6tSyO9"
@@ -1689,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139136,
+      "name": "GRANADA",
+      "url": "https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS"
+    },
+    {
+      "album": {
         "name": "cuatro veces 10",
         "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
       },
@@ -2442,7 +2504,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
@@ -2608,7 +2670,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 163423,
       "name": "Marte",
       "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
@@ -2761,6 +2823,28 @@
     },
     {
       "album": {
+        "name": "Miraverah\u00ed (Slow Jamz Remix)",
+        "url": "https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257374,
+      "name": "Miraverah\u00ed - Slow Jamz Remix",
+      "url": "https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT"
+    },
+    {
+      "album": {
         "name": "Moody",
         "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
       },
@@ -2896,7 +2980,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
@@ -3062,7 +3146,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 153000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
@@ -3266,6 +3350,24 @@
       "duration_ms": 144960,
       "name": "ojitos caramelo - Remix",
       "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
+    },
+    {
+      "album": {
+        "name": "OTRA COSA MARIPOSA",
+        "url": "https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "OTRA COSA MARIPOSA",
+      "url": "https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy"
     },
     {
       "album": {
@@ -3798,7 +3900,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 180746,
       "name": "Puente",
       "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
@@ -3824,6 +3926,24 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "album": {
+        "name": "quisiera",
+        "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254218,
+      "name": "quisiera",
+      "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
     },
     {
       "album": {
@@ -4044,7 +4164,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
@@ -4098,7 +4218,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 244769,
       "name": "Si Hay Algo",
       "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
@@ -4460,7 +4580,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 199173,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
@@ -4670,7 +4790,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 211813,
       "name": "Todo Es Perfecto",
       "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"

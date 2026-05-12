@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 49264,
+  "num_followers": 49271,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "isy",
+        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 150199,
+      "name": "isy",
+      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "HMDL",
         "url": "https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 118938,
       "name": "HMDL",
       "url": "https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "isy",
-        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
-      },
-      "artists": [
-        {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
-        },
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 150199,
-      "name": "isy",
-      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
     },
     {
       "added_at": "2026-05-05 22:00:31",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
+        "name": "Ahogar",
+        "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Ahogar",
+      "url": "https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
         "name": "BTCHZ",
         "url": "https://open.spotify.com/album/6OKBbJHp6qNSjJTIDPXCNN"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 185270,
       "name": "Flying",
       "url": "https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
-        "name": "Ahogar",
-        "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Ahogar",
-      "url": "https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw"
     },
     {
       "added_at": "2026-05-05 22:00:31",

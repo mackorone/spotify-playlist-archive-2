@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,962 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,000 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 98 | [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 |
 | 99 | [Hold Your Hair](https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw) | [Timothy Nelson](https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq) | [Hold Your Hair](https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer) | 3:02 |
 
-Snapshot ID: `AAAAACFuDNrsRBDikS2X3tcjshJRAB0+`
+Snapshot ID: `AAAAALLRdRCEQA10tGhQlw4Z9Luj2PJ9`

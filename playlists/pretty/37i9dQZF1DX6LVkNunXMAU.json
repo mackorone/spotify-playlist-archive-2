@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Ine G\u00fcemes",
-  "num_followers": 61939,
+  "num_followers": 61951,
   "original_name": "folk & oto\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Vendr\u00eda Bien",
-        "url": "https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt"
-      },
-      "artists": [
-        {
-          "name": "LAIA",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 201073,
-      "name": "Vendr\u00eda Bien",
-      "url": "https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Track",
         "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 206777,
       "name": "M\u00fasica de Computadora",
       "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
+        "name": "Vendr\u00eda Bien",
+        "url": "https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt"
+      },
+      "artists": [
+        {
+          "name": "LAIA",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "Vendr\u00eda Bien",
+      "url": "https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -647,22 +631,18 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
       "artists": [
         {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
         }
       ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -687,6 +667,26 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
+      },
+      "artists": [
+        {
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "\u00daltimo Ritual",
-        "url": "https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 207509,
-      "name": "\u00daltimo Ritual",
-      "url": "https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Ay, Mi Gorri\u00f3n!",
         "url": "https://open.spotify.com/album/3eejHVYQFBUCGtVQRDGfMQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 230500,
       "name": "Ay, Mi Gorri\u00f3n!",
       "url": "https://open.spotify.com/track/0txPwD3oxvQ7dlLnYlmkLh"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
+        "name": "\u00daltimo Ritual",
+        "url": "https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 207509,
+      "name": "\u00daltimo Ritual",
+      "url": "https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
         "name": "La flor",
         "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
       },
       "artists": [
         {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+          "name": "CATALINA SEGURA",
+          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
         }
       ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -891,22 +907,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA SEGURA",
-          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
-      },
-      "artists": [
-        {
-          "name": "Vipisita",
-          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
-        }
-      ],
-      "duration_ms": 160696,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Agua Viva",
         "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 110762,
       "name": "Iuju",
       "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
+      },
+      "artists": [
+        {
+          "name": "Vipisita",
+          "url": "https://open.spotify.com/artist/1UQEx36I7kssobWTSDpw32"
+        }
+      ],
+      "duration_ms": 160696,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6jfpm3cW2zS24LKrXS4leV"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Un amor",
-        "url": "https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL"
-      },
-      "artists": [
-        {
-          "name": "Ihara",
-          "url": "https://open.spotify.com/artist/5HMSeEkN5TBGd50gdBNPL2"
-        }
-      ],
-      "duration_ms": 194375,
-      "name": "Un amor",
-      "url": "https://open.spotify.com/track/3IL3mklv4NTLUANPgg9G9O"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Cuando Estemos Solos",
         "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 193025,
       "name": "Cuando Estemos Solos",
       "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
+        "name": "Un amor",
+        "url": "https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL"
+      },
+      "artists": [
+        {
+          "name": "Ihara",
+          "url": "https://open.spotify.com/artist/5HMSeEkN5TBGd50gdBNPL2"
+        }
+      ],
+      "duration_ms": 194375,
+      "name": "Un amor",
+      "url": "https://open.spotify.com/track/3IL3mklv4NTLUANPgg9G9O"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
+        "name": "Sentado Esperando",
+        "url": "https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        },
+        {
+          "name": "Nacho Rodriguez",
+          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
+        }
+      ],
+      "duration_ms": 257564,
+      "name": "Sentado Esperando",
+      "url": "https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
         "name": "Me Fui",
         "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
       },
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Sentado Esperando",
-        "url": "https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        },
-        {
-          "name": "Nacho Rodriguez",
-          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
-        }
-      ],
-      "duration_ms": 257564,
-      "name": "Sentado Esperando",
-      "url": "https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Sed de Ternura Vol.1 (Duo Set)",
         "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
-        "name": "Final Feliz",
-        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
-      },
-      "artists": [
-        {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Final Feliz",
-      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2026-04-24 15:55:04",
       "album": {
+        "name": "Final Feliz",
+        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2026-04-24 15:55:04",
+      "album": {
+        "name": "Horas",
+        "url": "https://open.spotify.com/album/2o4y3NPQW9V0NkofUArRUr"
+      },
+      "artists": [
+        {
+          "name": "Sol Melisma",
+          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
+        }
+      ],
+      "duration_ms": 143166,
+      "name": "Horas",
+      "url": "https://open.spotify.com/track/4FaScgamlCykrD6cVF3oh8"
     },
     {
       "added_at": "2026-04-24 15:55:04",
@@ -1507,22 +1523,6 @@
       "duration_ms": 241810,
       "name": "Trance",
       "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
-    },
-    {
-      "added_at": "2026-04-24 15:55:04",
-      "album": {
-        "name": "Horas",
-        "url": "https://open.spotify.com/album/2o4y3NPQW9V0NkofUArRUr"
-      },
-      "artists": [
-        {
-          "name": "Sol Melisma",
-          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
-        }
-      ],
-      "duration_ms": 143166,
-      "name": "Horas",
-      "url": "https://open.spotify.com/track/4FaScgamlCykrD6cVF3oh8"
     },
     {
       "added_at": "2026-04-24 15:55:04",

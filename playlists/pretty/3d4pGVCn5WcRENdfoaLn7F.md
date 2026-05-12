@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 655 likes - 111 songs - 6 hr 26 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 659 likes - 114 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 109 | [Wash](https://open.spotify.com/track/4r7ML0PiZkZBk6VQxQP5hz) | [Darkness Is My Canvas](https://open.spotify.com/artist/4KLsuw8MtGdxOw8Mx9hwYH) | [The End Of Times](https://open.spotify.com/album/1kAyzmSHintJnWxeLIMqAY) | 3:10 |
 | 110 | [Dying to be Seen](https://open.spotify.com/track/4PCb7XTmOpoh4Gxda9tuvN) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [Dying to be Seen](https://open.spotify.com/album/4FInOUd4Yfp79yvIvDvERG) | 3:57 |
 | 111 | [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 |
+| 112 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 |
+| 113 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 |
+| 114 | [Something Going Down](https://open.spotify.com/track/1IMz6vOVbR7r7GoIXruUYZ) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Something Going Down](https://open.spotify.com/album/0dybQYta1tbwwYKNusjGWm) | 2:11 |
 
-Snapshot ID: `AAADaq988LHFQf9MMNKVrmmJycNaWYsM`
+Snapshot ID: `AAADbTgpOoTV+/zyOqGS5X13zW3NeYtS`

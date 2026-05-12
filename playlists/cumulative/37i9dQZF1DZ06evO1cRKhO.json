@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 174240,
       "name": "David's Sandbox",
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 211093,
       "name": "Display of Plasma",
       "url": "https://open.spotify.com/track/5xNggf69ytqkDlULoIPU3n"
@@ -1893,6 +1893,58 @@
     },
     {
       "album": {
+        "name": "Empac Sessions",
+        "url": "https://open.spotify.com/album/6rLatK5glNwBYmc8ArAPFC"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271023,
+      "name": "Improvisation #2",
+      "url": "https://open.spotify.com/track/64r6LRhaLiMqTUsLJewsMG"
+    },
+    {
+      "album": {
+        "name": "Empac Sessions",
+        "url": "https://open.spotify.com/album/6rLatK5glNwBYmc8ArAPFC"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 864097,
+      "name": "Improvisation #4",
+      "url": "https://open.spotify.com/track/3bO5LLGkPzcrf2brPLaED1"
+    },
+    {
+      "album": {
         "name": "Pauline Oliveros & American Voices",
         "url": "https://open.spotify.com/album/27bn3QiUgVhT685DM605b1"
       },
@@ -1916,6 +1968,32 @@
       "duration_ms": 1110533,
       "name": "In Memoriam, Mr. Whitney",
       "url": "https://open.spotify.com/track/2geomvCd4mt1SuRa8KDDO9"
+    },
+    {
+      "album": {
+        "name": "Pauline Oliveros & American Voices",
+        "url": "https://open.spotify.com/album/5FRuM93zdwUgsQmvwGlzqG"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "American Voices",
+          "url": "https://open.spotify.com/artist/2SqSJ5jQonK7uHdNg0v4Jq"
+        },
+        {
+          "name": "Neely Bruce",
+          "url": "https://open.spotify.com/artist/7n7NOg0aKqbRFoyddmakHf"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1110533,
+      "name": "In Memoriam, Mr. Whitney",
+      "url": "https://open.spotify.com/track/3kD4EZS28PFeBqoNqAmJHd"
     },
     {
       "album": {
@@ -1960,7 +2038,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 836840,
       "name": "Incandescent Gesture",
       "url": "https://open.spotify.com/track/1Iu8v8D2wGAUD8npnoEp3D"
@@ -2716,7 +2794,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 273560,
       "name": "Natto Breath",
       "url": "https://open.spotify.com/track/0Kwj0pY2OSlF67FDT2L09h"
@@ -2760,7 +2838,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 988306,
       "name": "Nite",
       "url": "https://open.spotify.com/track/4TOzYJCeDzFzKcbPkOschJ"
@@ -3598,7 +3676,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 215360,
       "name": "Sanora",
       "url": "https://open.spotify.com/track/3jw74OQCoOisAdPAdY4vJr"
@@ -3628,7 +3706,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 324358,
       "name": "Saxifraga Cotyledon",
       "url": "https://open.spotify.com/track/476aORd2k06UfNLKGNxBLK"
@@ -3688,7 +3766,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 296773,
       "name": "Several Moments",
       "url": "https://open.spotify.com/track/3zGEIGgG0pJpDfZsFuK8OX"
@@ -4014,7 +4092,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 240880,
       "name": "Sonic Mercury",
       "url": "https://open.spotify.com/track/4O6J19ZtPJBzYaOYXPvRlE"
@@ -4302,7 +4380,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -4722,7 +4800,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 480225,
       "name": "Three of a Mind",
       "url": "https://open.spotify.com/track/4y3wgiAx0GbD28bnNxHTEQ"
@@ -5508,7 +5586,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 214080,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/5m7ZLZHWo6ibtEvtSPrJxf"
@@ -5808,7 +5886,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 263053,
       "name": "With Certainty",
       "url": "https://open.spotify.com/track/03NS51lOGoLhesZPQEL6BP"

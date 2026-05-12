@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,117 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,124 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 39 | [L3adaw](https://open.spotify.com/track/6rWU0KVXrU3sYODH1hBcYo) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [L3adaw](https://open.spotify.com/album/5FW6OqBRURamAU7BmWBj3i) | 3:29 |
 | 40 | [عوضي على الله](https://open.spotify.com/track/0efourIzovJKGWQ1XuTuTg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عوضي على الله](https://open.spotify.com/album/4ZKhuztTCbtjtr1E1qloIY) | 3:16 |
 | 41 | [Mafish Haga Sa'ba \- Music From El Prince TV Series](https://open.spotify.com/track/3FBd67OrCib3IShiFipILU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mafish Haga Sa'ba \(Music From El Prince TV Series\)](https://open.spotify.com/album/0wWUuBkNWI9FEAvOPyrHaj) | 5:01 |
-| 42 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
-| 43 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
+| 42 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 |
+| 43 | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 |
 | 44 | [اهل كايرو](https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [اهل كايرو](https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS) | 3:30 |
 | 45 | [Haseb Ya Tayeb \- Music from Khyanet Ahd TV Series](https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Haseb Ya Tayeb \(Music from Khyanet Ahd TV Series\)](https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo) | 3:57 |
-| 46 | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU) | 2:07 |
-| 47 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
+| 46 | [Mabrouk](https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mabrouk](https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96) | 2:37 |
+| 47 | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU) | 2:07 |
 | 48 | [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 |
 | 49 | [Al Kaysar](https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Kaysar](https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ) | 4:40 |
 | 50 | [Etdaret](https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Etdaret](https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE) | 3:43 |

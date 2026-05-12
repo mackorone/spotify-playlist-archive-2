@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,054 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,070 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Natulizana](https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Natulizana](https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg) | 4:26 |
-| 2 | [Bhuju \(feat\. Mbosso\)](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju \(feat\. Mbosso\)](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 |
+| 2 | [Bhuju](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 |
 | 3 | [Kama Sio](https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Kama Sio](https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ) | 3:14 |
 | 4 | [Yazoee](https://open.spotify.com/track/7go3M2likVy1B21NC0XJA1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Yazoee](https://open.spotify.com/album/6Lc9nilYGt0nnZKRPhXwsa) | 3:09 |
 | 5 | [Moyo](https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Seven](https://open.spotify.com/album/3YnzIAt9m9SJt039NYW7Gs) | 2:35 |

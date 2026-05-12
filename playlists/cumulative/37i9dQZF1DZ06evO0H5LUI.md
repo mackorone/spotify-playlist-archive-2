@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 0 min
+85 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Pantyblue](https://open.spotify.com/track/7vK7uAw183CuwkcCeGqK5h) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [SUPER ESTRELLAS](https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe) | 3:04 | 2023-11-10 | 2026-05-10 |
 | [Para Mi](https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:37 | 2023-11-10 |  |
 | [Perdón](https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Perdón](https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu) | 2:46 | 2023-11-10 |  |
-| [PERSONAL](https://open.spotify.com/track/0LDPHN32Xc3q4AvA6SGNIp) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [PERSONAL](https://open.spotify.com/album/1WyIjUm0mxXELrcC3mBwRe) | 2:22 | 2026-03-01 |  |
+| [PERSONAL](https://open.spotify.com/track/0LDPHN32Xc3q4AvA6SGNIp) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [PERSONAL](https://open.spotify.com/album/1WyIjUm0mxXELrcC3mBwRe) | 2:22 | 2026-03-01 | 2026-05-12 |
+| [PERSONAL](https://open.spotify.com/track/2HcaXo5MnxlGFgnbxgUOix) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [NODEBERÍA](https://open.spotify.com/album/08cqokEicsyqvV0OAOB7nU) | 2:22 | 2026-05-12 |  |
 | [plan v2](https://open.spotify.com/track/6ZDiojHljqoc2nYMZtkfiU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [plan v2](https://open.spotify.com/album/4JdXxSuPmZMfIdAzmwrQVC) | 3:19 | 2023-11-10 |  |
 | [Platicamos](https://open.spotify.com/track/3VZvrKpBo0c6gelCsnRpCp) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:56 | 2023-11-10 |  |
 | [PUNTO FINAL](https://open.spotify.com/track/7pfr0WwMdn3oIU6QGu2YNh) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [HOUSE Y DESAMOR](https://open.spotify.com/album/1ApTPwHsWrPoEIlMrCQW77) | 2:29 | 2024-11-17 |  |

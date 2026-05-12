@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 569615,
+  "num_followers": 569879,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 268373,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
     },
     {
       "added_at": "2026-05-04 16:53:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Let's Get Brutal",
         "url": "https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 431760,
       "name": "Let's Get Brutal - Brutal House",
       "url": "https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2026-05-04 16:53:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "The World is Full of Trouble",
-        "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
-      },
-      "artists": [
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        }
-      ],
-      "duration_ms": 446466,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Move Your Body (The House Music Anthem) - Remaster [feat. Curtis McClain]",
         "url": "https://open.spotify.com/album/7KlYBYVRKAzjQA5lZHZ3r1"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 292156,
       "name": "Move Your Body (The House Music Anthem) - Remaster [feat. Curtis McClain]",
       "url": "https://open.spotify.com/track/6hG8qz5Tc6syPSQMG5wRsR"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "The World is Full of Trouble",
+        "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
+      },
+      "artists": [
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        }
+      ],
+      "duration_ms": 446466,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
     }
   ],
   "unique_name": "90s House Classics",

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJk3a3fYRskag2XtNV7C1kADdvcQwp",
+  "snapshot_id": "AAAJlMgbWlQgRZL0iEyLk3IGmxoWNVcY",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38702,6 +38702,10 @@
         {
           "name": "East Collectors",
           "url": "https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh"
+        },
+        {
+          "name": "Gu\u00f0run S\u00f3lja",
+          "url": "https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6"
         }
       ],
       "duration_ms": 217031,
@@ -38771,6 +38775,22 @@
       "duration_ms": 59879,
       "name": "EXISTED",
       "url": "https://open.spotify.com/track/4qIUEF3oGfshmaJQoSbN2Y"
+    },
+    {
+      "added_at": "2026-05-11 23:45:16",
+      "album": {
+        "name": "Justin",
+        "url": "https://open.spotify.com/album/6d5DFkT0xMXWP102bh9uGb"
+      },
+      "artists": [
+        {
+          "name": "The Oats",
+          "url": "https://open.spotify.com/artist/4AN73N32ZF93Eil03Gr53B"
+        }
+      ],
+      "duration_ms": 122116,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/2Sz2PJ4WHrJXlHstvPiGjS"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

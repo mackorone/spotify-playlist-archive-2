@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,597 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 11 | [If Somebody Told Me You Were Dying](https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [If Somebody Told Me You Were Dying](https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M) | 3:05 |
 | 12 | [Si on revenait en arrière](https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Si on revenait en arrière](https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76) | 2:19 |
 | 13 | [Outline](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [AMi Vol\. 1](https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb) | 4:10 |
-| 14 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 |
-| 15 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
+| 14 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
+| 15 | [collagen](https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [juniper ring](https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw) | 3:28 |
 | 16 | [SUGAR WATER](https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [SUGAR WATER](https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ) | 3:10 |
 | 17 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
 | 18 | [Strangers](https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Strangers](https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6) | 3:19 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 40 | [Mercy on the Skyline](https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Mercy on the Skyline](https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2) | 4:42 |
 | 41 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 |
 | 42 | [a million](https://open.spotify.com/track/1JCon4olkEHqtle2sz5xwS) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [a million](https://open.spotify.com/album/0XXVIcn7nvspjZYcqSJUl9) | 2:32 |
-| 43 | [Can't Shake This Feeling](https://open.spotify.com/track/1grXmYQ0WLIfKzZp4ahtO0) | [Carly Hann](https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b) | [Can't Shake This Feeling](https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd) | 3:29 |
-| 44 | [SkiDay](https://open.spotify.com/track/1v4m28NkQN4jCW4DwCMSPo) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [SkiDay](https://open.spotify.com/album/2D1mvRiFSFc6s9NkPArGDK) | 2:47 |
+| 43 | [SkiDay](https://open.spotify.com/track/1v4m28NkQN4jCW4DwCMSPo) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [SkiDay](https://open.spotify.com/album/2D1mvRiFSFc6s9NkPArGDK) | 2:47 |
+| 44 | [Can't Shake This Feeling](https://open.spotify.com/track/1grXmYQ0WLIfKzZp4ahtO0) | [Carly Hann](https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b) | [Can't Shake This Feeling](https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd) | 3:29 |
 | 45 | [Milkman](https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Alexander Mure's Songs in the Key of C\-Minus!](https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf) | 2:50 |
 | 46 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
 | 47 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Same Life](https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Same Life](https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu) | 3:18 |
 | 50 | [Are you with me](https://open.spotify.com/track/71lIXh8zGXnVKB6JkSpYwh) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Are you with me](https://open.spotify.com/album/4FHavvDJF4ymxZeYEpgaFP) | 3:33 |
 
-Snapshot ID: `AAAAALs6Y2mqVy8BsWTRQbrmg0NZl6AI`
+Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

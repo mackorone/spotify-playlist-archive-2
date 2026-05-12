@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 100 songs - 5 hr 47 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 101 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 98 | [Bring The Light](https://open.spotify.com/track/3jGNfsL25ex9OXlBlz6GNR) | [Akashic Activation](https://open.spotify.com/artist/17SsNQMk1SdflR752pBvCy) | [Bring The Light](https://open.spotify.com/album/2ppC36tqivjAk4cd9C7dC0) | 3:15 |
 | 99 | [Opening \- \|wa\|hia\|wa\|](https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw) | [Niam Daia](https://open.spotify.com/artist/33Z86L54jqPDUxsx8u4PCZ) | [\|Invocation\|](https://open.spotify.com/album/7FeGBeSyXlSDnYis3bXDev) | 4:49 |
 | 100 | [Forget](https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [Forget](https://open.spotify.com/album/68e7pBLOsqIvD05rIkYCgp) | 3:28 |
+| 101 | [Coming/Going](https://open.spotify.com/track/5A5WmOCHyTpCaBx9cvgIKu) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Coming/Going](https://open.spotify.com/album/1larJtXr5S0h7EUAgpm3Hx) | 2:58 |
 
-Snapshot ID: `AAAOyHLq9Y0MVINqJEgB7rm/7ob1YyFO`
+Snapshot ID: `AAAOycr+6cQWOkP84G1OQlf1XUDmk9Fc`

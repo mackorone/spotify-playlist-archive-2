@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117842,
+  "num_followers": 117854,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAhxcDaC/5A6e4ikbbdh+YT",
+  "snapshot_id": "af/KgAAAAACg9abpss3llsbIP5peEQd+",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta La Caja Cuesta",
+        "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hasta La Caja Cuesta",
+      "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 145600,
       "name": "El Se\u00f1or De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta La Caja Cuesta",
-        "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hasta La Caja Cuesta",
-      "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa - En Vivo",
-      "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
+      "duration_ms": 153344,
+      "name": "La Linea Directa - En Vivo",
+      "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
+        "name": "Soy Benjam\u00edn",
+        "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149695,
-      "name": "La Pasadita - En Vivo",
-      "url": "https://open.spotify.com/track/0TWZuDxWncmYDJjGiHQ8qW"
+      "duration_ms": 180990,
+      "name": "Soy Benjam\u00edn",
+      "url": "https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Benjam\u00edn",
-        "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 180990,
-      "name": "Soy Benjam\u00edn",
-      "url": "https://open.spotify.com/track/4lnuw5DZ6nDWvwpMteP3Al"
+      "duration_ms": 149695,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/0TWZuDxWncmYDJjGiHQ8qW"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/5E6mUKZr7ee4RhWxLoaMBa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Da Igual",
         "url": "https://open.spotify.com/album/7vGoivzTraBMRLUGDeqEVm"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 140608,
       "name": "Diosa Griega",
       "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/5E6mUKZr7ee4RhWxLoaMBa"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ"
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/495D4mGsJo4MC2uKC2Q3oO"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 179171,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/22ROpSqeUipP6zWucqTLMa"
+      "duration_ms": 143680,
+      "name": "Ismael - En Vivo",
+      "url": "https://open.spotify.com/track/1KYuvBTYpOLY4aNe832oKB"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

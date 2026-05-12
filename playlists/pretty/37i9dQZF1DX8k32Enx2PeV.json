@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16484,
+  "num_followers": 16487,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,22 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 232149,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -143,22 +139,26 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+      "duration_ms": 232149,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -247,22 +247,18 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "SUPERARTE",
-        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 207984,
-      "name": "CHAMPAGNE",
-      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -283,18 +279,22 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Wapa",
-        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
+        "name": "SUPERARTE",
+        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 159776,
-      "name": "Wapa",
-      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+      "duration_ms": 207984,
+      "name": "CHAMPAGNE",
+      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2026-04-24 04:59:23",
+      "album": {
         "name": "La Profec\u00eda",
         "url": "https://open.spotify.com/album/6jPar1LGHn0S3WD6WDQskG"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 192917,
       "name": "La Profec\u00eda",
       "url": "https://open.spotify.com/track/0F9ZlOWNY2XqRwiWdQp31M"
-    },
-    {
-      "added_at": "2026-04-24 04:59:23",
-      "album": {
-        "name": "Besos Ricos",
-        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 187715,
-      "name": "Besos Ricos",
-      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
-      },
-      "artists": [
-        {
-          "name": "10 QUI",
-          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
-        },
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        }
-      ],
-      "duration_ms": 180652,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
-    },
-    {
-      "added_at": "2026-04-24 04:59:23",
-      "album": {
         "name": "Chamba",
         "url": "https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 202351,
       "name": "Chamba",
       "url": "https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce"
+    },
+    {
+      "added_at": "2026-04-24 04:59:23",
+      "album": {
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
+      },
+      "artists": [
+        {
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "duration_ms": 180652,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2026-04-24 04:59:23",
+      "album": {
         "name": "Coco Loco",
         "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 198373,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
-    },
-    {
-      "added_at": "2026-04-24 04:59:23",
-      "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
-      },
-      "artists": [
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 182643,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
-    },
-    {
-      "added_at": "2026-04-24 04:59:23",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2026-04-24 04:59:23",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2026-04-24 04:59:23",
+      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 191141,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2026-04-24 04:59:23",
-      "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2026-04-24 04:59:23",

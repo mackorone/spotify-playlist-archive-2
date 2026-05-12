@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic.",
-  "num_followers": 496848,
+  "num_followers": 496873,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-04-20 20:51:15",
       "album": {
-        "name": "glass house (feat. Braden Bales)",
-        "url": "https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151"
-      },
-      "artists": [
-        {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
-        },
-        {
-          "name": "Braden Bales",
-          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "glass house (feat. Braden Bales)",
-      "url": "https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K"
-    },
-    {
-      "added_at": "2026-04-20 20:51:15",
-      "album": {
         "name": "Time of my Life",
         "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 206687,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+    },
+    {
+      "added_at": "2026-04-20 20:51:15",
+      "album": {
+        "name": "glass house (feat. Braden Bales)",
+        "url": "https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151"
+      },
+      "artists": [
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY"
+        },
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "glass house (feat. Braden Bales)",
+      "url": "https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K"
     },
     {
       "added_at": "2026-04-20 20:51:15",

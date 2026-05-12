@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Asake, LUCKI &amp; more.
 
-234 songs - 10 hr 26 min
+235 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Midnight in Hawaii 2](https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Midnight in Hawaii 2](https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m) | 3:18 | 2025-10-06 |  |
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |
 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-24 |  |
+| [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 | 2026-05-11 |  |
 | [Netflix & Chill](https://open.spotify.com/track/6XRgm5ugonEcPhwKqCTiQa) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Netflix & Chill](https://open.spotify.com/album/2RqOufNzPUbK79GrGdUrnm) | 3:46 | 2025-07-15 | 2025-08-19 |
 | [Never Felt Love](https://open.spotify.com/track/2KCBMLVim2hQ1LR9x4bzF6) | [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [Never Felt Love](https://open.spotify.com/album/0SBrq5bkZqBtlnvVSv7rac) | 1:52 | 2026-03-30 |  |
 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-03-09 |  |

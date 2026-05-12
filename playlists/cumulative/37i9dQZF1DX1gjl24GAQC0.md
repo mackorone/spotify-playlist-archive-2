@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: PARK JI HOON \(박지훈\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: MINGI of ATEEZ \(민기\(에이티즈\)\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-858 songs - 1 day 22 hr 23 min
+860 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-11 | 2024-04-24 |
 | [Body Language](https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Body Language](https://open.spotify.com/album/0MSgmHVfSLarMx6EqKV42V) | 2:53 | 2025-10-13 | 2025-10-28 |
 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-20 |  |
-| [Bodyelse](https://open.spotify.com/track/7CZuzaa3vc92qg3Pv3sACj) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [RE:FLECT](https://open.spotify.com/album/6uIg4IqncYwG3Ms0aMsTFx) | 3:09 | 2026-04-29 |  |
+| [Bodyelse](https://open.spotify.com/track/7CZuzaa3vc92qg3Pv3sACj) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [RE:FLECT](https://open.spotify.com/album/6uIg4IqncYwG3Ms0aMsTFx) | 3:09 | 2026-04-29 | 2026-05-12 |
 | [BOMBA](https://open.spotify.com/track/4UOhWJXihWNNNaDwGSUSqP) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BOMBA](https://open.spotify.com/album/1e56g1NQaBAfERtl7az1n7) | 2:39 | 2025-08-05 | 2025-08-12 |
 | [Boogie Man](https://open.spotify.com/track/0aAXKcYMXMfWXwWoRgcIma) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Boogie Man](https://open.spotify.com/album/31nJ079frWEmOsFtYepjdw) | 3:27 | 2023-12-06 | 2023-12-13 |
 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 | 2022-01-17 | 2024-06-26 |
@@ -196,10 +196,12 @@
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-26 | 2022-07-13 |
 | [Daymoon \[CLEF X DKZ\]](https://open.spotify.com/track/3dBCJvCE1QKqOE64nNPlEN) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [CLEF X CREW, 5th Story](https://open.spotify.com/album/2gRhh3CUUiVgGABJvKYTNx) | 3:37 | 2023-12-06 | 2024-01-04 |
 | [DDARA](https://open.spotify.com/track/5ZGWNNcE2q3v8phEw0ZWci) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [DDARA](https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX) | 3:45 | 2022-03-22 | 2022-04-19 |
+| [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 | 2026-05-11 |  |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 | 2024-07-23 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 |  |
 | [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-03 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-31 | 2022-04-03 |
+| [Dinero](https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R) | [MINGI](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [FIX OFF Desire Project : ORIGIN](https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku) | 2:27 | 2026-05-11 |  |
 | [Dive](https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/0wOlHVp82SZuQisxdigqkP) | 3:10 | 2021-12-08 | 2022-06-16 |
 | [Do 4 Me](https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [2nd EP Album ‘Bipolar Pt.2 Prelude of Love’](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) | 3:19 | 2022-03-22 | 2022-07-23 |
 | [Do It](https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Do It](https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB) | 3:09 | 2023-11-10 | 2023-11-22 |
@@ -300,7 +302,7 @@
 | [Give You My All](https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Give You My All](https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A) | 2:45 | 2023-10-17 | 2023-10-30 |
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-08 | 2023-11-22 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-12 | 2023-01-10 |
-| [Glow](https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [Glow \- The 1st Mini Album](https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT) | 3:05 | 2026-04-27 |  |
+| [Glow](https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [Glow \- The 1st Mini Album](https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT) | 3:05 | 2026-04-27 | 2026-05-12 |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-09-13 |  |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 | 2025-02-24 |
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2021-12-08 | 2022-07-29 |

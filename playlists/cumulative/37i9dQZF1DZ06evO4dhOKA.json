@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 195506,
       "name": "Me Llega, Me Llega (En Vivo)",
       "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"
@@ -2678,6 +2678,32 @@
       "duration_ms": 240277,
       "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
       "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
+    },
+    {
+      "album": {
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170352,
+      "name": "Sabor De Enga\u00f1o (En Vivo)",
+      "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
     },
     {
       "album": {

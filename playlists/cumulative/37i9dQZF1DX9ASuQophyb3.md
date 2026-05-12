@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Hadise
 
-629 songs - 1 day 8 hr 39 min
+630 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [hayran](https://open.spotify.com/track/6OeYAmYvqsE7zK1SsmaWDB) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [Kafa Yüksek Kalp Kırık](https://open.spotify.com/album/7IUMrOHPr9bmQ375K5nhaT) | 2:39 | 2026-04-02 | 2026-05-08 |
 | [Hayranım](https://open.spotify.com/track/2gtEcc5Beh1U3E0iQdzlCK) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Hayranım](https://open.spotify.com/album/2y01hNlJgoiRoNNWGou42l) | 2:34 | 2025-10-16 | 2025-11-21 |
 | [Hazin Geliyor](https://open.spotify.com/track/0YfN4umsF4hemQ7y73yrJ2) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Hazin Geliyor](https://open.spotify.com/album/6AArzYtaNYAXHO56paUB1i) | 3:21 | 2026-02-12 | 2026-02-27 |
-| [Hep Böyle Kal \(Talu Şarkıları\)](https://open.spotify.com/track/0g4ExOqfOtlvaXGQSuO3SK) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Hep Böyle Kal \(Talu Şarkıları\)](https://open.spotify.com/album/1U6MynrXR8WZM7RgmNRnEX) | 4:09 | 2026-04-23 |  |
+| [Hep Böyle Kal \(Talu Şarkıları\)](https://open.spotify.com/track/0g4ExOqfOtlvaXGQSuO3SK) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Hep Böyle Kal \(Talu Şarkıları\)](https://open.spotify.com/album/1U6MynrXR8WZM7RgmNRnEX) | 4:09 | 2026-04-23 | 2026-05-12 |
 | [Hep Mi Leyla](https://open.spotify.com/track/28alChPhCKQF70YsYvPWaL) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Hep Mi Leyla](https://open.spotify.com/album/7wb3tD3kAQ8UQ5FZuVN72W) | 3:15 | 2025-02-06 | 2025-02-21 |
 | [Hepsi Aşktan](https://open.spotify.com/track/2jRTfbjS2PmBKJZm4fIyqT) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Hepsi Aşktan](https://open.spotify.com/album/0wF5iSxHrCD49n5HMnV8F2) | 3:54 | 2025-01-02 | 2025-01-17 |
 | [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 | 2025-09-04 | 2026-02-13 |
@@ -552,6 +552,7 @@
 | [Yan Ulan Yan](https://open.spotify.com/track/4keyTjLtympG8GMGH2ITUM) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Yan Ulan Yan](https://open.spotify.com/album/6XnHf2NpkzAXS0wG5paTU2) | 2:25 | 2025-10-16 | 2025-11-21 |
 | [Yandım Ateşinle](https://open.spotify.com/track/1E2Me5owoioq7ZW6KpkZF6) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Yandım Ateşinle](https://open.spotify.com/album/1iWBUeHA5B7XDSMv7OK317) | 2:32 | 2024-07-04 | 2024-07-27 |
 | [Yangın Yangın](https://open.spotify.com/track/4O8BIvo3juWpcCASM9pbNK) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Yangın Yangın](https://open.spotify.com/album/5VQEcdpPqTFDrkBIt7m04w) | 3:14 | 2024-08-29 | 2024-11-01 |
+| [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 | 2026-05-11 |  |
 | [Yani](https://open.spotify.com/track/362o5cXgMAJpPI3JXp3pNE) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Biz de Yeniden Başlarız](https://open.spotify.com/album/5PRI1MtJMkT4AvqfpHO9OS) | 2:31 | 2026-04-16 |  |
 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 | 2025-05-15 | 2025-08-09 |
 | [Yankın Var](https://open.spotify.com/track/2Jt2m8urDzCJtUK1SCMDlj) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Yankın Var](https://open.spotify.com/album/5T9bCXbi5KRCC2EZYQH4S8) | 2:34 | 2025-05-01 | 2025-05-16 |

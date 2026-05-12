@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Rachel DeLong",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Jeremy Camp",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/6Z0toaIlY6IjuQkjIqDtBW"
+      },
+      "artists": [
+        {
+          "name": "Natural State",
+          "url": "https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183445,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/5SxyoSH2J7zqesffjDFv96"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/3oOSJOCqC2FkOG0TvGj1yS"
       },
@@ -1125,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Death Of Fear",
+        "url": "https://open.spotify.com/album/3lq6FIlPn1iWMLbGHjJAZa"
+      },
+      "artists": [
+        {
+          "name": "ALTIRA",
+          "url": "https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249578,
+      "name": "Death Of Fear",
+      "url": "https://open.spotify.com/track/6mXUznWnvtLgnc5mUKOJSb"
+    },
+    {
+      "album": {
         "name": "Deathgrip",
         "url": "https://open.spotify.com/album/1MK5aZeXCgg0zXvwdRdcDW"
       },
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 197160,
       "name": "ERASED",
       "url": "https://open.spotify.com/track/2y9DkHR5bZiHRZPqxua0yK"
@@ -2248,7 +2284,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 211108,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1gWzJzipzr6hU4J70M9nSl"
@@ -2346,6 +2382,24 @@
       "duration_ms": 183073,
       "name": "How Much Longer?",
       "url": "https://open.spotify.com/track/0GrRkiNOYZZBoBQ9SovC3Y"
+    },
+    {
+      "album": {
+        "name": "I Declare, I Decree (Live)",
+        "url": "https://open.spotify.com/album/1GOjbafLvn5RCZUiOVNmDb"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226337,
+      "name": "I Declare, I Decree - Live",
+      "url": "https://open.spotify.com/track/7kSDH4uUG1zprJHGJ1c49Q"
     },
     {
       "album": {
@@ -3290,7 +3344,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 140800,
       "name": "No Survivors",
       "url": "https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF"
@@ -3496,7 +3550,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 169149,
       "name": "Paper Tiger",
       "url": "https://open.spotify.com/track/1U0ht67MsghfYWitY8MFhz"
@@ -3658,7 +3712,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 222967,
       "name": "Promise You're Coming Home",
       "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
@@ -3809,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/3TnlH9dIjNEbjckdYFNbyy"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Reflector",
+      "url": "https://open.spotify.com/track/7F7QAh5F3apMmeHsLdtHLw"
+    },
+    {
+      "album": {
         "name": "Resurrecting Reasons",
         "url": "https://open.spotify.com/album/3wHVEf6FdPgn31OGAqeiCb"
       },
@@ -3846,6 +3918,28 @@
       "duration_ms": 163399,
       "name": "Revival",
       "url": "https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj"
+    },
+    {
+      "album": {
+        "name": "Revivalist (feat. For Today)",
+        "url": "https://open.spotify.com/album/05gO4LETVmN5SYCYdZxcNo"
+      },
+      "artists": [
+        {
+          "name": "Bloodlines",
+          "url": "https://open.spotify.com/artist/3k68PbSm8ImpXNBKuhoC4s"
+        },
+        {
+          "name": "For Today",
+          "url": "https://open.spotify.com/artist/3xvHWAD1Bz6vvVmVMPpZJs"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "Revivalist (feat. For Today)",
+      "url": "https://open.spotify.com/track/6lA54ruhRaZ9b6Y82S4M5C"
     },
     {
       "album": {

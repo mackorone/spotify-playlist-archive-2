@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lina-Mariah",
-  "num_followers": 339032,
+  "num_followers": 339010,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -703,38 +703,6 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 207344,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
-    },
-    {
-      "added_at": "2026-05-07 22:01:07",
-      "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
-    },
-    {
-      "added_at": "2026-05-07 22:01:07",
-      "album": {
         "name": "We're Onto Something (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
       },
@@ -755,6 +723,22 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+    },
+    {
+      "added_at": "2026-05-07 22:01:07",
+      "album": {
         "name": "Forever/Always",
         "url": "https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "The Great Unknown",
-        "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 181956,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+      "duration_ms": 207344,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -803,18 +787,18 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/0khYhFPJexeHI2w0X96XBy"
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 218563,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2jzxNbFrkL5joJi0vUOlrA"
+      "duration_ms": 181956,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -847,6 +831,22 @@
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
+    },
+    {
+      "added_at": "2026-05-07 22:01:07",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0khYhFPJexeHI2w0X96XBy"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 218563,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2jzxNbFrkL5joJi0vUOlrA"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+    },
+    {
+      "added_at": "2026-05-07 22:01:07",
+      "album": {
         "name": "Love To Be Loved",
         "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Empty Hands",
-        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
-    },
-    {
-      "added_at": "2026-05-07 22:01:07",
-      "album": {
         "name": "EP #2",
         "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
-    },
-    {
-      "added_at": "2026-05-07 22:01:07",
-      "album": {
-        "name": "You Got to Lose",
-        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 197646,
-      "name": "You Got to Lose",
-      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -1067,6 +1051,22 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-05-07 22:01:07",
+      "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Whisper of a Dream",
-        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
+        "name": "Drag Me",
+        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 264248,
-      "name": "Whisper of a Dream",
-      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
+      "duration_ms": 186237,
+      "name": "Drag Me",
+      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Drag Me",
-        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
+        "name": "Whisper of a Dream",
+        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 186237,
-      "name": "Drag Me",
-      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
+      "duration_ms": 264248,
+      "name": "Whisper of a Dream",
+      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4SLQnE0hqXkcnMlbLhcxnE"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/7mSWvlQpztPoJiswhM6pbd"
-    },
-    {
-      "added_at": "2026-05-07 22:01:07",
-      "album": {
         "name": "As Alive As You Need Me To Be",
         "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "Into The Ground",
-        "url": "https://open.spotify.com/album/05dEe5FJhNTFfcWARldHLa"
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4SLQnE0hqXkcnMlbLhcxnE"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 259448,
-      "name": "Into The Ground",
-      "url": "https://open.spotify.com/track/4qV6jreikyokvMUOnsEb8k"
+      "duration_ms": 233786,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/7mSWvlQpztPoJiswhM6pbd"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -1479,6 +1463,22 @@
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
+    },
+    {
+      "added_at": "2026-05-07 22:01:07",
+      "album": {
+        "name": "Into The Ground",
+        "url": "https://open.spotify.com/album/05dEe5FJhNTFfcWARldHLa"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 259448,
+      "name": "Into The Ground",
+      "url": "https://open.spotify.com/track/4qV6jreikyokvMUOnsEb8k"
     },
     {
       "added_at": "2026-05-07 22:01:07",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-05-07 22:01:07",
       "album": {
-        "name": "CHASING SHADOWS",
-        "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "CHASING SHADOWS",
-      "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
-    },
-    {
-      "added_at": "2026-05-07 22:01:07",
-      "album": {
         "name": "Freundschaft Plus",
         "url": "https://open.spotify.com/album/0PEQUwOq0DPdfpaWATYT30"
       },
@@ -1691,6 +1675,26 @@
       "duration_ms": 214760,
       "name": "Unicorns",
       "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu"
+    },
+    {
+      "added_at": "2026-05-07 22:01:07",
+      "album": {
+        "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
     }
   ],
   "unique_name": "Rock Rotation",

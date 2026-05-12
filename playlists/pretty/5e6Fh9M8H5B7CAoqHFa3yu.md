@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 318 likes - 2,282 songs - 5 day 15 hr 0 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 318 likes - 2,283 songs - 5 day 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2285,10 +2285,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2275 | [En Garde!](https://open.spotify.com/track/4TL8d01t2jh9CMhcWCh43C) | [Gato y Perro](https://open.spotify.com/artist/07cD6Ajjuy7dMC6mNr5CCi) | [En Garde!](https://open.spotify.com/album/4L8ghnDY247vJCGG3xI4dB) | 3:23 |
 | 2276 | [V Prozu Nie Leziet](https://open.spotify.com/track/2ELl7HbOCi279oJ2mBntx5) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [V Prozu Nie Leziet](https://open.spotify.com/album/1Bb35YX1lZYnNoovFIyLsR) | 1:45 |
 | 2277 | [Thank You For The Pain](https://open.spotify.com/track/1zmb0lSkxt0rQqczhvCOVd) | [Matt Goss](https://open.spotify.com/artist/4iyT11zNOsSsCsCuyikiyS) | [Thank You For The Pain](https://open.spotify.com/album/6YsIJrcUbw1YyvD539LlrX) | 3:21 |
-| 2278 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 |
+| 2278 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 |
 | 2279 | [Trust your light](https://open.spotify.com/track/32HkxQwRLlHeOObWb1sZpk) | [TwoNames](https://open.spotify.com/artist/2NVBsCklQDkpTijPfqqlLI) | [Trust your light](https://open.spotify.com/album/2Lt5jvum82KtNsrDGGKiwJ) | 4:59 |
 | 2280 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 |
 | 2281 | [Seconds Of Neon](https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Seconds Of Neon](https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC) | 3:31 |
 | 2282 | [EXISTED](https://open.spotify.com/track/4qIUEF3oGfshmaJQoSbN2Y) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [R.S TAPEZ 1](https://open.spotify.com/album/28NQqIZbAsA1sxtuuTV60B) | 0:59 |
+| 2283 | [Justin](https://open.spotify.com/track/2Sz2PJ4WHrJXlHstvPiGjS) | [The Oats](https://open.spotify.com/artist/4AN73N32ZF93Eil03Gr53B) | [Justin](https://open.spotify.com/album/6d5DFkT0xMXWP102bh9uGb) | 2:02 |
 
-Snapshot ID: `AAAJk3a3fYRskag2XtNV7C1kADdvcQwp`
+Snapshot ID: `AAAJlMgbWlQgRZL0iEyLk3IGmxoWNVcY`

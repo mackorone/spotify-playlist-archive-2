@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3229,
+  "num_followers": 3231,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAABrXiRipz6mtxoAo9wS8K3q",
+  "snapshot_id": "af/KgAAAAADPvdekn227WmFfu0IAzU3g",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bride! (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 116908,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/4n4p5J9mUea31Lbn9S98Uj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bride! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 116908,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4n4p5J9mUea31Lbn9S98Uj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
@@ -371,38 +371,6 @@
       "duration_ms": 195302,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7IiCY7BuSZN8p2BxauLjZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last And First Men",
-        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
-      },
-      "artists": [
-        {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Robert Aiki Aubrey Lowe",
-          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        }
-      ],
-      "duration_ms": 219515,
-      "name": "A Minor Astronomical Event",
-      "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
     },
     {
       "added_at": null,
@@ -439,6 +407,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "duration_ms": 219515,
+      "name": "A Minor Astronomical Event",
+      "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 184180,
-      "name": "Melody of Not Knowing",
-      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 121813,
       "name": "Young Penny",
       "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "Melody of Not Knowing",
+      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 140909,
-      "name": "Make Space",
-      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 216706,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 140909,
+      "name": "Make Space",
+      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bride! (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 120657,
-      "name": "I Would Prefer Not To",
-      "url": "https://open.spotify.com/track/7dmDk6vYEfYJL47d6nrdgL"
+      "duration_ms": 96893,
+      "name": "The Execution",
+      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
     },
     {
       "added_at": null,
@@ -963,22 +963,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battlefield 2042 (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
       "artists": [
         {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         },
         {
-          "name": "Sam Slater",
-          "url": "https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io"
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        },
+        {
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 152413,
-      "name": "Battlefield 2042",
-      "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
+      "duration_ms": 291706,
+      "name": "M\u00f3\u00f0ir",
+      "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

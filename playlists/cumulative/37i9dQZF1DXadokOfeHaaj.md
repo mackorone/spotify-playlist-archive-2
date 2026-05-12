@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: 1\-800 GIRLS
 
-447 songs - 1 day 3 hr 53 min
+448 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 2:49 | 2025-08-22 |  |
 | [Jini](https://open.spotify.com/track/4Pmg2EBOWFZVvi3zFs3SC3) | [Justin Faust](https://open.spotify.com/artist/3txM1X4je9gqlxE9IKqVsl) | [Jini](https://open.spotify.com/album/2blDmIqLlzYOP6F2JRL0Ze) | 4:20 | 2021-10-28 | 2024-03-29 |
 | [Journey \(feat\. Mysie\)](https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Journey \(feat\. Mysie\)](https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW) | 5:00 | 2024-02-02 | 2024-10-25 |
-| [Jumpstart](https://open.spotify.com/track/6urZNn4FFWnMBLJUiZgsuE) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Jumpstart](https://open.spotify.com/album/0EmggiykaPJjUKY75ZC5Nr) | 3:21 | 2026-05-07 |  |
+| [Jumpstart](https://open.spotify.com/track/6urZNn4FFWnMBLJUiZgsuE) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Jumpstart](https://open.spotify.com/album/0EmggiykaPJjUKY75ZC5Nr) | 3:21 | 2026-05-07 | 2026-05-12 |
 | [JUST FRIENDS](https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [JUST FRIENDS](https://open.spotify.com/album/2KNsDuRNuH5DxQui3aqEyV) | 2:24 | 2025-05-29 | 2025-08-02 |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-17 | 2026-05-08 |
 | [Kelsier](https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Kelsier](https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E) | 3:52 | 2026-04-16 |  |
@@ -246,6 +246,7 @@
 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 | 2026-05-08 |  |
 | [Make It Easy \(with Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5eWHJ1g1VWtHaGd3vle4me) | [Lovequest](https://open.spotify.com/artist/53aJGeGe9J6suHkjWJZ2aj), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Make It Easy](https://open.spotify.com/album/2VPqWnQAHvxUYRrDvCHpC0) | 2:54 | 2024-11-08 | 2025-02-14 |
 | [Make Me Feel Better](https://open.spotify.com/track/37Udv1XxXBOjmAgTr6n2f6) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 5:02 | 2026-05-07 |  |
+| [Makwande](https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5) | [Loud Bloom](https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL) | 5:30 | 2026-05-08 |  |
 | [mangetout \- The Dare remix](https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [mangetout \(The Dare remix\)](https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls) | 3:20 | 2026-02-13 |  |
 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 | 2025-05-29 | 2025-07-19 |
 | [MAYBE // YES](https://open.spotify.com/track/0ekKe6Fjv6TjApSyU7Fqw1) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [MAYBE // YES](https://open.spotify.com/album/7zVYSpvaRKJCkq18mQww6Z) | 3:29 | 2024-05-24 | 2025-02-14 |

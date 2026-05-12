@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>  cinco de mayo , soaking worship , jelly roll worship
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,146 likes - 143 songs - 9 hr 15 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 374,151 likes - 143 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 8 | [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 |
 | 9 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 |
 | 10 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 |
-| 11 | [You Lead Me](https://open.spotify.com/track/7HlhdDdgOd9Z7WHUaMDZCz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season Two\]](https://open.spotify.com/album/5KyrK3CCc10kU0JXkdEc0L) | 4:14 |
-| 12 | [Emoji](https://open.spotify.com/track/1NslSQmmWld562HPeASfst) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 4:40 |
-| 13 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
-| 14 | [There Goes That Man](https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man](https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C) | 4:20 |
-| 15 | [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 |
-| 16 | [There Is Power](https://open.spotify.com/track/3E5QVGfEkKzq3GRg2n06rN) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [There Is Power](https://open.spotify.com/album/7hBP9YBFnssyALuNkmnzYO) | 3:21 |
-| 17 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 |
-| 18 | [judas](https://open.spotify.com/track/6m8jy0dNtYqVi5c4EtLZdM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [judas](https://open.spotify.com/album/4uxZbSLK5fFH4BGvaNP16m) | 3:31 |
+| 11 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
+| 12 | [You Lead Me](https://open.spotify.com/track/7HlhdDdgOd9Z7WHUaMDZCz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season Two\]](https://open.spotify.com/album/5KyrK3CCc10kU0JXkdEc0L) | 4:14 |
+| 13 | [There Goes That Man](https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man](https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C) | 4:20 |
+| 14 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 |
+| 15 | [Emoji](https://open.spotify.com/track/1NslSQmmWld562HPeASfst) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 4:40 |
+| 16 | [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 |
+| 17 | [judas](https://open.spotify.com/track/6m8jy0dNtYqVi5c4EtLZdM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [judas](https://open.spotify.com/album/4uxZbSLK5fFH4BGvaNP16m) | 3:31 |
+| 18 | [There Is Power](https://open.spotify.com/track/3E5QVGfEkKzq3GRg2n06rN) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [There Is Power](https://open.spotify.com/album/7hBP9YBFnssyALuNkmnzYO) | 3:21 |
 | 19 | [Saturday](https://open.spotify.com/track/2qHzx9pQ4rxDGkauEEkjd7) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Saturday](https://open.spotify.com/album/1rHG4Xy7nq6FCPoeDJF8Kj) | 3:59 |
 | 20 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
 | 21 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 142 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |
 | 143 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
 
-Snapshot ID: `AAAms9fgcSX0HcKwhcMHN30SMa0TDMDx`
+Snapshot ID: `AAAmt1JFdw/gQsy6fq4XwZWUXML2N0ZC`

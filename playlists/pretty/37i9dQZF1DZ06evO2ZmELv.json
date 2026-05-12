@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAABssx1A3muLaLGD7cw56N/f",
+  "snapshot_id": "af/KgAAAAACIvVveTiNFkcrhW1iqjpiA",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/0OB9Olc1tCcJ9ZfLKcGaZl"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 176465,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/0pklfnxnp6v89Io3mIP8pF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancheritas Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
@@ -183,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Tesoro",
-        "url": "https://open.spotify.com/album/0OB9Olc1tCcJ9ZfLKcGaZl"
+        "name": "Ni Valia La Pena",
+        "url": "https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc"
       },
       "artists": [
         {
           "name": "Cheli Madrid",
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
         }
       ],
-      "duration_ms": 176465,
-      "name": "Mi Tesoro",
-      "url": "https://open.spotify.com/track/0pklfnxnp6v89Io3mIP8pF"
+      "duration_ms": 240774,
+      "name": "Ni Valia La Pena",
+      "url": "https://open.spotify.com/track/3iStjGhTRKO6cW1RNgL5fe"
     },
     {
       "added_at": null,
@@ -227,26 +247,6 @@
       "duration_ms": 291178,
       "name": "Tu Regalo Se Qued\u00f3 en el Arbolito",
       "url": "https://open.spotify.com/track/3uHTqXrx6TaVobKU6Imn1T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Valia La Pena",
-        "url": "https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        },
-        {
-          "name": "Lili Zetina",
-          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
-        }
-      ],
-      "duration_ms": 240774,
-      "name": "Ni Valia La Pena",
-      "url": "https://open.spotify.com/track/3iStjGhTRKO6cW1RNgL5fe"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Alla del Sol",
-        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 202315,
-      "name": "Mas Alla del Sol",
-      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+      "duration_ms": 193110,
+      "name": "Tu Gab\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Alla del Sol",
+        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 202315,
+      "name": "Mas Alla del Sol",
+      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
-      "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
+      "duration_ms": 160160,
+      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
     },
     {
       "added_at": null,
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 193110,
-      "name": "Tu Gab\u00e1n - En Vivo",
-      "url": "https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9"
+      "duration_ms": 162346,
+      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
     },
     {
       "added_at": null,
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 160160,
-      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
+      "duration_ms": 232202,
+      "name": "Tu Lo Decidiste - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/0wOxSHaY9lwjcIQ9ql8efP"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 198048,
       "name": "Te Metiste - En Vivo",
       "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
-      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 175125,
-      "name": "Con Rumbo Al Sur - En Vivo",
-      "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
     },
     {
       "added_at": null,
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 153701,
-      "name": "Tengo Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE"
+      "duration_ms": 175125,
+      "name": "Con Rumbo Al Sur - En Vivo",
+      "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
     },
     {
       "added_at": null,
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 271461,
-      "name": "Es Demasiado Tarde - En Vivo",
-      "url": "https://open.spotify.com/track/0e2RjIK50zfagXtG00riZB"
+      "duration_ms": 153701,
+      "name": "Tengo Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 161621,
       "name": "Coraz\u00f3n De Oropel - En Vivo",
       "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 218814,
+      "name": "Caray - En Vivo",
+      "url": "https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

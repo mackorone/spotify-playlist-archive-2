@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S"
+      },
+      "artists": [
+        {
+          "name": "Lemon Knife",
+          "url": "https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201614,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4"
+    },
+    {
+      "album": {
         "name": "MMXXII",
         "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
       },

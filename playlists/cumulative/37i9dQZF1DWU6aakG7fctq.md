@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Silvana Estrada & pablopablo
 
-1,170 songs - 2 day 16 hr 2 min
+1,171 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [bandOlerO](https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv) | [Oliver Berg](https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv) | [bandOlerO](https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9) | 3:16 | 2025-10-24 | 2026-03-14 |
 | [Barco](https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ) | [Barco](https://open.spotify.com/album/6GTH6NLtc0y5bvCSLpemGg) | 3:31 | 2024-02-23 | 2024-04-27 |
 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 | 2026-03-06 |  |
-| [Barra Payan](https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Barra Payan](https://open.spotify.com/album/4kyRtcVqVxmWpT5fPT9Wx7) | 2:52 | 2026-02-27 |  |
+| [Barra Payan](https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Barra Payan](https://open.spotify.com/album/4kyRtcVqVxmWpT5fPT9Wx7) | 2:52 | 2026-02-27 | 2026-05-12 |
 | [BASTARME](https://open.spotify.com/track/0W6kbQVX974vQBx0o6yEHp) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [BASTARME](https://open.spotify.com/album/5Z9eCfV6hMYhRbY3A6s9g8) | 2:53 | 2025-09-05 | 2025-10-11 |
 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 | 2025-04-25 | 2025-08-02 |
 | [beibi](https://open.spotify.com/track/3h0gfCs5SzVvBzesYH4gGi) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [beibi](https://open.spotify.com/album/4PWQSzPf0qHH0PUshlypcH) | 2:51 | 2025-08-08 | 2025-10-11 |
@@ -873,6 +873,7 @@
 | [Quiero](https://open.spotify.com/track/7nY2uuncCpw22ALvb21ZaN) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Quiero](https://open.spotify.com/album/6XGjvNs0x94hx84l0fx3X6) | 3:01 | 2025-05-30 | 2025-06-28 |
 | [Quiero Decirle](https://open.spotify.com/track/1CFA6iYZVHZpOL7MItMho6) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Quiero Decirle](https://open.spotify.com/album/2TeBHe0LyT6dyZhsOBaVIB) | 4:34 | 2023-03-10 | 2023-03-18 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-14 | 2024-01-27 |
+| [quisiera](https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [quisiera](https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs) | 4:14 | 2026-05-11 |  |
 | [Quisiera Saber](https://open.spotify.com/track/0j8lNUjVM5tMCofwig8zHm) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Quisiera Saber](https://open.spotify.com/album/4Fjt3hR9wLnAofCJ391vQE) | 2:44 | 2025-05-30 | 2025-09-16 |
 | [Quizá Baby](https://open.spotify.com/track/70KjzniDqhCpmeI8psT5ui) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE) | [Quizá Baby](https://open.spotify.com/album/5u4utx33DWX8QLWOfDpsCw) | 3:37 | 2024-08-02 | 2024-10-26 |
 | [Quiéreme O Ándate](https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Quiéreme O Ándate](https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2) | 2:56 | 2024-10-04 | 2024-11-23 |

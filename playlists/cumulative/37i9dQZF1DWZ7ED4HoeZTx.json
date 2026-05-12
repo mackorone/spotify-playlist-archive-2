@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 230908,
       "name": "Okay, Goodbye",
       "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -1622,6 +1622,24 @@
       "duration_ms": 250333,
       "name": "Why",
       "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
+    },
+    {
+      "album": {
+        "name": "Akeboshi",
+        "url": "https://open.spotify.com/album/6lTOmOSRAWvAwdv15KnMb8"
+      },
+      "artists": [
+        {
+          "name": "Akeboshi",
+          "url": "https://open.spotify.com/artist/7whUoQAv5bVu2Cv4ZmgTyw"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f"
     },
     {
       "album": {

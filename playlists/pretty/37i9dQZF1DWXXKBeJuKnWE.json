@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Loathe",
-  "num_followers": 493116,
+  "num_followers": 493076,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Into Oblivion",
-        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 245350,
-      "name": "St. Catherine's Wheel",
-      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "METAL FORTH",
         "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 200698,
       "name": "My Queen (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 245350,
+      "name": "St. Catherine's Wheel",
+      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 132476,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
       },
@@ -1263,22 +1247,6 @@
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
-        "name": "Can I Get A",
-        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 223484,
-      "name": "Can I Get A",
-      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1299,6 +1267,38 @@
       "duration_ms": 215266,
       "name": "Feed (feat. DeathbyRomy)",
       "url": "https://open.spotify.com/track/6E07yIbMpOaZFisNCajNk4"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Can I Get A",
+        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 223484,
+      "name": "Can I Get A",
+      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Pain to Power",
-        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Bloodsport",
-      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:23",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 93920,
       "name": "Of Her",
       "url": "https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5"
+    },
+    {
+      "added_at": "2026-04-30 23:01:23",
+      "album": {
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Bloodsport",
+      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
     },
     {
       "added_at": "2026-04-30 23:01:23",
@@ -1679,8 +1679,8 @@
     {
       "added_at": "2026-04-30 23:01:23",
       "album": {
-        "name": "Trickle Down",
-        "url": "https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr"
+        "name": "Deceptacon",
+        "url": "https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc"
       },
       "artists": [
         {
@@ -1688,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 167419,
-      "name": "Trickle Down",
-      "url": "https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4"
+      "duration_ms": 193871,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG"
     }
   ],
   "unique_name": "The Pit",

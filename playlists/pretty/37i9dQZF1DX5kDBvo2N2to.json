@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61018,
+  "num_followers": 61014,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-05-07 22:02:30",
       "album": {
+        "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 187842,
+      "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
+    },
+    {
+      "added_at": "2026-05-07 22:02:30",
+      "album": {
         "name": "St\u00f6rd",
         "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 210292,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
-    },
-    {
-      "added_at": "2026-05-07 22:02:30",
-      "album": {
-        "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 187842,
-      "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
     },
     {
       "added_at": "2026-05-07 22:02:30",

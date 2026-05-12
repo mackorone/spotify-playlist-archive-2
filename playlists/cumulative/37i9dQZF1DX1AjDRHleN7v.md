@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-174 songs - 9 hr 46 min
+175 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 | 2025-04-05 |  |
 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 | 2023-07-03 |  |
 | [Na minha cabeça](https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 3:09 | 2025-03-23 |  |
+| [Na minha cabeça](https://open.spotify.com/track/2itpUsUjv9nF5vhSVr4Fqb) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Onda](https://open.spotify.com/album/0M4yn3iWiWya5suzWFpYE2) | 3:09 | 2026-05-11 |  |
 | [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 | 2023-07-03 | 2025-10-15 |
-| [Nada é em Vão](https://open.spotify.com/track/388cU1sLln763vd2CIC25j) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Nada é em Vão](https://open.spotify.com/album/2Ntt2xrPRZLKgzmV7zNQ7l) | 3:50 | 2026-03-27 |  |
+| [Nada é em Vão](https://open.spotify.com/track/388cU1sLln763vd2CIC25j) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Nada é em Vão](https://open.spotify.com/album/2Ntt2xrPRZLKgzmV7zNQ7l) | 3:50 | 2026-03-27 | 2026-05-12 |
 | [Nada É em Vão](https://open.spotify.com/track/3n7MHHJ8KjZ5dX7FMjyVks) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:50 | 2023-07-03 | 2024-02-25 |
 | [Namora Comigo \- Ao Vivo](https://open.spotify.com/track/74ZNzfjGzndMphc6lxiQUl) | [Tauã Cordel](https://open.spotify.com/artist/57qCX4KKubPxn6eBgfR3s6), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Namora Comigo](https://open.spotify.com/album/6Dz9DByVqaP2ok2vMK5BL5) | 3:29 | 2024-02-23 | 2024-03-23 |
 | [Nossos Beijos \- Ao Vivo](https://open.spotify.com/track/0scgnlKar795GmHYUyGT15) | [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi), [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Chama \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/3bLTLIgFEmEmrFp649BnoW) | 3:44 | 2023-07-03 | 2023-09-30 |

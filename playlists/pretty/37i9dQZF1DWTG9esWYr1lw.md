@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,365 likes - 39 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,368 likes - 39 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 14 | [Ahlan Ramadan](https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Ahlan Ramadan](https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6) | 3:34 |
 | 15 | [Ramadan Gana](https://open.spotify.com/track/5WaEjgx4Kjf2TrkiKkPuIR) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Ramadan Gana](https://open.spotify.com/album/79kPEPMQnMCE6Cz2op1EOl) | 2:33 |
 | 16 | [Ramadan](https://open.spotify.com/track/0631T6O8VQii5psaecBwdD) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Ramadan](https://open.spotify.com/album/0AkKexwWASDXVYZEgrJtOr) | 3:53 |
-| 17 | [Hato Al Foanis](https://open.spotify.com/track/1rKTvYQgVkbhncmUC0AkA3) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Hato Al Foanis](https://open.spotify.com/album/2yW5HJqLQQJtV7Q8p8MGte) | 5:44 |
-| 18 | [Ahlan Ramadan](https://open.spotify.com/track/5UEvq6ETaJR5wj37ilX1XI) | [Retal Ahmed](https://open.spotify.com/artist/4ekd61wSfTTuqb6qW9SI4A), [Ahmed Hasan Eluxory](https://open.spotify.com/artist/5ho0oRcst7QbETqcmz0meF), [Ahmed Hassan Eluxory](https://open.spotify.com/artist/6GUQY8rQYyjtx96urPgkRu) | [Ahlan Ramadan](https://open.spotify.com/album/5kbUXHN5AuYp5Yww0QgiNE) | 3:05 |
+| 17 | [Ahlan Ramadan](https://open.spotify.com/track/5UEvq6ETaJR5wj37ilX1XI) | [Retal Ahmed](https://open.spotify.com/artist/4ekd61wSfTTuqb6qW9SI4A), [Ahmed Hasan Eluxory](https://open.spotify.com/artist/5ho0oRcst7QbETqcmz0meF), [Ahmed Hassan Eluxory](https://open.spotify.com/artist/6GUQY8rQYyjtx96urPgkRu) | [Ahlan Ramadan](https://open.spotify.com/album/5kbUXHN5AuYp5Yww0QgiNE) | 3:05 |
+| 18 | [Hato Al Foanis](https://open.spotify.com/track/1rKTvYQgVkbhncmUC0AkA3) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Hato Al Foanis](https://open.spotify.com/album/2yW5HJqLQQJtV7Q8p8MGte) | 5:44 |
 | 19 | [Marhab Ya Hilal](https://open.spotify.com/track/5ME7NiysXCzVFuX4mcYHI8) | [Alma](https://open.spotify.com/artist/4jfbsn6PnS2LkLK4e9qj1d) | [Marhab Ya Hilal](https://open.spotify.com/album/0LcVPX9tVGJWEH3Z9AN329) | 3:15 |
 | 20 | [Helal Ramadan](https://open.spotify.com/track/28cqWwnDSwU33ABsQfRECV) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Ella Rasoul Allah](https://open.spotify.com/album/1U4woXAO88TTZKflbtfCtP) | 2:28 |
 | 21 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 29 | [يا مرحبا رمضان](https://open.spotify.com/track/1DEKJaG7dEhGRr7pwlYwZE) | [أنس سيد](https://open.spotify.com/artist/0DmkKZLfe3VtI1HbbWWSaf) | [يا مرحبا رمضان](https://open.spotify.com/album/1bWEH5ONUKIzR9RDBenaVL) | 3:22 |
 | 30 | [Ahlan Rmdan](https://open.spotify.com/track/7H3Ji1vmOo5htleCTu7i3I) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Ahlan Rmdan](https://open.spotify.com/album/0zVcG2aXfYMK1ByQp5XvjK) | 5:48 |
 | 31 | [Efrahou Ya Banat](https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:32 |
-| 32 | [Ramadan](https://open.spotify.com/track/0K4qGuQZBDw31RhC5AMLyq) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Ramadan](https://open.spotify.com/album/6nzjASwcyHuqrk8QA4gkJw) | 3:01 |
-| 33 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 |
-| 34 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
+| 32 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 |
+| 33 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
+| 34 | [Ramadan](https://open.spotify.com/track/0K4qGuQZBDw31RhC5AMLyq) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Ramadan](https://open.spotify.com/album/6nzjASwcyHuqrk8QA4gkJw) | 3:01 |
 | 35 | [أهلا رمضان](https://open.spotify.com/track/6wJjIW14ul8rdLZwoOpr2z) | [Badr Soultan](https://open.spotify.com/artist/01haa57xRGVU3u7Nly8OD4) | [أهلا رمضان](https://open.spotify.com/album/2H75vEJHwOaSWnlM3Y4ZgG) | 4:03 |
 | 36 | [Ahlan Ya Ramadhan](https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v) | [Rayhaan Carrim](https://open.spotify.com/artist/5DVVzZtDQfbNSY4NWT2Kp6) | [Ahlan Ya Ramadhan](https://open.spotify.com/album/7CKD4o6QQljTmUeed7H1F9) | 3:29 |
 | 37 | [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 |

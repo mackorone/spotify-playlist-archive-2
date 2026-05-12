@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari  Rizwan Fadilah, RnBoyz\*, Mahalini, Sheila on 7,  Ariel NOAH, Salma Salsabil, CORTIS dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,097 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,102 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 2 | [Sederhana](https://open.spotify.com/track/03s6vDyVEunObMIbnd5Naj) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sederhana](https://open.spotify.com/album/62Rt09IpnlZPyqkpQaXQTa) | 4:05 |
 | 3 | [Ancika \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Ancika \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8) | 3:18 |
 | 4 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
-| 5 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 5 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 6 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
 | 7 | [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 |
 | 8 | [TNT](https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:02 |

@@ -152,6 +152,24 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134436,
+      "name": "Blackbird Returning",
+      "url": "https://open.spotify.com/track/57u22n34Gm8r3KIyiRPsXK"
+    },
+    {
+      "album": {
+        "name": "Blackbird Rising & Blackbird Returns",
+        "url": "https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 238510,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,137 songs - 3 day 1 hr 28 min
+1,138 songs - 3 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [That! Feels Good!](https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:22 | 2023-04-29 | 2023-05-09 |
 | [That’s Just the Way That I Feel](https://open.spotify.com/track/5mgCP62kIGit9ICUdaqIgq) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 3:23 | 2022-06-13 |  |
 | [The After Party](https://open.spotify.com/track/6C5HSuCqmjcJSpvUkq9w5d) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Kevin Devine](https://open.spotify.com/artist/66ScZxprvrMbCtN4ivA0JX) | [II](https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp) | 3:33 | 2024-02-12 |  |
+| [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 | 2026-05-11 |  |
 | [The Bad In Each Other](https://open.spotify.com/track/61etm6bMP3BnD3SiwreMZu) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 4:44 | 2023-12-16 | 2024-08-12 |
 | [The Baddest](https://open.spotify.com/track/1VPrpfphPvCkTM09DDt7OY) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 2:43 | 2022-09-07 |  |
 | [The Ballad Of The RAA](https://open.spotify.com/track/3TU3qRbVu8jSv6IrfY0FoV) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Hometowns](https://open.spotify.com/album/5X27E81cePL9bNER4QEjmO) | 3:28 | 2026-01-20 |  |

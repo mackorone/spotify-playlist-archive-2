@@ -2061,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
+    },
+    {
+      "album": {
         "name": "BXX",
         "url": "https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw"
       },
@@ -7115,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "FIX OFF Desire Project : ORIGIN",
+        "url": "https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku"
+      },
+      "artists": [
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147467,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R"
+    },
+    {
+      "album": {
         "name": "Dingga",
         "url": "https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK"
       },
@@ -9008,6 +9048,24 @@
       "duration_ms": 224586,
       "name": "Feel Good (SECRET CODE)",
       "url": "https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2KQRcZndtv8uIlxEomWIvv"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/601PE19munEG1ROxnvzL31"
     },
     {
       "album": {
@@ -18234,7 +18292,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 194069,
       "name": "MUSEUM",
       "url": "https://open.spotify.com/track/52otRjqSDSPOpLYmiLU7cj"
@@ -25407,6 +25465,24 @@
     },
     {
       "album": {
+        "name": "Stolen (KR ver.)",
+        "url": "https://open.spotify.com/album/4RaePGZkXJoZrjfG47n2wH"
+      },
+      "artists": [
+        {
+          "name": "H//PE Princess",
+          "url": "https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Stolen (KR ver.)",
+      "url": "https://open.spotify.com/track/7eMzLJkazXNJT2QGyqq1qZ"
+    },
+    {
+      "album": {
         "name": "STRANGER",
         "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
       },
@@ -27128,7 +27204,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 167000,
       "name": "The Show",
       "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
@@ -27410,7 +27486,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 133000,
       "name": "TIC TIC (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/2ZBMbueQLQZAUHio2jplVK"
@@ -30832,7 +30908,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 215200,
       "name": "X room",
       "url": "https://open.spotify.com/track/74Htt1SSAm1YrIqPq6DfU1"

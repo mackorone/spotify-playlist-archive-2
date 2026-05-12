@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8186,
+  "num_followers": 8185,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAB4eTQIKe7nnXROpwtRr1qU",
+  "snapshot_id": "af/KgAAAAABduFpBk3xDv3AJ1NAii4KR",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 177826,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
+      "duration_ms": 145337,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/7thQxNZ1gvjrOMO3uXE8E3"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Relampagos Del Norte En Vivo (Live)",
         "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 210200,
       "name": "Aunque Tengas Otros Amores - Live",
       "url": "https://open.spotify.com/track/0KEsDqkKqV2Ix7rHNmyhtq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 145337,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/7thQxNZ1gvjrOMO3uXE8E3"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Martyna Baranowska",
-  "num_followers": 25783,
+  "num_followers": 25781,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Wieje",
-        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
-      },
-      "artists": [
-        {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
-        }
-      ],
-      "duration_ms": 253551,
-      "name": "Z\u0142y, najgorszy sen",
-      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "XY",
         "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 148000,
       "name": "PASTEL SKIES",
       "url": "https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Wieje",
+        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 253551,
+      "name": "Z\u0142y, najgorszy sen",
+      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Egipt",
-        "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 159790,
-      "name": "Egipt",
-      "url": "https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "Eksperyment",
         "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 202295,
       "name": "Z cukrem myl\u0119 l\u00f3d",
       "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Egipt",
+        "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 159790,
+      "name": "Egipt",
+      "url": "https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Room Of Lies",
-        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
+        "name": "Herbaciana",
+        "url": "https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb"
       },
       "artists": [
         {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        },
+        {
+          "name": "Micha\u0142 Rajca",
+          "url": "https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe"
         }
       ],
-      "duration_ms": 170880,
-      "name": "Room Of Lies",
-      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
+      "duration_ms": 189974,
+      "name": "Herbaciana",
+      "url": "https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -703,22 +707,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Herbaciana",
-        "url": "https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb"
+        "name": "Room Of Lies",
+        "url": "https://open.spotify.com/album/2MmHtirw3z96fZr2EAmsR7"
       },
       "artists": [
         {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        },
-        {
-          "name": "Micha\u0142 Rajca",
-          "url": "https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe"
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
         }
       ],
-      "duration_ms": 189974,
-      "name": "Herbaciana",
-      "url": "https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE"
+      "duration_ms": 170880,
+      "name": "Room Of Lies",
+      "url": "https://open.spotify.com/track/1pAGEVfhuIkMUwH0JJdj8o"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
+        "name": "STILL PRETTY WHEN I CRY",
+        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "STILL PRETTY WHEN I CRY",
+      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
         "name": "Na stacji paliw",
         "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "STILL PRETTY WHEN I CRY",
-        "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
+        "name": "Wspania\u0142y to by\u0142 rok",
+        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
       },
       "artists": [
         {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
         }
       ],
-      "duration_ms": 159473,
-      "name": "STILL PRETTY WHEN I CRY",
-      "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+      "duration_ms": 172193,
+      "name": "Wspania\u0142y to by\u0142 rok",
+      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -915,22 +931,6 @@
       "duration_ms": 150093,
       "name": "Co\u015b mi jeszcze opowiedz",
       "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
-        "name": "Wspania\u0142y to by\u0142 rok",
-        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 172193,
-      "name": "Wspania\u0142y to by\u0142 rok",
-      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "\u017bURAWIE",
-        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
-      },
-      "artists": [
-        {
-          "name": "Barnim",
-          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "\u017bURAWIE",
-      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
-    },
-    {
-      "added_at": "2026-05-07 22:03:06",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2026-05-07 22:03:06",
       "album": {
-        "name": "Explozja",
-        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
+        "name": "\u017bURAWIE",
+        "url": "https://open.spotify.com/album/5HjIBIK0vlq42Yzc4Mzm3t"
       },
       "artists": [
         {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+          "name": "Barnim",
+          "url": "https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj"
         }
       ],
-      "duration_ms": 177777,
-      "name": "Explozja",
-      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
+      "duration_ms": 145533,
+      "name": "\u017bURAWIE",
+      "url": "https://open.spotify.com/track/1nT0822I7pQ2qISF80IWjo"
     },
     {
       "added_at": "2026-05-07 22:03:06",
@@ -1099,6 +1083,22 @@
       "duration_ms": 186674,
       "name": "baza",
       "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
+    },
+    {
+      "added_at": "2026-05-07 22:03:06",
+      "album": {
+        "name": "Explozja",
+        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Explozja",
+      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
     }
   ],
   "unique_name": "up next",

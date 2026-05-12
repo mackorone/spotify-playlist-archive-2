@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Leo Rizzi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,140 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,096 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 14 | [otro año](https://open.spotify.com/track/200gGu9eIiTePAJEDvcobw) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [entre tu y yo](https://open.spotify.com/album/5E8g8BGv8LW19rcEzeZf4D) | 2:46 |
 | 15 | [Kinder Bueno & Lotus](https://open.spotify.com/track/7qcK6Udp3c3WZ81HhU59fz) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR), [GRAVY](https://open.spotify.com/artist/2KbUHBduxmVybndhBOItql), [Piel Canala](https://open.spotify.com/artist/2gDERQi7c7SEWBzH1juZlS) | [Kinder Bueno & Lotus](https://open.spotify.com/album/39PSYED2szx6jiI44iBitp) | 3:08 |
 | 16 | [DIJE LO QUE DIJE PORQUE](https://open.spotify.com/track/2IHiO3gTE5VxmLOqAdVlZ4) | [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty), [Travv](https://open.spotify.com/artist/4ZtGg3jRJlcs9XyvNsgLRO) | [DIJE LO QUE DIJE PORQUE](https://open.spotify.com/album/2uzCyleiHkOEXfQnSxZh1a) | 2:38 |
-| 17 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |
+| 17 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD), [Pachi García Prod](https://open.spotify.com/artist/7BMJGihuhtHu6FHVvanqjF) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |
 | 18 | [Fuerza](https://open.spotify.com/track/2zToktreRRaTXyBx8hS4jj) | [Glas](https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch) | [Desorden Emocional](https://open.spotify.com/album/6l8DqY3A9vQY8JUJDyPqzo) | 3:34 |
 | 19 | [Chispa](https://open.spotify.com/track/3ExI2rLq13LgRFRWNIwfrk) | [Smile](https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o) | [Chispa](https://open.spotify.com/album/03M294mRkVcAIrt5XBxXdg) | 3:57 |
 | 20 | [Milagro 18:08](https://open.spotify.com/track/6EQWZqjfYnMCLXpFoWDUdz) | [Nita](https://open.spotify.com/artist/3HOdV3YkWm5bpM4PHqukMR) | [Milagro 18:08](https://open.spotify.com/album/1xDbiyrj5mMAZeHXc54cc1) | 3:14 |

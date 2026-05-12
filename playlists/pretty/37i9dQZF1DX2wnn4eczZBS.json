@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Eva van Manen",
-  "num_followers": 11387,
+  "num_followers": 11386,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-05-05 22:00:35",
       "album": {
+        "name": "YAYO HARTJE JIMMY",
+        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 189648,
+      "name": "Ze Wil",
+      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
+    },
+    {
+      "added_at": "2026-05-05 22:00:35",
+      "album": {
         "name": "Opscheer",
         "url": "https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 168078,
       "name": "Opscheer",
       "url": "https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz"
-    },
-    {
-      "added_at": "2026-05-05 22:00:35",
-      "album": {
-        "name": "YAYO HARTJE JIMMY",
-        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 189648,
-      "name": "Ze Wil",
-      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
     },
     {
       "added_at": "2026-05-05 22:00:35",

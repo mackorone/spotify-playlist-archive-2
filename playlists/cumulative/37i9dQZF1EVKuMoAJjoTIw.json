@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWbSKJ2brasF>Bruno Mars</a>, <a href=spotify:playlist:37i9dQZF1EIUTVcY7MUDT0>Marc Segu\u00ed</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY7CvPxC9irc>Ruth B.</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 331255,
       "name": "Baoul Aady",
       "url": "https://open.spotify.com/track/2MrvjRfkF7j5RfDddxPbk0"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/0uvagCBJC0ClsR11W10T0Y"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 317640,
       "name": "Diary Depresiku",
       "url": "https://open.spotify.com/track/1sNdqKvlMZDBzBUw76qx27"
@@ -5855,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Sadiyan Gallan 2",
+        "url": "https://open.spotify.com/album/5GRxr4Uq98qw9vJhoGK36O"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Gal Kaon Karda",
+      "url": "https://open.spotify.com/track/0JVdHOMa8Agqs7AayPb2Xl"
+    },
+    {
+      "album": {
         "name": "Geceleri Ald\u0131m Senden",
         "url": "https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C"
       },
@@ -5906,7 +5924,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
@@ -6314,6 +6332,24 @@
       "duration_ms": 272485,
       "name": "Happiness is a butterfly",
       "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
+    },
+    {
+      "album": {
+        "name": "Breakthru",
+        "url": "https://open.spotify.com/album/0VwLB6mtRWsd0Rd9XVGr1X"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252540,
+      "name": "Hapus Aku",
+      "url": "https://open.spotify.com/track/0gwOixLwtjRpnC52W7aHYR"
     },
     {
       "album": {
@@ -12483,6 +12519,24 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/0Gm4NW8cWk2W3eUbapEWSD"
+      },
+      "artists": [
+        {
+          "name": "Sabi Bhinder",
+          "url": "https://open.spotify.com/artist/5tzknsKlnqImFwdw2yn0ng"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184816,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/55OfBElVAZDNBt1oCSungN"
+    },
+    {
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -13780,7 +13834,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 281756,
       "name": "Seket Leh",
       "url": "https://open.spotify.com/track/50a2GGMcmDCMKTo73OppNW"
@@ -14730,7 +14784,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 78024,
       "name": "stalk ur socials",
       "url": "https://open.spotify.com/track/18DmllGM1l2hUefG2JjZVV"
@@ -15304,7 +15358,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
@@ -16278,7 +16332,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -16907,6 +16961,24 @@
     },
     {
       "album": {
+        "name": "Memu Vayasuku Vachham",
+        "url": "https://open.spotify.com/album/2hgyE4PJD9S9fjmCeENRSL"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277186,
+      "name": "Vellipoke",
+      "url": "https://open.spotify.com/track/397ca8b09VvIeZtjVGcoRm"
+    },
+    {
+      "album": {
         "name": "Born To Die (Deluxe Version)",
         "url": "https://open.spotify.com/album/2GGstjn2lepcltXd21I24t"
       },
@@ -17048,7 +17120,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 228648,
       "name": "Wahshak",
       "url": "https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf"
@@ -17626,7 +17698,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
@@ -17968,7 +18040,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 250135,
       "name": "Yaah",
       "url": "https://open.spotify.com/track/26gwWepGyD010IUMA55OMr"
@@ -18582,7 +18654,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 258000,
       "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM"

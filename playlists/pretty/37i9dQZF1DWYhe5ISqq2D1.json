@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: \u5927\u6a4b\u3061\u3063\u307d\u3051",
-  "num_followers": 65152,
+  "num_followers": 65145,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "New Walk",
-        "url": "https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 240398,
-      "name": "New Walk",
-      "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
         "name": "\u30aa\u30ea\u30fc\u30d6",
         "url": "https://open.spotify.com/album/24KmMEZaA9H6jvjgWAWpMM"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "\u5e78\u305b\u306e\u8272",
-        "url": "https://open.spotify.com/album/2H4TS8jql9CaCrJ1kZ8sVz"
+        "name": "New Walk",
+        "url": "https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC"
       },
       "artists": [
         {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
         }
       ],
-      "duration_ms": 253727,
-      "name": "\u5e78\u305b\u306e\u8272",
-      "url": "https://open.spotify.com/track/1juaA8WMJ43w0LlFdRcewf"
+      "duration_ms": 240398,
+      "name": "New Walk",
+      "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -691,6 +675,22 @@
       "duration_ms": 180000,
       "name": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
+        "name": "\u5e78\u305b\u306e\u8272",
+        "url": "https://open.spotify.com/album/2H4TS8jql9CaCrJ1kZ8sVz"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "duration_ms": 253727,
+      "name": "\u5e78\u305b\u306e\u8272",
+      "url": "https://open.spotify.com/track/1juaA8WMJ43w0LlFdRcewf"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
+        "name": "\u611b\u3005",
+        "url": "https://open.spotify.com/album/2yUJjOszCwSb7SeanQ9U9x"
+      },
+      "artists": [
+        {
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+        }
+      ],
+      "duration_ms": 253315,
+      "name": "\u611b\u3005",
+      "url": "https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
         "name": "\u66d6\u6627\u306a\u6307\u5207\u308a",
         "url": "https://open.spotify.com/album/14csdTRiKxlBRNt5yCwEbR"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "\u611b\u3005",
-        "url": "https://open.spotify.com/album/2yUJjOszCwSb7SeanQ9U9x"
-      },
-      "artists": [
-        {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
-        }
-      ],
-      "duration_ms": 253315,
-      "name": "\u611b\u3005",
-      "url": "https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
         "name": "\u65e5\u3005\u6563\u6f2b",
         "url": "https://open.spotify.com/album/2NAsVsq0trIIgvpk2pHtCW"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "\u9752\u8449",
-        "url": "https://open.spotify.com/album/5BTWDCyyD1K4TtuzTPohGf"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 232488,
-      "name": "\u9752\u8449",
-      "url": "https://open.spotify.com/track/5UJzCg8xaEpC59l3agBzX7"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
         "name": "Ray",
         "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 276200,
       "name": "Ray",
       "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
+        "name": "\u9752\u8449",
+        "url": "https://open.spotify.com/album/5BTWDCyyD1K4TtuzTPohGf"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 232488,
+      "name": "\u9752\u8449",
+      "url": "https://open.spotify.com/track/5UJzCg8xaEpC59l3agBzX7"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -1067,6 +1067,22 @@
       "duration_ms": 205714,
       "name": "\u61f8\u60f3\u6b4c",
       "url": "https://open.spotify.com/track/46gfNiAB0mlL0ieIkcdWRq"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
+        "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
+        "url": "https://open.spotify.com/album/1tGGXTiU9sBCuOSy2Fuvi4"
+      },
+      "artists": [
+        {
+          "name": "Nakamura Hak",
+          "url": "https://open.spotify.com/artist/3dyQzEg20lVCIo245spjoT"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
+      "url": "https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "tone (Special Edition)",
-        "url": "https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 292490,
-      "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
-      "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
         "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
         "url": "https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1"
       },
@@ -1167,34 +1167,34 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
-        "url": "https://open.spotify.com/album/1tGGXTiU9sBCuOSy2Fuvi4"
+        "name": "tone (Special Edition)",
+        "url": "https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9"
       },
       "artists": [
         {
-          "name": "Nakamura Hak",
-          "url": "https://open.spotify.com/artist/3dyQzEg20lVCIo245spjoT"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 277000,
-      "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
-      "url": "https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq"
+      "duration_ms": 292490,
+      "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
+      "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
     },
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "\u30ea\u30d9\u30e9",
-        "url": "https://open.spotify.com/album/3RuyvYAJQpgF1qR7R3ofzC"
+        "name": "cappuccino",
+        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
       },
       "artists": [
         {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
         }
       ],
-      "duration_ms": 148679,
-      "name": "\u30ea\u30d9\u30e9",
-      "url": "https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP"
+      "duration_ms": 151034,
+      "name": "cappuccino",
+      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -1211,6 +1211,22 @@
       "duration_ms": 183679,
       "name": "blue hour",
       "url": "https://open.spotify.com/track/2VezAeFgaa9IFRChV9wEPf"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
+        "name": "\u30ea\u30d9\u30e9",
+        "url": "https://open.spotify.com/album/3RuyvYAJQpgF1qR7R3ofzC"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 148679,
+      "name": "\u30ea\u30d9\u30e9",
+      "url": "https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -1259,22 +1275,6 @@
       "duration_ms": 253041,
       "name": "\u308f\u304b\u308c\u306e\u3046\u305f - Wakare no uta",
       "url": "https://open.spotify.com/track/3qsuqGRNyg6tV26MQ6gH0U"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
-        "name": "cappuccino",
-        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
-      },
-      "artists": [
-        {
-          "name": "kakizaki yuta",
-          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "cappuccino",
-      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2flwTAcov0DUVg1ggCx1R4"
+      },
+      "artists": [
+        {
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/3vM2M13sgm6CzsJisB28IE"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
         "name": "\u96e8\u5bbf\u3089\u305a",
         "url": "https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 197068,
       "name": "RUST",
       "url": "https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/2flwTAcov0DUVg1ggCx1R4"
-      },
-      "artists": [
-        {
-          "name": "idom",
-          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/3vM2M13sgm6CzsJisB28IE"
     },
     {
       "added_at": "2026-05-05 15:00:54",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-05 15:00:54",
       "album": {
-        "name": "100\u5e74\u5f8c\u306b\u306f\u3069\u3046\u305b\u7686\u6b7b\u3093\u3067\u3044\u308b",
-        "url": "https://open.spotify.com/album/0csW6hEvGHOjTqmvtH3PPe"
-      },
-      "artists": [
-        {
-          "name": "\u65e9\u5ddd \u84ee",
-          "url": "https://open.spotify.com/artist/7t8DbkykbW5BcKoZZHwzMX"
-        }
-      ],
-      "duration_ms": 170352,
-      "name": "100\u5e74\u5f8c\u306b\u306f\u3069\u3046\u305b\u7686\u6b7b\u3093\u3067\u3044\u308b",
-      "url": "https://open.spotify.com/track/5QeoqHzHOnRq0zOhAseALm"
-    },
-    {
-      "added_at": "2026-05-05 15:00:54",
-      "album": {
         "name": "\u82b1\u675f",
         "url": "https://open.spotify.com/album/3OciJ2DnyvaAPRVoqOlluz"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 202659,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/6fdfN996bpKMVIM3H6JozT"
+    },
+    {
+      "added_at": "2026-05-05 15:00:54",
+      "album": {
+        "name": "100\u5e74\u5f8c\u306b\u306f\u3069\u3046\u305b\u7686\u6b7b\u3093\u3067\u3044\u308b",
+        "url": "https://open.spotify.com/album/0csW6hEvGHOjTqmvtH3PPe"
+      },
+      "artists": [
+        {
+          "name": "\u65e9\u5ddd \u84ee",
+          "url": "https://open.spotify.com/artist/7t8DbkykbW5BcKoZZHwzMX"
+        }
+      ],
+      "duration_ms": 170352,
+      "name": "100\u5e74\u5f8c\u306b\u306f\u3069\u3046\u305b\u7686\u6b7b\u3093\u3067\u3044\u308b",
+      "url": "https://open.spotify.com/track/5QeoqHzHOnRq0zOhAseALm"
     },
     {
       "added_at": "2026-05-05 15:00:54",

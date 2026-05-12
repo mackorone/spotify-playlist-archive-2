@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Trap Dickey, Key Glock, T.I\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,686 likes - 74 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,717 likes - 74 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 54 | [FEELIN IT](https://open.spotify.com/track/38oDVuKpJU7a6BMqzx6k29) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [FEELIN IT](https://open.spotify.com/album/5YCMck2gGEYytUjhIHXOWp) | 2:19 |
 | 55 | [Forehead](https://open.spotify.com/track/0Kh7i3bje0FgfybTf3vbeD) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Forehead](https://open.spotify.com/album/40ab5zEOF2xzSbTBHGr7yI) | 1:31 |
 | 56 | [PSA](https://open.spotify.com/track/7FeYhUmtn3ha2JpX2UahVa) | [Lil Bailey](https://open.spotify.com/artist/0ZXdHUPxiJZ6emEcuCPUuV) | [PSA](https://open.spotify.com/album/6CKY7wpXLR41c7AUPX1tyV) | 1:47 |
-| 57 | [Too Established/Maybelline](https://open.spotify.com/track/5FO3QJMhZX0l5vL17GKJ7q) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Too Established/Maybelline](https://open.spotify.com/album/1KUl4mj50sG1oNicJLIYZq) | 3:14 |
+| 57 | [Too Established/Maybelline](https://open.spotify.com/track/5FO3QJMhZX0l5vL17GKJ7q) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf) | [Too Established/Maybelline](https://open.spotify.com/album/1KUl4mj50sG1oNicJLIYZq) | 3:18 |
 | 58 | [LET ME BE](https://open.spotify.com/track/0GQTma8jpTmVWtpsftulNw) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Scram Jones](https://open.spotify.com/artist/0Bi7gsMOc5xrBd3gSfGsFZ) | [FOR THE LOVE 2](https://open.spotify.com/album/30PWZtP8GqnGfoQrJV2lO6) | 2:12 |
 | 59 | [I’ll Be Back](https://open.spotify.com/track/6ktQLH7r89gBs4ffpjKTKi) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [I’ll Be Back](https://open.spotify.com/album/4typuh9v0zqsB6rC4R4bpX) | 2:15 |
 | 60 | [Rodeo](https://open.spotify.com/track/2wataOiTFCMVT3xBIoHnmU) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Rodeo](https://open.spotify.com/album/5ZVPyfblUAayEQrOz1V5sN) | 2:22 |

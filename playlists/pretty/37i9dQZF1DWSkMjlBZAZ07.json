@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1878395,
+  "num_followers": 1878317,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Find Your People",
-        "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Find Your People",
-      "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Find Your People",
+        "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Find Your People",
+      "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "Upstate",
         "url": "https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 264203,
       "name": "Upstate",
       "url": "https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Graveclothes",
-        "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 227105,
-      "name": "Graveclothes",
-      "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "in defense of my own happiness (complete)",
         "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186786,
       "name": "if you got a problem",
       "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "Graveclothes",
+        "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 227105,
+      "name": "Graveclothes",
+      "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Matter of Taste",
-        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 244366,
-      "name": "Matter of Taste",
-      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+        "name": "Matter of Taste",
+        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
         }
       ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+      "duration_ms": 244366,
+      "name": "Matter of Taste",
+      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "My Home Is You",
-        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203148,
-      "name": "My Home Is You",
-      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
+        "name": "My Home Is You",
+        "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203148,
+      "name": "My Home Is You",
+      "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
+    },
+    {
+      "added_at": "2026-05-08 17:19:13",
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2026-05-08 17:19:13",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
+      "duration_ms": 274253,
+      "name": "Do It All For You",
+      "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
     },
     {
       "added_at": "2026-05-08 17:19:13",
@@ -1367,22 +1383,6 @@
       "duration_ms": 215497,
       "name": "(Looking Through) Rose Colored Glasses",
       "url": "https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu"
-    },
-    {
-      "added_at": "2026-05-08 17:19:13",
-      "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 274253,
-      "name": "Do It All For You",
-      "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
     },
     {
       "added_at": "2026-05-08 17:19:13",

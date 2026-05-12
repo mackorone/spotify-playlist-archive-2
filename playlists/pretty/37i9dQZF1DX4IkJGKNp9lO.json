@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 35438,
+  "num_followers": 35445,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vem fan \u00e4r liberal?",
-        "url": "https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 178660,
-      "name": "Vem fan \u00e4r liberal?",
-      "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Att Ni Inte Ser...",
         "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 171572,
       "name": "Modets Klapptr\u00e4n",
       "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vem fan \u00e4r liberal?",
+        "url": "https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 178660,
+      "name": "Vem fan \u00e4r liberal?",
+      "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sveriges s\u00e4msta dansband, kanske",
-        "url": "https://open.spotify.com/album/2IGuo4VqaBNesfvBtYYkR4"
-      },
-      "artists": [
-        {
-          "name": "Klart S\u00e4mst",
-          "url": "https://open.spotify.com/artist/0QiURAGUO0t3lg7H61VEcS"
-        }
-      ],
-      "duration_ms": 140667,
-      "name": "Anarki",
-      "url": "https://open.spotify.com/track/53xCrPCHE7Rzree333H8UY"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 68638,
       "name": "Boostade Egon",
       "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sveriges s\u00e4msta dansband, kanske",
+        "url": "https://open.spotify.com/album/2IGuo4VqaBNesfvBtYYkR4"
+      },
+      "artists": [
+        {
+          "name": "Klart S\u00e4mst",
+          "url": "https://open.spotify.com/artist/0QiURAGUO0t3lg7H61VEcS"
+        }
+      ],
+      "duration_ms": 140667,
+      "name": "Anarki",
+      "url": "https://open.spotify.com/track/53xCrPCHE7Rzree333H8UY"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "L\u00f6rdag kan bli farlig",
-        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
+        "name": "Kollektivt sj\u00e4lvmord",
+        "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
       "artists": [
         {
-          "name": "D\u00d6DS\u00d6GONBLICKET",
-          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+          "name": "Civil Olydnad",
+          "url": "https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK"
         }
       ],
-      "duration_ms": 96000,
-      "name": "L\u00f6rdag kan bli farlig",
-      "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
+      "duration_ms": 103973,
+      "name": "Kollektivt sj\u00e4lvmord",
+      "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Kollektivt sj\u00e4lvmord",
-        "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
+        "name": "L\u00f6rdag kan bli farlig",
+        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
       },
       "artists": [
         {
-          "name": "Civil Olydnad",
-          "url": "https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK"
+          "name": "D\u00d6DS\u00d6GONBLICKET",
+          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
         }
       ],
-      "duration_ms": 103973,
-      "name": "Kollektivt sj\u00e4lvmord",
-      "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
+      "duration_ms": 96000,
+      "name": "L\u00f6rdag kan bli farlig",
+      "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
     },
     {
       "added_at": "2024-08-29 22:00:00",

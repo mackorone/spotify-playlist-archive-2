@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,612 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,621 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 55 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 56 | [Ni una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 |
 | 57 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
-| 58 | [Ibertrola](https://open.spotify.com/track/5YgRL4B64QejhddfcnERqm) | [Palazo En Las Kostillas](https://open.spotify.com/artist/6RKNVlujqe5qGNzx81OVbg) | [Toma y Calla](https://open.spotify.com/album/3KPGgatu9C4itTLoZdvtRA) | 2:43 |
-| 59 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
-| 60 | [Adictos a la Lujuria \- con Ánxela \(Bala\)](https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Ana Curra y los 13 Apóstoles Presentan: La Última Cena de Parálisis Permanente](https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA) | 3:09 |
+| 58 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
+| 59 | [Adictos a la Lujuria \- con Ánxela \(Bala\)](https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Ana Curra y los 13 Apóstoles Presentan: La Última Cena de Parálisis Permanente](https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA) | 3:09 |
+| 60 | [Ibertrola](https://open.spotify.com/track/5YgRL4B64QejhddfcnERqm) | [Palazo En Las Kostillas](https://open.spotify.com/artist/6RKNVlujqe5qGNzx81OVbg) | [Toma y Calla](https://open.spotify.com/album/3KPGgatu9C4itTLoZdvtRA) | 2:43 |
 | 61 | [Jubilación a los 18](https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5) | [XpresidentX](https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK) | [Garrote Vil](https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD) | 1:45 |
-| 62 | [Otra Vez](https://open.spotify.com/track/3ifC2eBCwIooMxWyqA8RiS) | [BARRACÜDA](https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx) | [Otra Vez](https://open.spotify.com/album/39SDEwuBUtdju4ZItqVs5D) | 3:38 |
-| 63 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 62 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 63 | [Otra Vez](https://open.spotify.com/track/3ifC2eBCwIooMxWyqA8RiS) | [BARRACÜDA](https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx) | [Otra Vez](https://open.spotify.com/album/39SDEwuBUtdju4ZItqVs5D) | 3:38 |
 | 64 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 65 | [A Las Mariscadas \- Directo Kafe Antzokia](https://open.spotify.com/track/7a0dWy6BZfWNI8Yy5UIdvZ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [A Las Mariscadas \(Directo Kafe Antzokia\)](https://open.spotify.com/album/2e6waJ1iTxP8Ipl2zdDnkw) | 2:04 |
 | 66 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |

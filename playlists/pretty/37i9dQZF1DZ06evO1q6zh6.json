@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 183876,
+  "num_followers": 183896,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAABdLkV6nkKaiRkwu6l8VRsg",
+  "snapshot_id": "af/KgAAAAACTprkH453RY0T/+3vroU4H",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+        "name": "Living After Midnight",
+        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Some Heads Are Gonna Roll",
-      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
+      "duration_ms": 260160,
+      "name": "The Hellion / Electric Eye",
+      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living After Midnight",
-        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 260160,
-      "name": "The Hellion / Electric Eye",
-      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
+      "duration_ms": 247666,
+      "name": "Some Heads Are Gonna Roll",
+      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 283120,
-      "name": "Screaming for Vengeance",
-      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
+      "duration_ms": 253093,
+      "name": "Judas Rising",
+      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Of Retribution",
-        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 253093,
-      "name": "Judas Rising",
-      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
+      "duration_ms": 283120,
+      "name": "Screaming for Vengeance",
+      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
     },
     {
       "added_at": null,

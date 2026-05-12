@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 457846,
+  "num_followers": 457899,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Rowdy Fellow",
+        "url": "https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 255876,
+      "name": "Aa Seetadevi Navvula",
+      "url": "https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Falaknuma Das (Original Motion Picture Soundtrack)",
@@ -927,22 +943,6 @@
       "duration_ms": 301500,
       "name": "Arerey Manasa",
       "url": "https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Rowdy Fellow",
-        "url": "https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 255876,
-      "name": "Aa Seetadevi Navvula",
-      "url": "https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -973,30 +973,6 @@
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
-      "added_at": "2022-08-16 07:40:21",
-      "album": {
-        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
-        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
-      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
-    },
-    {
       "added_at": "2023-05-04 06:50:45",
       "album": {
         "name": "Dasara (Telugu)",
@@ -1021,28 +997,28 @@
       "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
-      "added_at": "2025-12-16 12:04:49",
+      "added_at": "2022-08-16 07:40:21",
       "album": {
-        "name": "Ee Nagaraniki Emaindi",
-        "url": "https://open.spotify.com/album/32d5QBhgMyJZhQEXn0R3KC"
+        "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
       },
       "artists": [
         {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
         },
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
         },
         {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
         }
       ],
-      "duration_ms": 408000,
-      "name": "Aagi Aagi",
-      "url": "https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82"
+      "duration_ms": 218808,
+      "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
+      "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -1071,6 +1047,30 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
+    },
+    {
+      "added_at": "2025-12-16 12:04:49",
+      "album": {
+        "name": "Ee Nagaraniki Emaindi",
+        "url": "https://open.spotify.com/album/32d5QBhgMyJZhQEXn0R3KC"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Aagi Aagi",
+      "url": "https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1737,24 +1737,20 @@
       "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2023-05-04 06:50:45",
       "album": {
-        "name": "Chalo",
-        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
+        "name": "Jaanu",
+        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Mahati Swara Sagar",
-          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
         }
       ],
-      "duration_ms": 202111,
-      "name": "Choosi Chudangane",
-      "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
+      "duration_ms": 364375,
+      "name": "Life Of Ram",
+      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
     },
     {
       "added_at": "2023-01-11 20:52:12",
@@ -1773,20 +1769,24 @@
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
+      "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Jaanu",
-        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
+        "name": "Chalo",
+        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
       },
       "artists": [
         {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mahati Swara Sagar",
+          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
         }
       ],
-      "duration_ms": 364375,
-      "name": "Life Of Ram",
-      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
+      "duration_ms": 202111,
+      "name": "Choosi Chudangane",
+      "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1919,22 +1919,18 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+        "name": "Nenu Sailaja",
+        "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
       },
       "artists": [
         {
-          "name": "Sindhuri",
-          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
-        },
-        {
-          "name": "Sinov Raj",
-          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
         }
       ],
-      "duration_ms": 248133,
-      "name": "Hey Pillagaada",
-      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
+      "duration_ms": 209961,
+      "name": "Crazy Feeling",
+      "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1975,18 +1971,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Nenu Sailaja",
-        "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
       },
       "artists": [
         {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+          "name": "Sindhuri",
+          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
+        },
+        {
+          "name": "Sinov Raj",
+          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
         }
       ],
-      "duration_ms": 209961,
-      "name": "Crazy Feeling",
-      "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
+      "duration_ms": 248133,
+      "name": "Hey Pillagaada",
+      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
       "added_at": "2023-03-16 06:15:29",

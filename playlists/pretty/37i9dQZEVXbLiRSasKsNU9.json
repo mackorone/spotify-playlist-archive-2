@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1788125,
+  "num_followers": 1784335,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MZP5UAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MZVK0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Celebrate Me",
         "url": "https://open.spotify.com/album/3l7rEp8JiQDyrM8WHVw6vo"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1UcCAYT16qXS2Tts2NdHhM"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "VALHALLA CALLING",
         "url": "https://open.spotify.com/album/4qzbDpY0sqXz4Ad2bvwrpl"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6Y5LQvR2wXKKaOANW7OUzW"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/5idIpPylcHvSsVNoK6wMx5"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/5eh2pLJmBVjgtUzKl7Ambt"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Eller \u00dczer",
         "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Six Seven",
         "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
@@ -101,23 +117,7 @@
       "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Feeling Good Today",
         "url": "https://open.spotify.com/album/4Vnu314Dm9lM3IuOinUDXB"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1hTDrAziXO5Pyw3Br9WH3l"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "demain c'est vide",
         "url": "https://open.spotify.com/album/3Tv5VLxck3h3VkUlKW359T"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/0ffrrCB5IKs1oOLAr16c0D"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Majboor",
         "url": "https://open.spotify.com/album/15AHQmI89vZpF6a5o8i3J7"
@@ -201,7 +201,23 @@
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "O peso do Silencio",
+        "url": "https://open.spotify.com/album/2K6QyCZoYKxKpuN3FpZaY7"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Eu t\u00f4 tentando o meu melhor",
+      "url": "https://open.spotify.com/track/4mW88OMpiyuPesGLUqHmSV"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Bang Bang Bang",
         "url": "https://open.spotify.com/album/2zFrkINzgIXLOXMAiQQVP7"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/6T80kNfM3iJMRO6uzeOzRG"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
         "url": "https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "NOBLE",
         "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Cru e sem frescura 5",
         "url": "https://open.spotify.com/album/1l09e4w0iZy4pWhow6EBvH"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/7Kto77d1szAiNXuYDRS6BS"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "drop dead (taken that eurostar to france video)",
         "url": "https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "LET ME BE",
         "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Jane!",
         "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Pra N\u00e3o Esquecer De Mim",
         "url": "https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "MONTAGEM PEGADORA",
         "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
@@ -429,27 +445,23 @@
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/3ktp3oCNrvg07DzfK7Ti3l"
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
       },
       "artists": [
         {
-          "name": "Asmed",
-          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 168666,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT"
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Aarzu",
         "url": "https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs"
@@ -473,23 +485,27 @@
       "url": "https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
-        "name": "PUERTA ABIERTA",
-        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/3ktp3oCNrvg07DzfK7Ti3l"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 185728,
-      "name": "A La Ni\u00f1a Que Fui",
-      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+      "duration_ms": 168666,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "So Much To Tell You",
         "url": "https://open.spotify.com/album/28JEdFG4Mk0D0QGkL5vUxG"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -521,7 +537,39 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6RPWx9rxudOoRS68yuy48m"
+      },
+      "artists": [
+        {
+          "name": "DJ Teloor",
+          "url": "https://open.spotify.com/artist/2ti1ocd15fSJM0Dkert8WF"
+        }
+      ],
+      "duration_ms": 364564,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/0LUEM4bPQ9uX79SXfg8KAE"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Back Outside",
         "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "KGB",
         "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
@@ -557,39 +605,7 @@
       "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6RPWx9rxudOoRS68yuy48m"
-      },
-      "artists": [
-        {
-          "name": "DJ Teloor",
-          "url": "https://open.spotify.com/artist/2ti1ocd15fSJM0Dkert8WF"
-        }
-      ],
-      "duration_ms": 364564,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/0LUEM4bPQ9uX79SXfg8KAE"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Skokka",
-        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Skokka",
-      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Khat",
         "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
@@ -621,23 +637,7 @@
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Ayer Hable Con Dios",
-        "url": "https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV"
-      },
-      "artists": [
-        {
-          "name": "Corridos del Rey",
-          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
-        }
-      ],
-      "duration_ms": 143300,
-      "name": "Ayer Hable Con Dios",
-      "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -653,43 +653,23 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
-        "name": "Bairan",
-        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
+        "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV"
       },
       "artists": [
         {
-          "name": "Banjaare",
-          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Bairan",
-      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
+      "duration_ms": 143300,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Kicau Mania",
-        "url": "https://open.spotify.com/album/7mjXGFely0WPkXn69QIIdW"
-      },
-      "artists": [
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/3hxB562H6e8SIKpyhMwKbl"
-        },
-        {
-          "name": "melo",
-          "url": "https://open.spotify.com/artist/3frrV2obACqifLekcekrg7"
-        }
-      ],
-      "duration_ms": 341761,
-      "name": "Kicau Mania",
-      "url": "https://open.spotify.com/track/5Os63jB9c350ZNkMlkAkrh"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -705,7 +685,43 @@
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Sesi Potret",
+        "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Sesi Potret",
+      "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Bairan",
+        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
+      },
+      "artists": [
+        {
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Bairan",
+      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Resenha do Cabral (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
@@ -753,27 +769,7 @@
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Sesi Potret",
-        "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
-      },
-      "artists": [
-        {
-          "name": "e\u0144au",
-          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
-        },
-        {
-          "name": "Ari Lesmana",
-          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Sesi Potret",
-      "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Pe\u00e3o Todo Tatuado",
         "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
@@ -793,7 +789,47 @@
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Kicau Mania",
+        "url": "https://open.spotify.com/album/7mjXGFely0WPkXn69QIIdW"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/3hxB562H6e8SIKpyhMwKbl"
+        },
+        {
+          "name": "melo",
+          "url": "https://open.spotify.com/artist/3frrV2obACqifLekcekrg7"
+        }
+      ],
+      "duration_ms": 341761,
+      "name": "Kicau Mania",
+      "url": "https://open.spotify.com/track/5Os63jB9c350ZNkMlkAkrh"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "worry",
+        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "riserayss",
+          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "worry - Slowed",
+      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -825,27 +861,7 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "worry",
-        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "riserayss",
-          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "worry - Slowed",
-      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "ZERO BALA",
         "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
@@ -865,7 +881,23 @@
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
+    },
+    {
+      "added_at": "2026-05-11 14:01:07",
       "album": {
         "name": "Se Saudade Sentir (Se Prepara 3)",
         "url": "https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi"
@@ -893,72 +925,36 @@
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
-        "name": "Ela Quer Viver No Pantanal",
-        "url": "https://open.spotify.com/album/08iHgLAUGm5f9x8ZfaCNp4"
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
       },
       "artists": [
         {
-          "name": "DG Sant",
-          "url": "https://open.spotify.com/artist/2usL1qVJ8vK4zTosiVLxIX"
-        },
-        {
-          "name": "DJ DG SANT 00",
-          "url": "https://open.spotify.com/artist/0JXEpeC7LPyaMOe1nD5YXN"
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 149971,
-      "name": "Ela Quer Viver No Pantanal",
-      "url": "https://open.spotify.com/track/6Jal5aUvxKmglaFcCsIVxT"
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
-      "added_at": "2026-05-10 14:12:40",
+      "added_at": "2026-05-11 14:01:07",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/4PcyS3Xjjq2G4zUuPcVhmI"
+        "name": "Going Normal",
+        "url": "https://open.spotify.com/album/79TP0nVbW71q4zYVeqrd7a"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
         }
       ],
-      "duration_ms": 190933,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/12c5b7YmtMPxWnAgSql0sb"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 242956,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX"
-    },
-    {
-      "added_at": "2026-05-10 14:12:40",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 231746,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+      "duration_ms": 147500,
+      "name": "An Eater",
+      "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
     }
   ],
   "unique_name": "Viral 50 - Global",

@@ -1,28 +1,48 @@
 {
   "description": "Les hits du moment en Alg\u00e9rie. Cover: Abdou Gambetta",
-  "num_followers": 156356,
+  "num_followers": 156388,
   "original_name": "Hot Hit Algeria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSk1gMM2/2iHmCBvlxw0Ay3z5no",
+  "snapshot_id": "AAAAAP9VQGH9JMNsehhdJsc8g+/d6KdJ",
   "tracks": [
     {
-      "added_at": "2026-03-10 11:08:57",
+      "added_at": "2026-05-11 17:59:00",
       "album": {
-        "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0647\u0627\u0630\u064a \u0645\u0627 \u0644\u0647\u0627 (\u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0645\u0647\u0627\u062c\u0631)",
-        "url": "https://open.spotify.com/album/1o7NTj1kogzPEsfqTXjwn3"
+        "name": "M7ayni",
+        "url": "https://open.spotify.com/album/2ihL4M0HCmcNJGYnSuxNl3"
       },
       "artists": [
         {
-          "name": "Abdou Gambetta",
-          "url": "https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2"
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
         }
       ],
-      "duration_ms": 227091,
-      "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0647\u0627\u0630\u064a \u0645\u0627 \u0644\u0647\u0627 - \u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0645\u0647\u0627\u062c\u0631",
-      "url": "https://open.spotify.com/track/6twYUSdwoerw8xZplXDo97"
+      "duration_ms": 240010,
+      "name": "M7ayni",
+      "url": "https://open.spotify.com/track/7C9s5b5QqJLXSFqeisnxeY"
+    },
+    {
+      "added_at": "2026-03-10 11:08:57",
+      "album": {
+        "name": "Sahran lil",
+        "url": "https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD"
+      },
+      "artists": [
+        {
+          "name": "Cheb Momo",
+          "url": "https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM"
+        },
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Sahran lil",
+      "url": "https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H"
     },
     {
       "added_at": "2026-03-10 11:08:57",
@@ -43,6 +63,22 @@
       "duration_ms": 240000,
       "name": "Qololo",
       "url": "https://open.spotify.com/track/5F7BK2CwSasvKaxD3278W0"
+    },
+    {
+      "added_at": "2026-03-10 11:08:57",
+      "album": {
+        "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0647\u0627\u0630\u064a \u0645\u0627 \u0644\u0647\u0627 (\u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0645\u0647\u0627\u062c\u0631)",
+        "url": "https://open.spotify.com/album/1o7NTj1kogzPEsfqTXjwn3"
+      },
+      "artists": [
+        {
+          "name": "Abdou Gambetta",
+          "url": "https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0647\u0627\u0630\u064a \u0645\u0627 \u0644\u0647\u0627 - \u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u0645\u0647\u0627\u062c\u0631",
+      "url": "https://open.spotify.com/track/6twYUSdwoerw8xZplXDo97"
     },
     {
       "added_at": "2026-03-10 11:08:57",
@@ -135,26 +171,6 @@
       "duration_ms": 224807,
       "name": "Se9si Liyam",
       "url": "https://open.spotify.com/track/1yhawOwQm1XumUtkVHhtVP"
-    },
-    {
-      "added_at": "2026-03-10 11:08:57",
-      "album": {
-        "name": "Sahran lil",
-        "url": "https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD"
-      },
-      "artists": [
-        {
-          "name": "Cheb Momo",
-          "url": "https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM"
-        },
-        {
-          "name": "Djalil Palermo",
-          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Sahran lil",
-      "url": "https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H"
     },
     {
       "added_at": "2026-03-10 11:08:57",
@@ -523,26 +539,6 @@
       "duration_ms": 196706,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
-    },
-    {
-      "added_at": "2026-03-10 11:08:57",
-      "album": {
-        "name": "Rom\u00e9o",
-        "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
-      },
-      "artists": [
-        {
-          "name": "L'Alg\u00e9rino",
-          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 192256,
-      "name": "Rom\u00e9o",
-      "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
     },
     {
       "added_at": "2026-03-10 11:08:57",

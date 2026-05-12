@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: girlsweetvoiced
 
-1,032 songs - 2 day 5 hr 29 min
+1,033 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [19](https://open.spotify.com/track/708hXPrY8mxgKSvAZUq4Yz) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:04 | 2021-05-01 | 2022-04-18 |
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-14 | 2023-08-26 |
 | [24 Miles](https://open.spotify.com/track/0TVcx4ZQkphKpnlJBfynOh) | [Banana Club](https://open.spotify.com/artist/21jJgmn55x4tPiuHtZhFnt) | [24 Miles](https://open.spotify.com/album/6OrHh4eI0hFqtMXM8e4aiF) | 3:32 | 2020-04-25 | 2021-08-28 |
+| [24hrs a Day](https://open.spotify.com/track/1uUSVWi7XRdePB35zvi5oT) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [24hrs a Day](https://open.spotify.com/album/3lfkoChPIsMQnjlV15qXMc) | 3:46 | 2026-05-08 |  |
 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-03-26 | 2024-04-24 |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2019-07-30\* | 2025-12-12 |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-05-16 | 2021-05-26 |
@@ -633,7 +634,7 @@
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2024-04-24 |
 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 | 2023-10-13 | 2026-02-20 |
 | [No Going Back](https://open.spotify.com/track/7rig9YRhho4jJ2LBMGekfj) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/4Wi4LqdAihpu1DMkHLaZZF) | 3:28 | 2019-07-31 | 2021-08-21 |
-| [no outline](https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [no outline](https://open.spotify.com/album/3amxeWM0ZBaydyUpFCd9Kc) | 3:51 | 2026-03-13 |  |
+| [no outline](https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [no outline](https://open.spotify.com/album/3amxeWM0ZBaydyUpFCd9Kc) | 3:51 | 2026-03-13 | 2026-05-12 |
 | [No Tissues](https://open.spotify.com/track/7FIG9jdfSkky8Ffe7UDbQt) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [No Tissues](https://open.spotify.com/album/34l78FegqvM5E04ktBeiw6) | 3:05 | 2019-07-30\* | 2022-04-19 |
 | [NOBODY ELSE](https://open.spotify.com/track/42wX3J3SYeAJCRlI2SM9Rs) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [NOBODY ELSE](https://open.spotify.com/album/3bkeV6rmmWQzrqNKbZ8TF7) | 3:16 | 2021-05-14 | 2022-04-17 |
 | [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-04-12 | 2022-04-21 |

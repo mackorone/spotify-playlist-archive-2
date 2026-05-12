@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75387,
+  "num_followers": 75389,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Muzyka Komercyjna (Deluxe)",
-        "url": "https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo"
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
       },
       "artists": [
         {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Auer",
-          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
         }
       ],
-      "duration_ms": 195704,
-      "name": "Dom Nad Wod\u0105",
-      "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
+      "duration_ms": 251053,
+      "name": "D\u0142ugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
+      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -135,6 +131,42 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Muzyka Komercyjna (Deluxe)",
+        "url": "https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Dom Nad Wod\u0105",
+      "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Dla Ciebie",
+      "url": "https://open.spotify.com/track/4gDG78TaA7RYH17odwTXwS"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
         "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
       },
@@ -159,38 +191,6 @@
       "duration_ms": 209655,
       "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Dla Ciebie",
-      "url": "https://open.spotify.com/track/4gDG78TaA7RYH17odwTXwS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Momenty",
-        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
-      },
-      "artists": [
-        {
-          "name": "Grzegorz Hy\u017cy",
-          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "O Pani!",
-      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
+      },
+      "artists": [
+        {
+          "name": "Grzegorz Hy\u017cy",
+          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "O Pani!",
+      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Kaprysy",
         "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 197000,
       "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
       "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "D\u0142ugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
-      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Bu\u0142garskie centrum",
+        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
+      },
+      "artists": [
+        {
+          "name": "Pid\u017cama Porno",
+          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Marek Grechuta - 40 piosenek",
         "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 104733,
       "name": "B\u0119dziesz moj\u0105 pani\u0105",
       "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Bu\u0142garskie centrum",
-        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
-      },
-      "artists": [
-        {
-          "name": "Pid\u017cama Porno",
-          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Bumerang",
-        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 246771,
-      "name": "Zosta\u0144",
-      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Ballady",
         "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 319346,
       "name": "Dwa serca, dwa smutki",
       "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 246771,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
     },
     {
       "added_at": "2025-10-16 09:34:51",

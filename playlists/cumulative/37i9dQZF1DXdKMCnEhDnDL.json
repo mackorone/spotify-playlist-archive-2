@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 282965,
       "name": "'k Heb Je Lief",
       "url": "https://open.spotify.com/track/1J1oX6PbDhlQp6eYqCeORi"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 143168,
       "name": "Iedereen Gaat Vreemd",
       "url": "https://open.spotify.com/track/5B0fiSb1UshQzXLNd9sQ81"
@@ -4554,6 +4554,24 @@
       "duration_ms": 207250,
       "name": "Joanne",
       "url": "https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj"
+    },
+    {
+      "album": {
+        "name": "Jong & Dom",
+        "url": "https://open.spotify.com/album/00YkFHItYazV2hJ1SU6d9g"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187488,
+      "name": "Jong & Dom",
+      "url": "https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng"
     },
     {
       "album": {
@@ -5484,6 +5502,32 @@
       "duration_ms": 216058,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4"
+    },
+    {
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177205,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
     },
     {
       "album": {
@@ -6805,6 +6849,28 @@
     },
     {
       "album": {
+        "name": "Parkje Biertje Vrienden",
+        "url": "https://open.spotify.com/album/4VcuSYw09qQv2Kf1CCTCuk"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154202,
+      "name": "Parkje Biertje Vrienden",
+      "url": "https://open.spotify.com/track/3u5ktXVlv9HwRKLd0RLUUj"
+    },
+    {
+      "album": {
         "name": "Vrouw Van De Wereld",
         "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
       },
@@ -8043,6 +8109,28 @@
     },
     {
       "album": {
+        "name": "Tranen Van Goud",
+        "url": "https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        },
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141696,
+      "name": "Tranen Van Goud",
+      "url": "https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s"
+    },
+    {
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
       },
@@ -8708,7 +8796,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 143015,
       "name": "Voorzichtig",
       "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"

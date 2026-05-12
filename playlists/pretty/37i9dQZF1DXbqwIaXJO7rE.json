@@ -1,13 +1,29 @@
 {
   "description": "The songs and videos we'd put on if we were feeling loose in someone's living room together.",
-  "num_followers": 168,
+  "num_followers": 185,
   "original_name": "GLOW Tapes: MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClPlK/2TBFIZt8TQZOKcZBRuQFC",
+  "snapshot_id": "AAAAAHoXojztfhVKP8SL4aijsIq9lb4p",
   "tracks": [
+    {
+      "added_at": "2026-05-11 12:54:12",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
+    },
     {
       "added_at": "2026-05-04 22:01:12",
       "album": {

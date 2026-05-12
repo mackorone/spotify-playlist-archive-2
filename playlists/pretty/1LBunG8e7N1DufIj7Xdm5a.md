@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,435 songs - 9 day 20 hr 26 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,442 songs - 9 day 20 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4443,5 +4443,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4433 | [I'm Still There](https://open.spotify.com/track/4uxqegrTFDM4pj4SYNHrvm) | [Julia.](https://open.spotify.com/artist/3b4ZzGl6WpHruxDY0BZlSK) | [Round The Corner](https://open.spotify.com/album/6O7ZkCrWBIedrmOIw09DDi) | 5:16 |
 | 4434 | [Ghoom Liya Jag Saara](https://open.spotify.com/track/592ulo85iG1SVhKRprZ1ib) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ghoom Liya Jag Saara](https://open.spotify.com/album/1TlIqVNS9145VHm1Fbk3rP) | 2:47 |
 | 4435 | [Static Youth](https://open.spotify.com/track/5nv0Qkdpzp0FhfzFVUBNA4) | [Isla Sound](https://open.spotify.com/artist/6u29XgtkGCNtrrO4uyrIxT) | [Static Youth](https://open.spotify.com/album/0Iln4zLwSGQu9luY4N5lqs) | 4:18 |
+| 4436 | [Connected](https://open.spotify.com/track/68vmXU8jHve4HGQhtXmFwC) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [Connected](https://open.spotify.com/album/6b4JrYXARTkErb7U7b5ui5) | 4:38 |
+| 4437 | [Connected Harmonic](https://open.spotify.com/track/3hS2iEaecBYQn1XOYXQoWl) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [Connected](https://open.spotify.com/album/6b4JrYXARTkErb7U7b5ui5) | 5:02 |
+| 4438 | [Outlaw](https://open.spotify.com/track/6rGaEVsfWKNjsciPwtXQpC) | [Sunset Black](https://open.spotify.com/artist/3pARkfTZuMZlfV8WujY3gk), [Gent Jack](https://open.spotify.com/artist/2AbQjpqeCOrrCZfMPYlfeY) | [Outlaw](https://open.spotify.com/album/7sVv57xJ2OgY0tTX902Dno) | 2:24 |
+| 4439 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 |
+| 4440 | [Truth Without A Voice](https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7) | [Changeover](https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg) | [Truth Without A Voice](https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt) | 3:10 |
+| 4441 | [Amor Carnal](https://open.spotify.com/track/5VVqYfF4DjuTp7Je0vCGYe) | [Royad](https://open.spotify.com/artist/4IlKoBCUtrGWnFgQf0wtyO) | [Amor Carnal](https://open.spotify.com/album/0wzXxsGWg3Y0gI5ibGpEB7) | 4:19 |
+| 4442 | [Heaven is Lying Down](https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [Heaven is Lying Down](https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k) | 3:24 |
 
-Snapshot ID: `AAAIk7jx15sklNpkNTMppsM1tKpVM+e+`
+Snapshot ID: `AAAImTaqx4iwyPcPE7Qf0MJa5TfrmvOI`

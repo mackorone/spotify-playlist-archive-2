@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 722 songs - 1 day 22 hr 39 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 723 songs - 1 day 22 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -729,6 +729,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 719 | [Is It Real?](https://open.spotify.com/track/0gtZYdvwrD5th0JUpc0xfO) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Blame The Clown](https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp) | 3:01 |
 | 720 | [as above so below](https://open.spotify.com/track/49686zZMNnSmbxXeQNns99) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Ti Steele](https://open.spotify.com/artist/13mA1mfFhAqUCwTLeB8Cmp) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 2:47 |
 | 721 | [Open Up](https://open.spotify.com/track/0NXJ0NZc4VbNWgCY3V7s2y) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Singin’ to an Empty Chair](https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y) | 5:05 |
-| 722 | [Open the Fucking Fantasy](https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Soft New Magic Dream](https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe) | 4:00 |
+| 722 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 |
+| 723 | [Open the Fucking Fantasy](https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Soft New Magic Dream](https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe) | 4:00 |
 
-Snapshot ID: `AAAJF/iW/18nxcf8RLwMVo5UmJIyynHd`
+Snapshot ID: `AAAJGQvI2Ls02qzNCOK5ENti2Fnyu576`

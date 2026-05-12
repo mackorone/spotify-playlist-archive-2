@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12821,
+  "num_followers": 12823,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAABvlyaAiZPBRqHME7dRvluu",
+  "snapshot_id": "af/KgAAAAADB8Eh1whM4xI74X5ERk8IS",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La-La Means I Love You",
-        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "I Don't Want To Make You Wait - Digitally Remastered 1997",
-      "url": "https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 199324,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La-La Means I Love You",
+        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "I Don't Want To Make You Wait - Digitally Remastered 1997",
+      "url": "https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of Delfonics",
-        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
-      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 134552,
       "name": "A Lover's Concerto",
       "url": "https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of Delfonics",
+        "url": "https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
+      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cameo Parkway 1957-1967",
-        "url": "https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo"
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 144093,
-      "name": "He Don't Really Love You",
-      "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
+      "duration_ms": 168106,
+      "name": "My New Love",
+      "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+        "name": "Cameo Parkway 1957-1967",
+        "url": "https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 168106,
-      "name": "My New Love",
-      "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+      "duration_ms": 144093,
+      "name": "He Don't Really Love You",
+      "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cameo Parkway 1957-1967",
-        "url": "https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 162693,
-      "name": "You've Been Untrue",
-      "url": "https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cameo Parkway 1957-1967",
+        "url": "https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "You've Been Untrue",
+      "url": "https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delfonics Today All Platinium",
-        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Strangers Again",
-      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 140866,
       "name": "Let It Be Me - Remastered",
       "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delfonics Today All Platinium",
+        "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of The Delfonics",
-        "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 210558,
-      "name": "Love Won't Let Me Wait",
-      "url": "https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrian Younge Presents: The Delfonics",
         "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 182306,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of The Delfonics",
+        "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 210558,
+      "name": "Love Won't Let Me Wait",
+      "url": "https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q"
     },
     {
       "added_at": null,

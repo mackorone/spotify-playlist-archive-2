@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernández 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,558 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,554 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 28 | [El Hombre Que Yo Amo](https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [El Hombre Que Yo Amo](https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF) | 3:55 |
 | 29 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
 | 30 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
-| 31 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |
-| 32 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
+| 31 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
+| 32 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |
 | 33 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 34 | [Qué Manera De Perder](https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa), [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Qué Manera De Perder](https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ) | 2:35 |
 | 35 | [Amarte A La Medida](https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Amarte A La Medida](https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4) | 3:16 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 67 | [Los Amigos Asi](https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK) | [Los Periquines de Don Ramon Torres](https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ) | [Los Amigos Asi](https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t) | 3:27 |
 | 68 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 |
 | 69 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
-| 70 | [Olvidarte](https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W) | [Horacio de Jesús](https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY) | [Olvidarte](https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh) | 2:38 |
-| 71 | [Juro Que Nunca Volveré](https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Juro Que Nunca Volveré](https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP) | 2:38 |
+| 70 | [Juro Que Nunca Volveré](https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Juro Que Nunca Volveré](https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP) | 2:38 |
+| 71 | [Olvidarte](https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W) | [Horacio de Jesús](https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY) | [Olvidarte](https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh) | 2:38 |
 | 72 | [Fan De La Relación](https://open.spotify.com/track/0avvoJ4ukQXaOTPSofnPo3) | [Tú Dime María](https://open.spotify.com/artist/5KEj5NHNPxuNTcDfuGrjFR) | [Fan De La Relación](https://open.spotify.com/album/2Ofh0yVOz9neKuF7RLGDjl) | 3:24 |
 | 73 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
 | 74 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
 | 75 | [Carita de Cielo](https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Carita de Cielo](https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX) | 3:05 |
 | 76 | [Me Gustas](https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ) | [Me Gustas](https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy) | 2:48 |
 | 77 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 |
-| 78 | [Golpe Inesperado](https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V) | [Los del Norteño Sax](https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB) | [Mariachi y Norteño](https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02) | 3:18 |
-| 79 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
+| 78 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
+| 79 | [Golpe Inesperado](https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V) | [Los del Norteño Sax](https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB) | [Mariachi y Norteño](https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02) | 3:18 |
 | 80 | [Por Un Amor](https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Por Un Amor](https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf) | 3:13 |
 
 Snapshot ID: `AAAAAGPe/E+ER2gYi9Xemu1vuzYaOY8d`

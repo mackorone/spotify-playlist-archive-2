@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP?si=dZ0iMJXzQzaNpbj8JBGSbw">Phoenix James</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,899 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,916 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 78 | [Father](https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Father](https://open.spotify.com/album/1HG8vY7XKeX57yck24riZM) | 2:55 |
 | 79 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAALFBE0Fc9EF68rk3hLFv+mK+mvwN`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

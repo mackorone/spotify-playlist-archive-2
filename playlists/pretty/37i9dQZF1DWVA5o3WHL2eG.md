@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,264 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,271 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [So wie sie](https://open.spotify.com/track/2aa4pe8kQ68SVOYijZ8xTr) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So wie sie](https://open.spotify.com/album/2yPQISpJIGw2OkkDyAbhfF) | 2:15 |
 | 11 | [Miu Miu](https://open.spotify.com/track/24B8vZjjgNxxRUBfuXl9s6) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Miu Miu](https://open.spotify.com/album/0vTYPoWCq8r4aT6Cj3MMMI) | 2:24 |
 | 12 | [Pfeil und Bogen](https://open.spotify.com/track/3hxKz56t0LmiRhrWSO3sVg) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Pfeil und Bogen](https://open.spotify.com/album/05eliY4RhHXsQmvC2jTS83) | 2:50 |
-| 13 | [HMDL](https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [HMDL](https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K) | 1:58 |
-| 14 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 |
+| 13 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 |
+| 14 | [HMDL](https://open.spotify.com/track/4xVR7iSp5Mdl6FGCbzz9AM) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [HMDL](https://open.spotify.com/album/3VRpUAmX0GSRjvMOwX1H4K) | 1:58 |
 | 15 | [Kein Ponyhof](https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Kein Ponyhof](https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid) | 2:05 |
 | 16 | [watch me](https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [watch me](https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE) | 2:24 |
 | 17 | [wenn du mich brauchst](https://open.spotify.com/track/3HpBs2Y76Z21WVGaeb9VnZ) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [DeeVoe](https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL) | [wenn du mich brauchst](https://open.spotify.com/album/10jHTTFc3KwGNx2vTCn1Y9) | 2:33 |
-| 18 | [BTCHZ](https://open.spotify.com/track/6JzxtouLmYg4yolDZSMkfj) | [KIARABABA](https://open.spotify.com/artist/2gRcuby898lRpJlaFVNTos) | [BTCHZ](https://open.spotify.com/album/6OKBbJHp6qNSjJTIDPXCNN) | 1:47 |
-| 19 | [Flying](https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Flying](https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N) | 3:05 |
-| 20 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
+| 18 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
+| 19 | [BTCHZ](https://open.spotify.com/track/6JzxtouLmYg4yolDZSMkfj) | [KIARABABA](https://open.spotify.com/artist/2gRcuby898lRpJlaFVNTos) | [BTCHZ](https://open.spotify.com/album/6OKBbJHp6qNSjJTIDPXCNN) | 1:47 |
+| 20 | [Flying](https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Flying](https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N) | 3:05 |
 | 21 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 |
 | 22 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 |
 | 23 | [DEIN IDEAL](https://open.spotify.com/track/7xkNzxRpI90qjqFk77Zxx3) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [DEIN IDEAL](https://open.spotify.com/album/1hpxH9KEQYZaJx2Ot1iIjl) | 1:58 |

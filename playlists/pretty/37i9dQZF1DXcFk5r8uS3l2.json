@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068865,
+  "num_followers": 1068874,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Don't Leave Me",
-        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        },
-        {
-          "name": "Dylan Chambers",
-          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
-        }
-      ],
-      "duration_ms": 210428,
-      "name": "Don't Leave Me",
-      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Room On The Porch",
         "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 303765,
       "name": "Better Than Ever [Feat. Wendy Moten]",
       "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        },
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 210428,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -545,7 +545,7 @@
       "artists": [
         {
           "name": "The Hodge Podge",
-          "url": "https://open.spotify.com/artist/04XDYU4soG9QoUx5VkgpIU"
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
         }
       ],
       "duration_ms": 146360,
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Let It Die Here",
-        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
-      },
-      "artists": [
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Let It Die Here",
-      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 203757,
       "name": "Six Shades of Grey",
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Let It Die Here",
+        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
+      },
+      "artists": [
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Let It Die Here",
+      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -743,6 +743,42 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "The Mule",
+        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        }
+      ],
+      "duration_ms": 180150,
+      "name": "The Mule",
+      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Joy, Joy!",
+        "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 181503,
+      "name": "Joy, Joy!",
+      "url": "https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "Shoulda Been",
         "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
@@ -783,42 +819,6 @@
       "duration_ms": 257814,
       "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
       "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Joy, Joy!",
-        "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 181503,
-      "name": "Joy, Joy!",
-      "url": "https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "The Mule",
-        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
-      },
-      "artists": [
-        {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        },
-        {
-          "name": "Larry Campbell",
-          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
-        }
-      ],
-      "duration_ms": 180150,
-      "name": "The Mule",
-      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "Switch On",
         "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
         }
       ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -919,22 +935,6 @@
       "duration_ms": 255218,
       "name": "Drifting (feat. Marcus King)",
       "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
-      },
-      "artists": [
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
-      },
-      "artists": [
-        {
-          "name": "Chris Tapp",
-          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
-        },
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Let the Music Get Down in Your Soul",
         "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
       },
@@ -1111,6 +1091,46 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+      },
+      "artists": [
+        {
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "The Hammer & The Rose",
         "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Close To Me (with Madison Hughes)",
-        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
-      },
-      "artists": [
-        {
-          "name": "The Deltaz",
-          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
-        },
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
-        }
-      ],
-      "duration_ms": 178869,
-      "name": "Close To Me (with Madison Hughes)",
-      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Coast of Light",
+        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 217581,
+      "name": "Teacher's Desk",
+      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "Gathering Forces",
         "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 185399,
       "name": "Gathering Forces",
       "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Coast of Light",
-        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 217581,
-      "name": "Teacher's Desk",
-      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Devil That You Know",
-        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
-      },
-      "artists": [
-        {
-          "name": "Emma Elena Grace",
-          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
-        }
-      ],
-      "duration_ms": 198496,
-      "name": "Devil That You Know",
-      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Let's Get Loud",
         "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Devil That You Know",
+        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
+      },
+      "artists": [
+        {
+          "name": "Emma Elena Grace",
+          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
+        }
+      ],
+      "duration_ms": 198496,
+      "name": "Devil That You Know",
+      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD"
-      },
-      "artists": [
-        {
-          "name": "Sam Morrow",
-          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
-        }
-      ],
-      "duration_ms": 220775,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Noah's Children",
         "url": "https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 264629,
       "name": "Noah's Children",
       "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD"
+      },
+      "artists": [
+        {
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+        }
+      ],
+      "duration_ms": 220775,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
     },
     {
       "added_at": "2026-05-01 04:01:36",

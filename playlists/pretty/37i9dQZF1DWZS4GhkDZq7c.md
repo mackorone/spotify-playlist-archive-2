@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS4GhkDZq7c.md) - [plain]
 
 > Cool Tracks from Kollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,829 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,855 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS4GhkDZq7c.md) - [plain]
 | 47 | [Visiri](https://open.spotify.com/track/00DMv3gdOFGDBFZ0WuvtXn) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Visiri \(From 'Enai Noki Paayum Thota'\)](https://open.spotify.com/album/2dQbMri1EbI9AveEm3sUZE) | 5:11 |
 | 48 | [Mannipaaya \- Lofi Flip](https://open.spotify.com/track/65jgQvQBJg3cgpcQ2JmGqZ) | [Narendar Sankar](https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mannipaaya \(Lofi Flip\)](https://open.spotify.com/album/6PXnHGYPSKWoNNNBisviww) | 3:22 |
 | 49 | [Dope Track](https://open.spotify.com/track/1fknE84SHjsgzjkh1H98Yf) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Pyaar Prema Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4byzDhvVyWc8kakTvxfejQ) | 4:10 |
-| 50 | [Yaanji](https://open.spotify.com/track/5NEGfbKMcNuEWOzpWufScA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 4:30 |
+| 50 | [Andha Kanna Paathaakaa](https://open.spotify.com/track/0qvoxfYodIfe14gaidhnsV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:14 |
 
 Snapshot ID: `AAAAAAF5i374ZWPWbKMuK7k3M6bobMPP`

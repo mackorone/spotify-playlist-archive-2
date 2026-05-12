@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-435 songs - 1 day 4 hr 11 min
+436 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Rushing Back](https://open.spotify.com/track/5YSu7cIVCuvbOkDeckjVhL) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [Rushing Back](https://open.spotify.com/album/1BU49cvjSWAqnab2VwZPqq) | 3:44 | 2021-07-24 | 2023-05-20 |
 | [Sanctuary](https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk), [Annabelle Freedman](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 3:26 | 2023-05-19 | 2025-04-26 |
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2021-07-24 | 2023-07-06 |
-| [Satisfied](https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Satisfied](https://open.spotify.com/album/1cSieKEgbros5yDILwnekF) | 2:39 | 2025-08-01 |  |
+| [Satisfied](https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Satisfied](https://open.spotify.com/album/1cSieKEgbros5yDILwnekF) | 2:39 | 2025-08-01 | 2026-05-12 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/2awksO3qqWBWDnJuBJdQaC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/41P47wN7Z6L02O52OQSw3j) | 7:04 | 2022-06-20 | 2022-11-13 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/5ftPNzPPQSm3my65xrZsMa) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/3fZHiJmXFcQCICVudoOVuV) | 7:04 | 2021-07-24 | 2022-07-29 |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/7uEcwJ33XVgYJC9dif3ZlK) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 7:04 | 2022-06-20 | 2023-05-20 |
@@ -431,6 +431,7 @@
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2023-05-19 | 2023-07-18 |
 | [Wish I Knew You \- Poolside Remix](https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Wish I Knew You \(Poolside Remix\)](https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj) | 4:05 | 2025-06-27 | 2026-01-15 |
 | [Without You](https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Sacha Vee](https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8) | [Without You](https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh) | 3:47 | 2023-05-19 |  |
+| [Won't Let U Down](https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Won't Let U Down](https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC) | 4:11 | 2026-05-08 |  |
 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 | 2024-04-05 | 2024-09-07 |
 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 | 2021-07-24 | 2023-07-30 |
 | [You Bring Me Joy \- Radio Edit](https://open.spotify.com/track/7up1kromWJY9ZoR747ngVV) | [Soulista](https://open.spotify.com/artist/7wTnuabmq5mpF4ENwwC8el), [Tracy Hamlin](https://open.spotify.com/artist/0oZ9W2ul2WbXflo60EAqUT) | [You Bring Me Joy](https://open.spotify.com/album/7qC8j2gTsZJk38AsoGyWKI) | 4:19 | 2023-05-19 | 2023-11-17 |

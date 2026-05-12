@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: DEAN & Anderson .Paak)",
-  "num_followers": 1095366,
+  "num_followers": 1095387,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
         "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 183906,
-      "name": "Aftertaste - from Original Motion Picture Soundtrack K-POPS!",
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
       "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
     },
     {
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "Baby, Honey",
-        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
-      },
-      "artists": [
-        {
-          "name": "HOSHI",
-          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Baby, Honey",
-      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "DIE 4 YOU",
         "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 194045,
       "name": "DIE 4 YOU",
       "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+        "name": "Baby, Honey",
+        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
         }
       ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+      "duration_ms": 145000,
+      "name": "Baby, Honey",
+      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "SAY MY NAME",
+      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
-        "name": "ANTIDOTE",
-        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
-      },
-      "artists": [
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "SAY MY NAME",
-      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "Chi-Ka",
         "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 203953,
       "name": "Chi-Ka",
       "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "AA (Alone Again)",
-        "url": "https://open.spotify.com/album/4smEwgoPp14In6lZdLLw1p"
-      },
-      "artists": [
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 170227,
-      "name": "AA (Alone Again)",
-      "url": "https://open.spotify.com/track/2kiycXeUux4Fmv7cV10Pls"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "Paraglider",
         "url": "https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 152333,
       "name": "Paraglider",
       "url": "https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "AA (Alone Again)",
+        "url": "https://open.spotify.com/album/4smEwgoPp14In6lZdLLw1p"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 170227,
+      "name": "AA (Alone Again)",
+      "url": "https://open.spotify.com/track/2kiycXeUux4Fmv7cV10Pls"
     },
     {
       "added_at": "2026-05-08 04:42:18",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-08 04:42:18",
       "album": {
-        "name": "Know me",
-        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
-      },
-      "artists": [
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Know me",
-      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
-    },
-    {
-      "added_at": "2026-05-08 04:42:18",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2026-05-08 04:42:18",
+      "album": {
+        "name": "Know me",
+        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Know me",
+      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
     },
     {
       "added_at": "2026-05-08 04:42:18",

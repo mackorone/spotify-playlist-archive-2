@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2808,
+  "num_followers": 2810,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAA7QuMiq+pqXtd6+snX18c+",
+  "snapshot_id": "af/KgAAAAADTy7f/g7dTcQ6aJIE8YmV5",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "nice guys finish last",
+        "url": "https://open.spotify.com/album/6PsR7WXN0RyaSq6bEzB6ao"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 154225,
+      "name": "nice guys finish last",
+      "url": "https://open.spotify.com/track/0cPG85mJX8UUJenoqerayV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BODY PARTS (Full Frontal)",
         "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grim Reaper",
-        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Grim Reaper",
-      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grim Reaper",
+        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Grim Reaper",
+      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
         "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 159069,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nice guys finish last",
-        "url": "https://open.spotify.com/album/6PsR7WXN0RyaSq6bEzB6ao"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 154225,
-      "name": "nice guys finish last",
-      "url": "https://open.spotify.com/track/0cPG85mJX8UUJenoqerayV"
     },
     {
       "added_at": null,

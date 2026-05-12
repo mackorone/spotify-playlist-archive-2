@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 185000,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 186000,
       "name": "Blue Valentine",
       "url": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw"
@@ -9137,6 +9137,24 @@
     },
     {
       "album": {
+        "name": "First Love Is a Curse",
+        "url": "https://open.spotify.com/album/2iENz685ly97rfApjgS1cy"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "First Love Is a Curse",
+      "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
+    },
+    {
+      "album": {
         "name": "First Luv",
         "url": "https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4"
       },
@@ -11610,6 +11628,24 @@
       "duration_ms": 152640,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN"
+    },
+    {
+      "album": {
+        "name": "Heavy Serenade",
+        "url": "https://open.spotify.com/album/6fA8V4uDvle3Tm6qUGlikz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Heavy Serenade",
+      "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv"
     },
     {
       "album": {
@@ -17364,7 +17400,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 162000,
       "name": "Moonlight Dance",
       "url": "https://open.spotify.com/track/37n8xGw0BszIIpERU9Vmpw"
@@ -18542,7 +18578,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/3RsJLPvB5pGC9BaAVb4caC"
@@ -20813,6 +20849,24 @@
     },
     {
       "album": {
+        "name": "Quartet",
+        "url": "https://open.spotify.com/album/7u7qPeCZWeVXbAhUGV38cI"
+      },
+      "artists": [
+        {
+          "name": "IS:SUE",
+          "url": "https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Quartet",
+      "url": "https://open.spotify.com/track/5mLciiSfvG8tUDU4siKN3J"
+    },
+    {
+      "album": {
         "name": "Que Sera Sera",
         "url": "https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF"
       },
@@ -21504,7 +21558,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg"
@@ -25571,6 +25625,24 @@
     },
     {
       "album": {
+        "name": "Summer's Not Over",
+        "url": "https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Summer's Not Over",
+      "url": "https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB"
+    },
+    {
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
       },
@@ -27242,6 +27314,28 @@
       "duration_ms": 172000,
       "name": "THRILLER",
       "url": "https://open.spotify.com/track/6FVwbv7XgC7xR2FT5ISS4B"
+    },
+    {
+      "album": {
+        "name": "TIC TIC",
+        "url": "https://open.spotify.com/album/0vjMmLl4CGSYbmXASYydhQ"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "TIC TIC (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/3LI7emieOkgFz1qbVcKR7m"
     },
     {
       "album": {
@@ -29270,6 +29364,28 @@
       "duration_ms": 191186,
       "name": "WBTR",
       "url": "https://open.spotify.com/track/3KUk4lCHI6R247MAxTHjcw"
+    },
+    {
+      "album": {
+        "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+        "url": "https://open.spotify.com/album/6IttHfuu2t5ciZPApSX0Ex"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
+      "url": "https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW"
     },
     {
       "album": {
@@ -31512,7 +31628,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 165689,
       "name": "\u30c8\u30ad\u30e1\u30c6\u30a3\u30c3\u30af",
       "url": "https://open.spotify.com/track/6lWqssYigGPA5mCDrzFyGF"

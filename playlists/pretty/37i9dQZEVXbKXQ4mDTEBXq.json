@@ -1,47 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Japan.",
-  "num_followers": 1373564,
+  "num_followers": 1373801,
   "original_name": "Top 50 - Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MZP5UAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MZVK0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-      "url": "https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "Bakuretsu Aishiteru",
         "url": "https://open.spotify.com/album/799BlwteOui4AuS7n0cucj"
@@ -57,58 +25,10 @@
       "url": "https://open.spotify.com/track/73WjupQhQmQUOgCl7dXpvN"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "Sukisugite METSU!",
-        "url": "https://open.spotify.com/album/1hKC0UQuVBNgilSQEwKPbo"
-      },
-      "artists": [
-        {
-          "name": "M!LK",
-          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Sukisugite METSU!",
-      "url": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "3XL",
-        "url": "https://open.spotify.com/album/6DFmyBvzCFukqEf4TfTQ1Q"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "3XL",
-      "url": "https://open.spotify.com/track/3sNbkM4pIy1l7p6K2lhpvm"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 286053,
-      "name": "\u82b1\u675f",
-      "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "lulu.",
-        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
+        "name": "10",
+        "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
       },
       "artists": [
         {
@@ -116,28 +36,28 @@
           "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 270626,
-      "name": "lulu.",
-      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+      "duration_ms": 289506,
+      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+      "url": "https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj"
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "sakanaction",
         "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
@@ -153,26 +73,26 @@
       "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "ANTENNA",
-        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
+        "name": "Sukisugite METSU!",
+        "url": "https://open.spotify.com/album/1hKC0UQuVBNgilSQEwKPbo"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
         }
       ],
-      "duration_ms": 343253,
-      "name": "Soranji",
-      "url": "https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM"
+      "duration_ms": 212400,
+      "name": "Sukisugite METSU!",
+      "url": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
       },
       "artists": [
         {
@@ -180,44 +100,60 @@
           "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 294813,
-      "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
-      "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
+      "duration_ms": 286053,
+      "name": "\u82b1\u675f",
+      "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "AIZO",
-        "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
+        "name": "lulu.",
+        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 215858,
-      "name": "AIZO",
-      "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
+      "duration_ms": 270626,
+      "name": "lulu.",
+      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "MAMIHLAPINATAPAI",
-        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
+        "name": "3XL",
+        "url": "https://open.spotify.com/album/6DFmyBvzCFukqEf4TfTQ1Q"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 138284,
-      "name": "It's Me",
-      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+      "duration_ms": 165454,
+      "name": "3XL",
+      "url": "https://open.spotify.com/track/3sNbkM4pIy1l7p6K2lhpvm"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
@@ -233,7 +169,39 @@
       "url": "https://open.spotify.com/track/7ikOwlVju9HYUKthPiNHwr"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "ANTENNA",
+        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 343253,
+      "name": "Soranji",
+      "url": "https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
         "url": "https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6"
@@ -249,10 +217,26 @@
       "url": "https://open.spotify.com/track/4GqO80eGXA542oTvlYv4LS"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "\u30e6\u30fc\u30e2\u30a2",
-        "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
+        "name": "AIZO",
+        "url": "https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 215858,
+      "name": "AIZO",
+      "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
       },
       "artists": [
         {
@@ -260,28 +244,12 @@
           "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 288013,
-      "name": "\u6c34\u5e73\u7dda",
-      "url": "https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf"
+      "duration_ms": 294813,
+      "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
+      "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "\u9752\u3068\u590f",
-      "url": "https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "IDOLPOWER",
         "url": "https://open.spotify.com/album/1SMsG4N0e3DFPNuOnQRKsA"
@@ -297,7 +265,39 @@
       "url": "https://open.spotify.com/track/5LP9UNPCIkgHkh7x1AMHnw"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 270026,
+      "name": "\u9752\u3068\u590f",
+      "url": "https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "\u30e6\u30fc\u30e2\u30a2",
+        "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 288013,
+      "name": "\u6c34\u5e73\u7dda",
+      "url": "https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
@@ -313,23 +313,39 @@
       "url": "https://open.spotify.com/track/3920QegiL2PHmaYYBVwexC"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0"
+        "name": "\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/78HCbdRoQpbPL0eZaTk4mS"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 207845,
-      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI"
+      "duration_ms": 189640,
+      "name": "\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 321306,
+      "name": "\u50d5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "\u9752\u3068\u590f",
         "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
@@ -349,39 +365,23 @@
       "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "\u5922\u4e2d",
-        "url": "https://open.spotify.com/album/78HCbdRoQpbPL0eZaTk4mS"
+        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0"
       },
       "artists": [
         {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 189640,
-      "name": "\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz"
+      "duration_ms": 207845,
+      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 321306,
-      "name": "\u50d5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "ANTENNA",
         "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
@@ -397,103 +397,7 @@
       "url": "https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "\u98a8\u3068\u753a",
-        "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "\u98a8\u3068\u753a",
-      "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 224804,
-      "name": "Kaiju no Hanauta",
-      "url": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "Never Grow Up",
-        "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "SAD SONG",
-      "url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "HAPPY BIRTHDAY",
-      "url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -509,7 +413,87 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "\u98a8\u3068\u753a",
+        "url": "https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "\u98a8\u3068\u753a",
+      "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 224804,
+      "name": "Kaiju no Hanauta",
+      "url": "https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "Kaiju",
         "url": "https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS"
@@ -525,55 +509,23 @@
       "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
+        "name": "Never Grow Up",
+        "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 189426,
-      "name": "\u30af\u30b9\u30b7\u30ad",
-      "url": "https://open.spotify.com/track/57zS3lPil2VxdlBLXHu8l2"
+      "duration_ms": 217120,
+      "name": "SAD SONG",
+      "url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-        "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 197668,
-      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "No.\u2161 (Deluxe)",
-        "url": "https://open.spotify.com/album/0MiHN6d1n7USZ28Db6jyJo"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 192603,
-      "name": "LAVALAVA",
-      "url": "https://open.spotify.com/track/7vgZhgyZBkGJvuh37tJnJo"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "BOY & GIRLS",
         "url": "https://open.spotify.com/album/6ZkWkpYa86jjitpJLzwgHO"
@@ -589,7 +541,55 @@
       "url": "https://open.spotify.com/track/6TPzSUjZ3Y0F2aKb0ZrNwv"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "\u30af\u30b9\u30b7\u30ad",
+      "url": "https://open.spotify.com/track/57zS3lPil2VxdlBLXHu8l2"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "blues",
+        "url": "https://open.spotify.com/album/2puS4XHci0XEcLNNY4xgjv"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "\u604b",
+      "url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "JANE DOE",
         "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
@@ -609,7 +609,23 @@
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "No.\u2161 (Deluxe)",
+        "url": "https://open.spotify.com/album/0MiHN6d1n7USZ28Db6jyJo"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "LAVALAVA",
+      "url": "https://open.spotify.com/track/7vgZhgyZBkGJvuh37tJnJo"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -625,39 +641,7 @@
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "blues",
-        "url": "https://open.spotify.com/album/2puS4XHci0XEcLNNY4xgjv"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "\u604b",
-      "url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "We are ARASHI (Members' selection)",
-        "url": "https://open.spotify.com/album/1uU8YEjqQQoa2xojo1Ab9m"
-      },
-      "artists": [
-        {
-          "name": "ARASHI",
-          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
-        }
-      ],
-      "duration_ms": 267598,
-      "name": "Five",
-      "url": "https://open.spotify.com/track/4FROBxs5IZ3oK8XEEiJ8Oh"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "\u590f\u96f2\u30ce\u30a4\u30ba",
         "url": "https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR"
@@ -673,7 +657,23 @@
       "url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "We are ARASHI (Members' selection)",
+        "url": "https://open.spotify.com/album/1uU8YEjqQQoa2xojo1Ab9m"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "duration_ms": 267598,
+      "name": "Five",
+      "url": "https://open.spotify.com/track/4FROBxs5IZ3oK8XEEiJ8Oh"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "STARRING",
         "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
         "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
@@ -737,23 +737,7 @@
       "url": "https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "\u7523\u58f0",
-        "url": "https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 294053,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1K2WDtqX9flfGGktr4sCRU"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
@@ -769,7 +753,39 @@
       "url": "https://open.spotify.com/track/2q910scaHhg6GmqnUKOGHU"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/15oB8OFgucQsUUIdafLHAw"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "\u611b\u3092\u3053\u3081\u3066\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/7CmWXD3w1xOO53AAO4LRVQ"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
+      "album": {
+        "name": "\u7523\u58f0",
+        "url": "https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 294053,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1K2WDtqX9flfGGktr4sCRU"
+    },
+    {
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "3XL",
         "url": "https://open.spotify.com/album/284dEwq0SACYMZWHhfirPy"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/5gyxzhnH2RHC97qTEa5M7f"
     },
     {
-      "added_at": "2026-05-10 13:31:20",
+      "added_at": "2026-05-11 13:36:07",
       "album": {
         "name": "3XL",
         "url": "https://open.spotify.com/album/284dEwq0SACYMZWHhfirPy"
@@ -799,22 +815,6 @@
       "duration_ms": 187040,
       "name": "\u30b5\u30a4\u30b1SHOCK",
       "url": "https://open.spotify.com/track/67osn1v7mGQbRoVhXMri5V"
-    },
-    {
-      "added_at": "2026-05-10 13:31:20",
-      "album": {
-        "name": "Superfly",
-        "url": "https://open.spotify.com/album/15oB8OFgucQsUUIdafLHAw"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 295600,
-      "name": "\u611b\u3092\u3053\u3081\u3066\u82b1\u675f\u3092",
-      "url": "https://open.spotify.com/track/7CmWXD3w1xOO53AAO4LRVQ"
     }
   ],
   "unique_name": "Top 50 - Japan",

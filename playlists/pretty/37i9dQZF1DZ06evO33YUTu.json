@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 132759,
+  "num_followers": 132771,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAADcInuPqVrS2xwth6uyNH+o",
+  "snapshot_id": "af/KgAAAAADLZMfUmJ1OHuvvCMAqxY+B",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "22",
-      "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIAJANTE",
         "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
       },
@@ -307,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "22",
+      "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -319,6 +319,30 @@
       "duration_ms": 176040,
       "name": "Los Consejos",
       "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YAPAQUE",
+        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "YAPAQUE",
+      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
     },
     {
       "added_at": null,
@@ -359,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LE PED\u00cd A DIOS",
-        "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
-      },
-      "artists": [
-        {
-          "name": "Jhay P",
-          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 214668,
-      "name": "LE PED\u00cd A DIOS",
-      "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -399,26 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "YAPAQUE",
-        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
+        "name": "LE PED\u00cd A DIOS",
+        "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 237120,
-      "name": "YAPAQUE",
-      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
+      "duration_ms": 214668,
+      "name": "LE PED\u00cd A DIOS",
+      "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
     },
     {
       "added_at": null,
@@ -719,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Cuando Te Vi",
-      "url": "https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
         "url": "https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5"
       },
@@ -779,6 +743,42 @@
       "duration_ms": 218981,
       "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
       "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Cuando Te Vi",
+      "url": "https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
     },
     {
       "added_at": null,

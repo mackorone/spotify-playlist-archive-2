@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 168259,
+  "num_followers": 168301,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "El Quinto Trago",
-        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
+        "name": "Volver\u00e9 A Conquistarte",
+        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 258733,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+      "duration_ms": 236533,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -251,22 +255,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Volver\u00e9 A Conquistarte",
-        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
+        "name": "El Quinto Trago",
+        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+      "duration_ms": 258733,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9 - Remastered 1994",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Antolog\u00eda...Los Baby's",
         "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 184853,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/0W4z5QkqwDWIAFMsZvTN5d"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9 - Remastered 1994",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 195653,
       "name": "No Son Palabritas",
       "url": "https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Muri\u00f3 La Flor",
-      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Serie Diamante (USA)",
         "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 183026,
       "name": "Mi Amiga, Mi Esposa, Mi Amante",
       "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Barbaros",
-          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Pecado Mortal",
-      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "15 Exitos Del Recuerdo",
         "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 141533,
       "name": "Anoche Me Enamore",
       "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Barbaros",
+          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Pecado Mortal",
+      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Tu inolvidable sonrisa",
-      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Tesoros De Coleccion - Los Tukas",
         "url": "https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 154400,
       "name": "Nacimos para Amarnos",
       "url": "https://open.spotify.com/track/5vDE5gNeKaoBfVnjqFgcfc"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Tu inolvidable sonrisa",
+      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Ana Gabriel Todos Sus Exitos",
+        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/5eQxyKQ8wVlpP7nTMCAVww"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "20 \u00c9xitos",
         "url": "https://open.spotify.com/album/4DO7gB8PT4h2em5Q3IRxNE"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 257573,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Bendito Cielo",
-        "url": "https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/52nNbyJq5duX1tzxMTQMXG"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Ana Gabriel Todos Sus Exitos",
-        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
+        "name": "Bendito Cielo",
+        "url": "https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/5eQxyKQ8wVlpP7nTMCAVww"
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/52nNbyJq5duX1tzxMTQMXG"
     },
     {
       "added_at": "2025-01-28 15:41:46",

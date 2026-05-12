@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Dean Turnley
 
-1,121 songs - 3 day 6 hr 6 min
+1,122 songs - 3 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Buster Speaker](https://open.spotify.com/track/0sPFIFlnK5xAi86IOmlx35) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn) | [Speaker Buster EP](https://open.spotify.com/album/7LV63BuUYqmiJ4FHYnu50x) | 4:35 | 2025-11-14 | 2025-12-29 |
 | [Buzzin](https://open.spotify.com/track/2blaFgkbntstxZBGEmXITG) | [Ryan Grey](https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw) | [Buzzin](https://open.spotify.com/album/1VQps1pCNJ32Z8ouR7q8a4) | 3:01 | 2026-04-10 |  |
 | [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 | 2023-08-04 | 2023-09-17 |
+| [Call It What You Like](https://open.spotify.com/track/0o92pLHQhjyP2FdieF7xqw) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Bass Electronic](https://open.spotify.com/album/0YzPt9qBgevGuh1BWGZ6Dr) | 5:25 | 2026-05-11 |  |
 | [Cama Cama](https://open.spotify.com/track/6fCCFaQOddXTcNb91Uk3z5) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Cama Cama](https://open.spotify.com/album/59y5b3c0Nh8ZIAs28DSedv) | 3:07 | 2025-11-07 | 2025-12-29 |
 | [Can You Feel It](https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Can You Feel It](https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO) | 2:39 | 2025-09-19 | 2025-11-29 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-23 | 2026-02-21 |
@@ -395,7 +396,7 @@
 | [Go Go](https://open.spotify.com/track/4RAlMHBv3VGJBxRczuIpQz) | [Yerik US](https://open.spotify.com/artist/1X7Dv6dJHi9FAlsLEhwok8) | [Under One Roof, Vol\. 1](https://open.spotify.com/album/5lCxH9j5oZovPEzHJxiJ5L) | 5:47 | 2024-06-17 | 2024-11-16 |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |
 | [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 | 2022-08-24 |
-| [goes like this \- radio edit](https://open.spotify.com/track/2UlFidIgZvvdnPwuO4kLlQ) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [goes like this](https://open.spotify.com/album/46wKVosuGOraUHEGmUwUgR) | 3:31 | 2026-04-03 |  |
+| [goes like this](https://open.spotify.com/track/2UlFidIgZvvdnPwuO4kLlQ) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [goes like this](https://open.spotify.com/album/46wKVosuGOraUHEGmUwUgR) | 3:31 | 2026-04-03 |  |
 | [Going Deeper](https://open.spotify.com/track/6XC72TsCSZlzUTdJPVEGlC) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Going Deeper](https://open.spotify.com/album/6LG4maoslPuedlB49I6g7M) | 6:18 | 2024-02-23 | 2024-09-14 |
 | [Going To London](https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [2025 Archive](https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v) | 4:00 | 2025-12-30 | 2026-02-21 |
 | [Golly Molly](https://open.spotify.com/track/6KaOJegxT92jNSBTrVajKF) | [FunkFuse](https://open.spotify.com/artist/1Jwqu35eVD8gEusE4PUi8P) | [The Mess](https://open.spotify.com/album/4zUcTJo5GAdsocXUmwY1C7) | 2:59 | 2025-08-29 | 2025-11-29 |
@@ -993,7 +994,7 @@
 | [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj) | 3:03 | 2026-01-12 |  |
 | [The Way I Are \- Max Dean Remix \- Extended](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix \- Extended\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 | 2025-12-19 | 2026-01-15 |
 | [The Way I Like It](https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [The Way I Like It EP](https://open.spotify.com/album/5or9Wn5yIGMLW8waFsbKEM) | 3:15 | 2024-12-02 | 2025-03-15 |
-| [Thief Of Joy](https://open.spotify.com/track/68ZJzkHSvxY2Mp3e1YhaAl) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Dark Web Pinger](https://open.spotify.com/album/4jhsNapiEPLqFvJzFaLSp3) | 3:41 | 2026-04-10 |  |
+| [Thief Of Joy](https://open.spotify.com/track/68ZJzkHSvxY2Mp3e1YhaAl) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Dark Web Pinger](https://open.spotify.com/album/4jhsNapiEPLqFvJzFaLSp3) | 3:41 | 2026-04-10 | 2026-05-12 |
 | [This Energy](https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [This Energy EP](https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU) | 3:18 | 2023-03-17 | 2024-03-09 |
 | [This Is Jungle](https://open.spotify.com/track/5NYHUgdlNzSoe6XIRNvncF) | [Juulz](https://open.spotify.com/artist/7Cu7CKqzOXalKuKJpU8qOW) | [It's Good](https://open.spotify.com/album/2KkO6eLijA8JFLaclKlVVi) | 3:45 | 2026-03-04 |  |
 | [This Is The House](https://open.spotify.com/track/08SmKIHHfFC1xz7uGqZ3Uu) | [Nacho Padilla](https://open.spotify.com/artist/7dchSVIFXX2YZJdspnihYe) | [VA 1](https://open.spotify.com/album/3sNmFcvPjnEdqzRiQ6rDmF) | 5:39 | 2025-09-12 | 2025-10-25 |

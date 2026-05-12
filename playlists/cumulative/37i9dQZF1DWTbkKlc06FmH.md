@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,235 songs - 3 day 0 hr 48 min
+1,236 songs - 3 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [After Party](https://open.spotify.com/track/2eq9zlqLn7RqWkZrF85Ox4) | [Shunské G](https://open.spotify.com/artist/7nyrTOgHPowmRqSRPQML1B), [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz) | [After Party](https://open.spotify.com/album/6Dlr3gWMOmQXTmjoS0QJFp) | 4:12 | 2023-04-04 | 2023-04-19 |
 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-01 | 2025-04-06 |
 | [Aftermath \- Edit](https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Here are the first 3 songs from my mixtape, Rocket](https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4) | 1:42 | 2025-08-29 | 2025-09-30 |
+| [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 | 2026-05-09 |  |
 | [AGAIN](https://open.spotify.com/track/4ltqkH3b02yW7IBR6C0cz1) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX), [エース橋本](https://open.spotify.com/artist/3xF0OQf5S4WUAEjglxumPX) | [AGAIN](https://open.spotify.com/album/0FJvBBvvWxfHZFbWVnyjTQ) | 3:15 | 2023-05-25 | 2023-06-07 |
 | [Akanchawa](https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Akanchawa](https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ) | 2:15 | 2025-01-29 | 2025-02-20 |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-15 | 2024-01-26 |
@@ -979,7 +980,7 @@
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2022-11-08 | 2024-02-09 |
 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 | 2026-02-04 |  |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-20 | 2023-02-24 |
-| [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-13 |  |
+| [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-13 | 2026-05-12 |
 | [Think Twice](https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Think Twice](https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu) | 3:12 | 2024-01-16 | 2024-06-05 |
 | [Thinkin Bout You](https://open.spotify.com/track/4LiSdLjUXbS4daVzBJCTwH) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Thinkin Bout You](https://open.spotify.com/album/2fsXOXjqbWThZEfTLJL3xH) | 4:10 | 2026-02-18 | 2026-04-18 |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-10-20 | 2024-04-19 |

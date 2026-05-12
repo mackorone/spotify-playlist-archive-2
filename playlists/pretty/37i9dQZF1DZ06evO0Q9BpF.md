@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,972 likes - 49 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,981 likes - 49 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 2 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/5zTXKukEkW61syADjVW9L7) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Despierta Mi Corazón](https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU) | 10:45 |
 | 3 | [Vuelvo a Casa \- En Vivo](https://open.spotify.com/track/7nqC732TB0VnUl2JCUAxXj) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Sana Nuestra Nación](https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p) | 9:09 |
 | 4 | [Abres Camino](https://open.spotify.com/track/3yCET55w4UJ97qfi5KtE2W) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 7:34 |
-| 5 | [Encontré \- En Vivo](https://open.spotify.com/track/0ljoTJgoWAdgOIXtKoJcny) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 7:55 |
-| 6 | [Cuán Grande Es Él](https://open.spotify.com/track/539s79Pt9Ax6LUiANayZPy) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 1:37 |
+| 5 | [Cuán Grande Es Él](https://open.spotify.com/track/539s79Pt9Ax6LUiANayZPy) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 1:37 |
+| 6 | [Encontré \- En Vivo](https://open.spotify.com/track/0ljoTJgoWAdgOIXtKoJcny) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 7:55 |
 | 7 | [Tu Amor No Tiene Fin \(Reprise\)](https://open.spotify.com/track/4HPOnC1b0SH8eC1mE0Gsyo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Sana Nuestra Nación](https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p) | 5:06 |
 | 8 | [Ven y Lléname](https://open.spotify.com/track/7EHtn15gqZVZwq33y3OOzK) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 9:58 |
 | 9 | [Hay Poder](https://open.spotify.com/track/3BYSqC25f995dg4Uqwzi9s) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 7:04 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 48 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
 | 49 | [Encuentro Glorioso](https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:49 |
 
-Snapshot ID: `af55AAAAAAAwmwbM1fqBPP76C39TGiU+`
+Snapshot ID: `af/KgAAAAAAu1gyGQGQYTRX990yd/7ET`

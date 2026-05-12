@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 
 > PUTTY SATIN BLUSH, curated by <a href="https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ?si=n\-YJoeRsSj2XHTG\_NmkGDQ">Charles Jeffrey</a> 💋 Queer cult classics to post punk jewels and cinematic music that will make you laugh or cry!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,359 likes - 44 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 44 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 | 25 | [FURNACE THE WORLD](https://open.spotify.com/track/0WmSpJWDZdSSKGf9tpcH0C) | [Charles Jeffrey LOVERBOY](https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ), [Wedgwood](https://open.spotify.com/artist/33JMm7amLCnz8dGdHbRemJ) | [FURNACE THE WORLD](https://open.spotify.com/album/0RyrXVlq9pDCQOdnzvAcrP) | 2:51 |
 | 26 | [Orgasmic](https://open.spotify.com/track/4TEzkuluRLndctTdXFYulv) | [WonkyWilla](https://open.spotify.com/artist/2Aa5prvbqcjMJTHURdKyOO) | [Orgasmic](https://open.spotify.com/album/1kydebBUrdFaWbu3u2faHh) | 2:13 |
 | 27 | [BUTT MUSCLE](https://open.spotify.com/track/5G1ikuiX52bfOyFFbpfquO) | [Christeene](https://open.spotify.com/artist/4m41vJb845gyc71nhcCePS) | [Basura](https://open.spotify.com/album/76jTLLZO2nNu3eIbLpbAwF) | 3:03 |
-| 28 | [Dancing With The Fish](https://open.spotify.com/track/5P7V1cnj8zFMySt0s2gVha) | [Baby's Berserk](https://open.spotify.com/artist/7qoypmsmoFKt8lXJcTcM8w) | [Baby's Berserk](https://open.spotify.com/album/6Mk4MCA47KLSzU4JgVbls5) | 6:04 |
+| 28 | [Dancing With The Fish](https://open.spotify.com/track/5P7V1cnj8zFMySt0s2gVha) | [Baby Berserk](https://open.spotify.com/artist/6GNuFQWqw3NTNZ051qHoN6) | [Baby's Berserk](https://open.spotify.com/album/6Mk4MCA47KLSzU4JgVbls5) | 6:04 |
 | 29 | [I Feel Cream](https://open.spotify.com/track/5J2sl8oHdf97u2T68vEu1J) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/6kceeYJdBMthVBI7VLKpoQ) | 4:31 |
 | 30 | [Supermayer Lost In Tiergarten](https://open.spotify.com/track/528wnMEbLU6u5QPXK13T4X) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Supermayer](https://open.spotify.com/artist/0xe3cDuR59Zm2RrkOSDkFO) | [Tiergarten \(International Version\)](https://open.spotify.com/album/4bXtPx6dwwC1ZL6IdIxgRO) | 13:57 |
 | 31 | [Sensitive Child](https://open.spotify.com/track/2VlcoYEtFyoKW6YETFUW6B) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Hideous Bastard](https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65370,
+  "num_followers": 65372,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -481,22 +497,6 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
-    },
-    {
       "added_at": "2024-08-29 03:09:23",
       "album": {
         "name": "Tlapaler\u00eda Don Chuy",
@@ -515,18 +515,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+        }
+      ],
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
-      },
-      "artists": [
-        {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
-        }
-      ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -683,18 +683,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
       "artists": [
         {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
         }
       ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2023-04-13 19:45:15",

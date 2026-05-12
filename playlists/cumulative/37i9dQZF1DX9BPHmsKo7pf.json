@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Connect-R",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Babasha, Denis Ramniceanu",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 147038,
       "name": "Ale ale",
       "url": "https://open.spotify.com/track/5pClmo7Su4lXAzDOE5MSPA"
@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "A\u0219a \u0219i a\u0219a",
+        "url": "https://open.spotify.com/album/33kZQwUdXcxEEpfHRZJRHt"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "A\u0219a \u0219i a\u0219a",
+      "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
+    },
+    {
+      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/6Kmrcahv6aAPYTlkADWt7p"
       },
@@ -828,6 +850,24 @@
       "duration_ms": 210789,
       "name": "BANI DIN MARF\u0102",
       "url": "https://open.spotify.com/track/3kpOIK1WElOt142PogQr8b"
+    },
+    {
+      "album": {
+        "name": "Bar\u0103 la bar\u0103",
+        "url": "https://open.spotify.com/album/5yRkPz4rOJYHPqRvyeVseT"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188702,
+      "name": "Bar\u0103 la bar\u0103",
+      "url": "https://open.spotify.com/track/6mcuLPUgknZ0IMrcxypoiv"
     },
     {
       "album": {
@@ -1254,7 +1294,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 160000,
       "name": "CATEL",
       "url": "https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF"
@@ -1696,7 +1736,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 161142,
       "name": "C\u00e2t vrei tu",
       "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
@@ -3842,6 +3882,24 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "mr. idcash",
+        "url": "https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "mr. idcash",
+      "url": "https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt"
     },
     {
       "album": {

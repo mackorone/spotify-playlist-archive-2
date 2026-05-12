@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: aleksiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,551 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,545 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 24 | [Hate Myself](https://open.spotify.com/track/16F28Z5FEqGUbglyMtz6Yz) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Hate Myself](https://open.spotify.com/album/0rbrIJIWuQUEFDxgVzAXXp) | 2:32 |
 | 25 | [A Heart Doesn't Hurt Itself](https://open.spotify.com/track/1N4pzCqYLJpeqhB4BLFrqk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [A Heart Doesn't Hurt Itself](https://open.spotify.com/album/5TuTiHg5WAxfrXcQ14IVmR) | 3:18 |
 | 26 | [HEARTLESS](https://open.spotify.com/track/19FZHDRMhJ0fahX3vHvprt) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [HEARTLESS](https://open.spotify.com/album/65TcWsSIDJHmEiy8LWAP3y) | 3:10 |
-| 27 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 27 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 28 | [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 |
 | 29 | [Not Your Drug](https://open.spotify.com/track/2uTLxUasBF5a9t80oXzBMp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Not Your Drug](https://open.spotify.com/album/6wy7po6NpxwqKUVpBdSmVz) | 3:01 |
 | 30 | [Call Her Home](https://open.spotify.com/track/6NCa7oT1GaVjf8C2atj8wO) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Call Her Home](https://open.spotify.com/album/5QRbNC3PPCD1xd2kf7c0oI) | 3:12 |

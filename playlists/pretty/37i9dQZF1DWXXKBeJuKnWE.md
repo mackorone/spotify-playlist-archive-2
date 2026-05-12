@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Loathe
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,116 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,076 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 39 | [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Nightmare Tripping \(Feat\. Nickelback\)](https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz) | 5:21 |
 | 40 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 |
 | 41 | [In the Dark](https://open.spotify.com/track/78Byi7xHQziRc0dRsNMwBb) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The End is Not the End](https://open.spotify.com/album/43jPtoyy13asIz0OwrWKns) | 3:52 |
-| 42 | [St\. Catherine's Wheel](https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:05 |
-| 43 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
+| 42 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
+| 43 | [St\. Catherine's Wheel](https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:05 |
 | 44 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
 | 45 | [Make It Make Sense](https://open.spotify.com/track/28sv9hTNi7Cxv71zJ0qJA1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:08 |
 | 46 | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 70 | [Cellophane](https://open.spotify.com/track/5yIkrjh4x9S4gLB43uIZMx) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Cellophane](https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn) | 3:18 |
 | 71 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 |
 | 72 | [Spared From The Guillotine](https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [The New Flesh](https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz) | 3:55 |
-| 73 | [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 |
-| 74 | [So Low](https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [So Low](https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf) | 2:59 |
+| 73 | [So Low](https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [So Low](https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf) | 2:59 |
+| 74 | [Feed \(feat\. DeathbyRomy\)](https://open.spotify.com/track/6E07yIbMpOaZFisNCajNk4) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Feed \(feat\. DeathbyRomy\)](https://open.spotify.com/album/2IUSxKWwBUjG0sCnlKTxWa) | 3:35 |
 | 75 | [Can I Get A](https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Can I Get A](https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt) | 3:43 |
-| 76 | [Feed \(feat\. DeathbyRomy\)](https://open.spotify.com/track/6E07yIbMpOaZFisNCajNk4) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Feed \(feat\. DeathbyRomy\)](https://open.spotify.com/album/2IUSxKWwBUjG0sCnlKTxWa) | 3:35 |
+| 76 | [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 |
 | 77 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 |
 | 78 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
 | 79 | [Silhouette](https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Silhouette](https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm) | 4:29 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 88 | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4) | 4:22 |
 | 89 | [This Is The Sound](https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [This Is The Sound](https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC) | 2:57 |
 | 90 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 |
-| 91 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 |
-| 92 | [Of Her](https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 1:33 |
+| 91 | [Of Her](https://open.spotify.com/track/2415zlo33NvXzYSZEH61s5) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 1:33 |
+| 92 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 |
 | 93 | [Hype Man](https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Hype Man](https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068) | 4:08 |
 | 94 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 |
 | 95 | [Angel Eyes](https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [God Forgives](https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii) | 2:14 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 97 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
 | 98 | [\(sic\) \- Ulrich Wild Mix](https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(25th Anniversary Edition\)](https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO) | 3:27 |
 | 99 | [Like the Fourth Wall](https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3) | [BLACKSHAPE](https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH) | [Like the Fourth Wall](https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs) | 5:43 |
-| 100 | [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 |
+| 100 | [Deceptacon](https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Deceptacon](https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc) | 3:13 |
 
 Snapshot ID: `AAAAACyEJqviHnXL78y+tcaMfWxA6O3E`

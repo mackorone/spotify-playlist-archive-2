@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Sir Trill
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,459 likes - 101 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,490 likes - 101 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 28 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
 | 29 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
 | 30 | [Artist of the Century](https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 2:53 |
-| 31 | [Embers \(feat Liv.e & Venna\)](https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:10 |
-| 32 | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc) | 3:12 |
+| 31 | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc) | 3:12 |
+| 32 | [Embers \(feat Liv.e & Venna\)](https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:10 |
 | 33 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 |
 | 34 | [ELEVATOR](https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:55 |
 | 35 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 37 | [july \(feat\. Tiana Major9 & Venna\)](https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:44 |
 | 38 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `af55AAAAAACNh4YL0xamLMbqIWwVJ7Cx`
+Snapshot ID: `af/KgAAAAAD5cGwTsDlvuBPmqnwpN/7r`

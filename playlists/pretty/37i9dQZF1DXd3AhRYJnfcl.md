@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: عمرو دياب
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,292 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,451 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ragea](https://open.spotify.com/track/73ppBd1Mc3J6JeczDvLF8E) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla W Ahla](https://open.spotify.com/album/1Gq9bcUaRH9zVjv5oiRlb4) | 3:29 |
 | 2 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
-| 3 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 |
+| 3 | [Kelma](https://open.spotify.com/track/0GqXFN7jjKYWjiNyPtozdX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ghammadt Einy](https://open.spotify.com/album/4gg2CJrmvibTRGgHbzfj2H) | 4:09 |
 | 4 | [خيبت توقعاتك](https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [خيبت توقعاتك](https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p) | 3:46 |
-| 5 | [الحضن شوك](https://open.spotify.com/track/0IQH121iAc4jJAhPUol4Yf) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الحضن شوك](https://open.spotify.com/album/26KryY32FLwZlGHNxmA7N7) | 3:45 |
-| 6 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |
+| 5 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |
+| 6 | [الحضن شوك](https://open.spotify.com/track/0IQH121iAc4jJAhPUol4Yf) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الحضن شوك](https://open.spotify.com/album/26KryY32FLwZlGHNxmA7N7) | 3:45 |
 | 7 | [Mesh Habibi Bas](https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Mesh Habibi Bas](https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv) | 4:01 |
 | 8 | [وننسى اللي كان](https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [وننسى اللي كان](https://open.spotify.com/album/3tgmfcErtbKUtCtKH99pnJ) | 3:15 |
 | 9 | [هنا مصر هفضل كل مرة اجيلك](https://open.spotify.com/track/6u5F7iulJgzOswzPix4riq) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Banque Misr](https://open.spotify.com/artist/52ZYmo8Rhz3Xgxr7RUJ3ql) | [هنا مصر هفضل كل مرة اجيلك](https://open.spotify.com/album/02rhbXRVnloQdLz6EycG9u) | 2:38 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 11 | [Shedeeny](https://open.spotify.com/track/7t2pto2Td9oldo7aGOft4n) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:08 |
 | 12 | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [الشيله وقعت من مسلسل على كلاى](https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h) | 3:15 |
 | 13 | [سوا سوا](https://open.spotify.com/track/2TKRLhUZxSQgIuDVrtfx9a) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [سوا سوا](https://open.spotify.com/album/6oiGOkXR7n2Je2ta8COYIr) | 2:57 |
-| 14 | [Kelma](https://open.spotify.com/track/0GqXFN7jjKYWjiNyPtozdX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ghammadt Einy](https://open.spotify.com/album/4gg2CJrmvibTRGgHbzfj2H) | 4:09 |
+| 14 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 |
 | 15 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 |
 | 16 | [عين سحرية](https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عين سحرية](https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0) | 3:21 |
 | 17 | [WALA MEEN](https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [WALA MEEN](https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 |
 | 50 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 
-Snapshot ID: `AAAAACR93PO85fEEdhmo7Fq707zHSu+9`
+Snapshot ID: `AAAAAKa7uQ0hkKE/qeKtv/UgcUcVa/AL`

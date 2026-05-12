@@ -3997,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Bewafaa",
+        "url": "https://open.spotify.com/album/1mGvTYlfHuLNWOlLJSnvVF"
+      },
+      "artists": [
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Bewafaa",
+      "url": "https://open.spotify.com/track/14L7ig3OZ9PDZuoH4njwHj"
+    },
+    {
+      "album": {
         "name": "Bewajah",
         "url": "https://open.spotify.com/album/1lH7wPAyuQUtx1A6iHrrcm"
       },
@@ -5668,7 +5686,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 166567,
       "name": "Darwaze",
       "url": "https://open.spotify.com/track/5ZyCERvkj7TFVB2OBmuv7Y"

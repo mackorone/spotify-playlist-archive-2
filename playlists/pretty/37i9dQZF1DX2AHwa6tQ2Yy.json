@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: 54 Ultra",
-  "num_followers": 55562,
+  "num_followers": 55594,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
     },
     {
-      "added_at": "2026-04-16 14:00:34",
-      "album": {
-        "name": "Superbloom",
-        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Superbloom",
-      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Ego Death",
@@ -707,6 +691,22 @@
       "duration_ms": 416322,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+    },
+    {
+      "added_at": "2026-04-16 14:00:34",
+      "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Superbloom",
+      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 180493,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Music and Me",
-        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
-      },
-      "artists": [
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Music & Me",
-      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 299066,
       "name": "Strawberry Letter 23",
       "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Music and Me",
+        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Music & Me",
+      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1041,6 +1041,54 @@
       "url": "https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz"
     },
     {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+    },
+    {
+      "added_at": "2026-04-16 14:00:34",
+      "album": {
+        "name": "Hang It On The Shelf",
+        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "Hang It On The Shelf",
+      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 117976,
+      "name": "I'll Call U Back",
+      "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
+    },
+    {
       "added_at": "2026-04-03 05:00:21",
       "album": {
         "name": "Ambiguous Desire",
@@ -1063,50 +1111,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+        "name": "The Bottom Line",
+        "url": "https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "O.V. Wright",
+          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
         }
       ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 117976,
-      "name": "I'll Call U Back",
-      "url": "https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp"
-    },
-    {
-      "added_at": "2026-04-16 14:00:34",
-      "album": {
-        "name": "Hang It On The Shelf",
-        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 145786,
-      "name": "Hang It On The Shelf",
-      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
+      "duration_ms": 232093,
+      "name": "Let's Straighten It Out",
+      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1123,22 +1139,6 @@
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "The Bottom Line",
-        "url": "https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N"
-      },
-      "artists": [
-        {
-          "name": "O.V. Wright",
-          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Let's Straighten It Out",
-      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx"
     },
     {
-      "added_at": "2026-03-05 13:00:11",
-      "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
@@ -1223,6 +1207,22 @@
       "duration_ms": 170800,
       "name": "Thank You - 2008 Remaster",
       "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
     }
   ],
   "unique_name": "soulful",

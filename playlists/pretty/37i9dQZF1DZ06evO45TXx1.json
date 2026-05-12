@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15922,
+  "num_followers": 15924,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACKgu0QFla7wab+Pu17AW//",
+  "snapshot_id": "af/KgAAAAABsBLnwIt54aS4MSrRWiDoa",
   "tracks": [
     {
       "added_at": null,
@@ -811,34 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ainda Sinto Muito",
-      "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cachorro Sincero",
         "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
       },
@@ -863,6 +835,34 @@
       "duration_ms": 137989,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ainda Sinto Muito",
+      "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
     },
     {
       "added_at": null,

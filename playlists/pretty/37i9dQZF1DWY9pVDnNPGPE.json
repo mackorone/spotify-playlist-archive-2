@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11716,
+  "num_followers": 11719,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-04-21 04:24:41",
       "album": {
-        "name": "MANIFESTO : DAY 1",
-        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 197795,
-      "name": "TFW (That Feeling When)",
-      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
-    },
-    {
-      "added_at": "2026-04-21 04:24:41",
-      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/5a3LnwhYHFlx82Do9iuU8t"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 245840,
       "name": "Antifreeze",
       "url": "https://open.spotify.com/track/1osW08ygBwopWmjWzqWbfJ"
+    },
+    {
+      "added_at": "2026-04-21 04:24:41",
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 197795,
+      "name": "TFW (That Feeling When)",
+      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
     },
     {
       "added_at": "2026-04-21 04:24:41",
@@ -559,30 +559,6 @@
     {
       "added_at": "2026-04-21 04:24:41",
       "album": {
-        "name": "Good Day (Feat. Jay Park, 1iL)",
-        "url": "https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW"
-      },
-      "artists": [
-        {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "1iL",
-          "url": "https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Good Day (Feat. Jay Park, 1iL)",
-      "url": "https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A"
-    },
-    {
-      "added_at": "2026-04-21 04:24:41",
-      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2026-04-21 04:24:41",
+      "album": {
+        "name": "Good Day (Feat. Jay Park, 1iL)",
+        "url": "https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW"
+      },
+      "artists": [
+        {
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "1iL",
+          "url": "https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Good Day (Feat. Jay Park, 1iL)",
+      "url": "https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A"
     },
     {
       "added_at": "2026-04-21 04:24:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-21 04:24:41",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2026-04-21 04:24:41",
-      "album": {
         "name": "FRR",
         "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
+    },
+    {
+      "added_at": "2026-04-21 04:24:41",
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2026-04-21 04:24:41",

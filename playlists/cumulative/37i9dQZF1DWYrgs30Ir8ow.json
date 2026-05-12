@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "20 Seconds",
+        "url": "https://open.spotify.com/album/5OEqnCAK2oapLxlCVSZDDX"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hillen",
+          "url": "https://open.spotify.com/artist/3SOAaZR7eaIsYlAEDliSS4"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157556,
+      "name": "20 Seconds",
+      "url": "https://open.spotify.com/track/26LQZvz3LIOkJzxha3Kgyi"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -650,6 +668,28 @@
       "duration_ms": 144109,
       "name": "Adem In",
       "url": "https://open.spotify.com/track/6Kw6oM5xHYE4BZsymijkYG"
+    },
+    {
+      "album": {
+        "name": "Ademnood",
+        "url": "https://open.spotify.com/album/3hjUAF7zKbGpld0QGDuIqP"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Ademnood",
+      "url": "https://open.spotify.com/track/044HtxqRCHIQvJhZ4LWt4z"
     },
     {
       "album": {
@@ -3856,6 +3896,24 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "album": {
@@ -19445,6 +19503,24 @@
     },
     {
       "album": {
+        "name": "Rode Kaart",
+        "url": "https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156763,
+      "name": "Regragui",
+      "url": "https://open.spotify.com/track/5xN3cFZCNvhMpaS3iqraQX"
+    },
+    {
+      "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
@@ -23944,6 +24020,28 @@
       "duration_ms": 154333,
       "name": "Toute La Night",
       "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
     },
     {
       "album": {

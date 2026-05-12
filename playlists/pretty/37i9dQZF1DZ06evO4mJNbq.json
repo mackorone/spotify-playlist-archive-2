@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3113,
+  "num_followers": 3114,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACl2gAsX18BC2W7wUKB3QU0",
+  "snapshot_id": "af/KgAAAAABtNId2zV/44SseErlg12gv",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 169000,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
+      "duration_ms": 210200,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA"
+      "duration_ms": 169000,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Drunk with Your Exes",
-      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
+      "duration_ms": 193466,
+      "name": "For the Both of Us",
+      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 193466,
-      "name": "For the Both of Us",
-      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
+      "duration_ms": 200453,
+      "name": "Drunk with Your Exes",
+      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 227882,
       "name": "Like Heaven",
       "url": "https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 215002,
-      "name": "Truth Tea",
-      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
+      "duration_ms": 150233,
+      "name": "Drag Me to Hell",
+      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 150233,
-      "name": "Drag Me to Hell",
-      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
+      "duration_ms": 215002,
+      "name": "Truth Tea",
+      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
     },
     {
       "added_at": null,

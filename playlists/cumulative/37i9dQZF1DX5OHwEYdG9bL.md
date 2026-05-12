@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: CORTIS\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: aespa\) \(Enjoy a playlist of songs that support music video features!\)
 
-221 songs - 12 hr 10 min
+223 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2.0](https://open.spotify.com/track/6GglPDAGjgX3PzbA7VrTVN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0](https://open.spotify.com/album/1X1ez8izXta4OsubqpMoA8) | 3:49 | 2026-04-02 |  |
 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 | 2026-04-07 |  |
 | [96ers](https://open.spotify.com/track/2zRAU3xCwdikTrvGPq5pSC) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [96ers](https://open.spotify.com/album/2SJPyeGSD1fJXINbkufRu9) | 3:06 | 2025-07-15 | 2025-08-20 |
-| [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/24xU2Ua8cjyz2wKziFOtnE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/6uC7j4x0xXgQkVhAg3YElC) | 3:02 | 2026-05-11 |  |
+| [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/24xU2Ua8cjyz2wKziFOtnE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/6uC7j4x0xXgQkVhAg3YElC) | 3:02 | 2026-05-11 |  |
 | [All My Poetry](https://open.spotify.com/track/0xqSbnjCNg0QBw3Jt3jBai) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [All My Poetry](https://open.spotify.com/album/2OFHzxTlpEhToP5S7FKrXn) | 4:24 | 2025-07-15 |  |
 | [APT.](https://open.spotify.com/track/04h58ACw3A2hC6xKsZOkST) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/5sSwBYZvbca0i7G6yUCVXA) | 2:52 | 2025-07-15 | 2025-08-20 |
 | [ASAP](https://open.spotify.com/track/1zhULUXEKRUis8u4umC4TO) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/2UaodruL7eqPlQ1UrwtCEN) | 2:51 | 2025-07-15 | 2025-08-20 |
@@ -59,6 +59,7 @@
 | [CRAZY](https://open.spotify.com/track/5BT66JSYMSXbytWr7Tvq06) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/2J1Jcp6bzHDWf1wd4mOBEA) | 2:49 | 2025-07-15 | 2025-08-20 |
 | [Crown](https://open.spotify.com/track/0frJ0IhhIOSWodge5fwKb5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Crown](https://open.spotify.com/album/2xgWak2XDGZyBnGtVIkUJp) | 3:31 | 2026-01-19 |  |
 | [Dash](https://open.spotify.com/track/2eUExqqFOpckGJG7faJMeW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dash](https://open.spotify.com/album/3f1MBI3Z9BTZ8N1kaX46sV) | 3:58 | 2025-07-15 | 2025-08-20 |
+| [ddok ddok ddok](https://open.spotify.com/track/3gYInUz6sp2ujSizzUdZeg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/4gHuTmtRrcGHwgijzB7yR2) | 2:40 | 2026-05-12 |  |
 | [Dirty Work](https://open.spotify.com/track/26sWZviugh9BjAe5X61dzY) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/72ORvl4lM3vVPzT94dY2cD) | 3:09 | 2025-07-15 |  |
 | [Dirty Work](https://open.spotify.com/track/2LK8E55VY0DNq7X6XV93lE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3OJd8RS97G1BnlXQQ4MBFl) | 3:09 | 2025-07-15 |  |
 | [Dirty Work](https://open.spotify.com/track/71u18wkj6oDLfZG8zypwj6) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/4dqtUlg658VSRtLw2aVoWB) | 3:11 | 2025-07-15 |  |
@@ -212,6 +213,7 @@
 | [Vivid LaLa Love](https://open.spotify.com/track/2gAEC8aeWT84JmlGzFa4gj) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Vivid LaLa Love](https://open.spotify.com/album/71cbXCsqKnzZAGkjnpU351) | 4:00 | 2025-07-15 |  |
 | [VVV](https://open.spotify.com/track/3f5KIJf9fofmbHVBsBPKZL) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [VVV](https://open.spotify.com/album/7eIbXRQTnIAbXG8SkVK9eW) | 4:06 | 2025-07-15 | 2025-08-20 |
 | [Waste No Time](https://open.spotify.com/track/2GV8kd6eeXAWBYhoi46HRX) | [XngHan&Xoul](https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb) | [Waste No Time](https://open.spotify.com/album/1B7sG38RJaZBFVrhTL2CaH) | 3:33 | 2025-08-13 |  |
+| [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/1rAPoQrqdbMWhgu6D3FOBh) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/6vL0wjA7dzpf2g8BlGClqU) | 3:08 | 2026-05-12 |  |
 | [What You Want \(Conceptual Performance Film\)](https://open.spotify.com/track/01cOpj8JAr3jKnLoA1R6OJ) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want \(Conceptual Performance Film\)](https://open.spotify.com/album/19AAfxOY87VO5fCfh650yk) | 3:17 | 2025-10-24 |  |
 | [What You Want \(Conceptual Performance Film\)](https://open.spotify.com/track/1UzWMRwp17wyJvTP3ZuyWr) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want \(Conceptual Performance Film\)](https://open.spotify.com/album/3hN2mw3UzjDvb280rHEy5M) | 3:17 | 2025-10-24 |  |
 | [WHEE!](https://open.spotify.com/track/0NKFuDRXXei1BzIjvGU2Zr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [WHEE!](https://open.spotify.com/album/6w7QixKdNvFUF7CWo9MKLp) | 3:55 | 2025-07-15 | 2025-08-20 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAC6t0kVGrqBpu/5jeAz7j6x",
+  "snapshot_id": "af/KgAAAAABwvQxxmaVo2S/osQADNgFQ",
   "tracks": [
     {
       "added_at": null,
@@ -315,30 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsa Ma Ndebele (Remixes)",
-        "url": "https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Candy Tsamandebele",
-          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
-        },
-        {
-          "name": "Manoo",
-          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
-        }
-      ],
-      "duration_ms": 232207,
-      "name": "Tsa Ma Ndebele - Manoo Remix",
-      "url": "https://open.spotify.com/track/0mAOWHElmmZSPGam0NWrw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Kunkra",
         "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
       },
@@ -371,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Degrees",
-        "url": "https://open.spotify.com/album/2lonPu8s6GFhOANFuXbt8Q"
+        "name": "Tsa Ma Ndebele (Remixes)",
+        "url": "https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH"
       },
       "artists": [
         {
@@ -380,13 +356,17 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "M.Que",
-          "url": "https://open.spotify.com/artist/1GQiz8HJoEeX492tIZfoZo"
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
         }
       ],
-      "duration_ms": 362533,
-      "name": "Ngci",
-      "url": "https://open.spotify.com/track/4tzjSnzhIwFaNkxbgbav0G"
+      "duration_ms": 232207,
+      "name": "Tsa Ma Ndebele - Manoo Remix",
+      "url": "https://open.spotify.com/track/0mAOWHElmmZSPGam0NWrw4"
     },
     {
       "added_at": null,
@@ -415,6 +395,26 @@
       "duration_ms": 417360,
       "name": "Woza Nana",
       "url": "https://open.spotify.com/track/3AdO1jvt0RJPLrMSlxuWZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 Degrees",
+        "url": "https://open.spotify.com/album/2lonPu8s6GFhOANFuXbt8Q"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "M.Que",
+          "url": "https://open.spotify.com/artist/1GQiz8HJoEeX492tIZfoZo"
+        }
+      ],
+      "duration_ms": 362533,
+      "name": "Ngci",
+      "url": "https://open.spotify.com/track/4tzjSnzhIwFaNkxbgbav0G"
     },
     {
       "added_at": null,
@@ -551,6 +551,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabela",
+        "url": "https://open.spotify.com/album/35fo6qvzOiIWfFEdPr2puO"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Sabela - Radio Edit",
+      "url": "https://open.spotify.com/track/704kjwbiGaRqUDxbtxa7zW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Khelobedu (Tsa Mandebele Remix)",
         "url": "https://open.spotify.com/album/2YY4FnHrPC2njcDYWPOhKa"
       },
@@ -599,6 +623,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
+      },
+      "artists": [
+        {
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Indlela - Radio Edit",
+      "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Khuluma (feat. LilyFaith, Lowsheen & Theo Kgosinkwe)",
         "url": "https://open.spotify.com/album/6NSuS46N3Bh2MU07Omkkkg"
       },
@@ -631,38 +687,6 @@
       "duration_ms": 359474,
       "name": "Khuluma (feat. LilyFaith, Lowsheen & Theo Kgosinkwe)",
       "url": "https://open.spotify.com/track/2khp25PyhK7XkI1ITyvAPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amandla",
-        "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
-      },
-      "artists": [
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Indlela - Radio Edit",
-      "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
     },
     {
       "added_at": null,
@@ -883,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church Grooves (10th Commandment)",
-        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
+        "name": "Onole Kae (feat. CowBoii)",
+        "url": "https://open.spotify.com/album/6QFhPrr8KbLhFlErQq0Sea"
       },
       "artists": [
         {
@@ -892,17 +916,21 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
         },
         {
-          "name": "Jah Rich",
-          "url": "https://open.spotify.com/artist/6iEl7OZs3rpnbCNaPf00DK"
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Banane Mavoko",
-      "url": "https://open.spotify.com/track/1oJgW0RaxtELOK1Y5otNGb"
+      "duration_ms": 440837,
+      "name": "Onole Kae (feat. CowBoii)",
+      "url": "https://open.spotify.com/track/0KQT0AbkQSGkClVEV0W6eh"
     },
     {
       "added_at": null,
@@ -931,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onole Kae (feat. CowBoii)",
-        "url": "https://open.spotify.com/album/6QFhPrr8KbLhFlErQq0Sea"
+        "name": "Church Grooves (10th Commandment)",
+        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
       },
       "artists": [
         {
@@ -940,21 +968,17 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
         },
         {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "CowBoii",
-          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+          "name": "Jah Rich",
+          "url": "https://open.spotify.com/artist/6iEl7OZs3rpnbCNaPf00DK"
         }
       ],
-      "duration_ms": 440837,
-      "name": "Onole Kae (feat. CowBoii)",
-      "url": "https://open.spotify.com/track/0KQT0AbkQSGkClVEV0W6eh"
+      "duration_ms": 213706,
+      "name": "Banane Mavoko",
+      "url": "https://open.spotify.com/track/1oJgW0RaxtELOK1Y5otNGb"
     },
     {
       "added_at": null,
@@ -1115,30 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
-      },
-      "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Picat",
-          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Toyi Toyi",
-      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -1167,38 +1167,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Wave",
-        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
       },
       "artists": [
         {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "Phila Dlozi",
-          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+          "name": "Picat",
+          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
         }
       ],
-      "duration_ms": 411428,
-      "name": "Afro Wave",
-      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
+      "duration_ms": 321026,
+      "name": "Toyi Toyi",
+      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     },
     {
       "added_at": null,
@@ -1243,26 +1231,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Izandla",
-        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
+        "name": "Afro Wave",
+        "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
       },
       "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
         },
         {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
         }
       ],
-      "duration_ms": 225535,
-      "name": "Izandla - Radio Edit",
-      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
+      "duration_ms": 411428,
+      "name": "Afro Wave",
+      "url": "https://open.spotify.com/track/6MqvxQI4W6zgGvL3BmsDam"
     },
     {
       "added_at": null,
@@ -1291,8 +1291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen to the Kids",
-        "url": "https://open.spotify.com/album/7ARgpYp0gR8rTsuQUV5LW5"
+        "name": "Izandla",
+        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
       },
       "artists": [
         {
@@ -1300,21 +1300,17 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         }
       ],
-      "duration_ms": 445714,
-      "name": "Emaweni",
-      "url": "https://open.spotify.com/track/2hTli2tDcSviRcTRWtpdTf"
+      "duration_ms": 225535,
+      "name": "Izandla - Radio Edit",
+      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
     }
   ],
   "unique_name": "This Is OSKIDO",

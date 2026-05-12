@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-230 songs - 14 hr 21 min
+231 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 | 2025-12-28 |
 | [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 | 2026-03-04 | 2026-04-01 |
 | [Get Outta My Head](https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [Get Outta My Head](https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5) | 2:38 | 2026-04-03 |  |
+| [Glide](https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Event Horizon](https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S) | 3:21 | 2026-05-12 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-20 | 2025-12-28 |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 | 2025-12-20 | 2026-01-21 |

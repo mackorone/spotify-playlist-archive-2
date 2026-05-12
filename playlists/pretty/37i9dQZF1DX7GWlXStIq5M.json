@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mari Froes",
-  "num_followers": 361940,
+  "num_followers": 361910,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -287,34 +287,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Fim Do Mundo",
-        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Beeside Records",
-          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Fim Do Mundo",
-      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo",
         "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
       },
@@ -347,6 +319,34 @@
       "duration_ms": 161764,
       "name": "Pedacin de Mim",
       "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "Fim Do Mundo",
+        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Beeside Records",
+          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Fim Do Mundo",
+      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -619,18 +619,22 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+        "name": "Solst\u00edcio",
+        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
       },
       "artists": [
         {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+      "duration_ms": 146086,
+      "name": "FAL",
+      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -655,22 +659,18 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Solst\u00edcio",
-        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
       "artists": [
         {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 146086,
-      "name": "FAL",
-      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -787,6 +787,30 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
+        "name": "Inimagin\u00e1vel",
+        "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "MOLLA Sounds",
+          "url": "https://open.spotify.com/artist/2WAaxn213Qpg2zaxUlFYZD"
+        }
+      ],
+      "duration_ms": 163110,
+      "name": "Mar\u00e9 De Sorte - Remix",
+      "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
         "name": "MEU FI",
         "url": "https://open.spotify.com/album/0Hlp4I7AHtMabfVEtA8pi7"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 143018,
       "name": "vou dar",
       "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
-        "name": "Inimagin\u00e1vel",
-        "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "MOLLA Sounds",
-          "url": "https://open.spotify.com/artist/2WAaxn213Qpg2zaxUlFYZD"
-        }
-      ],
-      "duration_ms": 163110,
-      "name": "Mar\u00e9 De Sorte - Remix",
-      "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
     },
     {
       "added_at": "2026-05-01 03:01:19",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-01 03:01:19",
       "album": {
-        "name": "Aventura",
-        "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 164522,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/4QGKXCioYPLw98pJ8Tmoi6"
-    },
-    {
-      "added_at": "2026-05-01 03:01:19",
-      "album": {
         "name": "Ressaca da Saudade",
         "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 172395,
       "name": "Ressaca da Saudade",
       "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
+    },
+    {
+      "added_at": "2026-05-01 03:01:19",
+      "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 164522,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/4QGKXCioYPLw98pJ8Tmoi6"
     },
     {
       "added_at": "2026-05-01 03:01:19",

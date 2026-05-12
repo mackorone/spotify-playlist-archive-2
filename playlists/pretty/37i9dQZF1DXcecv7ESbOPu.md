@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Lykke Li, STOR & Miriam Bryant och VC Barre & Asme med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,332 likes - 109 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,313 likes - 109 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 46 | [Tårar Under Regn](https://open.spotify.com/track/5ya4qhXRXjgXDFAa8x2k6y) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Tårar Under Regn](https://open.spotify.com/album/1eLYBYstORDqupFUkgZUnO) | 2:29 |
 | 47 | [HOME TO MOTHER](https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2) | 3:16 |
 | 48 | [Vad vare du sa?](https://open.spotify.com/track/2yK4PCvljkKsrJhJZaTz9F) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Vad vare du sa?](https://open.spotify.com/album/2RMXLwoMHystqqOev8qlfi) | 3:02 |
-| 49 | [Mitt hjärta en rebell](https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Mitt hjärta en rebell](https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx) | 3:12 |
+| 49 | [Mitt hjärta en rebell](https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Mitt hjärta en rebell](https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx) | 3:11 |
 | 50 | [Icarus](https://open.spotify.com/track/6PpJ7gIAckwYRLwpSWgi0U) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Icarus](https://open.spotify.com/album/4uRhoJT3E5wMmam3uOsqmg) | 2:30 |
 | 51 | [something i'm not](https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [something i'm not](https://open.spotify.com/album/0qdofNpXH1yUQjdja6z0Xn) | 2:34 |
 | 52 | [Closet Disco Queen](https://open.spotify.com/track/6XJ5vjfwHJ9yJwJRCCQMTB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Closet Disco Queen](https://open.spotify.com/album/6rqG9i4Ta02RZckj908KWM) | 3:42 |

@@ -1,13 +1,29 @@
 {
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0633\u064a\u0648\u0646\u064a\u060c \u0632\u064a\u062f \u062e\u0627\u0644\u062f\u060c \u0627\u062d\u0645\u062f \u0636\u064a\u0627\u0621",
-  "num_followers": 159533,
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u064a\u0631\u064a\u0646",
+  "num_followers": 159567,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/6ui7rSGBcHv1V2nENf83O3Xj/",
+  "snapshot_id": "AAAAAIU7Tt8SRqCrgvyMGpCU5s3mr0SS",
   "tracks": [
+    {
+      "added_at": "2026-05-11 10:06:12",
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+    },
     {
       "added_at": "2026-05-06 07:55:32",
       "album": {
@@ -647,26 +663,6 @@
       "duration_ms": 170666,
       "name": "El 3ks",
       "url": "https://open.spotify.com/track/65R0EmcHSnr2dCLdEaol9C"
-    },
-    {
-      "added_at": "2026-05-06 07:55:32",
-      "album": {
-        "name": "Nesety Nafsek - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3CPfldan1zUNakUnuqNIpG"
-      },
-      "artists": [
-        {
-          "name": "nour",
-          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 205793,
-      "name": "Nesety Nafsek - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3Q7Hci7JsOAgRL0yTc7wW6"
     },
     {
       "added_at": "2026-05-06 07:55:32",

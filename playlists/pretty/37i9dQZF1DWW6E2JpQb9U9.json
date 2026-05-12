@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 126062,
+  "num_followers": 126073,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Yo Tomo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "El Rock De Mi Vida",
         "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 263573,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Yo Tomo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
     },
     {
       "added_at": "2026-04-20 14:49:35",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-04-20 14:49:35",
       "album": {
-        "name": "Salando las Heridas (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/6ijXMByAmcNJpQRC7guaJS"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 305605,
-      "name": "Salando las Heridas - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/2hSRzXVYNH5KZjICvZkQFo"
-    },
-    {
-      "added_at": "2026-04-20 14:49:35",
-      "album": {
         "name": "C\u00f3mo Me Gusta Verte Re\u00edr",
         "url": "https://open.spotify.com/album/4lTU97kK1BZn8CM64e0qHK"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 251651,
       "name": "De Nada Sirve - En Vivo En Argentina",
       "url": "https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS"
+    },
+    {
+      "added_at": "2026-04-20 14:49:35",
+      "album": {
+        "name": "Salando las Heridas (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/6ijXMByAmcNJpQRC7guaJS"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 305605,
+      "name": "Salando las Heridas - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/2hSRzXVYNH5KZjICvZkQFo"
     },
     {
       "added_at": "2026-04-20 14:49:35",

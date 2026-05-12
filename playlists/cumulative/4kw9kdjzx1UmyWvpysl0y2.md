@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,226 songs - 2 day 20 hr 14 min
+1,227 songs - 2 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 | 2023-01-06 |
 | [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 | 2023-05-17 | 2023-08-11 |
 | [Neck Snap](https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Neck Snap](https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo) | 2:54 | 2023-05-25 | 2023-08-20 |
+| [need \(u\)](https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4) | [No Signal](https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [powerANTHEM / need \(u\)](https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg) | 2:30 | 2026-05-11 |  |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-17 | 2024-12-11 |
 | [Need You](https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Need You](https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t) | 3:12 | 2024-01-09 | 2024-04-02 |
 | [Need You Now](https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need You Now](https://open.spotify.com/album/7Bmt7iOL8QI1CY2IDB75GK) | 3:22 | 2025-05-06 | 2025-07-30 |

@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 den nyeste rap i dk 🔥 cover: Michael Williams
+> 🎂 Lagkagehuset freeestyling 🎂 @MichaelxWilliams
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,638 likes - 31 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,633 likes - 31 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stil permanent](https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:26 |
-| 2 | [Lagkagehuset Freestyle](https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:31 |
-| 3 | [Europa Favela](https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Europa Favela](https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid) | 3:14 |
+| 1 | [Lagkagehuset Freestyle](https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:31 |
+| 2 | [Europa Favela](https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Europa Favela](https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid) | 3:14 |
+| 3 | [Stil permanent](https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:26 |
 | 4 | [Kastrup Freestyle](https://open.spotify.com/track/7wq3KkTArpwCzCXv72myB0) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kastrup Freestyle](https://open.spotify.com/album/72cSZLP1lfkwwuyTmFDfmU) | 2:35 |
 | 5 | [Låst Inde](https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Låst Inde](https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw) | 2:58 |
-| 6 | [Adrenalin](https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:58 |
-| 7 | [blessed](https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [blessed](https://open.spotify.com/album/2SGhFr27vLpx0QCG4MU6Ic) | 2:40 |
-| 8 | [Mentally](https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Mentally](https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9) | 2:35 |
-| 9 | [Blåtone Freestyle](https://open.spotify.com/track/7LA6r6CFVaIJ0fuSpFCQ2j) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 1:06 |
+| 6 | [blessed](https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [blessed](https://open.spotify.com/album/2SGhFr27vLpx0QCG4MU6Ic) | 2:40 |
+| 7 | [Mentally](https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Mentally](https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9) | 2:35 |
+| 8 | [Blåtone Freestyle](https://open.spotify.com/track/7LA6r6CFVaIJ0fuSpFCQ2j) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 1:06 |
+| 9 | [Adrenalin](https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:58 |
 | 10 | [$AMMEN](https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [$AMMEN](https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD) | 3:02 |
 | 11 | [24/7](https://open.spotify.com/track/3vv6DL1Pl8bf6GeUtL9Zjh) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [24/7](https://open.spotify.com/album/1HguiuA7Gq99gj7rpLln1g) | 2:16 |
 | 12 | [Louisiana](https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Louisiana](https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p) | 2:52 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 30 | [DOKU](https://open.spotify.com/track/55KqQqZoGAqAlys3Dqr1m3) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [DOKU](https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d) | 1:53 |
 | 31 | [Prime Khalifa](https://open.spotify.com/track/3nSLkNB9Ycru0hvnLvF041) | [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P), [Mikkel](https://open.spotify.com/artist/5lN5XWpbyLnauz0KN4Nsrg) | [Prime Khalifa](https://open.spotify.com/album/60wVW9typL3fLIXiuQYNCr) | 2:09 |
 
-Snapshot ID: `AAAAADtG+hEXHIUEmbIoVXVF3wAqdiuZ`
+Snapshot ID: `AAAAAAQfAsAMLTG5nmxZ5ggjdYbRsnpv`

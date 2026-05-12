@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-342 songs - 20 hr 43 min
+345 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-07 |  |
 | [I\`m Still Looking for a New](https://open.spotify.com/track/7aOGEyJKESkGR8KdplKg6W) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw), [Loraina](https://open.spotify.com/artist/21ryc1NWbYt1KSDAaRmS09) | [I\`m Still Looking for a New](https://open.spotify.com/album/1eknF6dP75bRcUgAlSitRs) | 4:52 | 2025-12-29 | 2026-01-21 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-02-19 | 2026-03-27 |
+| [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2026-05-12 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [Invierno](https://open.spotify.com/track/35WJrQEZY5tEzHjiGzCL62) | [Macías](https://open.spotify.com/artist/12tb38v6ePm4N3MSLWQVzu) | [Invierno](https://open.spotify.com/album/6w5A0FMOmXN6iubAeY392K) | 4:08 | 2026-03-31 |  |
@@ -264,6 +265,7 @@
 | [SOAPBOX \- Single Version](https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [SOAPBOX](https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r) | 2:44 | 2026-03-31 |  |
 | [Sombra](https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto III](https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq) | 5:14 | 2026-02-04 | 2026-03-05 |
 | [Someday](https://open.spotify.com/track/3FLhwiCJmU4MTCGZP1MzCD) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:24 | 2026-04-16 |  |
+| [Something Going Down](https://open.spotify.com/track/1IMz6vOVbR7r7GoIXruUYZ) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Something Going Down](https://open.spotify.com/album/0dybQYta1tbwwYKNusjGWm) | 2:11 | 2026-05-12 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 | 2026-03-27 |
 | [SPECKS](https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 3:32 | 2026-02-28 |  |
@@ -277,6 +279,7 @@
 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-03-11 | 2026-04-15 |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-02-16 |  |
+| [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-05-12 |  |
 | [Take Me Away](https://open.spotify.com/track/3Jzrgsy5JoxAtIMabzSmm3) | [Jess the Singing Alien](https://open.spotify.com/artist/5BWYOSAZHoy7v529BEExAq) | [Take Me Away](https://open.spotify.com/album/4KvoMVaKmmzIcBnq878TEZ) | 3:50 | 2026-01-16 | 2026-02-25 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-06 |
 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 | 2026-02-14 | 2026-03-05 |

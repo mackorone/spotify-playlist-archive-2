@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73497,
+  "num_followers": 73499,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 239306,
       "name": "Angels Brought Me Here",
       "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Edge",
-        "url": "https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF"
-      },
-      "artists": [
-        {
-          "name": "Daryl Braithwaite",
-          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "One Summer",
-      "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Slideshows",
         "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 229120,
       "name": "20 Good Reasons",
       "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Edge",
+        "url": "https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF"
+      },
+      "artists": [
+        {
+          "name": "Daryl Braithwaite",
+          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "One Summer",
+      "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Counting Down The Days",
-        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Sneaky Sound System",
-        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
-      },
-      "artists": [
-        {
-          "name": "Sneaky Sound System",
-          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Mousetrap Heart",
         "url": "https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 232840,
       "name": "Tommy and Krista",
       "url": "https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Sneaky Sound System",
+        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
+      },
+      "artists": [
+        {
+          "name": "Sneaky Sound System",
+          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
     }
   ],
   "unique_name": "Aussie Pop Classics",

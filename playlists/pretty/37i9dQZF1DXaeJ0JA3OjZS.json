@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 227841,
+  "num_followers": 227891,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,22 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Se\u00f1orita de a Caballo",
-        "url": "https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A"
+        "name": "El Pulm\u00f3n",
+        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Contrafuego",
+          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
+        },
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Se\u00f1orita de a Caballo",
-      "url": "https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X"
+      "duration_ms": 212813,
+      "name": "El Pulm\u00f2n",
+      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -695,22 +699,18 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "El Pulm\u00f3n",
-        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
+        "name": "Se\u00f1orita de a Caballo",
+        "url": "https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A"
       },
       "artists": [
         {
-          "name": "Contrafuego",
-          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
-        },
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 212813,
-      "name": "El Pulm\u00f2n",
-      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
+      "duration_ms": 222226,
+      "name": "Se\u00f1orita de a Caballo",
+      "url": "https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X"
     },
     {
       "added_at": "2026-01-05 19:29:05",

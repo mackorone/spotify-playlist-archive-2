@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Alikiba & Mbosso
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,445 likes - 59 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,515 likes - 59 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Finale](https://open.spotify.com/track/3EAeMcr78neZnJswrubqna) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Finale](https://open.spotify.com/album/7HByecqUGhHoQjxI8iaBIY) | 3:26 |
-| 2 | [Bhuju \(feat\. Mbosso\)](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju \(feat\. Mbosso\)](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 |
+| 2 | [Bhuju](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 |
 | 3 | [Mombasa](https://open.spotify.com/track/77yjMVDTTozcP5yyebGQ1F) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mombasa](https://open.spotify.com/album/2i6qYd2aQXtLuDmcyS5lWU) | 2:43 |
 | 4 | [Natulizana](https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Natulizana](https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg) | 4:26 |
 | 5 | [Juju](https://open.spotify.com/track/7btk2D9MmqVZNuyQS8ghXH) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Juju](https://open.spotify.com/album/6a8IX1RjPdBZbTUzNFHiWj) | 2:54 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 436703,
+  "num_followers": 436753,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACf0wc7mizYGY4unuB4RpbN",
+  "snapshot_id": "af/KgAAAAACA7X1maa313vbXlse1GkVN",
   "tracks": [
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 286212,
-      "name": "Deeper Underground - Full Version",
-      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
+      "duration_ms": 287960,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 287960,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+      "duration_ms": 286212,
+      "name": "Deeper Underground - Full Version",
+      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,687 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,692 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 24 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 |
 | 25 | [Pique Peaky Blinders](https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x) | 3:05 |
 | 26 | [Como Eu Te Quero \- Remix](https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Como Eu Te Quero \(Remix\)](https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y) | 3:10 |
-| 27 | [ZEROVINTEUM \- Ao Vivo](https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 3:40 |
-| 28 | [Sinto Muito Baby](https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y) | 5:31 |
+| 27 | [Sinto Muito Baby](https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2) | [Gordão Chefe](https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y) | 5:31 |
+| 28 | [ZEROVINTEUM \- Ao Vivo](https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 3:40 |
 | 29 | [Na Noite Se Resolve](https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU) | [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [DJ Soul Slinger](https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7) | [Bambas & Biritas, Vol\. 1](https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa) | 5:07 |
 | 30 | [Somos o Mundo](https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:14 |
 | 31 | [Papaia](https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x) | [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Crianças Selvagens](https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1) | 3:55 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |
 | 43 | [Quem É Voce?](https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:54 |
 
-Snapshot ID: `af55AAAAAABWFqwq2ONirraZ6uNFIxEL`
+Snapshot ID: `af/KgAAAAAC0niSltmt+/gHAowphHqjw`

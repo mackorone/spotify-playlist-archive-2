@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,189 songs - 2 day 11 hr 23 min
+1,190 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/track/6dbYxywDRYRwgp6ZqoEhlb) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/album/41SN3xgzZPqniqQXreTZcA) | 2:39 | 2025-10-23 | 2025-10-31 |
 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 | 2025-04-10 | 2025-05-16 |
 | [Kuolen ikävään](https://open.spotify.com/track/75oUR9vsCYxDbFjhJMDrek) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Kuolen ikävään](https://open.spotify.com/album/7JsRMWiD9i1cZ1koysOyc3) | 3:01 | 2025-04-27 | 2025-05-30 |
-| [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 | 2026-01-15 |  |
+| [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 | 2026-01-15 | 2026-05-12 |
 | [Kuollut liekki](https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Kuollut liekki](https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV) | 2:58 | 2024-09-19 | 2024-11-15 |
 | [Kusipää](https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [<3](https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo) | 2:48 | 2024-07-02 | 2024-07-19 |
 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 | 2026-04-23 |  |
@@ -990,6 +990,7 @@
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-19 | 2025-01-24 |
 | [Taivaisiin \- Vain elämää kausi 15](https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Taivaisiin \(Vain elämää kausi 15\)](https://open.spotify.com/album/5LG3lMMeNl7F9jnvVqJDG3) | 3:29 | 2024-10-14 | 2024-11-08 |
 | [Takas Anjosiin](https://open.spotify.com/track/6kubpCpaUteSsuDJftAvb3) | [Jennika Vikman](https://open.spotify.com/artist/7GVpPjlP6LVjlTZXvDmRFU) | [Takas Anjosiin](https://open.spotify.com/album/5CNnCKszlux6dVNinRec3b) | 3:00 | 2026-03-26 | 2026-04-10 |
+| [Takas sun luo](https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk) | [JAMIE](https://open.spotify.com/artist/3dnCKPxNARblPEoOW0Qn6a) | [Takas sun luo](https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E) | 2:48 | 2026-05-07 |  |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-03 | 2025-08-16 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 | 2025-02-28 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-05-23 |

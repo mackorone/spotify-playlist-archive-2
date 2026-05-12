@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,812 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,817 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yo Te Alabo de Corazón](https://open.spotify.com/track/46EFrvB241699KfRrG7GEe) | [Coro Alegria](https://open.spotify.com/artist/56TFN5FLx50mR6SzLZ5aCJ) | [Grande Es el Señor](https://open.spotify.com/album/127zvUZME3NL01sSaC9wIq) | 2:16 |
 | 2 | [Grande Y Fuerte](https://open.spotify.com/track/4gGm3mnfUJvo3nj4wi2nVc) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:34 |
 | 3 | [Cristo Vive en Mi](https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Cristo Vive en Mi](https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA) | 3:47 |
-| 4 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
-| 5 | [Soldado Soy de Jesus \- Infantil](https://open.spotify.com/track/3fL7nixcmR0Oza3J8tIxfr) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:00 |
+| 4 | [Soldado Soy de Jesus \- Infantil](https://open.spotify.com/track/3fL7nixcmR0Oza3J8tIxfr) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:00 |
+| 5 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
 | 6 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
 | 7 | [Increíble](https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:40 |
 | 8 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BossMan Dlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,784 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,822 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 5 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 |
 | 6 | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/3yrUd6WRBI9SUeNmCY0zXr) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/album/4bJiDi7t7dHoxKqajnzIXs) | 2:39 |
 | 7 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL) | 3:39 |
-| 8 | [Pills \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2zdcIatMRVWqbYshX4nIR7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:56 |
-| 9 | [Kriss Vecc](https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:45 |
-| 10 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
-| 11 | [Blitz](https://open.spotify.com/track/56Er42sQAQXExUp5TuDnte) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 1:40 |
-| 12 | [No Fakin \(with EST Gee\)](https://open.spotify.com/track/7pneXkALm3yPh5juOMlsbC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:35 |
-| 13 | [Part 2](https://open.spotify.com/track/1UcbCnSGJMbM9JMQnLthpf) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Part 2](https://open.spotify.com/album/2bXM2IBd5VhabRafbiUpB3) | 3:03 |
-| 14 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
+| 8 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
+| 9 | [Pills \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2zdcIatMRVWqbYshX4nIR7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:56 |
+| 10 | [Kriss Vecc](https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:45 |
+| 11 | [Ya Dig](https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Ya Dig](https://open.spotify.com/album/5Yr7duqfOQ7PFqTYqb119j) | 2:53 |
+| 12 | [Blitz](https://open.spotify.com/track/56Er42sQAQXExUp5TuDnte) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 1:40 |
+| 13 | [No Fakin \(with EST Gee\)](https://open.spotify.com/track/7pneXkALm3yPh5juOMlsbC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:35 |
+| 14 | [Part 2](https://open.spotify.com/track/1UcbCnSGJMbM9JMQnLthpf) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Part 2](https://open.spotify.com/album/2bXM2IBd5VhabRafbiUpB3) | 3:03 |
 | 15 | [Money & B's](https://open.spotify.com/track/6uguA0MI1o8vUjhUpcngc2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Money & B's](https://open.spotify.com/album/1CJcKtsfd3szbLjwns65T1) | 1:49 |
 | 16 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 |
 | 17 | [CODE OF HONOR](https://open.spotify.com/track/63bPfrifq9QfGYoBhATx6b) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 3:46 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 27 | [Hittin For](https://open.spotify.com/track/10UAlRQxCJyof5HnfmNRQA) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Hittin For](https://open.spotify.com/album/3DNRO2sWwga9b7bm4jtIUD) | 2:15 |
 | 28 | [Be On](https://open.spotify.com/track/2ykcSjGvHFFGEmbZqoqUd6) | [Da Getta](https://open.spotify.com/artist/6qGobCRXLoUuJ0LoH6zKQV), [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb) | [Be On](https://open.spotify.com/album/62ja5vKGzjq26hFxWNzEEJ) | 1:58 |
 | 29 | [No Lettuce](https://open.spotify.com/track/4g6enN9RUpPnUK83daViw7) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [I Couldn't Wait](https://open.spotify.com/album/4tQSJ9kXv3lxA33Lwijt2S) | 2:48 |
-| 30 | [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:43 |
+| 30 | [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:41 |
 | 31 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
 | 32 | [STEPBROTHERS](https://open.spotify.com/track/0w88s8d4hqv3jVYBwq7led) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 4:09 |
 | 33 | [Self Made](https://open.spotify.com/track/52ObnoYGPCaxGcmZoG4Xau) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 2:04 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 98 | [Back To The South \(with Yo Gotti\)](https://open.spotify.com/track/0EzVPJ4VdIEthe8B3PE5LX) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Mr\. 14 Months](https://open.spotify.com/album/0iudlC6t3MrtmiKcYLechp) | 3:23 |
 | 99 | [Motion](https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:00 |
 
-Snapshot ID: `AAAAACBXwKHPubcu/rQV0kAYShGeMS0e`
+Snapshot ID: `AAAAAPSi0FMDYPzb+lEosZpJSMdpI90k`

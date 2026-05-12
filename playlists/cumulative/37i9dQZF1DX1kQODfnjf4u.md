@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: P T K
 
-220 songs - 10 hr 43 min
+221 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-11 |
 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 | 2024-12-09 | 2025-11-18 |
 | [Další kapitola](https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Další kapitola](https://open.spotify.com/album/2rnrJ3KKF1VKgwspYXS2oI) | 2:30 | 2024-07-01 | 2024-07-23 |
-| [Den a noc](https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Den a noc](https://open.spotify.com/album/12u8ai9zrYYXVtmaSgDCXD) | 2:23 | 2026-03-02 |  |
+| [Den a noc](https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Den a noc](https://open.spotify.com/album/12u8ai9zrYYXVtmaSgDCXD) | 2:23 | 2026-03-02 | 2026-05-12 |
 | [DIAMANTY](https://open.spotify.com/track/5jYWurYKYLlecd38zrrbAV) | [Adam Mišík](https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [DIAMANTY](https://open.spotify.com/album/27NzFcbF4gb5vhEIUrQRi5) | 3:05 | 2025-09-10 | 2025-10-07 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-23 | 2025-07-08 |
 | [Dilema](https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Dilema](https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP) | 2:36 | 2025-12-08 |  |
@@ -65,6 +65,7 @@
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-06 | 2025-10-28 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-02-04 |
+| [Espresso Martini](https://open.spotify.com/track/67ZUG9pirZK5myM6FUnqHl) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Espresso Martini](https://open.spotify.com/album/7pJ0yVYRDIgZ2k1VJiueO1) | 2:22 | 2026-05-11 |  |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-07-01 | 2024-07-30 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 | 2025-04-08 |
 | [Ewa Farna](https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [ERNE100](https://open.spotify.com/artist/2PsXHmUVTryvflJlh19Fr5), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Ewa Farna](https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT) | 3:43 | 2025-03-31 | 2025-08-12 |

@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 82 | [Way Too Good](https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:16 |
 | 83 | [Thirsty](https://open.spotify.com/track/1Odcxt8jfkxwqlCIxXv4cn) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:41 |
 | 84 | [Lover Like Me](https://open.spotify.com/track/5ridnYlD0YKj0N1vg3i5tB) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Lover Like Me](https://open.spotify.com/album/1UTDDoGZMIIlseBO4Lp9qa) | 3:10 |
-| 85 | [A Lover Like Me](https://open.spotify.com/track/11CpETSrp9Aso917ZYkzX8) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:52 |
-| 86 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 85 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 86 | [A Lover Like Me](https://open.spotify.com/track/11CpETSrp9Aso917ZYkzX8) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:52 |
 | 87 | [I'm Good](https://open.spotify.com/track/6Cyky0ziRozMxICkpI7Y8Y) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 3:22 |
 | 88 | [If I Had](https://open.spotify.com/track/3cZAvJaJ87a4xYl6gZ9FYG) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [FO&O](https://open.spotify.com/album/5WB9VHvp4ttDEv9V5KS6Jg) | 2:43 |
 | 89 | [My Girl](https://open.spotify.com/track/3CZtwixJvnRkfgNOxaF3Dn) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:27 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 106 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 107 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcRJvgAAAAAroW9nZhDc23I2nbLBDUOq`
+Snapshot ID: `AcRPkAAAAABTYoz5OHTUtYfo0uloe1h8`

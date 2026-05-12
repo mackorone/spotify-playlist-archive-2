@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  Falana",
-  "num_followers": 263446,
+  "num_followers": 263467,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 144444,
       "name": "Come Kulosa",
       "url": "https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -387,22 +387,18 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "when the party's over",
-        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
       "artists": [
         {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 184203,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -427,18 +423,22 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
       },
       "artists": [
         {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -743,30 +743,6 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "Pepper Me",
-        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
-      },
-      "artists": [
-        {
-          "name": "KFMD",
-          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "Pepper Me",
-      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
         "name": "Bother Me (feat. Victony)",
         "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 171553,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
+        "name": "Pepper Me",
+        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "Pepper Me",
+      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
+        "name": "Ball",
+        "url": "https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Ball",
+      "url": "https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
         "name": "everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "Ball",
-        "url": "https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn"
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Ball",
-      "url": "https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2"
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -991,42 +1007,6 @@
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1055,22 +1035,22 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "Get 2 Know",
-        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "K\u00fanl\u00e9",
-          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 178488,
-      "name": "Get 2 Know",
-      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1087,6 +1067,26 @@
       "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
+        "name": "Get 2 Know",
+        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "K\u00fanl\u00e9",
+          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
+        }
+      ],
+      "duration_ms": 178488,
+      "name": "Get 2 Know",
+      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
+        "name": "Babcock",
+        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 143476,
+      "name": "Babcock",
+      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
         "name": "That Way",
         "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
-        "name": "Babcock",
-        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 143476,
-      "name": "Babcock",
-      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "Arike (Remix)",
-        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Arike - Remix",
-      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -1271,18 +1247,26 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 183000,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1363,22 +1379,6 @@
       "duration_ms": 155004,
       "name": "Love Sick Crazy",
       "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-05-08 00:02:02",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2026-05-08 00:02:02",
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/200r1lFv3jZPypoZK0YEsP"
+      },
+      "artists": [
+        {
+          "name": "Shaiboy",
+          "url": "https://open.spotify.com/artist/6XXxjNL1EhbvGiGTTj7IX9"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 179774,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp"
+    },
+    {
+      "added_at": "2026-05-08 00:02:02",
+      "album": {
         "name": "For All The Right Reasons Vol. 1",
         "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 227533,
       "name": "Tanko (feat. Terry G)",
       "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
-    },
-    {
-      "added_at": "2026-05-08 00:02:02",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/200r1lFv3jZPypoZK0YEsP"
-      },
-      "artists": [
-        {
-          "name": "Shaiboy",
-          "url": "https://open.spotify.com/artist/6XXxjNL1EhbvGiGTTj7IX9"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 179774,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp"
     }
   ],
   "unique_name": "Ginja",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sayf, Aira, MamboLosco e Niky Savage, Diss Gacha e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,442 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,446 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [Valore](https://open.spotify.com/track/3iySOgi19KkgAuJYzXX0Br) | [Katarina](https://open.spotify.com/artist/74DCdUBDZRvM0oHxc8RfyV), [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Valore](https://open.spotify.com/album/2BNobPzK2vWh3HpcZwNli3) | 3:16 |
 | 32 | [Ci vuole culo](https://open.spotify.com/track/6Q5cTVPqDsECnv5dOOdmEO) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Ci vuole culo](https://open.spotify.com/album/5K6iMrJsKuJSKMqmjBDMwH) | 2:54 |
 | 33 | [QUELLA FORESTA](https://open.spotify.com/track/4G2Pr2PzW2c2of71iQcZXq) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [QUELLA FORESTA](https://open.spotify.com/album/0GkSRFc18J7vmRI8259AwO) | 2:43 |
-| 34 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
+| 34 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [DIBLA](https://open.spotify.com/artist/0ijEFBPmeKw59p4i1hkigg), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
 | 35 | [J'adore](https://open.spotify.com/track/16uKRfbYS5cN8d7ZBzIsRU) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [J'adore](https://open.spotify.com/album/5meIFRSYjwHsMUKbi9tRq9) | 2:54 |
 | 36 | [UNABOMBER](https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [UNABOMBER](https://open.spotify.com/album/4e4E7oylKuCR4zXuadL0N3) | 2:08 |
 | 37 | [CUORE IN ARRESTO](https://open.spotify.com/track/4mRfaNeiyvqJs6Zywus2ll) | [Kemio](https://open.spotify.com/artist/3lcUhj4fQ2c5kkxPaoomoc) | [CUORE IN ARRESTO](https://open.spotify.com/album/7glzZVipZ8cSMFMiuvxmnK) | 2:19 |

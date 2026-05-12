@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,902 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,910 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Watch for the Hook \(Dungeon Family Mix\)](https://open.spotify.com/track/5CNBjdmp5aZdW2Nu6f0Xav) | [Cool Breeze](https://open.spotify.com/artist/1hTh4ZmK0tdbocmMgM2bSO), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Witchdoctor](https://open.spotify.com/artist/0CSW4YWldpNnpaqYJJXSto) | [East Point's Greatest Hit](https://open.spotify.com/album/1xnatTs8lRun69YT1tleCS) | 4:31 |
 | 50 | [Movin' Cool \(The After Party\)](https://open.spotify.com/track/4voVMCnHRiN0EEyRt3Gwni) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 3:59 |
 
-Snapshot ID: `af55AAAAAACOiYj2xsqovSvWibBYYoY6`
+Snapshot ID: `af/KgAAAAAD4BPikv01jIuFBTQoFnOfM`

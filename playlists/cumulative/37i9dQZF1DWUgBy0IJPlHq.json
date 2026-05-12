@@ -2139,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
+    },
+    {
+      "album": {
         "name": "Songs I Never Wrote",
         "url": "https://open.spotify.com/album/6ffvrASxFef77RiC9ctHX2"
       },

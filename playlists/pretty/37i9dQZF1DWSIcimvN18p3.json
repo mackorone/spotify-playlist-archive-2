@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Paris Paloma",
-  "num_followers": 326675,
+  "num_followers": 326685,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "One Stop",
-        "url": "https://open.spotify.com/album/14XF8pdRSeyOI0MUbIpXAE"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 210012,
-      "name": "One Stop",
-      "url": "https://open.spotify.com/track/3VsRmRzYpLv4YpjSwbeP8J"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Living With Ghosts",
         "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 191093,
       "name": "Let Him Fly",
       "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "One Stop",
+        "url": "https://open.spotify.com/album/14XF8pdRSeyOI0MUbIpXAE"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 210012,
+      "name": "One Stop",
+      "url": "https://open.spotify.com/track/3VsRmRzYpLv4YpjSwbeP8J"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 312613,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Roses in the Snow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 196800,
       "name": "The Boxer - 2002 Remaster",
       "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 312613,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1059,6 +1043,22 @@
       "duration_ms": 275974,
       "name": "Dream Song",
       "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 125293,
-      "name": "Here Before",
-      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Circles And Arrows",
         "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 226000,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "no fun/party",
-        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        }
-      ],
-      "duration_ms": 356474,
-      "name": "no fun/party",
-      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "The Very Best of Peter, Paul and Mary",
         "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
       },
@@ -1899,18 +1883,18 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+        "name": "no fun/party",
+        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
         }
       ],
-      "duration_ms": 174540,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+      "duration_ms": 356474,
+      "name": "no fun/party",
+      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1943,6 +1927,22 @@
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 174540,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
         "name": "Singing The Traditional Songs Of Her Kentucky Mountain Family",
         "url": "https://open.spotify.com/album/61V1HdEA3F24DmZIyry7MW"
       },
@@ -2423,18 +2439,18 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+        "name": "Between the Dirt and the Stars",
+        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
         }
       ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+      "duration_ms": 463133,
+      "name": "Between the Dirt and the Stars",
+      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -2459,22 +2475,6 @@
       "duration_ms": 177802,
       "name": "Atomic Number",
       "url": "https://open.spotify.com/track/36BvxxHlY6JPjmvbp43CMc"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
-        "name": "Between the Dirt and the Stars",
-        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
-      },
-      "artists": [
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Between the Dirt and the Stars",
-      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2026-03-08 15:33:31",

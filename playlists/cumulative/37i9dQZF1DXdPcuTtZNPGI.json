@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "\u6625\u306b\u821e\u3046",
+        "url": "https://open.spotify.com/album/2nLGFXbJw0Sx21lYGji0NK"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238180,
+      "name": "\u6625\u306b\u821e\u3046",
+      "url": "https://open.spotify.com/track/5DeORdOeIVBMq9hfry3op1"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eb0\u30ab\u30cb\u30d0\u30ea\u30ba\u30e0 (feat. Ado)",
         "url": "https://open.spotify.com/album/727UO5WpRZa7npkCBeSLv4"
       },

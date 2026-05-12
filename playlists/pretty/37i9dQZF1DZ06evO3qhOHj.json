@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30785,
+  "num_followers": 30783,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAABGKDdde0n95Nydiup9U65B",
+  "snapshot_id": "af/KgAAAAAD8S6UUKPFpVzYldy/TmNj1",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Superfantastic",
-      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Man [Expanded]",
         "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 288600,
       "name": "If That's What It Takes",
       "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Superfantastic",
+      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 329333,
       "name": "Alive and Kickin' - 2021 Remastered",
       "url": "https://open.spotify.com/track/3RbxpCBZHs0iPbMX08RQIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "The Whole World's Gonna Know",
-      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "The Whole World's Gonna Know",
+      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 229160,
       "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
       "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Damn I'm In Love Again",
+      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Actual Size",
         "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 251413,
       "name": "Electrified",
       "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Damn I'm In Love Again",
-      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
     },
     {
       "added_at": null,

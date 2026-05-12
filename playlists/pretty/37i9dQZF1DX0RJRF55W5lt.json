@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 677381,
+  "num_followers": 677500,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
+        "name": "Love Shy",
+        "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
+      },
+      "artists": [
+        {
+          "name": "Kristine Blond",
+          "url": "https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE"
+        },
+        {
+          "name": "Club Asylum",
+          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Love Shy - Club Asylum Remix",
+      "url": "https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
         "name": "Freak Like Me",
         "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 292533,
       "name": "Freak Like Me - Dome's Peak Freak Remix",
       "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
-        "name": "Love Shy",
-        "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
-      },
-      "artists": [
-        {
-          "name": "Kristine Blond",
-          "url": "https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE"
-        },
-        {
-          "name": "Club Asylum",
-          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Love Shy - Club Asylum Remix",
-      "url": "https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn"
     },
     {
       "added_at": "2026-03-11 09:40:56",

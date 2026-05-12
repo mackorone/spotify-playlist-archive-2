@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Tino Martin",
-  "num_followers": 155765,
+  "num_followers": 155763,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlS67Ax91lAQDlMmt1twHV69XpH",
+  "snapshot_id": "AAAAADmSCmPnXdB/eQfWOwzpiXjAbqlV",
   "tracks": [
     {
       "added_at": "2026-05-07 22:03:11",
@@ -75,6 +75,38 @@
     {
       "added_at": "2026-05-07 22:03:11",
       "album": {
+        "name": "Gitana",
+        "url": "https://open.spotify.com/album/3mhkWSPUbW7BBx6pwVz4yc"
+      },
+      "artists": [
+        {
+          "name": "Niels Korsuize",
+          "url": "https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy"
+        }
+      ],
+      "duration_ms": 146289,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/4a3SC21Ou8t9kaaNESDhqp"
+    },
+    {
+      "added_at": "2026-05-07 22:03:11",
+      "album": {
+        "name": "Griekse Nacht",
+        "url": "https://open.spotify.com/album/2WbdOFY5SqeLTZbvRrFBN4"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Zelst",
+          "url": "https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Griekse Nacht",
+      "url": "https://open.spotify.com/track/104eV6ie6a5f3OqhNp1dMJ"
+    },
+    {
+      "added_at": "2026-05-07 22:03:11",
+      "album": {
         "name": "Al Win Ik 10 Miljoen",
         "url": "https://open.spotify.com/album/0NvmRdmQNK1iFfcSjGcl12"
       },
@@ -139,22 +171,6 @@
       "duration_ms": 196193,
       "name": "De Nacht Is Mijn Leven - 2026",
       "url": "https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m"
-    },
-    {
-      "added_at": "2026-05-07 22:03:11",
-      "album": {
-        "name": "Gitana",
-        "url": "https://open.spotify.com/album/3mhkWSPUbW7BBx6pwVz4yc"
-      },
-      "artists": [
-        {
-          "name": "Niels Korsuize",
-          "url": "https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy"
-        }
-      ],
-      "duration_ms": 146289,
-      "name": "Gitana",
-      "url": "https://open.spotify.com/track/4a3SC21Ou8t9kaaNESDhqp"
     },
     {
       "added_at": "2026-05-07 22:03:11",
@@ -279,22 +295,6 @@
       "duration_ms": 197812,
       "name": "Alles Gaat Voorbij",
       "url": "https://open.spotify.com/track/3POH4BgyIbavWJuo4ehXZz"
-    },
-    {
-      "added_at": "2026-05-07 22:03:11",
-      "album": {
-        "name": "Griekse Nacht",
-        "url": "https://open.spotify.com/album/2WbdOFY5SqeLTZbvRrFBN4"
-      },
-      "artists": [
-        {
-          "name": "Jeroen Van Zelst",
-          "url": "https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Griekse Nacht",
-      "url": "https://open.spotify.com/track/104eV6ie6a5f3OqhNp1dMJ"
     },
     {
       "added_at": "2026-05-07 22:03:11",

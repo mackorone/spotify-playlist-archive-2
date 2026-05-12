@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,185 songs - 2 day 21 hr 41 min
+1,186 songs - 2 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/track/0rkDJCTNLBr97RVyi77z7S) | [Raouf Morsy](https://open.spotify.com/artist/4Me8b17cDKOf8pMkdnH0Hy) | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/album/0yZqqqqkKC8lqEI6pbk3m6) | 3:29 | 2024-01-21 | 2024-01-23 |
 | [تاني](https://open.spotify.com/track/1KbLlklVzYt0ZWW6jpLd7j) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل](https://open.spotify.com/album/67G3J04APoqh3KQh9G8a3Z) | 2:38 | 2025-08-16 | 2025-09-23 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
+| [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 | 2026-05-11 |  |
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |
 | [تروح لمين \- من فيلم البحث عن منفذ لخروج السيد رامبو](https://open.spotify.com/track/3A84MH5fFWCHgy5R5c7WpC) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تروح لمين \(من فيلم البحث عن منفذ لخروج السيد رامبو\)](https://open.spotify.com/album/4gNQZT3zYV1by1BHTngarP) | 2:58 | 2025-01-11 | 2026-02-02 |
 | [تكبيرات العشر من ذي الحجة بصوت جميل ورائع تقبل الله منا ومنكم صالح الأعمال](https://open.spotify.com/track/3IikBPdVEaYtle3r6Qg4gO) | [الشيخ عمر الباسط](https://open.spotify.com/artist/4l0APg9kVZWpH58sKXzenn) | [تكبيرات العشر من ذي الحجة بصوت جميل ورائع تقبل الله منا ومنكم صالح الأعمال](https://open.spotify.com/album/2arwmLRSuQ1vRDILObNMke) | 20:34 | 2023-06-28 | 2023-06-30 |
@@ -1017,7 +1018,7 @@
 | [سكرتي](https://open.spotify.com/track/2FntmtxOqyNgZkxaZchEn0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/2criZC8fjpHOKf1A7ApYzz) | 3:30 | 2022-04-05 | 2023-06-19 |
 | [سكرتي](https://open.spotify.com/track/3pY3PPvp77FNQq01n4UrS1) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [سكرتي](https://open.spotify.com/album/1EplYRbtXvBW1IlPWWs9Yq) | 3:30 | 2021-03-27\* | 2022-04-06 |
 | [سمع هس](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [سمع هس](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-07-19 | 2023-09-24 |
-| [سوا سوا](https://open.spotify.com/track/2TKRLhUZxSQgIuDVrtfx9a) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [سوا سوا](https://open.spotify.com/album/6oiGOkXR7n2Je2ta8COYIr) | 2:57 | 2026-02-20 |  |
+| [سوا سوا](https://open.spotify.com/track/2TKRLhUZxSQgIuDVrtfx9a) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [سوا سوا](https://open.spotify.com/album/6oiGOkXR7n2Je2ta8COYIr) | 2:57 | 2026-02-20 | 2026-05-12 |
 | [سوري مبردش انا بستوري](https://open.spotify.com/track/6XnBt8ME4K8d9oYf7SE5Wa) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [سوري مبردش انا بستوري](https://open.spotify.com/album/7tePcFslMQ5mMWuC5gCDUm) | 4:13 | 2024-08-10 | 2025-03-19 |
 | [سيبك من اللي خلع \(كان فقري مش وش دلع\) عصام صاصا الكروان \- محمود الليثي](https://open.spotify.com/track/4vZihMXPmhRlpON5zwBhLW) | [MINA\_KHALIL](https://open.spotify.com/artist/4NbEJrIXdugmiwkJ5oMRRg) | [سيبك من اللي خلع \(كان فقري مش وش دلع\) عصام صاصا الكروان \- محمود الليثي](https://open.spotify.com/album/2wfpcI11XXS5T5vA88NGQA) | 2:41 | 2023-09-26 | 2023-10-04 |
 | [سيبك من اللي خلع \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [سيبك من اللي خلع \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/5VVLkrKS5EIDoy3ehMbGNX) | 2:52 | 2023-10-12 | 2025-07-28 |

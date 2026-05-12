@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 279,
+  "num_followers": 280,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIk7jx15sklNpkNTMppsM1tKpVM+e+",
+  "snapshot_id": "AAAImTaqx4iwyPcPE7Qf0MJa5TfrmvOI",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -72335,6 +72335,122 @@
       "duration_ms": 258720,
       "name": "Static Youth",
       "url": "https://open.spotify.com/track/5nv0Qkdpzp0FhfzFVUBNA4"
+    },
+    {
+      "added_at": "2026-05-11 07:50:03",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/6b4JrYXARTkErb7U7b5ui5"
+      },
+      "artists": [
+        {
+          "name": "KODEX",
+          "url": "https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/68vmXU8jHve4HGQhtXmFwC"
+    },
+    {
+      "added_at": "2026-05-11 07:50:03",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/6b4JrYXARTkErb7U7b5ui5"
+      },
+      "artists": [
+        {
+          "name": "KODEX",
+          "url": "https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "Connected Harmonic",
+      "url": "https://open.spotify.com/track/3hS2iEaecBYQn1XOYXQoWl"
+    },
+    {
+      "added_at": "2026-05-11 11:59:04",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/7sVv57xJ2OgY0tTX902Dno"
+      },
+      "artists": [
+        {
+          "name": "Sunset Black",
+          "url": "https://open.spotify.com/artist/3pARkfTZuMZlfV8WujY3gk"
+        },
+        {
+          "name": "Gent Jack",
+          "url": "https://open.spotify.com/artist/2AbQjpqeCOrrCZfMPYlfeY"
+        }
+      ],
+      "duration_ms": 144353,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/6rGaEVsfWKNjsciPwtXQpC"
+    },
+    {
+      "added_at": "2026-05-11 11:59:15",
+      "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "Stay With You",
+      "url": "https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY"
+    },
+    {
+      "added_at": "2026-05-11 11:59:31",
+      "album": {
+        "name": "Truth Without A Voice",
+        "url": "https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt"
+      },
+      "artists": [
+        {
+          "name": "Changeover",
+          "url": "https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg"
+        }
+      ],
+      "duration_ms": 190627,
+      "name": "Truth Without A Voice",
+      "url": "https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7"
+    },
+    {
+      "added_at": "2026-05-11 23:37:10",
+      "album": {
+        "name": "Amor Carnal",
+        "url": "https://open.spotify.com/album/0wzXxsGWg3Y0gI5ibGpEB7"
+      },
+      "artists": [
+        {
+          "name": "Royad",
+          "url": "https://open.spotify.com/artist/4IlKoBCUtrGWnFgQf0wtyO"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/5VVqYfF4DjuTp7Je0vCGYe"
+    },
+    {
+      "added_at": "2026-05-11 23:40:49",
+      "album": {
+        "name": "Heaven is Lying Down",
+        "url": "https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k"
+      },
+      "artists": [
+        {
+          "name": "DOUG ROCKS",
+          "url": "https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV"
+        }
+      ],
+      "duration_ms": 204313,
+      "name": "Heaven is Lying Down",
+      "url": "https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem"
     }
   ],
   "unique_name": "playlist spotify free",

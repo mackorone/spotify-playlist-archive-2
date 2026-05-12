@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-842 songs - 1 day 17 hr 48 min
+843 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [4U](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [4U](https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684) | 2:29 | 2022-05-27 | 2022-07-09 |
 | [8 Letters \- R3HAB Remix](https://open.spotify.com/track/6dX62wjTHi9F1srVTjV89X) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [8 Letters \(R3HAB Remix\)](https://open.spotify.com/album/1Wb0Ne9QaY136uNR6x0ObE) | 2:12 | 2022-03-25 | 2022-04-21 |
 | [85% \- GOLDHOUSE Remix](https://open.spotify.com/track/0OUC0kWsQ3B99MspZfLaVy) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [85% \(Remixes\)](https://open.spotify.com/album/7o8KGE3k7adyXfWoqQiHpQ) | 4:05 | 2022-03-25 | 2022-04-21 |
+| [>>>hands on me<<<](https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [>>>hands on me<<<](https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv) | 2:17 | 2026-05-09 |  |
 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-12-29 |  |
 | [a woman is a god](https://open.spotify.com/track/1aJwxjWEaP7SOWZ3ejaKej) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [a woman is a god](https://open.spotify.com/album/7GtdOSYKbmsBdpGCQK8Wd0) | 2:58 | 2022-03-25 | 2022-04-12 |
 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 | 2022-01-09 | 2023-06-24 |
@@ -81,7 +82,7 @@
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-04-21 |
 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-26 | 2026-04-18 |
 | [Beacon \(with Willa\)](https://open.spotify.com/track/4QoEvZeQpU3WYRpzZ1ktaa) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Beacon](https://open.spotify.com/album/3jnyC0eGssTO4MgautVweN) | 3:00 | 2022-03-25 | 2022-04-19 |
-| [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-12-29 |  |
+| [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-12-29 | 2026-05-12 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2022-07-28 | 2025-12-30 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-07-22 | 2022-07-29 |
 | [Believe](https://open.spotify.com/track/0mhTXfQbfTOd8VGvnsTr1P) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Believe](https://open.spotify.com/album/39TePDQqn0v1F4l6cMpqsB) | 2:39 | 2025-08-01 | 2025-08-24 |

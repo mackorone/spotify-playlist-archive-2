@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 443081,
+  "num_followers": 443020,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Hey Me, Hey Mama",
         "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 210604,
       "name": "Hey Me, Hey Mama",
       "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 206796,
       "name": "The Safety Dance",
       "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 137314,
       "name": "Revival",
       "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "We Don't Eat",
-        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 215589,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 218750,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 215589,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
         "name": "i'm not okay",
         "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
       },
@@ -1635,18 +1651,22 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+        "name": "These Days (with James Bay)",
+        "url": "https://open.spotify.com/album/5hMk0B7plmqHwVsWgSRyMQ"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+      "duration_ms": 191934,
+      "name": "These Days (with James Bay)",
+      "url": "https://open.spotify.com/track/2kO2tdljZLnzz1dBJHeUOW"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1671,26 +1691,6 @@
       "duration_ms": 270310,
       "name": "How I Long for Peace",
       "url": "https://open.spotify.com/track/1c1GPJWgvwyrBk7sT7vio9"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
-        "name": "These Days (with James Bay)",
-        "url": "https://open.spotify.com/album/5hMk0B7plmqHwVsWgSRyMQ"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 191934,
-      "name": "These Days (with James Bay)",
-      "url": "https://open.spotify.com/track/2kO2tdljZLnzz1dBJHeUOW"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 168968,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "To Ramona",
         "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 168968,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
     },
     {
       "added_at": "2026-05-01 04:03:53",

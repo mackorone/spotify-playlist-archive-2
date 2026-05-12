@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 193101,
       "name": "Dear Maria",
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
@@ -4264,6 +4264,24 @@
       "duration_ms": 240468,
       "name": "Something Bout You",
       "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
+    },
+    {
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
     },
     {
       "album": {

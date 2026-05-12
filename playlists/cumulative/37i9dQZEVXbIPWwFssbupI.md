@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,701 songs - 5 day 21 hr 29 min
+2,702 songs - 5 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Aqua86](https://open.spotify.com/track/1ZQVVzczL0q3D7MP9C67Se) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 3:27 | 2021-09-12 | 2021-09-13 |
 | [Aquarius](https://open.spotify.com/track/0w6sV1wehw4dwGpliIQMRV) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 3:38 | 2022-11-05 | 2022-11-07 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-04-20 | 2021-04-30 |
+| [Arena de Cuba](https://open.spotify.com/track/00C1tjhavZt9cTW9lWGihn) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Arena de Cuba](https://open.spotify.com/album/3fpzfOFiNQSisghQW3ZTQx) | 2:30 | 2026-05-11 |  |
 | [Argent noir part\. 3](https://open.spotify.com/track/7xZglzTyyvra7Egv1Q3Gcb) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 2:57 | 2023-09-12 | 2023-09-21 |
 | [Argent sal](https://open.spotify.com/track/4Jr3bWulhjhWAP3UlY3AdI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:14 | 2021-11-28 | 2021-12-02 |
 | [Argent Sale \- A COLORS SHOW](https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Argent Sale \- A COLORS SHOW](https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE) | 2:44 | 2026-02-18 |  |
@@ -1064,7 +1065,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-21 | 2023-02-12 |
 | [Hubert et Saïd](https://open.spotify.com/track/0D9rH9AWYV1zdi7P41B1hC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:16 | 2021-11-14 | 2021-11-21 |
-| [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:05 | 2026-05-05 | 2026-05-07 |
+| [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:05 | 2026-05-05 |  |
 | [HUMAN WEAKNESS](https://open.spotify.com/track/2SfqHnujZpwGfIcUaJbglA) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:07 | 2024-03-05 | 2024-03-07 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-05 |
 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 | 2022-08-28 | 2022-09-03 |
@@ -1884,7 +1885,7 @@
 | [Pas comme eux](https://open.spotify.com/track/3dYiWP8D5bg29xbxDVEZwv) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:51 | 2026-03-14 | 2026-03-20 |
 | [Pas de sentiments](https://open.spotify.com/track/2Jqwwo5cUjQZ3d43BuCVlk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:05 | 2023-04-15 | 2023-04-21 |
 | [Pas deux fois](https://open.spotify.com/track/6WvcAaUJZNxku2ZiOWHVHT) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:06 | 2022-02-05 | 2022-02-11 |
-| [Pas Jalouse](https://open.spotify.com/track/0TABODtQpJsAUrGGdJ85tG) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3nVSaBvT8Z8c68YAjNZn6h) | 2:36 | 2026-04-27 |  |
+| [Pas Jalouse](https://open.spotify.com/track/0TABODtQpJsAUrGGdJ85tG) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3nVSaBvT8Z8c68YAjNZn6h) | 2:36 | 2026-04-27 | 2026-05-12 |
 | [PAS LE CHOIX](https://open.spotify.com/track/4xyT5W6hSwIYzdP8FAS4HH) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [PAS LE CHOIX](https://open.spotify.com/album/3s9fg9EqFaoHaWx64KXZCV) | 1:30 | 2025-11-26 | 2025-12-21 |
 | [PAS LE CHOIX](https://open.spotify.com/track/6voIMCTtXpphMWWrcKpi6M) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [ACTIF](https://open.spotify.com/album/2q9lT7gs6o751a5NiVoXpV) | 1:30 | 2026-01-19 | 2026-01-21 |
 | [Pas là](https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-04 | 2023-05-20 |
@@ -2267,7 +2268,7 @@
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-07-20 | 2024-09-15 |
 | [Soldi famiglia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6NyBfy5d0b8cAf8oPY6LoA) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 4:14 | 2024-12-07 | 2024-12-15 |
 | [SOLEIL](https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [SOLEIL](https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D) | 2:48 | 2026-03-11 | 2026-03-15 |
-| [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 | 2026-04-04 |  |
+| [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 | 2026-04-04 | 2026-05-12 |
 | [Soleil Bleu](https://open.spotify.com/track/35Ojg767hn4vFkuiNbwcK1) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil bleu](https://open.spotify.com/album/4Bru05tVE8biVeujSqKj3Z) | 4:06 | 2025-12-23 | 2025-12-30 |
 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-06-28 | 2026-05-10 |
 | [Soleil levant](https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:24 | 2025-11-08 | 2025-11-28 |

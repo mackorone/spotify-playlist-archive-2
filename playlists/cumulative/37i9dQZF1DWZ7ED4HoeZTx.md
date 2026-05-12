@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-147 songs - 10 hr 0 min
+148 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 | 2023-01-05 | 2024-04-19 |
 | [odoriko](https://open.spotify.com/track/1uK4zAdMcBRyinAOArUA5X) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [odoriko](https://open.spotify.com/album/5GYj8Dv4xReZAEA8sp4S5y) | 3:50 | 2023-09-21 | 2023-11-18 |
 | [Oh](https://open.spotify.com/track/4fWRIQBUH9VaWpz9E5ZFc7) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Oh](https://open.spotify.com/album/2qHLv0U8pxGV7nAHinJiuU) | 4:05 | 2025-10-11 | 2026-04-17 |
-| [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 | 2026-04-16 |  |
+| [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 | 2026-04-16 | 2026-05-12 |
 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 | 2023-01-05 |  |
 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 | 2023-01-05 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-03-14 |  |
@@ -92,6 +92,7 @@
 | [unravel \-Instrumental for the 10th Anniversary\-](https://open.spotify.com/track/77uEYik4dpFFxI49c5bVQt) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [unravel \-Instrumental for the 10th Anniversary\-](https://open.spotify.com/album/7JTaoTn6o7jcGUeqKzVCut) | 5:32 | 2025-07-29 |  |
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2023-01-05 | 2024-04-19 |
 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2024-02-01 | 2024-04-02 |
+| [Wind](https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f) | [Akeboshi](https://open.spotify.com/artist/7whUoQAv5bVu2Cv4ZmgTyw) | [Akeboshi](https://open.spotify.com/album/6lTOmOSRAWvAwdv15KnMb8) | 3:40 | 2026-05-11 |  |
 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 | 2023-01-05 | 2026-04-18 |
 | [あいくらふと](https://open.spotify.com/track/1jE7oyUD2V1jlB0Dat0OpB) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [あいくらふと](https://open.spotify.com/album/7KbV2xSeJaDP9BXC1jBTWe) | 3:30 | 2025-02-27 | 2025-07-23 |
 | [あなたに](https://open.spotify.com/track/1gJ5uea5uL4DjH12o5Y3GB) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「あなたに」](https://open.spotify.com/album/17S1V070Wo47UCIoYemN3B) | 3:11 | 2025-01-30 | 2025-07-23 |

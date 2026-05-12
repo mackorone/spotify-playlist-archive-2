@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 486124,
+  "num_followers": 486312,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-05-08 15:13:24",
       "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+    },
+    {
+      "added_at": "2026-05-08 15:13:24",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -411,26 +431,6 @@
     {
       "added_at": "2026-05-08 15:13:24",
       "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-05-08 15:13:24",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -451,6 +451,26 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+    },
+    {
+      "added_at": "2026-05-08 15:13:24",
+      "album": {
+        "name": "SCANDAL ANTHEM",
+        "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "SCANDAL ANTHEM",
+      "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
     },
     {
       "added_at": "2026-05-08 15:13:24",
@@ -483,26 +503,6 @@
       "duration_ms": 193345,
       "name": "Holy Place",
       "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
-    },
-    {
-      "added_at": "2026-05-08 15:13:24",
-      "album": {
-        "name": "SCANDAL ANTHEM",
-        "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "SCANDAL ANTHEM",
-      "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
     },
     {
       "added_at": "2026-05-08 15:13:24",

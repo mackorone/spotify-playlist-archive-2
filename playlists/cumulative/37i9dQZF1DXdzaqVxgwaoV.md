@@ -4,7 +4,7 @@
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-399 songs - 1 day 0 hr 4 min
+400 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Dame Tu Mujer José](https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:51 | 2024-09-01 | 2026-02-24 |
 | [Daniela](https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Musical de Rodolfo Con los Hispanos: 40 Éxitos Inolvidables](https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y) | 3:18 | 2023-12-20 | 2026-02-24 |
 | [Daniela](https://open.spotify.com/track/4eMjJ98X5b5bu4wzdW4U6l) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Peligro](https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k) | 3:20 | 2023-12-05 | 2024-01-19 |
+| [De Bar En Bar](https://open.spotify.com/track/17OmeFVo1HtzsRFWJM1lfY) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [De Vuelta Al Bar](https://open.spotify.com/album/0h0SCGByCzX6jWufSy6EvN) | 2:47 | 2026-02-23 |  |
 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 | 2023-02-03 |  |
 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 | 2023-11-09 | 2026-02-24 |
 | [Decidido](https://open.spotify.com/track/4AkSPCdKCipHPjToJRBIzM) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:03 | 2026-02-23 |  |
@@ -208,7 +209,7 @@
 | [La Rigola](https://open.spotify.com/track/5UpGVIYJvPyyMtH0IOnIya) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 3:11 | 2024-11-01 | 2025-01-24 |
 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2023-11-09 | 2024-04-19 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-11-09 | 2024-04-19 |
-| [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 | 2026-02-23 |  |
+| [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 | 2026-02-23 | 2026-05-12 |
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-02-03 |  |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2023-11-09 | 2026-02-24 |
 | [La Yerbita](https://open.spotify.com/track/5pGhOX0wMnLlTNt24lSQmW) | [Los Corraleros del Majagual](https://open.spotify.com/artist/1LwOYG7BXK00xst0F5LrGn) | [2 Estilos Colombianos](https://open.spotify.com/album/1itueHqAKtSBJAcGbvV0sO) | 2:48 | 2025-09-09 | 2025-10-04 |

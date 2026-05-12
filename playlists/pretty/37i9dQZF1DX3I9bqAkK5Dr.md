@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Mayukh Velagapudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,050 likes - 93 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,061 likes - 93 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Evare](https://open.spotify.com/track/0tqltBDUtMxr880sGdub7C) | [SS Vardhan](https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL), [Pavan Kalyan](https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi), [Ananya Bhaskar](https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr) | [Evare](https://open.spotify.com/album/2nYjlrqfgV7HaadrJV676Y) | 4:57 |
-| 2 | [Ee Premanthaa Neeve](https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM) | [Mayukh Velagapudi](https://open.spotify.com/artist/5oa1Qaay6FkJzDNlgwQxde), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb), [Sindhuja Rajesh](https://open.spotify.com/artist/2CPCFLvdcyRLTZrHHFwiUz) | [Ee Premanthaa Neeve](https://open.spotify.com/album/1yucluSfbWVLGh9vQ6YfK5) | 3:47 |
+| 1 | [Ee Premanthaa Neeve](https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM) | [Mayukh Velagapudi](https://open.spotify.com/artist/5oa1Qaay6FkJzDNlgwQxde), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb), [Sindhuja Rajesh](https://open.spotify.com/artist/2CPCFLvdcyRLTZrHHFwiUz) | [Ee Premanthaa Neeve](https://open.spotify.com/album/1yucluSfbWVLGh9vQ6YfK5) | 3:47 |
+| 2 | [Evare](https://open.spotify.com/track/0tqltBDUtMxr880sGdub7C) | [SS Vardhan](https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL), [Pavan Kalyan](https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi), [Ananya Bhaskar](https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr) | [Evare](https://open.spotify.com/album/2nYjlrqfgV7HaadrJV676Y) | 4:57 |
 | 3 | [Paravasame](https://open.spotify.com/track/6nIEPjR7IchU95oxV3qOGc) | [Hemanth Kashyap](https://open.spotify.com/artist/4ZNSNlmiVP3hZcCErVPolq), [Aishwarya Daruri](https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf) | [Paravasame](https://open.spotify.com/album/2kuwQYiup392L0setiugzf) | 4:04 |
 | 4 | [Ye Ramasilaka](https://open.spotify.com/track/01bofO4sNrsVWuBUb3jNh9) | [Vrusha Balu](https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Arthamaina Adhyayam](https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1) | 4:27 |
 | 5 | [Will You Be Mine \(Telugu\)](https://open.spotify.com/track/3rXe2JaKT1Lq0ROkH5Rjbk) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Siva Sravan](https://open.spotify.com/artist/5z5hcFAteOuDjIAC05JTUQ), [Ramya RamC](https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD), [Shanmukha Bharadwaj](https://open.spotify.com/artist/6MzSHtji9Z61LAc1c8GyNd) | [Will You Be Mine \(Telugu\)](https://open.spotify.com/album/6jc404XykoDoRtI6ArGqmo) | 3:07 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 92 | [Rahasyam](https://open.spotify.com/track/7vMbkplpdFYxOUSmIQtdQL) | [Kavin Lavari](https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe), [ozzie](https://open.spotify.com/artist/2yuhstU6oVkeKw9dyVcNwO), [sathvik](https://open.spotify.com/artist/1FZJc8yEHsOJDCFIevVahk) | [It's Nice To Meet You](https://open.spotify.com/album/1KlHnPfucRK6pK7jHNjIfN) | 2:42 |
 | 93 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:02 |
 
-Snapshot ID: `AAAAAI4h6p+WzTL7gkdZL9NbHrwmkOtq`
+Snapshot ID: `AAAAANn0mF/vVKQHHj/6d9SdJQlg6H5e`

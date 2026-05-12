@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,648,463 likes - 99 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,650,745 likes - 99 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 26 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 |
 | 27 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |
 | 28 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
-| 29 | [FUNK ABNORMAL \- SLOWED](https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2) | [DJ V12](https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD) | [FUNK ABNORMAL](https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3) | 1:41 |
+| 29 | [FUNK ABNORMAL \- SLOWED](https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2) | [DJ V12](https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD), [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [FUNK ABNORMAL](https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3) | 1:41 |
 | 30 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 31 | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1) | 1:47 |
 | 32 | [GOZALO \- Slowed](https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [GOZALO](https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b) | 2:00 |

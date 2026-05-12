@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Key Glock, DJ Khaled and Don Toliver.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,742,078 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,740,255 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [KING](https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:06 |
 | 50 | [Flo Jackson](https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Flo Jackson](https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS) | 2:23 |
 
-Snapshot ID: `AAAAAAM78xv2HVCl02i0BbcHvE9mFDLk`
+Snapshot ID: `AAAAAO90jbXH/3qFz6lWY/B62FwmQTgI`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAADuWJNbwRSoarjxzUeMDnyp",
+  "snapshot_id": "af/KgAAAAABFG9QWwBx/t2nxQEH/V3+B",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Indeseable",
-        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Que Me Perdone Dios",
-      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+        "name": "Coraz\u00f3n Indeseable",
+        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
+      "duration_ms": 183493,
+      "name": "Que Me Perdone Dios",
+      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 160493,
       "name": "Ojitos a Mi Gusto",
       "url": "https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -943,6 +943,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 170352,
+      "name": "Sabor De Enga\u00f1o (En Vivo)",
+      "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapayeka (Puro Chucky) (En Vivo)",
         "url": "https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 136445,
       "name": "Pa' Qu\u00e9 Me Sirve La Vida (En Vivo)",
       "url": "https://open.spotify.com/track/2zI1wnZC4M303BlyFEXH88"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Me Llega, Me Llega (En Vivo)",
-      "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"
     }
   ],
   "unique_name": "This Is Lalo Mora",

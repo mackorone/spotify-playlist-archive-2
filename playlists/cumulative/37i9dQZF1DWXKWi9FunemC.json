@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 145263,
       "name": "Abide",
       "url": "https://open.spotify.com/track/2zM6jZtTGq1gjEtGZLjS3V"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 121041,
       "name": "Barter",
       "url": "https://open.spotify.com/track/7MFbesTdcv5KiSFORxThgQ"
@@ -3464,6 +3464,24 @@
       "duration_ms": 254666,
       "name": "If It Wasn\u2019t for the Cross",
       "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
+    },
+    {
+      "album": {
+        "name": "If It's Not You",
+        "url": "https://open.spotify.com/album/7MjOODZWlFvTUqkPAWeHE7"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227507,
+      "name": "If It's Not You",
+      "url": "https://open.spotify.com/track/5AlYFa916kw5mSCPKcA94X"
     },
     {
       "album": {
@@ -7174,7 +7192,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 201200,
       "name": "Time's Never Wasted on You",
       "url": "https://open.spotify.com/track/4hJO0SG03kyipeeFX6mbRz"

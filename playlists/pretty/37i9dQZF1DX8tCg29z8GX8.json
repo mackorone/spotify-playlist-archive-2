@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 20499,
+  "num_followers": 20511,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
         "name": "Wish I Had a Girlfriend",
         "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
       },
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 142950,
-      "name": "STARLIFE",
-      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
     },
     {
       "added_at": "2026-05-08 00:02:19",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
         "name": "After The Storm",
         "url": "https://open.spotify.com/album/0KAOzTgE6sRm9LKOoFsPW4"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 168000,
       "name": "After The Storm",
       "url": "https://open.spotify.com/track/4hXheeJyYrG8j6YpKzZd38"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2026-05-08 00:02:19",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
     },
     {
       "added_at": "2026-05-08 00:02:19",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
         "name": "Jigi Jigi Vol. 2",
         "url": "https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi"
       },
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
-        "name": "MO NTW\u0190N!",
-        "url": "https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 122024,
-      "name": "MO NTW\u0190N!",
-      "url": "https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
         "name": "Mon B\u00e9b\u00e9 (with King Promise)",
         "url": "https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 168791,
       "name": "Mon B\u00e9b\u00e9 (with King Promise)",
       "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
+        "name": "MO NTW\u0190N!",
+        "url": "https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 122024,
+      "name": "MO NTW\u0190N!",
+      "url": "https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs"
     },
     {
       "added_at": "2026-05-08 00:02:19",
@@ -1355,6 +1355,46 @@
     {
       "added_at": "2026-05-08 00:02:19",
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
+    },
+    {
+      "added_at": "2026-05-08 00:02:19",
+      "album": {
         "name": "From The Soil (Deluxe)",
         "url": "https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO"
       },
@@ -1379,26 +1419,6 @@
       "duration_ms": 183050,
       "name": "Ruwa II",
       "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
     },
     {
       "added_at": "2026-05-08 00:02:19",
@@ -1455,26 +1475,6 @@
       "duration_ms": 266922,
       "name": "NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix",
       "url": "https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD"
-    },
-    {
-      "added_at": "2026-05-08 00:02:19",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
     },
     {
       "added_at": "2026-05-08 00:02:19",

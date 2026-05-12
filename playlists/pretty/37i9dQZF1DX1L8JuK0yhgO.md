@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,389 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,392 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 83 | [Lemonade](https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Lemonade](https://open.spotify.com/album/1czEu9Hok2Y5YAZQZZbCvA) | 3:40 |
 | 84 | [incense \(feat\. Sik\-K\)](https://open.spotify.com/track/6xaQfsdGCnqkcvjyRobZWK) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [aurora](https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW) | 3:17 |
 | 85 | [OK CAN \(feat\. pH\-1 & JP THE WAVY\)](https://open.spotify.com/track/4etccLWOrAyFrJbAFHNm0V) | [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [OK CAN \(feat\. pH\-1 & JP THE WAVY\)](https://open.spotify.com/album/0gaiFeKSFESkhy4qLU5MLm) | 3:12 |
-| 86 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 86 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 87 | [TOP NOTCH \- Japanese version](https://open.spotify.com/track/0D6rixo6ipDHJPb4PDKaNr) | [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [TOP NOTCH \- Japanese version](https://open.spotify.com/album/4posKdl5dlhA6HrNPU2nTS) | 3:22 |
 | 88 | [MAGAZINE](https://open.spotify.com/track/2wyY4IUg0yWEQOj7WIh9o5) | [DAX](https://open.spotify.com/artist/6uSDr3PtKRBpAeFeXBQNDf), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [MAGAZINE](https://open.spotify.com/album/7a9KzvM6aSf9O0iZshTxD9) | 2:33 |
 | 89 | [Period](https://open.spotify.com/track/6n6Nc84hTi28o98tiHeV3o) | [INIMILE](https://open.spotify.com/artist/5ZJ0xmmLxxb6fQRUFIhjvl) | [Period](https://open.spotify.com/album/73WKQa9rIR4qQvevCqBymi) | 3:17 |

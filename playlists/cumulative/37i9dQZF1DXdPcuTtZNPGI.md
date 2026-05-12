@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-168 songs - 11 hr 6 min
+169 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [愛して愛して愛して](https://open.spotify.com/track/0y51oilkHg6ZrtCqSoxb1W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 4:18 | 2024-02-22 |  |
 | [抜け空](https://open.spotify.com/track/35Kh8QvBqCwHA2pl1n6EqV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:08 | 2024-07-09 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-10-09 |  |
+| [春に舞う](https://open.spotify.com/track/5DeORdOeIVBMq9hfry3op1) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [春に舞う](https://open.spotify.com/album/2nLGFXbJw0Sx21lYGji0NK) | 3:58 | 2026-05-12 |  |
 | [東亰カニバリズム \(feat\. Ado\)](https://open.spotify.com/track/3sVxxKTxLaT5WYg5dmk4ye) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [東亰カニバリズム \(feat\. Ado\)](https://open.spotify.com/album/727UO5WpRZa7npkCBeSLv4) | 3:11 | 2024-02-22 |  |
 | [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 | 2024-10-23 |  |
 | [永遠のあくる日](https://open.spotify.com/track/39G4P8noqIKkxpjiuMGqnC) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 4:06 | 2024-07-09 |  |

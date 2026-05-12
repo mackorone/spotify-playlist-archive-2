@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including XATAR, Dardan, Charli xcx, J Balvin, Mike Candys & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,255 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,249 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 69 | [Mettmenstetten](https://open.spotify.com/track/2dj8dvyYWIZd0UC69t8zOn) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw) | [Mettmenstetten](https://open.spotify.com/album/10wDhvXBBdcLjAykAAQhEC) | 3:11 |
 | 70 | [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 |
 | 71 | [Bermuda](https://open.spotify.com/track/3s0RC9ooiAWDXUL7AyXS38) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Bermuda](https://open.spotify.com/album/6ccE00W6zKDviVkprH2FQ3) | 2:16 |
-| 72 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 72 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 73 | [Kalt](https://open.spotify.com/track/3ukRkAwUMDTdAikwSOPGI4) | [Eliel](https://open.spotify.com/artist/6C9i3RVSphPtysb5zQjBvG), [Rojhat](https://open.spotify.com/artist/1jLf7MGXIhsvPy3p6a6CDz) | [Kalt](https://open.spotify.com/album/7BXJOS5CejoWlifIgcV0wC) | 2:19 |
 | 74 | [HOME TO MOTHER](https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2) | 3:16 |
 | 75 | [Mit Links](https://open.spotify.com/track/4rHMLmpQP0hPPNEWT45nlq) | [ETO](https://open.spotify.com/artist/0Y7IHICQTiPlRK9bhSbYFj) | [Mit Links](https://open.spotify.com/album/3OpM25CwCD6tQnNG2dHVPJ) | 2:36 |

@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: xiihu\)
+> New & best K\-Electronic music is here\. \(Cover: IÖN\)
 
-299 songs - 16 hr 49 min
+300 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bambi \- BRLLNT Remix](https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 2:51 | 2024-04-05 | 2025-09-30 |
 | [Bambi \- h4rdy Remix](https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 4:00 | 2024-04-05 | 2025-08-27 |
 | [Bassister \(Feat\. Kid Milli\)](https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [SPAZ](https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT) | 2:49 | 2025-09-22 |  |
+| [Baya](https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ co.kr](https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 3:40 | 2026-05-12 |  |
 | [Be Your Breeze \- Dyako Remix](https://open.spotify.com/track/0CufLeUWzEjOisimpSDVXl) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Be Your Breeze \(Remixes\)](https://open.spotify.com/album/50OdjnCJjGLB3aw1rN2CZo) | 3:38 | 2024-09-04 | 2024-09-21 |
 | [Before the Dawn](https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx) | [GLORY](https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr) | [Before the Dawn](https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk) | 2:56 | 2024-04-05 | 2024-06-09 |
 | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C) | [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP), [FLANNEL ALBERT](https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC) | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/album/0s10sDLTOXD2jDXqEqS7nf) | 3:13 | 2024-06-28 | 2024-07-17 |
@@ -115,7 +116,7 @@
 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Aiobahn Remix](https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 4:34 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Mar Vista Remix](https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:17 | 2024-04-05 | 2024-06-29 |
-| [FOREVER 1 \- Matisse & Sadko Remix](https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:33 | 2024-04-05 |  |
+| [FOREVER 1 \- Matisse & Sadko Remix](https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:33 | 2024-04-05 | 2026-05-12 |
 | [Forever Only \- SHINDRUM Remix](https://open.spotify.com/track/2J21A2R7x9HTzTPz44Ct6I) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [iScreaM Vol.20 : Forever Only Remix](https://open.spotify.com/album/0qGWYp3eoGi3NK27XhwF6i) | 3:22 | 2024-04-05 | 2024-06-29 |
 | [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-03-23 | 2026-05-05 |
 | [Gatha](https://open.spotify.com/track/7r8NrNn8ttKczTCqnGSgcV) | [XXOK](https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E) | [Seoul 01 : Part Yin](https://open.spotify.com/album/4tu8rN61IRW23NRl6ZkGtq) | 5:41 | 2025-07-22 | 2025-07-30 |

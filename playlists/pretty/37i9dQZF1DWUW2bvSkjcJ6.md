@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von XATAR, Dardan, Charli xcx, Esther Graf, Nico Santos & vielen mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,718 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,629 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 45 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 |
 | 46 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
 | 47 | [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 |
-| 48 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 48 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 49 | [HOME TO MOTHER](https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2) | 3:16 |
 | 50 | [Schlechte Nachbarn](https://open.spotify.com/track/6tX6MaQcil8sOnSiqnjPJL) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Schlechte Nachbarn](https://open.spotify.com/album/2qv2bDIc6TkQTZPsKNyCCC) | 2:43 |
 | 51 | [Lichter](https://open.spotify.com/track/3dLGJyyyQxUKQqQ8bqrLXr) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Briefe aus Berlin](https://open.spotify.com/album/0KXBT3hx5PsCs8FMb5HkKk) | 1:35 |

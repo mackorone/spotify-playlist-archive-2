@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,685 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,738 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 18 | [662](https://open.spotify.com/track/7lM1cf3zZuish0TjRnn5MB) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/7vKItws7UGBfZpWG5mlqqn) | 3:17 |
 | 19 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 |
 | 20 | [Struggling With The Bottle](https://open.spotify.com/track/5G1lsldy6mzaL8OXb721vS) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/4zio3LtIBfWx2jroLprxvo) | 2:39 |
-| 21 | [Madame President](https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP) | [The Hodge Podge](https://open.spotify.com/artist/04XDYU4soG9QoUx5VkgpIU) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 2:26 |
+| 21 | [Madame President](https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP) | [The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 2:26 |
 | 22 | [She Runs Hot](https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [She Runs Hot](https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn) | 3:07 |
 | 23 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 |
 | 24 | [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 |

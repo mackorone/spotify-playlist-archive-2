@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Athidhi - OST",
+        "url": "https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47541,
+      "name": "Love Unfolds",
+      "url": "https://open.spotify.com/track/00Lr28wIf0sHcmoCmP8brr"
+    },
+    {
+      "album": {
         "name": "Maa Nanna Super Hero Theme (From \"Maa Nanna Super Hero\")",
         "url": "https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF"
       },
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 76226,
       "name": "Mirapakai",
       "url": "https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G"

@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7481,
+  "num_followers": 7483,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAlRSlv8Ek9fgJNe2vOZcZi",
+  "snapshot_id": "af/KgAAAAABRGNKro4M4YN5FHBUqWJWf",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 182271,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
+      "duration_ms": 228493,
+      "name": "Skulls and Stars - Original Demo",
+      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Skulls and Stars - Original Demo",
-      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
+      "duration_ms": 182271,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,

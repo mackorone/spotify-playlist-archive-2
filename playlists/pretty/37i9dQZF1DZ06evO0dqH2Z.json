@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAyiO6jqcAnloiZ9RHJX8Ac",
+  "snapshot_id": "af/KgAAAAADMPsBXK+QR4WNPIsrD1Vla",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
       "artists": [
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Andy Hull",
+          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Charmer",
-      "url": "https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh"
+      "duration_ms": 216947,
+      "name": "I Won't Care How You Remember Me",
+      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
       "artists": [
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        },
-        {
-          "name": "Andy Hull",
-          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
         }
       ],
-      "duration_ms": 216947,
-      "name": "I Won't Care How You Remember Me",
-      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
+      "duration_ms": 205506,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh"
     },
     {
       "added_at": null,

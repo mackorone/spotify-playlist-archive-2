@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > SUMMER SONIC 2026 TOKYOにてSpotify Stageが登場！出演アーティストをプレイリストでチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,702 likes - 54 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Armin van Buuren &amp; Olive Anguz",
-  "num_followers": 259509,
+  "num_followers": 259484,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADVx/rUR3JU351gqu/6ZInMziejCeNX",
+  "snapshot_id": "AADVy41z/CssaiJCB3vsWvQL2qI6GNcq",
   "tracks": [
     {
       "added_at": "2026-05-01 02:00:23",
@@ -43,26 +43,6 @@
       "duration_ms": 222416,
       "name": "Domino - Rework",
       "url": "https://open.spotify.com/track/7DaPAWBO3fHQXtmHKpTvCJ"
-    },
-    {
-      "added_at": "2026-05-08 02:00:25",
-      "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/6NuakLFnJhQUNFBVxrUtXR"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        }
-      ],
-      "duration_ms": 175652,
-      "name": "Need You By My Side",
-      "url": "https://open.spotify.com/track/7seY3OdoSh8LNiO8bZ57gK"
     },
     {
       "added_at": "2026-05-08 02:00:25",
@@ -137,26 +117,6 @@
       "url": "https://open.spotify.com/track/272zNOGMxYSxDP9kAaCnPn"
     },
     {
-      "added_at": "2026-05-01 02:00:23",
-      "album": {
-        "name": "She A Freak",
-        "url": "https://open.spotify.com/album/36RZEcH5nrERWd9KxHfe0B"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "She A Freak",
-      "url": "https://open.spotify.com/track/19GpT6cvU5AOjChE4pXqbI"
-    },
-    {
       "added_at": "2026-04-24 02:00:16",
       "album": {
         "name": "Good Life",
@@ -229,54 +189,6 @@
       "url": "https://open.spotify.com/track/4Qujdsyg6fVpuI6rMZsTQI"
     },
     {
-      "added_at": "2026-04-10 02:00:28",
-      "album": {
-        "name": "Vem Comigo",
-        "url": "https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Olive Anguz",
-          "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
-        },
-        {
-          "name": "Project Zeitgeist",
-          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
-        }
-      ],
-      "duration_ms": 207483,
-      "name": "Vem Comigo",
-      "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"
-    },
-    {
-      "added_at": "2026-04-24 02:00:16",
-      "album": {
-        "name": "Like A Child",
-        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 183181,
-      "name": "Like A Child",
-      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
-    },
-    {
       "added_at": "2026-04-24 02:00:16",
       "album": {
         "name": "River",
@@ -295,6 +207,26 @@
       "duration_ms": 185996,
       "name": "River",
       "url": "https://open.spotify.com/track/5CVfpoHb8yDLy8JOIU8AiM"
+    },
+    {
+      "added_at": "2026-05-01 02:00:23",
+      "album": {
+        "name": "She A Freak",
+        "url": "https://open.spotify.com/album/36RZEcH5nrERWd9KxHfe0B"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "She A Freak",
+      "url": "https://open.spotify.com/track/19GpT6cvU5AOjChE4pXqbI"
     },
     {
       "added_at": "2026-03-30 11:45:34",
@@ -399,6 +331,30 @@
       "duration_ms": 192187,
       "name": "You Gonna Want Me (I Know)",
       "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
+    },
+    {
+      "added_at": "2026-04-10 02:00:28",
+      "album": {
+        "name": "Vem Comigo",
+        "url": "https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Olive Anguz",
+          "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
+        }
+      ],
+      "duration_ms": 207483,
+      "name": "Vem Comigo",
+      "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"
     },
     {
       "added_at": "2026-04-10 02:00:29",
@@ -655,6 +611,30 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "added_at": "2026-04-24 02:00:16",
+      "album": {
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 183181,
+      "name": "Like A Child",
+      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
     },
     {
       "added_at": "2026-04-10 02:00:29",

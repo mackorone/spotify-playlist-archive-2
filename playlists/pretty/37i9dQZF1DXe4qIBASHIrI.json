@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 180258,
+  "num_followers": 180281,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Madre M\u00eda",
+        "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
+      },
+      "artists": [
+        {
+          "name": "Salvador y el Unicornio",
+          "url": "https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Agua De Coco",
+      "url": "https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Happy-fi Compilaci\u00f3n Vol. 2",
         "url": "https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 315447,
       "name": "Psicomagia",
       "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Madre M\u00eda",
-        "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
-      },
-      "artists": [
-        {
-          "name": "Salvador y el Unicornio",
-          "url": "https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Agua De Coco",
-      "url": "https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Buffalo Beat EP",
-        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
-      },
-      "artists": [
-        {
-          "name": "Timothy The Master",
-          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Jugo De Frutas",
-      "url": "https://open.spotify.com/track/4YgU6ASjpMsb71QwSBgmtW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "A Casa Voy - EP",
         "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 326426,
       "name": "Robot",
       "url": "https://open.spotify.com/track/1kQyVGpK1b2Uq1fCpWgDjQ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Buffalo Beat EP",
+        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
+      },
+      "artists": [
+        {
+          "name": "Timothy The Master",
+          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Jugo De Frutas",
+      "url": "https://open.spotify.com/track/4YgU6ASjpMsb71QwSBgmtW"
     },
     {
       "added_at": "2023-09-01 16:42:45",

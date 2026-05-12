@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Slaï
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,508 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,524 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 4 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
 | 5 | [Elles demandent](https://open.spotify.com/track/6SGLeYh7sH3auF3R40ISZw) | [Medhy Custos](https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd) | [Medhy Custos \(Bonus Elles demandent Feat\. Admiral T.\)](https://open.spotify.com/album/22XZ6XxUOPP89254uzlNQ3) | 3:03 |
 | 6 | [Reviens](https://open.spotify.com/track/1z7GbDQVPdRYFjShnxbT4x) | [NAIMA](https://open.spotify.com/artist/2g2MbXnceRu1A257H9GfFP) | [REVIENS](https://open.spotify.com/album/6xHDF3Qn0f3DUatjk8hIMC) | 4:08 |
-| 7 | [Cette nuit](https://open.spotify.com/track/4EvgN59rOoSrFqXvpOdxee) | [Ridge](https://open.spotify.com/artist/5XhpW13SNw4TDaiz747BIC), [Joyce](https://open.spotify.com/artist/2UvslHPApvKvZFjEtCjIHA) | [Allianstars, Vol\. 2](https://open.spotify.com/album/6u1wHjLN0Y5yYUAlrDB0nz) | 4:14 |
+| 7 | [Cette nuit](https://open.spotify.com/track/4EvgN59rOoSrFqXvpOdxee) | [Ridge](https://open.spotify.com/artist/7JWE1tJC1vqIpQ4se83CZz), [Joyce](https://open.spotify.com/artist/2UvslHPApvKvZFjEtCjIHA) | [Allianstars, Vol\. 2](https://open.spotify.com/album/6u1wHjLN0Y5yYUAlrDB0nz) | 4:14 |
 | 8 | [Amour sans loi](https://open.spotify.com/track/2cAWUz1Z1UhBgAkyiylt3y) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq) | [Corps & âmes](https://open.spotify.com/album/4oLfPjyinyqrd2tULPsBqh) | 4:23 |
 | 9 | [Emmène\-Moi Avec Toi](https://open.spotify.com/track/4Ql7ivqB2u0YjPLBhLQRLW) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 |
 | 10 | [Tu me manques](https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP) | [Harry Diboula](https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn) | [Entre vous et moi \(32 Hits\)](https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB) | 4:27 |

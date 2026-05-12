@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Quiet Light
 
-2,220 songs - 4 day 23 hr 55 min
+2,221 songs - 5 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2102,7 +2102,7 @@
 | [We Were Girls](https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Weeping Willow](https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS) | 3:24 | 2024-09-03 | 2024-10-02 |
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-08-02 | 2023-09-07 |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-04-06 | 2022-05-05 |
-| [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 | 2026-03-09 |  |
+| [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 | 2026-03-09 | 2026-05-12 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-02-01 | 2023-03-02 |
 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 | 2024-03-01 | 2024-04-02 |
 | [Weirdo](https://open.spotify.com/track/0wJyNSjuL5KU2HHjwwH1Kb) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 3:45 | 2021-12-01 | 2022-01-06 |
@@ -2219,6 +2219,7 @@
 | [Your Arms](https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb) | [RORE](https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j) | [Your Arms](https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v) | 2:37 | 2023-09-06 | 2023-10-05 |
 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-11-29 | 2024-01-27 |
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-06-07 | 2023-07-06 |
+| [Your Mother](https://open.spotify.com/track/7eq64AWsnSuYEE2861FRuD) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Sound of a Woman](https://open.spotify.com/album/1EXvOPcWpUOV0rU44OXDHD) | 5:16 | 2026-05-04 |  |
 | [your place](https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:02 | 2023-08-02 | 2023-09-07 |
 | [Your Tongue](https://open.spotify.com/track/00WQxluVREF12JZkKWvio4) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue](https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz) | 2:37 | 2022-04-06 | 2022-05-05 |
 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 | 2024-01-26 | 2024-03-02 |

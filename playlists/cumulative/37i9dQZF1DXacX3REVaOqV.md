@@ -4,7 +4,7 @@
 
 > The best in house music
 
-796 songs - 2 day 3 hr 14 min
+797 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Got To Believe](https://open.spotify.com/track/0ohw5aRHEw91j6SHeldRn2) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [DJ Disciple](https://open.spotify.com/artist/2p0Waz6D8QKzx1MeSlJEm8), [Progression](https://open.spotify.com/artist/4PGVD4TtOm5BqcAnumBqPH) | [Got To Believe](https://open.spotify.com/album/5h0XnAfPfu0j3iIbeIw2db) | 3:19 | 2024-08-01 | 2025-07-14 |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2023-01-12 | 2024-09-13 |
 | [Gotta Get Up](https://open.spotify.com/track/5jRZWj1ZcZ7dySno7ksMQa) | [miirabelle](https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG), [Lizzie Nightingale](https://open.spotify.com/artist/3spUinMukLrkAhSru3aopv) | [Gotta Get Up](https://open.spotify.com/album/06xTCSwUkJ94sPSGPcXAk8) | 3:29 | 2025-11-20 | 2026-02-23 |
-| [Grinnin'](https://open.spotify.com/track/26n2yCFYtlv311GisIGV4B) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Grinnin'](https://open.spotify.com/album/2EsKS35NLXhdvpjMaWAAY2) | 3:32 | 2025-10-06 |  |
+| [Grinnin'](https://open.spotify.com/track/26n2yCFYtlv311GisIGV4B) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Grinnin'](https://open.spotify.com/album/2EsKS35NLXhdvpjMaWAAY2) | 3:32 | 2025-10-06 | 2026-05-12 |
 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 | 2025-04-03 | 2025-10-24 |
 | [H O U S E](https://open.spotify.com/track/7zbqPeaFvWCKwkITKFI8V7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [H O U S E](https://open.spotify.com/album/4LBcLvu0gELWABBgO4DwfA) | 5:42 | 2022-04-14 | 2022-07-29 |
 | [Hallelujah Anyway \- Larse VIP](https://open.spotify.com/track/5fWhvRhUnRLwa0a2bSEljn) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Larse](https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm) | [Hallelujah Anyway \(Larse VIP\)](https://open.spotify.com/album/1pfV5ElQrTPWXgAZCdelbk) | 3:51 | 2024-08-30 | 2025-04-04 |
@@ -433,6 +433,7 @@
 | [Lost In The Amazon](https://open.spotify.com/track/2HYf8CzzrsNHJiDo3wsPWW) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Amor Essencial EP](https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd) | 6:04 | 2024-02-29 | 2024-06-22 |
 | [Lost Without You](https://open.spotify.com/track/7ikaNXd2hseoALG4yu0rsy) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [Nila](https://open.spotify.com/artist/1TSMEmfhW3tiPIjoYVusGY) | [Lost Without You](https://open.spotify.com/album/26wa33YnxTb3bmaig0U2ZD) | 2:27 | 2024-09-19 | 2025-09-05 |
 | [Love Again](https://open.spotify.com/track/7ooZUCfM5y7UlYdeuocpup) | [Stevie Krash](https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry), [Shawnee Taylor](https://open.spotify.com/artist/5sicJtm0vC2wbv3RFNOqRU) | [Love Again](https://open.spotify.com/album/4373aVvMFGwgsfPvwhIYQI) | 3:25 | 2024-09-19 | 2025-06-06 |
+| [Love Claim](https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Claim](https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6) | 2:58 | 2026-05-07 |  |
 | [Love in Rio](https://open.spotify.com/track/0Bm1cyEBRY6f7KpzIhG9yw) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Love in Rio](https://open.spotify.com/album/2A7sVIi7t7EiJYZdnIAXcE) | 6:29 | 2022-11-30 | 2024-08-31 |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 | 2022-11-18 | 2023-04-13 |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/3hHsgBxrmN6e4UJ4TaRpFf) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/11yuNhAFlGzOhqdD8zAd06) | 3:13 | 2022-05-19 | 2022-07-29 |

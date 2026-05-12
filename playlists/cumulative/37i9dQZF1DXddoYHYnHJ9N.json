@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T. Danny",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: BSW & Nagy Bogi",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -170,6 +170,28 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "Always be mine",
+        "url": "https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Always be mine",
+      "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
     },
     {
       "album": {
@@ -540,7 +562,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 163636,
       "name": "Brazil F\u00e1nk",
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
@@ -3676,6 +3698,28 @@
       "duration_ms": 215000,
       "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
+    },
+    {
+      "album": {
+        "name": "SZEXI BB (Bruno)",
+        "url": "https://open.spotify.com/album/4ABZ9P0EXLCPmW8xnBf3Ij"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "Bereczki Zolt\u00e1n",
+          "url": "https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163905,
+      "name": "SZEXI BB - Bruno",
+      "url": "https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl"
     },
     {
       "album": {

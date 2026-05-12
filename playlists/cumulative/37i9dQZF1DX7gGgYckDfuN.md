@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-98 songs - 8 hr 23 min
+99 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/track/2TsyTag2aNa4wmUNmExzcI) | [THE DU](https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL) | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp) | 3:06 | 2021-12-09 | 2024-04-19 |
 | [CRAZY NOISY BIZARRE TOWN \- EDM ARRANGE VER.](https://open.spotify.com/track/2HR8ujhAog0t1TE4gBAROy) | [THE DU](https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL) | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp) | 3:07 | 2021-12-09 | 2024-04-19 |
 | [CRAZY NOISY BIZARRE TOWN \- EDM ARRANGE VER.](https://open.spotify.com/track/5TTC2xlrrZs7oM2TCYp0No) | [THE DU](https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL) | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/album/7qPAJuYABhEaSyBXx6tvCF) | 3:07 | 2023-06-27 |  |
+| [Dance with STEEL BALL RUN](https://open.spotify.com/track/4lJMMdMHq3qk2Uqld0AEkF) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [Dance with STEEL BALL RUN](https://open.spotify.com/album/18Aw5v6gvYlYNcnYnbWXof) | 4:47 | 2026-05-11 |  |
 | [Diamond is unbreakable \- Main Theme](https://open.spotify.com/track/6GqMQUzxuTG88y5WZ0HYLr) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy) | 4:07 | 2021-12-09 | 2024-04-19 |
 | [Diamond is unbreakable \- Stand Hatsudo](https://open.spotify.com/track/5DOen5nBZ36iOcLAKuFAv9) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.2 \-Good Night Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/6EjSwMnJ4X9QEbyxJJoKiT) | 3:10 | 2021-12-09 | 2024-04-19 |
 | [Distant Dreamer](https://open.spotify.com/track/0czRI0qwOQDe1tIIrsvkaK) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 5:05 | 2023-06-27 |  |
@@ -97,7 +98,7 @@
 | [スターダストクルセイダース](https://open.spotify.com/track/3ScediuEK0qJU77XEcI4o7) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険スターダストクルセイダースO.S.T\. \[World\]](https://open.spotify.com/album/7jwVVM9ULqVXvY7Apy4chh) | 5:07 | 2023-06-27 |  |
 | [ダイヤモンドは砕けない〜スタンド発動〜](https://open.spotify.com/track/1kMI7eGIkxVHd5U2ase3BA) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ダイヤモンドは砕けない O.S.T \(Vol.2〜Good Night Morioh Cho〜\)](https://open.spotify.com/album/1D6UWwuer3zZyKmIYL2fKl) | 3:10 | 2023-06-27 |  |
 | [ダイヤモンドは砕けない〜メインテーマ〜](https://open.spotify.com/track/0QPqMlD4u1yIMCHYg3huvQ) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ダイヤモンドは砕けない O.S.T \(Vol.1〜Good Morning Morioh Cho〜\)](https://open.spotify.com/album/0fa6xMDdFIp1JHlArWhJmS) | 4:07 | 2023-06-27 |  |
-| [ファイルーズあい コメント](https://open.spotify.com/track/30bWgKYHsGECq5JbUqSAxQ) | [ファイルーズあい ボイスコメント](https://open.spotify.com/artist/4dlKSVK8ZQL819SWwpEwNt) | [ファイルーズあい ボイスコメント](https://open.spotify.com/album/3ZY4GpMESrino04Mxg3NIQ) | 0:17 | 2021-12-09 |  |
+| [ファイルーズあい コメント](https://open.spotify.com/track/30bWgKYHsGECq5JbUqSAxQ) | [ファイルーズあい ボイスコメント](https://open.spotify.com/artist/4dlKSVK8ZQL819SWwpEwNt) | [ファイルーズあい ボイスコメント](https://open.spotify.com/album/3ZY4GpMESrino04Mxg3NIQ) | 0:17 | 2021-12-09 | 2026-05-12 |
 | [憩い \- Piano Ver.](https://open.spotify.com/track/6swnNYtCU8YnwucoN6LAa2) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険スターダストクルセイダースO.S.T\. \[Journey\]](https://open.spotify.com/album/4MopTqedSUFAD4fykTiy4p) | 2:01 | 2023-06-27 |  |
 | [昼下がりの杜王町](https://open.spotify.com/track/79bIwBHgDgy8qYsECBtAVU) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T～Daydream～](https://open.spotify.com/album/0wNAe0GDTckyWF7cdFZqmx) | 1:29 | 2023-06-27 |  |
 | [未来への遺産\-Jonathan's Ballad\-](https://open.spotify.com/track/1MTNb1Zj1gmSaEV4kzfzyI) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [ジョジョの奇妙な冒険 The anthology songs \(1\)](https://open.spotify.com/album/5wkgDg471DpsM7XoPEefV0) | 6:44 | 2023-06-27 |  |

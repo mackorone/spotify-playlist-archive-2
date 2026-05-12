@@ -86,6 +86,28 @@
     {
       "album": {
         "name": "100x",
+        "url": "https://open.spotify.com/album/1Pd3S7JG3dIq5aojEe1aid"
+      },
+      "artists": [
+        {
+          "name": "toniq",
+          "url": "https://open.spotify.com/artist/4Tr2wkLa9RnxF0JakBedIw"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191996,
+      "name": "100x",
+      "url": "https://open.spotify.com/track/2btHlrrG2ekbOme8cMdL6l"
+    },
+    {
+      "album": {
+        "name": "100x",
         "url": "https://open.spotify.com/album/3EohoXALySzCmrC0isMjwq"
       },
       "artists": [
@@ -278,6 +300,28 @@
       "duration_ms": 167225,
       "name": "730",
       "url": "https://open.spotify.com/track/6oHeOj42BACy9cvPyhA6g8"
+    },
+    {
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "8",
+      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
     },
     {
       "album": {
@@ -558,6 +602,28 @@
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "Always be mine",
+        "url": "https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Always be mine",
+      "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
     },
     {
       "album": {
@@ -1604,7 +1670,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 204306,
       "name": "Brother Louie Mix '98 (feat. Eric Singleton) - Radio Edit",
       "url": "https://open.spotify.com/track/2X7jfQnEMQYYmvkhr6mzS9"
@@ -1786,7 +1852,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 126060,
       "name": "CBEN CYPHER 4",
       "url": "https://open.spotify.com/track/3mBGEvk7k4RZWcsqfKZTyD"
@@ -2780,7 +2846,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 197538,
       "name": "Estelente",
       "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
@@ -3318,7 +3384,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -4972,6 +5038,28 @@
       "duration_ms": 134885,
       "name": "J\u00d3ZANOK",
       "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
+    },
+    {
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "J\u00d3\u00c9JSZAK\u00c1T",
+      "url": "https://open.spotify.com/track/3WoGALjQo5Qv7K6AG8hi5Z"
     },
     {
       "album": {
@@ -8258,7 +8346,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 139345,
       "name": "Rabszolga",
       "url": "https://open.spotify.com/track/51IUF2k7kR8AtY3dPyg4jU"
@@ -8910,7 +8998,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 128140,
       "name": "Sex Music",
       "url": "https://open.spotify.com/track/1DV9ORV9593jJdv9QPUVOF"
@@ -9509,6 +9597,28 @@
     },
     {
       "album": {
+        "name": "SZEXI BB (Bruno)",
+        "url": "https://open.spotify.com/album/4ABZ9P0EXLCPmW8xnBf3Ij"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "Bereczki Zolt\u00e1n",
+          "url": "https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163905,
+      "name": "SZEXI BB - Bruno",
+      "url": "https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl"
+    },
+    {
+      "album": {
         "name": "Szobor",
         "url": "https://open.spotify.com/album/3tnRvPQ8kTpzh7HOizXLo7"
       },
@@ -9971,6 +10081,24 @@
     },
     {
       "album": {
+        "name": "Tamburello",
+        "url": "https://open.spotify.com/album/1oGehnXD6PrZMQAPIOTM6F"
+      },
+      "artists": [
+        {
+          "name": "Fiatal Veter\u00e1n",
+          "url": "https://open.spotify.com/artist/5LtcR95XUT9MPZzAYyrPjY"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Tamburello",
+      "url": "https://open.spotify.com/track/5MHF35bYJ4K9C01e9GwAq5"
+    },
+    {
+      "album": {
         "name": "TARR B\u00c9LA",
         "url": "https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu"
       },
@@ -10271,6 +10399,28 @@
     },
     {
       "album": {
+        "name": "TITANIK",
+        "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "GHO$TY",
+          "url": "https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "TITANIK",
+      "url": "https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG"
+    },
+    {
+      "album": {
         "name": "Bomba",
         "url": "https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu"
       },
@@ -10536,7 +10686,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 225500,
       "name": "Ugye nem b\u00e1ntad meg? - Jimmy m\u00e1sk\u00e9pp",
       "url": "https://open.spotify.com/track/16xeU5JG2wmTlJXBX42rfj"

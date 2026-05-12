@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 155789,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
@@ -3759,6 +3759,36 @@
     },
     {
       "album": {
+        "name": "dedin na boca",
+        "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "DKmixx",
+          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133715,
+      "name": "dedin na boca",
+      "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
+    },
+    {
+      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -4566,7 +4596,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 68063,
       "name": "Dona de Casa",
       "url": "https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH"
@@ -6145,6 +6175,32 @@
     },
     {
       "album": {
+        "name": "MINHA VIDA \u00c9 UM FILME",
+        "url": "https://open.spotify.com/album/6CotXWudVAAlGGMZAHn5a8"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        },
+        {
+          "name": "DKmixx",
+          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145961,
+      "name": "FOTO BOMBA",
+      "url": "https://open.spotify.com/track/08eZi9hGVshIkP7E7Slri8"
+    },
+    {
+      "album": {
         "name": "Foto da Unha",
         "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
       },
@@ -6708,7 +6764,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 151942,
       "name": "GUCCI NO P\u00c9 DOS MLK",
       "url": "https://open.spotify.com/track/2BOrHikDokmX7Hw5cyKIsn"
@@ -8322,7 +8378,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 178317,
       "name": "M.P.B",
       "url": "https://open.spotify.com/track/6BZT61t4kVGC9lL5931vZv"
@@ -8687,6 +8743,40 @@
     },
     {
       "album": {
+        "name": "BASE: Barras da Leste Barras da Sul",
+        "url": "https://open.spotify.com/album/27zwXjwKqkvRexUh7kwlQv"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Sodomita",
+          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211529,
+      "name": "Mamadeira",
+      "url": "https://open.spotify.com/track/4HQMSdNaiyeGJ5Zq79i76S"
+    },
+    {
+      "album": {
         "name": "Mandaqui Mandela",
         "url": "https://open.spotify.com/album/5BJSMp5y7OLgarb5g00aCj"
       },
@@ -8718,6 +8808,40 @@
       "duration_ms": 126923,
       "name": "MANDAQUI MANDELA",
       "url": "https://open.spotify.com/track/3ixovNFamZrkvQY82IDofJ"
+    },
+    {
+      "album": {
+        "name": "MANDAQUI MANDELA",
+        "url": "https://open.spotify.com/album/5RnV1xTomy2Pd5AlfiBpWy"
+      },
+      "artists": [
+        {
+          "name": "SPVIC",
+          "url": "https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs"
+        },
+        {
+          "name": "Muzzike",
+          "url": "https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        },
+        {
+          "name": "WaraBeats",
+          "url": "https://open.spotify.com/artist/2MYzGKXSphHn7Z2G6dRbBd"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "MANDAQUI MANDELA",
+      "url": "https://open.spotify.com/track/4AsA4y2IXGDXGwrlcxGw2l"
     },
     {
       "album": {
@@ -16112,7 +16236,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
@@ -16660,6 +16784,32 @@
       "duration_ms": 131610,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
+    },
+    {
+      "album": {
+        "name": "Tipo Ludmilla",
+        "url": "https://open.spotify.com/album/6zZ7exSWNuMc6vA3GNaZb9"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Pez\u00e3o",
+          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120975,
+      "name": "Tipo Ludmilla",
+      "url": "https://open.spotify.com/track/5TcPrzM8rEjb7nrrnqKbD5"
     },
     {
       "album": {

@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
@@ -5304,7 +5304,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 540114,
       "name": "Aparto Todo",
       "url": "https://open.spotify.com/track/0vvqnyFB7jGUQm26hrt9hy"
@@ -12076,7 +12076,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 180533,
       "name": "Canto A La Madre - Tema Remasterizado",
       "url": "https://open.spotify.com/track/0ON1eJLbEYcRAP6ofjUw0r"
@@ -12444,7 +12444,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 222214,
       "name": "Carta A Mi Madre",
       "url": "https://open.spotify.com/track/6FXdXgqwCWlmRBVNNPbfAL"
@@ -13884,7 +13884,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
@@ -17818,7 +17818,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
@@ -18278,7 +18278,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 168666,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT"
@@ -19844,7 +19844,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -29161,6 +29161,24 @@
     },
     {
       "album": {
+        "name": "El Galan de la Plebada",
+        "url": "https://open.spotify.com/album/5EDnjhZIFCdKO26XkW725B"
+      },
+      "artists": [
+        {
+          "name": "Osbaldo Lopez",
+          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Gracias por Ser Mi Mama",
+      "url": "https://open.spotify.com/track/4JabFWNlcbks46OcqPSD42"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS"
       },
@@ -30868,7 +30886,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 243452,
       "name": "Himno a la Madre (Coro & Piano)",
       "url": "https://open.spotify.com/track/48yxmwX0UBuMEj7LaHvV6t"
@@ -55152,7 +55170,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -67640,7 +67658,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 79389,
       "name": "Super Snake",
       "url": "https://open.spotify.com/track/0VIKW8oNJbwWNoB6du9E5l"
@@ -69546,7 +69564,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
@@ -74144,7 +74162,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 180302,
       "name": "Un Vals para mi Madre",
       "url": "https://open.spotify.com/track/6BkKcDRYtd4DZIepEI7SS9"

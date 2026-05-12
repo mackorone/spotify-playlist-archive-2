@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 
 > Are you ready to be a Jimin's MUSE? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,445 likes - 34 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,485 likes - 34 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

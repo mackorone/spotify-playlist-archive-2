@@ -4261,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Figments Of My Imagination",
+        "url": "https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "Figments Of My Imagination",
+      "url": "https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD"
+    },
+    {
+      "album": {
         "name": "Figure Out the Rest",
         "url": "https://open.spotify.com/album/1DjvcK7HT4bjEaRdfYegLQ"
       },
@@ -7224,6 +7242,24 @@
       "duration_ms": 227460,
       "name": "Let Me Love You Now",
       "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+    },
+    {
+      "album": {
+        "name": "Letting go",
+        "url": "https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Letting go",
+      "url": "https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg"
     },
     {
       "album": {
@@ -12422,7 +12458,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 166230,
       "name": "THE GOOD LIFE",
       "url": "https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S"
@@ -13954,7 +13990,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 200571,
       "name": "WHAT'S THE RUSH?!",
       "url": "https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8"

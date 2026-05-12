@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12447,
+  "num_followers": 12445,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACy5jh5rOF54EO0Lopg2L0J",
+  "snapshot_id": "af/KgAAAAADuNfk9oDQ59CE60XZMznxF",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girlie 'O' (Remix)",
-        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 235514,
-      "name": "Girlie 'O' - Remix",
-      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yagi",
         "url": "https://open.spotify.com/album/6AggMrJjq5i8HftaQMpnJt"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 234226,
       "name": "Is It Because I Love You",
       "url": "https://open.spotify.com/track/1qfNnRKkN2tvAdFch4fOi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girlie 'O' (Remix)",
+        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 235514,
+      "name": "Girlie 'O' - Remix",
+      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Jonze",
+        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 157391,
+      "name": "No Jonze",
+      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 193718,
       "name": "Credit Alert",
       "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Jonze",
-        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 157391,
-      "name": "No Jonze",
-      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
     },
     {
       "added_at": null,
@@ -1059,18 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+        "name": "Highlife Konnect",
+        "url": "https://open.spotify.com/album/72NulXFtskbFG6htwcte2C"
       },
       "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 208355,
-      "name": "Hal\u00e9 Hal\u00e9",
-      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
+      "duration_ms": 212741,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"
     }
   ],
   "unique_name": "This Is Patoranking",

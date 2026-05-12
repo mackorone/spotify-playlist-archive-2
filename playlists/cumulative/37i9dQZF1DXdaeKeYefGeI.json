@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 263400,
       "name": "De steen",
       "url": "https://open.spotify.com/track/0C6fXVxj0nPqjkp59RpDjm"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 265997,
       "name": "dichtbij, veraf",
       "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 247893,
       "name": "Kom Hier",
       "url": "https://open.spotify.com/track/6NFDCjTgNVlhVCeNGTAuYh"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 278600,
       "name": "Mooie Dag",
       "url": "https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP"
@@ -3094,6 +3094,24 @@
       "duration_ms": 290281,
       "name": "Mozart",
       "url": "https://open.spotify.com/track/5FOTypYBBL4A502G1zQ9nz"
+    },
+    {
+      "album": {
+        "name": "Naarden-Bussum",
+        "url": "https://open.spotify.com/album/1z7aqKYuIhp7KCnE1pu75v"
+      },
+      "artists": [
+        {
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Naarden-Bussum",
+      "url": "https://open.spotify.com/track/3MC0YtaguHGeuEySmBF5Do"
     },
     {
       "album": {
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 193105,
       "name": "Vleugels",
       "url": "https://open.spotify.com/track/76PrxZSe0reQXibUtdyotI"

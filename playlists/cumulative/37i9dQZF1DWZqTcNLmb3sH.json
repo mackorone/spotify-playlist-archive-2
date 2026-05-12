@@ -2873,6 +2873,32 @@
     },
     {
       "album": {
+        "name": "Are Oo Anusha (From \"Gajanana Cricketers\")",
+        "url": "https://open.spotify.com/album/26PLbqYt8X1GSeFfA1yvkX"
+      },
+      "artists": [
+        {
+          "name": "Srajan Kumar Tonse",
+          "url": "https://open.spotify.com/artist/43Jv9Ph6w4tHafcoZJffZp"
+        },
+        {
+          "name": "Keerthan Bhandary",
+          "url": "https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn"
+        },
+        {
+          "name": "Pallavi Prabhu",
+          "url": "https://open.spotify.com/artist/7EIi4OA8oM8GemsuV3X8E0"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230198,
+      "name": "Are Oo Anusha (From \"Gajanana Cricketers\")",
+      "url": "https://open.spotify.com/track/5uF8JwGpj4988GnOYs3oLj"
+    },
+    {
+      "album": {
         "name": "Aregalige Nee (From \"Khasagi Putagalu\")",
         "url": "https://open.spotify.com/album/0Zy8m6RGv9UvKPxXqOuUwD"
       },
@@ -11704,7 +11730,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 265716,
       "name": "Ellinda Bande Neenu (From \"Katle\")",
       "url": "https://open.spotify.com/track/1PgXIN7REIlNzO32ZNlNrC"
@@ -14002,6 +14028,36 @@
       "duration_ms": 267750,
       "name": "Glaasu Glaasige - From \"Girki\"",
       "url": "https://open.spotify.com/track/0AGlSb8lpqvZknNamZNVIU"
+    },
+    {
+      "album": {
+        "name": "Gokulada Radhe (From \"Picture\")",
+        "url": "https://open.spotify.com/album/2pASTbsabxQep9U6kNNFyk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Aby",
+          "url": "https://open.spotify.com/artist/4JaDivtCGH8szhNAiwan1M"
+        },
+        {
+          "name": "Arasu Anthare",
+          "url": "https://open.spotify.com/artist/0g7RzAVhQCg5PnqSGbybHl"
+        },
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        },
+        {
+          "name": "Shilpa Ganesh",
+          "url": "https://open.spotify.com/artist/6MgrELvpBvRtKvFBQBYJH3"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211412,
+      "name": "Gokulada Radhe (From \"Picture\")",
+      "url": "https://open.spotify.com/track/3eHIpKUzmvyUqI3U1RcPpZ"
     },
     {
       "album": {
@@ -27574,7 +27630,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 327520,
       "name": "Modala Notake",
       "url": "https://open.spotify.com/track/4qfP55nlXDiNJtQiELq4Xr"

@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 516241,
+  "num_followers": 516389,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-10 09:25:21",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2026-04-10 09:25:21",
-      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 144973,
       "name": "Just You, Just Me",
       "url": "https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu"
+    },
+    {
+      "added_at": "2026-04-10 09:25:21",
+      "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2026-04-10 09:25:21",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-04-10 09:25:21",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 306133,
-      "name": "It's Crazy",
-      "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
-    },
-    {
-      "added_at": "2026-04-10 09:25:21",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2026-04-10 09:25:21",
+      "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 306133,
+      "name": "It's Crazy",
+      "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
     },
     {
       "added_at": "2026-04-10 09:25:21",
@@ -1163,6 +1163,34 @@
     {
       "added_at": "2026-04-10 09:25:21",
       "album": {
+        "name": "Buen Sabor",
+        "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        },
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Michael Edlund",
+          "url": "https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja"
+        },
+        {
+          "name": "Josef Kallerdahl",
+          "url": "https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN"
+        }
+      ],
+      "duration_ms": 482592,
+      "name": "Dakar",
+      "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
+    },
+    {
+      "added_at": "2026-04-10 09:25:21",
+      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -1191,34 +1219,6 @@
       "duration_ms": 303163,
       "name": "Thedia",
       "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
-    },
-    {
-      "added_at": "2026-04-10 09:25:21",
-      "album": {
-        "name": "Buen Sabor",
-        "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
-      },
-      "artists": [
-        {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        },
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Michael Edlund",
-          "url": "https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja"
-        },
-        {
-          "name": "Josef Kallerdahl",
-          "url": "https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN"
-        }
-      ],
-      "duration_ms": 482592,
-      "name": "Dakar",
-      "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
     },
     {
       "added_at": "2026-04-10 09:25:21",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-10 09:25:21",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
-    },
-    {
-      "added_at": "2026-04-10 09:25:21",
-      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 143800,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "added_at": "2026-04-10 09:25:21",
+      "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
     },
     {
       "added_at": "2026-04-10 09:25:21",

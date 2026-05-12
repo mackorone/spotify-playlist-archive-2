@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187570,
+  "num_followers": 187567,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,22 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+      "duration_ms": 219945,
+      "name": "Steal",
+      "url": "https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -347,22 +351,18 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
       "artists": [
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 219945,
-      "name": "Steal",
-      "url": "https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6"
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 255720,
       "name": "3 Days",
       "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Montgomery Ricky (Plus 3)",
-        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 205652,
-      "name": "Some Kind of Man",
-      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "Montgomery Ricky (Plus 3)",
+        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 205652,
+      "name": "Some Kind of Man",
+      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Two of Diamonds",
         "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 177440,
       "name": "Out of Time Man",
       "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
-        "name": "Paradis bleu",
-        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
-      },
-      "artists": [
-        {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
-        },
-        {
-          "name": "Matild",
-          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Paradis bleu",
-      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 138181,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
+        "name": "Paradis bleu",
+        "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
+      },
+      "artists": [
+        {
+          "name": "Revers Gagnant",
+          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+        },
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "Paradis bleu",
+      "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
     },
     {
       "added_at": "2026-04-30 22:02:55",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-04-30 22:02:55",
       "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
+    },
+    {
+      "added_at": "2026-04-30 22:02:55",
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 253466,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij"
-    },
-    {
-      "added_at": "2026-04-30 22:02:55",
-      "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2026-04-30 22:02:55",

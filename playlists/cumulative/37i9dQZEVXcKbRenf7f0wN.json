@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 252453,
       "name": "1, 2, Ultraviolento",
       "url": "https://open.spotify.com/track/7wB9dNk0rq08s4z3BEFTnl"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "Baila Caporal",
       "url": "https://open.spotify.com/track/2tl8w8UHPj5b5MjBYlIer4"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 186848,
       "name": "Bailando Como Mono",
       "url": "https://open.spotify.com/track/78W3YEn0ftQh6aalbJNzCm"
@@ -8112,7 +8112,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 255720,
       "name": "Candombe Para Jos\u00e9",
       "url": "https://open.spotify.com/track/6AkRD0PiHw6DYKTUefJzAg"
@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 178000,
       "name": "Combo Final",
       "url": "https://open.spotify.com/track/0zDKhwh35eqYyiIt9z03Wj"
@@ -10566,6 +10566,24 @@
       "duration_ms": 211280,
       "name": "Corvus Corax",
       "url": "https://open.spotify.com/track/6EBFCqzCLHcfeVG41Xebr6"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/03DIfV0XfPwmCLSoAgzCRJ"
+      },
+      "artists": [
+        {
+          "name": "Grafy",
+          "url": "https://open.spotify.com/artist/57gT8Cq7OyTpCNhOVYrrWR"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Coshino",
+      "url": "https://open.spotify.com/track/315Z7ANJcBrEOWSkwtIonW"
     },
     {
       "album": {
@@ -15199,6 +15217,24 @@
     },
     {
       "album": {
+        "name": "Cuerpo Repartido",
+        "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
+      },
+      "artists": [
+        {
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154226,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
+    },
+    {
+      "album": {
         "name": "Evil",
         "url": "https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl"
       },
@@ -15264,7 +15300,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -15592,7 +15628,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 135546,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/5hbprTqXilqPGuytq83451"
@@ -15664,7 +15700,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 192293,
       "name": "El Juego Verdadero",
       "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
@@ -15718,7 +15754,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 261066,
       "name": "El Mercado de Testaccio - Instrumental",
       "url": "https://open.spotify.com/track/2s5e8aHwinh3SUEcxvfjav"
@@ -15816,7 +15852,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 237396,
       "name": "El Otro Chile",
       "url": "https://open.spotify.com/track/6NxXtGRGKVDfhuza8CJn5G"
@@ -16122,7 +16158,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 235773,
       "name": "El Vino",
       "url": "https://open.spotify.com/track/0QEwqbdIMbshSPzcFpx1eV"
@@ -16338,7 +16374,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 245640,
       "name": "Eligiendo Una Reina",
       "url": "https://open.spotify.com/track/4isHeZRxdYw7IgGvl8OPwq"
@@ -16554,7 +16590,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 165564,
       "name": "En Bol\u00e1 de Lah Laah Laaah",
       "url": "https://open.spotify.com/track/7aZVgIuf4mrCKhqwat7rT1"
@@ -16680,7 +16716,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 262880,
       "name": "En un Largo Tour",
       "url": "https://open.spotify.com/track/7KJr365Ld0o8ajIfR0wIpV"
@@ -25764,7 +25800,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 177764,
       "name": "Iorana",
       "url": "https://open.spotify.com/track/7Ky3mZO0628C8J1RimUWyP"
@@ -26664,7 +26700,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 183019,
       "name": "JUDGMENT (Stage 1-1)",
       "url": "https://open.spotify.com/track/3EsGUYVD7E3nOFlb5tCyo6"
@@ -27853,6 +27889,32 @@
     },
     {
       "album": {
+        "name": "El Laboratorio Lacteo",
+        "url": "https://open.spotify.com/album/6qGHgylzQbeG2Zay9DIUuT"
+      },
+      "artists": [
+        {
+          "name": "Lechero Mon",
+          "url": "https://open.spotify.com/artist/5M9hvwevD5Aax121KCeKPd"
+        },
+        {
+          "name": "ZKT1 TRIBU",
+          "url": "https://open.spotify.com/artist/5lU8pGcPYGbSRxuCi5wDWI"
+        },
+        {
+          "name": "DJ Bichote",
+          "url": "https://open.spotify.com/artist/1d4z8qnWtHTGKordIqe2o3"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182601,
+      "name": "La Calle es Arte",
+      "url": "https://open.spotify.com/track/02ORfIJTT5VAcKOAnBG68N"
+    },
+    {
+      "album": {
         "name": "Imperio de la Cumbia",
         "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
       },
@@ -27972,7 +28034,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -27990,7 +28052,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 187266,
       "name": "La Corbata de Mi T\u00edo",
       "url": "https://open.spotify.com/track/6C9EyEJDlOXRRHM8PluVfH"
@@ -28700,7 +28762,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 173093,
       "name": "La Rabia",
       "url": "https://open.spotify.com/track/6ASifNY2I52rr80COG2Rj9"
@@ -30398,7 +30460,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 131106,
       "name": "Llorando Ausencia",
       "url": "https://open.spotify.com/track/0oYhhckOA2JrLprhgPV3Ot"
@@ -30488,7 +30550,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 188053,
       "name": "Loca",
       "url": "https://open.spotify.com/track/01VMPSphGhG2hQiDQ3m5QJ"
@@ -30550,7 +30612,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Locura Espacial",
       "url": "https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4"
@@ -32526,7 +32588,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 215081,
       "name": "Mar\u00eda, Mar\u00eda",
       "url": "https://open.spotify.com/track/1fFAAiLxKBghKsQzw3KMKd"
@@ -33582,7 +33644,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 140812,
       "name": "Miren Como Sonr\u00eden",
       "url": "https://open.spotify.com/track/3QCQ85TY6ZDsQMSOHtImnT"
@@ -33676,6 +33738,24 @@
       "duration_ms": 134933,
       "name": "Misirlou",
       "url": "https://open.spotify.com/track/7wWIhN947etKKsGOlcTgaH"
+    },
+    {
+      "album": {
+        "name": "Evoluciona",
+        "url": "https://open.spotify.com/album/2qs0JEFMOnn9yNHHsQYesf"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145718,
+      "name": "Misis Gui\u00f1i",
+      "url": "https://open.spotify.com/track/1cIshWeBy31zCZA2VueOQf"
     },
     {
       "album": {
@@ -34480,7 +34560,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 248893,
       "name": "Muevan Las Industrias",
       "url": "https://open.spotify.com/track/0NhbvFZXkZPWxPcQdtVFLZ"
@@ -34574,7 +34654,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 264000,
       "name": "Mujeres y Cerveza",
       "url": "https://open.spotify.com/track/4OQFEhBjUxb8BgS22p0VAU"
@@ -38744,7 +38824,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 225764,
       "name": "Paramar",
       "url": "https://open.spotify.com/track/0nMtBJkx4cyzmLf3Gwhafv"
@@ -41254,7 +41334,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 196106,
       "name": "Puta Jefe",
       "url": "https://open.spotify.com/track/3bKvtihPA72hDEHBJnmHjh"
@@ -42128,7 +42208,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 209172,
       "name": "Rebeld\u00eda Poblacional",
       "url": "https://open.spotify.com/track/02KaWcg6OPXuQD1w7FrgoG"
@@ -42884,7 +42964,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Rock Del Mundial",
       "url": "https://open.spotify.com/track/7M9UVXh4U227MXzhSLD4Pp"
@@ -43752,7 +43832,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 234280,
       "name": "Sakate Uno",
       "url": "https://open.spotify.com/track/06fawjV5hKobNhHF82dKMl"
@@ -43896,7 +43976,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 217072,
       "name": "Sanatorio",
       "url": "https://open.spotify.com/track/08M8WLtopXYfdz47acMCad"
@@ -49086,7 +49166,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 286506,
       "name": "Sube a Nacer Conmigo Hermano",
       "url": "https://open.spotify.com/track/3EvvlSne1RKjPYJsi1qKpl"
@@ -54310,7 +54390,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 345096,
       "name": "Todos Juntos - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/2K0z6L77gmn3Wl0MHMtE0G"
@@ -54808,7 +54888,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 128183,
       "name": "Toy Con Ca\u00f1a - En vivo",
       "url": "https://open.spotify.com/track/0E6crMvN1bVUBCJ4mHPBJl"
@@ -55786,7 +55866,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 191560,
       "name": "Un Beso y Una Flor",
       "url": "https://open.spotify.com/track/4vNetk8Sx2OY4JIbNBRyZA"
@@ -56370,7 +56450,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 154489,
       "name": "Uru Te Hami",
       "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
@@ -60804,7 +60884,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 242493,
       "name": "\u00c1ngeles Fuimos",
       "url": "https://open.spotify.com/track/16rIILwXsRYk8TfCaPp8z6"

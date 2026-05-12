@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Vidusan Kaneswaran
 
-779 songs - 1 day 20 hr 8 min
+780 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Thaaye](https://open.spotify.com/track/2tC6NKLWE0kkDcgWPy7rml) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Thaaye](https://open.spotify.com/album/5zeW1rAchG4xtwGECHXsGX) | 4:55 | 2023-09-22 | 2024-04-02 |
 | [Thaayumanaval](https://open.spotify.com/track/3bzbYkGu9bLYqGQXsH6gTf) | [Keshav Ram](https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7), [Srimathi](https://open.spotify.com/artist/6MHzZZUYcNVfYQCIMxjxMX), [LOGI DARAN](https://open.spotify.com/artist/583CGxjrYJoN2wYs1cXgff) | [Thaayumanaval](https://open.spotify.com/album/7e3O2ud9oEvO7PsZHMLDmp) | 2:58 | 2025-03-19 | 2025-03-30 |
 | [Thaedi Thaedi](https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no) | [Shankara](https://open.spotify.com/artist/5XesAyDCfSO2lx0U3bDK2U), [Shreyaa Srinivasan](https://open.spotify.com/artist/4CiHuJC6WQIngy0CBv9XEP) | [En Kadhalum](https://open.spotify.com/album/5pCbSjKNmk6A9l77QthRXB) | 4:20 | 2026-02-23 |  |
+| [Thaimayo](https://open.spotify.com/track/2pl0P5Tnepb6NMCeyPx1xv) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Thaimayo](https://open.spotify.com/album/0WLB1iGxYMJsX6xtlmxz9b) | 4:03 | 2026-05-11 |  |
 | [Thakam illai yendrale](https://open.spotify.com/track/76rjmcyamoT5M5kZVmKWic) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [Mansi Marshalla](https://open.spotify.com/artist/1IHD6Wz6CXiAOzMzJ9VG6R) | [Thakam illai yendrale](https://open.spotify.com/album/033c6uLf6rLulZOBBwG5j4) | 3:59 | 2024-11-19 | 2024-12-06 |
 | [Thakida Thaha Thaha](https://open.spotify.com/track/08pNMQbnifUtYFWRWzHVBc) | [Shaju Dhanaraj](https://open.spotify.com/artist/3jawSTah689hO6LD9JnVTV), [prasanna](https://open.spotify.com/artist/1df6x4uBRCdIDrDWik3yJl) | [Thakida Thaha Thaha](https://open.spotify.com/album/2jDSqjyhG4syPd5uHc96ep) | 4:20 | 2024-10-04 | 2025-02-05 |
 | [Thalaimurai](https://open.spotify.com/track/0U6NR1jqmslRonec4FHjI0) | [Samson](https://open.spotify.com/artist/4kgDn0gghgRb6JMYmiChDQ) | [Thalaimurai](https://open.spotify.com/album/64ubBdVV2I7QE7NYg5dcOQ) | 5:27 | 2024-01-31 | 2024-06-15 |

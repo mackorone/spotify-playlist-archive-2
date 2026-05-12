@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
 
-984 songs - 2 day 5 hr 34 min
+985 songs - 2 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Daybreak](https://open.spotify.com/track/1KTF3VM3K8BG02jMS6EeJk) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Daybreak](https://open.spotify.com/album/0DWHw48fL8FFeVUOjgekS6) | 3:35 | 2025-03-19 | 2025-03-26 |
 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 | 2024-02-20 | 2024-05-29 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-05-29 |
+| [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 | 2026-05-11 |  |
 | [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 | 2026-03-17 |  |
 | [Dealio!?](https://open.spotify.com/track/0QiNhV9XSsnQxVWzZtjiO5) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/55rN1Mparq98YdjAH8PrbD) | 3:02 | 2025-05-06 | 2025-07-16 |
 | [Dear DIVA](https://open.spotify.com/track/4vCZibK8wRUrHgHQ58FkWN) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [Dear DIVA](https://open.spotify.com/album/4yQDzvSV87kmm3GDg1G6lq) | 3:28 | 2025-11-18 | 2025-12-10 |
@@ -351,7 +352,7 @@
 | [Highs and Lows](https://open.spotify.com/track/3YCLoxizfJ9CFenVAAyuOK) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Unpiltered](https://open.spotify.com/album/3kty6WKxv7NDe3qZkPtqUG) | 2:48 | 2026-04-03 |  |
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-03 | 2025-03-07 |
 | [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 | 2025-06-10 | 2025-10-21 |
-| [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 | 2025-10-20 |  |
+| [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 | 2025-10-20 | 2026-05-12 |
 | [Homeboys](https://open.spotify.com/track/5dK9B2ItDXvTIGYMfDZrrS) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/1R7e1FHHGKNtT6uWqok07p) | 3:19 | 2025-01-07 | 2025-02-12 |
 | [HOOK](https://open.spotify.com/track/2s8xjkUjilmy42qhdvuHio) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [1.Got Hooked: An Addictive Symphony](https://open.spotify.com/album/4CwdD6lr6ITamrq6jHXa9l) | 2:59 | 2026-04-13 |  |
 | [HOOKED](https://open.spotify.com/track/6ft8y5BcL5tvLxe0z9H5Pn) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [HOOKED](https://open.spotify.com/album/06xraIG7LKvqtBQX7jsgo5) | 3:19 | 2026-02-17 | 2026-02-25 |

@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
-  "num_followers": 81449,
+  "num_followers": 81546,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeACk5qcc+/QY5tcxMMG1bd0eqC",
+  "snapshot_id": "AAAAAAHTHnbxcFt7LKqOBXav/hwSz7Kk",
   "tracks": [
     {
       "added_at": "2026-05-08 04:01:49",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/5sIE6BxU0nQhfIl2nPEpvG"
     },
     {
+      "added_at": "2026-05-11 13:32:43",
+      "album": {
+        "name": "Bass Electronic",
+        "url": "https://open.spotify.com/album/0YzPt9qBgevGuh1BWGZ6Dr"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 325970,
+      "name": "Call It What You Like",
+      "url": "https://open.spotify.com/track/0o92pLHQhjyP2FdieF7xqw"
+    },
+    {
       "added_at": "2026-04-17 04:04:08",
       "album": {
         "name": "DJ Boeie",
@@ -873,22 +889,6 @@
       "url": "https://open.spotify.com/track/2blaFgkbntstxZBGEmXITG"
     },
     {
-      "added_at": "2026-04-10 17:34:49",
-      "album": {
-        "name": "Dark Web Pinger",
-        "url": "https://open.spotify.com/album/4jhsNapiEPLqFvJzFaLSp3"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 221722,
-      "name": "Thief Of Joy",
-      "url": "https://open.spotify.com/track/68ZJzkHSvxY2Mp3e1YhaAl"
-    },
-    {
       "added_at": "2026-03-27 17:45:51",
       "album": {
         "name": "Down To The Bone",
@@ -1025,7 +1025,7 @@
         }
       ],
       "duration_ms": 211875,
-      "name": "goes like this - radio edit",
+      "name": "goes like this",
       "url": "https://open.spotify.com/track/2UlFidIgZvvdnPwuO4kLlQ"
     },
     {

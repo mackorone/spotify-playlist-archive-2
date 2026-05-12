@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62909,
+  "num_followers": 62918,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Cascade of\u2026\u300cGraceful Punishment\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
-        "url": "https://open.spotify.com/album/1haeoh1yJjIXywnz11CIUT"
-      },
-      "artists": [
-        {
-          "name": "Cascade of\u2026",
-          "url": "https://open.spotify.com/artist/0mMBXmoaSIhqgxkLLsY8UT"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 259871,
-      "name": "Graceful Punishment",
-      "url": "https://open.spotify.com/track/63zae15sg8CriJSruguGuX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Crazy:B\u300cUTAKATA DANCE FLOOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/7IL5MKNaGP5Un8ZwcV6nDS"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 196125,
       "name": "UTAKATA DANCE FLOOR",
       "url": "https://open.spotify.com/track/3xQc38Pnh2pus6REcexcep"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Cascade of\u2026\u300cGraceful Punishment\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/1haeoh1yJjIXywnz11CIUT"
+      },
+      "artists": [
+        {
+          "name": "Cascade of\u2026",
+          "url": "https://open.spotify.com/artist/0mMBXmoaSIhqgxkLLsY8UT"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 259871,
+      "name": "Graceful Punishment",
+      "url": "https://open.spotify.com/track/63zae15sg8CriJSruguGuX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Dear World (Short ver.)",
-        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 145300,
-      "name": "Dear World - Short ver.",
-      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
         "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 280665,
       "name": "\u30bb\u30c4\u30caDrops",
       "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Dear World (Short ver.)",
+        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 145300,
+      "name": "Dear World - Short ver.",
+      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Voice of Sword",
+      "url": "https://open.spotify.com/track/4tKSR384aGgqztbVSIM7V4"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
         "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
       },
@@ -1499,6 +1515,70 @@
       "duration_ms": 187840,
       "name": "Noir Neige",
       "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/3p0JxFxyWuqvL7HzSlws4P"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Birthday of Music!",
+      "url": "https://open.spotify.com/track/0TcBOfm7HGz9LR8sQdNCgc"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30a4\u30c8\u30ad\u30e9\u30fc\u30ba/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd\u5149)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u4ec1\u514e\u306a\u305a\u306a(CV.\u7c73\u5185\u4f51\u5e0c)",
+          "url": "https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Crush of Judgment",
+      "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)",
+          "url": "https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Ironic Blue",
+      "url": "https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "Knights/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u702c\u540d\u6cc9(CV.\u4f0a\u85e4\u30de\u30b5\u30df)\u3001\u6714\u9593\u51db\u6708(CV.\u5c71\u4e0b\u5927\u8f1d)\u3001\u9cf4\u4e0a\u5d50(CV.\u5317\u6751\u8ad2)\u3001\u6731\u685c\u53f8(CV.\u571f\u7530\u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Grateful allegiance",
+      "url": "https://open.spotify.com/track/1k30Wm1kuCz97Jy7Iu7AnD"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1531,86 +1611,6 @@
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
-      },
-      "artists": [
-        {
-          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "Trap For You",
-      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Crazy:B",
-        "url": "https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ"
-      },
-      "artists": [
-        {
-          "name": "Crazy:B/\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u690e\u540d \u30cb\u30ad(CV.\u5c71\u53e3 \u667a\u5e83)",
-          "url": "https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Honeycomb Summer",
-      "url": "https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Valkyrie",
-        "url": "https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "\u795d\u798f\u306eLibrary",
-      "url": "https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f UNDEAD",
-        "url": "https://open.spotify.com/album/62jk8EoHjZXcdRI4yFtqsn"
-      },
-      "artists": [
-        {
-          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Resurrection of Soul",
-      "url": "https://open.spotify.com/track/0oRhF03OXQWZD0P2Ak2kp6"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Trickstar",
-        "url": "https://open.spotify.com/album/0KVxcYIee4ypG2hmdFCPxH"
-      },
-      "artists": [
-        {
-          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Infinite Star",
-      "url": "https://open.spotify.com/track/6cdy5p6uHiTT1urG1NUFnc"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

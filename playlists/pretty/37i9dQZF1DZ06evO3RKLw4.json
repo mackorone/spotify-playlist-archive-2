@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50523,
+  "num_followers": 50527,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAjhsE8PWPERlgJ/RXuvyfa",
+  "snapshot_id": "af/KgAAAAABa/RcK6imglJN+zV7BeBvT",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Dominoes Fall",
-      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+      "duration_ms": 120480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 120480,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+      "duration_ms": 163506,
+      "name": "Dominoes Fall",
+      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
     },
     {
       "added_at": null,

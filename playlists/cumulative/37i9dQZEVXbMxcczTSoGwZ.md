@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,250 songs - 7 day 2 hr 19 min
+3,251 songs - 7 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Basilikanlehtiä](https://open.spotify.com/track/59dLug7VWleLt2vqUjqZYW) | [Paperi T](https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu), [Ringa Manner](https://open.spotify.com/artist/7y3uvzm0oMkZ9HAUOFyumv) | [Basilikanlehtiä](https://open.spotify.com/album/2hlU1AL8VixQMCQbrZoMDs) | 3:03 | 2023-03-04 | 2023-03-12 |
 | [BB](https://open.spotify.com/track/73VvJTg4hvYsuDXPMO7eD9) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [NOIDANKEHÄ](https://open.spotify.com/album/7wQUA6wEvkiBriwyfmAIJf) | 1:51 | 2024-10-12 | 2024-10-14 |
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-06-24 | 2023-06-27 |
+| [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 | 2026-05-11 |  |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-08 | 2025-03-10 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-04-14 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-07 | 2024-04-07 |
@@ -1034,7 +1035,7 @@
 | [Iäisyys](https://open.spotify.com/track/62vAMU7rPPJNxUMKPmmGzS) | [Raappana](https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0) | [Iäisyys](https://open.spotify.com/album/0Q3ZCmfpAMweBRtWCQOZsR) | 2:39 | 2022-01-15 | 2022-01-17 |
 | [I’m That Bitch](https://open.spotify.com/track/2kX8WvFV5XffNI73vepLxX) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [I’m That Bitch](https://open.spotify.com/album/1oSi0obZtZFP7DqHppRYeP) | 2:44 | 2025-09-20 | 2025-09-28 |
 | [I’m The Man](https://open.spotify.com/track/71V6ZucZBztyiiWS24hEoi) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 2:52 | 2025-10-18 | 2025-10-24 |
-| [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 | 2026-04-25 |  |
+| [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 | 2026-04-25 | 2026-05-12 |
 | [Jackson \(feat\. Ares\)](https://open.spotify.com/track/532DluOcsx4nLtJoP53eBy) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 | 2025-04-05 | 2025-04-20 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-05 |
 | [Janne paina kaasua \(JPK\)](https://open.spotify.com/track/3oCfkdQXRhryVoxWXB3XG2) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Janne paina kaasua \(JPK\)](https://open.spotify.com/album/5Z88T4GfkQo5Wcmfakal0u) | 2:57 | 2025-10-18 | 2025-10-20 |

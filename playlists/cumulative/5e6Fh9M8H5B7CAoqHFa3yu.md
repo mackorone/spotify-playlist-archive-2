@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,207 songs - 5 day 10 hr 36 min
+2,208 songs - 5 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [FIRST](https://open.spotify.com/track/553SWInFyd53tSE1pG7bgG) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:49 | 2025-12-01 |  |
 | [FIRST \- LIVE AT THE PUB](https://open.spotify.com/track/2Hbsuhl4xxHs6Nb4cARevw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST \(LIVE AT THE PUB\)](https://open.spotify.com/album/7dSAOE0d05FwcUYrbFadqh) | 3:42 | 2026-02-01 |  |
 | [First day of the month](https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 2:45 | 2025-10-21 |  |
-| [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 | 2026-05-10 |  |
+| [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 | 2026-05-10 |  |
 | [Fleeting Moments](https://open.spotify.com/track/054ywE1bujWhjkPfECvg6U) | [Javier](https://open.spotify.com/artist/3fEkFHLCGHSQ2YNM3dyz0P) | [Echoes of Tomorrow](https://open.spotify.com/album/00NEKdR6p91zs5Q5VHUTT9) | 4:14 | 2025-05-26 |  |
 | [Flexzolit](https://open.spotify.com/track/6XIAG7gM4CDFIP2fJywGwA) | [Gregory Shaggy](https://open.spotify.com/artist/4ln0VnkzzqUmTTwBK9Io1w), [Jojo Wavy](https://open.spotify.com/artist/4xq9B09qPeGipdrCRm7ZbQ) | [Flexzolit](https://open.spotify.com/album/2uwqZx5lkldkvzyIYGq6XC) | 2:25 | 2025-12-15 |  |
 | [Flor de invierno](https://open.spotify.com/track/1SiM61PihSYyAkj6aGp7cD) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 3:06 | 2026-04-12 |  |
@@ -1003,6 +1003,7 @@
 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [IlostmyTime](https://open.spotify.com/artist/2bGSCoX6Q2o1TPU7PiQVIW) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 | 2025-12-05 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-05-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/4OFDrbVd4DghiROQDaUOEo) | [Shaunie Littlehawk](https://open.spotify.com/artist/57gkrsc5LCKSx5HhayMdRS) | [Just the Way You Are](https://open.spotify.com/album/5R6L1PsDpq7aQyjCjSIiDl) | 3:36 | 2025-08-27 |  |
+| [Justin](https://open.spotify.com/track/2Sz2PJ4WHrJXlHstvPiGjS) | [The Oats](https://open.spotify.com/artist/4AN73N32ZF93Eil03Gr53B) | [Justin](https://open.spotify.com/album/6d5DFkT0xMXWP102bh9uGb) | 2:02 | 2026-05-11 |  |
 | [Já Passou](https://open.spotify.com/track/7fvHdcahzAowY87qxH0DAr) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF) | [Já Passou](https://open.spotify.com/album/1PkxmiYvELPJlzd0FGYQvx) | 3:12 | 2026-01-04 |  |
 | [JÚRAME](https://open.spotify.com/track/3k84ODqVFmZJ0tkxMnUXRQ) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj) | [JÚRAME](https://open.spotify.com/album/0GXNP93mlH7LF68LELP0l9) | 3:13 | 2026-02-11 |  |
 | [Kann es sein](https://open.spotify.com/track/2qalkc1bt00V1tJQEqPIqr) | [Sophie Elora](https://open.spotify.com/artist/0Usozu4rpNTwvf5hmNZjEH) | [Kann es sein](https://open.spotify.com/album/2Z7cggJZERFnOp1h9alMH3) | 4:37 | 2025-06-11 |  |

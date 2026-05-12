@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39844,
+  "num_followers": 39849,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAA1ZyjDJeFJ0S5RTi2/HTfZ",
+  "snapshot_id": "af/KgAAAAACklLUHSFw6GqEfCcvCEltc",
   "tracks": [
     {
       "added_at": null,
@@ -867,26 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
+        "name": "4 1 Nite",
+        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
       },
       "artists": [
         {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "Mike Smiff",
+          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
+      "duration_ms": 205296,
+      "name": "4 1 Nite",
+      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
     },
     {
       "added_at": null,
@@ -919,22 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 1 Nite",
-        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
+        "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
       },
       "artists": [
         {
-          "name": "Mike Smiff",
-          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 205296,
-      "name": "4 1 Nite",
-      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
+      "duration_ms": 202226,
+      "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
     },
     {
       "added_at": null,

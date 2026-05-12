@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 602449,
+  "num_followers": 602422,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "No tenemos prisa",
-        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
-      },
-      "artists": [
-        {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
-        },
-        {
-          "name": "Eleonor",
-          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Como una punzada",
-      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "No tenemos prisa",
+        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
+      },
+      "artists": [
+        {
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+        },
+        {
+          "name": "Eleonor",
+          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Como una punzada",
+      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Noche Fr\u00eda",
+        "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 195613,
       "name": "Amores",
       "url": "https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Noche Fr\u00eda",
-        "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
     },
     {
       "added_at": "2025-01-10 16:11:48",

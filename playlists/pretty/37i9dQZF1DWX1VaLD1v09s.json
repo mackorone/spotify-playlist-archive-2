@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87912,
+  "num_followers": 87904,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Resurrection Day",
+      "url": "https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "American Prodigal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 236666,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/0d2svMT7Gaisn7RY4cJRDN"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Resurrection Day",
-      "url": "https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g"
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Yes I Will",
-        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "When The Light Comes",
         "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 292289,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "JESUS",
-        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "JESUS",
-      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "JESUS",
+        "url": "https://open.spotify.com/album/03UHVZU8WsMFroHVWm6hJc"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "JESUS",
+      "url": "https://open.spotify.com/track/7ezBWjqG5tdtvyXcg3toYf"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "LIVE FROM IO WKND",
-        "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Clay Finnesand",
-          "url": "https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4"
-        }
-      ],
-      "duration_ms": 312898,
-      "name": "How Great The Love Of God - Live",
-      "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Glorious Day: Hymns of Faith",
         "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
@@ -1827,6 +1807,22 @@
       "duration_ms": 237000,
       "name": "At Calvary",
       "url": "https://open.spotify.com/track/6EfFgQ5aPRJp7oinHiRMFQ"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "Mercy - Live",
+      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1851,34 +1847,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+        "name": "LIVE FROM IO WKND",
+        "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "Mercy - Live",
-      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
-      },
-      "artists": [
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Clay Finnesand",
+          "url": "https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4"
         }
       ],
-      "duration_ms": 238306,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
+      "duration_ms": 312898,
+      "name": "How Great The Love Of God - Live",
+      "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1899,6 +1883,22 @@
       "duration_ms": 329680,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Nothing But The Blood (Live)",
-        "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
-      },
-      "artists": [
-        {
-          "name": "Journey Worship Co.",
-          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
+      },
+      "artists": [
+        {
+          "name": "Journey Worship Co.",
+          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Everlasting God: 25 Modern Worship Favorites",
+        "url": "https://open.spotify.com/album/0evyT1Z2NZBf3RuOneAJMf"
+      },
+      "artists": [
+        {
+          "name": "Nichole Nordeman",
+          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/6Z9VnA44P3PQ3gzJxs2F1H"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 480240,
       "name": "We Shall Behold Him/Behold The Lamb",
       "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Everlasting God: 25 Modern Worship Favorites",
-        "url": "https://open.spotify.com/album/0evyT1Z2NZBf3RuOneAJMf"
-      },
-      "artists": [
-        {
-          "name": "Nichole Nordeman",
-          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/6Z9VnA44P3PQ3gzJxs2F1H"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "The Crucifixion of Jesus",
+        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Stay With Me Here",
+      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Rose Again (3 Days)",
         "url": "https://open.spotify.com/album/5chaSPc8W53pnDFt6t0HKp"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 162608,
       "name": "Rose Again (3 Days)",
       "url": "https://open.spotify.com/track/2zv4PW9Rs1NdcZ4cEkmUmF"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "The Crucifixion of Jesus",
-        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Stay With Me Here",
-      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
     },
     {
       "added_at": "2026-04-04 06:04:53",

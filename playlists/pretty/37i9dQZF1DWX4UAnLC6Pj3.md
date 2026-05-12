@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda Corona del Rey 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,301,662 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,665 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 58 | [Vete](https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Vete](https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA) | 3:33 |
 | 59 | [Quererte Mucho](https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Quererte Mucho](https://open.spotify.com/album/1800xp5HQliVuxyEodwdF8) | 3:17 |
 | 60 | [Sentimental \- En Vivo](https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Sentimental \(En Vivo\)](https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr) | 2:48 |
-| 61 | [De Rodillas Te Pido](https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB) | [Izaak G](https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ), [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [De Rodillas Te Pido](https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5) | 3:02 |
-| 62 | [Si Se Trata De Ti](https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [No Tiene Precio](https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B) | 3:03 |
-| 63 | [Báilame](https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Báilame](https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn) | 2:44 |
-| 64 | [Cuando sufre un corazón](https://open.spotify.com/track/59r7ej9BZVNVM7NIcLVwMl) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Cuando sufre un corazón](https://open.spotify.com/album/6CcsGgaUtkEiepOGk6Cc2X) | 3:41 |
-| 65 | [Copa de Vino](https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [En Vivo Desde La Oficina](https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc) | 2:24 |
+| 61 | [Si Se Trata De Ti](https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [No Tiene Precio](https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B) | 3:03 |
+| 62 | [Cuando sufre un corazón](https://open.spotify.com/track/59r7ej9BZVNVM7NIcLVwMl) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Cuando sufre un corazón](https://open.spotify.com/album/6CcsGgaUtkEiepOGk6Cc2X) | 3:41 |
+| 63 | [De Rodillas Te Pido](https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB) | [Izaak G](https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ), [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [De Rodillas Te Pido](https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5) | 3:02 |
+| 64 | [Copa de Vino](https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [En Vivo Desde La Oficina](https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc) | 2:24 |
+| 65 | [Báilame](https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Báilame](https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn) | 2:44 |
 | 66 | [Parece Chiste](https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Parece Chiste](https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E) | 2:55 |
 | 67 | [Baila](https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Baila](https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo) | 2:42 |
 | 68 | [Se Me Salió Una Lagrimita](https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Se Me Salió Una Lagrimita](https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr) | 2:45 |

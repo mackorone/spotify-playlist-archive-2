@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/4E7isUoQJdMvDUkMS8Tkez"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193810,
+      "name": "12 Saal",
+      "url": "https://open.spotify.com/track/0DOX77CWVte9opcJY3JeR1"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -838,6 +856,24 @@
       "duration_ms": 271698,
       "name": "Agency",
       "url": "https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR"
+    },
+    {
+      "album": {
+        "name": "Aitbaar Dendi Han",
+        "url": "https://open.spotify.com/album/24wPkBwsYhYMxo71s5dv5P"
+      },
+      "artists": [
+        {
+          "name": "Sarmad Qadeer",
+          "url": "https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165618,
+      "name": "Aitbaar Dendi Han",
+      "url": "https://open.spotify.com/track/4INrmb6bbGSjRM5z5hRmvB"
     },
     {
       "album": {
@@ -4436,6 +4472,32 @@
       "duration_ms": 130343,
       "name": "Hail",
       "url": "https://open.spotify.com/track/1UG1pIgd5f1NU0byyGfm6w"
+    },
+    {
+      "album": {
+        "name": "Hairan Amanam",
+        "url": "https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Rizwan Abbas",
+          "url": "https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0"
+        },
+        {
+          "name": "Maheen Sattar",
+          "url": "https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309945,
+      "name": "Hairan Amanam",
+      "url": "https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV"
     },
     {
       "album": {
@@ -12215,6 +12277,28 @@
     },
     {
       "album": {
+        "name": "Tum Na Ho",
+        "url": "https://open.spotify.com/album/2LJzRpHLbu88KdcFLdn2KE"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170705,
+      "name": "Tum Na Ho",
+      "url": "https://open.spotify.com/track/0Pm2OPYWunQUhF1a0EATed"
+    },
+    {
+      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -12804,6 +12888,28 @@
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
+    },
+    {
+      "album": {
+        "name": "WHERE R U",
+        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
+      },
+      "artists": [
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221935,
+      "name": "WHERE R U",
+      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
     },
     {
       "album": {

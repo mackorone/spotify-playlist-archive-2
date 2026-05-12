@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Året Var
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,163 likes - 249 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,165 likes - 249 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

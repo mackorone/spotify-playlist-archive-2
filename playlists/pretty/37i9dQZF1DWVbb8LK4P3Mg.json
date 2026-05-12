@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 153769,
+  "num_followers": 153743,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Gift For You",
-        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
       "artists": [
         {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Gift For You",
-      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -879,34 +879,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+        "name": "Gift For You",
+        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
         }
       ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+      "duration_ms": 213986,
+      "name": "Gift For You",
+      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -927,6 +911,22 @@
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Jingle Bell Love",
-        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
-      },
-      "artists": [
-        {
-          "name": "Yunsae",
-          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
-        }
-      ],
-      "duration_ms": 154989,
-      "name": "Jingle Bell Love",
-      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 146962,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Jingle Bell Love",
+        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
+      },
+      "artists": [
+        {
+          "name": "Yunsae",
+          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
+        }
+      ],
+      "duration_ms": 154989,
+      "name": "Jingle Bell Love",
+      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Winter Theater",
-      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "MUST HAVE",
         "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 196920,
       "name": "Must Have Love",
       "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Winter Theater",
+      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "First Snow",
-        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
-      },
-      "artists": [
-        {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "First Snow",
-      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1699,6 +1679,26 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Letters to Santa",
         "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 159616,
       "name": "I Still Believe in Santa",
       "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Heart of Christmas",
+        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heart of Christmas",
+      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1739,18 +1755,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Heart of Christmas",
-        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
       "artists": [
         {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Heart of Christmas",
-      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1767,6 +1783,22 @@
       "duration_ms": 159835,
       "name": "The Christmas Number 12",
       "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1791,38 +1823,6 @@
       "duration_ms": 227460,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
-      },
-      "artists": [
-        {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

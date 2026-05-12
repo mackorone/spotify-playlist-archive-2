@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 129930,
       "name": "110 Hoog",
       "url": "https://open.spotify.com/track/39VDuYazMx3BUTPMJ90moQ"
@@ -31398,6 +31398,28 @@
       "duration_ms": 128198,
       "name": "Splash",
       "url": "https://open.spotify.com/track/0W5T6KsHZH1XfOTLnuWlgg"
+    },
+    {
+      "album": {
+        "name": "Splash 2.0",
+        "url": "https://open.spotify.com/album/5BfDMZ48RB2V908K76kZnC"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "Indjo",
+          "url": "https://open.spotify.com/artist/1dqn6oHnYEIepmrxLKuh0K"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Splash 2.0",
+      "url": "https://open.spotify.com/track/78YZVUVc2djUsJczAEePSZ"
     },
     {
       "album": {

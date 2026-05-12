@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con maye.
 
-1,003 songs - 2 day 6 hr 1 min
+1,004 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,7 +566,7 @@
 | [ME QUEDO AKÍ](https://open.spotify.com/track/1Kgq3SDw0J2h7Njyb7R9I7) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [ALL I DREAM](https://open.spotify.com/album/0GzGVVSRJdbkPQYQqjvH25) | 3:46 | 2025-07-04 | 2025-09-21 |
 | [Me Quieres Mal](https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Me Quieres Mal](https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9) | 3:13 | 2023-12-08 | 2024-04-13 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-11 | 2024-02-03 |
-| [ME TENÍA QUE PASAR](https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [EL QUE NO LLORA NO MAMA](https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8) | 3:09 | 2025-11-21 |  |
+| [ME TENÍA QUE PASAR](https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [EL QUE NO LLORA NO MAMA](https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8) | 3:09 | 2025-11-21 | 2026-05-12 |
 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 | 2024-09-20 | 2025-01-05 |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-20 | 2023-07-22 |
 | [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 | 2026-02-13 |  |
@@ -757,6 +757,7 @@
 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 | 2025-09-26 |  |
 | [QUIERO TODA MI VIDA DE VUELTA](https://open.spotify.com/track/4uTP7thtTSQrNotminsgu9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [QUIERO TODA MI VIDA DE VUELTA](https://open.spotify.com/album/1wjnHmhlzHYQtO4bM54dMp) | 4:16 | 2024-12-13 | 2025-04-13 |
 | [Quiero Verte](https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Quiero Verte](https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW) | 3:45 | 2022-10-27 | 2023-02-17 |
+| [quisiera](https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [quisiera](https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs) | 4:14 | 2026-05-11 |  |
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-06-02 | 2023-08-26 |
 | [Qué Facilidad](https://open.spotify.com/track/6GAWfJCEiQZoRtVFaoxscP) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Corazón Cromado](https://open.spotify.com/album/06K7B814dzQ3XUaszFMO02) | 3:33 | 2021-12-02 | 2022-10-28 |
 | [qué pasó? ya te olvidaste de mi?](https://open.spotify.com/track/1uOr88IDFYAA3HR20LTBwW) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 1:27 | 2023-12-08 | 2024-01-20 |

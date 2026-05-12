@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 115559,
+  "num_followers": 115597,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAK3WlZXM3iNOH/P7fMN9ZF3NSGcS",
   "tracks": [
+    {
+      "added_at": "2026-05-08 00:02:31",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 152921,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/4JdAphk4Heans88mgkIpKH"
+    },
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 159183,
       "name": "Big Bum Bum",
       "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
-    },
-    {
-      "added_at": "2026-05-08 00:02:31",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 152921,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/4JdAphk4Heans88mgkIpKH"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -591,22 +591,18 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "when the party's over",
-        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
       "artists": [
         {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 184203,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -631,18 +627,22 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
       },
       "artists": [
         {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-05-08 00:02:31",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-05-08 00:02:31",
+      "album": {
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "Solace II",
-        "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 154105,
-      "name": "Solace II",
-      "url": "https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip"
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -1127,38 +1123,22 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+        "name": "Solace II",
+        "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2026-05-08 00:02:31",
-      "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+      "duration_ms": 154105,
+      "name": "Solace II",
+      "url": "https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+    },
+    {
+      "added_at": "2026-05-08 00:02:31",
+      "album": {
         "name": "Che Che (feat. Asake)",
         "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 169911,
       "name": "Che Che (feat. Asake)",
       "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
+    },
+    {
+      "added_at": "2026-05-08 00:02:31",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 142950,
+      "name": "STARLIFE",
+      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -1259,26 +1275,6 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "Bother Me (feat. Victony)",
-        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bother Me (feat. Victony)",
-      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
-    },
-    {
-      "added_at": "2026-05-08 00:02:31",
-      "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
@@ -1299,6 +1295,26 @@
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+    },
+    {
+      "added_at": "2026-05-08 00:02:31",
+      "album": {
+        "name": "Bother Me (feat. Victony)",
+        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bother Me (feat. Victony)",
+      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
       "added_at": "2026-05-08 00:02:31",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 142950,
-      "name": "STARLIFE",
-      "url": "https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs"
-    },
-    {
-      "added_at": "2026-05-08 00:02:31",
-      "album": {
         "name": "Na So",
         "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
       },
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-05-08 00:02:31",
       "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2026-05-08 00:02:31",
+      "album": {
         "name": "Hildabaci (Remix)",
         "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
-    },
-    {
-      "added_at": "2026-05-08 00:02:31",
-      "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     }
   ],
   "unique_name": "Party Dey!",

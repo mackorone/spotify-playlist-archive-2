@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Edén Muñoz y Cristian Castro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,818,440 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,818,215 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 74 | [Una y Otra Vez](https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una y Otra Vez](https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT) | 3:02 |
 | 75 | [Te Lo Advertí \- Desde Abbey Road](https://open.spotify.com/track/4KwR77O9Yld5rHkkv2nbib) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Te Lo Advertí \(Desde Abbey Road\)](https://open.spotify.com/album/6l9TJwT7b3wxKQReBC1BSy) | 3:33 |
 
-Snapshot ID: `AAAAADURYFEcgtx7y8rBu60EEe34UWxJ`
+Snapshot ID: `AAAAAITtp/8Jwxs4z9JM6kAc+HlyJRvZ`

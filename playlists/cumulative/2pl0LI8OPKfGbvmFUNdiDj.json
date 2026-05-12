@@ -2749,6 +2749,32 @@
     },
     {
       "album": {
+        "name": "Frost In The December",
+        "url": "https://open.spotify.com/album/2nPh6wx5shAwqcjkjOrbTR"
+      },
+      "artists": [
+        {
+          "name": "Grace Chia",
+          "url": "https://open.spotify.com/artist/4TW4XlkN4DV6hADS97u8By"
+        },
+        {
+          "name": "Mylo Stone",
+          "url": "https://open.spotify.com/artist/64WCsmam1ea6C4cEnLq2DD"
+        },
+        {
+          "name": "DJ Thensum",
+          "url": "https://open.spotify.com/artist/0yYonVonAHg1NIE1JuPiSZ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218013,
+      "name": "Frost In The December",
+      "url": "https://open.spotify.com/track/64sEEzP4sXCcZF9FNx6Wtb"
+    },
+    {
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0"
       },
@@ -2937,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Curse of Johnny",
+        "url": "https://open.spotify.com/album/3aA8uKDqT07y98S5Ic7nXR"
+      },
+      "artists": [
+        {
+          "name": "Highway Jay",
+          "url": "https://open.spotify.com/artist/5DiKeSa0Wrr5ShwTSbIRjR"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Gold Bars",
+      "url": "https://open.spotify.com/track/7tOKyNunKElBFGIzrDyvoc"
+    },
+    {
+      "album": {
         "name": "Gonzo",
         "url": "https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c"
       },
@@ -3100,6 +3144,24 @@
       "duration_ms": 180866,
       "name": "G\u00e9lido",
       "url": "https://open.spotify.com/track/4bKbELQHfllBUDB8cFH6ri"
+    },
+    {
+      "album": {
+        "name": "H. O. T. (Helen Of Troy)",
+        "url": "https://open.spotify.com/album/7Cou1drdzxHfmfzMVaFH9u"
+      },
+      "artists": [
+        {
+          "name": "Young Milla",
+          "url": "https://open.spotify.com/artist/421ZXXqByMXM4G7VjBa6K5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264537,
+      "name": "H. O. T. (Helen Of Troy)",
+      "url": "https://open.spotify.com/track/2HKUpHEqJbPAUufq9vGpkP"
     },
     {
       "album": {
@@ -6236,6 +6298,24 @@
       "duration_ms": 181080,
       "name": "Sally Feels Bad",
       "url": "https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty"
+    },
+    {
+      "album": {
+        "name": "Just Listen EP",
+        "url": "https://open.spotify.com/album/1InJV1CZU9tbEAdi6SPWxW"
+      },
+      "artists": [
+        {
+          "name": "Sam Watson",
+          "url": "https://open.spotify.com/artist/2kKoGgC3dc984v8Jq1FenP"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Same Ol",
+      "url": "https://open.spotify.com/track/0bDz7KTcpgyinGhRLiAFlS"
     },
     {
       "album": {

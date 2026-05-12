@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11538,
+  "num_followers": 11537,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAABP0OmCaYqy9bWDjsVvC7Jn",
+  "snapshot_id": "af/KgAAAAACejDAJUCf1KtGfxWJXXOc5",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 314765,
-      "name": "You\u2019re Not Here",
-      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
     },
     {
       "added_at": null,
@@ -707,58 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Color Purple New Broadway Cast",
-          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "The Color Purple (Reprise)",
-      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 181696,
-      "name": "How I Could Fall",
-      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -771,26 +719,6 @@
       "duration_ms": 167693,
       "name": "Hold On I'm Coming",
       "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -820,9 +748,29 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232896,
-      "name": "Glowing Up",
-      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+      "duration_ms": 314765,
+      "name": "You\u2019re Not Here",
+      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Color Purple New Broadway Cast",
+          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "The Color Purple (Reprise)",
+      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
     },
     {
       "added_at": null,
@@ -839,6 +787,58 @@
       "duration_ms": 183973,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 181696,
+      "name": "How I Could Fall",
+      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 232896,
+      "name": "Glowing Up",
+      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forbidden",
         "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 232800,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 77077,
-      "name": "Somebody Gonna Love You",
-      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
     },
     {
       "added_at": null,

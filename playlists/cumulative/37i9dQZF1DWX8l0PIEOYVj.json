@@ -4585,6 +4585,28 @@
     },
     {
       "album": {
+        "name": "Ellowyn",
+        "url": "https://open.spotify.com/album/4YqVaLHc9gho26oNaUMdTS"
+      },
+      "artists": [
+        {
+          "name": "With L\u00f8ve",
+          "url": "https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm"
+        },
+        {
+          "name": "Hvnnibvl",
+          "url": "https://open.spotify.com/artist/7vTVlsNH3dt1nn4TMkRQIN"
+        }
+      ],
+      "date_added": "2026-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Ellowyn",
+      "url": "https://open.spotify.com/track/4bYhgOsuIUukEhEh2UfL0R"
+    },
+    {
+      "album": {
         "name": "Elysian Fields",
         "url": "https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1"
       },
@@ -15272,7 +15294,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 208500,
       "name": "Slippin",
       "url": "https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk"

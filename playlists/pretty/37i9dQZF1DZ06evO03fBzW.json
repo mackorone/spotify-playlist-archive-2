@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 120557,
+  "num_followers": 120614,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAClpcpH9mrjHhxjQMEo8wXU",
+  "snapshot_id": "af/KgAAAAABIlYVlzQJwREcR8N8qLQWe",
   "tracks": [
     {
       "added_at": null,
@@ -251,30 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Wrong & What Is Right",
-        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
       "artists": [
         {
-          "name": "T.I.M.",
-          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
-        },
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
-        },
-        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Mother's Finest",
-          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 179840,
-      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
+      "duration_ms": 360866,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/2l8GVqxJbVOBfYNSkwn5xA"
     },
     {
       "added_at": null,
@@ -327,18 +315,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+        "name": "What Is Wrong & What Is Right",
+        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
       },
       "artists": [
         {
+          "name": "T.I.M.",
+          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
+        },
+        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Mother's Finest",
+          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 360866,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/2l8GVqxJbVOBfYNSkwn5xA"
+      "duration_ms": 179840,
+      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
     },
     {
       "added_at": null,

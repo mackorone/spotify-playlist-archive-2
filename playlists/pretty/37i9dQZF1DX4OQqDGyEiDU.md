@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: Kikuo
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,371 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,372 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 18 | [天上天下唯我独Song](https://open.spotify.com/track/34uez9IrlrJjvSSOQ4qDpx) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [天上天下唯我独Song](https://open.spotify.com/album/3nWS5vKA4bJKd75KeS0nlF) | 3:10 |
 | 19 | [テレパシ](https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [テレパシ](https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh) | 2:17 |
 | 20 | [個々々々々々人](https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv) | [Sohbana](https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5) | [個々々々々々人](https://open.spotify.com/album/3x8GCTGhjM1RYH5Ij1woET) | 3:00 |
-| 21 | [Baumkuchen\_EndCredits](https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt) | [amala](https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK) | [Baumkuchen\_EndCredits](https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4) | 2:24 |
+| 21 | [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 |
 | 22 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
 | 23 | [クロスロード \(feat\. 初音ミク\)](https://open.spotify.com/track/2cFwQJ4AAjWyGx1n14nZNp) | [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [クロスロード](https://open.spotify.com/album/0f5vcOQqU8arlrRYZxqv5Y) | 4:23 |
 | 24 | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs) | 2:58 |
 | 25 | [ハーモニー feat\. 原口沙輔, 初音ミク](https://open.spotify.com/track/0Hu6nUJMqkoOmHY0FVBSYk) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ハーモニー](https://open.spotify.com/album/15yQuoMzlJb4vpSuBr52NR) | 3:00 |
 | 26 | [デロスサントス](https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv) | [山本](https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU) | [デロスサントス](https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5) | 3:21 |
-| 27 | [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 |
-| 28 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
-| 29 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
+| 27 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
+| 28 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
+| 29 | [Baumkuchen\_EndCredits](https://open.spotify.com/track/3W9qs513ZgVEqK0EN9Okjt) | [amala](https://open.spotify.com/artist/6gsYua8nnnutLOGReIJHsK) | [Baumkuchen\_EndCredits](https://open.spotify.com/album/1X4eosGFqxc1vzqAkWnWq4) | 2:24 |
 | 30 | [いい国夢気分](https://open.spotify.com/track/4BSFFzyd7OS6PPaHchaFOu) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/6xmiMQEOeFgvh8Tot6ueMv) | 2:52 |
 | 31 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 32 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 47 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
 | 48 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 |
 | 49 | [Spot Late](https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [Spot Late](https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE) | 3:03 |
-| 50 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
+| 50 | [ド屑](https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ド屑](https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3) | 2:00 |
 
 Snapshot ID: `AAAAAARveLm/TEn7lMLZ7/LXhN9yWC2j`

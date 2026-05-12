@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Hamzay
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Rizwan Abbas, Maheen Sattar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,267 likes - 79 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,268 likes - 79 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 78 | [Kaise Jiye](https://open.spotify.com/track/7CWKkd6B2hrvWLIk1dlYNa) | [Maanii](https://open.spotify.com/artist/7gBoVbA8sEWClG4vmmSVnH), [Soid](https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3) | [Kaise Jiye](https://open.spotify.com/album/0vuNwDXuHSMztcolxZtVCd) | 2:29 |
 | 79 | [Duur](https://open.spotify.com/track/5cRapTOc34KHJ9PHEUj57O) | [SHERRY](https://open.spotify.com/artist/2jBLgixVIe3718HCpO4kE0) | [Duur](https://open.spotify.com/album/49bRcoIwIEFiZH7r9MiHem) | 2:14 |
 
-Snapshot ID: `AAAAAPWjyfd4KcF/TeqJLCp8Op0LUC+D`
+Snapshot ID: `AAAAAIiB0KnmHTDn1NNIweXqEM/UmMyp`

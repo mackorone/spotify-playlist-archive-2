@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 23 | [Hey Violet](https://open.spotify.com/track/2jkIAgw6L0Me8RpFmbMAY7) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [My Everlasting Isolation](https://open.spotify.com/album/3shRCuMoi8faGBEWiUsX80) | 2:34 |
 | 24 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 | 25 | [If You're Gonna Leave](https://open.spotify.com/track/0kWQkRj6pUnZkfYd5vC3uM) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [If You're Gonna Leave](https://open.spotify.com/album/7ClqmH7mHLiaboyJXNpdyb) | 3:05 |
-| 26 | [hung up on u](https://open.spotify.com/track/13UOvm8VUEAoyJDaAdiTqV) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [hung up on u](https://open.spotify.com/album/6KZc2DR22wkT60QK8a9Mz8) | 2:48 |
-| 27 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 |
+| 26 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 |
+| 27 | [hung up on u](https://open.spotify.com/track/13UOvm8VUEAoyJDaAdiTqV) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [hung up on u](https://open.spotify.com/album/6KZc2DR22wkT60QK8a9Mz8) | 2:48 |
 | 28 | [GIRLZ](https://open.spotify.com/track/3pWZZrTyZo3WSVkSIOWFu6) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ \(secs on the beach remix\)](https://open.spotify.com/album/700XrAzXjvhqICEnLE9OgD) | 2:21 |
 | 29 | [More Than Anybody](https://open.spotify.com/track/4Ts7ndNLTgNXdRRPzmgSDZ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:57 |
 | 30 | [Texts Go Green](https://open.spotify.com/track/2GMdw0RsOBAPYMUINQsA4v) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Texts Go Green](https://open.spotify.com/album/4zjKD1gYjEMJ6difa5JqY5) | 2:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 64 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 65 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcRJ3AAAAADj9vd/h6oE1DofqRI8uk9C`
+Snapshot ID: `AcRPfAAAAAAobxM5kQio9WnCTUL4H86F`

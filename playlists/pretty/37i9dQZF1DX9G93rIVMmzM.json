@@ -1,6 +1,6 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 397755,
+  "num_followers": 397891,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
+        "name": "I'd stay forever",
+        "url": "https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa"
+      },
+      "artists": [
+        {
+          "name": "whither",
+          "url": "https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j"
+        }
+      ],
+      "duration_ms": 271058,
+      "name": "I'd stay forever",
+      "url": "https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
         "name": "velvet",
         "url": "https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 170462,
       "name": "velvet",
       "url": "https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
-        "name": "I'd stay forever",
-        "url": "https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa"
-      },
-      "artists": [
-        {
-          "name": "whither",
-          "url": "https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j"
-        }
-      ],
-      "duration_ms": 271058,
-      "name": "I'd stay forever",
-      "url": "https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej"
     },
     {
       "added_at": "2026-02-13 21:18:20",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,541 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,498 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Giovani Re](https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 2:48 |
 | 2 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
 | 3 | [Obsessed](https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:00 |
-| 4 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
+| 4 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [DIBLA](https://open.spotify.com/artist/0ijEFBPmeKw59p4i1hkigg), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
 | 5 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 |
 | 6 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 |
 | 7 | [DARKMONEY \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [KING OF DARK](https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN) | 2:46 |

@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Maggie Rose
 
-326 songs - 19 hr 26 min
+327 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 | 2024-08-30 | 2026-03-15 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2022-06-01 | 2024-04-19 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 | 2022-07-28 |
+| [California Blues](https://open.spotify.com/track/5avZzniorINJJiy40TxidU) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [California Blues](https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2) | 4:18 | 2026-05-08 |  |
 | [Call Me](https://open.spotify.com/track/0Of5so0SmxQprfv96NkXhb) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/7dmD07Qccdkm5Gina2emQ5) | 2:51 | 2021-10-01 | 2022-07-29 |
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2022-06-01 | 2024-04-19 |
 | [Can't Let Go](https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can't Let Go](https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr) | 3:41 | 2021-10-01 |  |

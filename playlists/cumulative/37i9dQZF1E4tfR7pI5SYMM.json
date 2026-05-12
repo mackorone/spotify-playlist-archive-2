@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With photophor, Dystopian X Vision, SCHANZ and more",
+  "description": "With Dystopian X Vision, photophor, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 235739,
       "name": "Black and Blue",
       "url": "https://open.spotify.com/track/3I3FrHVuIPOjh80qMOLdDx"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 287038,
       "name": "Does the body stay",
       "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 277200,
       "name": "Fight (Neo Tokio Chronicles Main Theme)",
       "url": "https://open.spotify.com/track/4LGDFArm0bZRDgNrQJRenX"
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 208661,
       "name": "Greetings From The Half Life",
       "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Have a Gray Day",
       "url": "https://open.spotify.com/track/4Ehz4xfWds0AZiqpy30Wca"
@@ -4041,6 +4041,24 @@
     },
     {
       "album": {
+        "name": "Blackacre",
+        "url": "https://open.spotify.com/album/2Jca4ubqaACpsZ8nkFIMAV"
+      },
+      "artists": [
+        {
+          "name": "Blackacre",
+          "url": "https://open.spotify.com/artist/0INuaov3WzDRFeCA8RBWRR"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "Holy Fire: Inferno",
+      "url": "https://open.spotify.com/track/2RuLjZVRqThERLmzi5z1q7"
+    },
+    {
+      "album": {
         "name": "Holy Holy Holy",
         "url": "https://open.spotify.com/album/5jVdwYhpS6tSW0DpvlLSUr"
       },
@@ -4160,7 +4178,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 221520,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6iSdRktqGGhSjjH8zS3phY"
@@ -4708,7 +4726,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -5218,7 +5236,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -5326,7 +5344,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -5940,7 +5958,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 276633,
       "name": "My Aurora (2023 Remastered)",
       "url": "https://open.spotify.com/track/3LB56oc6adNgHJbe79HU58"
@@ -7220,7 +7238,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7412,7 +7430,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -8116,7 +8134,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -8170,7 +8188,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -8188,7 +8206,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -8566,7 +8584,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 205292,
       "name": "South Side",
       "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
@@ -9746,7 +9764,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "The Third Son",
       "url": "https://open.spotify.com/track/1FtBT5m5alMadSATu735BJ"
@@ -9920,7 +9938,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -10068,7 +10086,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -10900,7 +10918,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "W moim domu",
       "url": "https://open.spotify.com/track/6qhiwl4ATbo4ZF9HYLU6X4"
@@ -10918,7 +10936,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 288589,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7izAW4fnV2JblrOnLzviWi"
@@ -11098,7 +11116,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"
@@ -11792,7 +11810,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 264578,
       "name": "\u043e \u043f\u043b\u043e\u0445\u043e\u043c",
       "url": "https://open.spotify.com/track/7arRjgmHGrJ65sYwzvbk96"

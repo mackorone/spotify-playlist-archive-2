@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Zek
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,481 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,476 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 10 | [LES CHIFFRES DU LOTO](https://open.spotify.com/track/0POy05GJkYY5bsPb1bI9su) | [okis](https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB) | [LES CHIFFRES DU LOTO](https://open.spotify.com/album/2p1Myhr5dUtiYr1T76jU3Q) | 2:26 |
 | 11 | [Célèbre](https://open.spotify.com/track/4ctWXt9iDg1bZMCybdWPAL) | [Double Zulu](https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6) | [Célèbre](https://open.spotify.com/album/2b4MMdJKESA2ZyCE5OC5wf) | 2:26 |
 | 12 | [Ashitaka \(feat\. Lushe\)](https://open.spotify.com/track/5Ta7iBexzwM8ROEMHnTzt8) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc), [Lushe](https://open.spotify.com/artist/5zCMyo4rRc63lqoXLKIcgv) | [SPRING](https://open.spotify.com/album/14xR0Z7KeXDiOJByIfKVWr) | 3:40 |
-| 13 | [Au Final](https://open.spotify.com/track/1Dev4vOTaLPbIAHE77yvNQ) | [PEKA](https://open.spotify.com/artist/1OVMF4LXI8xkr4lHiDL8W4), [Lybro](https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9) | [Au Final](https://open.spotify.com/album/4fAbXfZqEMuW4cBv4bAkXr) | 3:10 |
+| 13 | [Au final](https://open.spotify.com/track/1Dev4vOTaLPbIAHE77yvNQ) | [PEKA](https://open.spotify.com/artist/1OVMF4LXI8xkr4lHiDL8W4), [Lybro](https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9) | [Au final](https://open.spotify.com/album/4fAbXfZqEMuW4cBv4bAkXr) | 3:10 |
 | 14 | [Script \(feat\. 2L\)](https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Script \(feat\. 2L\)](https://open.spotify.com/album/5rcERDsf8w982QDz219hmC) | 3:16 |
 | 15 | [Miroir](https://open.spotify.com/track/5PpWdMZ3H6Ky8BqpIc9ZAO) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Miroir](https://open.spotify.com/album/2Ymfa3dacWTZIg4kfkycp2) | 2:16 |
 | 16 | [Nos jours à l'imparfait](https://open.spotify.com/track/2pmtrDqCbELpeOoLvqzyeN) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Nos jours à l'imparfait](https://open.spotify.com/album/5QDePM9JH7B9aImfHmXDn1) | 2:14 |

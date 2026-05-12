@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16748,
+  "num_followers": 16745,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAD5Ns8TZBYbomogaxN/sIbd",
+  "snapshot_id": "af/KgAAAAADR2O2l/UOpBRc+ULZc2tt0",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+        "name": "Traveler's Soul",
+        "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
         },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 183634,
-      "name": "Don't Start (feat. Valerie June)",
-      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
+      "duration_ms": 248440,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
     },
     {
       "added_at": null,
@@ -599,46 +599,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Let Nobody Turn Me 'Round",
-        "url": "https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL"
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
       "artists": [
         {
-          "name": "Paula Boggs Band",
-          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        },
-        {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 169374,
-      "name": "Ain't Gonna Let Nobody Turn Me 'Round",
-      "url": "https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3"
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Traveler's Soul",
-        "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
       "artists": [
         {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 248440,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
+      "duration_ms": 183634,
+      "name": "Don't Start (feat. Valerie June)",
+      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
     },
     {
       "added_at": null,
@@ -663,22 +659,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+        "name": "Ain't Gonna Let Nobody Turn Me 'Round",
+        "url": "https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Paula Boggs Band",
+          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
         },
         {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+      "duration_ms": 169374,
+      "name": "Ain't Gonna Let Nobody Turn Me 'Round",
+      "url": "https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3"
     },
     {
       "added_at": null,
@@ -779,30 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229525,
-      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
-      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up and Rolling (feat. Son Little and Valerie June)",
         "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
@@ -827,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+        "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 229525,
+      "name": "Cheese (feat. PawPaw Rod & Valerie June)",
+      "url": "https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Within You - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Under Cover",
         "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 187880,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Within You - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
     }
   ],
   "unique_name": "This Is Valerie June",

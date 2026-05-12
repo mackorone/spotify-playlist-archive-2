@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 343237,
+  "num_followers": 343294,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Lynx",
-        "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
-      },
-      "artists": [
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        },
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Lynx",
-      "url": "https://open.spotify.com/track/07RjOHhgQG6FsQHZhfcNdv"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "mirror gallery (Windows 96 Remix)",
         "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 163019,
       "name": "mirror gallery (Windows 96 Remix)",
       "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Lynx",
+        "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Lynx",
+      "url": "https://open.spotify.com/track/07RjOHhgQG6FsQHZhfcNdv"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+      },
+      "artists": [
+        {
+          "name": "glhf",
+          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
+        }
+      ],
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Dawn Rest",
         "url": "https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 136093,
       "name": "Soul-Vibration",
       "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
-      },
-      "artists": [
-        {
-          "name": "glhf",
-          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
-        }
-      ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "NNTYTUU",
-          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
-        }
-      ],
-      "duration_ms": 156230,
-      "name": "Entrust",
-      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 103214,
       "name": "143",
       "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "NNTYTUU",
+          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
+        }
+      ],
+      "duration_ms": 156230,
+      "name": "Entrust",
+      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 208831,
-      "name": "Oso",
-      "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 162000,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 208831,
+      "name": "Oso",
+      "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+      },
+      "artists": [
+        {
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+        }
+      ],
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Polygon Paradise",
         "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+        "name": "Iconic Bitch",
+        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
       "artists": [
         {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+          "name": "3D BLAST",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+      "duration_ms": 233774,
+      "name": "Beyond Nostalgia",
+      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1459,38 +1475,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Iconic Bitch",
-        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
-      },
-      "artists": [
-        {
-          "name": "3D BLAST",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 233774,
-      "name": "Beyond Nostalgia",
-      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Buy Now",
-        "url": "https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 227827,
-      "name": "Sneakers for Men",
-      "url": "https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1507,26 +1491,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Floppy Disk Prism",
-        "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
+        "name": "Buy Now",
+        "url": "https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah"
       },
       "artists": [
         {
-          "name": "Vaporwavez",
-          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
-        },
-        {
-          "name": "VAAV Social Club",
-          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
-        },
-        {
-          "name": "Stux.Io",
-          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Floppy Disk Prism",
-      "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
+      "duration_ms": 227827,
+      "name": "Sneakers for Men",
+      "url": "https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1551,6 +1527,30 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Floppy Disk Prism",
+        "url": "https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG"
+      },
+      "artists": [
+        {
+          "name": "Vaporwavez",
+          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
+        },
+        {
+          "name": "VAAV Social Club",
+          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
+        },
+        {
+          "name": "Stux.Io",
+          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Floppy Disk Prism",
+      "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Tomorrow (Slowed & Reverb)",
         "url": "https://open.spotify.com/album/3jUuevbHg51FltoeAjJ7bi"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 326373,
       "name": "Stunts",
       "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2023-07-18 02:19:19",

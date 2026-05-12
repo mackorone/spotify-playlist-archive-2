@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 9495,
+  "num_followers": 9501,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAUouuixIWX+wSeFvILz2w6",
+  "snapshot_id": "af/KgAAAAADJRDTxIrKOzQYDCC0oXR6W",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 159188,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Expectante",
         "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 154656,
       "name": "Expectante",
       "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 159188,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 189842,
+      "name": "NO TE ENAMORES DE NADIE",
+      "url": "https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 203416,
       "name": "Esto Avanza",
       "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 189842,
-      "name": "NO TE ENAMORES DE NADIE",
-      "url": "https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "J\u00c1LATE CONMIGO",
+      "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 201750,
       "name": "48 Horas",
       "url": "https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "J\u00c1LATE CONMIGO",
-      "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 185941,
-      "name": "En Ti Pensando",
-      "url": "https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMOR DE SUBIDA",
         "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 152617,
       "name": "TE MUEVES MUY BIEN",
       "url": "https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 185941,
+      "name": "En Ti Pensando",
+      "url": "https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 146688,
-      "name": "Mejor Que Tu Ex",
-      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 223680,
       "name": "T\u00fa Me Haces Falta",
       "url": "https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 146688,
+      "name": "Mejor Que Tu Ex",
+      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

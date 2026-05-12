@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 644108,
+  "num_followers": 644097,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
+        "name": "Als du gingst (edit)",
+        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
+      },
+      "artists": [
+        {
+          "name": "Contec",
+          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
+        },
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        }
+      ],
+      "duration_ms": 239019,
+      "name": "Als du gingst - edit",
+      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
+    },
+    {
+      "added_at": "2026-05-07 22:00:56",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2026-05-07 22:00:56",
-      "album": {
-        "name": "Als du gingst (edit)",
-        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
-      },
-      "artists": [
-        {
-          "name": "Contec",
-          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
-        },
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
-        }
-      ],
-      "duration_ms": 239019,
-      "name": "Als du gingst - edit",
-      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
     },
     {
       "added_at": "2026-05-07 22:00:56",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
-        "name": "Biertornado",
-        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
-      },
-      "artists": [
-        {
-          "name": "PA69",
-          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
-        }
-      ],
-      "duration_ms": 218417,
-      "name": "Biertornado",
-      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
-    },
-    {
-      "added_at": "2026-05-07 22:00:56",
-      "album": {
         "name": "WHO'S THAT",
         "url": "https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 140009,
       "name": "WHO'S THAT",
       "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
+    },
+    {
+      "added_at": "2026-05-07 22:00:56",
+      "album": {
+        "name": "Biertornado",
+        "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
+      },
+      "artists": [
+        {
+          "name": "PA69",
+          "url": "https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h"
+        }
+      ],
+      "duration_ms": 218417,
+      "name": "Biertornado",
+      "url": "https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L"
     },
     {
       "added_at": "2026-05-07 22:00:56",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
+        "name": "All of the Lights",
+        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "All of the Lights",
+      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
+    },
+    {
+      "added_at": "2026-05-07 22:00:56",
+      "album": {
         "name": "The Final Countdown 2025",
         "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 182343,
       "name": "The Final Countdown 2025",
       "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
-    },
-    {
-      "added_at": "2026-05-07 22:00:56",
-      "album": {
-        "name": "All of the Lights",
-        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
-      },
-      "artists": [
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "All of the Lights",
-      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
     },
     {
       "added_at": "2026-05-07 22:00:56",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2026-05-07 22:00:56",
+      "album": {
         "name": "HURENSOHN",
         "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
-    },
-    {
-      "added_at": "2026-05-07 22:00:56",
-      "album": {
         "name": "Mille Grazie",
         "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
       },
@@ -1795,6 +1795,26 @@
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+    },
+    {
+      "added_at": "2026-05-07 22:00:56",
+      "album": {
+        "name": "It's My Life (Techno Remix)",
+        "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
+      },
+      "artists": [
+        {
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
+        },
+        {
+          "name": "Jawny Sparklez",
+          "url": "https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "It's My Life - Techno Remix",
+      "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
     },
     {
       "added_at": "2026-05-07 22:00:56",
@@ -1823,42 +1843,18 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
-        "name": "It's My Life (Techno Remix)",
-        "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
       },
       "artists": [
         {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        },
-        {
-          "name": "Jawny Sparklez",
-          "url": "https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 174545,
-      "name": "It's My Life - Techno Remix",
-      "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2026-05-07 22:00:56",
-      "album": {
-        "name": "APRES SKI",
-        "url": "https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
-        }
-      ],
-      "duration_ms": 162362,
-      "name": "APRES SKI",
-      "url": "https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe"
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-05-07 22:00:56",
@@ -1879,18 +1875,22 @@
     {
       "added_at": "2026-05-07 22:00:56",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+        "name": "APRES SKI",
+        "url": "https://open.spotify.com/album/2nnz1MfGxdZ0tjpgEUBAV3"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+      "duration_ms": 162362,
+      "name": "APRES SKI",
+      "url": "https://open.spotify.com/track/2rKSoNQsHt0oRWZmnBZUNe"
     },
     {
       "added_at": "2026-05-07 22:00:56",

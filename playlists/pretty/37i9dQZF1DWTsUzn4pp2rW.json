@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 197818,
+  "num_followers": 197850,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
-      },
-      "artists": [
-        {
-          "name": "VARITDA",
-          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
-        },
-        {
-          "name": "Koh Mr. Saxman",
-          "url": "https://open.spotify.com/artist/0DT7rzrK9vI0ZC8R8uCb6j"
-        }
-      ],
-      "duration_ms": 278239,
-      "name": "By the Time I Get to Phoenix",
-      "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "That's What Friends Are For",
         "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 287064,
       "name": "Things Are Looking up Again",
       "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        },
+        {
+          "name": "Koh Mr. Saxman",
+          "url": "https://open.spotify.com/artist/0DT7rzrK9vI0ZC8R8uCb6j"
+        }
+      ],
+      "duration_ms": 278239,
+      "name": "By the Time I Get to Phoenix",
+      "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Catwoman",
         "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 208273,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
     },
     {
       "added_at": "2026-03-14 19:25:00",

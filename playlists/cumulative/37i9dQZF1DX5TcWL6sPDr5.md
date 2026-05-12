@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Olga Myko 💚
 
-201 songs - 10 hr 57 min
+202 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Soft Landing](https://open.spotify.com/track/5Sihx3igtG1dsHMKs0Ij0b) | [Rebecca Bangfield](https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho) | [Soft Landing](https://open.spotify.com/album/1IJZ2PnE7mGNY66S4i18kA) | 4:24 | 2026-03-05 | 2026-03-20 |
 | [soleil soleil](https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 2:37 | 2026-03-05 | 2026-04-08 |
 | [Somebody Else](https://open.spotify.com/track/0yrx4MEFq07sktmX5ssTPp) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5OuqBrrrQmLIBOlduNsIFN) | 3:12 | 2026-03-19 | 2026-05-06 |
+| [something i'm not](https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [something i'm not](https://open.spotify.com/album/0qdofNpXH1yUQjdja6z0Xn) | 2:34 | 2026-05-11 |  |
 | [Space](https://open.spotify.com/track/0w88RbYHwVDAbLGSJzsRa9) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Space](https://open.spotify.com/album/6KQgOvQJ1NoFUXX1BuAzfZ) | 4:02 | 2026-04-07 |  |
 | [Special](https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Special](https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG) | 3:07 | 2026-03-05 | 2026-03-20 |
 | [spejlvendt](https://open.spotify.com/track/2CzKWWIRJE8jbTBXIwQZqK) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer](https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6) | 2:58 | 2026-04-07 |  |

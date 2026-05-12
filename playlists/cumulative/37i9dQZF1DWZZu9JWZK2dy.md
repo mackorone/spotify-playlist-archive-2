@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-124 songs - 8 hr 50 min
+125 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Secret of my heart](https://open.spotify.com/track/1KvU7iXcyRMden0n9krc4k) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある！\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:25 | 2021-09-14 |  |
 | [Seikan Hiko](https://open.spotify.com/track/4ykxXFAQlQ4TokZcrP5M2m) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER Seikan Hikou](https://open.spotify.com/album/0kK3dYuyhrFOIB2hTFj8lF) | 3:51 | 2022-07-06 | 2024-04-19 |
 | [Shangri\-La \(Y.Sunahara 2009 Remodel\)](https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [電気グルーヴのゴールデンヒッツ～Due To Contract](https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST) | 5:08 | 2021-09-14 |  |
+| [Wind](https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f) | [Akeboshi](https://open.spotify.com/artist/7whUoQAv5bVu2Cv4ZmgTyw) | [Akeboshi](https://open.spotify.com/album/6lTOmOSRAWvAwdv15KnMb8) | 3:40 | 2026-05-11 |  |
 | [あんなに一緒だったのに](https://open.spotify.com/track/5UZVUKqRUmHxT8RmZZHojc) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [機動戦士ガンダム SEED \~ SEED DESTINY THE BRIDGE Across the Songs from GUNDUM SEED & SEED DESTINY](https://open.spotify.com/album/5pc46oCGZxvCOs0DJXTimZ) | 4:48 | 2021-09-14 |  |
 | [あんなに一緒だったのに](https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Dream Field](https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH) | 4:49 | 2022-07-06 | 2024-04-19 |
 | [いつも何度でも](https://open.spotify.com/track/7f7LQSoV2zGzbPWTbP7SLv) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:35 | 2021-09-14 |  |

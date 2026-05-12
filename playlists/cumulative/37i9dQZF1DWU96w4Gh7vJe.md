@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-241 songs - 15 hr 10 min
+242 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Delusyon](https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Ken Manguiat](https://open.spotify.com/artist/5X0lDO3wabgkXnCyXZpXKz) | [Delusyon](https://open.spotify.com/album/2u4i2jr1X6AdlQrvKlAXZ2) | 3:12 | 2025-02-26 | 2025-05-01 |
 | [Di Ko Alam](https://open.spotify.com/track/1ESvI4PhWa7pZCh7JRrmLs) | [RussJr](https://open.spotify.com/artist/1tfSYCR5FHZlqLzla1lJeG), [Melodias](https://open.spotify.com/artist/51mJcbrO6wCPWJDXffpAKi) | [Di Ko Alam](https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT) | 3:12 | 2026-03-10 | 2026-04-13 |
 | [Di Ko Sinabi](https://open.spotify.com/track/5LsHJdZUGkLVzW8Uz1LgLV) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Di Ko Sinabi](https://open.spotify.com/album/0YSVtW6W2TJcOVzEZsUGQ5) | 4:35 | 2026-03-09 | 2026-03-18 |
-| [Di Na](https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Di Na](https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI) | 4:07 | 2026-03-17 |  |
+| [Di Na](https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Di Na](https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI) | 4:07 | 2026-03-17 | 2026-05-12 |
 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 | 2025-11-13 |  |
 | [Diwa](https://open.spotify.com/track/1gbrKuaixnhfgy9ZiAxlyd) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Diwa](https://open.spotify.com/album/3vz2skJN2kk5DUrjpVVZLN) | 3:11 | 2025-11-10 | 2025-11-25 |
 | [Do What She Wanna](https://open.spotify.com/track/5F5eberTTCphTF0PxkvBRL) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Do What She Wanna](https://open.spotify.com/album/4XiMf2WIQXKfVXE7De60Gl) | 2:44 | 2026-01-19 | 2026-01-29 |
@@ -89,6 +89,7 @@
 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 | 2023-10-20 |  |
 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 | 2023-10-20 | 2023-10-26 |
 | [Ipaalam Sana](https://open.spotify.com/track/76UGTkNqk1DfNn889CORwv) | [Yudino](https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5), [Eryck Paolo Sarsale](https://open.spotify.com/artist/3mr564MmezbPqUbgDaZS1n) | [Lover Boy](https://open.spotify.com/album/6LGIL15YplCmZ9EAwWZgsy) | 3:30 | 2026-04-14 | 2026-04-29 |
+| [Isang Daan](https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk) | 4:29 | 2026-05-05 |  |
 | [Isang Sandali Pa](https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Isang Sandali Pa](https://open.spotify.com/album/4T8DskzUA83SVvfJyrCymc) | 3:25 | 2026-03-09 | 2026-03-18 |
 | [Isang Tingin Mo Lang](https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Isang Tingin Mo Lang](https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb) | 3:06 | 2023-12-08 | 2024-02-13 |
 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 | 2026-04-02 |  |

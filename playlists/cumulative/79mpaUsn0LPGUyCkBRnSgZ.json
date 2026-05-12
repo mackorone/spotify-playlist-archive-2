@@ -17699,6 +17699,24 @@
     },
     {
       "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
+    },
+    {
+      "album": {
         "name": "Metals",
         "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
       },

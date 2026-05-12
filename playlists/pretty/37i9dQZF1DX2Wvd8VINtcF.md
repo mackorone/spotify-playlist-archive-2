@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Namasenda✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,491 likes - 265 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,493 likes - 265 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
-| 2 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
-| 3 | [Blackberry Marmalade](https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Blackberry Marmalade](https://open.spotify.com/album/109EG53gglqHzxhMHUR916) | 3:52 |
+| 1 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
+| 2 | [Blackberry Marmalade](https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Blackberry Marmalade](https://open.spotify.com/album/109EG53gglqHzxhMHUR916) | 3:52 |
+| 3 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 4 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
 | 5 | [Forever](https://open.spotify.com/track/5pNs6lPWpytU3rp7k5m9YN) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Forever](https://open.spotify.com/album/2evfxJ4FdqTp65s05zfVFQ) | 3:00 |
 | 6 | [Q&A \(feat\. Lennixx\)](https://open.spotify.com/track/71Dlunz5SJlgHlhyZZsf28) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy), [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Q&A \(feat\. Lennixx\)](https://open.spotify.com/album/0TKTfQQjXDWosO8TlgXsdm) | 2:06 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 264 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
 | 265 | [Feisty \- Erika de Casier EDIT](https://open.spotify.com/track/5di5j7CqrNxPCD2x8looz1) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 2:50 |
 
-Snapshot ID: `AAAAAEJ2Hx2JZRNZsQBNL9ReqV4k/Y4/`
+Snapshot ID: `AAAAAAIaoQpuZxKBYgCFMm9DJHBIGvYE`

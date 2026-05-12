@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Tauren Wells",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Amy Grant",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 233336,
       "name": "Authority",
       "url": "https://open.spotify.com/track/2RXMW4OrcyrEG48hQ0aqxk"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 238910,
       "name": "Breathe On It - Radio Version",
       "url": "https://open.spotify.com/track/2gSADWWTD03bAlIPhWFysb"
@@ -5107,6 +5107,32 @@
     },
     {
       "album": {
+        "name": "Breathe On It",
+        "url": "https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206691,
+      "name": "How Great",
+      "url": "https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG"
+    },
+    {
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/1HC5HuqzBNYKYA90KUZq0J"
       },
@@ -5324,7 +5350,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 203409,
       "name": "I FEEL HOME",
       "url": "https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at"
@@ -5982,7 +6008,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 233192,
       "name": "In Christ Alone - Single Version",
       "url": "https://open.spotify.com/track/2VsXWeu4mic5uJ7LKgLA1G"
@@ -6430,7 +6456,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 211388,
       "name": "judas",
       "url": "https://open.spotify.com/track/6m8jy0dNtYqVi5c4EtLZdM"
@@ -6578,7 +6604,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 234032,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/6kFvpaobh1awtDOD6j5iWO"
@@ -7029,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "Looking Down",
+        "url": "https://open.spotify.com/album/5ggdoBEQwcMETb6puPq0CH"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Looking Down",
+      "url": "https://open.spotify.com/track/7klzGbf2WFUbgbPqBrLk0G"
+    },
+    {
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/4CEwuoCsM4xHjnJ2nX5KDm"
       },
@@ -7268,6 +7312,24 @@
       "duration_ms": 224910,
       "name": "Made to Fly",
       "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
+    },
+    {
+      "album": {
+        "name": "make heaven crowded",
+        "url": "https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179407,
+      "name": "make heaven crowded",
+      "url": "https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF"
     },
     {
       "album": {
@@ -7903,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0tcvwKhazLe9u1KSdhjZWH"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "Never Mine",
+      "url": "https://open.spotify.com/track/4E6fyhkICWzHTSEuREHQ2q"
+    },
+    {
+      "album": {
         "name": "God Is Real",
         "url": "https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW"
       },
@@ -8204,6 +8284,24 @@
       "duration_ms": 244545,
       "name": "Oh Lord Lead Us",
       "url": "https://open.spotify.com/track/6swQ5QJApMcGtjkJnXG7NA"
+    },
+    {
+      "album": {
+        "name": "OKAY!",
+        "url": "https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "OKAY!",
+      "url": "https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW"
     },
     {
       "album": {
@@ -8701,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
+    },
+    {
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/2CFMy9Akfvhf141DaSCsJL"
       },
@@ -8860,7 +8976,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 195200,
       "name": "Pray Mama",
       "url": "https://open.spotify.com/track/4xvLVXqF4zCAw8tiMQlpBX"
@@ -9877,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/1EEEcNiUVewEsBrn8omWIh"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "So Good To Me",
+      "url": "https://open.spotify.com/track/53kIJzbqlx3KxGZwvenCc9"
+    },
+    {
+      "album": {
         "name": "So Long Sad Songs",
         "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
       },
@@ -10621,6 +10755,24 @@
     },
     {
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/6h98A5KHmYsGsL4S52GeMo"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229649,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/0AnnD87PGRDF7RnLAmZvkN"
+    },
+    {
+      "album": {
         "name": "Thank God For Sunday Morning",
         "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
       },
@@ -10868,6 +11020,28 @@
       "duration_ms": 201106,
       "name": "The 99",
       "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
+    },
+    {
+      "album": {
+        "name": "The Author",
+        "url": "https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276651,
+      "name": "The Author",
+      "url": "https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb"
     },
     {
       "album": {
@@ -11140,7 +11314,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 213771,
       "name": "The Jesus I Know Now",
       "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
@@ -11354,6 +11528,24 @@
       "duration_ms": 169076,
       "name": "The One",
       "url": "https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/62neRAB7MJtaQ6z7TyP7yO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271080,
+      "name": "The Real Me - Single Version",
+      "url": "https://open.spotify.com/track/7IDtI558jWDPeDB4DjD6aA"
     },
     {
       "album": {
@@ -12090,7 +12282,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 210991,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/2rB7wo5WpVwCY1Ewcr1kc6"
@@ -12256,7 +12448,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 229741,
       "name": "Water Into Wine",
       "url": "https://open.spotify.com/track/3yVR7hc7HjtXFnalkgfiK6"

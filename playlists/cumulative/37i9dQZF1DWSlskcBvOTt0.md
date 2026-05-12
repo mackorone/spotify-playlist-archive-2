@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,117 songs - 3 day 19 hr 33 min
+1,118 songs - 3 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |
 | [Real Love \- Liva K Remix](https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Real Love \(Liva K Remix\)](https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd) | 2:57 | 2023-10-20 | 2024-10-26 |
+| [Real, You Know?!](https://open.spotify.com/track/5sjsIBzfE5cfRj8XBkk5B8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Real, You Know?!](https://open.spotify.com/album/3Y6tmTccFgBNu3OxrA61Yk) | 3:56 | 2026-05-08 |  |
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2023-10-27 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
@@ -994,7 +995,7 @@
 | [Tides \(feat\. Bajka\)](https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HEVOLVE](https://open.spotify.com/artist/5yC9AKKWHY7ZPNSYlBUb4O), [Beanfield](https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [Tides \(feat\. Bajka\)](https://open.spotify.com/album/6fWpGEYJ8KEJh4yGuEBhPh) | 3:19 | 2024-08-09 | 2025-04-13 |
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:51 | 2023-08-25 | 2023-09-15 |
 | [Tijuana \- Vintage Culture Remix](https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/50foag5P06HSWOkVrnZg33) | 3:51 | 2023-09-15 | 2024-04-19 |
-| [Tik Tak](https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Gkat](https://open.spotify.com/artist/4CX46ZO686NvuigcYb3UVD) | [Tik Tak](https://open.spotify.com/album/5NoroFqrKDMCxdjpdN4N38) | 2:55 | 2026-04-13 |  |
+| [Tik Tak](https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Gkat](https://open.spotify.com/artist/4CX46ZO686NvuigcYb3UVD) | [Tik Tak](https://open.spotify.com/album/5NoroFqrKDMCxdjpdN4N38) | 2:55 | 2026-04-13 | 2026-05-12 |
 | [Time](https://open.spotify.com/track/4jXxLFK9tQ800pJUIZmqLM) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Time](https://open.spotify.com/album/11UtFfgwaQZOF9weJbgTyr) | 4:18 | 2023-03-24 | 2023-05-09 |
 | [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-26 | 2025-01-11 |
 | [Timeless](https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Chelsea Como](https://open.spotify.com/artist/5LjlABsYnzlQCHIqAgK2Ac) | [Timeless](https://open.spotify.com/album/3LOuosVLxpQ5k5Fs6TDj3z) | 6:16 | 2026-01-30 |  |

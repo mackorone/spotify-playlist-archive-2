@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Bhool",
+        "url": "https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Bhool",
+      "url": "https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE"
+    },
+    {
+      "album": {
         "name": "Bijlee Bijlee",
         "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
       },
@@ -1941,6 +1959,28 @@
     },
     {
       "album": {
+        "name": "Dil Sukoon",
+        "url": "https://open.spotify.com/album/152qf6NRUG3O7TPbWT5qWI"
+      },
+      "artists": [
+        {
+          "name": "Third Fret",
+          "url": "https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248328,
+      "name": "Dil Sukoon",
+      "url": "https://open.spotify.com/track/7mLQ4dPtw6FBvCjLDpginY"
+    },
+    {
+      "album": {
         "name": "Dil Tu Jaan Tu",
         "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
       },
@@ -2170,6 +2210,28 @@
       "duration_ms": 233000,
       "name": "Ehsaas",
       "url": "https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv"
+    },
+    {
+      "album": {
+        "name": "Ek Nishani",
+        "url": "https://open.spotify.com/album/1xFAXVnnUg742E2zlbjFn9"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Ek Nishani",
+      "url": "https://open.spotify.com/track/24mdYFFK4Mgn9zmmdE1dQ5"
     },
     {
       "album": {
@@ -2794,6 +2856,28 @@
       "duration_ms": 150482,
       "name": "Hanera",
       "url": "https://open.spotify.com/track/58KNryebZqqVHRizyXkmBc"
+    },
+    {
+      "album": {
+        "name": "Har Baar",
+        "url": "https://open.spotify.com/album/1oRAxwfxb55WuW7KjSx5uw"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Har Baar",
+      "url": "https://open.spotify.com/track/3VJpl4jrFSqY3Y6mAzqfux"
     },
     {
       "album": {
@@ -3857,6 +3941,28 @@
     },
     {
       "album": {
+        "name": "Khasara",
+        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Khasara",
+      "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
+    },
+    {
+      "album": {
         "name": "Khwabeeda",
         "url": "https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02"
       },
@@ -4322,7 +4428,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 146301,
       "name": "Lover Boy <3",
       "url": "https://open.spotify.com/track/74cMfUZdryBWBEv9bH4cmP"
@@ -5768,7 +5874,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 167921,
       "name": "Pardes Katenda",
       "url": "https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL"
@@ -6879,6 +6985,28 @@
     },
     {
       "album": {
+        "name": "Khasara",
+        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX"
+    },
+    {
+      "album": {
         "name": "WITHOUT PREJUDICE",
         "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
       },
@@ -7864,6 +7992,28 @@
       "duration_ms": 258750,
       "name": "Tum",
       "url": "https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB"
+    },
+    {
+      "album": {
+        "name": "Tum Na Ho",
+        "url": "https://open.spotify.com/album/2LJzRpHLbu88KdcFLdn2KE"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170705,
+      "name": "Tum Na Ho",
+      "url": "https://open.spotify.com/track/0Pm2OPYWunQUhF1a0EATed"
     },
     {
       "album": {

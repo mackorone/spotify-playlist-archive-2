@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 294759,
+  "num_followers": 294757,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
-        "name": "bad",
-        "url": "https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 164073,
-      "name": "bad",
-      "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
         "name": "TAI CHI",
         "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 194895,
       "name": "TAI CHI",
       "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
+        "name": "bad",
+        "url": "https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 164073,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
         "name": "Head in a Jar",
         "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 196451,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "A Mile In My Mind",
+        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "duration_ms": 167195,
+      "name": "A Mile In My Mind",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 232114,
       "name": "Physical (feat.Tink)",
       "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "A Mile In My Mind",
-        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
-      },
-      "artists": [
-        {
-          "name": "Ebub\u00e9",
-          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
-        }
-      ],
-      "duration_ms": 167195,
-      "name": "A Mile In My Mind",
-      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 191437,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
+      "duration_ms": 191437,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -1183,6 +1167,22 @@
       "duration_ms": 164571,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-05-07 22:03:14",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-05-07 22:03:14",
       "album": {
+        "name": "So Bad (bonus track)",
+        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "duration_ms": 120593,
+      "name": "So Bad - bonus track",
+      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
+    },
+    {
+      "added_at": "2026-05-07 22:03:14",
+      "album": {
         "name": "Waiting For You (feat. Reggie Dartey)",
         "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 285799,
       "name": "MEET THE SUN",
       "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
-    },
-    {
-      "added_at": "2026-05-07 22:03:14",
-      "album": {
-        "name": "So Bad (bonus track)",
-        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
-      },
-      "artists": [
-        {
-          "name": "Robyn Florence",
-          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
-        },
-        {
-          "name": "DAVIES",
-          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "So Bad - bonus track",
-      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
     },
     {
       "added_at": "2026-05-07 22:03:14",

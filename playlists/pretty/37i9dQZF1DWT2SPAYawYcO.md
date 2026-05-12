@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from: The Jungle Giants, Charli xcx, Angus & Julia Stone, Chis Brown, The Temper Trap + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,795 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,771 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

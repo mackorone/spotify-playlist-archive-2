@@ -5610,7 +5610,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 131908,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/4C1GR4t5ZVMtmbnLgKukgG"
@@ -12818,7 +12818,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 141313,
       "name": "La \u00daltima Granada",
       "url": "https://open.spotify.com/track/0aVfypFFEYeJ1px3Bb65Xm"
@@ -17040,7 +17040,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 145714,
       "name": "No Vayas a Llorar I Variet\u00e9 #5",
       "url": "https://open.spotify.com/track/4zFRyL1GIKf17Fhp35AOUJ"
@@ -19514,7 +19514,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
@@ -23673,6 +23673,28 @@
     },
     {
       "album": {
+        "name": "Te Entiendo",
+        "url": "https://open.spotify.com/album/2UczwW00uLbmDLeb09p2tY"
+      },
+      "artists": [
+        {
+          "name": "La Pen\u00faltima",
+          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
+        },
+        {
+          "name": "De La Previa",
+          "url": "https://open.spotify.com/artist/5aYju03Xc7gKhB50vGBu9V"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Te Entiendo",
+      "url": "https://open.spotify.com/track/69CKOh2Gd9hsJSa28sKbHk"
+    },
+    {
+      "album": {
         "name": "Te Escapas De Mis Brazos (Remix)",
         "url": "https://open.spotify.com/album/7z6DWyWrMQPPCGs5H0IU67"
       },
@@ -25474,7 +25496,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 138161,
       "name": "TURRAZO",
       "url": "https://open.spotify.com/track/7MUu6jrCvu48LSrMRDQKv0"

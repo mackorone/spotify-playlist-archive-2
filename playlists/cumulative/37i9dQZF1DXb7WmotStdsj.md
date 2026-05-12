@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-244 songs - 19 hr 53 min
+245 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 | 2023-01-14 |
 | [Bye Bye](https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Bye Bye](https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv) | 3:31 | 2021-10-19 | 2022-12-26 |
 | [Bye Bye lmiziria](https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Bye Bye lmiziria](https://open.spotify.com/album/503UybXLd49aqSVhY8ufvd) | 5:29 | 2021-10-19 | 2022-12-27 |
+| [C'était prévu](https://open.spotify.com/track/2ewJ2gIhPcZGnX6g3kZfZa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [C'était prévu](https://open.spotify.com/album/4qMCbtIZ2khv5vf5Vhk7YQ) | 4:37 | 2026-05-11 |  |
 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 | 2022-05-11 | 2024-03-08 |
 | [Chakam Ya Taalam](https://open.spotify.com/track/5RQk0l6vi4W6pxWVmOavS2) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Dj Badro](https://open.spotify.com/artist/6zLeYvpaV3RNnhg9nEbwky) | [Chakam Ya Taalam](https://open.spotify.com/album/4yJLC3h0yIUnf3f2hF0Ovh) | 1:47 | 2023-12-21 |  |
 | [Chakam Ya Taalam](https://open.spotify.com/track/4GppSn1kSIMZVSB8nmuvKB) | [Dj Badro](https://open.spotify.com/artist/6zLeYvpaV3RNnhg9nEbwky), [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Chakam Ya Taalam](https://open.spotify.com/album/7ef8QEfqZIPdRAzBVerIBn) | 1:47 | 2024-03-16 | 2024-04-19 |
@@ -243,7 +244,7 @@
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 | 2022-09-09 |
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-05-13 | 2024-07-05 |
 | [لي نخرج معاها نربح عليها](https://open.spotify.com/track/0ztDisLpRcEKfHAPf1DDtK) | [Cheb Oussama](https://open.spotify.com/artist/39NbSFvjWk8fXvaoorAv6E), [Hocine Ghouila](https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt) | [لي نخرج معاها نربح عليها](https://open.spotify.com/album/6h9P3Nup7ibkk49FeUuWIh) | 4:01 | 2024-10-14 |  |
-| [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |
+| [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 | 2026-05-12 |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 | 2023-12-30 |
 | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/track/4rGaYXD74tlRyWYLPwv9Hm) | [Studio Pachichi](https://open.spotify.com/artist/0iAHWqNr6Q6Utnpkh3Zurt) | [مات القلب لي كان يبغيك \(الشاب رامي\)](https://open.spotify.com/album/31gMVWdImmX8FvtFIQjzp9) | 6:09 | 2024-08-05 | 2024-11-20 |
 | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/track/5Ax3wWbzNHGH4nyV3fEu95) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/album/7rzjlXhVqDHpOktPXjgRNl) | 6:12 | 2023-10-19 | 2024-11-30 |

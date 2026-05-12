@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay & Aaron Blommaert
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,954 likes - 78 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,941 likes - 78 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [Waar Ben Jij](https://open.spotify.com/track/5MfppCV3LbvXdQV6UXx7Xp) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Waar Ben Jij](https://open.spotify.com/album/6hlHpnyjty0fwvPT3Ro7Fp) | 3:43 |
 | 4 | [Jong & Dom](https://open.spotify.com/track/4Sr55tCgF7I1gEr9YJ7Xng) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jong & Dom](https://open.spotify.com/album/00YkFHItYazV2hJ1SU6d9g) | 3:07 |
 | 5 | [Roulette](https://open.spotify.com/track/7rZ40tv8wag9JkyQelJ4o9) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Roulette](https://open.spotify.com/album/0dD84yXv3JlqH49B0J34DW) | 2:17 |
-| 6 | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp) | 3:24 |
+| 6 | [Hoe Wij Hier Samen Staan](https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht Bij Mij](https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy) | 2:58 |
 | 7 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
-| 8 | [Jaar Na Jaar](https://open.spotify.com/track/2Yi9J5Z5U6a34l5enJgnkN) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Jaar Na Jaar](https://open.spotify.com/album/2bJHVGM3m64bOaxgWiFOy0) | 2:54 |
-| 9 | [Wervelwind](https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Wervelwind](https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT) | 2:41 |
-| 10 | [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 |
-| 11 | [Los Vast](https://open.spotify.com/track/0J4y7Cg7IbNcje8MehpqSf) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Los Vast](https://open.spotify.com/album/0gZRLYSNDUMeIfzxrPoxWr) | 3:09 |
-| 12 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 |
-| 13 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 |
-| 14 | [Achterbank](https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Achterbank](https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0) | 2:48 |
-| 15 | [Constant in beweging](https://open.spotify.com/track/27A3bay3r6t8017eO0AyrA) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Constant in beweging](https://open.spotify.com/album/6pKZupLQoqrC9QBcH0lVVK) | 3:04 |
-| 16 | [Hoe Wij Hier Samen Staan](https://open.spotify.com/track/4KkFOj2t5YBSTjmiE6TYHc) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht Bij Mij](https://open.spotify.com/album/59iH4HFfZJSLZ0hg3ojNmy) | 2:58 |
+| 8 | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp) | 3:24 |
+| 9 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 |
+| 10 | [Jaar Na Jaar](https://open.spotify.com/track/2Yi9J5Z5U6a34l5enJgnkN) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Jaar Na Jaar](https://open.spotify.com/album/2bJHVGM3m64bOaxgWiFOy0) | 2:54 |
+| 11 | [Wervelwind](https://open.spotify.com/track/0gi4485KEYx85w5NQ7wLLU) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Wervelwind](https://open.spotify.com/album/0G4NOxRotgU0rMQY2czkGT) | 2:41 |
+| 12 | [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 |
+| 13 | [Los Vast](https://open.spotify.com/track/0J4y7Cg7IbNcje8MehpqSf) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Los Vast](https://open.spotify.com/album/0gZRLYSNDUMeIfzxrPoxWr) | 3:09 |
+| 14 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 |
+| 15 | [Achterbank](https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Achterbank](https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0) | 2:48 |
+| 16 | [Constant in beweging](https://open.spotify.com/track/27A3bay3r6t8017eO0AyrA) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Constant in beweging](https://open.spotify.com/album/6pKZupLQoqrC9QBcH0lVVK) | 3:04 |
 | 17 | [Last Man Standing In De Kroeg](https://open.spotify.com/track/5hN17w1WEvwrpP78dWu3rd) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Last Man Standing In De Kroeg](https://open.spotify.com/album/4rM8noIB9AoqIB5GIttm5f) | 2:51 |
 | 18 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
 | 19 | [1 Glas](https://open.spotify.com/track/6clSdKrl17kWuNT28L17nV) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:31 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 77 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
 | 78 | [Saai](https://open.spotify.com/track/7GTTbP6Gz9Zu3qet2Rroga) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Saai](https://open.spotify.com/album/343waDPIpF4NnfRbMjkBIA) | 2:55 |
 
-Snapshot ID: `AAAAAPMv7g1qbxP6290iugmPKpMlqVva`
+Snapshot ID: `AAAAAPvBvULN4VDciBqtB9lf435vryIn`

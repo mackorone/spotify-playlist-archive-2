@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Loathe
 
-735 songs - 1 day 20 hr 9 min
+736 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 | 2023-08-24 | 2025-09-12 |
 | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 | 2024-03-22 | 2025-09-12 |
 | [Deceit](https://open.spotify.com/track/0aPZh3gchispRuhoumXeW2) | [Seethe](https://open.spotify.com/artist/2PXdR2HPM6wcHEElxeGSka) | [Deceit](https://open.spotify.com/album/5PyKnxZedDeKOhwn6l6YLR) | 2:44 | 2025-08-11 | 2025-09-12 |
+| [Deceptacon](https://open.spotify.com/track/5yUmpwhdcXHoedujODeAlG) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Deceptacon](https://open.spotify.com/album/7DpbAouDpH4cMwQxZ8zGrc) | 3:13 | 2026-04-30 |  |
 | [DEGRADATION](https://open.spotify.com/track/7ldazH7Gj6i47iNayZ8zGw) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DEGRADATION](https://open.spotify.com/album/0snTEryRTQI073OlBkM5yn) | 3:49 | 2025-09-01 | 2025-09-27 |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-11 | 2025-10-24 |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-10-06 |
@@ -672,7 +673,7 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2025-10-24 |
 | [Trap Door](https://open.spotify.com/track/1APoykMkL5FUMFnjkQ4del) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Trap Door](https://open.spotify.com/album/0NN283X0D0uwZBLNEBNblj) | 4:22 | 2025-08-11 | 2025-10-04 |
 | [Trenches](https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Trenches](https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt) | 3:16 | 2024-11-08 | 2025-09-12 |
-| [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-13 |  |
+| [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-13 | 2026-05-12 |
 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 | 2025-09-11 | 2026-01-24 |
 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 | 2023-09-15 | 2024-05-04 |
 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 | 2023-04-21 | 2024-02-17 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-457 songs - 1 day 1 hr 36 min
+461 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-03-30 |  |
 | [Frases del Ayer](https://open.spotify.com/track/7EwgbuZ57KNgOtgMSdar3R) | [Diego Stegmeier](https://open.spotify.com/artist/5M2u8mwkoZWHPBXINtfV7a) | [Frases del Ayer](https://open.spotify.com/album/3DFXycXInOtOYW4Hmvyy0E) | 4:37 | 2026-02-20 |  |
 | [Freedom Queen](https://open.spotify.com/track/4pxoCgIkaSSFx8cu31N01R) | [Mink's Miracle Medicine](https://open.spotify.com/artist/1XEYWgovYzwpxtdJba7dO0) | [Freedom Queen](https://open.spotify.com/album/7GPApbSd4SkQrzJeSBMzTt) | 4:15 | 2026-01-04 | 2026-02-21 |
+| [Frost In The December](https://open.spotify.com/track/64sEEzP4sXCcZF9FNx6Wtb) | [Grace Chia](https://open.spotify.com/artist/4TW4XlkN4DV6hADS97u8By), [Mylo Stone](https://open.spotify.com/artist/64WCsmam1ea6C4cEnLq2DD), [DJ Thensum](https://open.spotify.com/artist/0yYonVonAHg1NIE1JuPiSZ) | [Frost In The December](https://open.spotify.com/album/2nPh6wx5shAwqcjkjOrbTR) | 3:38 | 2026-05-11 |  |
 | [Fucked Up](https://open.spotify.com/track/68uVC0iivrNHCfEmRFhPR4) | [Crest](https://open.spotify.com/artist/7HkVIIis479rPDZsLmp0Z9) | [Fucked Up](https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0) | 2:42 | 2025-11-02 | 2025-12-01 |
 | [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-04-13 |  |
 | [Game Of Us](https://open.spotify.com/track/5nPiP0lCO9s1ae4o1p0GuW) | [michéle](https://open.spotify.com/artist/0Mgy1tMudfj17qQ9qTiye5) | [Game Of Us](https://open.spotify.com/album/46QTCDq3eHV44nQhk2i1L3) | 3:00 | 2025-11-01 | 2025-12-01 |
@@ -166,6 +167,7 @@
 | [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 | 2026-03-09 |  |
 | [GOD COMPLEX](https://open.spotify.com/track/2mIQlRDu72rSaQozH4YvIS) | [Hellex](https://open.spotify.com/artist/6PuNkhoTKOgsmnLhUqZBRt) | [GOD COMPLEX](https://open.spotify.com/album/3P7c8yQ8QdTIxiotvmGk42) | 2:38 | 2025-11-01 | 2025-12-01 |
 | [Going South](https://open.spotify.com/track/6w8zHZXcVkR1ShBYgWa9wf) | [halucynation](https://open.spotify.com/artist/1siPPfl5m8kmN0quVdFfzL) | [Going South](https://open.spotify.com/album/76H9nf4nKGPSfxu2bTj2H6) | 3:02 | 2026-01-29 | 2026-03-03 |
+| [Gold Bars](https://open.spotify.com/track/7tOKyNunKElBFGIzrDyvoc) | [Highway Jay](https://open.spotify.com/artist/5DiKeSa0Wrr5ShwTSbIRjR) | [Curse of Johnny](https://open.spotify.com/album/3aA8uKDqT07y98S5Ic7nXR) | 2:24 | 2026-05-11 |  |
 | [Gonzo](https://open.spotify.com/track/0hkHE5hYqBQcaeKxyKr259) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Gonzo](https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c) | 2:55 | 2026-03-05 |  |
 | [Good Things](https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Good Things](https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-24 | 2026-01-15 |
@@ -175,6 +177,7 @@
 | [Guau Guau](https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 4:32 | 2025-11-03 | 2025-12-01 |
 | [Guitar Talk](https://open.spotify.com/track/7mbal2GFI0GvBTchDj61bO) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [Guitar Talk](https://open.spotify.com/album/5UhF5qbdtztphs2f6wqpOa) | 2:48 | 2026-01-29 | 2026-03-03 |
 | [Gélido](https://open.spotify.com/track/4bKbELQHfllBUDB8cFH6ri) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Gélido](https://open.spotify.com/album/0Ws3kH0TFGWPdCXo3cTe9C) | 3:00 | 2025-11-11 | 2025-12-01 |
+| [H\. O\. T\. \(Helen Of Troy\)](https://open.spotify.com/track/2HKUpHEqJbPAUufq9vGpkP) | [Young Milla](https://open.spotify.com/artist/421ZXXqByMXM4G7VjBa6K5) | [H\. O\. T\. \(Helen Of Troy\)](https://open.spotify.com/album/7Cou1drdzxHfmfzMVaFH9u) | 4:24 | 2026-05-11 |  |
 | [Had Enough](https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf) | [Rules Man](https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe) | [Had Enough](https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC) | 3:28 | 2025-12-26 | 2026-01-25 |
 | [Halftime](https://open.spotify.com/track/01zUhHXnsvqEKaUbwubELW) | [Victoria Ibek](https://open.spotify.com/artist/49Y9JM0W6cbP1dxGZ7z5SS) | [Halftime](https://open.spotify.com/album/1tmgOOS0quA3LwKb9j5zwk) | 3:05 | 2026-03-09 |  |
 | [Hallelujah](https://open.spotify.com/track/4NqOMrht9seUtUw54kap5Q) | [Highlyfe Earl](https://open.spotify.com/artist/36SIhWxeax5jHjWP3pQjNa), [1 OF A KAI](https://open.spotify.com/artist/0tsDsJLHoOIU3AhDosfPrQ), [JAY SUAVE](https://open.spotify.com/artist/30GrLG3wzbjqrVyocoxcWp) | [HELLBOYZ](https://open.spotify.com/album/4RisMx8FZ4ik57GZtKfWwE) | 3:23 | 2026-03-09 |  |
@@ -345,6 +348,7 @@
 | [S.I.T.W](https://open.spotify.com/track/2XfnSLdry08chNzmBE6ZKO) | [JiuLing](https://open.spotify.com/artist/5R4qDx6PY8KuwUVv1cvumY) | [Something in the Water](https://open.spotify.com/album/65fQUzWkrBvAMJBO84gj9r) | 3:27 | 2025-12-22 | 2026-01-15 |
 | [SAFE SPACE](https://open.spotify.com/track/5inf6KBpzOAEjEJLeJf0jH) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:00 | 2026-01-06 | 2026-02-21 |
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-30 | 2026-01-05 |
+| [Same Ol](https://open.spotify.com/track/0bDz7KTcpgyinGhRLiAFlS) | [Sam Watson](https://open.spotify.com/artist/2kKoGgC3dc984v8Jq1FenP) | [Just Listen EP](https://open.spotify.com/album/1InJV1CZU9tbEAdi6SPWxW) | 2:43 | 2026-05-11 |  |
 | [Save The Best For Last](https://open.spotify.com/track/3Mcjz31kMKpc59D8daHA0g) | [Zyan Reign](https://open.spotify.com/artist/1IWotw8Fo7DCQN6wkMEeSo) | [Save The Best For Last](https://open.spotify.com/album/1r3EoH7YlImwTLUYcDXfVd) | 3:48 | 2025-12-26 | 2026-01-15 |
 | [Say](https://open.spotify.com/track/3riDQLqEBfI8VdOHoqqiV8) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 4:00 | 2025-11-11 | 2025-12-01 |
 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-02-08 |  |

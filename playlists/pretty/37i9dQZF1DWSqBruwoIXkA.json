@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Mulaa Joans",
-  "num_followers": 2394242,
+  "num_followers": 2394225,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198371,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 163586,
       "name": "1 step forward, 3 steps back",
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198371,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
-      "added_at": "2025-01-10 05:00:11",
-      "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 197732,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
-    },
-    {
       "added_at": "2025-08-18 14:23:42",
       "album": {
         "name": "Guitar Songs",
@@ -707,6 +691,22 @@
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+    },
+    {
+      "added_at": "2025-01-10 05:00:11",
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 197732,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
     },
     {
       "added_at": "2026-01-09 05:00:49",
@@ -937,38 +937,6 @@
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
-    },
-    {
-      "added_at": "2026-02-27 05:19:15",
-      "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
-    },
-    {
       "added_at": "2025-06-13 04:00:59",
       "album": {
         "name": "Zombie",
@@ -983,6 +951,22 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1015,6 +999,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2026-02-27 05:19:15",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
     },
     {
-      "added_at": "2025-04-11 04:08:48",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Some Protector",
-      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
-    },
-    {
       "added_at": "2025-08-17 04:45:45",
       "album": {
         "name": "savior",
@@ -1095,6 +1079,22 @@
       "duration_ms": 180626,
       "name": "savior",
       "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
+    },
+    {
+      "added_at": "2025-04-11 04:08:48",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Some Protector",
+      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
     },
     {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "SOS",
@@ -1175,6 +1159,22 @@
       "duration_ms": 158840,
       "name": "Special",
       "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+    },
+    {
+      "added_at": "2025-09-05 04:00:27",
+      "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
       "added_at": "2025-07-30 06:17:37",
@@ -1493,38 +1493,6 @@
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
-      "added_at": "2026-02-20 05:13:45",
-      "album": {
-        "name": "No More Heart To Break",
-        "url": "https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 217917,
-      "name": "No More Heart To Break",
-      "url": "https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 169990,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "i wish you cheated",
@@ -1539,6 +1507,22 @@
       "duration_ms": 190626,
       "name": "i wish you cheated",
       "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
+    },
+    {
+      "added_at": "2026-02-20 05:13:45",
+      "album": {
+        "name": "No More Heart To Break",
+        "url": "https://open.spotify.com/album/1IqQ989Pv2zO8K33HRXknk"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 217917,
+      "name": "No More Heart To Break",
+      "url": "https://open.spotify.com/track/2Aw6y57VpYel8CmRWtODTn"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
-    },
-    {
-      "added_at": "2026-01-23 05:58:48",
-      "album": {
-        "name": "Love To Hate Me",
-        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Love To Hate Me",
-      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
     },
     {
       "added_at": "2025-08-08 04:00:48",
@@ -1607,6 +1591,22 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": "2026-01-23 05:58:48",
+      "album": {
+        "name": "Love To Hate Me",
+        "url": "https://open.spotify.com/album/0ZTzjWMvCojnPErhSvcR22"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Love To Hate Me",
+      "url": "https://open.spotify.com/track/24hGRuiXla6Kqu0uuBZZXC"
     },
     {
       "added_at": "2025-04-01 00:04:02",
@@ -1865,22 +1865,6 @@
       "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
     },
     {
-      "added_at": "2026-03-13 04:00:46",
-      "album": {
-        "name": "teach you to love me",
-        "url": "https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 189192,
-      "name": "teach you to love me",
-      "url": "https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL"
-    },
-    {
       "added_at": "2025-03-14 04:00:03",
       "album": {
         "name": "Want Me",
@@ -1911,6 +1895,22 @@
       "duration_ms": 193429,
       "name": "i wish u knew",
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+    },
+    {
+      "added_at": "2026-03-13 04:00:46",
+      "album": {
+        "name": "teach you to love me",
+        "url": "https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 189192,
+      "name": "teach you to love me",
+      "url": "https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2089,6 +2089,22 @@
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
+      "added_at": "2025-11-07 05:00:51",
+      "album": {
+        "name": "Her Face",
+        "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 203312,
+      "name": "Her Face",
+      "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
+    },
+    {
       "added_at": "2026-01-16 05:00:45",
       "album": {
         "name": "Over",
@@ -2107,22 +2123,6 @@
       "duration_ms": 229346,
       "name": "Over (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
-    },
-    {
-      "added_at": "2025-11-07 05:00:51",
-      "album": {
-        "name": "Her Face",
-        "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 203312,
-      "name": "Her Face",
-      "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
     },
     {
       "added_at": "2025-07-11 04:00:20",

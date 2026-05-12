@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 92670,
+  "num_followers": 92669,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "KGB",
+        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 157316,
+      "name": "KGB",
+      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "That's When You Know",
         "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 193842,
       "name": "That's When You Know",
       "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "KGB",
-        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 157316,
-      "name": "KGB",
-      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
-      },
-      "artists": [
-        {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 188767,
       "name": "Hell On Me",
       "url": "https://open.spotify.com/track/4XzAJ5UubRHl8mSx3T4Aab"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "AREA 41",
         "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 188652,
       "name": "MVP",
       "url": "https://open.spotify.com/track/1L7324QK3osE201YXxrrrl"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -971,6 +971,30 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Irish Tears",
+        "url": "https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Irish Tears - Radio Edit",
+      "url": "https://open.spotify.com/track/3U1aPqHP4mRwnCy9oW55YL"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "AREA 41",
         "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 138310,
       "name": "Barney",
       "url": "https://open.spotify.com/track/3Z1MunMxvhyk6l36QiyTop"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Irish Tears",
-        "url": "https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK"
-      },
-      "artists": [
-        {
-          "name": "Thaiboy Digital",
-          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Irish Tears - Radio Edit",
-      "url": "https://open.spotify.com/track/3U1aPqHP4mRwnCy9oW55YL"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "duration_ms": 81944,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Everyone Around Me Dancing",
         "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 254014,
       "name": "Always",
       "url": "https://open.spotify.com/track/12Hhc4vvZv3gC8nGxcIBwf"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Move Time",
-        "url": "https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 219661,
-      "name": "Move Time",
-      "url": "https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of April",

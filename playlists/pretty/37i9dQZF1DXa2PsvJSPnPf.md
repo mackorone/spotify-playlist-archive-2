@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,928 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,924 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 57 | [Free \(Not Afraid to Die\)](https://open.spotify.com/track/6aa9jJaR6doT20dBnO9wkU) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:30 |
 | 58 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 |
 | 59 | [It Knows Me \- Alt Version](https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Lean On Me EP](https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe) | 4:02 |
-| 60 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 |
-| 61 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
+| 60 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
+| 61 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 |
 | 62 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
 | 63 | [Sunshine Kisses](https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI) | [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Anything Without You](https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl) | 4:00 |
 | 64 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 84 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 |
 | 85 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 |
 | 86 | [Heart Swell](https://open.spotify.com/track/2mML5QnqL781rheJbrmJuW) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Heart Swell](https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7) | 4:09 |
-| 87 | [I Think Of You \(feat\. Ruston Kelly\)](https://open.spotify.com/track/0lCsl0fx0eXqt4GjvoZkjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [I Think of You \(The Heartache Collection\)](https://open.spotify.com/album/79sDvY5z5bsXMfCq6iegQ6) | 3:17 |
-| 88 | [July Jackson \- Billy Horton Sessions](https://open.spotify.com/track/0mgeY4RQLtvDtmqp8A5m9n) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [July Jackson \(Billy Horton Sessions\)](https://open.spotify.com/album/39gJS5syykqaNY6U4DHwvW) | 2:43 |
+| 87 | [July Jackson \- Billy Horton Sessions](https://open.spotify.com/track/0mgeY4RQLtvDtmqp8A5m9n) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [July Jackson \(Billy Horton Sessions\)](https://open.spotify.com/album/39gJS5syykqaNY6U4DHwvW) | 2:43 |
+| 88 | [I Think Of You \(feat\. Ruston Kelly\)](https://open.spotify.com/track/0lCsl0fx0eXqt4GjvoZkjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [I Think of You \(The Heartache Collection\)](https://open.spotify.com/album/79sDvY5z5bsXMfCq6iegQ6) | 3:17 |
 | 89 | [What’s Left Of The Valley](https://open.spotify.com/track/3DNS0SkJf0BgEcbcJp4emw) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Depreciated](https://open.spotify.com/album/1YfYKrsK953RSyGiMUBixx) | 3:18 |
 | 90 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 |
 | 91 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 |

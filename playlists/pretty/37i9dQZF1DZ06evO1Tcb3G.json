@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 522605,
+  "num_followers": 522670,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAADiXk9LanC6FO9CjSKxPLhj",
+  "snapshot_id": "af/KgAAAAADf/QQlEy2+PxmTMjlP65+v",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Snake Eyes",
-      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Snake Eyes",
+      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 173400,
       "name": "Timshel",
       "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 314893,
-      "name": "Lover of the Light",
-      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn"
     },
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 267946,
-      "name": "There Will Be Time",
-      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+      "duration_ms": 190034,
+      "name": "Just Smoke",
+      "url": "https://open.spotify.com/track/2zQsaJTFKkFInvAvTaurHY"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 190034,
-      "name": "Just Smoke",
-      "url": "https://open.spotify.com/track/2zQsaJTFKkFInvAvTaurHY"
+      "duration_ms": 267946,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
     },
     {
       "added_at": null,

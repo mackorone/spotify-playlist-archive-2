@@ -3127,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "i'm not joking",
+        "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234605,
+      "name": "i'm not joking",
+      "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
+    },
+    {
+      "album": {
         "name": "Gone Now",
         "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
@@ -4346,7 +4364,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 154960,
       "name": "New York",
       "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"

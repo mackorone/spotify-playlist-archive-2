@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Josylvio & Yung Felix
 
-1,722 songs - 3 day 4 hr 26 min
+1,723 songs - 3 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1 Blik](https://open.spotify.com/track/2XOh5jm2wPNPmU3E9rm2vR) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn), [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [1 Blik](https://open.spotify.com/album/3uz3ExgfI5hX946ENpRegq) | 3:13 | 2024-08-29 | 2024-12-06 |
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 | 2022-08-26 |
 | [100 BADDIES](https://open.spotify.com/track/50qzJGOIFZt1eDRIibvpUa) | [Lavinnio](https://open.spotify.com/artist/4iJcUwlYdqkwZNVEiCJAYt), [Della](https://open.spotify.com/artist/7eWWFCSHZYcLaeRLkcuVEy) | [100 BADDIES](https://open.spotify.com/album/3rwjBo8HmiEP8PD8IvTLkt) | 3:06 | 2024-09-19 | 2024-11-05 |
-| [110 Hoog](https://open.spotify.com/track/39VDuYazMx3BUTPMJ90moQ) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Petrus](https://open.spotify.com/album/5wLwbrjdXDt072PxVQk51y) | 2:09 | 2026-02-05 |  |
+| [110 Hoog](https://open.spotify.com/track/39VDuYazMx3BUTPMJ90moQ) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Petrus](https://open.spotify.com/album/5wLwbrjdXDt072PxVQk51y) | 2:09 | 2026-02-05 | 2026-05-12 |
 | [123](https://open.spotify.com/track/3HtokXT9dpaexyJCCL1Nrb) | [Shay](https://open.spotify.com/artist/18pJ7y3ZiJRlfNlF3wuSOJ) | [123](https://open.spotify.com/album/170t24bFTKky4XYSes6cWP) | 1:57 | 2025-07-03 | 2025-09-12 |
 | [2 Kanten](https://open.spotify.com/track/4AVIjhILX1rtfHoAE2BlHe) | [Bella](https://open.spotify.com/artist/4ny2jX3s8drdHQJv2UMrzi) | [2 Kanten](https://open.spotify.com/album/5XKTGqakgMXTPBY9oIJFFb) | 2:47 | 2022-11-10 | 2022-12-09 |
 | [2 Shots \#WJK](https://open.spotify.com/track/3oNdra2SUGdTYXV9aOwEpM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [2%](https://open.spotify.com/album/0qVbPbULA8Cjf2is1KUAZK) | 1:45 | 2025-09-04 | 2025-09-26 |
@@ -1416,6 +1416,7 @@
 | [Spijbelaar](https://open.spotify.com/track/16goKPajUOPBGaOVOTRGWY) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Spijbelaar](https://open.spotify.com/album/5lmn83ndqMmd1IkJBjzKun) | 2:13 | 2024-03-21 | 2024-05-03 |
 | [Spiritual Mami](https://open.spotify.com/track/4iomHXx4iKSlGt2XuqqXv6) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Spiritual Mami](https://open.spotify.com/album/5QC8aWdrNjDRmqa6QGdoKj) | 2:18 | 2024-10-10 | 2025-01-24 |
 | [Splash](https://open.spotify.com/track/0W5T6KsHZH1XfOTLnuWlgg) | [Jorda](https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Splash](https://open.spotify.com/album/5XxKAoAqJUAnVxpjswzcwN) | 2:08 | 2022-10-06 | 2022-11-26 |
+| [Splash 2.0](https://open.spotify.com/track/78YZVUVc2djUsJczAEePSZ) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Indjo](https://open.spotify.com/artist/1dqn6oHnYEIepmrxLKuh0K) | [Splash 2.0](https://open.spotify.com/album/5BfDMZ48RB2V908K76kZnC) | 2:26 | 2026-05-11 |  |
 | [Spotlights](https://open.spotify.com/track/7t3VY0ZL1g2MbtlkwMWuc3) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Spotlights](https://open.spotify.com/album/6EN7pihdD6MqjoEiIRxXky) | 2:24 | 2025-10-16 | 2025-11-07 |
 | [Stamina](https://open.spotify.com/track/77NNLReuj9fe6hcz0oQRPW) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Stamina](https://open.spotify.com/album/39STTwg1P4mOGRrVGCXNwV) | 2:13 | 2024-09-20 | 2025-02-14 |
 | [Star Of The Night](https://open.spotify.com/track/45qjd3VSiol37cpi4uEmAc) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Star Of The Night](https://open.spotify.com/album/2VlMg2lB94K0Pqjb0nYPsE) | 2:49 | 2025-02-06 | 2025-05-16 |

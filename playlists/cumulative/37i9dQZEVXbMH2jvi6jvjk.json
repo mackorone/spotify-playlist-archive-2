@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -6166,7 +6166,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 428571,
       "name": "Bang'bonile (feat. Djy Vino, Mbuzi & Seun1401)",
       "url": "https://open.spotify.com/track/5M1kWifN6OsUf26l41jx35"
@@ -9668,7 +9668,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12116,7 +12116,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -19392,7 +19392,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 381570,
       "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
       "url": "https://open.spotify.com/track/5NbkOhZw2pfkLAipJmojSK"
@@ -33142,7 +33142,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 441830,
       "name": "Mark Zuckerberg (feat. Slyzza Rsa)",
       "url": "https://open.spotify.com/track/1lrAlFWcmIyDEo3a0VvPYo"
@@ -44004,7 +44004,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 334522,
       "name": "Rato Laka",
       "url": "https://open.spotify.com/track/46NRGSM8TnSkJexKnQtoKw"
@@ -46416,7 +46416,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 158677,
       "name": "Sedilaka",
       "url": "https://open.spotify.com/track/4udwOofnUZxmxc7dQOKVvv"
@@ -50617,6 +50617,28 @@
     },
     {
       "album": {
+        "name": "Stofi Stofoza",
+        "url": "https://open.spotify.com/album/1Vdgswee5DNDF5yuPSTivy"
+      },
+      "artists": [
+        {
+          "name": "PLG Chanty",
+          "url": "https://open.spotify.com/artist/0iy6SpAZnBvSYpBw2bFoUQ"
+        },
+        {
+          "name": "King Master",
+          "url": "https://open.spotify.com/artist/3UyunvyMpuABbBYq608e5m"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Stofi Stofoza",
+      "url": "https://open.spotify.com/track/6RKspdi4VVi2NNyyDJlL8p"
+    },
+    {
+      "album": {
         "name": "STOP and GO",
         "url": "https://open.spotify.com/album/2gY0JQkS1nANoMqC2qciBZ"
       },
@@ -52318,7 +52340,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -57812,7 +57834,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 368000,
       "name": "uValo (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/0y7lIKJXlNFPcqVCxfnvOO"
@@ -58166,7 +58188,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 259709,
       "name": "Uyoncengwa Unyoko",
       "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Afedersin",
+        "url": "https://open.spotify.com/album/21w61liVLiVknFGkg4c2E7"
+      },
+      "artists": [
+        {
+          "name": "Lark2020",
+          "url": "https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160327,
+      "name": "Afedersin",
+      "url": "https://open.spotify.com/track/2kKMrqXZCGXjvHTi3GmhWn"
+    },
+    {
+      "album": {
         "name": "AKTIV II",
         "url": "https://open.spotify.com/album/3CGt2iYFmQlIGGiK5DGbmS"
       },
@@ -200,6 +218,32 @@
       "duration_ms": 163809,
       "name": "Amat\u00f6r",
       "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
+    },
+    {
+      "album": {
+        "name": "BABAYLA ZOR YARI\u015eIRLAR",
+        "url": "https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "ANKARA TATANGALAR",
+      "url": "https://open.spotify.com/track/4MkndNZKOkfiasYF06RiWx"
     },
     {
       "album": {
@@ -696,7 +740,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -2627,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "Hileli",
+        "url": "https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Ajda Pekkan",
+          "url": "https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202431,
+      "name": "Hileli",
+      "url": "https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8"
+    },
+    {
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3hiG6TaCzWuemBgd2fyh3A"
       },
@@ -3882,7 +3948,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 189061,
       "name": "Olacak Gibi De\u011fil",
       "url": "https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0"
@@ -4016,7 +4082,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 132468,
       "name": "PARE PARE",
       "url": "https://open.spotify.com/track/4vCsCrXmOdfyfdDUq550KY"

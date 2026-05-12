@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-14",
-  "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Doyina",
+  "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Josiah Queen",
   "name": "Faith & Folk",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 191547,
       "name": "a light in me",
       "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
+    },
+    {
+      "album": {
+        "name": "A Little Proof",
+        "url": "https://open.spotify.com/album/3kib8dhAPY3YlTzXNBBLbs"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "A Little Proof",
+      "url": "https://open.spotify.com/track/1WhCbxots0LKs51pD1pjxU"
     },
     {
       "album": {
@@ -226,7 +244,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 267400,
       "name": "Always With Us",
       "url": "https://open.spotify.com/track/719UrWI1jmnW0EuntljNQi"
@@ -480,7 +498,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 184968,
       "name": "Calls on Mute",
       "url": "https://open.spotify.com/track/4Y0dB0hdu31NQlwDLn7Jii"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 223858,
       "name": "Cold Of The Night",
       "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
@@ -694,6 +712,24 @@
       "duration_ms": 269586,
       "name": "Cottage of my Heart",
       "url": "https://open.spotify.com/track/3ONSLbba48wOntTUreV3x8"
+    },
+    {
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/3K7NkjnmS35TSFbPfDCDWy"
+      },
+      "artists": [
+        {
+          "name": "Ian Austin",
+          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289297,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5x2kmkdNsq0iauVu4EjsDl"
     },
     {
       "album": {
@@ -864,10 +900,28 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 190266,
       "name": "Dusty Bibles",
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
+    },
+    {
+      "album": {
+        "name": "El Roi",
+        "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
+      },
+      "artists": [
+        {
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "El Roi",
+      "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
     },
     {
       "album": {
@@ -1141,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Gonna Be Alright",
+        "url": "https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230377,
+      "name": "Gonna Be Alright",
+      "url": "https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7"
+    },
+    {
+      "album": {
         "name": "good grief!",
         "url": "https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp"
       },
@@ -1192,6 +1264,24 @@
       "duration_ms": 201386,
       "name": "Great I Am",
       "url": "https://open.spotify.com/track/6UErbipPEX3JrL12ycS46q"
+    },
+    {
+      "album": {
+        "name": "Green Enough Here",
+        "url": "https://open.spotify.com/album/5quV3mUtdtrrWAcR6gMW8L"
+      },
+      "artists": [
+        {
+          "name": "John Long",
+          "url": "https://open.spotify.com/artist/3MvG2GuTUyc26loK7bjclg"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263296,
+      "name": "Green Enough Here",
+      "url": "https://open.spotify.com/track/6rti4KR6VDdB7Gw6ru4Dsm"
     },
     {
       "album": {
@@ -1290,6 +1380,42 @@
       "duration_ms": 221506,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/51KeJ8jlI4gOgATp4esban"
+    },
+    {
+      "album": {
+        "name": "Healing Begins",
+        "url": "https://open.spotify.com/album/6D9u41NHe1EtPRadv4RJWY"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199251,
+      "name": "Healing Begins",
+      "url": "https://open.spotify.com/track/567BdOYLCpU6Z0jevmcda4"
+    },
+    {
+      "album": {
+        "name": "Heaven on Earth (Acoustic)",
+        "url": "https://open.spotify.com/album/31NiDsWFAnVoZr4e3bP2bt"
+      },
+      "artists": [
+        {
+          "name": "Eauclaire",
+          "url": "https://open.spotify.com/artist/1cSsV0wPlWa1tgosxuC6CZ"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219705,
+      "name": "Heaven On Earth - Acoustic",
+      "url": "https://open.spotify.com/track/1tn6FXIInoqFESGdCeFHId"
     },
     {
       "album": {
@@ -1392,6 +1518,28 @@
       "duration_ms": 219000,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/5rheLVvZebhd8Y7NS8qgqy"
+    },
+    {
+      "album": {
+        "name": "Hold Me Up",
+        "url": "https://open.spotify.com/album/6Y7YankyJF0H9HUoofcRHm"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        },
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152481,
+      "name": "Hold Me Up",
+      "url": "https://open.spotify.com/track/5hfOwP6REbZckEZjMhxDAA"
     },
     {
       "album": {
@@ -2079,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Lion's Den",
+        "url": "https://open.spotify.com/album/7rAe1Pv4xZuSvusgZiJOGS"
+      },
+      "artists": [
+        {
+          "name": "Madalyn Rae",
+          "url": "https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "Lion's Den",
+      "url": "https://open.spotify.com/track/0c0x284UYBjzJn8NxMSota"
+    },
+    {
+      "album": {
         "name": "Ain't It Beautiful",
         "url": "https://open.spotify.com/album/3mS0nZMNLG6tlfIbcWi0xO"
       },
@@ -2151,6 +2317,42 @@
     },
     {
       "album": {
+        "name": "make heaven crowded",
+        "url": "https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179407,
+      "name": "make heaven crowded",
+      "url": "https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/7v6PaOPYXSkXcencPZAJyB"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306800,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/2LdJa1o3zJzUmcR3RKRW3L"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/6Z23ZPPX4xFxt7VTkhdUqK"
       },
@@ -2166,6 +2368,24 @@
       "duration_ms": 209523,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4MeX3f2lEmUtKjr282jXIU"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/68cQfWXaS9X9FHSvN8n88K"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203301,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/09JRNcuGwk4bTh0tFJrisp"
     },
     {
       "album": {
@@ -2216,7 +2436,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 226649,
       "name": "Need A River",
       "url": "https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3"
@@ -2234,7 +2454,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 188800,
       "name": "New Me",
       "url": "https://open.spotify.com/track/6FNIph6EcdmpEHp33oiN0d"
@@ -2274,6 +2494,24 @@
       "duration_ms": 137250,
       "name": "not alone",
       "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
+    },
+    {
+      "album": {
+        "name": "Old Man, Young Man",
+        "url": "https://open.spotify.com/album/7m99MGDenPIDdvEv8nWXw0"
+      },
+      "artists": [
+        {
+          "name": "Embleton",
+          "url": "https://open.spotify.com/artist/5c0MLyuxR1EaRCMNPcgT7J"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169518,
+      "name": "Not As Far",
+      "url": "https://open.spotify.com/track/4xswEXFhduCMm1aYsN00H2"
     },
     {
       "album": {
@@ -2368,10 +2606,32 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 215000,
       "name": "Orange Streetlights - Acoustic Version",
       "url": "https://open.spotify.com/track/7ARJORinm3hArKdebAj4AT"
+    },
+    {
+      "album": {
+        "name": "Help Me Try (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/4uXsPyBoc9uEWxNNZUtMoJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        },
+        {
+          "name": "Blake Lacy",
+          "url": "https://open.spotify.com/artist/7C4Uh1pNVlCZOG19LPu5ZA"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216111,
+      "name": "Our Bread - Acoustic Version",
+      "url": "https://open.spotify.com/track/7lLrhPJ83ThM2GN8Zau2N3"
     },
     {
       "album": {
@@ -2430,6 +2690,24 @@
       "duration_ms": 191541,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/5ItEXOc56IVFINy8Wtu5xa"
+    },
+    {
+      "album": {
+        "name": "River of Gladness",
+        "url": "https://open.spotify.com/album/2xxYvlcq5Xz6c3VBZrGvPF"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211779,
+      "name": "Rather Be a Fool",
+      "url": "https://open.spotify.com/track/7lvlR1jkwCmHeSKsQnPlIl"
     },
     {
       "album": {
@@ -2520,7 +2798,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 222445,
       "name": "Seek Your Face",
       "url": "https://open.spotify.com/track/7zklUez8gfOdWtlro9qMHC"
@@ -2538,7 +2816,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 250375,
       "name": "set me free",
       "url": "https://open.spotify.com/track/2CCDZY2CsefzPrnPLXBEH2"
@@ -2578,6 +2856,24 @@
       "duration_ms": 252323,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/46yQOmkGXt4mDTR9gH4bh4"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4CWHnPYIQx5yOimaSjCuTI"
+      },
+      "artists": [
+        {
+          "name": "Grace + Max",
+          "url": "https://open.spotify.com/artist/1slHwQqkai0tDfw5GzCHBr"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172882,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0dPWyx4P6DzoahnpCqfDZE"
     },
     {
       "album": {
@@ -2712,7 +3008,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 189893,
       "name": "Starving Soul",
       "url": "https://open.spotify.com/track/6xUCgFB4XS6tRp3bw3Tozf"
@@ -3070,7 +3366,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 210722,
       "name": "The Perfect Love of Christ",
       "url": "https://open.spotify.com/track/4IRiIXKYZXQqPbdN5ux0Hz"
@@ -3092,6 +3388,24 @@
       "duration_ms": 184922,
       "name": "The Promise - Acoustic",
       "url": "https://open.spotify.com/track/6hQURY0zZNovk2TUE0RmIH"
+    },
+    {
+      "album": {
+        "name": "The Storyteller Man",
+        "url": "https://open.spotify.com/album/56hk8Lt4gimN2gsEL0s3Av"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "The Storyteller Man",
+      "url": "https://open.spotify.com/track/2gCggmhjTHQaNNZHoGLJL1"
     },
     {
       "album": {
@@ -3333,6 +3647,42 @@
     },
     {
       "album": {
+        "name": "Vices",
+        "url": "https://open.spotify.com/album/2AdhEfiegi4zBfD35z5o0w"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284814,
+      "name": "Vices",
+      "url": "https://open.spotify.com/track/65ou3JOhPK3lH0T5EXq7U2"
+    },
+    {
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/7gb8rVHzoK2r0FChlQ2mnH"
+      },
+      "artists": [
+        {
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246750,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3WeWmxVQDN7VHm5yu9fKhh"
+    },
+    {
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/4vaz0lbQo1hsa7rfUliz3R"
       },
@@ -3344,7 +3694,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 224925,
       "name": "Wait - Radio Version",
       "url": "https://open.spotify.com/track/5e6dXG9W7VFpTbeaErPMyr"

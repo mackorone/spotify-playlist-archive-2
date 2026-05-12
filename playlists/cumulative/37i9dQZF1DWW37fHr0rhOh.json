@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Mark Bishop",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: 11th Hour",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 162567,
       "name": "99 1/2 - Studio Version",
       "url": "https://open.spotify.com/track/2nibTRJU1WdEUylLAz3jvu"
@@ -146,6 +146,24 @@
       "duration_ms": 123025,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7jtQO77dvRhXpeOKAva25x"
+    },
+    {
+      "album": {
+        "name": "American Songbook: Country Classics and Gospel Favorites",
+        "url": "https://open.spotify.com/album/26xqPaSQZyqNCLsPofqrOy"
+      },
+      "artists": [
+        {
+          "name": "Wilson Fairchild",
+          "url": "https://open.spotify.com/artist/5zxGtpR76zylOuvbb4scYB"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2ir4xUtK9VcWox8uk1BdOt"
     },
     {
       "album": {
@@ -840,7 +858,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 165613,
       "name": "God, Do it Again",
       "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
@@ -902,6 +920,24 @@
       "duration_ms": 198511,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU"
+    },
+    {
+      "album": {
+        "name": "Good News Savior",
+        "url": "https://open.spotify.com/album/5s9JxWx84LCbB6GR6IoBp8"
+      },
+      "artists": [
+        {
+          "name": "The Hyssongs",
+          "url": "https://open.spotify.com/artist/043cyQpixgQIhsOQRxxmyW"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203645,
+      "name": "Good News Savior",
+      "url": "https://open.spotify.com/track/50EksrsAPup9RlTSPuo5yR"
     },
     {
       "album": {
@@ -996,7 +1032,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 310791,
       "name": "Great Is Your Mercy",
       "url": "https://open.spotify.com/track/6JYCkN32Q9xesWaYM0APaZ"
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 187411,
       "name": "In The Fire",
       "url": "https://open.spotify.com/track/2CKYfQdw3YnbkLBUXolTR2"
@@ -1680,7 +1716,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 215027,
       "name": "I\u2019m Amazed",
       "url": "https://open.spotify.com/track/6rHWWNilB4xllwf3p9r79k"
@@ -1977,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/0AmFH7yrQmL1hPNMGtTwEl"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0ySM79PoW4ncnUusqOmDF5"
+    },
+    {
+      "album": {
         "name": "Country Bluegrass Homecoming (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/2QegcGhKqpVst8qu55lqIp"
       },
@@ -2228,6 +2282,28 @@
       "duration_ms": 256948,
       "name": "No One Greater",
       "url": "https://open.spotify.com/track/2o8GNK8ydsmYvQxCrs17wT"
+    },
+    {
+      "album": {
+        "name": "No Other Word for Grace But Amazing (feat. Houston's First Worship)",
+        "url": "https://open.spotify.com/album/5YwZvBXljUDLGEgeufrHvX"
+      },
+      "artists": [
+        {
+          "name": "Janet Paschal",
+          "url": "https://open.spotify.com/artist/0zRYgjw7RxECPWbPuMxdFl"
+        },
+        {
+          "name": "Houston's First Worship",
+          "url": "https://open.spotify.com/artist/6EQfhGJjFtxB7gr4LN9tPb"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233265,
+      "name": "No Other Word for Grace But Amazing (feat. Houston's First Worship)",
+      "url": "https://open.spotify.com/track/7dcySo0BLYIKjwejGo6DHw"
     },
     {
       "album": {
@@ -2657,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/1q5WEAs7dh9xMoyNTKSYHV"
+      },
+      "artists": [
+        {
+          "name": "Malpass Brothers",
+          "url": "https://open.spotify.com/artist/0n6ksQGTz5Fc6hb7knrkOa"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/57v1ULqpyS182nbQ5N0I1W"
+    },
+    {
+      "album": {
         "name": "Love Came Calling",
         "url": "https://open.spotify.com/album/6QckA0hXPaoHmER0KrqUin"
       },
@@ -2744,7 +2838,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 190000,
       "name": "Shut Him Up",
       "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
@@ -2784,6 +2878,24 @@
       "duration_ms": 159000,
       "name": "So High",
       "url": "https://open.spotify.com/track/4PYdJQUN1pFsPJJcsJ4hvo"
+    },
+    {
+      "album": {
+        "name": "First Assembly of God",
+        "url": "https://open.spotify.com/album/7AkDV2SoDm4pwxr1aBzBxm"
+      },
+      "artists": [
+        {
+          "name": "Belle Frantz",
+          "url": "https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255782,
+      "name": "Softly & Tenderly at First Assembly of God",
+      "url": "https://open.spotify.com/track/1GULLnvXlVqarOSVrKTOfi"
     },
     {
       "album": {
@@ -3910,7 +4022,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 207533,
       "name": "Welcome To The Family",
       "url": "https://open.spotify.com/track/0PsajF6Y12NRWPWBIfBgHG"
@@ -4110,6 +4222,24 @@
       "duration_ms": 256000,
       "name": "Wonderful, Counselor (feat. Katy Peach)",
       "url": "https://open.spotify.com/track/3y0CrBe1mvayMIIBWJnYSt"
+    },
+    {
+      "album": {
+        "name": "Yes and Amen",
+        "url": "https://open.spotify.com/album/5mQiSnTO1AD3F4vzQV0z0z"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Yes and Amen",
+      "url": "https://open.spotify.com/track/6NgqIiBr7hzLMWILjAzUOu"
     },
     {
       "album": {

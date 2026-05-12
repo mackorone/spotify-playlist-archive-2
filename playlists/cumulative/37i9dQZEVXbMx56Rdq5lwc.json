@@ -14518,10 +14518,28 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
       "album": {
@@ -16920,6 +16938,24 @@
       "duration_ms": 184426,
       "name": "How it go",
       "url": "https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "album": {
@@ -21188,7 +21224,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 209261,
       "name": "Kokia esi",
       "url": "https://open.spotify.com/track/6w75xbCUX0A3TpU26SwxH7"
@@ -39930,7 +39966,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -39948,7 +39984,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -44476,7 +44512,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 162320,
       "name": "Vaikyst\u0117s Stogas",
       "url": "https://open.spotify.com/track/1PGihkGGcCzhRcPJNPRmdY"
@@ -48876,6 +48912,32 @@
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"
+    },
+    {
+      "album": {
+        "name": "\u0428\u0430\u0434\u044d",
+        "url": "https://open.spotify.com/album/6DBQO6xPJEwKISFHrlYkjI"
+      },
+      "artists": [
+        {
+          "name": "By \u0418\u043d\u0434\u0438\u044f",
+          "url": "https://open.spotify.com/artist/0BPOpRKw4vLwPFp4LsFRpO"
+        },
+        {
+          "name": "Xcho",
+          "url": "https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB"
+        },
+        {
+          "name": "\u041c\u041e\u0422",
+          "url": "https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168941,
+      "name": "\u0428\u0430\u0434\u044d",
+      "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMx56Rdq5lwc"

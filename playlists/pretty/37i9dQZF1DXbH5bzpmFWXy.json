@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 308072,
+  "num_followers": 308075,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,18 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "DINAST\u00cdA",
-        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
+        "name": "Nalguita y Teta",
+        "url": "https://open.spotify.com/album/0jwalP0wios13VlRWKILbC"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 185326,
-      "name": "dopamina",
-      "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
+      "duration_ms": 187764,
+      "name": "Nalguita y Teta",
+      "url": "https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -71,18 +67,22 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Nalguita y Teta",
-        "url": "https://open.spotify.com/album/0jwalP0wios13VlRWKILbC"
+        "name": "DINAST\u00cdA",
+        "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 187764,
-      "name": "Nalguita y Teta",
-      "url": "https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ"
+      "duration_ms": 185326,
+      "name": "dopamina",
+      "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -951,30 +951,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "De Fresa y Coco",
-        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 165447,
-      "name": "De Fresa y Coco",
-      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "Pocos A\u00f1os Mil Errores",
         "url": "https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 198355,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "Maniaque",
+        "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "duration_ms": 155970,
+      "name": "Maniaque",
+      "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 253560,
       "name": "Bitch Niggaz",
       "url": "https://open.spotify.com/track/5XkeTGKcCkGF8l6fA9YpsS"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "Maniaque",
-        "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
-      },
-      "artists": [
-        {
-          "name": "Moreno X4",
-          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
-        },
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        }
-      ],
-      "duration_ms": 155970,
-      "name": "Maniaque",
-      "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
     },
     {
       "added_at": "2026-04-10 06:00:46",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Kid Milli & OKASHII\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,528 likes - 129 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,556 likes - 129 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
 | 2 | [Wahssap](https://open.spotify.com/track/7oR2DrfPeTpmDpsxMvXnIP) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa) | [MAINSTREAM](https://open.spotify.com/album/1oE3vYi9tPtKDTXwj9juFF) | 3:43 |
-| 3 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 3 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 4 | [SOUTHSIDE FREESTYLE](https://open.spotify.com/track/3eZuMMTctRIgyHQyy89Xnm) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [SOUTHSIDE FREESTYLE](https://open.spotify.com/album/205R2QCs7jttreoBLWXSey) | 2:51 |
 | 5 | [incense \(feat\. Sik\-K\)](https://open.spotify.com/track/6xaQfsdGCnqkcvjyRobZWK) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [aurora](https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW) | 3:17 |
 | 6 | [NEW AMBITION SOUND!](https://open.spotify.com/track/0U9DUG6WjqUjRsvEMziUJC) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [MilliMax](https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq) | [AMBITION 5/10](https://open.spotify.com/album/3etqC5rZJlcAwxgmditKP4) | 3:03 |

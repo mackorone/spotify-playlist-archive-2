@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Son Rompe Pera en portada. ",
-  "num_followers": 974508,
+  "num_followers": 974397,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "Defecto Perfecto",
-        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Sognare",
-      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
+        "name": "Defecto Perfecto",
+        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Sognare",
+      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
+        "name": "Excusa",
+        "url": "https://open.spotify.com/album/3XvY5etZVkqTQHV3Ha4tEH"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Excusa",
+      "url": "https://open.spotify.com/track/2SFHPqjgKmlVMcNTBRvIIU"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "Excusa",
-        "url": "https://open.spotify.com/album/3XvY5etZVkqTQHV3Ha4tEH"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Excusa",
-      "url": "https://open.spotify.com/track/2SFHPqjgKmlVMcNTBRvIIU"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
         "name": "Ay Ay Ay",
         "url": "https://open.spotify.com/album/5SIzBNK2TOYizzkc6PriUu"
       },
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
+        "name": "Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 232250,
+      "name": "Somos Ajenos - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
         "name": "Mala Junta",
         "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
-        "name": "Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 232250,
-      "name": "Somos Ajenos - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
         "name": "Laberinto",
         "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
     },
     {
       "added_at": "2026-05-08 06:00:15",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-05-08 06:00:15",
       "album": {
+        "name": "Perro de Pavlov",
+        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "duration_ms": 197271,
+      "name": "Perro de Pavlov",
+      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
+    },
+    {
+      "added_at": "2026-05-08 06:00:15",
+      "album": {
         "name": "Nunca Quise Irme",
         "url": "https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 208714,
       "name": "Nunca Quise Irme",
       "url": "https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv"
-    },
-    {
-      "added_at": "2026-05-08 06:00:15",
-      "album": {
-        "name": "Perro de Pavlov",
-        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
-      },
-      "artists": [
-        {
-          "name": "Los Concorde",
-          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
-        }
-      ],
-      "duration_ms": 197271,
-      "name": "Perro de Pavlov",
-      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
     },
     {
       "added_at": "2026-05-08 06:00:15",

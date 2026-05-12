@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: PARK JI HOON (\ubc15\uc9c0\ud6c8)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: MINGI of ATEEZ (\ubbfc\uae30(\uc5d0\uc774\ud2f0\uc988))) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 189000,
       "name": "Bodyelse",
       "url": "https://open.spotify.com/track/7CZuzaa3vc92qg3Pv3sACj"
@@ -3441,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "ddok ddok ddok",
+        "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155054,
+      "name": "ddok ddok ddok",
+      "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
+    },
+    {
+      "album": {
         "name": "ZERO : FEVER Part.3",
         "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
@@ -3510,6 +3528,24 @@
       "duration_ms": 216584,
       "name": "Devil",
       "url": "https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42"
+    },
+    {
+      "album": {
+        "name": "FIX OFF Desire Project : ORIGIN",
+        "url": "https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku"
+      },
+      "artists": [
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147467,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R"
     },
     {
       "album": {
@@ -5348,7 +5384,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 185000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"

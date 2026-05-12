@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 69499,
+  "num_followers": 69495,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAD3XPHM+z1acecQRgmSwCOy",
+  "snapshot_id": "af/KgAAAAADus3KfbCccums2RGgRGjdZ",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 192469,
-      "name": "La Rutina",
-      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 195453,
       "name": "La Indocumentada",
       "url": "https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 192469,
+      "name": "La Rutina",
+      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 158217,
       "name": "Hola Mi Amor",
       "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 174263,
+      "name": "Cha Cha - Bandera Blanca",
+      "url": "https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 209669,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 174263,
-      "name": "Cha Cha - Bandera Blanca",
-      "url": "https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "Bolerito",
+      "url": "https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181866,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "Bolerito",
-      "url": "https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Desaparecida",
+      "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 164720,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Desaparecida",
-      "url": "https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame",
+        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 189679,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Magdalena",
         "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 198933,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame",
-        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 189679,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
     },
     {
       "added_at": null,

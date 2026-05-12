@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 154717,
+  "num_followers": 154731,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAC2WG7XNYlluVY0qvSuJVOs",
+  "snapshot_id": "af/KgAAAAAAp5v8djATtDH5Ur/NaYtS5",
   "tracks": [
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "ex:el",
+        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
       "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        },
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 180200,
-      "name": "History Of Touches",
-      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
+      "duration_ms": 282013,
+      "name": "Ooops",
+      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
     },
     {
       "added_at": null,
@@ -803,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ex:el",
-        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        },
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 282013,
-      "name": "Ooops",
-      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
+      "duration_ms": 180200,
+      "name": "History Of Touches",
+      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
     },
     {
       "added_at": null,

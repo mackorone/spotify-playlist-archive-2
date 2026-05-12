@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: Amanda Cook",
+  "description": "Experience the best of live worship here. Cover: Benjamin Williams Hastings,  Aodh\u00e1n King, and Cody Carnes",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 335459,
       "name": "At the heart of it - From Worship Together",
       "url": "https://open.spotify.com/track/6jURYt7pmRYeJcmXyIux9T"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 465379,
       "name": "Center - Live",
       "url": "https://open.spotify.com/track/1yu6UKfMvbFZ0esY29yYlT"
@@ -2117,6 +2117,32 @@
     },
     {
       "album": {
+        "name": "Easy (Live)",
+        "url": "https://open.spotify.com/album/50PGB16CDiOQzPWg0gG6a9"
+      },
+      "artists": [
+        {
+          "name": "Far Flung Worship",
+          "url": "https://open.spotify.com/artist/1jHG9HcV6v5nYLXq7g4f8g"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Jeremy Caruthers",
+          "url": "https://open.spotify.com/artist/60hYBlKQiT5EhJQarvndz5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547366,
+      "name": "Easy - Live",
+      "url": "https://open.spotify.com/track/7acMffPaR4bIcN9TAF2GLU"
+    },
+    {
+      "album": {
         "name": "Easy to Worship (Live in New Orleans)",
         "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
       },
@@ -2198,7 +2224,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 419549,
       "name": "Even Though I Walk - Live At Church",
       "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
@@ -2427,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "FATHER'S HOUSE",
+        "url": "https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360173,
+      "name": "FATHER'S HOUSE",
+      "url": "https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN"
+    },
+    {
+      "album": {
         "name": "Church Volume Two (Live)",
         "url": "https://open.spotify.com/album/2DJ7zYt905Ec0nFwWhImm6"
       },
@@ -2640,6 +2684,24 @@
       "duration_ms": 373714,
       "name": "For All To See - Live",
       "url": "https://open.spotify.com/track/6rhkegIMOQ9ImEecKWQ7Ra"
+    },
+    {
+      "album": {
+        "name": "For Christ Alone",
+        "url": "https://open.spotify.com/album/6XyZQneh11X5ZCESjUbIDc"
+      },
+      "artists": [
+        {
+          "name": "2819 Worship",
+          "url": "https://open.spotify.com/artist/6d6h6Yy5YXwnyM1AZpomir"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 779330,
+      "name": "For Christ Alone",
+      "url": "https://open.spotify.com/track/7Bo3bNQF6DJ9mKHwvymFZb"
     },
     {
       "album": {
@@ -3422,6 +3484,28 @@
       "duration_ms": 355706,
       "name": "He Has Done Great Things - Live",
       "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
+    },
+    {
+      "album": {
+        "name": "He Shall Be Praised",
+        "url": "https://open.spotify.com/album/43VPtfSNzYl6qxsFMkZJVE"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372208,
+      "name": "He Shall Be Praised",
+      "url": "https://open.spotify.com/track/4mJ051qlagU9OHSZrB4bXY"
     },
     {
       "album": {
@@ -4910,7 +4994,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 539000,
       "name": "Jesus Be The Name (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
@@ -5371,6 +5455,24 @@
     },
     {
       "album": {
+        "name": "Know Your Name",
+        "url": "https://open.spotify.com/album/7sfVqskY9vO2XqKlXY2pMv"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272545,
+      "name": "Know Your Name",
+      "url": "https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb"
+    },
+    {
+      "album": {
         "name": "LION: Live From The Loft",
         "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
       },
@@ -5763,6 +5865,24 @@
     },
     {
       "album": {
+        "name": "Living in Freedom",
+        "url": "https://open.spotify.com/album/0maav8QUDjOFmnjNCTP4O0"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271331,
+      "name": "Living in Freedom - Live",
+      "url": "https://open.spotify.com/track/5ziyw3RKK177iARqLyTqc5"
+    },
+    {
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -5950,6 +6070,36 @@
       "duration_ms": 468272,
       "name": "Love of God (Live)",
       "url": "https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn"
+    },
+    {
+      "album": {
+        "name": "Love Of My Life (Live)",
+        "url": "https://open.spotify.com/album/0CeeiriXCYTPYiKzk1z2Bl"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563991,
+      "name": "Love Of My Life - Live",
+      "url": "https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0"
     },
     {
       "album": {
@@ -6188,7 +6338,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/25KMQpquMxNuI91NGguYSu"
@@ -7651,6 +7801,24 @@
     },
     {
       "album": {
+        "name": "Redeemed",
+        "url": "https://open.spotify.com/album/2YKpKKfCf5x1kAsS4eh8fa"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219116,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/0b0itI0G0JoDRHjPBOn67i"
+    },
+    {
+      "album": {
         "name": "Living Breathing Miracle",
         "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
       },
@@ -8867,6 +9035,28 @@
     },
     {
       "album": {
+        "name": "The Highest (No Other Name)",
+        "url": "https://open.spotify.com/album/4UVh0LWobjrPWMl6qiW1rn"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kendra Benay",
+          "url": "https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457441,
+      "name": "The Highest (No Other Name)",
+      "url": "https://open.spotify.com/track/4WwAsRnQYWX5EfXPmQZhfK"
+    },
+    {
+      "album": {
         "name": "The Joy (Live)",
         "url": "https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO"
       },
@@ -9162,6 +9352,24 @@
       "duration_ms": 200733,
       "name": "The Sweetest Sound",
       "url": "https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r"
+    },
+    {
+      "album": {
+        "name": "There Goes That Man (Live From LA)",
+        "url": "https://open.spotify.com/album/0ll8vWWFOJtbTUEDbhhQ4C"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391434,
+      "name": "There Goes That Man - Live From LA",
+      "url": "https://open.spotify.com/track/7k925ZA0zngjoMslHLYo8a"
     },
     {
       "album": {
@@ -9762,7 +9970,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 302559,
       "name": "Up To Something (Live)",
       "url": "https://open.spotify.com/track/4xK22fRATicm5NnGFiMNLk"
@@ -10232,6 +10440,32 @@
       "duration_ms": 466453,
       "name": "Wonders - Live",
       "url": "https://open.spotify.com/track/41hfGbrDy6Ke4kQ71tfu4n"
+    },
+    {
+      "album": {
+        "name": "Wondrous Cross (When I Survey)",
+        "url": "https://open.spotify.com/album/4q7bUASyy3q5cKYKgsQCdE"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Wondrous Cross (When I Survey)",
+      "url": "https://open.spotify.com/track/4XkcQH03mFG7ofpLmLG5xP"
     },
     {
       "album": {

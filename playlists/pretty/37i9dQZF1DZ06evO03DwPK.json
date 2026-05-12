@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4307578,
+  "num_followers": 4307873,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAC5YzLr4aoqvHN28rpYzWDj",
+  "snapshot_id": "af/KgAAAAADdb0Th3PDRgkU94tBpe6NK",
   "tracks": [
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 255455,
-      "name": "Put On A Smile",
-      "url": "https://open.spotify.com/track/5f7UJCMrA1VRLvbPrq1h0G"
+      "duration_ms": 219389,
+      "name": "Fly As Me",
+      "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5"
     }
   ],
   "unique_name": "This Is Bruno Mars",

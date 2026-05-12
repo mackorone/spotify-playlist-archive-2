@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40402,
+  "num_followers": 40406,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAUou06GEFVzwTN4l5Lhb+e",
+  "snapshot_id": "af/KgAAAAACJPj0rw+sAA+E8XsLqbDW3",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Kelly Price",
-          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
-        }
-      ],
-      "duration_ms": 230527,
-      "name": "Sue Me (feat. Kelly Price)",
-      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bed of Roses (with Wale)",
         "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 185531,
       "name": "Bed of Roses (with Wale)",
       "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "duration_ms": 230527,
+      "name": "Sue Me (feat. Kelly Price)",
+      "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 249271,
-      "name": "The Girls on Drugs",
-      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 249271,
+      "name": "The Girls on Drugs",
+      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for Paris",
-        "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY"
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
       "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 288004,
-      "name": "French Toast (feat. Wale & Joyce Wrice)",
-      "url": "https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84"
+      "duration_ms": 304613,
+      "name": "Beautiful Bliss",
+      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
     }
   ],
   "unique_name": "This Is Wale",

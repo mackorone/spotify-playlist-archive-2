@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 47 min
+82 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 | 2024-09-07 |  |
 | [Freestyle](https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 3:42 | 2024-09-07 |  |
 | [Friday Night](https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 1:54 | 2024-09-07 | 2026-01-03 |
-| [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 | 2024-09-07 |  |
+| [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 | 2024-09-07 | 2026-05-12 |
 | [Get TF Out My Face \(feat\. Young Thug\)](https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 4:25 | 2024-09-07 |  |
 | [Ghetto](https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm) | [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Downtown: Life Under The Gun](https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB) | 5:13 | 2024-09-07 |  |
 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 | 2024-11-29 |  |
@@ -40,6 +40,7 @@
 | [Hennessy \(feat\. Rich Homie Quan & T.I.\)](https://open.spotify.com/track/1LSzP5PdW3qpp10DfRJ4np) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [OT: Outta Town](https://open.spotify.com/album/7Gi89QmxlWM930gmffkDVF) | 5:04 | 2025-12-23 | 2026-03-02 |
 | [I F\*ck Wit You Girl](https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:47 | 2024-09-07 |  |
 | [I Heard \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7p9i63OhLwIPAEWILdPZho) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 3:36 | 2024-09-07 |  |
+| [I Just Might](https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 3:44 | 2026-05-12 |  |
 | [I Know \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 4:19 | 2024-09-07 |  |
 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 | 2024-09-07 |  |
 | [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 | 2024-09-07 |  |

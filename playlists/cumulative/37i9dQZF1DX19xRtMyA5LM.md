@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Lijpe
 
-432 songs - 19 hr 23 min
+433 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Hasj In De Air](https://open.spotify.com/track/0zxuJsbL1OkjkZPd1Dn4Xm) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Hasj In De Air](https://open.spotify.com/album/1D4bG7zg4UxOiHkl00fsLk) | 2:44 | 2025-10-16 | 2025-12-12 |
 | [Haten](https://open.spotify.com/track/6KeLzjmdULnJxScv0gcXtD) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/3DYtCrZMQQ4gsiNK5AUo8I) | 2:26 | 2026-03-19 | 2026-04-10 |
 | [Haze & Strains](https://open.spotify.com/track/0L2Fwl6IYdoYJaBvBKA1S9) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Tonic](https://open.spotify.com/artist/2KL07t2Mwl372C5vvpu1Fl) | [Haze & Strains](https://open.spotify.com/album/5DHCQTY8hZ4p0YAKIq6qOH) | 2:20 | 2025-10-02 | 2025-10-17 |
-| [Heavy Heart](https://open.spotify.com/track/7vm1CJUVILsMk5fN7oIRGh) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Heavy Heart](https://open.spotify.com/album/4PKTUSv1RnXJ3WAkf8fYxW) | 1:56 | 2026-03-26 |  |
+| [Headshots](https://open.spotify.com/track/4chZIaQQmDMkdURoJotQFF) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Headshots](https://open.spotify.com/album/6z32wHAIxBEqw5OQYAGTbK) | 2:22 | 2026-05-11 |  |
+| [Heavy Heart](https://open.spotify.com/track/7vm1CJUVILsMk5fN7oIRGh) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Heavy Heart](https://open.spotify.com/album/4PKTUSv1RnXJ3WAkf8fYxW) | 1:56 | 2026-03-26 | 2026-05-12 |
 | [HEFTIG MAN](https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [HEFTIG MAN](https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY) | 2:25 | 2026-01-15 | 2026-04-10 |
 | [Helle](https://open.spotify.com/track/2aR0lhwRBTcUjgmkSiHhqw) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Monsif](https://open.spotify.com/artist/2zGNNkuDbxiDVcIdt5fUUk) | [Helle](https://open.spotify.com/album/4ScVZ5zfPMjHnql6maEQBW) | 1:58 | 2025-07-17 | 2025-08-15 |
 | [Helse Weg](https://open.spotify.com/track/13J4yy3fZ0lL4hrPFuZD2f) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Helse Weg](https://open.spotify.com/album/3kRD21plGymtL79egsmrM9) | 8:12 | 2025-12-18 | 2026-02-13 |

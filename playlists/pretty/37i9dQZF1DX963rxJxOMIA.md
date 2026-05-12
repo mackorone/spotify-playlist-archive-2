@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como Ryan Castro y J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,237 likes - 69 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,236 likes - 69 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

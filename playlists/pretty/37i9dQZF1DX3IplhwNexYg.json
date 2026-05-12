@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 113979,
+  "num_followers": 113978,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
-      },
-      "artists": [
-        {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
-        }
-      ],
-      "duration_ms": 169850,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Only God Was Above Us",
         "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 169850,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 208298,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
     },
     {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "OVERWHELMING FEAR",
+        "url": "https://open.spotify.com/album/6GjxBVbGpQcZdPxJqAC93w"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 250083,
+      "name": "OVERWHELMING FEAR",
+      "url": "https://open.spotify.com/track/6T2TSk6rNtySifGzQCWztN"
+    },
+    {
       "added_at": "2025-10-03 13:34:33",
       "album": {
         "name": "steamroller",
@@ -1515,22 +1531,6 @@
       "duration_ms": 186666,
       "name": "Blood On The Hospital Floor",
       "url": "https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "OVERWHELMING FEAR",
-        "url": "https://open.spotify.com/album/6GjxBVbGpQcZdPxJqAC93w"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 250083,
-      "name": "OVERWHELMING FEAR",
-      "url": "https://open.spotify.com/track/6T2TSk6rNtySifGzQCWztN"
     },
     {
       "added_at": "2025-09-01 14:27:56",

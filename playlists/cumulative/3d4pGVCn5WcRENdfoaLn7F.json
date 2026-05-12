@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Ignite Devil",
+        "url": "https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177940,
+      "name": "Ignite Devil",
+      "url": "https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw"
+    },
+    {
+      "album": {
         "name": "In Gloom",
         "url": "https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr"
       },
@@ -4681,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Something Going Down",
+        "url": "https://open.spotify.com/album/0dybQYta1tbwwYKNusjGWm"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131206,
+      "name": "Something Going Down",
+      "url": "https://open.spotify.com/track/1IMz6vOVbR7r7GoIXruUYZ"
+    },
+    {
+      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt"
       },
@@ -4912,6 +4948,28 @@
       "duration_ms": 257799,
       "name": "Survive You",
       "url": "https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3"
+    },
+    {
+      "album": {
+        "name": "A Bridge Across the Sea",
+        "url": "https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188403,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
     },
     {
       "album": {

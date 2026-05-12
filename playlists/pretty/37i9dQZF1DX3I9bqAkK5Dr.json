@@ -1,37 +1,13 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Suswaram",
-  "num_followers": 44050,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Mayukh Velagapudi",
+  "num_followers": 44061,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4h6p+WzTL7gkdZL9NbHrwmkOtq",
+  "snapshot_id": "AAAAANn0mF/vVKQHHj/6d9SdJQlg6H5e",
   "tracks": [
-    {
-      "added_at": "2026-05-04 09:49:26",
-      "album": {
-        "name": "Evare",
-        "url": "https://open.spotify.com/album/2nYjlrqfgV7HaadrJV676Y"
-      },
-      "artists": [
-        {
-          "name": "SS Vardhan",
-          "url": "https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL"
-        },
-        {
-          "name": "Pavan Kalyan",
-          "url": "https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi"
-        },
-        {
-          "name": "Ananya Bhaskar",
-          "url": "https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr"
-        }
-      ],
-      "duration_ms": 297308,
-      "name": "Evare",
-      "url": "https://open.spotify.com/track/0tqltBDUtMxr880sGdub7C"
-    },
     {
       "added_at": "2026-05-01 00:31:27",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 227666,
       "name": "Ee Premanthaa Neeve",
       "url": "https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM"
+    },
+    {
+      "added_at": "2026-05-04 09:49:26",
+      "album": {
+        "name": "Evare",
+        "url": "https://open.spotify.com/album/2nYjlrqfgV7HaadrJV676Y"
+      },
+      "artists": [
+        {
+          "name": "SS Vardhan",
+          "url": "https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL"
+        },
+        {
+          "name": "Pavan Kalyan",
+          "url": "https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi"
+        },
+        {
+          "name": "Ananya Bhaskar",
+          "url": "https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr"
+        }
+      ],
+      "duration_ms": 297308,
+      "name": "Evare",
+      "url": "https://open.spotify.com/track/0tqltBDUtMxr880sGdub7C"
     },
     {
       "added_at": "2026-05-04 09:38:37",

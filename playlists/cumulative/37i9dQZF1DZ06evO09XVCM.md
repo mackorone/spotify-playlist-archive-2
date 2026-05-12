@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 27 min
+84 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Many Mourn For Bob](https://open.spotify.com/track/0bYPMrLUMFwFRuzgTe6XOW) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/3tmtknz4dDX3MgfOAMYrf1) | 3:52 | 2026-03-07 |  |
 | [Many Mourn For Bob \- Brightside \- New Vinyl Album out 4/18 on Record Store Day](https://open.spotify.com/track/5WwmgkK6N4NY5CSGKk93Po) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/0Dq4skfj3ndef7urknPx48) | 3:52 | 2026-02-07 | 2026-03-07 |
 | [Melancholy Mood](https://open.spotify.com/track/7nY59uK9jauHVfeppS65Ho) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:30 | 2024-09-17 | 2024-09-25 |
-| [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 | 2024-03-09 |  |
+| [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 | 2024-03-09 | 2026-05-12 |
 | [Mmmm Mmmm](https://open.spotify.com/track/1rVLXkHg9a2w6A8qGigwsN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 3:30 | 2024-02-01 | 2024-03-10 |
 | [Mons Vaticanus](https://open.spotify.com/track/5sqA1UkZY26kCgEQyPG1hQ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Mons Vaticanus](https://open.spotify.com/album/0IiRHb6GoraeEiJbVWnyRd) | 3:53 | 2025-12-16 | 2026-01-22 |
 | [Never Deny You](https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:02 | 2024-09-25 |  |
@@ -77,6 +77,7 @@
 | [Still Is Still Moving To Me \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/1Achm7qxXbkawlhQgRPoJv) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/1d6bEE3fpUfav6T1IdUBth) | 3:20 | 2024-05-10 | 2024-08-10 |
 | [Still Is Still Moving To Me \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/2g8VO3EAsee0UQBukJFuVm) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM) | 3:20 | 2024-02-01 | 2024-05-10 |
 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 | 2024-05-25 |  |
+| [Sweet Divine](https://open.spotify.com/track/1h8JLrs9O8HcbkF0jdaORZ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 4:22 | 2026-05-12 |  |
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Toots Hibbert](https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:18 | 2024-02-04 | 2025-11-04 |
 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 | 2024-02-01 |  |
 | [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 | 2024-06-10 |  |

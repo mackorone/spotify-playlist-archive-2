@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,494 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,502 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 53 | [Jesus Paid It All](https://open.spotify.com/track/6kuxkwpFzBAN3tkpVvI91e) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [Jesus Paid It All](https://open.spotify.com/album/6zWzouvahcEfXpSVEEZeWv) | 3:09 |
 | 54 | [Gracious Lord](https://open.spotify.com/track/3csuYThKL5z7cuGbuhm5f3) | [Steph Macleod](https://open.spotify.com/artist/3pdrv2oYJFmI3DC2lqaaYq), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Gracious Lord](https://open.spotify.com/album/1prNKDOrR7fyNegYHZ4Shi) | 4:09 |
 | 55 | [Everything That Has Breath](https://open.spotify.com/track/4JjGXmIpAp2L2rlujEgBHk) | [Andrew Ehrenzeller](https://open.spotify.com/artist/4Y9fPOXXI1w5XxUd9rQnfz) | [Everything That Has Breath](https://open.spotify.com/album/3zEw5GJJCGYaNg2IAKxUSA) | 4:40 |
-| 56 | [Always Be](https://open.spotify.com/track/1mZqB4FRwerubQ26O9z4mG) | [Mercy Hill Worship](https://open.spotify.com/artist/79XCwQwlYAbrMH3uARAcqM), [Joe Richardson](https://open.spotify.com/artist/1Hdol4eW8Vhv76rWnh4yRW) | [Always Be](https://open.spotify.com/album/7zOfAEWyX0qLGgb61Auwpe) | 5:07 |
+| 56 | [Always Be](https://open.spotify.com/track/1mZqB4FRwerubQ26O9z4mG) | [Mercy Hill Worship](https://open.spotify.com/artist/79XCwQwlYAbrMH3uARAcqM), [Joe Richardson](https://open.spotify.com/artist/7GTyEMVTxjUYCmC2acn2zc) | [Always Be](https://open.spotify.com/album/7zOfAEWyX0qLGgb61Auwpe) | 5:07 |
 | 57 | [How Great, How Great](https://open.spotify.com/track/2dfInGRzwb7oGnpz6vEumA) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99), [Lizzy Abernethy](https://open.spotify.com/artist/37mfYThmTClprx2faRLAgn) | [How Great, How Great](https://open.spotify.com/album/1GXwDTAQ9l6mWeMg53lbLX) | 4:12 |
 | 58 | [REDEEMER \- Live](https://open.spotify.com/track/4iVGRpFLsGclFqGCbjt3xW) | [Space Coast Worship](https://open.spotify.com/artist/3eprviYbaE6ulIzGP0jvk3), [Avery Doreen](https://open.spotify.com/artist/0eHUOghuxi4WpZp5YNGYdE) | [REDEEMER \(Live\)](https://open.spotify.com/album/0i5XnrlFCB3GUzBxwl0FtI) | 5:14 |
 | 59 | [Worship My King](https://open.spotify.com/track/1NP4fErjL0hoKIZSJ8xo4R) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Worship My King](https://open.spotify.com/album/2yO99Sjkh70l8tSxcHvUnR) | 5:00 |
 | 60 | [Hello God \- Radio Edit](https://open.spotify.com/track/3F7OrUTHFZylP0QcVCmc9S) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Hello God \(Radio Edit\)](https://open.spotify.com/album/28JfrEJzBcctCRRPkybsJh) | 3:59 |
-| 61 | [RATATATAH \(Out n Holy\)](https://open.spotify.com/track/5h4CqXlBZXHDr0Z000VkXa) | [LaToyah Bless](https://open.spotify.com/artist/6imirmWhnsKWxd44PfrV80) | [RATATATAH \(Out n Holy\)](https://open.spotify.com/album/4zOSkPHAMOHB4Iq2ZS2Srq) | 2:51 |
+| 61 | [RATATATAH](https://open.spotify.com/track/5h4CqXlBZXHDr0Z000VkXa) | [LaToyah Bless](https://open.spotify.com/artist/6imirmWhnsKWxd44PfrV80) | [RATATATAH](https://open.spotify.com/album/4zOSkPHAMOHB4Iq2ZS2Srq) | 2:51 |
 | 62 | [ORIGINAL](https://open.spotify.com/track/2QPQn6u51X7C65wMhRxdTo) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [ORIGINAL](https://open.spotify.com/album/2bW58YVutEuU94SdVRPICO) | 4:55 |
 | 63 | [LEFT HAND \(feat\. Terrian\)](https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [LEFT HAND](https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL) | 3:37 |
 | 64 | [CONTAGIOUS](https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [CONTAGIOUS](https://open.spotify.com/album/2CSHie0AwgLENxL03AoPtF) | 2:31 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 359819,
+  "num_followers": 359979,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACfz/RkKzol855QaZoF/qZF",
+  "snapshot_id": "af/KgAAAAACEJGK4/g9bAMOzFtvfB7is",
   "tracks": [
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "Para Que Seas Feliz (Desde Mexico)",
+        "url": "https://open.spotify.com/album/4OpxCiCgxucjYara2UOhno"
       },
       "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 127186,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
+      "duration_ms": 243108,
+      "name": "Para Que Seas Feliz - Desde Mexico",
+      "url": "https://open.spotify.com/track/2FjZ1xUf2HASAodSGlnyTw"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que Seas Feliz (Desde Mexico)",
-        "url": "https://open.spotify.com/album/4OpxCiCgxucjYara2UOhno"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 243108,
-      "name": "Para Que Seas Feliz - Desde Mexico",
-      "url": "https://open.spotify.com/track/2FjZ1xUf2HASAodSGlnyTw"
+      "duration_ms": 127186,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204246,
-      "name": "Traigo Saldo y Ganas de Rogar",
-      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Caballo",
         "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 181701,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden Vol. II",
         "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 268331,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/0vQtxhm39aWCD3rcK00OZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 204246,
+      "name": "Traigo Saldo y Ganas de Rogar",
+      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 181701,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Soy De La Calle - En Vivo",
-      "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chimba",
         "url": "https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 174315,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/6PczmhvRYkPBUhE1utqDRW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 244125,
+      "name": "Soy De La Calle - En Vivo",
+      "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
     },
     {
       "added_at": null,

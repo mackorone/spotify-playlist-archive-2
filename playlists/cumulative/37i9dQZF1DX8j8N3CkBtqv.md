@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Ronit Vinta, Rahgir, Aneesh  and other exciting artists.
 
-1,444 songs - 3 day 7 hr 16 min
+1,445 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Better Than This](https://open.spotify.com/track/3AKXYHa9w1gyX1fEAwDssN) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Better Than This](https://open.spotify.com/album/1qRLVRUB4QJkNzxNIah5Pc) | 2:06 | 2026-02-27 | 2026-05-02 |
 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 | 2025-04-11 | 2025-07-12 |
 | [BETWEEN FLOWERS](https://open.spotify.com/track/1XjapKb8GMXCoO2WuWlX8x) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Manreet Khara](https://open.spotify.com/artist/5IbqlFtFzlcqZW0KlnyVkq) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:00 | 2025-02-07 | 2025-06-21 |
+| [Bewafaa](https://open.spotify.com/track/14L7ig3OZ9PDZuoH4njwHj) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Bewafaa](https://open.spotify.com/album/1mGvTYlfHuLNWOlLJSnvVF) | 2:48 | 2026-05-08 |  |
 | [Bewajah](https://open.spotify.com/track/1Tpl9qlsFzRfWxRgtbNleS) | [Azamaan Hoyvoy](https://open.spotify.com/artist/1LbuU8d58KvC224d5abMiF), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Bewajah](https://open.spotify.com/album/1lH7wPAyuQUtx1A6iHrrcm) | 2:44 | 2024-02-02 | 2024-03-02 |
 | [Bewaqoof](https://open.spotify.com/track/787U7jL6PDEWaxe70WtIJh) | [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Bewaqoof](https://open.spotify.com/album/4Ba69DycDn5yMiFFonu2CG) | 2:10 | 2024-08-09 | 2024-09-07 |
 | [Bewaqt](https://open.spotify.com/track/10dJ2BfbWaS0cy9DldrOob) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Bewaqt](https://open.spotify.com/album/6Cbg6PGHoCizdfyxs7njXz) | 3:10 | 2026-01-23 | 2026-04-11 |
@@ -274,7 +275,7 @@
 | [Dariya](https://open.spotify.com/track/4u8xrxiKDqh2w8Q2wUjee4) | [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Dariya](https://open.spotify.com/album/6WVSEvJg5pezdpMlOU6dfi) | 3:09 | 2023-09-22 | 2023-10-21 |
 | [Darmiyaan](https://open.spotify.com/track/2LFeERkTASyfxYk8pvvxzE) | [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Darmiyaan](https://open.spotify.com/album/4gRfcgEuqyMmcscAKj59rb) | 3:48 | 2023-11-24 | 2023-12-16 |
 | [Darwaaze](https://open.spotify.com/track/4ex9xorhTcYDITsU7jacuy) | [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Darwaaze](https://open.spotify.com/album/7LDxErJ4rOcnwGtctKCi0D) | 2:33 | 2025-08-08 | 2025-08-16 |
-| [Darwaze](https://open.spotify.com/track/5ZyCERvkj7TFVB2OBmuv7Y) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Darwaze](https://open.spotify.com/album/3I4uhD2dMQFXCr37zWZZb0) | 2:46 | 2026-03-06 |  |
+| [Darwaze](https://open.spotify.com/track/5ZyCERvkj7TFVB2OBmuv7Y) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Darwaze](https://open.spotify.com/album/3I4uhD2dMQFXCr37zWZZb0) | 2:46 | 2026-03-06 | 2026-05-12 |
 | [Dasht E Tanhaayi](https://open.spotify.com/track/1IjXSmeMmJ5i6lEFxclmHU) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Dasht E Tanhaayi](https://open.spotify.com/album/6p0kEVBhBY4dDqbdkECiBZ) | 5:19 | 2025-07-04 | 2025-07-12 |
 | [Dastaan](https://open.spotify.com/track/1D8SWLARFABifWTJ0QMELf) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Harshvardhan Gadhvi](https://open.spotify.com/artist/4vqHtxsxPXsEQEwkE7QzeC), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Dastaan](https://open.spotify.com/album/0tvlw2SKjRe1h2XnKWAprx) | 3:06 | 2024-09-20 | 2024-11-30 |
 | [Dastaan\-E\-Shauq \- Acoustic](https://open.spotify.com/track/6nftytNoponXWIYJi3jhYz) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Dastaan\-E\-Shauq \(Acoustic\)](https://open.spotify.com/album/52tSwL4rH5KnlQfHCIYMMv) | 3:15 | 2023-04-14 | 2023-05-20 |

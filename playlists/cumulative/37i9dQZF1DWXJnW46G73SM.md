@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: بسيوني، زيد خالد، احمد ضياء
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: شيرين
 
-1,688 songs - 3 day 21 hr 56 min
+1,689 songs - 3 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,7 @@
 | [Nensa El Leil](https://open.spotify.com/track/5gVGlQ42sx0lfZena81pMp) | [Mohamed Samy](https://open.spotify.com/artist/5fFrme3y5uOMz38dF8TTR2) | [Nensa El Leil](https://open.spotify.com/album/4r6TzKnO0SNpD8qjgTlKmf) | 3:32 | 2023-11-16 | 2024-01-18 |
 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Red Bull Sika](https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66) | 3:00 | 2024-02-06 | 2024-03-13 |
 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/10StqOKDsfg3fR9RtisE1J) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nerga3 Le Awel Yom](https://open.spotify.com/album/1Ieu8XhYIerhLVPXdNo2Yt) | 3:00 | 2024-03-21 | 2024-06-14 |
-| [Nesety Nafsek \- A COLORS SHOW](https://open.spotify.com/track/3Q7Hci7JsOAgRL0yTc7wW6) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Nesety Nafsek \- A COLORS SHOW](https://open.spotify.com/album/3CPfldan1zUNakUnuqNIpG) | 3:25 | 2026-04-01 |  |
+| [Nesety Nafsek \- A COLORS SHOW](https://open.spotify.com/track/3Q7Hci7JsOAgRL0yTc7wW6) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Nesety Nafsek \- A COLORS SHOW](https://open.spotify.com/album/3CPfldan1zUNakUnuqNIpG) | 3:25 | 2026-04-01 | 2026-05-12 |
 | [Nesrah Fi Zaman \(Men Film Feha Eih Yaany\)](https://open.spotify.com/track/0Bhkw43EronQr9Rb4W6lIn) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nesrah Fi Zaman \(Men Film Feha Eih Yaany\)](https://open.spotify.com/album/6anwD47dNWW5K889jejmNj) | 3:00 | 2025-10-09 | 2026-04-02 |
 | [NOGOUM](https://open.spotify.com/track/422PILIziVLZxNxUbqZI7m) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [NOGOUM](https://open.spotify.com/album/1ll90zThmr4e42eXhLVXKk) | 2:35 | 2024-10-24 | 2024-12-06 |
 | [Nos Banat Baldak](https://open.spotify.com/track/20DeZwWJThCpSa4EQiTSYU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Nos Banat Baldak](https://open.spotify.com/album/2k7h0V2XiWoHIEz0TercUZ) | 2:08 | 2023-12-29 | 2023-12-31 |
@@ -1258,6 +1258,7 @@
 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 | 2025-07-17 | 2025-12-31 |
 | [تاني يوم](https://open.spotify.com/track/2iIkmitiGcPVDy0yyi0ydf) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [تاني يوم](https://open.spotify.com/album/0jdNG64HJtWzGsVXsqCcpt) | 2:49 | 2025-02-20 | 2025-03-05 |
 | [تايه يا ليل](https://open.spotify.com/track/7EydYsWxQoDNYJW8Q2jB0K) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [تايه يا ليل](https://open.spotify.com/album/3hG9GzkFgOgMehGniBmTzW) | 3:07 | 2025-05-01 | 2025-06-10 |
+| [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 | 2026-05-11 |  |
 | [تتر مسلسل إيجار قديم](https://open.spotify.com/track/78UmbZ12RIuxdH0DJPi79B) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [تتر مسلسل إيجار قديم](https://open.spotify.com/album/5PverpMPdObPEdRQ5AM41K) | 2:17 | 2022-11-17 | 2023-01-27 |
 | [تتر مسلسل اعلى نسبة مشاهدة](https://open.spotify.com/track/4Iiq2NVD8Y3bhZ6ArbH9JE) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [تتر مسلسل اعلى نسبة مشاهدة](https://open.spotify.com/album/1vnWziMG73K1Bg2N37t43k) | 3:15 | 2024-03-21 | 2024-06-14 |
 | [تتر مسلسل صدفة](https://open.spotify.com/track/12F6rNixnmVNXqqPaogMgj) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha), [اوكا](https://open.spotify.com/artist/3iBCuclUWFl1ozuyqphlyK), [Reham Haggag](https://open.spotify.com/artist/2Z98zeSBR1FrMBFXry65tV) | [تتر مسلسل صدفة](https://open.spotify.com/album/15jNREV1M2MUlVs0AjW3rO) | 3:15 | 2024-03-12 | 2024-06-14 |

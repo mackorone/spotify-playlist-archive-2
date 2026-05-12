@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,812 likes - 128 songs - 8 hr 14 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,814 likes - 133 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 126 | [Too Late](https://open.spotify.com/track/7LEdMzwSF2nVOl6z5tmiDK) | [The Cellar Doors](https://open.spotify.com/artist/3p3yvQb5e3beH9kkk9iIve) | [The Cellar Doors II](https://open.spotify.com/album/7kgu4rRNCXT19dUEd84BZ4) | 3:33 |
 | 127 | [Find My Way](https://open.spotify.com/track/7bBnQzXdNjsxqgf7FxP7bn) | [Tebtu](https://open.spotify.com/artist/4VVetWxuWhE6moggaKzJwB), [Tenet](https://open.spotify.com/artist/42zJQmRYrhAZQrpQL9ZVBn) | [Teb](https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC) | 3:13 |
 | 128 | [You don't know](https://open.spotify.com/track/0hyUxPdMK2EEgcB0zkykPX) | [Artaco](https://open.spotify.com/artist/04z5ZpKO2fzEgPaHZSK0yw) | [You don't know](https://open.spotify.com/album/3E9BfZrOVh8eTTU2TSUll8) | 5:13 |
+| 129 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 |
+| 130 | [Come Back To Me](https://open.spotify.com/track/70dmA7xWvf9oGD1WwJT9HW) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 3:42 |
+| 131 | [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 |
+| 132 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 |
+| 133 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 |
 
-Snapshot ID: `AAALWT86kGmQ4ghYHrbKlH8JOUwsP34O`
+Snapshot ID: `AAALXi6/F5u7r47mJ6EIuTQq3AKeoJY0`

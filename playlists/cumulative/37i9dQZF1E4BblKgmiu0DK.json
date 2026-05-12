@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Patricia Mage, Die Mannequin, The Donnas and more",
+  "description": "With Tssara, Patricia Mage, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 230480,
       "name": "Become a Star",
       "url": "https://open.spotify.com/track/0AkU8bq2NoY9ykLlTCeq1m"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 205401,
       "name": "Bright Side",
       "url": "https://open.spotify.com/track/1iz0iPGl5wBK440W2ceXFe"
@@ -1306,6 +1306,24 @@
       "duration_ms": 201596,
       "name": "Bruised",
       "url": "https://open.spotify.com/track/6zn1sTKFMyiPCoAYQyVc7I"
+    },
+    {
+      "album": {
+        "name": "Neon Skyline Overdrive",
+        "url": "https://open.spotify.com/album/754r2zI0LT0Rmb18ZN8P01"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103359,
+      "name": "Bruv, Skyline Ruckus",
+      "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
     },
     {
       "album": {
@@ -1500,10 +1518,28 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 194122,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/1Scg1u1yXmgEmRPlTpkvik"
+    },
+    {
+      "album": {
+        "name": "Neon Backroads Atlas",
+        "url": "https://open.spotify.com/album/0O9iniNA803S0V5MiMic7T"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65959,
+      "name": "Chilangolandia Truena, \u00d3rale.wav",
+      "url": "https://open.spotify.com/track/5vyAELammLza7wkXLlFYKS"
     },
     {
       "album": {
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 216461,
       "name": "doghouse",
       "url": "https://open.spotify.com/track/2Qpq2tED2PFhkF7V01c2XM"
@@ -1986,7 +2022,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 243281,
       "name": "Doll",
       "url": "https://open.spotify.com/track/6nxxyAxIg1B4RAaWg09j0C"
@@ -2768,7 +2804,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -2930,7 +2966,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 315360,
       "name": "Giant",
       "url": "https://open.spotify.com/track/2RTr6OJCeZDY4a8HKZ5m1x"
@@ -2952,6 +2988,24 @@
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
+    },
+    {
+      "album": {
+        "name": "Neon Skyline Overdrive",
+        "url": "https://open.spotify.com/album/754r2zI0LT0Rmb18ZN8P01"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106159,
+      "name": "Ginza Voltage, Senpai",
+      "url": "https://open.spotify.com/track/7IymNg6Ov2DMkO5bHFJua4"
     },
     {
       "album": {
@@ -2984,7 +3038,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 261981,
       "name": "Glass Eyes Cryin'",
       "url": "https://open.spotify.com/track/1pr01IymP1cUpd4efyrUzs"
@@ -3110,7 +3164,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -3236,7 +3290,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 168855,
       "name": "Hell and Everything Between",
       "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
@@ -4026,7 +4080,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -4098,7 +4152,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 140093,
       "name": "It's So Hard",
       "url": "https://open.spotify.com/track/26Jmgv2AhevezVezrDEIc1"
@@ -4350,7 +4404,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -4404,7 +4458,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 125831,
       "name": "Last Message",
       "url": "https://open.spotify.com/track/3iezZMzkcKTzZk31ggXVxE"
@@ -4873,6 +4927,24 @@
     },
     {
       "album": {
+        "name": "Voltage Railways",
+        "url": "https://open.spotify.com/album/0baES6ZIU3ADCoDWeG75ra"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92639,
+      "name": "Maboneng Megawatt, Bru",
+      "url": "https://open.spotify.com/track/2r6BmVTnI8HAtHAwhEp2x9"
+    },
+    {
+      "album": {
         "name": "MAMMA COM\u2019\u00c8",
         "url": "https://open.spotify.com/album/285rSdXsHc4r71aJjh6xyM"
       },
@@ -4884,7 +4956,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 258797,
       "name": "MAMMA COM\u2019\u00c8",
       "url": "https://open.spotify.com/track/4sqKgNhOmBhxjknLFE7jVv"
@@ -5154,7 +5226,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 180022,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/5XVGaEkX15Rza4c9L6p2GN"
@@ -5248,6 +5320,24 @@
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
+    },
+    {
+      "album": {
+        "name": "Voltage Across the Afterglow",
+        "url": "https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120799,
+      "name": "Mumbai Monsoon Riff, Yaar",
+      "url": "https://open.spotify.com/track/0M7fBG1M0RfhXcA9Hru297"
     },
     {
       "album": {
@@ -5518,7 +5608,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 227681,
       "name": "Not Cool With It",
       "url": "https://open.spotify.com/track/5npbs2bidYyfRqE6SpPIcD"
@@ -6213,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Voltage Railways",
+        "url": "https://open.spotify.com/album/0baES6ZIU3ADCoDWeG75ra"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96759,
+      "name": "Proper Northern Grit",
+      "url": "https://open.spotify.com/track/21RMxyGEDjKmu9UNB1QgTk"
+    },
+    {
+      "album": {
         "name": "Unbeautiful",
         "url": "https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm"
       },
@@ -6476,7 +6584,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 210866,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/6g5GzKW99wImAdpuo7mVwh"
@@ -6494,7 +6602,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 218200,
       "name": "Rich and Filthy",
       "url": "https://open.spotify.com/track/5VEDnh2r5F5st6psB40wdf"
@@ -6552,6 +6660,24 @@
       "duration_ms": 217618,
       "name": "Ruin You",
       "url": "https://open.spotify.com/track/5DGEFddKdHhqdBQzc33gsy"
+    },
+    {
+      "album": {
+        "name": "Voltage Across the Afterglow",
+        "url": "https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111079,
+      "name": "Saffa Thunder Circuit",
+      "url": "https://open.spotify.com/track/47Dq0bOMpW8nx9iWqHhp9O"
     },
     {
       "album": {
@@ -6699,6 +6825,24 @@
     },
     {
       "album": {
+        "name": "Static Sparks Worldwide",
+        "url": "https://open.spotify.com/album/7beGPqFRHZ5EIsJVIsGHrk"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89999,
+      "name": "Shibuya Spark Surge",
+      "url": "https://open.spotify.com/track/27DgDjnuv6arYqMyloQfpH"
+    },
+    {
+      "album": {
         "name": "Nocturnal Highways",
         "url": "https://open.spotify.com/album/2PWoQZPlvfnCGKxbs6XSDR"
       },
@@ -6746,7 +6890,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -6984,7 +7128,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -7096,7 +7240,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -7154,6 +7298,24 @@
       "duration_ms": 124557,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5kHBiTygc3beHbf8ZBemgj"
+    },
+    {
+      "album": {
+        "name": "Voltage Across the Afterglow",
+        "url": "https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM"
+      },
+      "artists": [
+        {
+          "name": "Tssara",
+          "url": "https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120959,
+      "name": "Sunset Strip Fever Dream",
+      "url": "https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r"
     },
     {
       "album": {
@@ -7334,7 +7496,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 133773,
       "name": "The Gold Medal",
       "url": "https://open.spotify.com/track/0eCumdc2LPmsI0XSsqNlAY"
@@ -8044,7 +8206,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
@@ -8332,7 +8494,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 230978,
       "name": "You Deserve This",
       "url": "https://open.spotify.com/track/4wm85dBad1N1rTWOaQWWez"

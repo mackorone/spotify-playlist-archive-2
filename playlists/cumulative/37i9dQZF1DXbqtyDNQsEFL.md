@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-753 songs - 2 day 17 hr 50 min
+754 songs - 2 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Head 2 Core](https://open.spotify.com/track/0MOiNpIjZcHegtStf7gCY7) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Head 2 Core](https://open.spotify.com/album/1dxCRwSNSXpyNPK5GT73DJ) | 2:26 | 2025-10-31 | 2026-01-30 |
 | [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 | 2025-12-19 | 2026-04-17 |
 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 | 2025-10-10 |
+| [Heart of Worship](https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Mayo](https://open.spotify.com/artist/2vcjogMCAZpBE9uJGGDY6o) | [Heart of Worship](https://open.spotify.com/album/6EEeFZ86I2ajYjcE40tE0G) | 4:02 | 2026-04-24 |  |
 | [here](https://open.spotify.com/track/6C4DacOnoWaXnXXjg0AmRu) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy II](https://open.spotify.com/album/3ZnyJyblnIdEDtYXP6D9A5) | 2:25 | 2025-10-31 | 2026-01-15 |
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |
 | [HIGH](https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [HIGH](https://open.spotify.com/album/3ikNIUzsRLbG8jpsZUkilH) | 2:42 | 2026-01-23 | 2026-04-14 |
@@ -560,7 +561,7 @@
 | [Quiet On Me](https://open.spotify.com/track/3QmlGetwC8PkRcwDpvJA6c) | [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [Quiet On Me](https://open.spotify.com/album/7leyfRlekvo4RyP6sbJQhq) | 2:16 | 2026-03-27 | 2026-04-03 |
 | [Radical](https://open.spotify.com/track/73x1RKOULcFwHI4fXEVJPu) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Radical](https://open.spotify.com/album/1qH7PKSm7heJPJVtl89bIc) | 2:40 | 2025-06-27 | 2025-07-04 |
 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-12-31 | 2025-01-07 |
-| [Ranmilowo \(Help me\)](https://open.spotify.com/track/5sPaqTbtkx7Jt2TJ8ODJF9) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Ranmilowo \(Help me\)](https://open.spotify.com/album/2gHd3qqLd7Kh19vk4MtIeM) | 2:53 | 2026-04-10 |  |
+| [Ranmilowo \(Help me\)](https://open.spotify.com/track/5sPaqTbtkx7Jt2TJ8ODJF9) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Ranmilowo \(Help me\)](https://open.spotify.com/album/2gHd3qqLd7Kh19vk4MtIeM) | 2:53 | 2026-04-10 | 2026-05-12 |
 | [RARA O](https://open.spotify.com/track/6sI3DBcGZCP3pXgxlpLHeL) | [Mr\. TEA](https://open.spotify.com/artist/7pB2W4UzaQB84YnhpEzeG7), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [RARA O](https://open.spotify.com/album/4Os77rt3KOOMyxH38Mv0nB) | 3:04 | 2026-03-27 | 2026-04-03 |
 | [Ready](https://open.spotify.com/track/5xTDvjETI0M1xpqTtNqffo) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Ready](https://open.spotify.com/album/2cbzL66lCOQqfizLgD9plV) | 2:11 | 2025-05-16 | 2025-05-23 |
 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 | 2026-03-13 |  |

@@ -2,7 +2,7 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 den nyeste rap i dk 🔥 cover: Michael Williams
+> 🎂 Lagkagehuset freeestyling 🎂 @MichaelxWilliams
 
 537 songs - 22 hr 54 min
 

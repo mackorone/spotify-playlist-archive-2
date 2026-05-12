@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 131260,
+  "num_followers": 131266,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u66fe\u7d93\u898b\u904e\u592a\u967d (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u7247\u982d\u66f2)",
-        "url": "https://open.spotify.com/album/09wivwo5tBQ8NiaBGAAJVM"
-      },
-      "artists": [
-        {
-          "name": "Shi Shi",
-          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
-        }
-      ],
-      "duration_ms": 219073,
-      "name": "\u66fe\u7d93\u898b\u904e\u592a\u967d - (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u7247\u982d\u66f2)",
-      "url": "https://open.spotify.com/track/6QAC2kPQOI51fMHZIqJhWi"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
         "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 288200,
       "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
       "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u66fe\u7d93\u898b\u904e\u592a\u967d (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/09wivwo5tBQ8NiaBGAAJVM"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "duration_ms": 219073,
+      "name": "\u66fe\u7d93\u898b\u904e\u592a\u967d - (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u7247\u982d\u66f2)",
+      "url": "https://open.spotify.com/track/6QAC2kPQOI51fMHZIqJhWi"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u82e6\u7684\u751c",
-        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 255023,
-      "name": "\u82e6\u7684\u751c",
-      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u5d4c\u5165\u751f\u9577",
         "url": "https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u541b",
-        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
+        "name": "\u82e6\u7684\u751c",
+        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
       },
       "artists": [
         {
-          "name": "\u55ae\u4f9d\u7d14",
-          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 168471,
-      "name": "\u541b",
-      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
+      "duration_ms": 255023,
+      "name": "\u82e6\u7684\u751c",
+      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+        "name": "\u541b",
+        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
       },
       "artists": [
         {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
         }
       ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
+      "duration_ms": 168471,
+      "name": "\u541b",
+      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u9752\u7a7a\u672a\u4f86",
-        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
-      },
-      "artists": [
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "duration_ms": 255438,
-      "name": "\u9752\u7a7a\u672a\u4f86",
-      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u611b\u7684\u5c0d\u767d",
         "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 185077,
       "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u9752\u7a7a\u672a\u4f86",
+        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
+      },
+      "artists": [
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "duration_ms": 255438,
+      "name": "\u9752\u7a7a\u672a\u4f86",
+      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

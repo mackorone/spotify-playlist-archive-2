@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 211653,
       "name": "6X1",
       "url": "https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi"
@@ -1174,6 +1174,32 @@
       "duration_ms": 168789,
       "name": "Acordado eu Sonho",
       "url": "https://open.spotify.com/track/1WwJveqGQoABRF22Nmwv88"
+    },
+    {
+      "album": {
+        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
+        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "916frosty",
+          "url": "https://open.spotify.com/artist/6c0lj01vVpHsCH7Z5CfJ9K"
+        },
+        {
+          "name": "Necroez",
+          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232276,
+      "name": "ACORDO T\u00c3O FASHION",
+      "url": "https://open.spotify.com/track/1TWNnT8nV3VHvf3Xng1Rd2"
     },
     {
       "album": {
@@ -1912,7 +1938,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 150861,
       "name": "Artista Gen\u00e9rico",
       "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
@@ -2983,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "ISSO \u00c9 TRAP VOL.2",
+        "url": "https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "BLUNT DE GOIABA",
+      "url": "https://open.spotify.com/track/7cLt8S1uKvo41gRyRaaivR"
+    },
+    {
+      "album": {
         "name": "Bolad\u00e3o Escutando Orochi",
         "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
       },
@@ -3146,7 +3190,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 169924,
       "name": "BRENDA",
       "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
@@ -3206,6 +3250,24 @@
       "duration_ms": 225974,
       "name": "Broncud\u00e3o (feat. Lotta)",
       "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
+    },
+    {
+      "album": {
+        "name": "ISSO \u00c9 TRAP VOL.2",
+        "url": "https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "BUG NA MATRIX",
+      "url": "https://open.spotify.com/track/6tku7hYTUK7PJr1KRUA0RI"
     },
     {
       "album": {
@@ -5079,6 +5141,24 @@
     },
     {
       "album": {
+        "name": "MR.",
+        "url": "https://open.spotify.com/album/5VOHcEH6D1DMngkxky552g"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146305,
+      "name": "Desde Mais Novo",
+      "url": "https://open.spotify.com/track/5rFGPMpvioDlSSjs4vkAGr"
+    },
+    {
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -6296,6 +6376,32 @@
       "duration_ms": 216000,
       "name": "E Se Eu Falasse o Que Sinto?",
       "url": "https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX"
+    },
+    {
+      "album": {
+        "name": "PARA: TODAS QUE FINGI AMAR",
+        "url": "https://open.spotify.com/album/0GFb1J3CPd9yxDwyD5d6iC"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "Jimyy",
+          "url": "https://open.spotify.com/artist/5Ab6bK59NFkGzMQbaHkdmC"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187029,
+      "name": "EDUARDA",
+      "url": "https://open.spotify.com/track/3hn5JUIqBMIy8REz6WeiNH"
     },
     {
       "album": {
@@ -8656,7 +8762,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 176275,
       "name": "Grama Verde",
       "url": "https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV"
@@ -9122,6 +9228,28 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "album": {
+        "name": "Instinto - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5pegf29QfJ71h6D3Pu2xa7"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Instinto - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5z1lDrpmvOgZuvjg4sVB7F"
     },
     {
       "album": {
@@ -9618,7 +9746,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 138735,
       "name": "JULIANA",
       "url": "https://open.spotify.com/track/0MTqBSTbhN0QJvf5lNe4H2"
@@ -9670,7 +9798,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 174147,
       "name": "KEN CARSON",
       "url": "https://open.spotify.com/track/6bwY4Bms3owJsDjkBk4VKq"
@@ -9752,6 +9880,28 @@
       "duration_ms": 147740,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/3wKfelws5Mak6BpV8HG0dc"
+    },
+    {
+      "album": {
+        "name": "Subestimada",
+        "url": "https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu"
     },
     {
       "album": {
@@ -10214,7 +10364,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 266778,
       "name": "LOBO MAU",
       "url": "https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y"
@@ -10598,7 +10748,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 182000,
       "name": "LUZ, CAMA E A\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/5gLmMNEvDcl0Kb1EX8b69m"
@@ -12309,6 +12459,36 @@
     },
     {
       "album": {
+        "name": "ADULTO IDEAL VOL.2",
+        "url": "https://open.spotify.com/album/1WiZeCpdkrdWhldOhUduPz"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "SMOKEFUSION",
+          "url": "https://open.spotify.com/artist/1Hqnj6Rw341YYHk13DzK2g"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128321,
+      "name": "MUN R\u00c1",
+      "url": "https://open.spotify.com/track/2a4f6kBpgWkABlG6sYSz2R"
+    },
+    {
+      "album": {
         "name": "808 CLUB",
         "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
       },
@@ -12506,7 +12686,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 153601,
       "name": "M\u00c9NAGE",
       "url": "https://open.spotify.com/track/26h6K2Gt901Sny78SU4kJS"
@@ -13276,7 +13456,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 256618,
       "name": "N\u00e3o Temos Medo - Remix",
       "url": "https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR"
@@ -14721,6 +14901,28 @@
     },
     {
       "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/7l7raLom44PryiVdnviwcA"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101995,
+      "name": "playboy",
+      "url": "https://open.spotify.com/track/2uNzlkOcqZLpoo25F1C19Y"
+    },
+    {
+      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -14944,7 +15146,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 170784,
       "name": "POETA ROCKSTAR",
       "url": "https://open.spotify.com/track/65dci5iUDBhKQ9FIgniyrQ"
@@ -15188,7 +15390,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 193770,
       "name": "Princ\u00edpios de um Campe\u00e3o",
       "url": "https://open.spotify.com/track/2HEz8ZjpxnJ328u99lnbpK"
@@ -16792,7 +16994,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
@@ -17726,7 +17928,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
@@ -20182,7 +20384,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"

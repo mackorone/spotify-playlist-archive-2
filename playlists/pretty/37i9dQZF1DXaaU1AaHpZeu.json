@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie en espa\u00f1ol, con Leo Rizzi en portada.",
-  "num_followers": 280140,
+  "num_followers": 280096,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -310,6 +310,10 @@
         {
           "name": "ALIS",
           "url": "https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD"
+        },
+        {
+          "name": "Pachi Garc\u00eda Prod",
+          "url": "https://open.spotify.com/artist/7BMJGihuhtHu6FHVvanqjF"
         }
       ],
       "duration_ms": 197642,

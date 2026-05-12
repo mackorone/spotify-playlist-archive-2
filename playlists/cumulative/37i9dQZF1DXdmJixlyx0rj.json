@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: xiihu)",
+  "description": "New & best K-Electronic music is here. (Cover: I\u00d6N)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -928,6 +928,28 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
     },
     {
       "album": {
@@ -2258,7 +2280,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 213273,
       "name": "FOREVER 1 - Matisse & Sadko Remix",
       "url": "https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5"

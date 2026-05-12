@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: sace6\n",
-  "num_followers": 444650,
+  "num_followers": 444711,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197465,
       "name": "Kill Me Fast",
       "url": "https://open.spotify.com/track/2CNqbrPKODRQxE8gCkHqEN"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "[Gen]inside",
         "url": "https://open.spotify.com/album/45j2MOZFnRgUT9Aj6eKkIY"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191949,
       "name": "[Gen]inside",
       "url": "https://open.spotify.com/track/3Xxgc1xtFJIH5oRN2JtqOf"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Nightmare Tripping",
-        "url": "https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
-        }
-      ],
-      "duration_ms": 212287,
-      "name": "True Believers (Feat. Sam Carter)",
-      "url": "https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "Revenant",
         "url": "https://open.spotify.com/album/7Cb7gWgJmePlHHhO7WAyKH"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 211746,
       "name": "Revenant",
       "url": "https://open.spotify.com/track/7Lt57VWFV2MRbn9fzY0kp9"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Nightmare Tripping",
+        "url": "https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
+        }
+      ],
+      "duration_ms": 212287,
+      "name": "True Believers (Feat. Sam Carter)",
+      "url": "https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Caught In The Echo",
-        "url": "https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Caught In The Echo",
-      "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/6OgmgM8jTVdzh5GBEi5xiG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 198118,
       "name": "SONG OF THE SWAMP",
       "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Caught In The Echo",
+        "url": "https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Caught In The Echo",
+      "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Whisper of a Dream",
-        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 264248,
-      "name": "Whisper of a Dream",
-      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "Drag Me",
         "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 186237,
       "name": "Drag Me",
       "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Whisper of a Dream",
+        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 264248,
+      "name": "Whisper of a Dream",
+      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
+        "name": "2 LITER SPITE",
+        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "2 LITER SPITE",
+      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
         "name": "GONE, GONE, GONE",
         "url": "https://open.spotify.com/album/3w2Uotx6OJXblmP54TCZeO"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 297920,
       "name": "To The Last Breath",
       "url": "https://open.spotify.com/track/6eQkDPZCtGpJ0rIYwIBNxN"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "2 LITER SPITE",
-        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "2 LITER SPITE",
-      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/28soNBIFB4FhSF2aW3yBVV"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/1CG0oPmHCJz2ZsJB5ugSej"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
         "name": "Lover Of A Ghost",
         "url": "https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Blurry",
-        "url": "https://open.spotify.com/album/28soNBIFB4FhSF2aW3yBVV"
+        "name": "I Don't Belong Here",
+        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
       },
       "artists": [
         {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/1CG0oPmHCJz2ZsJB5ugSej"
+      "duration_ms": 204500,
+      "name": "Hereditary",
+      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1507,22 +1523,6 @@
       "duration_ms": 192000,
       "name": "Knot feat. Showing Teeth - Remix",
       "url": "https://open.spotify.com/track/5wFGkst7Ly202O5euJX40X"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "I Don't Belong Here",
-        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Hereditary",
-      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Engines of Demolition",
-        "url": "https://open.spotify.com/album/08ixiGSCVcUOBdpCZXQwqW"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 328666,
-      "name": "Ozzy's Song",
-      "url": "https://open.spotify.com/track/3X3jZCrNcpVryiWGn7DvJK"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "SIDE EFFECTS PT.1",
         "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Say So",
-        "url": "https://open.spotify.com/album/6rHtASj6N3WhxXMoEmoblr"
+        "name": "Engines of Demolition",
+        "url": "https://open.spotify.com/album/08ixiGSCVcUOBdpCZXQwqW"
       },
       "artists": [
         {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
         }
       ],
-      "duration_ms": 183993,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/02kPZAxrFGPvlpGLUG9BgY"
+      "duration_ms": 328666,
+      "name": "Ozzy's Song",
+      "url": "https://open.spotify.com/track/3X3jZCrNcpVryiWGn7DvJK"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1635,6 +1619,22 @@
       "duration_ms": 201996,
       "name": "Half Past Dead (Unbury Me)",
       "url": "https://open.spotify.com/track/74Tt7azCRWhutQoHHELeVz"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/6rHtASj6N3WhxXMoEmoblr"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "duration_ms": 183993,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/02kPZAxrFGPvlpGLUG9BgY"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Yellow Roses",
-        "url": "https://open.spotify.com/album/0hpuV7YhUJBOEaIQh52mZ6"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 202757,
-      "name": "Yellow Roses",
-      "url": "https://open.spotify.com/track/71tJCENl05wzNpFLKVeYUl"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -1703,6 +1687,42 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
+        "name": "VINDICATE",
+        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Lilith Czar",
+          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
+        }
+      ],
+      "duration_ms": 239825,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/0hpuV7YhUJBOEaIQh52mZ6"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 202757,
+      "name": "Yellow Roses",
+      "url": "https://open.spotify.com/track/71tJCENl05wzNpFLKVeYUl"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
         "name": "DON'T B E L O N G",
         "url": "https://open.spotify.com/album/0wkzaYR3z1jymcXHyGxPCr"
       },
@@ -1715,38 +1735,6 @@
       "duration_ms": 203200,
       "name": "DON'T B E L O N G",
       "url": "https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "Pure Leaf",
-        "url": "https://open.spotify.com/album/6GvAqUP1m8KflusOnHRNz7"
-      },
-      "artists": [
-        {
-          "name": "Holywatr",
-          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
-        }
-      ],
-      "duration_ms": 295444,
-      "name": "Pure Leaf",
-      "url": "https://open.spotify.com/track/0vfvc3X2xjHDMMbjbWQnqo"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/10fSnvxVFAJCm0DejVqnPc"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 216685,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/7dLAJQG3gkQxN08ReKQlch"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1783,6 +1771,38 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
+        "name": "Pure Leaf",
+        "url": "https://open.spotify.com/album/6GvAqUP1m8KflusOnHRNz7"
+      },
+      "artists": [
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "duration_ms": 295444,
+      "name": "Pure Leaf",
+      "url": "https://open.spotify.com/track/0vfvc3X2xjHDMMbjbWQnqo"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/10fSnvxVFAJCm0DejVqnPc"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 216685,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/7dLAJQG3gkQxN08ReKQlch"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
         "name": "Make Us Whole Again",
         "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
       },
@@ -1795,22 +1815,6 @@
       "duration_ms": 232944,
       "name": "Make Us Whole Again",
       "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "A.L.O.N.E.",
-        "url": "https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "A.L.O.N.E.",
-      "url": "https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -1831,6 +1835,22 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
+        "name": "A.L.O.N.E.",
+        "url": "https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 204296,
+      "name": "A.L.O.N.E.",
+      "url": "https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
         "name": "...hospice",
         "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 253174,
       "name": "...hospice",
       "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "VINDICATE",
-        "url": "https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "Lilith Czar",
-          "url": "https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq"
-        }
-      ],
-      "duration_ms": 239825,
-      "name": "Cut",
-      "url": "https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/13ePBbGxoFjQ7nmgtkkZJ6"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2hUzBxG3ZuLRq66heHfi6R"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/16K8OIAJJUDQ1S7oukIIlq"
       },
@@ -2099,6 +2083,38 @@
       "duration_ms": 245660,
       "name": "Bored",
       "url": "https://open.spotify.com/track/3UHE8bxJihjE8WJHklarFG"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6C0RCTNW6U16bg1sPVwtGl"
+      },
+      "artists": [
+        {
+          "name": "untitled",
+          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
+        }
+      ],
+      "duration_ms": 190267,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/1HKTS1MCtokxqYbPUAYMzt"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/13ePBbGxoFjQ7nmgtkkZJ6"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2hUzBxG3ZuLRq66heHfi6R"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -2135,22 +2151,6 @@
       "duration_ms": 280924,
       "name": "Puppet Parade",
       "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6C0RCTNW6U16bg1sPVwtGl"
-      },
-      "artists": [
-        {
-          "name": "untitled",
-          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
-        }
-      ],
-      "duration_ms": 190267,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/1HKTS1MCtokxqYbPUAYMzt"
     },
     {
       "added_at": "2026-05-08 04:04:17",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-05-08 04:04:17",
       "album": {
+        "name": "Favorite Way to Die",
+        "url": "https://open.spotify.com/album/6vujUsNgEEvUlVSlisxCfK"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Favorite Way to Die",
+      "url": "https://open.spotify.com/track/1AUmYwGtMzXxTia4ZAaedu"
+    },
+    {
+      "added_at": "2026-05-08 04:04:17",
+      "album": {
         "name": "GLITCH BITCH",
         "url": "https://open.spotify.com/album/6IcihV7b8bv1SAas3hAYPt"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 171265,
       "name": "GLITCH BITCH",
       "url": "https://open.spotify.com/track/4CegebVxebcXm5HK7LlIzP"
-    },
-    {
-      "added_at": "2026-05-08 04:04:17",
-      "album": {
-        "name": "Favorite Way to Die",
-        "url": "https://open.spotify.com/album/6vujUsNgEEvUlVSlisxCfK"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Favorite Way to Die",
-      "url": "https://open.spotify.com/track/1AUmYwGtMzXxTia4ZAaedu"
     },
     {
       "added_at": "2026-05-08 04:04:17",

@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40719,
+  "num_followers": 40716,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! VIVID WINTER EP",
-        "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
-      },
-      "artists": [
-        {
-          "name": "\u30af\u30ea\u30b9[\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)]",
-          "url": "https://open.spotify.com/artist/0qlkTWpx1ivSasGIPeEsD5"
-        },
-        {
-          "name": "\u30d5\u30a1\u30f3\u30c8\u30e0[\u30ac\u30a4(CV:\u65e5\u91ce\u8061)]",
-          "url": "https://open.spotify.com/artist/48WdEWBpzmX5LEMulJobvm"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "UNMASK",
-      "url": "https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! SUNNY SPRING EP",
         "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
+        "name": "A3! VIVID WINTER EP",
+        "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ea\u30b9[\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)]",
+          "url": "https://open.spotify.com/artist/0qlkTWpx1ivSasGIPeEsD5"
+        },
+        {
+          "name": "\u30d5\u30a1\u30f3\u30c8\u30e0[\u30ac\u30a4(CV:\u65e5\u91ce\u8061)]",
+          "url": "https://open.spotify.com/artist/48WdEWBpzmX5LEMulJobvm"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "UNMASK",
+      "url": "https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
         "name": "A3! VIVID SPRING EP",
         "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 236706,
       "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
       "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
-        "name": "A3! Blooming WINTER EP",
-        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
-      },
-      "artists": [
-        {
-          "name": "\u96ea\u767d\u6771(CV:\u67ff\u539f\u5fb9\u4e5f)",
-          "url": "https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "\u6708\u8679\u4e0a\u306e\u30a2\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/3Zg5gxoGnLvYzHZbpW4Ybm"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -855,6 +839,22 @@
       "duration_ms": 287093,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! Blooming WINTER EP",
+        "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
+      },
+      "artists": [
+        {
+          "name": "\u96ea\u767d\u6771(CV:\u67ff\u539f\u5fb9\u4e5f)",
+          "url": "https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "\u6708\u8679\u4e0a\u306e\u30a2\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/3Zg5gxoGnLvYzHZbpW4Ybm"
     },
     {
       "added_at": "2025-04-22 19:04:27",

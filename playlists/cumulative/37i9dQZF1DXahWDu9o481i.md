@@ -4,7 +4,7 @@
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Momo Boyd
 
-668 songs - 1 day 13 hr 58 min
+669 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-30 | 2025-11-05 |
 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 | 2025-12-01 | 2026-02-05 |
 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 | 2025-08-04 | 2025-08-30 |
-| [Move Time](https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Move Time](https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z) | 3:39 | 2026-05-01 |  |
+| [Move Time](https://open.spotify.com/track/6Y7GcjfcDs7VYJypebcECU) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Move Time](https://open.spotify.com/album/17j3ldBZcSBEUAZbPMPC7z) | 3:39 | 2026-05-01 | 2026-05-12 |
 | [Music by Men](https://open.spotify.com/track/1oHxIq2EEXHzPcNo3MJQjQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:31 | 2025-11-04 | 2025-12-02 |
 | [Must Be](https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE) | 2:55 | 2026-04-02 | 2026-05-02 |
 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 | 2026-01-09 | 2026-02-05 |
@@ -498,6 +498,7 @@
 | [rocket](https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [My sunny oath!](https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K) | 2:31 | 2025-07-03 | 2025-08-05 |
 | [rodeo](https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [rodeo](https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e) | 2:46 | 2025-08-29 | 2025-10-01 |
 | [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-30 | 2025-06-05 |
+| [Romance](https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Threads](https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62) | 1:21 | 2026-05-01 |  |
 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 | 2025-11-04 | 2025-12-02 |
 | [Round Me](https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Round Me](https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu) | 2:38 | 2026-03-02 | 2026-04-02 |
 | [S I S T E M A S O L A R](https://open.spotify.com/track/1h0DRnMU0D0o82eMGEoV5Z) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [S I S T E M A S O L A R](https://open.spotify.com/album/5gHEHOCroFkwv3XylaARdH) | 3:06 | 2026-01-09 | 2026-02-05 |

@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 featuring Gryffin
 
-882 songs - 2 day 4 hr 41 min
+883 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 | 2023-04-21 | 2024-07-27 |
 | [EDGE \- Blanke Remix](https://open.spotify.com/track/3NQinJIWliMnzomwtQzVNR) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [EDGE \(The Remixes\)](https://open.spotify.com/album/6NIM6v3gwobJAy7IY5jNJA) | 2:45 | 2024-06-21 | 2025-09-22 |
 | [Edge Of Your Heart](https://open.spotify.com/track/2ed3la4TGm10Ngm3bErHWe) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [TruFeelz](https://open.spotify.com/artist/5fWsUipLkXJCfrbUK0VvPt) | [Edge Of Your Heart](https://open.spotify.com/album/11uYQSYEp3qMKZrnJ7lwBB) | 3:37 | 2024-06-07 | 2025-05-31 |
+| [Ellowyn](https://open.spotify.com/track/4bYhgOsuIUukEhEh2UfL0R) | [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Hvnnibvl](https://open.spotify.com/artist/7vTVlsNH3dt1nn4TMkRQIN) | [Ellowyn](https://open.spotify.com/album/4YqVaLHc9gho26oNaUMdTS) | 2:56 | 2026-05-08 |  |
 | [Elysian Fields](https://open.spotify.com/track/3MyUhaoPmjq0vNRP53qtNz) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Elysian Fields](https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1) | 3:27 | 2024-08-09 | 2025-08-10 |
 | [Empty Space](https://open.spotify.com/track/7xT99lphDyMw4UCkKquxf9) | [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Evoke](https://open.spotify.com/artist/2TljAKrnT0SDyoSf88mciP) | [Empty Space](https://open.spotify.com/album/2cadgd2U3AIfuiAe1qfYFw) | 4:48 | 2024-04-26 | 2024-11-06 |
 | [Empty Space \(Without You Pt.2\)](https://open.spotify.com/track/1PTGyb8weMv3LAoeet3qm4) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [baby blue](https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN) | [The Shadow Realm](https://open.spotify.com/album/6APpd11qDPfXsVAWoEL2Or) | 3:42 | 2025-11-07 |  |
@@ -688,7 +689,7 @@
 | [SKYFALLING](https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Tempo](https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T) | 2:58 | 2024-05-03 | 2025-07-12 |
 | [SLAY](https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/633geRmMguveturqYAb9k2) | 4:01 | 2024-07-26 | 2024-11-17 |
 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 | 2023-02-03 | 2024-02-07 |
-| [Slippin](https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Slippin](https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a) | 3:28 | 2025-09-26 |  |
+| [Slippin](https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Slippin](https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a) | 3:28 | 2025-09-26 | 2026-05-12 |
 | [Slow Burn](https://open.spotify.com/track/2fqjgv5ZhAzR0fXC5WrrPT) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Slow Burn](https://open.spotify.com/album/3n8WLww6y3YDe9hjPDGaQT) | 3:26 | 2026-04-03 |  |
 | [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-03-31 | 2023-07-16 |
 | [Slow Motion](https://open.spotify.com/track/2aBDfwSDtMNJtaWtmI8o2d) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Slow Motion](https://open.spotify.com/album/52uPsRGkzvl1BgEvIOJUVO) | 3:18 | 2025-10-10 |  |

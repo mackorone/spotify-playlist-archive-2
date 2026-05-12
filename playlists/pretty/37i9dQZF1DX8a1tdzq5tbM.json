@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1788955,
+  "num_followers": 1789080,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Singled Out",
-        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
-      },
-      "artists": [
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        },
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 151983,
-      "name": "Let Me Think About It",
-      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Blue (Da Ba Dee)",
         "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Singled Out",
+        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
+      },
+      "artists": [
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 151983,
+      "name": "Let Me Think About It",
+      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "75, Brazil Street",
+        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Pat-Rich",
+          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "75, Brazil Street (Radio Mix)",
+      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 182013,
       "name": "Gettin' Over (feat. Chris Willis & Fergie)",
       "url": "https://open.spotify.com/track/4fqwEothoIOcKr3pARJCgu"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "75, Brazil Street",
-        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Fasano",
-          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
-        },
-        {
-          "name": "Pat-Rich",
-          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "75, Brazil Street (Radio Mix)",
-      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Star 69",
         "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 371493,
       "name": "Star 69 - Timo Maas Mix",
       "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Exploration of Space",
         "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1643,6 +1627,42 @@
       "duration_ms": 326840,
       "name": "In White Rooms",
       "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281516,
+      "name": "Day 'N' Night - Club Mix",
+      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1731,22 +1751,42 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+        "name": "Floorfillers Club Anthems",
+        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
         },
         {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
         }
       ],
-      "duration_ms": 281516,
-      "name": "Day 'N' Night - Club Mix",
-      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+      "duration_ms": 171430,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1779,6 +1819,26 @@
       "duration_ms": 392668,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1819,26 +1879,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Floorfillers Club Anthems",
-        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Max C",
-          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1871,42 +1911,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
       },
       "artists": [
         {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
         },
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+      "duration_ms": 216573,
+      "name": "Another Place - Radio Edit",
+      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1923,6 +1943,22 @@
       "duration_ms": 217000,
       "name": "Go",
       "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1983,22 +2019,6 @@
       "duration_ms": 236706,
       "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
       "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2067,26 +2087,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        },
-        {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Another Place - Radio Edit",
-      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Addiction (Radio Edit)",
         "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "L.E.F.",
-        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 271586,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "presents Traffic Signs",
         "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 384983,
       "name": "The Big Fake",
       "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "L.E.F.",
+        "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 271586,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
     },
     {
       "added_at": "2024-07-12 15:40:20",

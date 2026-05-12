@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 144117,
+  "num_followers": 144135,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACl0+Vd3SPLipFmBFvfVwZu",
+  "snapshot_id": "af/KgAAAAABMYHw9sE+Z8rNgSLjSffg+",
   "tracks": [
     {
       "added_at": null,
@@ -315,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 299557,
-      "name": "Resurrection Man",
-      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ashes of the Wake (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 263703,
-      "name": "Blood Of The Scribe",
-      "url": "https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Empire",
         "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
@@ -367,6 +335,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ashes of the Wake (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 263703,
+      "name": "Blood Of The Scribe",
+      "url": "https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 299557,
+      "name": "Resurrection Man",
+      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
       },
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 257181,
-      "name": "El Vac\u00edo",
-      "url": "https://open.spotify.com/track/1vDW8pYIFti2WOAZex5V5J"
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/386p62g9kgvjExIVOKcHpP"
     },
     {
       "added_at": null,

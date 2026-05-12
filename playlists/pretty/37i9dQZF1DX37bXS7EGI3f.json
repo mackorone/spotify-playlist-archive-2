@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 821661,
+  "num_followers": 821675,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Kings of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
-      },
-      "artists": [
-        {
-          "name": "Warkings",
-          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Kings of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Kings of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+      },
+      "artists": [
+        {
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Kings of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Winter Storm Vigilantes",
+        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
+      },
+      "artists": [
+        {
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Winter Storm Vigilantes",
+      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Winter Storm Vigilantes",
-        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
-      },
-      "artists": [
-        {
-          "name": "Ensiferum",
-          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Winter Storm Vigilantes",
-      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Until the End",
         "url": "https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 242826,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Raptor Squad Attack",
-        "url": "https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 154972,
-      "name": "Raptor Squad Attack",
-      "url": "https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1427,6 +1411,22 @@
       "duration_ms": 234775,
       "name": "Dance with the Devil",
       "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Raptor Squad Attack",
+        "url": "https://open.spotify.com/album/2K5oYKC8PEJQJlPpAL4wd8"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 154972,
+      "name": "Raptor Squad Attack",
+      "url": "https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 216957,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
         "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+        }
+      ],
+      "duration_ms": 216957,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 234790,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Guillotine Walk",
-        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
-      },
-      "artists": [
-        {
-          "name": "Axel Rudi Pell",
-          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
-        }
-      ],
-      "duration_ms": 278096,
-      "name": "Guillotine Walk",
-      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Guillotine Walk",
+        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
+      },
+      "artists": [
+        {
+          "name": "Axel Rudi Pell",
+          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+        }
+      ],
+      "duration_ms": 278096,
+      "name": "Guillotine Walk",
+      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 206720,
       "name": "Light up the Sky",
       "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "We Stand Tall",
-        "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "We Stand Tall",
-      "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "We Stand Tall",
+        "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "We Stand Tall",
+      "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Hear My Voice",
+        "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
+      },
+      "artists": [
+        {
+          "name": "Alterium",
+          "url": "https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV"
+        }
+      ],
+      "duration_ms": 198997,
+      "name": "Hear My Voice",
+      "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1647,22 +1663,6 @@
       "duration_ms": 263121,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/3OplmgI6AGe5GtGPBwAbmz"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Hear My Voice",
-        "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
-      },
-      "artists": [
-        {
-          "name": "Alterium",
-          "url": "https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "Hear My Voice",
-      "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
     },
     {
       "added_at": "2026-03-22 01:56:31",

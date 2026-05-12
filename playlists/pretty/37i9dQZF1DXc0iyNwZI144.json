@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1034152,
+  "num_followers": 1034114,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "No Promises (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/6301sWkK7hVwcrhcEwKPcH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 223503,
       "name": "No Promises (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Physical (Alok Remix)",
-        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Physical - Alok Remix",
-      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Kisses",
         "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
       },
@@ -1383,6 +1363,22 @@
       "duration_ms": 195619,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Iguana",
+        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
+      },
+      "artists": [
+        {
+          "name": "Louie Austen",
+          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Glamour Girl",
+      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Iguana",
-        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
+        "name": "Physical (Alok Remix)",
+        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
       "artists": [
         {
-          "name": "Louie Austen",
-          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Glamour Girl",
-      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
+      "duration_ms": 189000,
+      "name": "Physical - Alok Remix",
+      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
     },
     {
       "added_at": "2024-11-15 03:00:00",

@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Josiah and the Bonnevilles
 
-779 songs - 1 day 23 hr 15 min
+780 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Bury Me in My Hometown](https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:35 | 2023-11-10 | 2024-04-19 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2022-04-08 | 2022-08-20 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 | 2022-04-09 |
+| [California Blues](https://open.spotify.com/track/5avZzniorINJJiy40TxidU) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [California Blues](https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2) | 4:18 | 2026-05-08 |  |
 | [California Sober](https://open.spotify.com/track/0mm2W0QVwt4Tenr2PwFJn1) | [Twin Fin](https://open.spotify.com/artist/3m3H5WsWpUQ0pp2csvmcE8) | [Songs I Never Wrote](https://open.spotify.com/album/6ffvrASxFef77RiC9ctHX2) | 3:14 | 2026-04-03 |  |
 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 | 2023-04-28 | 2025-10-11 |
 | [Call It A Day](https://open.spotify.com/track/0hh4pibsHO1yohthuJu8aF) | [Leon Creek](https://open.spotify.com/artist/1y4kcaSxQkyNAHI9NfzRXz) | [Call It A Day](https://open.spotify.com/album/3wDt9yjASp8QwqAD035OlW) | 3:43 | 2021-12-17 | 2022-05-20 |

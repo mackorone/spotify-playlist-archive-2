@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ece Mumay x Ragıb Narin
 
-582 songs - 1 day 5 hr 34 min
+583 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Kutupta Yaz Gibi](https://open.spotify.com/track/7Bjo9sOCMs5Uk0Y7jpZHod) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:18 | 2026-04-23 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-22 | 2026-04-10 |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
-| [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 | 2026-01-29 |  |
+| [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 | 2026-01-29 | 2026-05-12 |
 | [Kül Kedisi](https://open.spotify.com/track/7pL0k2S0xtCeIK8frnpogr) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Kül Kedisi](https://open.spotify.com/album/4K9UrtRb8BGdTHrXDZAxgk) | 3:03 | 2024-11-07 | 2025-08-02 |
 | [Küçük Bir Aşk Masalı](https://open.spotify.com/track/22zG9wPpspjZaBITqkfVfC) | [GALI](https://open.spotify.com/artist/3Gezk7PNZUHOmg9zuhtleN), [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Küçük Bir Aşk Masalı](https://open.spotify.com/album/5PwH7CgWdihO7ereHkxZ9P) | 3:06 | 2025-11-27 | 2025-12-25 |
 | [Küçük Hesaplar](https://open.spotify.com/track/0ydR35Qtrsk24fL01NuYC6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Küçük Hesaplar](https://open.spotify.com/album/4NmqdoLVzbMUF9x41SMOMM) | 4:35 | 2025-07-31 | 2025-09-26 |
@@ -509,6 +509,7 @@
 | [Yandım](https://open.spotify.com/track/4wNwfnXYSQTrWvnm47gQtC) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Yandım](https://open.spotify.com/album/1rrLMeVTV6ZB4bqGRa08Eb) | 2:34 | 2025-06-19 | 2025-07-04 |
 | [YANGIN](https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [YANGIN](https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp) | 2:18 | 2024-06-27 | 2024-09-16 |
 | [Yangın](https://open.spotify.com/track/66n9vXHYJP0mfF2glaTeb3) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yangın](https://open.spotify.com/album/5Sn1LiwtbVm10W7XOMEvYH) | 2:52 | 2024-06-27 | 2026-02-27 |
+| [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 | 2026-05-11 |  |
 | [Yani](https://open.spotify.com/track/362o5cXgMAJpPI3JXp3pNE) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Biz de Yeniden Başlarız](https://open.spotify.com/album/5PRI1MtJMkT4AvqfpHO9OS) | 2:31 | 2026-04-16 |  |
 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 | 2025-05-15 |  |
 | [Yansam](https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yansam](https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo) | 2:16 | 2024-07-18 | 2025-07-18 |

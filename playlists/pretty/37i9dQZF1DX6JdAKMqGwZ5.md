@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Blanco Palamera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,802 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,793 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 15 | [Cat Fun](https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Cat Fun](https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm) | 3:28 |
 | 16 | [BLZA](https://open.spotify.com/track/1dZDInGD5Ao4ZEJuOAvOuI) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Manual de Belleza](https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b) | 3:32 |
 | 17 | [Podría Ser Peor](https://open.spotify.com/track/4QX91oATP2YYAkxbGACFQi) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Podría Ser Peor](https://open.spotify.com/album/7B6o3HwzV3FmQaQudLCF2A) | 2:43 |
-| 18 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |
+| 18 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD), [Pachi García Prod](https://open.spotify.com/artist/7BMJGihuhtHu6FHVvanqjF) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |
 | 19 | [Si lo callo muero](https://open.spotify.com/track/2vQTSPelGFnyQN8OiURRxr) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [Si lo callo muero](https://open.spotify.com/album/6TzszeuDZHMyg9GBGX9Vvh) | 3:04 |
 | 20 | [TERTÚLIA](https://open.spotify.com/track/5MRAABYrkqqzgDsjX5Lt3y) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [TERTÚLIA](https://open.spotify.com/album/0of0RED7msFMtdfZjE5aqa) | 2:38 |
 | 21 | [Días de Perros](https://open.spotify.com/track/1QqQ9UxFyBR16ArDnmg91h) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Días de Perros](https://open.spotify.com/album/3Hk7DsoUVLBNgXcAjz038A) | 3:26 |

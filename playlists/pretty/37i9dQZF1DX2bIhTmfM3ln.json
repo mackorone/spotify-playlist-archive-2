@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 59510,
+  "num_followers": 59518,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-08 00:02:29",
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
-    },
-    {
-      "added_at": "2026-05-08 00:02:29",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 180688,
       "name": "Calculate - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2026-05-08 00:02:29",
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
     },
     {
       "added_at": "2026-05-08 00:02:29",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-05-08 00:02:29",
       "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": "2026-05-08 00:02:29",
-      "album": {
         "name": "May 10th",
         "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 156000,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2026-05-08 00:02:29",
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "added_at": "2026-05-08 00:02:29",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-05-08 00:02:29",
       "album": {
-        "name": "Phony",
-        "url": "https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Phony",
-      "url": "https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88"
-    },
-    {
-      "added_at": "2026-05-08 00:02:29",
-      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+    },
+    {
+      "added_at": "2026-05-08 00:02:29",
+      "album": {
+        "name": "Phony",
+        "url": "https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Phony",
+      "url": "https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88"
     },
     {
       "added_at": "2026-05-08 00:02:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-05-08 00:02:29",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/1tHPVrzlzLHIOkB6MpwSfl"
-      },
-      "artists": [
-        {
-          "name": "RIIDM",
-          "url": "https://open.spotify.com/artist/5ST4m0xRCZbu1rjZZPNwGP"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/4ByAk3ydpO7kEwX7EPxAlW"
-    },
-    {
-      "added_at": "2026-05-08 00:02:29",
-      "album": {
         "name": "Pressure II",
         "url": "https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 198305,
       "name": "Pressure II",
       "url": "https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc"
+    },
+    {
+      "added_at": "2026-05-08 00:02:29",
+      "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/1tHPVrzlzLHIOkB6MpwSfl"
+      },
+      "artists": [
+        {
+          "name": "RIIDM",
+          "url": "https://open.spotify.com/artist/5ST4m0xRCZbu1rjZZPNwGP"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/4ByAk3ydpO7kEwX7EPxAlW"
     },
     {
       "added_at": "2026-05-08 00:02:29",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2026-05-08 00:02:29",
       "album": {
-        "name": "Young Daddy",
-        "url": "https://open.spotify.com/album/6mQzGchJ3p5yKAsugrc5Gm"
+        "name": "Deliver",
+        "url": "https://open.spotify.com/album/2vUhdSN8zSArXPKY6hdHdk"
       },
       "artists": [
         {
-          "name": "RCEE",
-          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
-        },
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
         }
       ],
-      "duration_ms": 175241,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/3jkowAb9Whk4c0VQxTu5ht"
+      "duration_ms": 145714,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/1a0PF4ucYpsV5gJQuE4CU9"
     }
   ],
   "unique_name": "AfroBae",

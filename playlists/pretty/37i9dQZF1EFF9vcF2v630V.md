@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 12 | [HONEYMOON](https://open.spotify.com/track/18yMTj71QJwQkybGfhYcaY) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [BLUE](https://open.spotify.com/album/3rz2cmoTK4j3hpuTfeRSRn) | 3:24 |
 | 13 | [The One](https://open.spotify.com/track/53LEFZFqPLoN0tWwaTk17C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [Hey Mama!– The 1st Mini Album](https://open.spotify.com/album/7qXTHawuBsARg5NdkZM5cU) | 3:29 |
 | 14 | [Paint Me](https://open.spotify.com/track/0UjE0j9KOcI3aZbivMRE3K) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/00A1XYsx9tgJGnIHVn1X9u) | 3:38 |
-| 15 | [Wonderland](https://open.spotify.com/track/2nLS48VLLSsZTw2e4bVJ8o) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Wonderland](https://open.spotify.com/album/282XaxNiNZggEVcTusGRTt) | 2:50 |
-| 16 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/7ER5vjG6JSA3Dme3yMTMOQ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [RUDIM3NTAL](https://open.spotify.com/album/4jcfyx9nXciFXqyh5zHQ20) | 2:39 |
+| 15 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/7ER5vjG6JSA3Dme3yMTMOQ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [RUDIM3NTAL](https://open.spotify.com/album/4jcfyx9nXciFXqyh5zHQ20) | 2:39 |
+| 16 | [Wonderland](https://open.spotify.com/track/2nLS48VLLSsZTw2e4bVJ8o) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Wonderland](https://open.spotify.com/album/282XaxNiNZggEVcTusGRTt) | 2:50 |
 | 17 | [Looking To Love](https://open.spotify.com/track/4FsYQpa38VDIUFdYqU0EYu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Looking To Love](https://open.spotify.com/album/2zCt9h73d9uznlQSibu6Qh) | 3:20 |
 | 18 | [Honey](https://open.spotify.com/track/4T3nfbJ0G6uwNOdhygapfu) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:21 |
 | 19 | [Birthday Suit](https://open.spotify.com/track/41DBopd0o6IX2N8sjTE0AJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:56 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 72 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 73 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AcRJ3AAAAAC/6RzjaQzExgesbAF1kJNe`
+Snapshot ID: `AcRPfAAAAABnxZhmsWWFMbgrPVLfTX2k`

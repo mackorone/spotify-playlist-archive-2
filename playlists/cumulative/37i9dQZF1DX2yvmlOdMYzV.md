@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,057 songs - 2 day 9 hr 41 min
+1,058 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2021-12-15 | 2022-08-14 |
 | [open](https://open.spotify.com/track/7y4voxIo9QJT9ZODjKEBLS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [open](https://open.spotify.com/album/7nkV7ATNyYOJsYPZ63aPP4) | 2:22 | 2023-11-10 | 2025-03-30 |
 | [Open Letter](https://open.spotify.com/track/4vQxLMA2txL72AtvIbzDIe) | [CHOSZN](https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK) | [Open Letter](https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn) | 2:58 | 2024-10-18 | 2025-03-30 |
+| [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 | 2023-02-16 |  |
 | [Options](https://open.spotify.com/track/1ZWBlhBmJqgLLMDIT31vdV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U) | [Options](https://open.spotify.com/album/3fVaM3KjD3OasMuqIaWhsQ) | 2:41 | 2024-09-28 | 2025-03-22 |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-04-27 |
 | [Ordinary Pleasure](https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG) | 3:03 | 2021-12-15 | 2022-07-29 |
@@ -813,7 +814,7 @@
 | [Sincerely, Yours](https://open.spotify.com/track/4iYy9eFrSoInDBjBs3EYm3) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Candle Glow](https://open.spotify.com/album/0qcmUXzbT1j6c7yEKktiOQ) | 2:32 | 2021-12-15 | 2022-04-18 |
 | [single \(on the weekend\)](https://open.spotify.com/track/1CjvcxzHY3tbv63jui6y8A) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [single \(on the weekend\)](https://open.spotify.com/album/2NhxhIx40txRsi2CbzWpLz) | 2:35 | 2021-12-15 | 2022-04-21 |
 | [single \(on the weekend\)](https://open.spotify.com/track/3EsFTeaVgAsKjq4mojJTfQ) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/1Pqbkhi0xUWVXfMlCu6p4j) | 2:35 | 2022-06-30 | 2022-12-31 |
-| [Sit Down](https://open.spotify.com/track/2uTKAz5bjlBFXFtIoPWQh9) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sit Down](https://open.spotify.com/album/0QkUS3cJxlcy27pCa4timk) | 2:56 | 2024-11-08 |  |
+| [Sit Down](https://open.spotify.com/track/2uTKAz5bjlBFXFtIoPWQh9) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sit Down](https://open.spotify.com/album/0QkUS3cJxlcy27pCa4timk) | 2:56 | 2024-11-08 | 2026-05-12 |
 | [SKIN](https://open.spotify.com/track/0mSA9tgXALf6W1sVhx9CMe) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:33 | 2025-03-07 | 2025-05-17 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-09-16 | 2023-08-26 |
 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 | 2024-03-01 | 2025-03-30 |

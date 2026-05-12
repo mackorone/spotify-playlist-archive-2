@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Uncle Waffles, The Big Hash & Kabza De Small, FLO,  Chris Brown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,090 likes - 83 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,132 likes - 83 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 65 | [FATHER'S HOUSE](https://open.spotify.com/track/0BrRKWI1dw5VCfTzpBMydN) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [FATHER'S HOUSE](https://open.spotify.com/album/7AK6pZm0XiMHKs2ia7XUEC) | 6:00 |
 | 66 | [MaLavo \- Main Mix](https://open.spotify.com/track/36CW1WLBCsXYMPiXtyoDl2) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo) | [MaLavo](https://open.spotify.com/album/3HsPwn2eXcqm3FGDd9wQcL) | 7:14 |
 | 67 | [uBhabha](https://open.spotify.com/track/4BZNZb4YAeHBbxBh2II4c9) | [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Dj 787](https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz) | [uBhabha](https://open.spotify.com/album/1BURVXpFUakAPz4c4WapCG) | 4:04 |
-| 68 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 68 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 69 | [Illuminate](https://open.spotify.com/track/2xSEiQBQ39xfUgj2KmeRET) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Illuminate \(FIFA World Cup 2026™\)](https://open.spotify.com/album/7bWcEZkWHrGumRfvN6PPWJ) | 3:03 |
 | 70 | [Pictures of You](https://open.spotify.com/track/4uw8eVbfUdCAjLp3yt4Woe) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Pictures of You](https://open.spotify.com/album/63DzXorHF9MwDkDZKVkfaL) | 3:34 |
 | 71 | [Setlle'a Score](https://open.spotify.com/track/02CsrLOzQihoMmwc9pcDAF) | [LAW\_ZA](https://open.spotify.com/artist/1CTW3z1amgIYrYqpFta9Ml), [Don Edward](https://open.spotify.com/artist/0aCy51jGSGf6y3xPNyE9fV), [Mowkayy](https://open.spotify.com/artist/0IgQz5yWXVqzpknN3sgWYs), [YOUR.BOY.OFFICIAL](https://open.spotify.com/artist/4dALvPYLxoTMz4gpSWbU6S) | [Setlle'a Score](https://open.spotify.com/album/3wljHwVtkp6HWBBGzVaF9Q) | 5:36 |

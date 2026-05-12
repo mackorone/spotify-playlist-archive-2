@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Silvana Estrada, pablopablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,151 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,973 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [JAMÓN](https://open.spotify.com/track/3TgyJSUjN3deqvxm3Vf1OG) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [JAMÓN](https://open.spotify.com/album/2CGy70qKhGS3KyUw5uQjJp) | 2:23 |
 | 39 | [JUGUETONA](https://open.spotify.com/track/2He0lOqVbHGlX05dYqQqcj) | [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [flackoloyal](https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n) | [JUGUETONA](https://open.spotify.com/album/0Ms0xhiXWFmLDJqRIlPT2d) | 2:35 |
 | 40 | [Yuzu](https://open.spotify.com/track/7uDlSSOTrXYaz48GzkT24f) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Zavalah](https://open.spotify.com/artist/0AjXdLsgBphKgddIFUKgUX) | [Yuzu](https://open.spotify.com/album/0AO6NxVUSX9K7LdreE7F8H) | 2:14 |
-| 41 | [GPS \#7 \- Tú Me Lo Haces](https://open.spotify.com/track/69RR4uYbc0znKoTiaLqDpT) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [GPS \#7 \- Tú Me Lo Haces](https://open.spotify.com/album/3CwdDwNUOPJjjDpKFzF79F) | 3:05 |
+| 41 | [GPS \#7 \- Tú Me Lo Haces \(Limón y sal\)](https://open.spotify.com/track/69RR4uYbc0znKoTiaLqDpT) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [GPS \#7 \- Tú Me Lo Haces \(Limón y sal\)](https://open.spotify.com/album/3CwdDwNUOPJjjDpKFzF79F) | 3:05 |
 | 42 | [Algo que decirte](https://open.spotify.com/track/7chnaUARE0kchT39P2mDD0) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Algo que decirte](https://open.spotify.com/album/1EMlkl5qsaFQqWbeRVKjJ4) | 2:56 |
 | 43 | [Pueblerina](https://open.spotify.com/track/6wUQKXGhcXYoUODXTLjQ1c) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Pueblerina](https://open.spotify.com/album/4sUTI2FyeD77kHJaZl5PaB) | 2:47 |
 | 44 | [Melhor Lugar](https://open.spotify.com/track/356WnA9M3IjQOugqvGY119) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Duda Kropf](https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ) | [Melhor Lugar](https://open.spotify.com/album/6Yz02OMhecSvLezGbicOsW) | 2:49 |

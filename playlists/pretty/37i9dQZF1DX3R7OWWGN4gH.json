@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1420856,
+  "num_followers": 1420948,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 171375,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
     },
     {
-      "added_at": "2025-06-30 02:51:10",
-      "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 175215,
-      "name": "FXCK UP THE WORLD (Vixi Solo Version)",
-      "url": "https://open.spotify.com/track/6a3HxWNiBhr3tNYoqaCbLt"
-    },
-    {
       "added_at": "2024-02-22 03:52:54",
       "album": {
         "name": "abcdefu (angrier)",
@@ -1395,6 +1379,22 @@
       "duration_ms": 159836,
       "name": "abcdefu (angrier)",
       "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+    },
+    {
+      "added_at": "2025-06-30 02:51:10",
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "FXCK UP THE WORLD (Vixi Solo Version)",
+      "url": "https://open.spotify.com/track/6a3HxWNiBhr3tNYoqaCbLt"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1665,22 +1665,6 @@
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "People I Don't Like",
-        "url": "https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 142765,
-      "name": "People I Don't Like",
-      "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
-    },
-    {
       "added_at": "2024-10-03 03:29:07",
       "album": {
         "name": "Prom Queen",
@@ -1695,6 +1679,22 @@
       "duration_ms": 226143,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "People I Don't Like",
+        "url": "https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 142765,
+      "name": "People I Don't Like",
+      "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
     },
     {
       "added_at": "2024-02-22 03:52:54",

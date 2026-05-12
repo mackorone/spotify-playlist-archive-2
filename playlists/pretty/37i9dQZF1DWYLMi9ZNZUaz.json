@@ -1,6 +1,6 @@
 {
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en\n",
-  "num_followers": 121631,
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
+  "num_followers": 121672,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO",
   "tracks": [
-    {
-      "added_at": "2026-04-23 17:00:33",
-      "album": {
-        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
-        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
-      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
-    },
     {
       "added_at": "2026-04-23 17:00:33",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 200923,
       "name": "In Love",
       "url": "https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u"
+    },
+    {
+      "added_at": "2026-04-23 17:00:33",
+      "album": {
+        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
     },
     {
       "added_at": "2026-04-23 17:00:33",
@@ -547,6 +547,30 @@
     {
       "added_at": "2026-04-23 17:00:33",
       "album": {
+        "name": "\u0110O\u00c1 HOA",
+        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
+      },
+      "artists": [
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "BIG WIND",
+          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 158987,
+      "name": "\u0110O\u00c1 HOA",
+      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
+    },
+    {
+      "added_at": "2026-04-23 17:00:33",
+      "album": {
         "name": "C\u00f4ng Ty 4",
         "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 254491,
       "name": "C\u00f4ng Ty 4",
       "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
-    },
-    {
-      "added_at": "2026-04-23 17:00:33",
-      "album": {
-        "name": "\u0110O\u00c1 HOA",
-        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
-      },
-      "artists": [
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "BIG WIND",
-          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 158987,
-      "name": "\u0110O\u00c1 HOA",
-      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
     },
     {
       "added_at": "2026-04-23 17:00:33",
@@ -651,6 +651,34 @@
     {
       "added_at": "2026-04-23 17:00:33",
       "album": {
+        "name": "2GOILAYS",
+        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
+      },
+      "artists": [
+        {
+          "name": "MR LANH",
+          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "2GOILAYS",
+      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
+    },
+    {
+      "added_at": "2026-04-23 17:00:33",
+      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -691,34 +719,6 @@
       "duration_ms": 194005,
       "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
       "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
-    },
-    {
-      "added_at": "2026-04-23 17:00:33",
-      "album": {
-        "name": "2GOILAYS",
-        "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
-      },
-      "artists": [
-        {
-          "name": "MR LANH",
-          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "2GOILAYS",
-      "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
     },
     {
       "added_at": "2026-04-23 17:00:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-23 17:00:33",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2026-04-23 17:00:33",
-      "album": {
         "name": "M\u01b0a C\u1ee9 R\u01a1i",
         "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 177333,
       "name": "M\u01b0a C\u1ee9 R\u01a1i",
       "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
+    },
+    {
+      "added_at": "2026-04-23 17:00:33",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2026-04-23 17:00:33",
@@ -959,26 +959,22 @@
     {
       "added_at": "2026-04-23 17:00:33",
       "album": {
-        "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
-        "url": "https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa"
+        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
+        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
       },
       "artists": [
         {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        },
-        {
-          "name": "WOKEUP",
-          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 210944,
-      "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
-      "url": "https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz"
+      "duration_ms": 210491,
+      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
+      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
     },
     {
       "added_at": "2026-04-23 17:00:33",
@@ -999,22 +995,26 @@
     {
       "added_at": "2026-04-23 17:00:33",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
-        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
+        "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
+        "url": "https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         },
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
         }
       ],
-      "duration_ms": 210491,
-      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
-      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+      "duration_ms": 210944,
+      "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
+      "url": "https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

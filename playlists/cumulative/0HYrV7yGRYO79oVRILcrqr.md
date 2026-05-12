@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-489 songs - 1 day 6 hr 29 min
+494 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,10 @@
 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 | 2025-12-31 | 2026-03-18 |
 | [Chillin’ on the breakdown lane](https://open.spotify.com/track/3zxaF7GYPsMnGk65APHrn2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Chillin on the breakdown lane](https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq) | 3:56 | 2026-01-07 | 2026-03-18 |
 | [Chronicle](https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO) | [Venerated By Frost](https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I) | [Chronicle](https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd) | 4:00 | 2026-04-30 |  |
+| [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 | 2026-05-11 |  |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 |  |
+| [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 | 2026-05-11 |  |
+| [Come Back To Me](https://open.spotify.com/track/70dmA7xWvf9oGD1WwJT9HW) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 3:42 | 2026-05-11 |  |
 | [Come on in My Kitchen](https://open.spotify.com/track/7DQjQM2ftbW6gMxqUhGNcN) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Come on in My Kitchen](https://open.spotify.com/album/2qUxGZ5CJdxmwxsxzSgOpf) | 4:06 | 2025-10-16 | 2025-11-28 |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-03-17 | 2026-04-21 |
 | [Control](https://open.spotify.com/track/3aYIobFI663p7UIIl1yO3o) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [5 to 4](https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah) | 3:39 | 2026-02-09 | 2026-03-18 |
@@ -132,6 +135,7 @@
 | [Easy Rollin](https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 2:48 | 2026-03-14 | 2026-04-21 |
 | [Echoes of Forever](https://open.spotify.com/track/5R8ZWNR0hltUBTVwMIIS9P) | [Uby](https://open.spotify.com/artist/10LBfcS3SRojvj2bYyXUf9) | [Echoes of Forever](https://open.spotify.com/album/7b2lYFFbdywzGzNbtPeHL4) | 5:00 | 2025-10-02 | 2025-12-17 |
 | [Echos in Reverse](https://open.spotify.com/track/4X7u2YyQAddBuysCljzlTv) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Echos in Reverse](https://open.spotify.com/album/6R3iwi2gajC46Jy1ZcQAgQ) | 4:02 | 2025-10-06 | 2025-11-28 |
+| [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 | 2026-05-11 |  |
 | [Ecstasy](https://open.spotify.com/track/3MeFzHAPF4iRxQqReIgXHV) | [never mind the world](https://open.spotify.com/artist/33GYHfjMu2Coh9fFUaLooN) | [Ecstasy](https://open.spotify.com/album/0HkjLJ5pWZg2qIbHPTpR4C) | 3:20 | 2025-12-06 | 2026-04-21 |
 | [Effatà](https://open.spotify.com/track/2RXiEuxgDn4OdQjWKBvFO5) | [Eluana Lateana](https://open.spotify.com/artist/55wsfjOEy5MhUC0Tm7I3wV), [Marcello Favoino](https://open.spotify.com/artist/6gUroXfm6h2jAaeh7xqwwU) | [Effatà](https://open.spotify.com/album/3n69EjkZZVaC1pkrjrkcMW) | 4:39 | 2026-05-06 |  |
 | [Efimero Amor](https://open.spotify.com/track/6Ms8BHznJ328BEW4hGPEo1) | [Kort Funes](https://open.spotify.com/artist/5C5AL8ee4M0UzxPxjK1oLQ) | [Efimero Amor](https://open.spotify.com/album/1CGTRd3Gm6f8d5tQTqcvtR) | 4:44 | 2026-04-23 |  |
@@ -316,6 +320,7 @@
 | [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 | 2026-02-25 | 2026-03-18 |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
+| [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-11 |  |
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 | 2025-12-17 |
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |

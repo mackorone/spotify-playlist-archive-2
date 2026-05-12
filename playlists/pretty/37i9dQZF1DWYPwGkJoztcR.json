@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397349,
+  "num_followers": 397363,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,38 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Rent California",
+        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 243595,
+      "name": "Rent California",
+      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
         "name": "Call Me When You Get In",
         "url": "https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM"
       },
@@ -319,22 +351,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Morning Dawns Again",
         "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 238699,
       "name": "Morning Dawns Again",
       "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
-        "name": "Rent California",
-        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 243595,
-      "name": "Rent California",
-      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "Light Over You",
+        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Janna",
+          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 176746,
+      "name": "Light Over You",
+      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -527,22 +543,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Light Over You",
-        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
-      },
-      "artists": [
-        {
-          "name": "Janna",
-          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Light Over You",
-      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Like It Always Was",
         "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 212565,
       "name": "Do You Want To Be Honest?",
       "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
       "artists": [
         {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
-      },
-      "artists": [
-        {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "BROWN & GRAY",
-          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
-        }
-      ],
-      "duration_ms": 169585,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Just Another Road",
         "url": "https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 180177,
       "name": "Just Another Road",
       "url": "https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+        }
+      ],
+      "duration_ms": 169585,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
-        "name": "Dark Harvest, Pt. 1",
-        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 292148,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
+        "name": "Dark Harvest, Pt. 1",
+        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 292148,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
     },
     {
       "added_at": "2026-04-20 14:00:13",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-20 14:00:13",
       "album": {
+        "name": "You Got Me Hurt (Acoustic)",
+        "url": "https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3"
+      },
+      "artists": [
+        {
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+        }
+      ],
+      "duration_ms": 214052,
+      "name": "You Got Me Hurt - Acoustic",
+      "url": "https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D"
+    },
+    {
+      "added_at": "2026-04-20 14:00:13",
+      "album": {
         "name": "Magnetic Fields",
         "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 153880,
       "name": "Magnetic Fields",
       "url": "https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ"
-    },
-    {
-      "added_at": "2026-04-20 14:00:13",
-      "album": {
-        "name": "You Got Me Hurt (Acoustic)",
-        "url": "https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 214052,
-      "name": "You Got Me Hurt - Acoustic",
-      "url": "https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D"
     },
     {
       "added_at": "2026-04-20 14:00:13",

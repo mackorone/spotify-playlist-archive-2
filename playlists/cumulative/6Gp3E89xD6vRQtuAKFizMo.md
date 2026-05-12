@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/6Gp3E89xD6vRQtuAKFizMo.md) - cumulative - [plain](/playlists/plain/6Gp3E89xD6vRQtuAKFizMo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6Gp3E89xD6vRQtuAKFizMo)
 
-### [Dim Mak New Releases](https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo)
+### [DIM MAK: IN ROTATION](https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo)
 
-> Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
+> Brand new music from Steve Aoki’s Dim Mak Records, updated every Friday!
 
 559 songs - 1 day 2 hr 41 min
 

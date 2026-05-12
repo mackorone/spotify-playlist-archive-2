@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2461,
+  "num_followers": 2463,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAGLG8Ji9q1ijrK6HRP9dY8",
+  "snapshot_id": "af/KgAAAAABCL8GLhYlV/4YLNLMpSBz+",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar: Abyss",
-        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 164199,
-      "name": "Vestige",
-      "url": "https://open.spotify.com/track/5LnDh3txdYyfnQ1PtDjLHd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 198946,
       "name": "Filma",
       "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polar: Abyss",
+        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "Vestige",
+      "url": "https://open.spotify.com/track/5LnDh3txdYyfnQ1PtDjLHd"
     },
     {
       "added_at": null,

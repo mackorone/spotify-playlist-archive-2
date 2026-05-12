@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:7Dgc5VSOtvobxlOOmNsvJp\">villaz</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:6VMslcLSscfWZSy98JfNiQ\">Kuba Szmajkowsky</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Ale u mnie te\u017c",
+        "url": "https://open.spotify.com/album/1V4Zj2Q7oN9eywOkpWgsaD"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123694,
+      "name": "Ale u mnie te\u017c",
+      "url": "https://open.spotify.com/track/6oUiphLZOezNMfCi5eIPEI"
+    },
+    {
+      "album": {
         "name": "amitua\u017c",
         "url": "https://open.spotify.com/album/5W5PfSAvO4sNUcYjRf7BFf"
       },
@@ -180,10 +198,28 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 230080,
       "name": "Antropocen",
       "url": "https://open.spotify.com/track/3wEcEctIcwWduZCCxYXBF8"
+    },
+    {
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/1EAHV7js1kKeadDWMPX0lr"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205038,
+      "name": "April I",
+      "url": "https://open.spotify.com/track/6lJm9RWKS4SlaPGkbKfZOb"
     },
     {
       "album": {
@@ -1587,6 +1623,28 @@
     },
     {
       "album": {
+        "name": "DRAG!",
+        "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        },
+        {
+          "name": "Lagoona Aqua Pussy",
+          "url": "https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "DRAG!",
+      "url": "https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE"
+    },
+    {
+      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/1Fo7vUm0xF1frBVNf2HLJN"
       },
@@ -1930,6 +1988,24 @@
       "duration_ms": 97225,
       "name": "everyday",
       "url": "https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g"
+    },
+    {
+      "album": {
+        "name": "Explozja",
+        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Explozja",
+      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
     },
     {
       "album": {
@@ -2828,7 +2904,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 217021,
       "name": "Jaskrawe historie",
       "url": "https://open.spotify.com/track/7nvyxWLQStZp4rGVV9duGD"
@@ -3515,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Lwia Ska\u0142a",
+        "url": "https://open.spotify.com/album/4qifmnXuuY9NVOcphuy1Cr"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Lwia Ska\u0142a",
+      "url": "https://open.spotify.com/track/3BoUaFlHdlidP4l7ouMUrF"
+    },
+    {
+      "album": {
         "name": "MAJU\u015a",
         "url": "https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b"
       },
@@ -4024,7 +4118,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 183260,
       "name": "Na stacji paliw",
       "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
@@ -4310,7 +4404,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 145370,
       "name": "Nie m\u00f3j typ",
       "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
@@ -4422,7 +4516,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 154698,
       "name": "NIE ZNASZ JEJ",
       "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
@@ -4887,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "Pale Ale",
+        "url": "https://open.spotify.com/album/0ioTftejrZXaWpScQMUBMv"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171937,
+      "name": "Pale Ale",
+      "url": "https://open.spotify.com/track/1OgmaeE4op4zVMNeSp3Sa4"
+    },
+    {
+      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
       },
@@ -4990,7 +5102,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 169130,
       "name": "ParaBellum",
       "url": "https://open.spotify.com/track/1KDVkxcEs0vXugw2z1he1O"
@@ -5523,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "PORTO",
+        "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149011,
+      "name": "PORTO",
+      "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
+    },
+    {
+      "album": {
         "name": "ANAGNORYZM",
         "url": "https://open.spotify.com/album/7jC2iPM0hCfFFg9FsH6AbN"
       },
@@ -5618,6 +5748,24 @@
       "duration_ms": 211000,
       "name": "Prawda",
       "url": "https://open.spotify.com/track/1ljhrnf6rToJm43ZpOmorD"
+    },
+    {
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
     },
     {
       "album": {
@@ -6681,6 +6829,24 @@
     },
     {
       "album": {
+        "name": "SZAMPAN",
+        "url": "https://open.spotify.com/album/4JhxKvwGKXX0hfTyDrfTj3"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204255,
+      "name": "SZAMPAN",
+      "url": "https://open.spotify.com/track/0wts90I1idvzrHPAr110vy"
+    },
+    {
+      "album": {
         "name": "szczerze, mega mocne",
         "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
       },
@@ -6826,7 +6992,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
@@ -7090,7 +7256,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 156000,
       "name": "Ton\u0119",
       "url": "https://open.spotify.com/track/1k7B7yNHwfnBPlX0eEpDEh"
@@ -7668,7 +7834,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 268637,
       "name": "Wody odesz\u0142y",
       "url": "https://open.spotify.com/track/6vRtXj4gYSY96X5MPUES4J"
@@ -7784,6 +7950,24 @@
       "duration_ms": 265129,
       "name": "You Don't Understand Me",
       "url": "https://open.spotify.com/track/3Re2nQkNd0r8xruQ2m6aiE"
+    },
+    {
+      "album": {
+        "name": "Eksperyment",
+        "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202295,
+      "name": "Z cukrem myl\u0119 l\u00f3d",
+      "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
     },
     {
       "album": {
@@ -7998,7 +8182,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 200000,
       "name": "z\u0142y",
       "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"

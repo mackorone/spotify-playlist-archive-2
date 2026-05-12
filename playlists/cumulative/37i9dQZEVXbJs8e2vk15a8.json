@@ -5231,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Going Normal",
+        "url": "https://open.spotify.com/album/79TP0nVbW71q4zYVeqrd7a"
+      },
+      "artists": [
+        {
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "An Eater",
+      "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
+    },
+    {
+      "album": {
         "name": "Anda sola (Remix)",
         "url": "https://open.spotify.com/album/4VC0zUN0ZzTZbD26s8gNSI"
       },
@@ -13850,7 +13868,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 162461,
       "name": "Chico",
       "url": "https://open.spotify.com/track/5XLjPtzgRKPesZ0scsGXpS"
@@ -15528,7 +15546,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-20",
+      "date_removed": null,
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
@@ -24726,7 +24744,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 209260,
       "name": "Entre Tu y Yo",
       "url": "https://open.spotify.com/track/6Axwzs2r4Y2eQNyk5kzYkg"
@@ -30002,6 +30020,24 @@
     {
       "album": {
         "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
         "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
       },
       "artists": [
@@ -30012,7 +30048,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -45649,6 +45685,32 @@
     },
     {
       "album": {
+        "name": "Mendigo",
+        "url": "https://open.spotify.com/album/6FPOe3SZCzcAeITcrZAATq"
+      },
+      "artists": [
+        {
+          "name": "yoilya",
+          "url": "https://open.spotify.com/artist/0JO6iSEawFTeWSPEkjMA5X"
+        },
+        {
+          "name": "22xlstl",
+          "url": "https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx"
+        },
+        {
+          "name": "hark",
+          "url": "https://open.spotify.com/artist/6nf4C1Vqbh3A7Htm50rCfg"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Mendigo",
+      "url": "https://open.spotify.com/track/2JNwCotkyVF4TZcEgZcVJW"
+    },
+    {
+      "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
       },
@@ -48366,7 +48428,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
@@ -70806,7 +70868,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 144959,
       "name": "S\u00e9 esa mujer valiente",
       "url": "https://open.spotify.com/track/7J9mEYmPlt8QUlUjuUUKMd"
@@ -75556,7 +75618,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"

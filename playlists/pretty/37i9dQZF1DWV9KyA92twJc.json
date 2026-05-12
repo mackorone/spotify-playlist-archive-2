@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05da. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e7\u05d0\u05d1\u05e8: \u05d8\u05de\u05e4\u05e8 \u05e1\u05d9\u05d8\u05d9",
-  "num_followers": 25778,
+  "num_followers": 25779,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-04-30 21:00:32",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2026-04-30 21:00:32",
-      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2026-04-30 21:00:32",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2026-04-30 21:00:32",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-04-30 21:00:32",
       "album": {
+        "name": "\u05ea\u05d4\u05d9\u05d4 \u05d1\u05e0\u05d0\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI"
+      },
+      "artists": [
+        {
+          "name": "\u05de\u05ea\u05df \u05d7\u05e1\u05df",
+          "url": "https://open.spotify.com/artist/5OFKT7JHN2pjEhkLdB1Kzg"
+        }
+      ],
+      "duration_ms": 117230,
+      "name": "\u05ea\u05d4\u05d9\u05d4 \u05d1\u05e0\u05d0\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp"
+    },
+    {
+      "added_at": "2026-04-30 21:00:32",
+      "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2026-04-30 21:00:32",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
-      },
-      "artists": [
-        {
-          "name": "Eden Golan",
-          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
-        }
-      ],
-      "duration_ms": 178965,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
-    },
-    {
-      "added_at": "2026-04-30 21:00:32",
-      "album": {
         "name": "THE LAST EPISODE",
         "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-04-30 21:00:32",
       "album": {
-        "name": "\u05ea\u05d4\u05d9\u05d4 \u05d1\u05e0\u05d0\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
       },
       "artists": [
         {
-          "name": "\u05de\u05ea\u05df \u05d7\u05e1\u05df",
-          "url": "https://open.spotify.com/artist/5OFKT7JHN2pjEhkLdB1Kzg"
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
         }
       ],
-      "duration_ms": 117230,
-      "name": "\u05ea\u05d4\u05d9\u05d4 \u05d1\u05e0\u05d0\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp"
+      "duration_ms": 178965,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
     },
     {
       "added_at": "2026-04-30 21:00:32",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-04-30 21:00:32",
       "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 251881,
+      "name": "\u05d0\u05dc \u05ea\u05e4\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm"
+    },
+    {
+      "added_at": "2026-04-30 21:00:32",
+      "album": {
         "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
         "url": "https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 212142,
       "name": "\u05ea\u05e7\u05dc\u05d9\u05d8 \u05d6\u05d4\u05d1",
       "url": "https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk"
-    },
-    {
-      "added_at": "2026-04-30 21:00:32",
-      "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 251881,
-      "name": "\u05d0\u05dc \u05ea\u05e4\u05d7\u05d3",
-      "url": "https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm"
     },
     {
       "added_at": "2026-04-30 21:00:32",

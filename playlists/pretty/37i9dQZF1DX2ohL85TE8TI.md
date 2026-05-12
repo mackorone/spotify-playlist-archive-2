@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 모두가 자신의 무가치함과 싸우고 있다 \(We Are All Trying Here\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,718,429 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718,321 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [My Chapter : You](https://open.spotify.com/track/0fYdsLQE7ZWF8jebf3LmkO) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ms\. Incognito, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1w1Pofj48H56gYW8mlrWIt) | 4:17 |
 | 100 | [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 |
 
-Snapshot ID: `AAAAALmPlsaZGgmUxJjjcSn86xPvmTzq`
+Snapshot ID: `AAAAAANTj8+kCQuWFbWrE8LcuhSepbAP`

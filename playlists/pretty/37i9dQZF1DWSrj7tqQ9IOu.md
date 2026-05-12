@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,175 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,169 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 33 | [ALL WIN](https://open.spotify.com/track/28Hl41hlf9LDVqg4zoy7gE) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [FRAGMENT EXHIBITION](https://open.spotify.com/album/44rTVSiLrSOu1o3wIBHTFN) | 3:04 |
 | 34 | [Être une fille](https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna) | [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [Les monstres](https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo) | 3:32 |
 | 35 | [Le besoin](https://open.spotify.com/track/5VYUkw26Zrwj2FC458bQe0) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Le besoin](https://open.spotify.com/album/4BosQLexIQPtg8TPG4ioEA) | 3:05 |
-| 36 | [CHALÈ](https://open.spotify.com/track/6OTuYW0hggs1rhC5isHJbD) | [Malcolm](https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb), [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D) | [CHALÈ](https://open.spotify.com/album/75BImxArgxMcPKVJjOpRAB) | 2:18 |
-| 37 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
+| 36 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
+| 37 | [CHALÈ](https://open.spotify.com/track/6OTuYW0hggs1rhC5isHJbD) | [Malcolm](https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb), [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D) | [CHALÈ](https://open.spotify.com/album/75BImxArgxMcPKVJjOpRAB) | 2:18 |
 | 38 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 |
 | 39 | [SWING](https://open.spotify.com/track/0u1MlZLPl0U6bNN3SYhGvh) | [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w) | [SWING](https://open.spotify.com/album/7uTNjPjyptfuq0I6cntxXe) | 2:29 |
-| 40 | [NAN!](https://open.spotify.com/track/2RQcefK54hh6rydGm2JmHg) | [D'accord Simon](https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo) | [NAN!](https://open.spotify.com/album/6jUzPRytNibaXwplCU3AJk) | 2:21 |
-| 41 | [Beaux\-arts](https://open.spotify.com/track/5TF34rrtgmYMHRIPo0irA2) | [EL'NOUR](https://open.spotify.com/artist/3G57My9Nb3MPAqH12PeC4e) | [Beaux\-arts](https://open.spotify.com/album/13ZhwviVjcYAIHQKwjoBqI) | 2:29 |
+| 40 | [Beaux\-arts](https://open.spotify.com/track/5TF34rrtgmYMHRIPo0irA2) | [EL'NOUR](https://open.spotify.com/artist/3G57My9Nb3MPAqH12PeC4e) | [Beaux\-arts](https://open.spotify.com/album/13ZhwviVjcYAIHQKwjoBqI) | 2:29 |
+| 41 | [NAN!](https://open.spotify.com/track/2RQcefK54hh6rydGm2JmHg) | [D'accord Simon](https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo) | [NAN!](https://open.spotify.com/album/6jUzPRytNibaXwplCU3AJk) | 2:21 |
 | 42 | [ROCKSTAR](https://open.spotify.com/track/3QhAqrOxTHZdtRfo1CJi5a) | [DMA](https://open.spotify.com/artist/5Ak16qYfuiCJoQUayCdlJK) | [CŒUR DE LION](https://open.spotify.com/album/5XUgJthXlQRMWnQayVmWX6) | 2:18 |
 | 43 | [Sous ma paire](https://open.spotify.com/track/5ue4hl5DFR1QFD9BDzrpWQ) | [Sano manjiro](https://open.spotify.com/artist/27vM8U5EJPb9jUoYz36Iuy), [TYF](https://open.spotify.com/artist/03WSX95GguD49LhHQOmACU) | [Sous ma paire](https://open.spotify.com/album/3kqmswzc35jCy8G7J0DS7U) | 3:05 |
 | 44 | [The Video Song](https://open.spotify.com/track/09n7ydVPI2tzzyYaTC9KRF) | [Rémi Klein](https://open.spotify.com/artist/06JZ26vMJOjeIjwG35mP7e) | [The Video Song](https://open.spotify.com/album/2JwC0ZYQ2fM8Maik1WNdbJ) | 4:29 |

@@ -1,6 +1,6 @@
 {
   "description": "Embrace all colours with your favourite anthems. \"Let's have a kiki!\"",
-  "num_followers": 39744,
+  "num_followers": 39751,
   "original_name": "Rainbow Mix",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "If I Could Turn Back Time",
-      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 238173,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "All About That Bass",
-        "url": "https://open.spotify.com/album/2Gf7TGoOt6FyRi7p32OzUM"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 188754,
-      "name": "All About That Bass",
-      "url": "https://open.spotify.com/track/0ifSeVGUr7py5GggttDhXw"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "ZITTI E BUONI",
         "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 192654,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "All About That Bass",
+        "url": "https://open.spotify.com/album/2Gf7TGoOt6FyRi7p32OzUM"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 188754,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/0ifSeVGUr7py5GggttDhXw"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1383,6 +1383,22 @@
       "duration_ms": 207866,
       "name": "Spinning Around",
       "url": "https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Erotica (PA Version)",
         "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Dance Hits - 80s & 90s",
         "url": "https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 211533,
       "name": "It's Raining Men - Single Version",
       "url": "https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Het Beste Van Maywood",
+        "url": "https://open.spotify.com/album/426n84v0yVtuLLrF533tQU"
+      },
+      "artists": [
+        {
+          "name": "Maywood",
+          "url": "https://open.spotify.com/artist/5edfbK4vf2OxHiVfMfPcvm"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4DFLe29ryqXWs4AXYPm7pB"
     }
   ],
   "unique_name": "Rainbow Mix",

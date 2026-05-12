@@ -18599,6 +18599,24 @@
     },
     {
       "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+    },
+    {
+      "album": {
         "name": "\u062a\u0631\u0627\u0643 \u0627\u0644\u0645\u0648\u0633\u0645",
         "url": "https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx"
       },
@@ -19818,7 +19836,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 177716,
       "name": "\u0633\u0648\u0627 \u0633\u0648\u0627",
       "url": "https://open.spotify.com/track/2TKRLhUZxSQgIuDVrtfx9a"

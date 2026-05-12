@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2117623,
+  "num_followers": 2117585,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "I'm Not Bothered By The Rain",
-        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
-      },
-      "artists": [
-        {
-          "name": "Eric McEntee",
-          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
-        }
-      ],
-      "duration_ms": 225867,
-      "name": "I'm Not Bothered By The Rain",
-      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 214666,
       "name": "Heart's Content",
       "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "I'm Not Bothered By The Rain",
+        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
+      },
+      "artists": [
+        {
+          "name": "Eric McEntee",
+          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
+        }
+      ],
+      "duration_ms": 225867,
+      "name": "I'm Not Bothered By The Rain",
+      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "Paranoid Cocoon",
+        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
+      },
+      "artists": [
+        {
+          "name": "Cotton Jones",
+          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Blood Red Sentimental Blues",
+      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "Paranoid Cocoon",
-        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
-      },
-      "artists": [
-        {
-          "name": "Cotton Jones",
-          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Blood Red Sentimental Blues",
-      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Unessential Oils",
-        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
-      },
-      "artists": [
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
-        }
-      ],
-      "duration_ms": 265880,
-      "name": "Solutions to My Gloom",
-      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Amidst the Chaos (Bonus Version)",
         "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 253395,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "K\u00f6ln (Lost in Time)",
-        "url": "https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u"
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
       },
       "artists": [
         {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 218046,
-      "name": "K\u00f6ln (Lost in Time)",
-      "url": "https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb"
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1103,6 +1087,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "K\u00f6ln (Lost in Time)",
+        "url": "https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 218046,
+      "name": "K\u00f6ln (Lost in Time)",
+      "url": "https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 450986,
       "name": "Let Me Get There",
       "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "German Cars",
-        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Stay For Something",
         "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "German Cars",
+        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
         }
       ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1371,6 +1355,22 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/5vhWPJmfv17WuWHpmMtbUb"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 229000,
       "name": "Adeline (feat. Kathleen)",
       "url": "https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 219725,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
         "name": "Shaking Hands With Elvis",
         "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 209087,
       "name": "Hollywood Forever Cemetery",
       "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
       "added_at": "2026-05-01 04:01:39",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-05-01 04:01:39",
       "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2026-05-01 04:01:39",
+      "album": {
         "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
         "url": "https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 270366,
       "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
       "url": "https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk"
-    },
-    {
-      "added_at": "2026-05-01 04:01:39",
-      "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2026-05-01 04:01:39",

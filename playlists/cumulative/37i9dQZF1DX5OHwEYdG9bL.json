@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-15",
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: CORTIS) (Enjoy a playlist of songs that support music video features!) ",
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: aespa) (Enjoy a playlist of songs that support music video features!) ",
   "name": "K-Pop Music Video Hits",
   "tracks": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "album": {
-        "name": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
+        "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
         "url": "https://open.spotify.com/album/6uC7j4x0xXgQkVhAg3YElC"
       },
       "artists": [
@@ -94,7 +94,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182232,
-      "name": "Aftertaste - from Original Motion Picture Soundtrack K-POPS!",
+      "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
       "url": "https://open.spotify.com/track/24xU2Ua8cjyz2wKziFOtnE"
     },
     {
@@ -944,6 +944,24 @@
       "duration_ms": 238250,
       "name": "Dash",
       "url": "https://open.spotify.com/track/2eUExqqFOpckGJG7faJMeW"
+    },
+    {
+      "album": {
+        "name": "ddok ddok ddok",
+        "url": "https://open.spotify.com/album/4gHuTmtRrcGHwgijzB7yR2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160905,
+      "name": "ddok ddok ddok",
+      "url": "https://open.spotify.com/track/3gYInUz6sp2ujSizzUdZeg"
     },
     {
       "album": {
@@ -3746,6 +3764,28 @@
       "duration_ms": 213098,
       "name": "Waste No Time",
       "url": "https://open.spotify.com/track/2GV8kd6eeXAWBYhoi46HRX"
+    },
+    {
+      "album": {
+        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/6vL0wjA7dzpf2g8BlGClqU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188501,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/1rAPoQrqdbMWhgu6D3FOBh"
     },
     {
       "album": {

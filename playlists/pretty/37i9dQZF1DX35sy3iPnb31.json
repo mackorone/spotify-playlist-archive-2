@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1575,
+  "num_followers": 1597,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALs6Y2mqVy8BsWTRQbrmg0NZl6AI",
+  "snapshot_id": "AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1",
   "tracks": [
     {
       "added_at": "2026-05-01 04:04:33",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "HOME WAS ALWAYS ME",
         "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 137538,
       "name": "midnight moon",
       "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Can't Shake This Feeling",
-        "url": "https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd"
-      },
-      "artists": [
-        {
-          "name": "Carly Hann",
-          "url": "https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b"
-        }
-      ],
-      "duration_ms": 209314,
-      "name": "Can't Shake This Feeling",
-      "url": "https://open.spotify.com/track/1grXmYQ0WLIfKzZp4ahtO0"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "SkiDay",
         "url": "https://open.spotify.com/album/2D1mvRiFSFc6s9NkPArGDK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 167663,
       "name": "SkiDay",
       "url": "https://open.spotify.com/track/1v4m28NkQN4jCW4DwCMSPo"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Can't Shake This Feeling",
+        "url": "https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd"
+      },
+      "artists": [
+        {
+          "name": "Carly Hann",
+          "url": "https://open.spotify.com/artist/5vxDMnh02mh7RQ9c2wiT6b"
+        }
+      ],
+      "duration_ms": 209314,
+      "name": "Can't Shake This Feeling",
+      "url": "https://open.spotify.com/track/1grXmYQ0WLIfKzZp4ahtO0"
     },
     {
       "added_at": "2026-05-01 04:04:33",

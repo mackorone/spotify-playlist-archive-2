@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 352898,
+  "num_followers": 352944,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "MELLODEATH Tapes Vol. I",
         "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 195692,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "The Wild Hunt",
-      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
     }
   ],
   "unique_name": "Rocktronic",

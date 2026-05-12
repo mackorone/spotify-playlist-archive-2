@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 64336,
+  "num_followers": 64343,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAD48J2bhlte/kWTBEqAxVej",
+  "snapshot_id": "af/KgAAAAAC75LoV7XnA0iP1D6QTrbKr",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heaven & Earth",
+        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "Heaven Song",
+      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fear Has No Power",
         "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
       },
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven & Earth",
-        "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 244546,
-      "name": "Heaven Song",
-      "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+      "duration_ms": 240266,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 252624,
       "name": "People Of Heaven",
       "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
     },
     {
       "added_at": null,

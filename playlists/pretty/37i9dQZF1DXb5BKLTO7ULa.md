@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Frenna, Zoë Livay, Froukje, Lijpe, Calvin Harris, Lykke Li en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,895 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,872 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 84 | [EAT U ALIVE](https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [EAT U ALIVE](https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz) | 2:51 |
 | 85 | [Headlines](https://open.spotify.com/track/4FMxamchqOEJFMMmPNwZfH) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [AURA](https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf) | 2:41 |
 | 86 | [Ticket First](https://open.spotify.com/track/6wiyXfxELLfeXH8EVOWeLb) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Ticket First \(feat\. Eric Clapton\)](https://open.spotify.com/album/1XeV3ktgSDAmlUDgGBXfsJ) | 4:22 |
-| 87 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 87 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 88 | [All My Life \(feat\. John Martin\)](https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [All My Life \(feat\. John Martin\)](https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD) | 2:52 |
 | 89 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 90 | [New Love](https://open.spotify.com/track/6hsHSPspOQ6XqoVkcllD2X) | [ultrasaturated](https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC) | [New Love](https://open.spotify.com/album/7IV6vTYEjC1ScBNJa06Xo2) | 2:49 |

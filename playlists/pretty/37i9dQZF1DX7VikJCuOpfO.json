@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fern\u00e1ndez \ud83d\udcf8",
-  "num_followers": 367558,
+  "num_followers": 367554,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Rolitas Para Mis Abuelos",
-        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 230802,
-      "name": "100 Horas",
-      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "No soy para ti",
         "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 124785,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Rolitas Para Mis Abuelos",
+        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 230802,
+      "name": "100 Horas",
+      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Olvidarte",
-        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
-      },
-      "artists": [
-        {
-          "name": "Horacio de Jes\u00fas",
-          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Juro Que Nunca Volver\u00e9",
         "url": "https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 158600,
       "name": "Juro Que Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Olvidarte",
+        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
+      },
+      "artists": [
+        {
+          "name": "Horacio de Jes\u00fas",
+          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Mariachi y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02"
-      },
-      "artists": [
-        {
-          "name": "Los del Norte\u00f1o Sax",
-          "url": "https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB"
-        }
-      ],
-      "duration_ms": 198431,
-      "name": "Golpe Inesperado",
-      "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Si Ya Te Valgo",
         "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 149500,
       "name": "Si Ya Te Valgo",
       "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Mariachi y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02"
+      },
+      "artists": [
+        {
+          "name": "Los del Norte\u00f1o Sax",
+          "url": "https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB"
+        }
+      ],
+      "duration_ms": 198431,
+      "name": "Golpe Inesperado",
+      "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
     },
     {
       "added_at": "2026-04-24 06:00:58",

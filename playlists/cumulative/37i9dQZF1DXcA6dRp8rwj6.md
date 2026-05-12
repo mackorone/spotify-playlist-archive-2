@@ -2,7 +2,7 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover: Isaiah Rashad, SZA\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover: SHIGGA SHAY, pH\-1, JP THE WAVY\)
 
 3,391 songs - 7 day 2 hr 49 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,191 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,212 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 49 | [Cast \(Gen Z Anthem\)](https://open.spotify.com/track/39mBggiTIKDRf67oAAoSUx) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:45 |
 | 50 | [Le Show](https://open.spotify.com/track/2oxmZ8DBGlQK1gLBCDuDKD) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [A.W.A.M.](https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S) | 3:36 |
 
-Snapshot ID: `af55AAAAAAA9Aao/MC6yJOwHRgqhATxS`
+Snapshot ID: `af/KgAAAAABiWkzGzHkRgcPGJMn7t46C`

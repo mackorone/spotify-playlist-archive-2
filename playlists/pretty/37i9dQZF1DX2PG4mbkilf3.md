@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Kuzi Cee from Calgary, AB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,453 likes - 89 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,460 likes - 89 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

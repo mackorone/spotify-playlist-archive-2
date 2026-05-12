@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 350207,
+  "num_followers": 350235,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 252666,
       "name": "Un Ramito de Violetas",
       "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
-        "name": "\u00daltimo Acto",
-        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Solo Otra Vez - Alone Again",
-      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+        "name": "\u00daltimo Acto",
+        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+      "duration_ms": 206880,
+      "name": "Solo Otra Vez - Alone Again",
+      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -995,6 +979,22 @@
       "duration_ms": 224413,
       "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
       "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "Los Mares De China",
-        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
         "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 185826,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "Los Mares De China",
+        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 171013,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
-        "name": "tiene que ser m\u00e1s f\u00e1cil",
-        "url": "https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "tiene que ser m\u00e1s f\u00e1cil",
-      "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
+        "name": "tiene que ser m\u00e1s f\u00e1cil",
+        "url": "https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "tiene que ser m\u00e1s f\u00e1cil",
+      "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
-        "name": "L\u00edquido",
-        "url": "https://open.spotify.com/album/1gDD4KCno0hvuRhZSmu4Ar"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 111773,
-      "name": "L\u00edquido",
-      "url": "https://open.spotify.com/track/4zayY9bi31w1CmwK6ELmbs"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
+        "name": "L\u00edquido",
+        "url": "https://open.spotify.com/album/1gDD4KCno0hvuRhZSmu4Ar"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 111773,
+      "name": "L\u00edquido",
+      "url": "https://open.spotify.com/track/4zayY9bi31w1CmwK6ELmbs"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
         "name": "De Lo Perdido Y Otras Coplas",
         "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
-        "name": "La calma",
-        "url": "https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 234196,
-      "name": "Le pasa solo al resto",
-      "url": "https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz"
     },
     {
       "added_at": "2026-05-07 22:02:24",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
+        "name": "La calma",
+        "url": "https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 234196,
+      "name": "Le pasa solo al resto",
+      "url": "https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-05-07 22:02:24",
       "album": {
+        "name": "Ef\u00edmera",
+        "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "Ef\u00edmera",
+      "url": "https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw"
+    },
+    {
+      "added_at": "2026-05-07 22:02:24",
+      "album": {
         "name": "Como La Cigarra",
         "url": "https://open.spotify.com/album/3hJ4t4rqzidNmR6YHPndqR"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 216730,
       "name": "Como La Cigarra",
       "url": "https://open.spotify.com/track/6Hv6A2o9SSK5BbkPVE1iud"
-    },
-    {
-      "added_at": "2026-05-07 22:02:24",
-      "album": {
-        "name": "Ef\u00edmera",
-        "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "Ef\u00edmera",
-      "url": "https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw"
     }
   ],
   "unique_name": "Cantautores",

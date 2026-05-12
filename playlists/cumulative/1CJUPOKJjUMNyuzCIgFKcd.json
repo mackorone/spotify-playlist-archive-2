@@ -808,10 +808,32 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 212732,
       "name": "American Made",
       "url": "https://open.spotify.com/track/0hLp6YwRC0pALE8IoruAxS"
+    },
+    {
+      "album": {
+        "name": "Anything For Me",
+        "url": "https://open.spotify.com/album/6zh2sBfRLfNtklzU0e2eBs"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "Nava",
+          "url": "https://open.spotify.com/artist/0TPUEULTT0hOla8P3NLZ7l"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Anything For Me",
+      "url": "https://open.spotify.com/track/0vR9Bts2hq9tkWl4jnKIGJ"
     },
     {
       "album": {
@@ -2211,6 +2233,42 @@
     },
     {
       "album": {
+        "name": "CHANGES",
+        "url": "https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "CHANGES",
+      "url": "https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0"
+    },
+    {
+      "album": {
+        "name": "Charge It To The Game",
+        "url": "https://open.spotify.com/album/5phLTnxRrroGzM4e5A1Iae"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173424,
+      "name": "Charge It To The Game",
+      "url": "https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU"
+    },
+    {
+      "album": {
         "name": "Charged Up",
         "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
       },
@@ -2535,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "Country Girl",
+        "url": "https://open.spotify.com/album/2NYfAr1ZxR5j7CIfz2oeT0"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142124,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/6X2dKBAmMHHlmfCaEnOqAR"
+    },
+    {
+      "album": {
         "name": "ALL BUT 6, VOL. 2",
         "url": "https://open.spotify.com/album/6uzwsnGeSbe8tfhpzd5ac3"
       },
@@ -2620,6 +2696,28 @@
       "duration_ms": 135947,
       "name": "d!e slow",
       "url": "https://open.spotify.com/track/4ibBRYeY2OiyYbQSjD1H1E"
+    },
+    {
+      "album": {
+        "name": "D'Girls",
+        "url": "https://open.spotify.com/album/2c81tXXY5WUC3lLDy6wTQA"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "CG",
+          "url": "https://open.spotify.com/artist/4gkoJp7yp4XpWAQgJH6oWS"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170402,
+      "name": "D'Girls",
+      "url": "https://open.spotify.com/track/2IDBbbns2UAQv2YWrLkzGu"
     },
     {
       "album": {
@@ -3334,6 +3432,32 @@
       "duration_ms": 118595,
       "name": "Drink & Drive",
       "url": "https://open.spotify.com/track/7rL1P4CYsu4i13853CSJAf"
+    },
+    {
+      "album": {
+        "name": "Drink & Smoke (feat. E-40 & Tyga)",
+        "url": "https://open.spotify.com/album/3F9rnMkAumNc3tikqpSFSV"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Drink & Smoke (feat. E-40 & Tyga)",
+      "url": "https://open.spotify.com/track/0RL0SF5KCuDeEh4LVYeiM0"
     },
     {
       "album": {
@@ -5871,6 +5995,28 @@
     },
     {
       "album": {
+        "name": "IYKYK (feat. Blueface)",
+        "url": "https://open.spotify.com/album/3qehOJRQ4qT8w0hQu7TS8O"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "IYKYK (feat. Blueface)",
+      "url": "https://open.spotify.com/track/2OFZXh3dg9UBbn3cY86kuI"
+    },
+    {
+      "album": {
         "name": "James Worthy",
         "url": "https://open.spotify.com/album/54Bb7SRYdchPEpm9bfk67w"
       },
@@ -6282,7 +6428,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 188122,
       "name": "LAST CALL",
       "url": "https://open.spotify.com/track/42Z5ZtQ22u0rSCNvSsxbib"
@@ -7046,7 +7192,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 160584,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/7kY95nhjlZvQp3mOca081h"
@@ -7254,6 +7400,24 @@
       "duration_ms": 191129,
       "name": "Move On",
       "url": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
+    },
+    {
+      "album": {
+        "name": "MR HIM",
+        "url": "https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149276,
+      "name": "MR HIM",
+      "url": "https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx"
     },
     {
       "album": {
@@ -7806,7 +7970,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 186285,
       "name": "NOTHING IS REAL",
       "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
@@ -8082,7 +8246,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 162804,
       "name": "Out The Box (feat. Bosko)",
       "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
@@ -9472,7 +9636,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 119448,
       "name": "Sidewalk",
       "url": "https://open.spotify.com/track/0TaDKZLfvxRiK7YPYI6Fac"
@@ -10250,7 +10414,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 183529,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/2ZNltGMzSW4OeEXY4t9X8y"
@@ -10556,7 +10720,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 207488,
       "name": "The Blueprint (feat. ALLBLACK & DaBoii)",
       "url": "https://open.spotify.com/track/5zBasMlAW0MGGrtzuQRoTS"
@@ -11527,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/2wccf4pRwjz2yfvRePFmUQ"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192677,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/44xSEAqoD5nBjIh2Zs7nU4"
+    },
+    {
+      "album": {
         "name": "WE BACK!",
         "url": "https://open.spotify.com/album/2t1b5sGLhj7d07DiFJ6jBU"
       },
@@ -11990,7 +12176,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 224081,
       "name": "YAYA (feat. Blueface & India Love) - SheMix",
       "url": "https://open.spotify.com/track/42t8jsXFmVTQGJWNjj98cR"
@@ -12092,7 +12278,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 141818,
       "name": "YOU HEAR ME THO",
       "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"

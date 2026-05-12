@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/4E7isUoQJdMvDUkMS8Tkez"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193810,
+      "name": "12 Saal",
+      "url": "https://open.spotify.com/track/0DOX77CWVte9opcJY3JeR1"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -498,7 +516,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 218400,
       "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
       "url": "https://open.spotify.com/track/1W3xePkj0x1F2vYNhiIoIj"
@@ -1637,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Bhool",
+        "url": "https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Bhool",
+      "url": "https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 2",
         "url": "https://open.spotify.com/album/4NFcyneOarb6TDWul6jgcB"
       },
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 274570,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
@@ -3181,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "Dil Sukoon",
+        "url": "https://open.spotify.com/album/152qf6NRUG3O7TPbWT5qWI"
+      },
+      "artists": [
+        {
+          "name": "Third Fret",
+          "url": "https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248328,
+      "name": "Dil Sukoon",
+      "url": "https://open.spotify.com/track/7mLQ4dPtw6FBvCjLDpginY"
+    },
+    {
+      "album": {
         "name": "Dil Tu Jaan Tu",
         "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
       },
@@ -3467,6 +3525,28 @@
     },
     {
       "album": {
+        "name": "Ek Nishani",
+        "url": "https://open.spotify.com/album/1xFAXVnnUg742E2zlbjFn9"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Ek Nishani",
+      "url": "https://open.spotify.com/track/24mdYFFK4Mgn9zmmdE1dQ5"
+    },
+    {
+      "album": {
         "name": "Ektarfa",
         "url": "https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS"
       },
@@ -3500,7 +3580,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 311040,
       "name": "Faasle",
       "url": "https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ"
@@ -4229,6 +4309,54 @@
     },
     {
       "album": {
+        "name": "Hairan Amanam",
+        "url": "https://open.spotify.com/album/4Vf5F1uAaEiavQl6qbyS1t"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Rizwan Abbas",
+          "url": "https://open.spotify.com/artist/4kOvSNxvoq1KMyie7p2qx0"
+        },
+        {
+          "name": "Maheen Sattar",
+          "url": "https://open.spotify.com/artist/1bheH3ZoEEfJlLkWVZfBHW"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309945,
+      "name": "Hairan Amanam",
+      "url": "https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV"
+    },
+    {
+      "album": {
+        "name": "Har Baar",
+        "url": "https://open.spotify.com/album/1oRAxwfxb55WuW7KjSx5uw"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Har Baar",
+      "url": "https://open.spotify.com/track/3VJpl4jrFSqY3Y6mAzqfux"
+    },
+    {
+      "album": {
         "name": "Haseen",
         "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
       },
@@ -4326,7 +4454,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 250746,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
@@ -5606,6 +5734,28 @@
       "duration_ms": 270706,
       "name": "Khairiyat (Bonus Track)",
       "url": "https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk"
+    },
+    {
+      "album": {
+        "name": "Khasara",
+        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Khasara",
+      "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
     },
     {
       "album": {
@@ -7680,7 +7830,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 207900,
       "name": "Nashe Me Hun",
       "url": "https://open.spotify.com/track/0mWYexF10TClNnseYf009u"
@@ -8640,7 +8790,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 208621,
       "name": "Pyaar Kyun Banaya",
       "url": "https://open.spotify.com/track/7EpVfR8TL9o3k4wIo4oqw1"
@@ -9402,7 +9552,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 253150,
       "name": "Sajna da Dil Torya",
       "url": "https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh"
@@ -9608,7 +9758,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 132000,
       "name": "SARGOSHI",
       "url": "https://open.spotify.com/track/1JX4YjJ6EtxOheUjer7Vsu"
@@ -9874,6 +10024,28 @@
       "duration_ms": 270000,
       "name": "Shikayat",
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
+    },
+    {
+      "album": {
+        "name": "Khasara",
+        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX"
     },
     {
       "album": {
@@ -11338,7 +11510,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 258750,
       "name": "Tum",
       "url": "https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB"
@@ -11428,6 +11600,28 @@
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"
+    },
+    {
+      "album": {
+        "name": "Tum Na Ho",
+        "url": "https://open.spotify.com/album/2LJzRpHLbu88KdcFLdn2KE"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170705,
+      "name": "Tum Na Ho",
+      "url": "https://open.spotify.com/track/0Pm2OPYWunQUhF1a0EATed"
     },
     {
       "album": {

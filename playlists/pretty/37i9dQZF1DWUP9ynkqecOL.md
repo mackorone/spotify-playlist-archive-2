@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,198 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,197 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 39 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 |
 | 40 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
 | 41 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 |
-| 42 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
-| 43 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 |
+| 42 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 |
+| 43 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 |
 | 44 | [ARETÉ](https://open.spotify.com/track/0CKFGmTCl9te6IfiOPfPP5) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [ARETÉ](https://open.spotify.com/album/1JZc46RSBVuW3VretA0spr) | 3:07 |
 | 45 | [Cada Uno con Su Bandera](https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Cada Uno con Su Bandera](https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh) | 4:03 |
 | 46 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 |

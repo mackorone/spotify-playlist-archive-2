@@ -5419,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/3g8e3UOV31B5WrD7GekgHs"
+      },
+      "artists": [
+        {
+          "name": "ROMANTIK.",
+          "url": "https://open.spotify.com/artist/6GC1Azv2VGUlnDGFmSTTYl"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169202,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-06",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
@@ -49182,7 +49200,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 322518,
       "name": "Le but",
       "url": "https://open.spotify.com/track/6HDYfPulqzFvvfgSofpEhO"
@@ -93920,7 +93938,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 150133,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC"

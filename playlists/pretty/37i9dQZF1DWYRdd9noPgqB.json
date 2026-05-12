@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299135,
+  "num_followers": 299146,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+        "name": "no more regrets",
+        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+      "duration_ms": 178477,
+      "name": "no more regrets",
+      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "no more regrets",
-        "url": "https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA"
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 178477,
-      "name": "no more regrets",
-      "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
         "name": "I Love Life (feat. RANI)",
         "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
         "name": "Second Sleep / Star Eyes",
         "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 288453,
       "name": "Second Sleep",
       "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -451,6 +435,22 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "Written into Changes",
-        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 233113,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
-    },
-    {
-      "added_at": "2026-05-07 22:03:27",
-      "album": {
         "name": "Blue Sky Mentality",
         "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
+    },
+    {
+      "added_at": "2026-05-07 22:03:27",
+      "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 233113,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
     },
     {
       "added_at": "2026-05-07 22:03:27",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-05-07 22:03:27",
       "album": {
-        "name": "A Hundred Mixed Emotions",
-        "url": "https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb"
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
       },
       "artists": [
         {
-          "name": "AFTER GEOGRAPHY",
-          "url": "https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI"
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
         }
       ],
-      "duration_ms": 257609,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ"
+      "duration_ms": 251718,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
     }
   ],
   "unique_name": "Feel Good",

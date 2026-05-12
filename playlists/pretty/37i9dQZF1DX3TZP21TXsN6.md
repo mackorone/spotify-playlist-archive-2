@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Giegs, Harry Femer, Dammie, DV en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,026 likes - 78 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,024 likes - 78 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oh No](https://open.spotify.com/track/61AdYFHZbH7dvifVTLMy4y) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Oh No](https://open.spotify.com/album/2Ykc2AMdLf1KdudbeX7Jyq) | 2:23 |
-| 2 | [EMILY'$](https://open.spotify.com/track/3Dr6KtNVyAfMoHPEIoyyuO) | [Harry Femer](https://open.spotify.com/artist/5hAFdBmJbhDaDHOICibLfI), [Lil Saint](https://open.spotify.com/artist/32nKrlbSIPvgVTcd4LKJor) | [EMILY'$](https://open.spotify.com/album/2wv1SI73fWxtzrSOjcWrYX) | 2:39 |
-| 3 | [PRETTY GIRLS IN ALO](https://open.spotify.com/track/72qPebjWOYphRXDGXWkadW) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [PRETTY GIRLS IN ALO](https://open.spotify.com/album/3famfBX59NIOk1BHEGj1NW) | 2:32 |
-| 4 | [My Life](https://open.spotify.com/track/7LdOQOTknYkd5UJlEp0hNx) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [My Life](https://open.spotify.com/album/6vr3AOCgi3rFzMWwW6Honm) | 2:00 |
+| 2 | [PRETTY GIRLS IN ALO](https://open.spotify.com/track/72qPebjWOYphRXDGXWkadW) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [PRETTY GIRLS IN ALO](https://open.spotify.com/album/3famfBX59NIOk1BHEGj1NW) | 2:32 |
+| 3 | [My Life](https://open.spotify.com/track/7LdOQOTknYkd5UJlEp0hNx) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [My Life](https://open.spotify.com/album/6vr3AOCgi3rFzMWwW6Honm) | 2:00 |
+| 4 | [Bezig Zijn](https://open.spotify.com/track/3E9Ny2OgTctuerknreY0ka) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Bezig Zijn](https://open.spotify.com/album/5xLDnBpVHvvj2Y1YGaqgSl) | 2:27 |
 | 5 | [Bellingham](https://open.spotify.com/track/3dZNrH75WqhNc2YwWGQ0mi) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Bellingham](https://open.spotify.com/album/4ANIT2uoiWAHLb8Zm1ibNq) | 1:52 |
 | 6 | [COCKTAIL](https://open.spotify.com/track/0YcSO16l8VaOvRTBKd7TuW) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [COCKTAIL](https://open.spotify.com/album/0i4UCXsBjcCwJpSbUJIrom) | 2:08 |
-| 7 | [Herres](https://open.spotify.com/track/7xzY4uPWc9jOd0q5kTbWna) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn) | [Herres](https://open.spotify.com/album/19CScjTczywv3M5yqEJsEb) | 1:48 |
-| 8 | [Uitweg](https://open.spotify.com/track/6ZgYHH00hscPGwAtLrQpB9) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Uitweg](https://open.spotify.com/album/21gJLmwRQdLXOsvXw48ovB) | 2:38 |
-| 9 | [Bezig Zijn](https://open.spotify.com/track/3E9Ny2OgTctuerknreY0ka) | [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Bezig Zijn](https://open.spotify.com/album/5xLDnBpVHvvj2Y1YGaqgSl) | 2:27 |
-| 10 | [Digits](https://open.spotify.com/track/7nw6gwzh0k7OXIDZYpXJYu) | [Jasiu](https://open.spotify.com/artist/2vRoAmSDWtplnp22Mt1Gpu) | [Digits](https://open.spotify.com/album/0OVS4eV0q5sAx8ZiWiaXi0) | 2:39 |
-| 11 | [Frequentie](https://open.spotify.com/track/1aLsYx1wGt3nCPGZcAlNHt) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Frequentie](https://open.spotify.com/album/0UDkeOOtygmnZHh4cUWPSV) | 3:05 |
-| 12 | [I Dunno](https://open.spotify.com/track/2GgRR9lBQFcLUoD1RyKvgP) | [EKvnd00](https://open.spotify.com/artist/3etYd9C17IDK9D3lQKeIh7) | [I Dunno](https://open.spotify.com/album/2TLyBaDVrxgtedfBuEMcTk) | 2:21 |
-| 13 | [Fake](https://open.spotify.com/track/0gCa5i0qQKheZHtyL3RjbR) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Fake](https://open.spotify.com/album/1RMKxBxrdRPR3MZk73oSgE) | 2:05 |
-| 14 | [Diamanten Ringen](https://open.spotify.com/track/6bcnWcmd5vcRnIhlpI3Uwl) | [Matarr](https://open.spotify.com/artist/73objEnuVYK9Kr3e3f6ciZ) | [Diamanten Ringen](https://open.spotify.com/album/41WUft0L4vsw7uba9rbYpZ) | 2:52 |
-| 15 | [Afblazen](https://open.spotify.com/track/5uKBxr2KDMc6YPKHSRUjCX) | [Wittie](https://open.spotify.com/artist/21lODzFO6jXQszjeidUEi3), [JORAN](https://open.spotify.com/artist/06eQb3ZN6V0haTs4RpZbU2) | [Afblazen](https://open.spotify.com/album/6BKfrWe8kyKl02Z0fJnv4I) | 2:19 |
-| 16 | [Pick & Choose](https://open.spotify.com/track/08bFzTg1sr5gTiRidoxq1c) | [Manio](https://open.spotify.com/artist/0WHCUAZSpyxMxMjF5qTtx8), [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Pick & Choose](https://open.spotify.com/album/5z7H48878FYJCQNR0ip8M4) | 2:21 |
+| 7 | [Uitweg](https://open.spotify.com/track/6ZgYHH00hscPGwAtLrQpB9) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Uitweg](https://open.spotify.com/album/21gJLmwRQdLXOsvXw48ovB) | 2:38 |
+| 8 | [Pick & Choose](https://open.spotify.com/track/08bFzTg1sr5gTiRidoxq1c) | [Manio](https://open.spotify.com/artist/0WHCUAZSpyxMxMjF5qTtx8), [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Pick & Choose](https://open.spotify.com/album/5z7H48878FYJCQNR0ip8M4) | 2:21 |
+| 9 | [EMILY'$](https://open.spotify.com/track/3Dr6KtNVyAfMoHPEIoyyuO) | [Harry Femer](https://open.spotify.com/artist/5hAFdBmJbhDaDHOICibLfI), [Lil Saint](https://open.spotify.com/artist/32nKrlbSIPvgVTcd4LKJor) | [EMILY'$](https://open.spotify.com/album/2wv1SI73fWxtzrSOjcWrYX) | 2:39 |
+| 10 | [Herres](https://open.spotify.com/track/7xzY4uPWc9jOd0q5kTbWna) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn) | [Herres](https://open.spotify.com/album/19CScjTczywv3M5yqEJsEb) | 1:48 |
+| 11 | [Digits](https://open.spotify.com/track/7nw6gwzh0k7OXIDZYpXJYu) | [Jasiu](https://open.spotify.com/artist/2vRoAmSDWtplnp22Mt1Gpu) | [Digits](https://open.spotify.com/album/0OVS4eV0q5sAx8ZiWiaXi0) | 2:39 |
+| 12 | [Frequentie](https://open.spotify.com/track/1aLsYx1wGt3nCPGZcAlNHt) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Frequentie](https://open.spotify.com/album/0UDkeOOtygmnZHh4cUWPSV) | 3:05 |
+| 13 | [I Dunno](https://open.spotify.com/track/2GgRR9lBQFcLUoD1RyKvgP) | [EKvnd00](https://open.spotify.com/artist/3etYd9C17IDK9D3lQKeIh7) | [I Dunno](https://open.spotify.com/album/2TLyBaDVrxgtedfBuEMcTk) | 2:21 |
+| 14 | [Fake](https://open.spotify.com/track/0gCa5i0qQKheZHtyL3RjbR) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Fake](https://open.spotify.com/album/1RMKxBxrdRPR3MZk73oSgE) | 2:05 |
+| 15 | [Diamanten Ringen](https://open.spotify.com/track/6bcnWcmd5vcRnIhlpI3Uwl) | [Matarr](https://open.spotify.com/artist/73objEnuVYK9Kr3e3f6ciZ) | [Diamanten Ringen](https://open.spotify.com/album/41WUft0L4vsw7uba9rbYpZ) | 2:52 |
+| 16 | [Afblazen](https://open.spotify.com/track/5uKBxr2KDMc6YPKHSRUjCX) | [Wittie](https://open.spotify.com/artist/21lODzFO6jXQszjeidUEi3), [JORAN](https://open.spotify.com/artist/06eQb3ZN6V0haTs4RpZbU2) | [Afblazen](https://open.spotify.com/album/6BKfrWe8kyKl02Z0fJnv4I) | 2:19 |
 | 17 | [Serieus](https://open.spotify.com/track/2zPAZIAMNxJ8rs2BLQXATF) | [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Serieus](https://open.spotify.com/album/0MZexFR1KFsdo5Kz3yk8zV) | 2:18 |
 | 18 | [I Love It](https://open.spotify.com/track/6Dl7qOu72HDu9C78pQ1Lut) | [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [Rand van de Wereld](https://open.spotify.com/album/2UE8DemU96wUHpnhJNcr8o) | 3:10 |
 | 19 | [99 COLUMBINE RAP](https://open.spotify.com/track/5nyfubQnWeNwqYmnT4b3mh) | [RAFTING GOODS](https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Jordy Simons](https://open.spotify.com/artist/6XeUXfhooIg4QjDnz30Evc) | [YESSIR](https://open.spotify.com/album/7hstoA0kLy3yJvlzGSmIuE) | 3:02 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 77 | [Ruwe Diamanten](https://open.spotify.com/track/2PZGfm10TbgBD0FW12jNCJ) | [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Ruwe Diamanten](https://open.spotify.com/album/77Dce2kwAXSLRUG77NPNN3) | 3:17 |
 | 78 | [ÇA DIT QUOI?](https://open.spotify.com/track/0g58B4xPC7OMlfuPaRtxui) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [ÇA DIT QUOI?](https://open.spotify.com/album/3br7OYuGxCLYsiKxn8IWKo) | 3:56 |
 
-Snapshot ID: `AAAAAKDrOvVB4TWGvG6qwCGLMVn/NhCw`
+Snapshot ID: `AAAAAF8MDuS6HZab3rZE7Pwz19FiAsxl`

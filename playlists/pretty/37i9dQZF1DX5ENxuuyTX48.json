@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Siti Badriah",
-  "num_followers": 36846,
+  "num_followers": 36845,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
+        "name": "Mencintaimu",
+        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 274041,
+      "name": "Mencintaimu",
+      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
         "name": "Puting Beliung",
         "url": "https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 246153,
       "name": "Bintang 5",
       "url": "https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
-        "name": "Mencintaimu",
-        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 274041,
-      "name": "Mencintaimu",
-      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Kasih Tau Mama (Malam Minggu)",
-        "url": "https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup"
-      },
-      "artists": [
-        {
-          "name": "Rombongan Bodonk Koplo",
-          "url": "https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "Kasih Tau Mama (Malam Minggu)",
-      "url": "https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "Kasih Tau Mama (Malam Minggu)",
+        "url": "https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup"
+      },
+      "artists": [
+        {
+          "name": "Rombongan Bodonk Koplo",
+          "url": "https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "Kasih Tau Mama (Malam Minggu)",
+      "url": "https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
+        "name": "Takkan Terulang",
+        "url": "https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zee",
+          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 221070,
+      "name": "Takkan Terulang",
+      "url": "https://open.spotify.com/track/52TvMf96O8YsQrmpMMZEzP"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
         "name": "Mengudara",
         "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 157500,
       "name": "SUPER EKSIS",
       "url": "https://open.spotify.com/track/0bJYrzP1g2tIheeK5u87KG"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
-        "name": "Takkan Terulang",
-        "url": "https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zee",
-          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 221070,
-      "name": "Takkan Terulang",
-      "url": "https://open.spotify.com/track/52TvMf96O8YsQrmpMMZEzP"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "work",
-        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 145756,
-      "name": "work",
-      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
         "name": "Terlalu Cinta",
         "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 259040,
       "name": "Terlalu Cinta",
       "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Jodoh Lebaran",
-        "url": "https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX"
-      },
-      "artists": [
-        {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Jodoh Lebaran",
-      "url": "https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
         "name": "Cukup",
         "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 220230,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "Jodoh Lebaran",
+        "url": "https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Jodoh Lebaran",
+      "url": "https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Tak Dianggap",
-        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
+        "name": "Mungkin di Depan Buram",
+        "url": "https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo"
       },
       "artists": [
         {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
         }
       ],
-      "duration_ms": 179841,
-      "name": "Tak Dianggap",
-      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+      "duration_ms": 157969,
+      "name": "Mungkin di Depan Buram",
+      "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1651,18 +1651,34 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Mungkin di Depan Buram",
-        "url": "https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo"
+        "name": "Tak Dianggap",
+        "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
       },
       "artists": [
         {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
         }
       ],
-      "duration_ms": 157969,
-      "name": "Mungkin di Depan Buram",
-      "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
+      "duration_ms": 179841,
+      "name": "Tak Dianggap",
+      "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+    },
+    {
+      "added_at": "2026-05-08 07:52:18",
+      "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 271343,
+      "name": "Menari-nari",
+      "url": "https://open.spotify.com/track/0UZOqGXaMzOSuhgew24neL"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2026-05-08 07:52:18",
       "album": {
-        "name": "Pergilah Kasih",
-        "url": "https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv"
+        "name": "Tunggu Apa Lagi",
+        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
       },
       "artists": [
         {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "Paul Aro",
+          "url": "https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB"
         }
       ],
-      "duration_ms": 257785,
-      "name": "Pergilah Kasih",
-      "url": "https://open.spotify.com/track/0lMfcdowtnDVtg6hSi1PyI"
+      "duration_ms": 219352,
+      "name": "Tunggu Apa Lagi",
+      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
     },
     {
       "added_at": "2026-05-08 07:52:18",
@@ -1731,22 +1747,6 @@
       "duration_ms": 240875,
       "name": "Bodohnya Aku",
       "url": "https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy"
-    },
-    {
-      "added_at": "2026-05-08 07:52:18",
-      "album": {
-        "name": "Tunggu Apa Lagi",
-        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
-      },
-      "artists": [
-        {
-          "name": "Paul Aro",
-          "url": "https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB"
-        }
-      ],
-      "duration_ms": 219352,
-      "name": "Tunggu Apa Lagi",
-      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
     }
   ],
   "unique_name": "mantap vibes",

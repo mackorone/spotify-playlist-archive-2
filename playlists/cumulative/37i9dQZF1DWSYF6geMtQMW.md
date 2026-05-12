@@ -2,9 +2,9 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: בן צור
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אושר כהן
 
-225 songs - 12 hr 3 min
+226 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [משפחה וכבוד](https://open.spotify.com/track/64bfvxCPzxyljgC4aPi4vu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 3:01 | 2026-02-23 |  |
 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 | 2024-07-01 | 2024-10-01 |
 | [נאדי באדי](https://open.spotify.com/track/6g84RaMubeO44LyTDghqUB) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [נאדי באדי](https://open.spotify.com/album/79JwxRq2qhfLrvxl7s03pR) | 2:30 | 2024-07-01 | 2025-01-21 |
+| [נווה הדרים](https://open.spotify.com/track/3E8a4zr8OUM4MIU7t9SGI7) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נווה הדרים](https://open.spotify.com/album/2NMpP0JNrgwYP7qyqJ26ne) | 3:11 | 2026-05-11 |  |
 | [נחלת בנימין](https://open.spotify.com/track/2H84mdRphvQn5QniG3v07a) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [11](https://open.spotify.com/album/0ennEyxGFWhz2ShCa74kMK) | 2:58 | 2025-04-07 | 2026-01-20 |
 | [נרקומן של בדידות](https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:17 | 2024-11-18 | 2025-09-30 |
 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 | 2025-08-25 |  |
@@ -224,7 +225,7 @@
 | [שהשם ישמור עלייך](https://open.spotify.com/track/7uLwV2wvLaFKocHlBaCE3v) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [שהשם ישמור עלייך](https://open.spotify.com/album/3VHdodaTzCWCzc4wY9Y3z7) | 2:51 | 2025-10-20 | 2026-01-20 |
 | [שוב אני בדד](https://open.spotify.com/track/1EZj3gwDRCDVTxJAIGUtMQ) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [שוב אני בדד](https://open.spotify.com/album/6VooCgGF8j8NRBiOclQHUF) | 3:13 | 2024-08-19 | 2024-10-08 |
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-09 | 2025-01-21 |
-| [שיר לממ"ד](https://open.spotify.com/track/369Ur4mpnHDOcdUlnibEiY) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [שיר לממ"ד](https://open.spotify.com/album/4PcYh5aEOdEBsVvl39Epbd) | 3:12 | 2026-04-07 |  |
+| [שיר לממ"ד](https://open.spotify.com/track/369Ur4mpnHDOcdUlnibEiY) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [שיר לממ"ד](https://open.spotify.com/album/4PcYh5aEOdEBsVvl39Epbd) | 3:12 | 2026-04-07 | 2026-05-12 |
 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-07-01 | 2024-11-19 |
 | [שמש שזורחת עליי](https://open.spotify.com/track/5xzBjwCJLdIKtIXQZ06RXj) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:54 | 2025-04-28 | 2026-03-17 |
 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 | 2025-09-22 | 2026-03-10 |

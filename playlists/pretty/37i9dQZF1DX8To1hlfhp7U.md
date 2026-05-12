@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,989 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,997 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 45 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 | 46 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
 | 47 | [Business](https://open.spotify.com/track/7iU1ZT0cD11WQO6PI6ChdB) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 3:06 |
-| 48 | [Tohr Aap Boldi \(From "Ishqa'n De Lekhe"\)](https://open.spotify.com/track/3zQaRQn9H0wOlcgKFDSzht) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tohr Aap Boldi \(From "Ishqa'n De Lekhe"\)](https://open.spotify.com/album/5uGU1SLi9ZCen5irNVSmx2) | 2:25 |
-| 49 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
+| 48 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
+| 49 | [Tohr Aap Boldi \(From "Ishqa'n De Lekhe"\)](https://open.spotify.com/track/3zQaRQn9H0wOlcgKFDSzht) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tohr Aap Boldi \(From "Ishqa'n De Lekhe"\)](https://open.spotify.com/album/5uGU1SLi9ZCen5irNVSmx2) | 2:25 |
 | 50 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
 
 Snapshot ID: `AAAAAJATTvsvEQKyt0PMKlM9kB3O6irU`

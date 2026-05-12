@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rels B, J Balvin, Charli xcx, Abraham Mateo, Melendi y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,960 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,957 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 51 | [Mamá Noel](https://open.spotify.com/track/4NHXZypYhPCrCXFHrm1Cj8) | [Nieto666](https://open.spotify.com/artist/33KBvXRNqHfcTPhBZC8Njp), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Faenna](https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b) | [Mamá Noel](https://open.spotify.com/album/5t9P8URHQBRW2Tr2ky4oNO) | 2:35 |
 | 52 | [Ceciarmy](https://open.spotify.com/track/4BbMZRh3iwi9QxUWUx5SoS) | [Estrellas Del Rap Nacional](https://open.spotify.com/artist/5I6sVpyTWC3EkXxNowyT9u), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [Manu El](https://open.spotify.com/artist/3TbfwqwS9VIA6yjKkmRVFW) | [Estrellas Del Rap Nacional](https://open.spotify.com/album/5JnR1Ov37zMzEtdbkIyFQn) | 3:35 |
 | 53 | [el sitio](https://open.spotify.com/track/3pOHnsmjY1kvCl4hWPhGyw) | [Yung Nick](https://open.spotify.com/artist/2ZIuQGyIp2qFKDfdWkdzND), [Dasoussa](https://open.spotify.com/artist/5XP3t7KQhAoqpM2CQR1b73) | [el sitio](https://open.spotify.com/album/775G9DRVU8AqeZHdAzvJTP) | 2:48 |
-| 54 | [PEGADOS](https://open.spotify.com/track/5Ddc8yAYwTFxPjnZ5CZzYm) | [Stormykid](https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb) | [PEGADOS](https://open.spotify.com/album/24GX3n8uHVRWN6VUuyJ2y0) | 2:34 |
+| 54 | [PEGADOS](https://open.spotify.com/track/5Ddc8yAYwTFxPjnZ5CZzYm) | [Stormykid](https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb) | [PEGADOS](https://open.spotify.com/album/24GX3n8uHVRWN6VUuyJ2y0) | 2:33 |
 | 55 | [by&for](https://open.spotify.com/track/4OifxjbeuGA49mDE3TldhJ) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [by&for](https://open.spotify.com/album/505Eq6svQF8zQ1zEgebjDS) | 2:53 |
 | 56 | [Corazón anestesiado](https://open.spotify.com/track/2KMsBLSffp1WvON87JFkkW) | [Cepeda](https://open.spotify.com/artist/5AMBCoLbNgVCbA3XYMRlks) | [Llámame Luis](https://open.spotify.com/album/1D8y3mmbGqwk4JPqt7Zcrv) | 2:56 |
 | 57 | [JUKAI](https://open.spotify.com/track/63TnyqLdHNQHBvLeJnMxn9) | [Samantha](https://open.spotify.com/artist/7ExWkh4tY8Y0HYmTD3kz7Y), [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [JUKAI](https://open.spotify.com/album/6kOcycgtcytMSqSIcj056q) | 2:47 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 70 | [Tarara Loca](https://open.spotify.com/track/77bizD8MxWB8tG4MKblSeT) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ), [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ) | [Tarara Loca](https://open.spotify.com/album/5jGm5V8mUSNM9NHpg5rT29) | 2:04 |
 | 71 | [AQUÍ DE BAJÓN](https://open.spotify.com/track/40vhkFT0fUuOITeBJTYBnJ) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [AQUÍ DE BAJÓN](https://open.spotify.com/album/2jB24VUP9sRDpJea9ydAUV) | 2:48 |
 | 72 | [Pa' Qué Mentir](https://open.spotify.com/track/3Zjj3rw17gIB0JG8CbOjLX) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Pa' Qué Mentir](https://open.spotify.com/album/0RCsa3WSHhaFqihYrmXQ2L) | 2:16 |
-| 73 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |
+| 73 | [El Recuerdo](https://open.spotify.com/track/0qNNubNW8UaLYKXdWwyM0l) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD), [Pachi García Prod](https://open.spotify.com/artist/7BMJGihuhtHu6FHVvanqjF) | [Contradicciones](https://open.spotify.com/album/4jYF7VxKq5DtPNtMks2BKD) | 3:17 |
 | 74 | [MAIG PROU!](https://open.spotify.com/track/4J1g1NQyt758J0pDRwOjpI) | [Maig](https://open.spotify.com/artist/4oeSQBgx78jrlG6bGZrdgD) | [PROU](https://open.spotify.com/album/0EpHY9xYPg4jvEPuXol5Qu) | 3:20 |
 | 75 | [Gener](https://open.spotify.com/track/5RzidrFcGcVyMifVucOa3H) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [L'encant](https://open.spotify.com/album/0UjsibJy1gp0npf66bpzUF) | 2:45 |
 | 76 | [M'agrada, I like it, J'adore](https://open.spotify.com/track/2EHcivRAATzFC6ZZTPel2M) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [M'agrada, I like it, J'adore](https://open.spotify.com/album/66sCpNTloVw5JUK8NPlUao) | 3:12 |

@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Majo Aguilar en portada ",
-  "num_followers": 35842,
+  "num_followers": 35863,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Locos De Amor",
-        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Amarte A La Antigua",
         "url": "https://open.spotify.com/album/76v9bSTYDGwEu2X1nDxUhd"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 218533,
       "name": "Amarte A La Antigua",
       "url": "https://open.spotify.com/track/7y4HLPy4f0TJpmX3rqDjHH"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Locos De Amor",
+        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 204640,
       "name": "La Peinada (La Peinadita)",
       "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "La Cuadrada",
         "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 160557,
       "name": "La Cuadrada",
       "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
-        "name": "16 Reales hits",
-        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Mi Primer D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 190876,
-      "name": "Mi Primer D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "COMO ESTRELLA",
         "url": "https://open.spotify.com/album/1WYKM4nrEjzDH1iXfxsFYN"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/53hagbhSdOxZhGeNky20bS"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 262499,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4APtMcMgEWjzUeBz8gA1qk"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
         "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 240480,
       "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
       "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/53hagbhSdOxZhGeNky20bS"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 262499,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4APtMcMgEWjzUeBz8gA1qk"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
-        "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 206322,
-      "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
-      "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Ya No Vuelvas",
         "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 213674,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 206322,
+      "name": "Desde Que Llegaste (con Eden Mu\u00f1oz)",
+      "url": "https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG"
     },
     {
       "added_at": "2026-03-20 06:00:07",

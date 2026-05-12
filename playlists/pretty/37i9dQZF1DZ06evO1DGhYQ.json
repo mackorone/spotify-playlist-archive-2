@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9578,
+  "num_followers": 9581,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACO7CKqWzfDyw09ZD5ND3rB",
+  "snapshot_id": "af/KgAAAAAB6zyDOHlxBQHo68LJN5nNa",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
-          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "FEELIN' GOOD",
-      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 212804,
       "name": "EL MARIACHI",
       "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
+          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "FEELIN' GOOD",
+      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "K.A.N.T.A",
-          "url": "https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "MOONBEAMS SATELLITE",
-      "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 221200,
       "name": "TEENAGE CITY RIOT",
       "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "K.A.N.T.A",
+          "url": "https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "MOONBEAMS SATELLITE",
+      "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAYING IN THE GROOVE",
-        "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 290833,
-      "name": "STAYING IN THE GROOVE",
-      "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "STAYING IN THE GROOVE",
+        "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+      "duration_ms": 290833,
+      "name": "STAYING IN THE GROOVE",
+      "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY LIFE. MY DESTINY",
-        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "LAZYLOXY",
-          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "MY LIFE. MY DESTINY",
-      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INGLOURIOUS EASTERN COWBOY",
         "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 289300,
       "name": "FOUND BLUE",
       "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MY LIFE. MY DESTINY",
+        "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "MY LIFE. MY DESTINY",
+      "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
     },
     {
       "added_at": null,

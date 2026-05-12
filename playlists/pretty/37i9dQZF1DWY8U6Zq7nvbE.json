@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2464855,
+  "num_followers": 2465033,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
-      },
-      "artists": [
-        {
-          "name": "S\u018eLFISH",
-          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
-        }
-      ],
-      "duration_ms": 132147,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "End of Beginning",
         "url": "https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 156000,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7"
+      },
+      "artists": [
+        {
+          "name": "S\u018eLFISH",
+          "url": "https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP"
+        }
+      ],
+      "duration_ms": 132147,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Sarah Close",
+          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
         }
       ],
-      "duration_ms": 192461,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
+      "duration_ms": 187286,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
       "artists": [
         {
-          "name": "Sarah Close",
-          "url": "https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2026-03-19 12:18:11",

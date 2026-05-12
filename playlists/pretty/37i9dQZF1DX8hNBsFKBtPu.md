@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,263 likes - 157 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,258 likes - 157 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 16 | [Går På Hænder](https://open.spotify.com/track/4nsJOLODxQbXzVwmczbVXg) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Går På Hænder](https://open.spotify.com/album/199tZXOODEAtm5HAR13ISK) | 3:00 |
 | 17 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 18 | [Ham Med Guitaren](https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Ham Med Guitaren](https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl) | 3:14 |
-| 19 | [Forsvinder Væk \(feat\. Anna Bugge\)](https://open.spotify.com/track/4eH8QqxOaLXGeXx8uABOHg) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Anna Bugge](https://open.spotify.com/artist/7xcspGT6cTXnuWlxmpBUrv) | [Forsvinder Væk \(feat\. Anna Bugge\)](https://open.spotify.com/album/6LO5FeBUiBQodonvvLdDIn) | 2:32 |
+| 19 | [Forsvinder Væk \(feat\. Anna Bugge\)](https://open.spotify.com/track/4eH8QqxOaLXGeXx8uABOHg) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Anna Bugge](https://open.spotify.com/artist/7xcspGT6cTXnuWlxmpBUrv) | [Forsvinder Væk \(feat\. Anna Bugge\)](https://open.spotify.com/album/6LO5FeBUiBQodonvvLdDIn) | 2:30 |
 | 20 | [Gemt Dit Nummer](https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Gemt Dit Nummer](https://open.spotify.com/album/1FJeiGJjSMBPV4Z3qwc9Xv) | 2:47 |
 | 21 | [Typisk](https://open.spotify.com/track/1d8AB2aNTBm09se73ntgCx) | [Lina Agger](https://open.spotify.com/artist/1Axfuq3VMTkXRQ4Mj2qsLy) | [Typisk](https://open.spotify.com/album/38vPBZcGGI8hsxYOY4u1zs) | 2:24 |
 | 22 | [alle mine tanker.](https://open.spotify.com/track/5UrT1XIquGmCYYbbUHBv5o) | [JONATHAN](https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ) | [alle mine tanker.](https://open.spotify.com/album/7AOJ8EBDoRYpyNKO7RmfFH) | 3:05 |

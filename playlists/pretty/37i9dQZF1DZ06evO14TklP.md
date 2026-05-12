@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,245 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,264 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 49 | [Caneta](https://open.spotify.com/track/2WxgnVuE9zJPWqqQacGHE0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 3:08 |
 | 50 | [Fresh Stars 2020 Pnpl](https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Beat Jogzz](https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Fresh Stars 2020 Pnpl](https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE) | 4:40 |
 
-Snapshot ID: `af55AAAAAADB7uiEl0hb25zfafNeK32F`
+Snapshot ID: `af/KgAAAAABjd+bvN+co/MBei4vkPtEk`

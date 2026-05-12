@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 48618,
+  "num_followers": 48651,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAACAy6QKR4+/1CKE1GVfBq5i",
+  "snapshot_id": "af/KgAAAAABNIHTr2kldhYgMM2jsMgP0",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man of The Year",
+      "url": "https://open.spotify.com/track/0xRF2p0f5FOOF6tiCG9L6x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man of The Year",
-      "url": "https://open.spotify.com/track/0xRF2p0f5FOOF6tiCG9L6x"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 106971,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 106971,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
       },
@@ -523,30 +523,6 @@
       "duration_ms": 157000,
       "name": "Today",
       "url": "https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 211756,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
     },
     {
       "added_at": null,
@@ -583,6 +559,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 211756,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUJI MOTO",
         "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 143505,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/419bdMkIYCMrQ9MHvT60JV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 143505,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/419bdMkIYCMrQ9MHvT60JV"
+      "duration_ms": 145714,
+      "name": "Blacka Rhythm",
+      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Blacka Rhythm",
-      "url": "https://open.spotify.com/track/55cRnjrOrjRCw3cp0tUwB5"
     },
     {
       "added_at": null,

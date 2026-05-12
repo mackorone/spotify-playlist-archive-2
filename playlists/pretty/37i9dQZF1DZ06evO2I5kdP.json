@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Vantzou. The essential tracks, all in one playlist.",
-  "num_followers": 239,
+  "num_followers": 240,
   "original_name": "This Is Christina Vantzou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAAAEpOPCqZkxt202sFvbP+fg",
+  "snapshot_id": "af/KgAAAAABixP70o2mLR96Sd5XQHaMQ",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 197697,
-      "name": "Pillar 5",
-      "url": "https://open.spotify.com/track/2KPFKegYsObGuujzTd4QGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No. 2",
         "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 77880,
       "name": "Strange Symptoms",
       "url": "https://open.spotify.com/track/6ozOxS87YQPBgxOGcwl3Kn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 197697,
+      "name": "Pillar 5",
+      "url": "https://open.spotify.com/track/2KPFKegYsObGuujzTd4QGw"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 277082,
-      "name": "Super Interlude Pt. 2",
-      "url": "https://open.spotify.com/track/7xF09Ls3Ls1RGPnKoWgrO7"
+      "duration_ms": 455109,
+      "name": "Adversary",
+      "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 413659,
-      "name": "Stereoscope",
-      "url": "https://open.spotify.com/track/1ifIv7jR7u3K3uFGDerZ2O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
         "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 413659,
+      "name": "Stereoscope",
+      "url": "https://open.spotify.com/track/1ifIv7jR7u3K3uFGDerZ2O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 1",
         "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
       },
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 455109,
-      "name": "Adversary",
-      "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
+      "duration_ms": 277082,
+      "name": "Super Interlude Pt. 2",
+      "url": "https://open.spotify.com/track/7xF09Ls3Ls1RGPnKoWgrO7"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "Some Limited and Waning Memory",
-      "url": "https://open.spotify.com/track/2t3riouUalP5SEYXPGrQ9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
         "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
       },
@@ -563,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "Some Limited and Waning Memory",
+      "url": "https://open.spotify.com/track/2t3riouUalP5SEYXPGrQ9D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 2",
         "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
       },
@@ -575,6 +575,26 @@
       "duration_ms": 263440,
       "name": "Going Backwards to Recover That Which Was Left Behind",
       "url": "https://open.spotify.com/track/32zWDSTEpylABCnlrWaNV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oblivion Seekers",
+        "url": "https://open.spotify.com/album/71SpM6HKDnEpG3EZHaFjvU"
+      },
+      "artists": [
+        {
+          "name": "Ben Vida",
+          "url": "https://open.spotify.com/artist/7okN4lkIROS1IWsRgzRsXJ"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "New Distortion Properties",
+      "url": "https://open.spotify.com/track/7v4LxgFy3CTcmDxHd6fmb2"
     },
     {
       "added_at": null,
@@ -627,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oblivion Seekers",
-        "url": "https://open.spotify.com/album/71SpM6HKDnEpG3EZHaFjvU"
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
       },
       "artists": [
         {
-          "name": "Ben Vida",
-          "url": "https://open.spotify.com/artist/7okN4lkIROS1IWsRgzRsXJ"
-        },
-        {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Margaret Hermant",
+          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
         }
       ],
-      "duration_ms": 410000,
-      "name": "New Distortion Properties",
-      "url": "https://open.spotify.com/track/7v4LxgFy3CTcmDxHd6fmb2"
+      "duration_ms": 49048,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7kGta0wRyFY4RuHaFVaSLu"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 5",
-        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Margaret Hermant",
-          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
-        }
-      ],
-      "duration_ms": 49048,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/7kGta0wRyFY4RuHaFVaSLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Multi Natural",
         "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
       },
@@ -719,6 +719,38 @@
       "duration_ms": 78762,
       "name": "Marmara Beach II",
       "url": "https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Holland Andrews",
+          "url": "https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g"
+        },
+        {
+          "name": "Lieselot de Wilde",
+          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        },
+        {
+          "name": "Ben Bertrand",
+          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
+        }
+      ],
+      "duration_ms": 202279,
+      "name": "Tongue Shaped Rock",
+      "url": "https://open.spotify.com/track/4Sb6iUxcBR9rvcCRmozowE"
     },
     {
       "added_at": null,
@@ -763,38 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 5",
-        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Holland Andrews",
-          "url": "https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g"
-        },
-        {
-          "name": "Lieselot de Wilde",
-          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        },
-        {
-          "name": "Ben Bertrand",
-          "url": "https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx"
-        }
-      ],
-      "duration_ms": 202279,
-      "name": "Tongue Shaped Rock",
-      "url": "https://open.spotify.com/track/4Sb6iUxcBR9rvcCRmozowE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Multi Natural",
         "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
       },
@@ -827,82 +827,6 @@
       "duration_ms": 125000,
       "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
       "url": "https://open.spotify.com/track/2ZXR6GNwSfgPuUa7KXr1Dk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 321283,
-      "name": "Shadow Sun",
-      "url": "https://open.spotify.com/track/6RQDjmEp3Yi6Wul3kAogU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 387613,
-      "name": "Remote Polyphony",
-      "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Multi Natural",
-        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Lair 10",
-      "url": "https://open.spotify.com/track/4ICfUmLK13c9zPEggxIbbf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Fields of Aloe Vera",
-      "url": "https://open.spotify.com/track/3u9hSHYGb3wKCYIaCBCAHV"
     },
     {
       "added_at": null,
@@ -947,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 350280,
-      "name": "Doorway",
-      "url": "https://open.spotify.com/track/1M5a1vf7DLdJCAosoXvsgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No. 3",
         "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
       },
@@ -979,6 +883,30 @@
       "duration_ms": 327140,
       "name": "Robert Earl",
       "url": "https://open.spotify.com/track/6RrnLXccF00Fh6iA9ZuPiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 387613,
+      "name": "Remote Polyphony",
+      "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
     },
     {
       "added_at": null,
@@ -999,6 +927,78 @@
       "duration_ms": 68624,
       "name": "Messengers of the Rains",
       "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Multi Natural",
+        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Lair 10",
+      "url": "https://open.spotify.com/track/4ICfUmLK13c9zPEggxIbbf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 321283,
+      "name": "Shadow Sun",
+      "url": "https://open.spotify.com/track/6RQDjmEp3Yi6Wul3kAogU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 350280,
+      "name": "Doorway",
+      "url": "https://open.spotify.com/track/1M5a1vf7DLdJCAosoXvsgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Fields of Aloe Vera",
+      "url": "https://open.spotify.com/track/3u9hSHYGb3wKCYIaCBCAHV"
     }
   ],
   "unique_name": "This Is Christina Vantzou",

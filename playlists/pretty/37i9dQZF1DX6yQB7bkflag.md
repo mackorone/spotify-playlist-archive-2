@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Salma Salsabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,564 likes - 99 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,566 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 |
 | 2 | [Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w) | 1:55 |
 | 3 | [Ancika \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/1ap7BXSR0cpWezixdAzfT9) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Ancika \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/2FAe6WqwK377VOzUXO9ug8) | 3:18 |
-| 4 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 4 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 5 | [Sederhana](https://open.spotify.com/track/03s6vDyVEunObMIbnd5Naj) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sederhana](https://open.spotify.com/album/62Rt09IpnlZPyqkpQaXQTa) | 4:05 |
 | 6 | [I Love You](https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [Love, Kris Dayanti](https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi) | 4:20 |
 | 7 | [ORIGAMI!](https://open.spotify.com/track/094wH38ECeDIUkoBsfjwO7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [ORIGAMI!](https://open.spotify.com/album/5k3UPN6pjUxuktIaTLV32J) | 2:34 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 55473,
+  "num_followers": 55496,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "af55AAAAAADXdnagv24MI31a1tY1tZdN",
+  "snapshot_id": "af/KgAAAAAC6PiBC7jqi4I0OJ5IGRDZE",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe"
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 227488,
-      "name": "In Agreement",
-      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
+      "duration_ms": 222000,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe"
     },
     {
       "added_at": null,

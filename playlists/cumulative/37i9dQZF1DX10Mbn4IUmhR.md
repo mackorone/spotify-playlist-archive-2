@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Ben Rodrigues
 
-788 songs - 1 day 17 hr 46 min
+790 songs - 1 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 | 2026-03-13 |  |
 | [Feelings](https://open.spotify.com/track/4bHZTWujvLTAeQRNjvp1DA) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [Feelings](https://open.spotify.com/album/6fOQIwSV5BSjjtrliXEmHo) | 2:22 | 2024-06-27 | 2024-07-12 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-11 | 2024-07-19 |
+| [Figments Of My Imagination](https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Figments Of My Imagination](https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv) | 3:15 | 2026-05-08 |  |
 | [Figure Out the Rest](https://open.spotify.com/track/6V6N55Y0w67IC6reGDpl2t) | [Naomi Grace](https://open.spotify.com/artist/1eY32Co0UJkOTfq8ijVkOL) | [Figure Out the Rest](https://open.spotify.com/album/1DjvcK7HT4bjEaRdfYegLQ) | 2:57 | 2025-04-17 | 2025-05-23 |
 | [Finding Your Way](https://open.spotify.com/track/71tTyEP5OGWkFb31uVO2Tb) | [SONIQUE](https://open.spotify.com/artist/4aEmFQl0nUAtz6Rb0QreCB) | [Finding Your Way](https://open.spotify.com/album/4XpGeTb0iZTkdNShIQi7kE) | 3:48 | 2024-10-18 | 2024-11-08 |
 | [Finer Things](https://open.spotify.com/track/40KJpNWsFME1JLB0AGR1lG) | [Sasha Taylor](https://open.spotify.com/artist/0Zp3FfkS4BykhoWODSYQyP) | [Finer Things](https://open.spotify.com/album/13XtvJ1wTlv5bgYwbzx7EW) | 4:00 | 2025-04-10 | 2025-06-27 |
@@ -391,6 +392,7 @@
 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 | 2025-07-31 | 2025-08-15 |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-21 | 2025-10-04 |
 | [Let Me Love You Now](https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 | 2025-04-24 | 2025-05-02 |
+| [Letting go](https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Letting go](https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c) | 2:40 | 2026-05-08 |  |
 | [Liar](https://open.spotify.com/track/2lWgENmedXJTX1NEAugxuJ) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Liar](https://open.spotify.com/album/02kIBm2xpaplAqBJTOyQAH) | 3:15 | 2025-05-22 | 2025-05-30 |
 | [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 | 2026-05-08 |  |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-06-27 | 2024-07-12 |
@@ -669,7 +671,7 @@
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2026-01-23 |  |
 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 | 2025-04-17 | 2025-06-16 |
 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-05-01 | 2025-05-16 |
-| [THE GOOD LIFE](https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [THE GOOD LIFE](https://open.spotify.com/album/2H59dpijPa8ulFwZKquwRQ) | 2:46 | 2026-03-06 |  |
+| [THE GOOD LIFE](https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [THE GOOD LIFE](https://open.spotify.com/album/2H59dpijPa8ulFwZKquwRQ) | 2:46 | 2026-03-06 | 2026-05-12 |
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-06-06 | 2025-06-20 |
 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-06-26 | 2025-07-04 |
 | [The Last Goodbye](https://open.spotify.com/track/2hXMAR5vGgK4LzVORy6VJP) | [Darren Scharneck](https://open.spotify.com/artist/60gNiJdb4q1gsu8NvyZjQV) | [The Last Goodbye](https://open.spotify.com/album/1zfLP1s2WzUyaM36b38wIw) | 3:22 | 2024-10-10 | 2024-10-19 |
@@ -751,7 +753,7 @@
 | [What Would We Be](https://open.spotify.com/track/1qvlHpZkJ4k5scQQmsXFxU) | [Connor Rhys](https://open.spotify.com/artist/7BdkMsbkcYQ6BTB1dE3z42) | [What Would We Be](https://open.spotify.com/album/7CT2f6wbks43atFeUmoenC) | 3:10 | 2024-07-18 | 2024-07-27 |
 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-23 |  |
 | [What's the Rush](https://open.spotify.com/track/3iwUPL1ny23rUqDIp8E4mj) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Gun Boi Kaz](https://open.spotify.com/artist/7MwXfL45fq9pA1RwQHxhxy) | [What's the Rush](https://open.spotify.com/album/6prcGvTghWR0dRotSAF2Uh) | 3:01 | 2025-08-21 | 2025-08-30 |
-| [WHAT'S THE RUSH?!](https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [WHAT'S THE RUSH?!](https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR) | 3:20 | 2026-02-19 |  |
+| [WHAT'S THE RUSH?!](https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [WHAT'S THE RUSH?!](https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR) | 3:20 | 2026-02-19 | 2026-05-12 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-06-27 | 2024-07-12 |
 | [WHATEVERWHATEVER](https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [WHATEVERWHATEVER](https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne) | 2:28 | 2025-05-22 | 2025-07-01 |
 | [When I Rock](https://open.spotify.com/track/2rhbyFRywfyz5bhSSueF9B) | [NELVEN](https://open.spotify.com/artist/3bTVLN6ejuuyPR6zMIO6XG) | [When I Rock](https://open.spotify.com/album/1IRlGMEMemuatt2fAzZzd3) | 3:18 | 2024-10-18 | 2024-11-08 |

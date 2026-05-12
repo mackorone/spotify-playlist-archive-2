@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸    Cover: Thea Dora
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,138 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,142 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 41 | [Bobler](https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb) | [Bobler](https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE) | 2:41 |
 | 42 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
 | 43 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 |
-| 44 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 |
-| 45 | [Errr](https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Suisse air](https://open.spotify.com/artist/3aYP9prAwAH0eNSR4zMiZl) | [Errr](https://open.spotify.com/album/2y0oCsmZNt5cm9mxUvABFm) | 3:02 |
+| 44 | [Errr](https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Suisse air](https://open.spotify.com/artist/3aYP9prAwAH0eNSR4zMiZl) | [Errr](https://open.spotify.com/album/2y0oCsmZNt5cm9mxUvABFm) | 3:02 |
+| 45 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 |
 | 46 | [Anna](https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0) | [ABSURD](https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv) | [Anna](https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O) | 3:12 |
-| 47 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
-| 48 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 |
+| 47 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 |
+| 48 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
 | 49 | [Stay 4 U](https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Stay 4 U](https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7) | 3:04 |
 | 50 | [You Make a Fire, You Make a Camp](https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [You Make a Fire, You Make a Camp](https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I) | 8:53 |
 | 51 | [Uden Tøj På](https://open.spotify.com/track/2yJGqPpHkLEQJH1t1dKGyS) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Uden Tøj På](https://open.spotify.com/album/2Wulhz0KDC8b9ZHIAwL2gW) | 2:34 |

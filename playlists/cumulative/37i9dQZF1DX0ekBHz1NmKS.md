@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,257 songs - 4 day 21 hr 12 min
+2,258 songs - 4 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-13 | 2024-08-16 |
 | [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-23 | 2025-07-06 |
 | [Festen \- Remix](https://open.spotify.com/track/4aCfUbfu8NiacDnodIMvLc) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Festen \(Remix\)](https://open.spotify.com/album/11m5bfHgmwNncfAoTZK7Ge) | 2:37 | 2023-11-03 | 2024-02-09 |
+| [Festens Mamma](https://open.spotify.com/track/7kK1ywBspHEJ5GCvXNxQbu) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Festens Mamma](https://open.spotify.com/album/2m6qmLHM0w59eintWRXnlB) | 2:36 | 2026-05-07 |  |
 | [FFL](https://open.spotify.com/track/4Ar2EzzoTHOxemFzFSBy0J) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [FFL](https://open.spotify.com/album/67XbEzL2I0E1nRBsp76azd) | 2:49 | 2024-04-19 | 2024-05-24 |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-05-16 | 2024-06-14 |
 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 | 2023-08-03 | 2023-11-17 |
@@ -1933,7 +1934,7 @@
 | [Tell Me](https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Tell Me](https://open.spotify.com/album/35ysKlLuG8CpXGCQbNFgKo) | 3:10 | 2022-03-17 | 2022-07-29 |
 | [Tell Me Now Honestly](https://open.spotify.com/track/5zJVtravUVXiPynWGClzml) | [Emilia Sjöholm](https://open.spotify.com/artist/5E1Pv5TPNTWAB7QhBbP0Qk) | [Tell Me Now Honestly](https://open.spotify.com/album/68D0lbjah0rB0fGYdLvmnN) | 2:55 | 2024-02-08 | 2024-02-25 |
 | [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-28 | 2022-12-08 |
-| [Temporärt](https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm) | 3:16 | 2026-01-15 |  |
+| [Temporärt](https://open.spotify.com/track/4m1wa9jl3VM5vEJYyeVDT1) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/3PGVSKT85RTFpkavKDVpFm) | 3:16 | 2026-01-15 | 2026-05-12 |
 | [Tenerife Sea](https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [living room sessions](https://open.spotify.com/album/7nyjhmJfuB4xyfx0lVx3A0) | 4:31 | 2021-12-16 | 2022-03-09 |
 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 | 2025-05-01 | 2025-09-19 |
 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-02 | 2024-02-09 |

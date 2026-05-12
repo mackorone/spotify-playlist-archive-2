@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Olamide, Adekunle Gold, Uncle Waffles, Jeriq, Falana and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,654 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,731 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

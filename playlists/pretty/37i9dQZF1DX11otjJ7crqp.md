@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Lykke Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,749 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,113 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 25 | [Another Kind of Love](https://open.spotify.com/track/56qfd8fdGUBIlm2sfa5qSU) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Another Kind of Love](https://open.spotify.com/album/3xnrpWbWm0lJ2Jcl08jgvD) | 3:46 |
 | 26 | [something i'm not](https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [something i'm not](https://open.spotify.com/album/0qdofNpXH1yUQjdja6z0Xn) | 2:34 |
 | 27 | [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 |
-| 28 | [Aftertaste \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
+| 28 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 |
 | 29 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
 | 30 | [Woe Is Me](https://open.spotify.com/track/7ru96z0mnGp61wlgaSg4dC) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Woe Is Me](https://open.spotify.com/album/1MSkrcKqmJE2uUB9V9ooqM) | 2:52 |
 | 31 | [Macramé \(ft\. Mei Semones\)](https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Macramé](https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [In All Of My Tomorrows](https://open.spotify.com/track/7j8M0MdmOs2sacS1JAcP2y) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [In All Of My Tomorrows](https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg) | 3:29 |
 | 100 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 |
 
-Snapshot ID: `AAAAAGmZeyxorxbyarPIFZreiKXtDulI`
+Snapshot ID: `AAAAAKspr8oxubKAaZmIoQ4/6SqPHWVR`

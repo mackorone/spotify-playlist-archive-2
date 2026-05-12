@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Roxy Dekker
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,491 likes - 65 songs - 2 hr 59 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,485 likes - 65 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

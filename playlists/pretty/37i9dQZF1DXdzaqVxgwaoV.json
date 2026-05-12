@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145173,
+  "num_followers": 145169,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los Exitazos De Lupe Y Polo",
-        "url": "https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS"
-      },
-      "artists": [
-        {
-          "name": "Lupe Y Polo",
-          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
-        }
-      ],
-      "duration_ms": 150952,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 157866,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Los Exitazos De Lupe Y Polo",
+        "url": "https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS"
+      },
+      "artists": [
+        {
+          "name": "Lupe Y Polo",
+          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+        }
+      ],
+      "duration_ms": 150952,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Y Polo",
-          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
-        }
-      ],
-      "duration_ms": 156177,
-      "name": "De Lejos Tierras",
-      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Frank Tony y sus Reales: el Pueblo te Aclama",
         "url": "https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183266,
       "name": "Dos Corazones",
       "url": "https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Y Polo",
+          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+        }
+      ],
+      "duration_ms": 156177,
+      "name": "De Lejos Tierras",
+      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Con el Triunfo en las Manos",
-        "url": "https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG"
-      },
-      "artists": [
-        {
-          "name": "El Charrito Negro",
-          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Loco por Amor",
-      "url": "https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los Grandes Exitos de Odilio Gonz\u00e1lez: Vol. 7",
         "url": "https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 185000,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/13BtA47QqoO57N9H4XHLps"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Con el Triunfo en las Manos",
+        "url": "https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG"
+      },
+      "artists": [
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "Loco por Amor",
+      "url": "https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Exitos Populares",
-        "url": "https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx"
-      },
-      "artists": [
-        {
-          "name": "Segundo Rosero",
-          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Como Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Puro Chucu-Chucu 4",
         "url": "https://open.spotify.com/album/297eZjc8J9pQu8X0fiM3PN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 199466,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/36preOVVnbPYLqGkBHbOz8"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Exitos Populares",
+        "url": "https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx"
+      },
+      "artists": [
+        {
+          "name": "Segundo Rosero",
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Como Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Colecci\u00f3n \u00c9xitos: Pastor L\u00f3pez, Vol. 1",
-        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "S\u00f3lo un Cigarro",
-      "url": "https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Maldita Traicion",
         "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188386,
       "name": "Maldita Traicion",
       "url": "https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Colecci\u00f3n \u00c9xitos: Pastor L\u00f3pez, Vol. 1",
+        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "S\u00f3lo un Cigarro",
+      "url": "https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a"
+        "name": "De Vuelta Al Bar",
+        "url": "https://open.spotify.com/album/0h0SCGByCzX6jWufSy6EvN"
       },
       "artists": [
         {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
         }
       ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj"
+      "duration_ms": 167158,
+      "name": "De Bar En Bar",
+      "url": "https://open.spotify.com/track/17OmeFVo1HtzsRFWJM1lfY"
     }
   ],
   "unique_name": "Viejoteca",

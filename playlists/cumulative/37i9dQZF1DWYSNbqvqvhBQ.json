@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: MICHA (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artist)",
+  "description": "Nieuwe tijdloze muziek. Cover: Lewis Capaldi",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 233026,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 167485,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm"
@@ -4472,7 +4472,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 172533,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ"
@@ -5657,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Hold Me In The Dark",
+        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Hold Me In The Dark",
+      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+    },
+    {
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/73b2pnXNe6g8geL9EjPHkW"
       },
@@ -5766,6 +5784,28 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196012,
+      "name": "HOME TO MOTHER",
+      "url": "https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut"
     },
     {
       "album": {
@@ -6925,6 +6965,24 @@
     },
     {
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
+    },
+    {
+      "album": {
         "name": "In The Water",
         "url": "https://open.spotify.com/album/2khuB7jsFLFzJWPRwjjMA7"
       },
@@ -7936,6 +7994,24 @@
       "duration_ms": 181475,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/4YNoaytMcFUCGXXxZfXLO1"
+    },
+    {
+      "album": {
+        "name": "Flowers Grow In The Saddest Parts",
+        "url": "https://open.spotify.com/album/0ymtVPIwWSYo4iTQwPEDqw"
+      },
+      "artists": [
+        {
+          "name": "Silver Lake",
+          "url": "https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Little Julie",
+      "url": "https://open.spotify.com/track/4R81EpbX3pkXUfnwnVJuME"
     },
     {
       "album": {
@@ -11120,7 +11196,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 175800,
       "name": "Say Something You Mean",
       "url": "https://open.spotify.com/track/1FDp21yhgv3qaxbpxzWJ9E"
@@ -11924,6 +12000,24 @@
       "duration_ms": 203433,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/1PXiU7yaE1iAhz8XyqhJaK"
+    },
+    {
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb"
     },
     {
       "album": {
@@ -13180,7 +13274,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 193500,
       "name": "Tessie",
       "url": "https://open.spotify.com/track/65WBHJ085zMJ8mzHXvlG4v"

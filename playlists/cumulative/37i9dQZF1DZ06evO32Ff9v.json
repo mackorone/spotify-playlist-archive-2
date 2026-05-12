@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-12",
       "duration_ms": 206593,
       "name": "Mando R1",
       "url": "https://open.spotify.com/track/4Dp4yBwownUl5hKlvOkfoI"
@@ -1628,6 +1628,28 @@
       "duration_ms": 199000,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/7ojxKoDddEnm7dOuQrCi0Z"
+    },
+    {
+      "album": {
+        "name": "NO SOMOS IGUALES",
+        "url": "https://open.spotify.com/album/4uhdB3fEGr3wtPAUCTA3JD"
+      },
+      "artists": [
+        {
+          "name": "El Filly Y Sus Aliados",
+          "url": "https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125772,
+      "name": "NO SOMOS IGUALES",
+      "url": "https://open.spotify.com/track/5UQJnZD47O3Zldwy3p6sgY"
     },
     {
       "album": {

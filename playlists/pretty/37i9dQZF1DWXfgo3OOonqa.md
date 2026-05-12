@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,894 likes - 99 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,890 likes - 99 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BUNGYJUMP](https://open.spotify.com/track/3Y2yYaPE9UT8cgtuuLXBvF) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [BUNGYJUMP](https://open.spotify.com/album/6jW0jjwQ8zitdN40l3X1II) | 2:26 |
 | 2 | [RAP CAP](https://open.spotify.com/track/7yRxDuzvyWYwp1CM6Fc5ek) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [RAP CAP](https://open.spotify.com/album/1ANo7sdhW8BBXeVqlVFFDl) | 2:54 |
-| 3 | [IN DA CLUB](https://open.spotify.com/track/7k8EU2zUZmaM4JIA52gnPK) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [IN DA CLUB](https://open.spotify.com/album/6JqgXUKCbKwo5IvZQLzcN8) | 1:56 |
-| 4 | [Chosen](https://open.spotify.com/track/2vVrNfWxJWFRBXvSkqabR4) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Chosen](https://open.spotify.com/album/41aNTUFCBSzNTdVj5Vu9WM) | 2:18 |
+| 3 | [Chosen](https://open.spotify.com/track/2vVrNfWxJWFRBXvSkqabR4) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Chosen](https://open.spotify.com/album/41aNTUFCBSzNTdVj5Vu9WM) | 2:18 |
+| 4 | [IN DA CLUB](https://open.spotify.com/track/7k8EU2zUZmaM4JIA52gnPK) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [IN DA CLUB](https://open.spotify.com/album/6JqgXUKCbKwo5IvZQLzcN8) | 1:56 |
 | 5 | [Pimp](https://open.spotify.com/track/660TO98oRtW8Sky6qNDzL7) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Pimp](https://open.spotify.com/album/5i4TFRJvUvsXtg5dGdyKCX) | 1:50 |
 | 6 | [Cry me a river](https://open.spotify.com/track/5gx9amnxJZ8150SunVLkTz) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Cry me a river](https://open.spotify.com/album/1z3lVThTF2aRuyNGb502FS) | 2:24 |
-| 7 | [DJUPT](https://open.spotify.com/track/6cdE7Usaj56P3fxvIhY4Nq) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DJUPT](https://open.spotify.com/album/3gKNEsYiOVEcj3tvRevBDC) | 2:26 |
-| 8 | [Span](https://open.spotify.com/track/2YTyG2NLCd6gFJjAXlgHuU) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [PRODUKT AV MIN MILJÖ](https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ) | 3:03 |
-| 9 | [Tårar Under Regn](https://open.spotify.com/track/5ya4qhXRXjgXDFAa8x2k6y) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Tårar Under Regn](https://open.spotify.com/album/1eLYBYstORDqupFUkgZUnO) | 2:29 |
-| 10 | [LENG](https://open.spotify.com/track/1PDjaOh7v1owm1RFowPCBi) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [LENG](https://open.spotify.com/album/1sk9ipHt7r2ngdhWJpq75L) | 1:38 |
-| 11 | [GANG GANG \(feat\. Rem1\)](https://open.spotify.com/track/34oHZL8dmDG6bEBAaSc58P) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2), [Rem1](https://open.spotify.com/artist/3ekEma019JsOqgHb2F5CwS) | [GANG GANG \(feat\. Rem1\)](https://open.spotify.com/album/1Cq746RtHnAIviV9ROX9Qy) | 2:25 |
-| 12 | [Kärlek & brott](https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & brott](https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS) | 2:06 |
-| 13 | [LAY LOW](https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [LAY LOW](https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w) | 2:32 |
-| 14 | [WESH LA GANG](https://open.spotify.com/track/5tNTW3QuBECwhVupKruzoQ) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [WESH LA GANG](https://open.spotify.com/album/7hAJzI63URjsOxhLGnhhXs) | 1:57 |
+| 7 | [Tårar Under Regn](https://open.spotify.com/track/5ya4qhXRXjgXDFAa8x2k6y) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Tårar Under Regn](https://open.spotify.com/album/1eLYBYstORDqupFUkgZUnO) | 2:29 |
+| 8 | [WESH LA GANG](https://open.spotify.com/track/5tNTW3QuBECwhVupKruzoQ) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [WESH LA GANG](https://open.spotify.com/album/7hAJzI63URjsOxhLGnhhXs) | 1:57 |
+| 9 | [Span](https://open.spotify.com/track/2YTyG2NLCd6gFJjAXlgHuU) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [PRODUKT AV MIN MILJÖ](https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ) | 3:03 |
+| 10 | [DJUPT](https://open.spotify.com/track/6cdE7Usaj56P3fxvIhY4Nq) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [DJUPT](https://open.spotify.com/album/3gKNEsYiOVEcj3tvRevBDC) | 2:26 |
+| 11 | [LENG](https://open.spotify.com/track/1PDjaOh7v1owm1RFowPCBi) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [LENG](https://open.spotify.com/album/1sk9ipHt7r2ngdhWJpq75L) | 1:38 |
+| 12 | [GANG GANG \(feat\. Rem1\)](https://open.spotify.com/track/34oHZL8dmDG6bEBAaSc58P) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2), [Rem1](https://open.spotify.com/artist/3ekEma019JsOqgHb2F5CwS) | [GANG GANG \(feat\. Rem1\)](https://open.spotify.com/album/1Cq746RtHnAIviV9ROX9Qy) | 2:25 |
+| 13 | [Kärlek & brott](https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & brott](https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS) | 2:06 |
+| 14 | [LAY LOW](https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [LAY LOW](https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w) | 2:32 |
 | 15 | [TARGET](https://open.spotify.com/track/4esPvN9uT4Bc2cFo1IK5Pd) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [TARGET](https://open.spotify.com/album/1ID3kRzdIajGfhU9oRl9Mn) | 1:50 |
 | 16 | [SIDE\-EYE](https://open.spotify.com/track/2mweql8LSQ6BIOHzPVLlT8) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [SIDE\-EYE](https://open.spotify.com/album/3ocMx9VaFLyEKr4GhMO3ip) | 2:23 |
 | 17 | [FINAL](https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FINAL](https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv) | 2:08 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 98 | [NICHOLAS CAGE](https://open.spotify.com/track/7EvAo4mAZkA3WP5fIcYmEI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Under Tiden 4](https://open.spotify.com/album/2oLX3MCSlBWGWpPyuoMxFG) | 2:52 |
 | 99 | [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 |
 
-Snapshot ID: `AAAAAEQAqGLyyxyQQD3V7pUt8wkB3FeM`
+Snapshot ID: `AAAAAOvxXbcDXGLU1SVdjHWr0IH3HpyC`

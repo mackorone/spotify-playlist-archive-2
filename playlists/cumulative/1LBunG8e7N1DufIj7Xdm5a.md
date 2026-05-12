@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,368 songs - 9 day 17 hr 1 min
+4,375 songs - 9 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [American Dream \(one another\) \[another\]](https://open.spotify.com/track/6cAefOTQtqvqF68FGpKNb3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop/Punk](https://open.spotify.com/album/6x7tjBoPAnHgElvrRRwd1g) | 4:00 | 2025-07-25 |  |
 | [AMIRI TRENDSETTER](https://open.spotify.com/track/6Jc7EFvpBqxZQqkXhnVlCN) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [War Ready](https://open.spotify.com/album/2mDPUgNe4bXjo7ofYvEbfI) | 2:32 | 2025-07-28 |  |
 | [Amor a Primera Vista](https://open.spotify.com/track/0js6G6gkVUG8RsJ4bjG0Wo) | [Fabi Oterix](https://open.spotify.com/artist/2qFFYkDlojU3ca7hQmwKJK) | [Amor a Primera Vista](https://open.spotify.com/album/5G1hCb3YKfJcvtMjB7SEYI) | 2:46 | 2025-07-03 |  |
+| [Amor Carnal](https://open.spotify.com/track/5VVqYfF4DjuTp7Je0vCGYe) | [Royad](https://open.spotify.com/artist/4IlKoBCUtrGWnFgQf0wtyO) | [Amor Carnal](https://open.spotify.com/album/0wzXxsGWg3Y0gI5ibGpEB7) | 4:19 | 2026-05-11 |  |
 | [AmoR Conversely](https://open.spotify.com/track/6vg64cW3pYw3og3vEYPw21) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [AmoR Conversely](https://open.spotify.com/album/0DgMBeP9Y4gbpd6c9Ry7R2) | 3:27 | 2023-07-21 |  |
 | [Amorama](https://open.spotify.com/track/5baWOebpKF1L0eYKjdPDo6) | [Ivan Cortes](https://open.spotify.com/artist/15aPeDSL8oBv1kJamlqkWo), [Zekshi](https://open.spotify.com/artist/2WiNjEd8sRr9Gb7KBKjmrJ), [Ricardo Solis](https://open.spotify.com/artist/2CX2LdpmB1MaqsDPbCErlE) | [Soul Pacific](https://open.spotify.com/album/11fI2DyukEEFAYWtv00lZX) | 3:15 | 2025-04-07 |  |
 | [Amore 'E Napoli](https://open.spotify.com/track/2wT8N0fyXDfUnuhPnH9g0L) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:34 | 2025-09-18 |  |
@@ -716,7 +717,9 @@
 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:40 | 2026-04-30 |  |
 | [Conmigo](https://open.spotify.com/track/27GYP4UlgCfm8yrxuXeSjQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 3:14 | 2025-09-18 |  |
 | [Conmigo \(another\)](https://open.spotify.com/track/0ctLF1fhNq9tQU1SjNmMnW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Latin American Dance Music](https://open.spotify.com/album/1Y6WnTXfRkYnbOg87hIbPS) | 3:01 | 2025-09-18 |  |
+| [Connected](https://open.spotify.com/track/68vmXU8jHve4HGQhtXmFwC) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [Connected](https://open.spotify.com/album/6b4JrYXARTkErb7U7b5ui5) | 4:38 | 2026-05-11 |  |
 | [CONNECTED BY LOVE](https://open.spotify.com/track/5FwgfY9WUlSOMbAYBmjxee) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [CONNECTED BY LOVE](https://open.spotify.com/album/19xXvfgxjMK9M6NDbtC8cY) | 4:15 | 2025-05-28 |  |
+| [Connected Harmonic](https://open.spotify.com/track/3hS2iEaecBYQn1XOYXQoWl) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [Connected](https://open.spotify.com/album/6b4JrYXARTkErb7U7b5ui5) | 5:02 | 2026-05-11 |  |
 | [Consciente](https://open.spotify.com/track/3Bx9W1P1J9mfGtxtlBnY5g) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 3:05 | 2026-03-15 |  |
 | [Consider Me](https://open.spotify.com/track/5s0JgKdN9NsSjJSKREQLyj) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 2:26 | 2025-06-04 |  |
 | [Contratto Sociale](https://open.spotify.com/track/6ZJa46jYozr63nAC9hwmOn) | [Guida Galattica](https://open.spotify.com/artist/6dALgmDuM8lbsYjTRh7xlv) | [Contratto Sociale](https://open.spotify.com/album/54a1IfFEuW4ggpQASC1mcJ) | 3:15 | 2025-06-01 |  |
@@ -1718,6 +1721,7 @@
 | [Heatbeat groove](https://open.spotify.com/track/6ioYxOuwOOGdF27XRTziy9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:14 | 2025-09-17 |  |
 | [Heats \(another\)](https://open.spotify.com/track/5XyeJl5QRuTVX41CA1zvsk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:54 | 2025-09-17 |  |
 | [heaven in a wild flower](https://open.spotify.com/track/41Lm3GNicliYsJbCgYsEVP) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:24 | 2026-02-01 |  |
+| [Heaven is Lying Down](https://open.spotify.com/track/02Io4cV8WNNfnf81UWciem) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [Heaven is Lying Down](https://open.spotify.com/album/3tz842t9Z72OBYoG8f4d3k) | 3:24 | 2026-05-11 |  |
 | [Heaven's Light](https://open.spotify.com/track/7BEbyplNj2o6EGWDLZuiDr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:46 | 2025-09-19 |  |
 | [Heaven's Light \(another\)](https://open.spotify.com/track/3JtcG0HLLWUshtTp8Id7zs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 1:59 | 2025-09-19 |  |
 | [Heavy Candy Dreams](https://open.spotify.com/track/7LqjTYlvMzvZDgaUoVV2Vr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 2:54 | 2025-09-19 |  |
@@ -2818,6 +2822,7 @@
 | [Out of Time](https://open.spotify.com/track/6lNfCJse7oqn0naz2p4Mtv) | [Tanjiro](https://open.spotify.com/artist/0awEVSjFMMYUNDvmakeDId) | [Out of Time](https://open.spotify.com/album/0eEVRbaYam92woQeOPgJE5) | 2:18 | 2025-06-23 |  |
 | [Outcast](https://open.spotify.com/track/1biv377kXl3TcHMdJp92T9) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:04 | 2025-04-09 |  |
 | [Outlaw](https://open.spotify.com/track/44ayOGCqIdP9EWNL7PjZfH) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Outlaw](https://open.spotify.com/album/4yMJnFB0BcGCrdPBsKlQ4L) | 3:23 | 2025-01-27 |  |
+| [Outlaw](https://open.spotify.com/track/6rGaEVsfWKNjsciPwtXQpC) | [Sunset Black](https://open.spotify.com/artist/3pARkfTZuMZlfV8WujY3gk), [Gent Jack](https://open.spotify.com/artist/2AbQjpqeCOrrCZfMPYlfeY) | [Outlaw](https://open.spotify.com/album/7sVv57xJ2OgY0tTX902Dno) | 2:24 | 2026-05-11 |  |
 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-05-07 |  |
 | [OUTSIDE INSIDE](https://open.spotify.com/track/2rezhgCrZIjXalg8hRl6PS) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [OUTSIDE INSIDE](https://open.spotify.com/album/3qP9IXW5Il0PEraTKQ3ksZ) | 3:38 | 2025-05-31 |  |
 | [Overdrive](https://open.spotify.com/track/2Tn8LRCMlEMA3VWzMKn07v) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 2:48 | 2025-09-26 |  |
@@ -3561,6 +3566,7 @@
 | [Stay](https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:24 | 2026-03-15 |  |
 | [Stay](https://open.spotify.com/track/113wIABsJVrXYf9puykUF5) | [Matweeds](https://open.spotify.com/artist/1hhfzEGdD71KFV9WkGpfsn) | [Hooligans in the Vestibule](https://open.spotify.com/album/2CvgU0mE1MriGoNny2LsTL) | 3:59 | 2025-11-05 |  |
 | [Stay With Me](https://open.spotify.com/track/4qozn0yISGBNxxGhsH4hyv) | [Rohit Rajaseker](https://open.spotify.com/artist/4xCEVoX4QHfkM5RJIXx8jc) | [H.E.A.R.T.](https://open.spotify.com/album/2nkaqm0ics04YriomuH7j0) | 3:23 | 2025-06-09 |  |
+| [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2026-05-11 |  |
 | [Stella di ferragosto](https://open.spotify.com/track/2kVhL7ijpEMIdWv8MJ70sP) | [Corky](https://open.spotify.com/artist/4nYLstc0eEop9gEh2FTa2T) | [Canzonette da Riviera](https://open.spotify.com/album/2Nw5snXxAPxANoR62RFU5x) | 3:36 | 2025-06-25 |  |
 | [step in my world](https://open.spotify.com/track/0P9nRxa4OSSRyP9qjMRFUR) | [decede](https://open.spotify.com/artist/4qEnQNYFL7DxFeAqYEoTcc) | [survivor day](https://open.spotify.com/album/539pZ4Bm0CM74thBi1HHWD) | 3:57 | 2026-01-04 |  |
 | [Stepping Across \- DeFucked Mix](https://open.spotify.com/track/1b06itKv6G78Ry5s1T6tPU) | [Close Lobsters](https://open.spotify.com/artist/6v8lYzIVcmeuPkoobFl7Dx) | [Stepping Across](https://open.spotify.com/album/2uYZqj3zMkJMUv7mhF8Xc7) | 4:29 | 2025-11-04 |  |
@@ -3936,6 +3942,7 @@
 | [true perspective](https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [true perspective](https://open.spotify.com/album/6gY2HApVOnrMbn4y47Im0q) | 2:05 | 2025-07-28 |  |
 | [Truman Show](https://open.spotify.com/track/1ydnnYfGssqlnLsfJX3Ked) | [Guida Galattica](https://open.spotify.com/artist/6dALgmDuM8lbsYjTRh7xlv) | [Truman Show](https://open.spotify.com/album/3zvQuQUm2qMwDOD49kRNi1) | 3:29 | 2025-05-27 |  |
 | [Truth Shows Up](https://open.spotify.com/track/7L3KxmC2uRc6fRL3lheVL2) | [PaSK](https://open.spotify.com/artist/0ubHnI1tYSkVVxslIkr3gO) | [Truth Shows Up](https://open.spotify.com/album/5DYRpTEVeQOoaClbDLMmZS) | 3:35 | 2025-03-03 |  |
+| [Truth Without A Voice](https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7) | [Changeover](https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg) | [Truth Without A Voice](https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt) | 3:10 | 2026-05-11 |  |
 | [Tränen](https://open.spotify.com/track/5QMOsZYAXmC74zyNA6MVY1) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Tränen](https://open.spotify.com/album/3vqsRlHgBSdKnWWUziTpji) | 3:12 | 2025-05-26 |  |
 | [Tu dors](https://open.spotify.com/track/1Gxj17JyqnTezJkK62eVrM) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [Weedlack](https://open.spotify.com/artist/01BvBbo2LhDw1fwCnr7iYL) | [Tu dors](https://open.spotify.com/album/4FPji3VCeIl6Um0xkKZEOk) | 2:56 | 2025-06-05 |  |
 | [Tu mirada en mi espalda](https://open.spotify.com/track/1F4SNolb3rli87xEgepCtM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Flores de Loto](https://open.spotify.com/album/6K4mDXoXfAGkWmestJpVSm) | 3:32 | 2025-06-16 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Harkirat Sangha, Sardar Khehra & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,099 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,103 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Governor](https://open.spotify.com/track/4jAMhFLmql0sv9xxpbIyEV) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT) | [Governor](https://open.spotify.com/album/7G2SOkDqEBp0iA8Unv3qQA) | 2:10 |
+| 1 | [Governor](https://open.spotify.com/track/4jAMhFLmql0sv9xxpbIyEV) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Governor](https://open.spotify.com/album/7G2SOkDqEBp0iA8Unv3qQA) | 2:10 |
 | 2 | [True Talks](https://open.spotify.com/track/5vkwXctesWq52dh3pjvABi) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [G\-Funk](https://open.spotify.com/artist/5oBYyw1eMhL87FPc01XGnX) | [True Talks](https://open.spotify.com/album/6EwWkNl4a6411cClsUcZC9) | 2:30 |
 | 3 | [Kit Kat](https://open.spotify.com/track/6zCTD0RX9zFPxzJJi8h5uX) | [Lil Pakk](https://open.spotify.com/artist/5jNlHj31zffxmQ8KpsUGQQ), [Gstax](https://open.spotify.com/artist/4IZvaXUuz67U9wHvqaJHKN), [A\-MAN](https://open.spotify.com/artist/5uiBqSw8VPQyxbRsh7nROd) | [FourPlay](https://open.spotify.com/album/6xDkDr1KC9PO1Y17U8U7QQ) | 2:38 |
 | 4 | [Drunk and Drive](https://open.spotify.com/track/2SoDgBxLp36cLYgpf1s8vH) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [Drunk and Drive](https://open.spotify.com/album/3SK2eSd7a5jSEv58gTZU6Q) | 3:15 |
